@@ -1,0 +1,882 @@
+[
+    {
+        "q": "What is the meaning of the word 'Quran'?",
+        "options": [
+            "The Book",
+            "The Recitation",
+            "The Guidance",
+            "The Truth"
+        ],
+        "answer": 1,
+        "explanation": "The word 'Quran' comes from the Arabic root 'qara-a', meaning 'to read' or 'to recite'."
+    },
+    {
+        "q": "Through which angel was the Quran revealed to Prophet Muhammad (PBUH)?",
+        "options": [
+            "Angel Mika'eel",
+            "Angel Israfeel",
+            "Angel Jibreel",
+            "Angel Izraeel"
+        ],
+        "answer": 2,
+        "explanation": "Angel Jibreel (Gabriel) brought the revelations from Allah to the Prophet (PBUH) over a period of 23 years."
+    },
+    {
+        "q": "How many verses (Ayahs) are there approximately in the Holy Quran?",
+        "options": [
+            "5555",
+            "6236",
+            "6666",
+            "7777"
+        ],
+        "answer": 1,
+        "explanation": "There are 6,236 verses in the Quran. The number 6,666 is a widely cited traditional estimation but 6,236 is the precise count."
+    },
+    {
+        "q": "Which Surah is the shortest in the Holy Quran?",
+        "options": [
+            "Surah Al-Ikhlas",
+            "Surah Al-Asr",
+            "Surah Al-Kauthar",
+            "Surah Al-Falaq"
+        ],
+        "answer": 2,
+        "explanation": "Surah Al-Kauthar contains only three verses, making it the shortest Surah."
+    },
+    {
+        "q": "Which Surah is called the 'Heart of the Quran'?",
+        "options": [
+            "Surah Yaseen",
+            "Surah Ar-Rahman",
+            "Surah Al-Mulk",
+            "Surah Al-Fatiha"
+        ],
+        "answer": 0,
+        "explanation": "Prophet Muhammad (PBUH) reportedly said that Surah Yaseen is the heart of the Quran."
+    },
+    {
+        "q": "Which Surah is called 'Uroos-ul-Quran' (The Bride of the Quran)?",
+        "options": [
+            "Surah Yaseen",
+            "Surah Ar-Rahman",
+            "Surah Al-Waqiah",
+            "Surah Al-Muzammil"
+        ],
+        "answer": 1,
+        "explanation": "Surah Ar-Rahman is known as the Bride of the Quran because of its beautiful rhythm and descriptions of Allah's favors."
+    },
+    {
+        "q": "Which prophet is mentioned most frequently in the Holy Quran?",
+        "options": [
+            "Prophet Muhammad (PBUH)",
+            "Prophet Musa (AS)",
+            "Prophet Ibrahim (AS)",
+            "Prophet Isa (AS)"
+        ],
+        "answer": 1,
+        "explanation": "Prophet Musa (AS) is mentioned 136 times in various Surahs."
+    },
+    {
+        "q": "Which Surah has 'Bismillah' at the beginning of every verse?",
+        "options": [
+            "None",
+            "Surah Al-Fatiha",
+            "Surah An-Naml",
+            "Surah Al-Ala"
+        ],
+        "answer": 0,
+        "explanation": "No Surah has Bismillah at the start of every verse. It is at the start of 113 Surahs (excluding At-Tawbah) as an opening."
+    },
+    {
+        "q": "Which Surah contains two 'Bismillahs'?",
+        "options": [
+            "Surah Al-Baqarah",
+            "Surah An-Naml",
+            "Surah At-Tawbah",
+            "Surah Al-Hajj"
+        ],
+        "answer": 1,
+        "explanation": "In Surah An-Naml, Bismillah appears at the start and also in Verse 30 as part of Prophet Solomon's letter."
+    },
+    {
+        "q": "Which Surah does not begin with 'Bismillah'?",
+        "options": [
+            "Surah At-Tawbah",
+            "Surah Al-Fil",
+            "Surah Al-Qariah",
+            "Surah Al-Lahab"
+        ],
+        "answer": 0,
+        "explanation": "Surah At-Tawbah (or Bara'ah) is the only Surah that does not start with Bismillah."
+    },
+    {
+        "q": "How many Surahs are named after Prophets?",
+        "options": [
+            "4",
+            "6",
+            "8",
+            "10"
+        ],
+        "answer": 1,
+        "explanation": "There are 6 Surahs: Yunus, Hud, Yusuf, Ibrahim, Nuh, and Muhammad."
+    },
+    {
+        "q": "Which metal is mentioned in the name of a Surah?",
+        "options": [
+            "Gold (Dhahab)",
+            "Silver (Fiddah)",
+            "Iron (Hadid)",
+            "Copper (Nuhas)"
+        ],
+        "answer": 2,
+        "explanation": "Surah Al-Hadid (The Iron) is the 57th Surah of the Quran."
+    },
+    {
+        "q": "Which Surah is named after a woman?",
+        "options": [
+            "Surah Khadija",
+            "Surah Maryam",
+            "Surah Fatimah",
+            "Surah Aisha"
+        ],
+        "answer": 1,
+        "explanation": "Surah Maryam (Chapter 19) is named after Maryam (Mary), the mother of Prophet Isa (Jesus)."
+    },
+    {
+        "q": "How many 'Manzils' (divisions for weekly recitation) are in the Quran?",
+        "options": [
+            "5",
+            "7",
+            "10",
+            "30"
+        ],
+        "answer": 1,
+        "explanation": "The Quran is divided into 7 Manzils to allow for completion of recitation in one week."
+    },
+    {
+        "q": "How many 'Sajdah-e-Tilawat' (prostrations of recitation) are in the Quran?",
+        "options": [
+            "10",
+            "12",
+            "14",
+            "15"
+        ],
+        "answer": 2,
+        "explanation": "There are 14 obligatory Sajdahs in the Quran according to most scholars."
+    },
+    {
+        "q": "Which Surah specifies the laws of inheritance?",
+        "options": [
+            "Surah Al-Baqarah",
+            "Surah Al-Nisa",
+            "Surah Al-Ma'idah",
+            "Surah Al-An'am"
+        ],
+        "answer": 1,
+        "explanation": "Surah Al-Nisa contains detailed instructions regarding inheritance and family rights."
+    },
+    {
+        "q": "In which Surah is the 'Ayat-ul-Kursi' located?",
+        "options": [
+            "Surah Al-Baqarah",
+            "Surah Al-Imran",
+            "Surah Al-Mulk",
+            "Surah Al-Hashr"
+        ],
+        "answer": 0,
+        "explanation": "Ayat-ul-Kursi is Verse 255 of Surah Al-Baqarah and is one of the most powerful verses."
+    },
+    {
+        "q": "Which Surah is known as the 'Mother of the Book' (Umm-ul-Kitab)?",
+        "options": [
+            "Surah Al-Baqarah",
+            "Surah Yaseen",
+            "Surah Al-Fatiha",
+            "Surah Al-Ikhlas"
+        ],
+        "answer": 2,
+        "explanation": "Surah Al-Fatiha is called Umm-ul-Kitab because it contains the essence of the entire Quran."
+    },
+    {
+        "q": "How many times is 'Bismillah' used in the Quran in total?",
+        "options": [
+            "113",
+            "114",
+            "115",
+            "112"
+        ],
+        "answer": 1,
+        "explanation": "It starts 113 Surahs and appears once inside Surah An-Naml, totaling 114 times."
+    },
+    {
+        "q": "Which prophet's name is mentioned only in Surah Maryam and Surah Al-Anbiya?",
+        "options": [
+            "Prophet Idris (AS)",
+            "Prophet Dhul-Kifl (AS)",
+            "Prophet Alyasa (AS)",
+            "Prophet Ilyas (AS)"
+        ],
+        "answer": 1,
+        "explanation": "Prophet Dhul-Kifl (AS) is mentioned twice in the Quran."
+    },
+    {
+        "q": "Which city is mentioned by name in the Quran?",
+        "options": [
+            "Makkah",
+            "Madinah",
+            "Jerusalem",
+            "Both A and B"
+        ],
+        "answer": 3,
+        "explanation": "Makkah (as Bakkah) and Madinah (as Yathrib) are mentioned. Jerusalem is referred to indirectly."
+    },
+    {
+        "q": "What is the longest verse in the Holy Quran?",
+        "options": [
+            "Ayat-ul-Kursi",
+            "The Verse on Debt (Ayat al-Dayn)",
+            "The Verse of Light",
+            "The Verse of Purification"
+        ],
+        "answer": 1,
+        "explanation": "Surah Al-Baqarah, Verse 282 (Ayat al-Dayn) is the longest verse, dealing with commercial contracts."
+    },
+    {
+        "q": "Which celestial bodies are named as Surahs?",
+        "options": [
+            "The Sun and The Moon",
+            "The Star",
+            "The Constellations",
+            "All of the above"
+        ],
+        "answer": 3,
+        "explanation": "Surah Ash-Shams (Sun), Al-Qamar (Moon), An-Najm (Star), and Al-Buruj (Constellations) exist."
+    },
+    {
+        "q": "In which month was the Holy Quran first revealed?",
+        "options": [
+            "Muharram",
+            "Rabi-ul-Awwal",
+            "Ramadan",
+            "Rajab"
+        ],
+        "answer": 2,
+        "explanation": "Revelation began in the month of Ramadan on the Night of Decree (Laylat-ul-Qadr)."
+    },
+    {
+        "q": "What is the first word revealed of the Quran?",
+        "options": [
+            "Qul",
+            "Iqra",
+            "Alhamdu",
+            "Allah"
+        ],
+        "answer": 1,
+        "explanation": "'Iqra' (Read) was the first word revealed to the Prophet (PBUH) in Cave Hira."
+    },
+    {
+        "q": "Which Surah refers to the 'Year of the Elephant'?",
+        "options": [
+            "Surah Al-Fil",
+            "Surah Quraysh",
+            "Surah At-Tin",
+            "Surah Al-Humazah"
+        ],
+        "answer": 0,
+        "explanation": "Surah Al-Fil (The Elephant) describes Abraha's failed attempt to destroy the Kaaba."
+    },
+    {
+        "q": "How many years did the revelation of the Quran take in total?",
+        "options": [
+            "10",
+            "13",
+            "23",
+            "40"
+        ],
+        "answer": 2,
+        "explanation": "The Quran was revealed over a period of 23 years (13 in Makkah, 10 in Madinah)."
+    },
+    {
+        "q": "Which Surah is considered equivalent to one-third of the Quran?",
+        "options": [
+            "Surah Al-Fatiha",
+            "Surah Al-Ikhlas",
+            "Surah Al-Kafirun",
+            "Surah An-Nas"
+        ],
+        "answer": 1,
+        "explanation": "The Prophet (PBUH) said reciting Surah Al-Ikhlas once is equivalent to one-third of the Quran in reward."
+    },
+    {
+        "q": "Whose name is mentioned in the Quran as the wife of Prophet Ibrahim (AS)?",
+        "options": [
+            "Hazrat Sarah",
+            "Hazrat Hajar",
+            "Neither",
+            "Both"
+        ],
+        "answer": 2,
+        "explanation": "While they are discussed as his wives, they are not mentioned by their specific names in the text of the Quran."
+    },
+    {
+        "q": "Which uncle of Prophet Muhammad (PBUH) is condemned by name in the Quran?",
+        "options": [
+            "Abu Talib",
+            "Abu Lahab",
+            "Abu Sufyan",
+            "Hamza"
+        ],
+        "answer": 1,
+        "explanation": "Abu Lahab is named in Surah Al-Masad (The Palm Fiber)."
+    },
+    {
+        "q": "What is the literal meaning of 'Surah'?",
+        "options": [
+            "Chapter",
+            "Fence or Enclosure",
+            "Fence and Wall",
+            "Row"
+        ],
+        "answer": 1,
+        "explanation": "Linguistically, Surah refers to an enclosure or a fence that separates one thing from another."
+    },
+    {
+        "q": "What is the primary theme of the Makki Surahs?",
+        "options": [
+            "Social Laws",
+            "Monotheism (Tawhid)",
+            "Criminal Justice",
+            "Marriage Laws"
+        ],
+        "answer": 1,
+        "explanation": "Makki Surahs focus largely on the basics of faith, Tawhid, Risalat, and the Afterlife."
+    },
+    {
+        "q": "What is the primary theme of the Madani Surahs?",
+        "options": [
+            "Tawhid",
+            "Legislation and Community",
+            "Stories of the Past",
+            "Prophecies"
+        ],
+        "answer": 1,
+        "explanation": "Madani Surahs focus on laws, social structure, and defining the Muslim community's identity."
+    },
+    {
+        "q": "Which Surah describes the rules of Wudu and Tayammum?",
+        "options": [
+            "Surah Al-Baqarah",
+            "Surah Al-Ma'idah",
+            "Surah An-Nisa",
+            "Surah Al-A'raf"
+        ],
+        "answer": 1,
+        "explanation": "Surah Al-Ma'idah (Verse 6) provides the instructions for Wudu (Ablution)."
+    },
+    {
+        "q": "Which Sahabi (companion) is mentioned by name in the Quran?",
+        "options": [
+            "Abu Bakr (RA)",
+            "Umar (RA)",
+            "Zaid bin Harithah (RA)",
+            "Ali (RA)"
+        ],
+        "answer": 2,
+        "explanation": "Hazrat Zaid bin Harithah (RA) is the only companion of the Prophet (PBUH) mentioned by name (Surah Al-Ahzab)."
+    },
+    {
+        "q": "Which king of a neighboring land is mentioned indirectly in the Quran?",
+        "options": [
+            "Najashi",
+            "Heraclius",
+            "Khusrau",
+            "Dhul-Qarnayn"
+        ],
+        "answer": 3,
+        "explanation": "Dhul-Qarnayn is a great king/figure mentioned in Surah Al-Kahf."
+    },
+    {
+        "q": "What is the meaning of 'Ayah'?",
+        "options": [
+            "Sentence",
+            "Sign",
+            "Poem",
+            "Order"
+        ],
+        "answer": 1,
+        "explanation": "Ayah literally means a 'Sign' or 'Miracle'."
+    },
+    {
+        "q": "Which Surah contains the verse 'And We sent you not but as a mercy for all the worlds'?",
+        "options": [
+            "Surah Al-Anbiya",
+            "Surah Ar-Rahman",
+            "Surah Muhammad",
+            "Surah Al-Baqarah"
+        ],
+        "answer": 0,
+        "explanation": "It appears in Surah Al-Anbiya (The Prophets), Verse 107."
+    },
+    {
+        "q": "Which Surah is called 'The Chapter of Blessings'?",
+        "options": [
+            "Surah Al-Fatiha",
+            "Surah An-Nahl",
+            "Surah Ar-Rahman",
+            "Surah Al-Waqiah"
+        ],
+        "answer": 1,
+        "explanation": "Surah An-Nahl (The Bee) is often called this because it lists many of Allah's blessings upon mankind."
+    },
+    {
+        "q": "Which Surah refers to the 'Battle of the Trench'?",
+        "options": [
+            "Surah Al-Imran",
+            "Surah Al-Ahzab",
+            "Surah Al-Fath",
+            "Surah Al-Anfal"
+        ],
+        "answer": 1,
+        "explanation": "Surah Al-Ahzab (The Confederates) describes the siege of Madinah."
+    },
+    {
+        "q": "Which Surah describes the story of Prophet Yusuf (AS) in detail?",
+        "options": [
+            "Surah Al-A'raf",
+            "Surah Hud",
+            "Surah Yusuf",
+            "Surah Al-An'am"
+        ],
+        "answer": 2,
+        "explanation": "Surah Yusuf is unique because it tells the entire story of the prophet in one continuous narrative."
+    },
+    {
+        "q": "How many times is 'Ibraheem' mentioned in the Quran?",
+        "options": [
+            "25",
+            "50",
+            "69",
+            "75"
+        ],
+        "answer": 2,
+        "explanation": "Prophet Ibrahim (AS) is mentioned 69 times in the Quran."
+    },
+    {
+        "q": "Which insect is NOT the name of a Surah?",
+        "options": [
+            "The Ant",
+            "The Scorpion",
+            "The Spider",
+            "The Bee"
+        ],
+        "answer": 1,
+        "explanation": "There is no Surah named 'The Scorpion'. There are Surahs named Ant, Spider, and Bee."
+    },
+    {
+        "q": "Which food mentioned in the Quran is praised for its healing properties?",
+        "options": [
+            "Dates",
+            "Olive Oil",
+            "Honey",
+            "Milk"
+        ],
+        "answer": 2,
+        "explanation": "Surah An-Nahl mentions that in honey, there is healing for mankind."
+    },
+    {
+        "q": "Which mountain is mentioned in the Quran as the resting place of Noah's Ark?",
+        "options": [
+            "Mount Sinai",
+            "Mount Safa",
+            "Mount Judi",
+            "Mount Ararat"
+        ],
+        "answer": 2,
+        "explanation": "Surah Hud (Verse 44) mentions that the Ark came to rest upon Mount Judi."
+    },
+    {
+        "q": "What is the number of 'Huroof-e-Muqattaat' (Disconnected Letters)?",
+        "options": [
+            "14",
+            "20",
+            "29",
+            "30"
+        ],
+        "answer": 2,
+        "explanation": "There are 29 Surahs that begin with disconnected letters like Alif-Lam-Mim."
+    },
+    {
+        "q": "Which Surah contains the description of the 'People of the Ditch'?",
+        "options": [
+            "Surah Al-Buruj",
+            "Surah Al-Qariah",
+            "Surah At-Tariq",
+            "Surah Al-Lail"
+        ],
+        "answer": 0,
+        "explanation": "Surah Al-Buruj tells the story of early Christians who were martyred by being thrown into a pit of fire."
+    },
+    {
+        "q": "Which Surah discusses the change of Qibla?",
+        "options": [
+            "Surah Al-Ma'idah",
+            "Surah Al-Baqarah",
+            "Surah Al-Hajj",
+            "Surah Al-Qibla"
+        ],
+        "answer": 1,
+        "explanation": "Surah Al-Baqarah (Verse 144) mentions the command to turn towards the Masjid al-Haram."
+    },
+    {
+        "q": "Who was the first person to call the Quran 'Al-Mushaf'?",
+        "options": [
+            "Hazrat Abu Bakr (RA)",
+            "Hazrat Umar (RA)",
+            "Hazrat Usman (RA)",
+            "Hazrat Ali (RA)"
+        ],
+        "answer": 0,
+        "explanation": "Hazrat Abu Bakr (RA) used this term for the first compiled codex of the Quran."
+    },
+    {
+        "q": "Which Surah refers to the 'Night of Power'?",
+        "options": [
+            "Surah Al-Kadr",
+            "Surah Al-Ikhlas",
+            "Surah Al-Falaq",
+            "Surah Al-Nasr"
+        ],
+        "answer": 0,
+        "explanation": "Surah Al-Qadr (The Decree) describes the night the Quran was sent down."
+    },
+    {
+        "q": "Which Surah is considered equivalent to one-fourth of the Quran?",
+        "options": [
+            "Surah Al-Kafirun",
+            "Surah Al-Ikhlas",
+            "Surah Al-Falaq",
+            "Surah An-Nas"
+        ],
+        "answer": 0,
+        "explanation": "Prophet Muhammad (PBUH) stated that reciting Surah Al-Kafirun is equivalent to one-fourth of the Quran."
+    },
+    {
+        "q": "How many times is 'Isa' (Jesus) mentioned in the Quran?",
+        "options": [
+            "15",
+            "20",
+            "25",
+            "30"
+        ],
+        "answer": 2,
+        "explanation": "Prophet Isa (AS) is mentioned by name 25 times in the Quran."
+    },
+    {
+        "q": "Which Surah describes the splitting of the moon?",
+        "options": [
+            "Surah Al-Baqarah",
+            "Surah Al-Qamar",
+            "Surah Ash-Shams",
+            "Surah Al-Lail"
+        ],
+        "answer": 1,
+        "explanation": "Surah Al-Qamar (The Moon) opens with the mention of the splitting of the moon."
+    },
+    {
+        "q": "In which Surah is the story of Adam and Iblees' refusal to prostrate first mentioned?",
+        "options": [
+            "Surah Al-Baqarah",
+            "Surah Al-Ma'idah",
+            "Surah Al-A'raf",
+            "Surah Al-Kahf"
+        ],
+        "answer": 0,
+        "explanation": "Surah Al-Baqarah (Verse 34) contains the first mention of this story in the Quran's order."
+    },
+    {
+        "q": "Which Surah's recitation provides protection from the Fitna of Dajjal?",
+        "options": [
+            "Surah Al-Mulk",
+            "Surah Al-Kahf",
+            "Surah Al-Baqarah",
+            "Surah Ar-Rahman"
+        ],
+        "answer": 1,
+        "explanation": "Memorizing or reciting the first 10 verses of Surah Al-Kahf provides protection against Dajjal."
+    },
+    {
+        "q": "Which Surah's recitation provides protection from the punishment of the grave?",
+        "options": [
+            "Surah Al-Mulk",
+            "Surah Yaseen",
+            "Surah Al-Muzammil",
+            "Surah An-Naba"
+        ],
+        "answer": 0,
+        "explanation": "Surah Al-Mulk (Chapter 67) is known as 'The Protector' from the grave punishment."
+    },
+    {
+        "q": "Which Surah is also known as 'The Chapter of Grace'?",
+        "options": [
+            "Surah Al-Fatiha",
+            "Surah Ar-Rahman",
+            "Surah Al-Inshirah",
+            "Surah Al-Mutaffifin"
+        ],
+        "answer": 1,
+        "explanation": "Surah Ar-Rahman emphasizes Allah's infinite grace and mercy."
+    },
+    {
+        "q": "What is the meaning of 'Al-Furqan'?",
+        "options": [
+            "The Guidance",
+            "The Criterion between right and wrong",
+            "The Light",
+            "The Reminder"
+        ],
+        "answer": 1,
+        "explanation": "Al-Furqan is one of the names of the Quran, meaning the criterion that separates truth from falsehood."
+    },
+    {
+        "q": "In which city were the majority of Surahs revealed?",
+        "options": [
+            "Makkah",
+            "Madinah",
+            "Taif",
+            "Yemen"
+        ],
+        "answer": 0,
+        "explanation": "86 out of 114 Surahs are classified as Makki, meaning they were revealed during the 13 years in Makkah."
+    },
+    {
+        "q": "How many times is 'Adam' mentioned in the Quran?",
+        "options": [
+            "10",
+            "15",
+            "25",
+            "30"
+        ],
+        "answer": 2,
+        "explanation": "Prophet Adam (AS) is mentioned by name 25 times in the Quran."
+    },
+    {
+        "q": "Which Surah refers to the 'Day of Noise and Clamour'?",
+        "options": [
+            "Surah Al-Qariah",
+            "Surah Al-Zilzal",
+            "Surah Al-Adiyat",
+            "Surah Al-Takathur"
+        ],
+        "answer": 0,
+        "explanation": "Surah Al-Qariah describes the terrifying sounds and events of the Day of Judgment."
+    },
+    {
+        "q": "Which Surah is named after the 'Iron'?",
+        "options": [
+            "Surah Al-Falaq",
+            "Surah Al-Hadid",
+            "Surah Al-Ghashiyah",
+            "Surah Al-Fath"
+        ],
+        "answer": 1,
+        "explanation": "Surah Al-Hadid is named after iron, a substance Allah says He sent down with power."
+    },
+    {
+        "q": "Which Surah is called 'The Morning Hours' or 'The Bright Morning'?",
+        "options": [
+            "Surah Ad-Duha",
+            "Surah Ash-Shams",
+            "Surah Al-Fajr",
+            "Surah Al-Lail"
+        ],
+        "answer": 0,
+        "explanation": "Surah Ad-Duha was revealed to reassure the Prophet (PBUH) after a pause in revelation."
+    },
+    {
+        "q": "Which Surah refers to the 'City of Makkah' by the name 'Bakkah'?",
+        "options": [
+            "Surah Al-Imran",
+            "Surah Al-Baqarah",
+            "Surah Al-Anfal",
+            "Surah Al-Hajj"
+        ],
+        "answer": 0,
+        "explanation": "Verse 96 of Surah Al-Imran uses the name Bakkah for Makkah."
+    },
+    {
+        "q": "Which prophet's name appears with the name 'Muhammad' in one verse?",
+        "options": [
+            "Prophet Ibrahim (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Isa (AS)",
+            "None of these"
+        ],
+        "answer": 3,
+        "explanation": "There isn't a single verse where Muhammad and another prophet's name appear together directly."
+    },
+    {
+        "q": "Which Surah discusses the 'People of the Wood' (As-hab al-Aykah)?",
+        "options": [
+            "Surah Al-Hijr",
+            "Surah Ash-Shu'ara",
+            "Surah Sad",
+            "All of the above"
+        ],
+        "answer": 3,
+        "explanation": "The people of Prophet Shu'ayb (AS) are mentioned in several Surahs."
+    },
+    {
+        "q": "What is the meaning of 'Ayat-ul-Kursi'?",
+        "options": [
+            "The Verse of the Throne",
+            "The Verse of Knowledge",
+            "The Verse of Power",
+            "The Verse of Light"
+        ],
+        "answer": 0,
+        "explanation": "Kursi literally means 'Chair' or 'Throne', symbolizing Allah's authority."
+    },
+    {
+        "q": "Which Surah is considered equivalent to half of the Quran in reward?",
+        "options": [
+            "Surah Al-Zilzal",
+            "Surah Al-Adiyat",
+            "Surah Al-Ikhlas",
+            "Surah Al-Takathur"
+        ],
+        "answer": 0,
+        "explanation": "According to some traditions, Surah Al-Zilzal is equivalent to half of the Quran."
+    },
+    {
+        "q": "Which Juz contains the 'Ayat-ul-Kursi'?",
+        "options": [
+            "Juz 1",
+            "Juz 2",
+            "Juz 3",
+            "Juz 4"
+        ],
+        "answer": 2,
+        "explanation": "It is in the 3rd Juz (Para) of the Quran."
+    },
+    {
+        "q": "How many times is 'Nooh' mentioned in the Quran?",
+        "options": [
+            "10",
+            "20",
+            "43",
+            "50"
+        ],
+        "answer": 2,
+        "explanation": "Prophet Nuh (AS) is mentioned 43 times in the Quran."
+    },
+    {
+        "q": "Which Surah describes the 'Inshirah' (Expansion) of the Prophet's chest?",
+        "options": [
+            "Surah Al-Ala",
+            "Surah Al-Inshirah",
+            "Surah Ad-Duha",
+            "Surah Al-Lail"
+        ],
+        "answer": 1,
+        "explanation": "Surah Al-Inshirah (Chapter 94) reassures the Prophet (PBUH) that with every difficulty there is ease."
+    },
+    {
+        "q": "Which prophet is mentioned most by his nickname/title 'Dhul-Nun'?",
+        "options": [
+            "Prophet Yunus (AS)",
+            "Prophet Isa (AS)",
+            "Prophet Musa (AS)",
+            "Prophet Ibrahim (AS)"
+        ],
+        "answer": 0,
+        "explanation": "Prophet Yunus (AS) is called Dhul-Nun (The Companion of the Fish)."
+    },
+    {
+        "q": "Which Surah is called 'The Great News'?",
+        "options": [
+            "Surah An-Naba",
+            "Surah An-Naziat",
+            "Surah Abasa",
+            "Surah At-Tekwir"
+        ],
+        "answer": 0,
+        "explanation": "Surah An-Naba is named after the news of the Resurrection."
+    },
+    {
+        "q": "What is the meaning of 'At-Tariq'?",
+        "options": [
+            "The Nightcomer / The Bright Star",
+            "The Path",
+            "The Door",
+            "The Sun"
+        ],
+        "answer": 0,
+        "explanation": "At-Tariq refers to the star that pierces the darkness of night."
+    },
+    {
+        "q": "How many verses are in Surah Al-Fatiha?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": 2,
+        "explanation": "Surah Al-Fatiha consists of 7 verses."
+    },
+    {
+        "q": "Which Surah refers to the 'Battle of Badr' as the 'Day of Criterion' (Yawm-ul-Furqan)?",
+        "options": [
+            "Surah Al-Baqarah",
+            "Surah Al-Anfal",
+            "Surah Al-Imran",
+            "Surah At-Tawbah"
+        ],
+        "answer": 1,
+        "explanation": "Surah Al-Anfal uses this term for the first major battle in Islam."
+    },
+    {
+        "q": "Which Surah contains the command for 'Hajj' for the first time?",
+        "options": [
+            "Surah Al-Hajj",
+            "Surah Al-Baqarah",
+            "Surah Al-Imran",
+            "Surah Al-Ma'idah"
+        ],
+        "answer": 1,
+        "explanation": "The early command and rituals are discussed in Surah Al-Baqarah."
+    },
+    {
+        "q": "What is the meaning of 'Al-Zilzal'?",
+        "options": [
+            "The Earthquake",
+            "The Wind",
+            "The Rain",
+            "The Thunder"
+        ],
+        "answer": 0,
+        "explanation": "Al-Zilzal refers to the violent shaking of the earth on the Day of Judgment."
+    },
+    {
+        "q": "Which Surah contains the most mentions of 'Ar-Rahman'?",
+        "options": [
+            "Surah Ar-Rahman",
+            "Surah Maryam",
+            "Surah Al-Mulk",
+            "Surah Al-Hajj"
+        ],
+        "answer": 1,
+        "explanation": "Surah Maryam actually uses the name 'Ar-Rahman' (The Most Merciful) more times than the Surah Ar-Rahman itself."
+    },
+    {
+        "q": "Which Surah refers to 'Mount Sinai' (Tur-e-Sineen)?",
+        "options": [
+            "Surah At-Tin",
+            "Surah Al-Fajr",
+            "Surah Al-Balad",
+            "Surah Ash-Shams"
+        ],
+        "answer": 0,
+        "explanation": "Surah At-Tin (The Fig) swears by the fig, olive, Mount Sinai, and the city of Makkah."
+    }
+]

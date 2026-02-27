@@ -1,0 +1,482 @@
+[
+    {
+        "q": "What was the name of the Prophet's (PBUH) father?",
+        "options": ["Abu Talib", "Abdullah", "Abdul Muttalib", "Hamza"],
+        "answer": 1,
+        "explanation": "Abdullah was the father of Prophet Muhammad (PBUH), who passed away before the Prophet's birth."
+    },
+    {
+        "q": "Which tribe did Prophet Muhammad (PBUH) belong to?",
+        "options": ["Banu Hashim", "Banu Umayya", "Banu Makhzum", "Banu Asad"],
+        "answer": 0,
+        "explanation": "He belonged to the Banu Hashim clan of the Quraish tribe in Makkah."
+    },
+    {
+        "q": "How long did Hazrat Halimah (RA) nurse the Prophet (PBUH)?",
+        "options": ["2 years", "4 years", "5 years", "6 years"],
+        "answer": 1,
+        "explanation": "Hazrat Halimah Sadia (RA) nursed and cared for him for approximately four years."
+    },
+    {
+        "q": "At what age did the Prophet's (PBUH) mother pass away?",
+        "options": ["4", "6", "8", "10"],
+        "answer": 1,
+        "explanation": "Hazrat Aminah (RA) passed away at Abwa when the Prophet (PBUH) was six years old while returning from Madinah."
+    },
+    {
+        "q": "Who took care of the Prophet (PBUH) immediately after his mother's death?",
+        "options": ["Abu Talib", "Abdul Muttalib", "Halimah Sadia", "Umm Ayman"],
+        "answer": 1,
+        "explanation": "His esteemed grandfather, Abdul Muttalib, took guardianship of him for two years until his own death."
+    },
+    {
+        "q": "At what age did the Prophet (PBUH) lose his grandfather Abdul Muttalib?",
+        "options": ["6", "8", "10", "12"],
+        "answer": 1,
+        "explanation": "Abdul Muttalib died when the Prophet (PBUH) was eight years old."
+    },
+    {
+        "q": "Who was the maternal uncle of the Prophet (PBUH) from Madinah?",
+        "options": ["Banu Najjar", "Banu Nadir", "Banu Qaynuqa", "Banu Quraiza"],
+        "answer": 0,
+        "explanation": "The Prophet's great-grandmother was from the Banu Najjar clan of Madinah (Yathrib)."
+    },
+    {
+        "q": "What profession did the Prophet (PBUH) practice in his youth?",
+        "options": ["Carpenter", "Blacksmith", "Shepherd and Merchant", "Warrior"],
+        "answer": 2,
+        "explanation": "Like many prophets before him, he tended sheep in his youth and later became a successful merchant."
+    },
+    {
+        "q": "Which Christian monk recognized the signs of prophethood on the young Muhammad (PBUH) in Syria?",
+        "options": ["Waraqah bin Nawfal", "Bahira", "Nestor", "Salman"],
+        "answer": 1,
+        "explanation": "Bahira the monk saw the Seal of Prophethood between his shoulders during a trading caravan journey to Syria."
+    },
+    {
+        "q": "How old was the Prophet (PBUH) when he married Hazrat Khadija (RA)?",
+        "options": ["20", "25", "30", "40"],
+        "answer": 1,
+        "explanation": "The Prophet (PBUH) was 25, while Hazrat Khadija (RA) was 40 years old."
+    },
+    {
+        "q": "Who was Hazrat Khadija's (RA) trusted servant who accompanied the Prophet (PBUH) to Syria?",
+        "options": ["Zaid", "Maysarah", "Bilal", "Ammar"],
+        "answer": 1,
+        "explanation": "Maysarah accompanied him on the trade journey and reported his excellent character and honesty to Hazrat Khadija (RA)."
+    },
+    {
+        "q": "What was the name of the Prophet's (PBUH) first daughter?",
+        "options": ["Fatimah", "Zainab", "Ruqayyah", "Umm Kulthum"],
+        "answer": 1,
+        "explanation": "Hazrat Zainab (RA) was the eldest daughter of the Prophet (PBUH) and Hazrat Khadija (RA)."
+    },
+    {
+        "q": "Who resolved the dispute of placing the Black Stone (Hajr-e-Aswad) in the Kaaba?",
+        "options": ["Abu Jahl", "Abu Sufyan", "Prophet Muhammad (PBUH)", "Abu Talib"],
+        "answer": 2,
+        "explanation": "The Prophet (PBUH) wisely placed it on a cloak and asked leaders of each clan to lift it together, preventing a war."
+    },
+    {
+        "q": "In which cave did the Prophet (PBUH) meditate before receiving Prophethood?",
+        "options": ["Cave of Thawr", "Cave of Hira", "Cave of Uhud", "Cave of Safa"],
+        "answer": 1,
+        "explanation": "He sought solitude in the Cave of Hira, located on Jabal al-Nour (Mountain of Light) near Makkah."
+    },
+    {
+        "q": "Who took the Prophet (PBUH) to Waraqah bin Nawfal after the first revelation?",
+        "options": ["Abu Bakr", "Abu Talib", "Hazrat Khadija", "Hazrat Ali"],
+        "answer": 2,
+        "explanation": "Hazrat Khadija (RA) took him to her cousin, Waraqah bin Nawfal, a Christian scholar who confirmed his prophethood."
+    },
+    {
+        "q": "Who was the first free adult male to accept Islam?",
+        "options": ["Hazrat Ali", "Hazrat Abu Bakr", "Hazrat Zaid", "Hazrat Usman"],
+        "answer": 1,
+        "explanation": "Hazrat Abu Bakr (RA) accepted Islam without any hesitation, becoming the first adult free male Muslim."
+    },
+    {
+        "q": "Who was the first child to accept Islam?",
+        "options": ["Hazrat Hasan", "Hazrat Hussain", "Hazrat Ali", "Hazrat Abdullah bin Abbas"],
+        "answer": 2,
+        "explanation": "Hazrat Ali (RA), who was around 10 years old and lived in the Prophet's (PBUH) household, was the first child to accept Islam."
+    },
+    {
+        "q": "For how many years was the preaching of Islam kept secret in Makkah?",
+        "options": ["1 year", "3 years", "5 years", "10 years"],
+        "answer": 1,
+        "explanation": "The early Muslims preached confidentially for the first three years before the command for public preaching was revealed."
+    },
+    {
+        "q": "Which relative of the Prophet (PBUH) famously opposed him and has a Surah condemning him?",
+        "options": ["Abu Talib", "Abu Sufyan", "Abu Lahab", "Abbas"],
+        "answer": 2,
+        "explanation": "Abu Lahab, the Prophet's (PBUH) uncle, vehemently opposed Islam, and Surah Al-Masad was revealed condemning him and his wife."
+    },
+    {
+        "q": "Where did the early Muslims secretly gather in Makkah to learn Islam?",
+        "options": ["Kaaba", "Dar al-Nadwa", "House of Arqam", "House of Abu Bakr"],
+        "answer": 2,
+        "explanation": "Dar al-Arqam (House of Arqam) served as the secret educational center for early Muslims."
+    },
+    {
+        "q": "Which companion was severely tortured on burning sand by Umayyah bin Khalaf?",
+        "options": ["Ammar bin Yasir", "Bilal bin Rabah", "Khabbab bin al-Aratt", "Zaid bin Haritha"],
+        "answer": 1,
+        "explanation": "Hazrat Bilal (RA) endured brutal torture but kept repeating 'Ahad, Ahad' (God is One) until purchased and freed by Hazrat Abu Bakr (RA)."
+    },
+    {
+        "q": "To which country did the first migration (Hijrah) of Muslims take place?",
+        "options": ["Madinah", "Taif", "Yemen", "Abyssinia (Ethiopia)"],
+        "answer": 3,
+        "explanation": "A group of early Muslims migrated to Abyssinia to escape persecution, taking refuge under the Christian King Negus (Najashi)."
+    },
+    {
+        "q": "Who led the Muslim delegation and spoke to King Negus in Abyssinia?",
+        "options": ["Hazrat Usman", "Hazrat Jafar bin Abi Talib", "Hazrat Umar", "Hazrat Ali"],
+        "answer": 1,
+        "explanation": "Hazrat Jafar (RA) eloquently explained Islamic teachings and recited Surah Maryam, moved the King to tears and secured their safety."
+    },
+    {
+        "q": "Which year of Prophethood is known as the 'Year of Sorrow' (Aam-ul-Huzn)?",
+        "options": ["7th Year", "10th Year", "13th Year", "2nd Year of Hijrah"],
+        "answer": 1,
+        "explanation": "In evaluating the 10th year of Prophethood, the Prophet (PBUH) lost his dear wife Hazrat Khadija (RA) and his supportive uncle Abu Talib."
+    },
+    {
+        "q": "Which city did the Prophet (PBUH) visit for preaching, but was pelted with stones?",
+        "options": ["Taif", "Khaybar", "Yathrib", "Tabuk"],
+        "answer": 0,
+        "explanation": "He travelled to Taif to seek support but was brutally rejected and pelted with stones by its inhabitants."
+    },
+    {
+        "q": "What was the name of the angel who offered to crush Taif between two mountains?",
+        "options": ["Jibreel", "Mikaeel", "Israfeel", "Angel of Mountains"],
+        "answer": 3,
+        "explanation": "The Angel of Mountains offered to destroy the city, but the Prophet (PBUH) forgave them, hoping their descendants would accept Islam."
+    },
+    {
+        "q": "During the Night Journey (Isra and Mi'raj), what form of transport was used?",
+        "options": ["Horse", "Buraq", "Camel", "Magic Carpet"],
+        "answer": 1,
+        "explanation": "The Prophet (PBUH) travelled on the heavenly riding beast named 'Buraq'."
+    },
+    {
+        "q": "Which obligatory worship was established during the Mi'raj?",
+        "options": ["Fasting", "Zakat", "Hajj", "Five Daily Prayers (Salah)"],
+        "answer": 3,
+        "explanation": "Allah directly gifted the Muslim Ummah the five daily prayers during the celestial journey of Mi'raj."
+    },
+    {
+        "q": "What was the previous name of Madinah before Hijrah?",
+        "options": ["Bakkah", "Yathrib", "Taif", "Fadak"],
+        "answer": 1,
+        "explanation": "Before the Prophet's arrival, the city was called Yathrib. It was renamed 'Madinat-un-Nabi' (City of the Prophet)."
+    },
+    {
+        "q": "Who slept in the Prophet's (PBUH) bed on the night of Hijrah to confuse the assassins?",
+        "options": ["Hazrat Umar", "Hazrat Abu Bakr", "Hazrat Ali", "Hazrat Zaid"],
+        "answer": 2,
+        "explanation": "Hazrat Ali (RA) boldly slept in his bed, wrapped in the Prophet's mantle, to return the trusts to the Makkans."
+    },
+    {
+        "q": "In which cave did the Prophet (PBUH) and Hazrat Abu Bakr (RA) hide during Hijrah?",
+        "options": ["Hira", "Thawr", "Uhud", "Saur"],
+        "answer": 1,
+        "explanation": "They hid in the Cave of Thawr for three nights while the Quraish searched for them."
+    },
+    {
+        "q": "What miraculous events occurred at the Cave of Thawr?",
+        "options": ["A spider spun a web", "A dove laid eggs", "Both A & B", "None of these"],
+        "answer": 2,
+        "explanation": "Allah protected them by having a spider weave a web and a dove lay eggs at the cave's entrance, misleading the trackers."
+    },
+    {
+        "q": "What was the name of the pact establishing peace between Muslims, Jews, and pagans in Madinah?",
+        "options": ["Treaty of Hudaibiya", "Constitution of Madinah (Misaq-e-Madinah)", "Pact of Aqaba", "Treaty of Taif"],
+        "answer": 1,
+        "explanation": "The Constitution of Madinah was a historic document ensuring mutual defense and religious freedom in the new city-state."
+    },
+    {
+        "q": "The bond of brotherhood created between the Muhajirun and Ansar is known as?",
+        "options": ["Muwakhat", "Misaq", "Bai'at", "Shura"],
+        "answer": 0,
+        "explanation": "Muwakhat (Brotherhood) paired a Makkan emigrant (Muhajir) with a Madinite helper (Ansar) to share wealth and support."
+    },
+    {
+        "q": "What was the initial Qibla (direction of prayer) for Muslims?",
+        "options": ["Kaaba", "Masjid Quba", "Al-Aqsa Mosque (Jerusalem)", "Mount Sinai"],
+        "answer": 2,
+        "explanation": "For the first ~16 months in Madinah, Muslims prayed facing Al-Aqsa Mosque in Jerusalem before it was changed to the Kaaba."
+    },
+    {
+        "q": "In which year did the change of Qibla (Tahweel-e-Qibla) occur?",
+        "options": ["1 AH", "2 AH", "3 AH", "4 AH"],
+        "answer": 1,
+        "explanation": "The command to change the Qibla towards Makkah was revealed in 2 AH during a Dhuhr or Asr prayer."
+    },
+    {
+        "q": "How many Muslims fought in the Battle of Badr?",
+        "options": ["313", "1000", "70", "3000"],
+        "answer": 0,
+        "explanation": "An ill-equipped force of 313 Muslims defeated a heavily armed Quraishi army of 1,000 men in the Battle of Badr."
+    },
+    {
+        "q": "Who was the notorious Makkan leader killed in the Battle of Badr?",
+        "options": ["Abu Sufyan", "Abu Lahab", "Abu Jahl", "Umayyah bin Khalaf"],
+        "answer": 2,
+        "explanation": "Abu Jahl, the fierce enemy of Islam, was killed in Badr by two young Ansari brothers, Mu'awwaz and Mu'az."
+    },
+    {
+        "q": "Which Surah heavily discusses the Battle of Badr?",
+        "options": ["Surah Al-Baqarah", "Surah Al-Anfal", "Surah Al-Imran", "Surah At-Tawbah"],
+        "answer": 1,
+        "explanation": "Surah Al-Anfal (The Spoils of War) details the divine assistance and rulings concerning the Battle of Badr."
+    },
+    {
+        "q": "Who is known as the 'Lion of Allah' (Asadullah)?",
+        "options": ["Hazrat Umar", "Hazrat Khalid bin Walid", "Hazrat Hamza & Hazrat Ali", "Hazrat Abu Bakr"],
+        "answer": 2,
+        "explanation": "Both Hazrat Hamza (RA) and Hazrat Ali (RA) were frequently referred to as the Lion of Allah due to their unmatched bravery."
+    },
+    {
+        "q": "In which battle were 70 Muslims, including Hazrat Hamza (RA), martyred?",
+        "options": ["Battle of Badr", "Battle of Uhud", "Battle of Khandaq", "Battle of Hunayn"],
+        "answer": 1,
+        "explanation": "The Battle of Uhud (3 AH) resulted in heavy losses, primarily due to the archers leaving their post on the mount."
+    },
+    {
+        "q": "Who suggested digging the trench in the Battle of Khandaq?",
+        "options": ["Hazrat Umar", "Hazrat Salman Farsi", "Hazrat Ali", "Hazrat Khalid bin Walid"],
+        "answer": 1,
+        "explanation": "Hazrat Salman the Persian (RA) suggested the Persian strategy of digging a trench, which successfully thwarted the Makkan siege."
+    },
+    {
+        "q": "In which year did the Battle of Khandaq (Trench) take place?",
+        "options": ["3 AH", "4 AH", "5 AH", "6 AH"],
+        "answer": 2,
+        "explanation": "The Battle of Khandaq, also known as the Battle of the Confederates (Ahzab), occurred in 5 AH."
+    },
+    {
+        "q": "Which Jewish tribe betrayed the Muslims during the Battle of Khandaq?",
+        "options": ["Banu Qaynuqa", "Banu Nadir", "Banu Qurayza", "Banu Hashim"],
+        "answer": 2,
+        "explanation": "Banu Qurayza broke their treaty and allied with the Quraish, leading to their subsequent siege and punishment."
+    },
+    {
+        "q": "What event is famously called 'Fateh Mubeen' (A clear victory) in the Quran?",
+        "options": ["Conquest of Makkah", "Battle of Badr", "Treaty of Hudaibiya", "Battle of Khaybar"],
+        "answer": 2,
+        "explanation": "Despite seemingly unfavorable terms, Allah called the Treaty of Hudaibiya (6 AH) a 'clear victory' as it brought peace and mass conversions."
+    },
+    {
+        "q": "Who represented the Quraish in drafting the Treaty of Hudaibiya?",
+        "options": ["Abu Sufyan", "Suhayl bin Amr", "Ikrimah bin Abu Jahl", "Khalid bin Walid"],
+        "answer": 1,
+        "explanation": "Suhayl bin Amr negotiated on behalf of the Makkans and insisted on specific wordings in the treaty document."
+    },
+    {
+        "q": "What was the 'Pledge of the Tree' (Bai'at al-Ridwan) for?",
+        "options": ["To pledge loyalty for Hudaibiya", "To avenge the rumored death of Hazrat Usman", "To swear to fight to the death at Badr", "To conquer Madinah"],
+        "answer": 1,
+        "explanation": "When rumors spread that Hazrat Usman (RA) was killed in Makkah, 1400 Sahaba pledged under a tree to avenge his blood."
+    },
+    {
+        "q": "Which major fortress was conquered by the Muslims in 7 AH?",
+        "options": ["Taif", "Jerusalem", "Khaybar", "Tabuk"],
+        "answer": 2,
+        "explanation": "The Jewish stronghold of Khaybar, known for its massive forts, was conquered by the Muslims led by Hazrat Ali (RA)."
+    },
+    {
+        "q": "Who breached the main gate of the Khaybar fortress?",
+        "options": ["Hazrat Umar", "Hazrat Abu Bakr", "Hazrat Ali", "Hazrat Hamza"],
+        "answer": 2,
+        "explanation": "Hazrat Ali (RA) miraculously lifted the heavy fort door to act as a shield, leading to the decisive victory at Khaybar."
+    },
+    {
+        "q": "Who tried to poison the Prophet (PBUH) after the conquest of Khaybar?",
+        "options": ["A Roman spy", "A Jewish woman named Zainab bint Al-Harith", "A hypocrite from Madinah", "Abu Jahal's daughter"],
+        "answer": 1,
+        "explanation": "Zainab bint Al-Harith served poisoned roasted meat to the Prophet (PBUH), though he survived by divine intervention."
+    },
+    {
+        "q": "When did the Muslims perform the missed Umrah (Umrat al-Qada)?",
+        "options": ["6 AH", "7 AH", "8 AH", "9 AH"],
+        "answer": 1,
+        "explanation": "As agreed in the Treaty of Hudaibiya, Muslims returned to Makkah peacefully in 7 AH to perform their Umrah."
+    },
+    {
+        "q": "Which prominent military commander embraced Islam shortly before the Conquest of Makkah?",
+        "options": ["Suhayl bin Amr", "Khalid bin Walid & Amr bin al-Aas", "Abu Sufyan", "Ikrimah"],
+        "answer": 1,
+        "explanation": "Both Khalid bin Walid (RA) and Amr bin al-Aas (RA), brilliant tacticians, converted to Islam in 8 AH."
+    },
+    {
+        "q": "Which battle was fought against the Byzantine (Roman) Empire in 8 AH?",
+        "options": ["Battle of Tabuk", "Battle of Yarmouk", "Battle of Mu'tah", "Battle of Hunayn"],
+        "answer": 2,
+        "explanation": "The Battle of Mu'tah was the first confrontation with the Byzantines, involving 3000 Muslims against over 100,000 Romans."
+    },
+    {
+        "q": "Who earned the title 'Saifullah' (Sword of Allah) during the Battle of Mu'tah?",
+        "options": ["Hazrat Ali", "Hazrat Hamza", "Hazrat Khalid bin Walid", "Hazrat Zaid bin Haritha"],
+        "answer": 2,
+        "explanation": "Khalid bin Walid (RA) skillfully commanded the retreat to save the Muslim army, earning him the title 'Saifullah'."
+    },
+    {
+        "q": "What violation led to the Conquest of Makkah?",
+        "options": ["Quraish attacked Madinah", "Quraish helped Banu Bakr attack Banu Khuza'ah, Muslim allies", "Quraish stopped trade caravans", "Quraish killed an ambassador"],
+        "answer": 1,
+        "explanation": "The Quraish broke the Treaty of Hudaibiya by supplying weapons to Banu Bakr against Banu Khuza'ah, prompting the march on Makkah."
+    },
+    {
+        "q": "On what date did the Prophet (PBUH) victoriously enter Makkah?",
+        "options": ["20th Ramadan, 8 AH", "1st Muharram, 8 AH", "12th Rabi ul Awal, 8 AH", "10th Shawwal, 8 AH"],
+        "answer": 0,
+        "explanation": "The Prophet (PBUH) entered Makkah with an army of 10,000 on 20th Ramadan, 8 AH."
+    },
+    {
+        "q": "What did the Prophet (PBUH) say to the defeated Quraish upon conquering Makkah?",
+        "options": ["You are all prisoners", "Pay the Jizya", "No blame on you today, go, you are free", "Leave the city immediately"],
+        "answer": 2,
+        "explanation": "In an unparalleled display of mercy, he announced a general amnesty saying, 'Go, for you are free'."
+    },
+    {
+        "q": "How many idols were cleansed from the Kaaba upon the Conquest of Makkah?",
+        "options": ["100", "313", "360", "400"],
+        "answer": 2,
+        "explanation": "The Prophet (PBUH) destroyed 360 idols housed in and around the Kaaba with his staff, declaring 'Truth has come and falsehood has perished'."
+    },
+    {
+        "q": "Which battle occurred immediately after the Conquest of Makkah against the Hawazin and Thaqif tribes?",
+        "options": ["Battle of Tabuk", "Battle of Hunayn", "Battle of Mu'tah", "Battle of Khaibar"],
+        "answer": 1,
+        "explanation": "The Battle of Hunayn tested the Muslims who initially retreated due to overconfidence in their large numbers (12,000) before rallying for victory."
+    },
+    {
+        "q": "Which expedition is known as 'The Campaign of Hardship'?",
+        "options": ["Expedition of Tabuk", "Battle of Uhud", "Expedition of Badr", "Expedition of Khaybar"],
+        "answer": 0,
+        "explanation": "The Tabuk expedition (9 AH) took place during extreme summer heat and severe famine against the looming Byzantine threat."
+    },
+    {
+        "q": "Who brought all his wealth to finance the Tabuk Expedition?",
+        "options": ["Hazrat Umar", "Hazrat Usman", "Hazrat Ali", "Hazrat Abu Bakr"],
+        "answer": 3,
+        "explanation": "Hazrat Abu Bakr (RA) donated everything he owned, stating he left 'Allah and His Messenger' for his family."
+    },
+    {
+        "q": "What title did the Prophet (PBUH) give to Hazrat Usman (RA) for his massive contribution to Tabuk?",
+        "options": ["Al-Ghani", "Zun-Nurain", "جهز جيش العسرة (The Equipper of the Army of Hardship)", "As-Siddiq"],
+        "answer": 2,
+        "explanation": "Hazrat Usman (RA) financed a third of the army entirely on his own, earning high praises and a guarantee of paradise."
+    },
+    {
+        "q": "Which year is known as the 'Year of Delegations' (Aam-ul-Wufood)?",
+        "options": ["7 AH", "8 AH", "9 AH", "10 AH"],
+        "answer": 2,
+        "explanation": "In 9 AH, delegations from all over Arabia poured into Madinah to accept Islam, marking the supremacy of Islam."
+    },
+    {
+        "q": "Who led the first regular Hajj (Hajj-e-Akbar) on behalf of the Prophet (PBUH) in 9 AH?",
+        "options": ["Hazrat Umar", "Hazrat Abu Bakr", "Hazrat Ali", "Hazrat Usman"],
+        "answer": 1,
+        "explanation": "Hazrat Abu Bakr (RA) was appointed the first Amir al-Hajj, while Hazrat Ali (RA) announced that no idolater could perform Hajj anymore."
+    },
+    {
+        "q": "In which year did the Prophet (PBUH) perform his one and only Hajj?",
+        "options": ["8 AH", "9 AH", "10 AH", "11 AH"],
+        "answer": 2,
+        "explanation": "Known as Hajjat-ul-Wida (The Farewell Pilgrimage), it was performed in 10 AH."
+    },
+    {
+        "q": "Where did the Prophet (PBUH) deliver his famous Farewell Sermon?",
+        "options": ["Mount Safa", "Plain of Arafat (Mount of Mercy)", "Mina", "Muzdalifah"],
+        "answer": 1,
+        "explanation": "He delivered the historic address atop Jabal-ur-Rehman in the valley of Arafat to over 100,000 companions."
+    },
+    {
+        "q": "Which pivotal verse was revealed during the Farewell Hajj indicating the completion of faith?",
+        "options": ["Surah Fatiha", "Surah Al-Nasr", "Surah Maidah (5:3) 'This day I have perfected your religion...'", "Surah Al-Imran"],
+        "answer": 2,
+        "explanation": "Verse 3 of Surah Al-Ma'idah was revealed, confirming that Islam as a religion was fully perfected."
+    },
+    {
+        "q": "What was the core message of the Farewell Sermon?",
+        "options": ["Racial equality and sanctity of life", "Women's rights", "Abolition of interest (Riba)", "All of the above"],
+        "answer": 3,
+        "explanation": "It was a universal charter of human rights covering equality, life, property, women's rights, and economic justice."
+    },
+    {
+        "q": "How many days did the final illness of the Prophet (PBUH) last?",
+        "options": ["3 days", "10 days", "13-14 days", "30 days"],
+        "answer": 2,
+        "explanation": "His illness lasted for roughly two weeks before he departed from this world."
+    },
+    {
+        "q": "Who did the Prophet (PBUH) appoint to lead the prayers during his final illness?",
+        "options": ["Hazrat Ali", "Hazrat Umar", "Hazrat Abu Bakr", "Hazrat Usman"],
+        "answer": 2,
+        "explanation": "He explicitly commanded Hazrat Abu Bakr (RA) to lead the daily prayers (over 17 times), indicating him as the rightful successor."
+    },
+    {
+        "q": "On which exact date did Prophet Muhammad (PBUH) pass away?",
+        "options": ["12th Rabi ul Awal, 11 AH", "10th Muharram, 11 AH", "27th Rajab, 12 AH", "1st Shawwal, 10 AH"],
+        "answer": 0,
+        "explanation": "He passed away on a Monday, 12th of Rabi ul Awal in the year 11 AH."
+    },
+    {
+        "q": "In whose room was the Prophet (PBUH) buried?",
+        "options": ["Hazrat Khadija (RA)", "Hazrat Fatimah (RA)", "Hazrat Aisha (RA)", "Hazrat Hafsah (RA)"],
+        "answer": 2,
+        "explanation": "Prophets are buried where they pass away. He was buried exactly in the chamber of his wife Hazrat Aisha (RA), which is now under the Green Dome."
+    },
+    {
+        "q": "What were the Prophet's (PBUH) last words before his demise?",
+        "options": ["Establish Prayer", "To the highest companion in paradise (Allah)", "Treat women well", "Ummati, Ummati"],
+        "answer": 1,
+        "explanation": "His dying words were 'Allahumma ar-Rafiq al-A'la' (O Allah, the Highest Companion)."
+    },
+    {
+        "q": "Which companion initially refused to believe the Prophet (PBUH) had died out of shock?",
+        "options": ["Hazrat Abu Bakr", "Hazrat Umar", "Hazrat Usman", "Hazrat Ali"],
+        "answer": 1,
+        "explanation": "Hazrat Umar (RA) drew his sword and threatened anyone who claimed the Prophet had died, until Abu Bakr consoled the crowd."
+    },
+    {
+        "q": "Who famously said 'Whoever worshipped Muhammad, let him know that Muhammad is dead...'",
+        "options": ["Hazrat Umar", "Hazrat Ali", "Hazrat Abu Bakr", "Hazrat Abbas"],
+        "answer": 2,
+        "explanation": "Hazrat Abu Bakr (RA) delivered this powerful speech, reminding Muslims that Allah is Ever-Living and does not die."
+    },
+    {
+        "q": "What mark identified the 'Seal of Prophethood' on the body of Prophet Muhammad?",
+        "options": ["A birthmark on his chest", "A raised piece of flesh between his shoulder blades", "A marked finger", "A white streak in his hair"],
+        "answer": 1,
+        "explanation": "It was a physical raised mark, about the size of a pigeon's egg, located between his shoulders."
+    },
+    {
+        "q": "How many times is the name 'Muhammad' mentioned explicitly in the Holy Quran?",
+        "options": ["One", "Three", "Four", "Five"],
+        "answer": 2,
+        "explanation": "The specific name 'Muhammad' appears four times, and the name 'Ahmad' appears once."
+    },
+    {
+        "q": "Who was the wet nurse of the Prophet (PBUH) before Halimah Sadia?",
+        "options": ["Umm Ayman", "Suwaybah", "Shima", "Barakah"],
+        "answer": 1,
+        "explanation": "Suwaybah (Thuwaybah), the freed slave of Abu Lahab, briefly nursed the Prophet (PBUH)."
+    },
+    {
+        "q": "What was the real name of Abdul Muttalib?",
+        "options": ["Shaybah", "Qusay", "Hashim", "Amr"],
+        "answer": 0,
+        "explanation": "His birth name was Shaybah. He became known as Abdul Muttalib (Slave of Muttalib) after his uncle Muttalib brought him to Makkah."
+    },
+    {
+        "q": "Among the wives of the Prophet (PBUH), who is known as 'Hafizat ul-Quran' (Memorizer of the Quran)?",
+        "options": ["Hazrat Aisha", "Hazrat Hafsah", "Hazrat Zainab", "Hazrat Safiyyah"],
+        "answer": 1,
+        "explanation": "Hazrat Hafsah bint Umar (RA) was entrusted with the first original compiled manuscript of the Quran."
+    }
+]

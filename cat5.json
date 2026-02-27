@@ -1,0 +1,882 @@
+[
+    {
+        "q": "What is the meaning of the word 'Shahada'?",
+        "options": [
+            "To Pray",
+            "To Testify",
+            "To Purify",
+            "To Fast"
+        ],
+        "answer": 1,
+        "explanation": "Shahada means 'witnessing' or 'testifying' to the oneness of Allah and the prophethood of Muhammad (PBUH)."
+    },
+    {
+        "q": "How many times a day is Salah (Prayer) obligatory?",
+        "options": [
+            "3",
+            "5",
+            "7",
+            "10"
+        ],
+        "answer": 1,
+        "explanation": "Five daily prayers are obligatory: Fajr, Dhuhr, Asr, Maghrib, and Isha."
+    },
+    {
+        "q": "Which pillar of Islam is second in importance after Shahada?",
+        "options": [
+            "Zakat",
+            "Sawm",
+            "Salah",
+            "Hajj"
+        ],
+        "answer": 2,
+        "explanation": "Salah is the cornerstone of a believer's daily life and connection with Allah."
+    },
+    {
+        "q": "What is the literal meaning of 'Zakat'?",
+        "options": [
+            "Giving",
+            "Purification and Growth",
+            "Justice",
+            "Submission"
+        ],
+        "answer": 1,
+        "explanation": "Linguistically, Zakat means to purify one's wealth and spirit."
+    },
+    {
+        "q": "On which Islamic date is the fast of Ashura observed?",
+        "options": [
+            "1st Muharram",
+            "9th Muharram",
+            "10th Muharram",
+            "12th Rabi-ul-Awwal"
+        ],
+        "answer": 2,
+        "explanation": "The 10th of Muharram is the Day of Ashura."
+    },
+    {
+        "q": "What is the 'Nisab' of Silver for Zakat?",
+        "options": [
+            "40 Tolas",
+            "52.5 Tolas (612.36 grams)",
+            "60 Tolas",
+            "7.5 Tolas"
+        ],
+        "answer": 1,
+        "explanation": "Zakat becomes due when wealth exceeds the value of 52.5 tolas of silver."
+    },
+    {
+        "q": "Hajj is obligatory (Farz) how many times in a lifetime for those who can afford it?",
+        "options": [
+            "Every year",
+            "Once",
+            "Twice",
+            "Five times"
+        ],
+        "answer": 1,
+        "explanation": "Hajj is required only once in a lifetime, provided one has the physical and financial means."
+    },
+    {
+        "q": "Which prayer is performed specifically during the month of Ramadan after Isha?",
+        "options": [
+            "Tahajjud",
+            "Ishraq",
+            "Tarawih",
+            "Chasht"
+        ],
+        "answer": 2,
+        "explanation": "Tarawih is a Sunnah Mu'akkadah prayer performed in congregation during Ramadan."
+    },
+    {
+        "q": "What is the meaning of 'Sawm'?",
+        "options": [
+            "To eat less",
+            "To abstain / to refrain",
+            "To pray at night",
+            "To travel"
+        ],
+        "answer": 1,
+        "explanation": "Sawm literally means to abstain from food, drink, and sensory desires from dawn to sunset."
+    },
+    {
+        "q": "In which Islamic month is Fasting obligatory?",
+        "options": [
+            "Rajab",
+            "Sha'ban",
+            "Ramadan",
+            "Shawwal"
+        ],
+        "answer": 2,
+        "explanation": "Ramadan is the month of fasting, during which the Quran was revealed."
+    },
+    {
+        "q": "Which prayer is performed during a Solar Eclipse?",
+        "options": [
+            "Salat al-Khusuf",
+            "Salat al-Kusuf",
+            "Salat al-Istisqa",
+            "Salat al-Istikhara"
+        ],
+        "answer": 1,
+        "explanation": "Salat al-Kusuf is performed during a solar eclipse, while Khusuf is for lunar eclipses."
+    },
+    {
+        "q": "What is 'Fitrana' (Zakat-ul-Fitr)?",
+        "options": [
+            "A tax on land",
+            "Charity given at the end of Ramadan before Eid prayer",
+            "A loan",
+            "Zakat on gold"
+        ],
+        "answer": 1,
+        "explanation": "It is a wajib charity aimed at allowing the poor to celebrate Eid-ul-Fitr."
+    },
+    {
+        "q": "How many 'Raka'ahs' are in the obligatory (Farz) Fajr prayer?",
+        "options": [
+            "2",
+            "4",
+            "3",
+            "1"
+        ],
+        "answer": 0,
+        "explanation": "Fajr consists of 2 Sunnah and 2 Farz raka'ahs."
+    },
+    {
+        "q": "At what age should a child be encouraged to start praying Salah?",
+        "options": [
+            "5 years",
+            "7 years",
+            "10 years",
+            "15 years"
+        ],
+        "answer": 1,
+        "explanation": "The Prophet (PBUH) instructed parents to teach children to pray at age seven."
+    },
+    {
+        "q": "Which act of worship is described as the 'Ascension' (Mi'raj) of the believer?",
+        "options": [
+            "Hajj",
+            "Sawm",
+            "Salah",
+            "Zakat"
+        ],
+        "answer": 2,
+        "explanation": "Salah is a direct meeting and spiritual conversation between the slave and Allah."
+    },
+    {
+        "q": "What is 'Tayammum'?",
+        "options": [
+            "Washing with soap",
+            "Dry ablution using clean soil or dust",
+            "Washing feet only",
+            "Reciting verses"
+        ],
+        "answer": 1,
+        "explanation": "Tayammum is allowed when water is unavailable or its use would be harmful to health."
+    },
+    {
+        "q": "Hajj is performed in which city?",
+        "options": [
+            "Madinah",
+            "Makkah",
+            "Jerusalem",
+            "Cairo"
+        ],
+        "answer": 1,
+        "explanation": "The rituals of Hajj take place in and around Makkah (Mina, Arafat, Muzdalifah)."
+    },
+    {
+        "q": "What is 'Sujud-e-Sahw'?",
+        "options": [
+            "Prostration for Thanksgiving",
+            "Prostration of forgetfulness during Salah",
+            "Prostration during Quran recitation",
+            "None"
+        ],
+        "answer": 1,
+        "explanation": "It corrects unintentional omissions or additions in the prayer."
+    },
+    {
+        "q": "Which prayer is performed to seek Allah's guidance for a decision?",
+        "options": [
+            "Salat al-Hajat",
+            "Salat al-Tawbah",
+            "Salat al-Istikhara",
+            "Salat al-Janazah"
+        ],
+        "answer": 2,
+        "explanation": "Istikhara is recommended when one is unsure about a particular course of action."
+    },
+    {
+        "q": "What is the language of the 'Adhan' (Call to Prayer)?",
+        "options": [
+            "Persian",
+            "Urdu",
+            "Arabic",
+            "Hebrew"
+        ],
+        "answer": 2,
+        "explanation": "Adhan is always called in the Arabic language."
+    },
+    {
+        "q": "What is the 'Qibla'?",
+        "options": [
+            "The Imam's position",
+            "The direction of the Kaaba in Makkah",
+            "The front row of prayer",
+            "A prayer rug"
+        ],
+        "answer": 1,
+        "explanation": "All Muslims face the Holy Kaaba during their prayers."
+    },
+    {
+        "q": "What is the percentage of Zakat due on wealth annually?",
+        "options": [
+            "1%",
+            "2.5%",
+            "5%",
+            "10%"
+        ],
+        "answer": 1,
+        "explanation": "Zakat is calculated at 2.5% of the total saved wealth above the Nisab."
+    },
+    {
+        "q": "Which day of the week is considered the most sacred in Islam?",
+        "options": [
+            "Monday",
+            "Friday (Jumu'ah)",
+            "Saturday",
+            "Sunday"
+        ],
+        "answer": 1,
+        "explanation": "Friday is the best day of the week and has a special congregational prayer."
+    },
+    {
+        "q": "What is 'Ghusl'?",
+        "options": [
+            "Partial washing",
+            "Ritual full-body bath",
+            "Wiping the head",
+            "Cleaning the teeth"
+        ],
+        "answer": 1,
+        "explanation": "Ghusl is necessary for ritual purity (Taharah) in specific circumstances."
+    },
+    {
+        "q": "What is the meaning of 'Takbeer' during the opening of Salah?",
+        "options": [
+            "God is One",
+            "God is Greatest (Allah-u-Akbar)",
+            "God is Holy",
+            "All praise to God"
+        ],
+        "answer": 1,
+        "explanation": "It signifies that Allah is greater than everything else in the world."
+    },
+    {
+        "q": "What is 'Wudu'?",
+        "options": [
+            "Daily bath",
+            "Ablution before prayer",
+            "Friday sermon",
+            "Pilgrimage clothes"
+        ],
+        "answer": 1,
+        "explanation": "Wudu is the ritual washing of specific body parts to achieve purity for prayer."
+    },
+    {
+        "q": "Which prayer is offered when there is a drought to seek rain?",
+        "options": [
+            "Salat al-Khauf",
+            "Salat al-Kusuf",
+            "Salat al-Istisqa",
+            "Salat al-Eid"
+        ],
+        "answer": 2,
+        "explanation": "Istisqa is an extra prayer performed in an open area to ask for rain."
+    },
+    {
+        "q": "How many times is 'Allahu Akbar' said in the beginning of the Adhan?",
+        "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "answer": 1,
+        "explanation": "In the standard Adhan, Allahu Akbar is called 4 times at the beginning."
+    },
+    {
+        "q": "Whose funeral prayer (Janazah) has the highest reward?",
+        "options": [
+            "A king",
+            "A scholar",
+            "Every Muslim",
+            "Parents"
+        ],
+        "answer": 2,
+        "explanation": "Attending and offering the funeral prayer for any fellow Muslim carries a reward equivalent to a mountain of gold (Qirat)."
+    },
+    {
+        "q": "Which night in Ramadan is better than a thousand months?",
+        "options": [
+            "27th Night",
+            "Laylat-ul-Qadr",
+            "The last Friday",
+            "15th Night"
+        ],
+        "answer": 1,
+        "explanation": "Laylat-ul-Qadr (Night of Decree) is found in the last ten odd nights of Ramadan."
+    },
+    {
+        "q": "What is 'I'tikaf'?",
+        "options": [
+            "Traveling for Hajj",
+            "Secluding oneself in a mosque for worship in Ramadan",
+            "Giving Zakat",
+            "Fighting in a battle"
+        ],
+        "answer": 1,
+        "explanation": "It is a Sunnah to spend the last 10 days of Ramadan in the mosque focusing purely on worship."
+    },
+    {
+        "q": "Who is exempt from Fasting in Ramadan?",
+        "options": [
+            "Travelers",
+            "The Sick",
+            "Children",
+            "All of the above"
+        ],
+        "answer": 3,
+        "explanation": "These categories are allowed to skip fasts, with some required to make them up later or pay Fidyah."
+    },
+    {
+        "q": "What is the meaning of 'Tahajjud'?",
+        "options": [
+            "Mandatory prayer",
+            "Late night voluntary prayer",
+            "Prayer before sunrise",
+            "Prayer after dinner"
+        ],
+        "answer": 1,
+        "explanation": "Tahajjud is a highly rewarded voluntary prayer performed in the third part of the night."
+    },
+    {
+        "q": "What is 'Sadaqah'?",
+        "options": [
+            "Mandatory tax",
+            "Voluntary charity",
+            "A loan",
+            "A fast"
+        ],
+        "answer": 1,
+        "explanation": "Unlike Zakat, Sadaqah can be given at any time and in any amount."
+    },
+    {
+        "q": "What is the literal meaning of 'Arkan' in 'Arkan-e-Islam'?",
+        "options": [
+            "Laws",
+            "Pillars / Foundations",
+            "Members",
+            "Books"
+        ],
+        "answer": 1,
+        "explanation": "They are the five foundational pillars that support the house of Islam."
+    },
+    {
+        "q": "Where do pilgrims stand on the 9th of Zilhajj during Hajj?",
+        "options": [
+            "Mina",
+            "Arafat",
+            "Muzdalifah",
+            "Makkah"
+        ],
+        "answer": 1,
+        "explanation": "Wuquf-e-Arafat (Standing at Arafat) is the most significant ritual of Hajj."
+    },
+    {
+        "q": "What is the meaning of 'Ihram'?",
+        "options": [
+            "Special garments and sacred state for Hajj/Umrah",
+            "A type of prayer",
+            "A city in Arabia",
+            "The Kaaba's door"
+        ],
+        "answer": 0,
+        "explanation": "It includes wearing specific white cloths and following strict prohibitions (like no perfume)."
+    },
+    {
+        "q": "How many times do pilgrims circle the Kaaba during 'Tawaf'?",
+        "options": [
+            "3",
+            "5",
+            "7",
+            "10"
+        ],
+        "answer": 2,
+        "explanation": "Tawaf consists of 7 counter-clockwise circumambulations of the Kaaba."
+    },
+    {
+        "q": "What is 'Sai' during Hajj?",
+        "options": [
+            "Slinging stones",
+            "Running between Safa and Marwa",
+            "Sacrificing an animal",
+            "Sleeping in Mina"
+        ],
+        "answer": 1,
+        "explanation": "It commemorates Hazrat Hajar's search for water for Ismail (AS)."
+    },
+    {
+        "q": "What is 'Rami' during Hajj?",
+        "options": [
+            "The symbolic stoning of the devil (Jamarat)",
+            "Staying in Muzdalifah",
+            "Cutting the hair",
+            "Drinking Zamzam"
+        ],
+        "answer": 0,
+        "explanation": "Pilgrims throw pebbles at three pillars symbolizing the rejection of Shaytan's temptations."
+    },
+    {
+        "q": "Which Eid is celebrated at the end of Hajj?",
+        "options": [
+            "Eid-ul-Fitr",
+            "Eid-ul-Adha",
+            "Eid Milad-un-Nabi",
+            "Shab-e-Barat"
+        ],
+        "answer": 1,
+        "explanation": "Eid-ul-Adha is the Festival of Sacrifice."
+    },
+    {
+        "q": "What is the purpose of 'Qurbani' (Sacrifice)?",
+        "options": [
+            "To get meat",
+            "To commemorate Prophet Ibrahim's sacrifice",
+            "To show off wealth",
+            "To end the fast"
+        ],
+        "answer": 1,
+        "explanation": "It symbolizes obedience to Allah's will as shown by Prophet Ibrahim (AS)."
+    },
+    {
+        "q": "Which direction do Muslims face during their daily prayers?",
+        "options": [
+            "East",
+            "West",
+            "The Kaaba (Makkah)",
+            "The Masjid an-Nabawi"
+        ],
+        "answer": 2,
+        "explanation": "The Kaaba is the universal Qibla for all Muslims."
+    },
+    {
+        "q": "What is the 'Iqamah'?",
+        "options": [
+            "The first call to prayer",
+            "The second call given just before the prayer starts",
+            "A type of prostration",
+            "A Friday sermon"
+        ],
+        "answer": 1,
+        "explanation": "It signals that the congregation is standing and the prayer is beginning."
+    },
+    {
+        "q": "What is 'Janaba'?",
+        "options": [
+            "A city",
+            "A state of ritual impurity requiring Ghusl",
+            "A type of charity",
+            "A Friday prayer"
+        ],
+        "answer": 1,
+        "explanation": "One must perform Ghusl to become pure again for worship."
+    },
+    {
+        "q": "Is Zakat due on personal residence and cars used for daily needs?",
+        "options": [
+            "Yes",
+            "No",
+            "Only if they are luxury",
+            "Only if sold"
+        ],
+        "answer": 1,
+        "explanation": "Items for personal use are exempt from Zakat; it is due only on surplus wealth/investments."
+    },
+    {
+        "q": "Can Zakat be given to one's own parents or children?",
+        "options": [
+            "Yes",
+            "No",
+            "Only if they are very poor",
+            "Only once a year"
+        ],
+        "answer": 1,
+        "explanation": "One is responsible for the financial care of direct ancestors and descendants; Zakat must go to others in need."
+    },
+    {
+        "q": "What is the meaning of 'Iman'?",
+        "options": [
+            "To pray",
+            "Faith / Belief",
+            "Charity",
+            "Peace"
+        ],
+        "answer": 1,
+        "explanation": "Iman is the sincere belief in Allah, His Angels, Books, Messengers, the Day of Judgment, and Decree."
+    },
+    {
+        "q": "How many pillars of 'Iman' (Faith) are there?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "3"
+        ],
+        "answer": 1,
+        "explanation": "These are: Belief in Allah, Angels, Books, Prophets, Last Day, and Predestination."
+    },
+    {
+        "q": "What is the 'Shahada' formula?",
+        "options": [
+            "Bismillah",
+            "Alhamdulillah",
+            "La ilaha illAllah Muhammadur RasoolAllah",
+            "Allahu Akbar"
+        ],
+        "answer": 2,
+        "explanation": "It means: 'There is no god but Allah, and Muhammad is the Messenger of Allah'."
+    },
+    {
+        "q": "What is 'Niyyah'?",
+        "options": [
+            "Action",
+            "Intention",
+            "Prayer",
+            "Charity"
+        ],
+        "answer": 1,
+        "explanation": "Every act of worship must be preceded by a sincere intention for Allah's sake."
+    },
+    {
+        "q": "What breaks the Wudu?",
+        "options": [
+            "Sleeping",
+            "Using the toilet",
+            "Bleeding heavily",
+            "All of the above"
+        ],
+        "answer": 3,
+        "explanation": "Various factors invalidate the state of ritual purity."
+    },
+    {
+        "q": "Which part of the body must be covered (Awrah) for men during prayer?",
+        "options": [
+            "Only chest",
+            "From navel to knees",
+            "Whole body",
+            "Hands and feet"
+        ],
+        "answer": 1,
+        "explanation": "Men must cover at least the area from the navel to the knees."
+    },
+    {
+        "q": "Which part of the body must be covered (Awrah) for women during prayer?",
+        "options": [
+            "Only head",
+            "Whole body except face and hands",
+            "Only shoulders",
+            "Whole face"
+        ],
+        "answer": 1,
+        "explanation": "Women must cover everything except the face, hands, and (in some views) feet."
+    },
+    {
+        "q": "What is 'Khutbah'?",
+        "options": [
+            "A prayer rug",
+            "The sermon delivered on Friday or Eid",
+            "A city in Egypt",
+            "A type of fasting"
+        ],
+        "answer": 1,
+        "explanation": "It provides religious and social guidance to the community."
+    },
+    {
+        "q": "How many 'Sunnah' Raka'ahs are in the Maghrib prayer?",
+        "options": [
+            "2",
+            "4",
+            "0",
+            "1"
+        ],
+        "answer": 0,
+        "explanation": "Maghrib has 3 Farz followed by 2 Sunnah Raka'ahs."
+    },
+    {
+        "q": "What is the 'Tasbih' said in Ruku (bowing position)?",
+        "options": [
+            "Subhana Rabbiy-al-Azeem",
+            "Subhana Rabbiy-al-A'la",
+            "Alhamdulillah",
+            "Allahu Akbar"
+        ],
+        "answer": 0,
+        "explanation": "It means 'Glory be to my Lord, the Magnificent'."
+    },
+    {
+        "q": "What is the 'Tasbih' said in Sujud (prostration)?",
+        "options": [
+            "Subhana Rabbiy-al-Azeem",
+            "Subhana Rabbiy-al-A'la",
+            "Allahu Akbar",
+            "SubhanAllah"
+        ],
+        "answer": 1,
+        "explanation": "It means 'Glory be to my Lord, the Most High'."
+    },
+    {
+        "q": "What is 'Tashahhud'?",
+        "options": [
+            "Bowing",
+            "Sitting position in prayer while reciting specific prayers (Attahiyat)",
+            "Standing",
+            "Walking"
+        ],
+        "answer": 1,
+        "explanation": "It is the testimony recited while sitting in the second and final raka'ah of prayer."
+    },
+    {
+        "q": "What is 'Salam' at the end of Salah?",
+        "options": [
+            "Saying 'Peace be upon you' to the right and left",
+            "Standing up",
+            "Drinking water",
+            "None"
+        ],
+        "answer": 0,
+        "explanation": "It marks the formal conclusion of the prayer."
+    },
+    {
+        "q": "What is 'Ushr'?",
+        "options": [
+            "A fast",
+            "Zakat on agricultural land produce (10% or 5%)",
+            "A tax on gold",
+            "A Friday prayer"
+        ],
+        "answer": 1,
+        "explanation": "Ushr is the specific Zakat levied on the yield of farms."
+    },
+    {
+        "q": "What is the 'Meeqat'?",
+        "options": [
+            "A time for prayer",
+            "Specific boundaries for starting Ihram for Hajj/Umrah",
+            "A type of dates",
+            "The Kaaba's corner"
+        ],
+        "answer": 1,
+        "explanation": "Pilgrims must enter the state of Ihram before crossing these geographic points."
+    },
+    {
+        "q": "How many times did the Prophet (PBUH) perform Umrah?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3,
+        "explanation": "He performed four Umrahs during his life after Hijrah."
+    },
+    {
+        "q": "What is 'Zamzam'?",
+        "options": [
+            "A mountain",
+            "A miraculous well in Makkah",
+            "A type of cloth",
+            "A prayer"
+        ],
+        "answer": 1,
+        "explanation": "It sprang from the ground under the feet of baby Ismail (AS) to provide water in the desert."
+    },
+    {
+        "q": "Is Fasting obligatory during sickness or travel?",
+        "options": [
+            "Yes, mandatory",
+            "No, it is optional and must be compensated later",
+            "It is haram to fast",
+            "Only if you can't walk"
+        ],
+        "answer": 1,
+        "explanation": "Allah has provided ease for those facing hardship."
+    },
+    {
+        "q": "What is the name of the white garment worn by men for Hajj?",
+        "options": [
+            "Jubbah",
+            "Ihram",
+            "Kurta",
+            "Abaya"
+        ],
+        "answer": 1,
+        "explanation": "It consists of two unstitched white cloths representing equality."
+    },
+    {
+        "q": "What is 'Miswak'?",
+        "options": [
+            "A prayer rug",
+            "A twig used for cleaning teeth (Sunnah)",
+            "A type of scent",
+            "A head covering"
+        ],
+        "answer": 1,
+        "explanation": "Cleaning the teeth with Miswak is a highly recommended practice before prayer."
+    },
+    {
+        "q": "Which prayer consists of an even number of Raka'ahs except one?",
+        "options": [
+            "Fajr",
+            "Maghrib",
+            "Isha",
+            "Asr"
+        ],
+        "answer": 1,
+        "explanation": "Maghrib has 3 obligatory raka'ahs, while the others have 2 or 4."
+    },
+    {
+        "q": "What is 'Witr' prayer?",
+        "options": [
+            "A prayer after Maghrib",
+            "A concluding prayer after Isha with odd raka'ahs",
+            "A prayer at noon",
+            "A Friday prayer"
+        ],
+        "answer": 1,
+        "explanation": "Witr means 'odd number' and is performed as 1, 3, 5, etc. raka'ahs."
+    },
+    {
+        "q": "When is the 'Du'a-e-Qunoot' recited?",
+        "options": [
+            "During Fajr",
+            "During Witr prayer",
+            "During Eid prayer",
+            "During funeral prayer"
+        ],
+        "answer": 1,
+        "explanation": "It is a special supplication recited in the third raka'ah of Witr (often in the Hanafi school)."
+    },
+    {
+        "q": "What is 'Sujud-us-Shukr'?",
+        "options": [
+            "Prostration for repentance",
+            "Prostration of gratitude to Allah",
+            "Prostration during Hajj",
+            "Prostration of forgetfulness"
+        ],
+        "answer": 1,
+        "explanation": "One can perform it whenever receiving good news or escaping a calamity."
+    },
+    {
+        "q": "Which prayer has no bowing (Ruku) or prostration (Sujud)?",
+        "options": [
+            "Eid Prayer",
+            "Janazah (Funeral) Prayer",
+            "Witr Prayer",
+            "Tarawih"
+        ],
+        "answer": 1,
+        "explanation": "The funeral prayer is performed standing and consists of four Takbeers."
+    },
+    {
+        "q": "What is 'Muzdalifah'?",
+        "options": [
+            "A river",
+            "An open area where pilgrims spend the night after Arafat",
+            "A mosque in Madinah",
+            "A gate of Makkah"
+        ],
+        "answer": 1,
+        "explanation": "Pilgrims collect pebbles here for the stoning ritual (Rami)."
+    },
+    {
+        "q": "How many years did the Prophet (PBUH) pray towards Jerusalem?",
+        "options": [
+            "Approx 16-17 months after Hijrah",
+            "10 years",
+            "5 years",
+            "Never"
+        ],
+        "answer": 0,
+        "explanation": "The Qibla was changed from Al-Aqsa to the Kaaba by divine command."
+    },
+    {
+        "q": "What is the penalty for intentionally skipping a Ramadan fast (Kaffarah)?",
+        "options": [
+            "Feeding 10 people",
+            "Fasting 60 consecutive days",
+            "Paying Zakat twice",
+            "Performing an extra Umrah"
+        ],
+        "answer": 1,
+        "explanation": "The kaffarah is severe to reflect the sanctity of the obligatory fast."
+    },
+    {
+        "q": "Which direction did the Prophet (PBUH) face during the Night Journey (Isra)?",
+        "options": [
+            "Al-Aqsa Mosque",
+            "Kaaba",
+            "Both",
+            "None"
+        ],
+        "answer": 0,
+        "explanation": "Jerusalem was the spiritual focus of that miraculous journey."
+    },
+    {
+        "q": "What is the first thing a Muslim should do upon entering a mosque?",
+        "options": [
+            "Start talking",
+            "Drink water",
+            "Perform 2 Raka'ahs (Tahiyat-ul-Masjid)",
+            "Sit down immediately"
+        ],
+        "answer": 2,
+        "explanation": "Greeting the mosque with 2 voluntary raka'ahs is highly recommended."
+    },
+    {
+        "q": "Is it permissible to pray while wearing shoes if they are clean?",
+        "options": [
+            "No, never",
+            "Yes, in specific conditions like travel/war",
+            "Only on a rug",
+            "Only in the morning"
+        ],
+        "answer": 1,
+        "explanation": "The Prophet (PBUH) and companions sometimes prayed with their footwear when circumstances required it."
+    },
+    {
+        "q": "What is the meaning of 'Dua'?",
+        "options": [
+            "Submission",
+            "Call / Supplication",
+            "Charity",
+            "Fasting"
+        ],
+        "answer": 1,
+        "explanation": "Dua is the essence of worship, where a believer talks directly to Allah."
+    },
+    {
+        "q": "What is the reward for Hajj al-Mabrur (Accepted Hajj)?",
+        "options": [
+            "Wealth",
+            "Respect",
+            "Nothing but Paradise (Jannah)",
+            "Forgiveness of only minor sins"
+        ],
+        "answer": 2,
+        "explanation": "Prophet (PBUH) said an accepted Hajj results in returning home as pure as the day one was born."
+    }
+]

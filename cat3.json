@@ -1,0 +1,882 @@
+[
+    {
+        "q": "Which Islamic month is known as the month of 'Victory' after the Conquest of Makkah?",
+        "options": [
+            "Muharram",
+            "Ramadan",
+            "Shawwal",
+            "Zilhajj"
+        ],
+        "answer": 1,
+        "explanation": "The Conquest of Makkah happened in the month of Ramadan, 8 AH."
+    },
+    {
+        "q": "Who was the first person to lead a Hajj delegation in Islam (9 AH)?",
+        "options": [
+            "Prophet Muhammad (PBUH)",
+            "Hazrat Abu Bakr (RA)",
+            "Hazrat Ali (RA)",
+            "Hazrat Umar (RA)"
+        ],
+        "answer": 1,
+        "explanation": "Hazrat Abu Bakr (RA) was appointed the first 'Amir-ul-Hajj' in 9 AH."
+    },
+    {
+        "q": "Which empire was defeated by Muslims at the Battle of Yarmouk?",
+        "options": [
+            "Persian Sassanid Empire",
+            "Byzantine Roman Empire",
+            "Mongol Empire",
+            "Indian Maurya Empire"
+        ],
+        "answer": 1,
+        "explanation": "The Battle of Yarmouk (15 AH) was a major victory over the Byzantine Empire, ending Roman rule in Syria."
+    },
+    {
+        "q": "Who was the Muslim general who conquered Egypt?",
+        "options": [
+            "Khalid bin Walid",
+            "Amr bin al-Aas",
+            "Sa'd bin Abi Waqqas",
+            "Tariq bin Ziyad"
+        ],
+        "answer": 1,
+        "explanation": "Hazrat Amr bin al-Aas (RA) led the conquest of Egypt during the caliphate of Hazrat Umar (RA)."
+    },
+    {
+        "q": "Which battle marked the end of the Sassanid Persian Empire?",
+        "options": [
+            "Battle of Badr",
+            "Battle of Qadisiyah",
+            "Battle of Nahavand",
+            "Battle of Khandaq"
+        ],
+        "answer": 2,
+        "explanation": "The Battle of Nahavand (21 AH) is known as the 'Victory of Victories' (Fateh-ul-Futooh) because it decisively broke the Persian resistance."
+    },
+    {
+        "q": "Who was the Muslim general in the Battle of Qadisiyah?",
+        "options": [
+            "Sa'd bin Abi Waqqas",
+            "Khalid bin Walid",
+            "Amr bin al-Aas",
+            "Ubaydah bin al-Jarrah"
+        ],
+        "answer": 0,
+        "explanation": "Hazrat Sa'd bin Abi Waqqas (RA) led the Muslim army to victory against the Persians in 15 AH."
+    },
+    {
+        "q": "The city of Baghdad was built as the capital for which caliphate?",
+        "options": [
+            "Umayyad",
+            "Abbasid",
+            "Rashidun",
+            "Fatimid"
+        ],
+        "answer": 1,
+        "explanation": "Baghdad was founded by the second Abbasid Caliph, Al-Mansur, in 762 AD."
+    },
+    {
+        "q": "Who was the first Christian King to accept Islamic refugees in Abyssinia?",
+        "options": [
+            "Heraclius",
+            "Negus (Al-Najashi)",
+            "Muqawqis",
+            "Constantine"
+        ],
+        "answer": 1,
+        "explanation": "King Negus of Abyssinia gave shelter to Muslims escaping Makkan persecution."
+    },
+    {
+        "q": "Which Muslim general conquered North Africa and founded the city of Kairouan?",
+        "options": [
+            "Amr bin al-Aas",
+            "Uqba bin Nafi",
+            "Musa bin Nusayr",
+            "Tariq bin Ziyad"
+        ],
+        "answer": 1,
+        "explanation": "Hazrat Uqba bin Nafi (RA) is famous for his conquest of the Maghreb and establishing Kairouan in present-day Tunisia."
+    },
+    {
+        "q": "What was the capital city of Muslim Spain (Al-Andalus) for a long time?",
+        "options": [
+            "Madrid",
+            "Granada",
+            "Cordoba",
+            "Seville"
+        ],
+        "answer": 2,
+        "explanation": "Cordoba (Qurtuba) was the center of culture and science in Islamic Spain."
+    },
+    {
+        "q": "Which Muslim scientist is famously known as 'Avicenna' in the West?",
+        "options": [
+            "Al-Razi",
+            "Ibn Sina",
+            "Ibn al-Haytham",
+            "Al-Biruni"
+        ],
+        "answer": 1,
+        "explanation": "Ibn Sina was a polymath who wrote 'The Canon of Medicine', a standard medical text for centuries."
+    },
+    {
+        "q": "Who was the hero of the Third Crusade who retook Jerusalem in 1187?",
+        "options": [
+            "Salahuddin Ayyubi",
+            "Harun al-Rashid",
+            "Nizam-ul-Mulk",
+            "Alp Arslan"
+        ],
+        "answer": 0,
+        "explanation": "Salahuddin Ayyubi (Saladin) is celebrated for his chivalry and victory over the Crusaders."
+    },
+    {
+        "q": "Which battle saw the defeat of the Crusaders and the capture of King Guy of Jerusalem?",
+        "options": [
+            "Battle of Manzikert",
+            "Battle of Hattin",
+            "Battle of Tours",
+            "Battle of Ayn Jalut"
+        ],
+        "answer": 1,
+        "explanation": "The Battle of Hattin (1187) paved the way for the liberation of Jerusalem."
+    },
+    {
+        "q": "Which Mongol leader's army destroyed the House of Wisdom in Baghdad (1258 AD)?",
+        "options": [
+            "Genghis Khan",
+            "Hulagu Khan",
+            "Kublai Khan",
+            "Tamerlane"
+        ],
+        "answer": 1,
+        "explanation": "Hulagu Khan's siege of Baghdad ended the Abbasid Golden Age and resulted in the destruction of countless books."
+    },
+    {
+        "q": "Who was the first female ruler in Islamic history to rule in Delhi?",
+        "options": [
+            "Chand Bibi",
+            "Razia Sultana",
+            "Nur Jahan",
+            "Mumtaz Mahal"
+        ],
+        "answer": 1,
+        "explanation": "Razia Sultana ruled the Delhi Sultanate from 1236 to 1240."
+    },
+    {
+        "q": "Which Islamic empire was founded by Osman Ghazi?",
+        "options": [
+            "Mughal Empire",
+            "Safavid Empire",
+            "Ottoman Empire",
+            "Umayyad Empire"
+        ],
+        "answer": 2,
+        "explanation": "The Ottoman Empire (Al-Dawla al-Uthmaniyya) grew from a small principality in Anatolia to a global power."
+    },
+    {
+        "q": "When did Sultan Mehmed Al-Fatih conquer Constantinople?",
+        "options": [
+            "1444 AD",
+            "1453 AD",
+            "1492 AD",
+            "1517 AD"
+        ],
+        "answer": 1,
+        "explanation": "In 1453, Mehmed II conquered the capital of the Byzantine Empire and renamed it Istanbul."
+    },
+    {
+        "q": "Which document is considered the first written constitution in human history?",
+        "options": [
+            "Magna Carta",
+            "Charter of Madinah (Misaq-e-Madinah)",
+            "Code of Hammurabi",
+            "US Constitution"
+        ],
+        "answer": 1,
+        "explanation": "Misaq-e-Madinah established the rights and duties of citizens in the pluralistic state of Madinah (622 AD)."
+    },
+    {
+        "q": "Who was the Muslim mathematician who developed Decimal notation and Algebra?",
+        "options": [
+            "Al-Kindi",
+            "Al-Khwarizmi",
+            "Omar Khayyam",
+            "Ibn Khaldun"
+        ],
+        "answer": 1,
+        "explanation": "Al-Khwarizmi's work 'Kitab al-Jabr' is the origin of the term 'Algebra'."
+    },
+    {
+        "q": "Which Muslim traveler wrote a famous 'Rihla' (Travelogue) after journeying for 30 years?",
+        "options": [
+            "Ibn Battuta",
+            "Marco Polo",
+            "Al-Masudi",
+            "Ibn Jubayr"
+        ],
+        "answer": 0,
+        "explanation": "Ibn Battuta traveled across Africa, Asia, and Europe, covering over 75,000 miles."
+    },
+    {
+        "q": "Who was the founder of the Mughal Empire in India?",
+        "options": [
+            "Akbar",
+            "Humayun",
+            "Babur",
+            "Shah Jahan"
+        ],
+        "answer": 2,
+        "explanation": "Zahir-ud-din Babur won the First Battle of Panipat in 1526, establishing Mughal rule."
+    },
+    {
+        "q": "Which battle did the Mamluks win against the Mongols, stopping their westward advance?",
+        "options": [
+            "Battle of Ayn Jalut",
+            "Battle of Marj al-Saffar",
+            "Battle of Mansurah",
+            "Battle of Horns"
+        ],
+        "answer": 0,
+        "explanation": "In 1260 AD, the Mamluk army led by Saifuddin Qutuz defeated the Mongols at Ayn Jalut in Palestine."
+    },
+    {
+        "q": "What was the name of the gold coin introduced by the Umayyad Caliph Abd al-Malik?",
+        "options": [
+            "Dinar",
+            "Dirham",
+            "Rupee",
+            "Lira"
+        ],
+        "answer": 0,
+        "explanation": "The Islamic Dinar became a standard currency across the Muslim world."
+    },
+    {
+        "q": "Which Muslim philosopher and sociologist wrote 'Al-Muqaddimah'?",
+        "options": [
+            "Ibn Hazm",
+            "Ibn Rushd",
+            "Ibn Khaldun",
+            "Al-Farabi"
+        ],
+        "answer": 2,
+        "explanation": "Ibn Khaldun is often cited as the father of modern sociology and historiography."
+    },
+    {
+        "q": "Who led the Great Seljuk Empire at the Battle of Manzikert against the Byzantines?",
+        "options": [
+            "Malik Shah",
+            "Tughril Beg",
+            "Alp Arslan",
+            "Suleyman Shah"
+        ],
+        "answer": 2,
+        "explanation": "Alp Arslan's victory in 1071 opened Anatolia to Turkish migration."
+    },
+    {
+        "q": "Which Islamic city was known as 'The Pearl of the East'?",
+        "options": [
+            "Cairo",
+            "Samarkand",
+            "Baghdad",
+            "Isfahan"
+        ],
+        "answer": 1,
+        "explanation": "Samarkand (in modern Uzbekistan) was a major Silk Road hub and Tamerlane's capital."
+    },
+    {
+        "q": "Who was the builder of the Alhambra Palace in Granada?",
+        "options": [
+            "Nasrid Dynasty",
+            "Almohad Dynasty",
+            "Almoravid Dynasty",
+            "Umayyad Dynasty"
+        ],
+        "answer": 0,
+        "explanation": "The Nasrid Emirs built the Alhambra, one of the finest examples of Islamic architecture."
+    },
+    {
+        "q": "Which Caliphate saw the 'Golden Age of Islam'?",
+        "options": [
+            "Rashidun",
+            "Umayyad",
+            "Abbasid",
+            "Ottoman"
+        ],
+        "answer": 2,
+        "explanation": "The Abbasid Caliphate (especially under Harun al-Rashid) was the peak of scientific and cultural growth."
+    },
+    {
+        "q": "Who was the First Martyr (Shaheed) among Muslim men?",
+        "options": [
+            "Hazrat Hamza (RA)",
+            "Hazrat Yasir (RA)",
+            "Hazrat Bilal (RA)",
+            "Hazrat Musab bin Umair (RA)"
+        ],
+        "answer": 1,
+        "explanation": "Hazrat Yasir (RA), the father of Ammar bin Yasir, was martyred after his wife Hazrat Sumayyah (RA)."
+    },
+    {
+        "q": "What was the duration of the Umayyad Caliphate?",
+        "options": [
+            "30 years",
+            "90 years",
+            "500 years",
+            "600 years"
+        ],
+        "answer": 1,
+        "explanation": "The Umayyads ruled from 661 AD to 750 AD (approx. 90 years)."
+    },
+    {
+        "q": "Who was the 'Lion of North Africa' who resisted Italian colonization in Libya?",
+        "options": [
+            "Abdelkader Al-Jazairi",
+            "Omar Mukhtar",
+            "Sultan Tipu",
+            "Muhammad Ahmad"
+        ],
+        "answer": 1,
+        "explanation": "Omar Mukhtar led the Libyan resistance for 20 years until his capture and execution in 1931."
+    },
+    {
+        "q": "Which war took place between Muslims and the Byzantine Empire during the Prophet's (PBUH) life?",
+        "options": [
+            "Battle of Badr",
+            "Battle of Mu'tah",
+            "Battle of Khandaq",
+            "Battle of Uhud"
+        ],
+        "answer": 1,
+        "explanation": "The Battle of Mu'tah (8 AH) was the first military encounter with the Byzantines."
+    },
+    {
+        "q": "Who built the famous 'Al-Azhar University' in Cairo?",
+        "options": [
+            "Umayyads",
+            "Abbasids",
+            "Fatimids",
+            "Ayyubids"
+        ],
+        "answer": 2,
+        "explanation": "The Fatimid Caliphate founded Al-Azhar in 970 AD, primarily for religious study."
+    },
+    {
+        "q": "Which ruler of Mysore (India) fought bravely against the British?",
+        "options": [
+            "Nizam of Hyderabad",
+            "Siraj ud-Daulah",
+            "Tipu Sultan",
+            "Bahadur Shah Zafar"
+        ],
+        "answer": 2,
+        "explanation": "Tipu Sultan, the 'Tiger of Mysore', died defending his capital, Seringapatam, in 1799."
+    },
+    {
+        "q": "Who was the 'Sword of Allah' (Saifullah)?",
+        "options": [
+            "Hazrat Ali",
+            "Hazrat Hamza",
+            "Hazrat Khalid bin Walid",
+            "Hazrat Umar"
+        ],
+        "answer": 2,
+        "explanation": "The Prophet (PBUH) gave this title to Khalid bin Walid for his tactical brilliance."
+    },
+    {
+        "q": "Which city was the capital of the Islamic world during the era of Hazrat Umar (RA)?",
+        "options": [
+            "Makkah",
+            "Madinah",
+            "Jerusalem",
+            "Damascus"
+        ],
+        "answer": 1,
+        "explanation": "Madinah remained the administrative center during the Rashidun period."
+    },
+    {
+        "q": "What was the result of the Battle of Tours (Poitiers) in 732 AD?",
+        "options": [
+            "Muslim expansion into France was halted",
+            "Muslims conquered Paris",
+            "Muslims retreated to Africa",
+            "A peace treaty was signed"
+        ],
+        "answer": 0,
+        "explanation": "The defeat of Umayyad forces by Charles Martel halted Islamic expansion in Western Europe."
+    },
+    {
+        "q": "Which Muslim general conquered Sindh in 712 AD?",
+        "options": [
+            "Mahmud Ghaznavi",
+            "Muhammad bin Qasim",
+            "Qutub-ud-din Aibak",
+            "Alauddin Khilji"
+        ],
+        "answer": 1,
+        "explanation": "At the age of 17, Muhammad bin Qasim led the Umayyad entry into the Indian sub-continent."
+    },
+    {
+        "q": "Who was the astronomer who correctly calculated the Earth's circumference in the 11th century?",
+        "options": [
+            "Al-Biruni",
+            "Ibn al-Haytham",
+            "Al-Battani",
+            "Nasir al-Din al-Tusi"
+        ],
+        "answer": 0,
+        "explanation": "Al-Biruni calculated it with remarkable accuracy staying at Nandana in modern-day Pakistan."
+    },
+    {
+        "q": "The 'Reconquista' refers to what event?",
+        "options": [
+            "Islamic Conquest of Persia",
+            "Christian recapture of Spain from Muslims",
+            "Crusader capture of Jerusalem",
+            "Mongol invasion of Baghdad"
+        ],
+        "answer": 1,
+        "explanation": "It was a centuries-long process ending in 1492 with the fall of Granada."
+    },
+    {
+        "q": "Who was the author of 'The Incoherence of the Philosophers' (Tahafut al-Falasifa)?",
+        "options": [
+            "Ibn Rushd",
+            "Al-Ghazali",
+            "Ibn Arabi",
+            "Al-Maturidi"
+        ],
+        "answer": 1,
+        "explanation": "Imam Al-Ghazali's work was a major critique of Neoplatonic philosophy in the Islamic world."
+    },
+    {
+        "q": "Which Caliph ordered the final compilation of the Quran into one standard copy?",
+        "options": [
+            "Hazrat Abu Bakr",
+            "Hazrat Umar",
+            "Hazrat Usman",
+            "Hazrat Ali"
+        ],
+        "answer": 2,
+        "explanation": "Hazrat Usman (RA) standardized the Mushaf to prevent differences in recitation."
+    },
+    {
+        "q": "The Taj Mahal was built as a tomb for whom?",
+        "options": [
+            "Noor Jahan",
+            "Mumtaz Mahal",
+            "Jahanara Begum",
+            "Razia Sultana"
+        ],
+        "answer": 1,
+        "explanation": "Shah Jahan built it for his beloved wife Mumtaz Mahal."
+    },
+    {
+        "q": "Which Islamic landmark is located in Jerusalem and contains the rock from which the Mi'raj started?",
+        "options": [
+            "Al-Aqsa Mosque",
+            "Dome of the Rock (Qubbat al-Sakhra)",
+            "Mosque of Omar",
+            "Church of Holy Sepulchre"
+        ],
+        "answer": 1,
+        "explanation": "The Dome of the Rock is an iconic structure with a golden dome."
+    },
+    {
+        "q": "Who was the commander of the Seljuk Turks who defeated the Byzantines at Manzikert?",
+        "options": [
+            "Ertugrul",
+            "Osman",
+            "Alp Arslan",
+            "Tughril"
+        ],
+        "answer": 2,
+        "explanation": "Alp Arslan ('Heroic Lion') was the second Sultan of the Seljuk Empire."
+    },
+    {
+        "q": "Which dynasty preceded the Mughals in many parts of India?",
+        "options": [
+            "The Delhi Sultanate",
+            "The Maratha Empire",
+            "The Sikh Empire",
+            "The Chola Dynasty"
+        ],
+        "answer": 0,
+        "explanation": "The Delhi Sultanate consisted of several dynasties like the Mamluks, Khiljis, Tughlaqs, Sayyids, and Lodis."
+    },
+    {
+        "q": "Who was the Caliph during the famous journey of Mansa Musa to Makkah?",
+        "options": [
+            "Abbasid Caliph Al-Mustakfi",
+            "Umayyad Caliph",
+            "Ottoman Sultan",
+            "Fatimid Caliph"
+        ],
+        "answer": 0,
+        "explanation": "Mansa Musa, King of Mali, made his famous Hajj in 1324 AD while the Abbasid shadow caliphate was in Cairo."
+    },
+    {
+        "q": "Which treaty ended the Russo-Turkish War and ceded major Ottoman territories?",
+        "options": [
+            "Treaty of Versailles",
+            "Treaty of Berlin",
+            "Treaty of Lausanne",
+            "Treaty of Karlowitz"
+        ],
+        "answer": 1,
+        "explanation": "The Treaty of Berlin (1878) significantly reduced Ottoman influence in the Balkans."
+    },
+    {
+        "q": "Who founded the 'Order of Assassins' (Hashshashin)?",
+        "options": [
+            "Hassan-i Sabbah",
+            "Saladin",
+            "Nizam-ul-Mulk",
+            "Al-Ghazali"
+        ],
+        "answer": 0,
+        "explanation": "Hassan-i Sabbah established a stronghold at Alamut Castle."
+    },
+    {
+        "q": "Which caliph introduced the title 'Amir-ul-Momineen'?",
+        "options": [
+            "Hazrat Abu Bakr",
+            "Hazrat Umar",
+            "Hazrat Usman",
+            "Hazrat Ali"
+        ],
+        "answer": 1,
+        "explanation": "Hazrat Umar (RA) was the first to be addressed as 'Commander of the Faithful'."
+    },
+    {
+        "q": "What was the name of the Islamic state established in Indonesia?",
+        "options": [
+            "Sultanate of Malacca",
+            "Sultanate of Demak",
+            "Sultanate of Delhi",
+            "Sultanate of Sulu"
+        ],
+        "answer": 1,
+        "explanation": "The Sultanate of Demak was the first major Islamic state on Java."
+    },
+    {
+        "q": "Which city was the first capital of the Umayyad state in Spain?",
+        "options": [
+            "Cordoba",
+            "Seville",
+            "Toledo",
+            "Valencia"
+        ],
+        "answer": 0,
+        "explanation": "Abd al-Rahman I established the Emirate of Cordoba after escaping the Abbasid massacre."
+    },
+    {
+        "q": "Who was the hero of the Battle of Ain Jalut?",
+        "options": [
+            "Salahuddin",
+            "Baibars & Qutuz",
+            "Harun al-Rashid",
+            "Nizamuddin"
+        ],
+        "answer": 1,
+        "explanation": "The Mamluk leaders Sultan Qutuz and General Baibars decisively defeated the Mongols."
+    },
+    {
+        "q": "Which Ottoman Sultan assumed the title of Caliph in 1517?",
+        "options": [
+            "Mehmed II",
+            "Suleiman I",
+            "Selim I",
+            "Abdulhamid II"
+        ],
+        "answer": 2,
+        "explanation": "Selim the Grim conquered the Mamluk Sultanate and brought the Caliphate to the Ottomans."
+    },
+    {
+        "q": "Who was the 'Father of Chemistry'?",
+        "options": [
+            "Jabir bin Hayyan",
+            "Al-Razi",
+            "Al-Biruni",
+            "Ibn Rushd"
+        ],
+        "answer": 0,
+        "explanation": "Jabir bin Hayyan (Geber) pioneered experimental chemistry and distillation."
+    },
+    {
+        "q": "Which battle is known as the 'Great Victory' in Islamic Spanish history?",
+        "options": [
+            "Battle of Guadalete",
+            "Battle of Tours",
+            "Battle of Navas de Tolosa",
+            "Battle of Las Navas"
+        ],
+        "answer": 0,
+        "explanation": "The Battle of Guadalete (711 AD) saw Tariq bin Ziyad defeat the Visigothic King Roderic."
+    },
+    {
+        "q": "Who was the Safavid ruler who made Twelve Shi'ism the state religion of Persia?",
+        "options": [
+            "Shah Abbas",
+            "Shah Ismail I",
+            "Shah Tahmasp",
+            "Nadir Shah"
+        ],
+        "answer": 1,
+        "explanation": "Shah Ismail I founded the Safavid dynasty in 1501."
+    },
+    {
+        "q": "What was the 'Devshirme' system in the Ottoman Empire?",
+        "options": [
+            "A tax system",
+            "Recruitment of Christian boys into the Janissary corps",
+            "A land grant system",
+            "A pilgrimage route"
+        ],
+        "answer": 1,
+        "explanation": "It produced high-ranking officials and elite soldiers loyal only to the Sultan."
+    },
+    {
+        "q": "The 'Mecca of the Greeks' was a title given to which Islamic center of learning?",
+        "options": [
+            "Baghdad",
+            "Cordoba",
+            "Bukhara",
+            "Timbuktu"
+        ],
+        "answer": 1,
+        "explanation": "Cordoba's library and scholars were unrivaled in Europe during the Middle Ages."
+    },
+    {
+        "q": "Who was the last Rashidun Caliph?",
+        "options": [
+            "Hazrat Usman",
+            "Hazrat Ali",
+            "Hazrat Hasan",
+            "Hazrat Muawiyah"
+        ],
+        "answer": 1,
+        "explanation": "Hazrat Ali (RA) was the 4th and last of the four 'Rightly Guided' caliphs (though some include Al-Hasan for his 6-month rule)."
+    },
+    {
+        "q": "The city of Cairo was founded by which general?",
+        "options": [
+            "Salahuddin",
+            "Jawhar al-Siqilli",
+            "Amr bin al-Aas",
+            "Tariq bin Ziyad"
+        ],
+        "answer": 1,
+        "explanation": "Jawhar al-Siqilli founded Al-Qahira (The Victorious) for the Fatimid Caliph Al-Mu'izz."
+    },
+    {
+        "q": "Which Islamic scholar wrote 'The Alchemy of Happiness'?",
+        "options": [
+            "Al-Ghazali",
+            "Rumi",
+            "Attar",
+            "Al-Hallaj"
+        ],
+        "answer": 0,
+        "explanation": "Imam Al-Ghazali wrote this as a Persian summary of his Ihya Ulum al-Din."
+    },
+    {
+        "q": "What event marked the beginning of the end for the Ottoman Empire's expansion in Europe?",
+        "options": [
+            "Siege of Vienna (1683)",
+            "Battle of Lepanto",
+            "Battle of Kosovo",
+            "Battle of Varna"
+        ],
+        "answer": 0,
+        "explanation": "The failure to capture Vienna in 1683 started a slow territorial decline."
+    },
+    {
+        "q": "Who was the 'Lion of the Punjab' who ruled after the Mughal decline?",
+        "options": [
+            "Maharaja Ranjit Singh (Sikh)",
+            "Ahmad Shah Abdali",
+            "Nadir Shah",
+            "Haider Ali"
+        ],
+        "answer": 0,
+        "explanation": "Ranjit Singh established the Sikh Empire in the Punjab region."
+    },
+    {
+        "q": "Which treaty recognized the independence of the Republic of Turkey in 1923?",
+        "options": [
+            "Treaty of Sevres",
+            "Treaty of Lausanne",
+            "Treaty of Versailles",
+            "Treaty of Mudros"
+        ],
+        "answer": 1,
+        "explanation": "The Treaty of Lausanne defined the borders of modern Turkey under Ataturk."
+    },
+    {
+        "q": "Who was the famous Sufi poet who wrote the 'Masnavi'?",
+        "options": [
+            "Hafez",
+            "Saadi",
+            "Jalaluddin Rumi",
+            "Omar Khayyam"
+        ],
+        "answer": 2,
+        "explanation": "Rumi's Masnavi-ye-Ma'navi is one of the most influential works in Persian literature."
+    },
+    {
+        "q": "Which battle saw the defeat of the Rajputs by Muhammad Ghori?",
+        "options": [
+            "First Battle of Tarain",
+            "Second Battle of Tarain",
+            "Battle of Khanwa",
+            "Battle of Haldighati"
+        ],
+        "answer": 1,
+        "explanation": "The victory in 1192 established Muslim rule in northern India."
+    },
+    {
+        "q": "Who built the famous 'Blue Mosque' (Sultan Ahmed Mosque) in Istanbul?",
+        "options": [
+            "Sultan Ahmed I",
+            "Sultan Suleiman",
+            "Sultan Mehmed II",
+            "Sultan Selim"
+        ],
+        "answer": 0,
+        "explanation": "It is famous for its six minarets and blue tiles."
+    },
+    {
+        "q": "What was the 'Jizya' tax in Islamic history?",
+        "options": [
+            "Tax on Muslims",
+            "Tax on non-Muslim subjects (Dhimmis) for protection & exclusion from military service",
+            "Alms for the poor",
+            "Trade tax"
+        ],
+        "answer": 1,
+        "explanation": "Jizya was paid by able-bodied non-Muslim men; women, children, and the poor were exempt."
+    },
+    {
+        "q": "Which movement was started by Muhammad ibn Abd al-Wahhab in central Arabia?",
+        "options": [
+            "Sanusi Movement",
+            "Mahdiyya Movement",
+            "Wahhabi Movement",
+            "Tablighi Jamaat"
+        ],
+        "answer": 2,
+        "explanation": "It aimed at purifying Islam from innovations and returning to original practices."
+    },
+    {
+        "q": "Who was the female companion who fought bravely in the Battle of Uhud?",
+        "options": [
+            "Hazrat Khadija",
+            "Hazrat Nusaybah bint Ka'b (Umad Umarah)",
+            "Hazrat Aisha",
+            "Hazrat Umm Salama"
+        ],
+        "answer": 1,
+        "explanation": "She shielded the Prophet (PBUH) from arrows and swords during the battle."
+    },
+    {
+        "q": "Which Islamic city's capture in 1258 is referred to as 'The End of the Golden Age'?",
+        "options": [
+            "Cairo",
+            "Baghdad",
+            "Cordoba",
+            "Samarkand"
+        ],
+        "answer": 1,
+        "explanation": "The Mongol destruction of Baghdad was a catastrophic blow to Islamic civilization."
+    },
+    {
+        "q": "Who was the philosopher known as 'The Second Teacher'?",
+        "options": [
+            "Al-Farabi",
+            "Ibn Sina",
+            "Al-Kindi",
+            "Ibn Rushd"
+        ],
+        "answer": 0,
+        "explanation": "Al-Farabi was called this, with Aristotle being 'The First Teacher'."
+    },
+    {
+        "q": "In which city is the 'Tomb of the Patriarchs' (Cave of Machpelah) located?",
+        "options": [
+            "Jerusalem",
+            "Hebron (Al-Khalil)",
+            "Nablus",
+            "Gaza"
+        ],
+        "answer": 1,
+        "explanation": "It is the burial place of Prophet Ibrahim (AS) and his family."
+    },
+    {
+        "q": "Which Caliphate ruled from Cordoba in the 10th century?",
+        "options": [
+            "The Abbasid Caliphate",
+            "The Umayyad Caliphate of Cordoba",
+            "The Almohad Caliphate",
+            "The Fatimid Caliphate"
+        ],
+        "answer": 1,
+        "explanation": "Abd al-Rahman III declared himself Caliph in 929 AD."
+    },
+    {
+        "q": "Who was the 'Emir of the Faithful' who fought the British in Sudan?",
+        "options": [
+            "Muhammad Ahmad (The Mahdi)",
+            "Abdullah bin Al-Siddiq",
+            "Osman Digna",
+            "Umar Futi"
+        ],
+        "answer": 0,
+        "explanation": "The Mahdist War (1881–1899) sought to end Turco-Egyptian and British rule."
+    },
+    {
+        "q": "Which Islamic landmark is famous for its 'Hall of a Thousand Columns'?",
+        "options": [
+            "Taj Mahal",
+            "Great Mosque of Cordoba (Mezquita)",
+            "Al-Haram Mosque",
+            "Faisal Mosque"
+        ],
+        "answer": 1,
+        "explanation": "The hypostyle hall of Cordoba's mosque is world-renowned."
+    },
+    {
+        "q": "Who was the creator of the 'Nizamiyya' school system?",
+        "options": [
+            "Imam al-Ghazali",
+            "Nizam-ul-Mulk Tusi",
+            "Alp Arslan",
+            "Harun al-Rashid"
+        ],
+        "answer": 1,
+        "explanation": "The Seljuk Vizier Nizam-ul-Mulk founded these advanced educational institutions."
+    },
+    {
+        "q": "What was the 'Khilafat Movement' in India (1919-1924)?",
+        "options": [
+            "A movement to start a new caliphate in India",
+            "A movement to save the Ottoman Caliphate",
+            "A movement to overthrow the British",
+            "A movement for a separate state"
+        ],
+        "answer": 1,
+        "explanation": "Indian Muslims united to protect the symbolic authority of the Ottoman Sultan."
+    },
+    {
+        "q": "The 'Fall of Granada' in 1492 marked the end of what?",
+        "options": [
+            "The Umayyad Dynasty",
+            "The Islamic presence in Spain (The Reconquista)",
+            "The Crusades",
+            "The Byzantine Empire"
+        ],
+        "answer": 1,
+        "explanation": "Boabdil, the last Emir, surrendered to the Catholic Monarchs Ferdinand and Isabella."
+    }
+]

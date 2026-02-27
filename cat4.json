@@ -1,0 +1,882 @@
+[
+    {
+        "q": "What was the birth name of Hazrat Abu Bakr (RA)?",
+        "options": [
+            "Abdullah",
+            "Abdul Kaaba",
+            "Atiq",
+            "Siddiq"
+        ],
+        "answer": 0,
+        "explanation": "His name was Abdullah. Before Islam, he was called Abdul Kaaba, and the Prophet (PBUH) renamed him Abdullah."
+    },
+    {
+        "q": "Who was the father of Hazrat Abu Bakr (RA)?",
+        "options": [
+            "Abu Quhafa",
+            "Abu Jahl",
+            "Abu Sufyan",
+            "Abu Lahab"
+        ],
+        "answer": 0,
+        "explanation": "Uthman bin Amir, better known as Abu Quhafa, accepted Islam on the day Makkah was conquered."
+    },
+    {
+        "q": "Which daughter of Hazrat Abu Bakr (RA) was married to the Prophet (PBUH)?",
+        "options": [
+            "Hazrat Asma",
+            "Hazrat Aisha",
+            "Hazrat Hafsa",
+            "Hazrat Sawda"
+        ],
+        "answer": 1,
+        "explanation": "Hazrat Aisha (RA) was the daughter of Abu Bakr (RA) and became the wife of the Prophet (PBUH)."
+    },
+    {
+        "q": "Hazrat Abu Bakr (RA) belonged to which branch of the Quraish?",
+        "options": [
+            "Banu Hashim",
+            "Banu Taym",
+            "Banu Adi",
+            "Banu Makhzum"
+        ],
+        "answer": 1,
+        "explanation": "He was from the Banu Taym clan."
+    },
+    {
+        "q": "Who was the 'Sidiq' (The Truthful)?",
+        "options": [
+            "Hazrat Umar",
+            "Hazrat Abu Bakr",
+            "Hazrat Usman",
+            "Hazrat Ali"
+        ],
+        "answer": 1,
+        "explanation": "The Prophet (PBUH) gave him this title after he immediately testified to the truth of the Isra and Mi'raj."
+    },
+    {
+        "q": "Which Caliph led the 'Apostasy Wars' (Ridda Wars)?",
+        "options": [
+            "Hazrat Abu Bakr",
+            "Hazrat Umar",
+            "Hazrat Usman",
+            "Hazrat Ali"
+        ],
+        "answer": 0,
+        "explanation": "After the Prophet's (PBUH) death, several tribes rebelled and followed false prophets; Abu Bakr (RA) suppressed them firmly."
+    },
+    {
+        "q": "Who was the false prophet defeated at the Battle of Yamama?",
+        "options": [
+            "Tulayha",
+            "Musaylimah Kazzab",
+            "Sajah",
+            "Aswad Ansi"
+        ],
+        "answer": 1,
+        "explanation": "Musaylimah the Liar was killed by Wahshi bin Harb (RA) during the caliphate of Abu Bakr (RA)."
+    },
+    {
+        "q": "Who suggested the compilation of the Quran into a single volume during Abu Bakr's era?",
+        "options": [
+            "Hazrat Ali",
+            "Hazrat Umar",
+            "Hazrat Zaid bin Thabit",
+            "Hazrat Usman"
+        ],
+        "answer": 1,
+        "explanation": "Hazrat Umar (RA) suggested it after many Huffaz (memorizers) were martyred at Yamama."
+    },
+    {
+        "q": "Who was the primary scribe tasked with compiling the first copy of the Quran?",
+        "options": [
+            "Hazrat Abu Bakr",
+            "Hazrat Ali",
+            "Hazrat Zaid bin Thabit",
+            "Hazrat Abdullah bin Masood"
+        ],
+        "answer": 2,
+        "explanation": "Zaid bin Thabit (RA) was chosen for his skill as a scribe and his memorization of the Quran."
+    },
+    {
+        "q": "How long was the caliphate of Hazrat Abu Bakr (RA)?",
+        "options": [
+            "2 years, 3 months",
+            "4 years",
+            "10 years",
+            "12 years"
+        ],
+        "answer": 0,
+        "explanation": "He ruled from 632 AD to 634 AD, a short but crucial period."
+    },
+    {
+        "q": "What was the profession of Hazrat Abu Bakr (RA)?",
+        "options": [
+            "Farmer",
+            "Merchant (Cloth Seller)",
+            "Blacksmith",
+            "Herdsman"
+        ],
+        "answer": 1,
+        "explanation": "He was a wealthy and respected cloth merchant in Makkah."
+    },
+    {
+        "q": "Who accompanied the Prophet (PBUH) in the Cave of Thawr during Hijrah?",
+        "options": [
+            "Hazrat Ali",
+            "Hazrat Abu Bakr",
+            "Hazrat Umar",
+            "Hazrat Zaid"
+        ],
+        "answer": 1,
+        "explanation": "Abu Bakr (RA) was the 'Companion of the Cave'."
+    },
+    {
+        "q": "At what age did Hazrat Abu Bakr (RA) pass away?",
+        "options": [
+            "60",
+            "63",
+            "65",
+            "70"
+        ],
+        "answer": 1,
+        "explanation": "He died at the same age as the Prophet Muhammad (PBUH)."
+    },
+    {
+        "q": "Who did Hazrat Abu Bakr (RA) nominate as his successor?",
+        "options": [
+            "Hazrat Usman",
+            "Hazrat Ali",
+            "Hazrat Umar",
+            "Hazrat Talha"
+        ],
+        "answer": 2,
+        "explanation": "After consulting the senior companions, he nominated Hazrat Umar (RA) to ensure continuity."
+    },
+    {
+        "q": "Hazrat Umar (RA) belonged to which Quraish clan?",
+        "options": [
+            "Banu Hashim",
+            "Banu Adi",
+            "Banu Umayya",
+            "Banu Taym"
+        ],
+        "answer": 1,
+        "explanation": "He was from the Banu Adi clan."
+    },
+    {
+        "q": "What was the title of Hazrat Umar (RA)?",
+        "options": [
+            "As-Siddiq",
+            "Al-Farooq",
+            "Zun-Nurain",
+            "Asadullah"
+        ],
+        "answer": 1,
+        "explanation": "Al-Farooq means 'The one who distinguishes between truth and falsehood'."
+    },
+    {
+        "q": "In which year of Prophethood did Hazrat Umar (RA) accept Islam?",
+        "options": [
+            "3rd Year",
+            "5th Year",
+            "6th Year",
+            "10th Year"
+        ],
+        "answer": 2,
+        "explanation": "His conversion followed Hazrat Hamza's (RA) and significantly strengthened the Muslims."
+    },
+    {
+        "q": "Who introduced the 'Hijri' calendar?",
+        "options": [
+            "Hazrat Abu Bakr",
+            "Hazrat Umar",
+            "Hazrat Usman",
+            "Hazrat Ali"
+        ],
+        "answer": 1,
+        "explanation": "Hazrat Umar (RA) established the calendar, starting from the year of Hijrah."
+    },
+    {
+        "q": "Which Caliph conquered Jerusalem (Bait-ul-Maqdas) and received the keys of the city in person?",
+        "options": [
+            "Hazrat Abu Bakr",
+            "Hazrat Umar",
+            "Hazrat Usman",
+            "Hazrat Ali"
+        ],
+        "answer": 1,
+        "explanation": "Hazrat Umar (RA) traveled to Jerusalem to sign the peace treaty with Patriarch Sophronius."
+    },
+    {
+        "q": "What was the name of the administrative consultative body established by Hazrat Umar (RA)?",
+        "options": [
+            "Majlis-e-Shura",
+            "Dar-ul-Nadwa",
+            "Diwan",
+            "Bayt al-Mal"
+        ],
+        "answer": 0,
+        "explanation": "The Majlis-e-Shura consisted of companions who advised on state matters."
+    },
+    {
+        "q": "Who established the first judicial system with independent judges (Qadis)?",
+        "options": [
+            "Hazrat Abu Bakr",
+            "Hazrat Umar",
+            "Hazrat Usman",
+            "Hazrat Ali"
+        ],
+        "answer": 1,
+        "explanation": "Umar (RA) separated the judiciary from the executive for the first time."
+    },
+    {
+        "q": "Which great empire was completely defeated during Hazrat Umar's caliphate?",
+        "options": [
+            "Byzantine Empire",
+            "Sassanid Persian Empire",
+            "Abyssinia",
+            "Indian Empire"
+        ],
+        "answer": 1,
+        "explanation": "The conquest of Persia was completed after the Battle of Nahavand."
+    },
+    {
+        "q": "How long was the caliphate of Hazrat Umar (RA)?",
+        "options": [
+            "2 years",
+            "10 years",
+            "12 years",
+            "6 years"
+        ],
+        "answer": 1,
+        "explanation": "He ruled for approximately 10 years (634 AD to 644 AD)."
+    },
+    {
+        "q": "How was Hazrat Umar (RA) martyred?",
+        "options": [
+            "In a battle",
+            "Stabbed while leading Fajr prayer",
+            "Poisoned",
+            "Died of old age"
+        ],
+        "answer": 1,
+        "explanation": "A Persian slave named Abu Lu'lu'a Firuz stabbed him while he was leading the prayer."
+    },
+    {
+        "q": "Where is Hazrat Umar (RA) buried?",
+        "options": [
+            "Jannat al-Baqi",
+            "Beside the Prophet (PBUH) and Abu Bakr (RA)",
+            "Kufa",
+            "Jerusalem"
+        ],
+        "answer": 1,
+        "explanation": "He was granted permission by Hazrat Aisha (RA) to be buried in her chamber."
+    },
+    {
+        "q": "Hazrat Usman (RA) belonged to which Quraish clan?",
+        "options": [
+            "Banu Hashim",
+            "Banu Umayya",
+            "Banu Makhzum",
+            "Banu Zuhra"
+        ],
+        "answer": 1,
+        "explanation": "He was a member of the powerful Banu Umayya clan."
+    },
+    {
+        "q": "What was the title of Hazrat Usman (RA)?",
+        "options": [
+            "Al-Farooq",
+            "Zun-Nurain",
+            "Asadullah",
+            "Saifullah"
+        ],
+        "answer": 1,
+        "explanation": "Zun-Nurain means 'The possessor of two lights', as he married two of the Prophet's daughters."
+    },
+    {
+        "q": "Which daughters of the Prophet (PBUH) did Hazrat Usman (RA) marry?",
+        "options": [
+            "Zainab and Fatimah",
+            "Ruqayyah and Umm Kulthum",
+            "Hazrat Aisha and Hafsa",
+            "None"
+        ],
+        "answer": 1,
+        "explanation": "He married Ruqayyah first, and after her death, he married Umm Kulthum."
+    },
+    {
+        "q": "Why is Hazrat Usman (RA) called 'Al-Ghani' (The Wealthy/Generous)?",
+        "options": [
+            "He owned many businesses",
+            "He donated massive wealth to Islam",
+            "He was a king",
+            "He found gold"
+        ],
+        "answer": 1,
+        "explanation": "He was extremely wealthy but spent it generously for the Muslim cause, such as buying the Well of Ruma."
+    },
+    {
+        "q": "Which Caliph ordered the standardization of the Quran's recitation and the distribution of official copies?",
+        "options": [
+            "Hazrat Abu Bakr",
+            "Hazrat Umar",
+            "Hazrat Usman",
+            "Hazrat Ali"
+        ],
+        "answer": 2,
+        "explanation": "To avoid confusion in different regions, he standardized the Quraishi dialect version."
+    },
+    {
+        "q": "Which Islamic naval fleet was first created during Hazrat Usman's era?",
+        "options": [
+            "The Red Sea Fleet",
+            "The Mediterranean Fleet",
+            "The Persian Gulf Fleet",
+            "None"
+        ],
+        "answer": 1,
+        "explanation": "Under the leadership of Muawiyah (RA), the first Muslim navy defeated the Byzantines at sea."
+    },
+    {
+        "q": "How long was the caliphate of Hazrat Usman (RA)?",
+        "options": [
+            "10 years",
+            "12 years",
+            "6 years",
+            "2 years"
+        ],
+        "answer": 1,
+        "explanation": "He served as Caliph for 12 years (644 AD to 656 AD), the longest among the Rashidun."
+    },
+    {
+        "q": "How was Hazrat Usman (RA) martyred?",
+        "options": [
+            "In the Battle of Jamal",
+            "Assassinated while reciting the Quran in his house",
+            "By a spider",
+            "In the Battle of Siffin"
+        ],
+        "answer": 1,
+        "explanation": "Rebels besieged his house and killed him while he was fasting and reading the Quran."
+    },
+    {
+        "q": "Where is Hazrat Usman (RA) buried?",
+        "options": [
+            "Jannat al-Baqi",
+            "Madinah chamber",
+            "Kufa",
+            "Basra"
+        ],
+        "answer": 0,
+        "explanation": "He is buried in the Jannat al-Baqi cemetery in Madinah."
+    },
+    {
+        "q": "Hazrat Ali (RA) was the son of who?",
+        "options": [
+            "Abu Lahab",
+            "Abu Sufyan",
+            "Abu Talib",
+            "Abbas"
+        ],
+        "answer": 2,
+        "explanation": "Abu Talib was the uncle and guardian of the Prophet (PBUH)."
+    },
+    {
+        "q": "What was the relation of Hazrat Ali (RA) to the Prophet (PBUH)?",
+        "options": [
+            "Cousin",
+            "Son-in-law",
+            "Both A and B",
+            "Nephew"
+        ],
+        "answer": 2,
+        "explanation": "He was the Prophet's (PBUH) cousin and married his youngest daughter, Hazrat Fatimah (RA)."
+    },
+    {
+        "q": "What was the title given to Hazrat Ali (RA) for his bravery?",
+        "options": [
+            "Saifullah",
+            "Asadullah (Lion of Allah) / Haider",
+            "Al-Amin",
+            "Al-Farooq"
+        ],
+        "answer": 1,
+        "explanation": "The Prophet (PBUH) called him Asadullah for his courage in battles like Khaybar."
+    },
+    {
+        "q": "Who were the sons of Hazrat Ali (RA) and Hazrat Fatimah (RA)?",
+        "options": [
+            "Hazrat Hasan and Hazrat Hussain (RA)",
+            "Hazrat Zaid and Hazrat Usama",
+            "Hazrat Abdullah and Hazrat Qasim",
+            "Hazrat Ja'far"
+        ],
+        "answer": 0,
+        "explanation": "Hasan and Hussain are the grandsons of the Prophet (PBUH) and leaders of the youth of Paradise."
+    },
+    {
+        "q": "Where did Hazrat Ali (RA) move the capital of the Islamic state?",
+        "options": [
+            "Damascus",
+            "Kufa (Iraq)",
+            "Basra",
+            "Cairo"
+        ],
+        "answer": 1,
+        "explanation": "He shifted the capital from Madinah to Kufa for strategic reasons."
+    },
+    {
+        "q": "Which battle was fought between Hazrat Ali (RA) and Hazrat Aisha (RA)?",
+        "options": [
+            "Battle of Siffin",
+            "Battle of Jamal (Camel)",
+            "Battle of Nahrawan",
+            "Battle of Karbala"
+        ],
+        "answer": 1,
+        "explanation": "The Battle of Jamal (36 AH) was the first major internal conflict."
+    },
+    {
+        "q": "Which battle was fought between Hazrat Ali (RA) and Amir Muawiyah (RA)?",
+        "options": [
+            "Battle of Badr",
+            "Battle of Siffin",
+            "Battle of Khandaq",
+            "Battle of Yamama"
+        ],
+        "answer": 1,
+        "explanation": "The Battle of Siffin took place in 37 AH near the Euphrates river."
+    },
+    {
+        "q": "Who were the 'Kharijites' (Khawarij)?",
+        "options": [
+            "Supporters of Ali",
+            "Supporters of Muawiyah",
+            "A group that broke away from Ali's army",
+            "Persian converts"
+        ],
+        "answer": 2,
+        "explanation": "They separated after the arbitration at Siffin and later rebelled against Ali (RA)."
+    },
+    {
+        "q": "How was Hazrat Ali (RA) martyred?",
+        "options": [
+            "In Karbala",
+            "Stabbed by Abd-al-Rahman ibn Muljam",
+            "Poisoned",
+            "In the Battle of Nahrawan"
+        ],
+        "answer": 1,
+        "explanation": "The Kharijite Ibn Muljam struck him with a poisoned sword while he was going for Fajr prayer in Kufa."
+    },
+    {
+        "q": "Where is the tomb of Hazrat Ali (RA) generally believed to be?",
+        "options": [
+            "Kufa",
+            "Najaf (Iraq)",
+            "Karbala",
+            "Madinah"
+        ],
+        "answer": 1,
+        "explanation": "The Imam Ali Mosque in Najaf is his shrine."
+    },
+    {
+        "q": "How long was the caliphate of Hazrat Ali (RA)?",
+        "options": [
+            "12 years",
+            "4 years, 9 months",
+            "10 years",
+            "2 years"
+        ],
+        "answer": 1,
+        "explanation": "He ruled from 656 AD to 661 AD."
+    },
+    {
+        "q": "Which Caliph is known as 'Bab-ul-Ilm' (The City/Gate of Knowledge)?",
+        "options": [
+            "Hazrat Abu Bakr",
+            "Hazrat Ali",
+            "Hazrat Usman",
+            "Hazrat Umar"
+        ],
+        "answer": 1,
+        "explanation": "The Prophet (PBUH) said 'I am the city of knowledge and Ali is its gate'."
+    },
+    {
+        "q": "Who was the first woman to accept Islam?",
+        "options": [
+            "Hazrat Aisha",
+            "Hazrat Khadija (RA)",
+            "Hazrat Fatimah",
+            "Hazrat Sumayyah"
+        ],
+        "answer": 1,
+        "explanation": "Hazrat Khadija (RA), the Prophet's wife, was the absolute first person to believe."
+    },
+    {
+        "q": "Which Caliph established the first state-run Bait-ul-Mal (Treasury)?",
+        "options": [
+            "Hazrat Abu Bakr",
+            "Hazrat Umar",
+            "Hazrat Usman",
+            "Hazrat Ali"
+        ],
+        "answer": 1,
+        "explanation": "Hazrat Umar (RA) formalized the distribution of wealth and state finances."
+    },
+    {
+        "q": "Which companion was the son of 'The Martyr of the Trench' and became a famous general?",
+        "options": [
+            "Hazrat Zaid bin Thabit",
+            "Hazrat Usama bin Zaid",
+            "Hazrat Abdullah bin Zubair",
+            "Hazrat Khalid bin Walid"
+        ],
+        "answer": 1,
+        "explanation": "Usama bin Zaid was the son of Zaid bin Haritha and led an army at 18."
+    },
+    {
+        "q": "Who were the 'Ashara Mubashshara'?",
+        "options": [
+            "Ten scribes",
+            "Ten companions promised Paradise in one setting",
+            "Ten martyrs of Badr",
+            "Ten wives of the Prophet"
+        ],
+        "answer": 1,
+        "explanation": "These ten companions, including the four caliphs, were given the glad tidings of Jannah during their lives."
+    },
+    {
+        "q": "Which Caliph ordered the digging of administrative canals for agriculture?",
+        "options": [
+            "Hazrat Abu Bakr",
+            "Hazrat Umar",
+            "Hazrat Usman",
+            "Hazrat Ali"
+        ],
+        "answer": 1,
+        "explanation": "Hazrat Umar (RA) initiated many irrigation projects across newly conquered lands."
+    },
+    {
+        "q": "Who was the 'Secretary of the Rashidun Caliphate'?",
+        "options": [
+            "Hazrat Zaid bin Thabit",
+            "Hazrat Abdullah bin Abbas",
+            "Hazrat Ibn Masood",
+            "Hazrat Bilal"
+        ],
+        "answer": 0,
+        "explanation": "Zaid bin Thabit (RA) was the primary scribe for both the Prophet (PBUH) and the Caliphs."
+    },
+    {
+        "q": "Which Caliph is known for his extreme modesty (Haya)?",
+        "options": [
+            "Hazrat Abu Bakr",
+            "Hazrat Umar",
+            "Hazrat Usman",
+            "Hazrat Ali"
+        ],
+        "answer": 2,
+        "explanation": "The Prophet (PBUH) said even the angels felt shy before Hazrat Usman (RA)."
+    },
+    {
+        "q": "Who defended the Prophet (PBUH) at Uhud when most had scattered?",
+        "options": [
+            "Hazrat Abu Bakr and Umar",
+            "Hazrat Ali and Musab bin Umair",
+            "Hazrat Talha and Zubair",
+            "A and C"
+        ],
+        "answer": 2,
+        "explanation": "Hazrat Talha (RA) sustained over 70 wounds protecting the Prophet (PBUH)."
+    },
+    {
+        "q": "What was the 'Saqifah Bani Sa'idah'?",
+        "options": [
+            "A battle",
+            "The place where Abu Bakr was elected as Caliph",
+            "A mosque",
+            "A market"
+        ],
+        "answer": 1,
+        "explanation": "The Ansar gathered there to discuss leadership, leading to the selection of Abu Bakr (RA)."
+    },
+    {
+        "q": "Who was the mother of Hazrat Ali (RA)?",
+        "options": [
+            "Hazrat Fatimah bint Asad",
+            "Hazrat Aisha",
+            "Hazrat Aminah",
+            "Hazrat Sarah"
+        ],
+        "answer": 0,
+        "explanation": "She was one of the early women converts and very close to the Prophet (PBUH)."
+    },
+    {
+        "q": "Which Caliph introduced the title 'Amir-ul-Momineen' for himself?",
+        "options": [
+            "Hazrat Abu Bakr",
+            "Hazrat Umar",
+            "Hazrat Usman",
+            "Hazrat Ali"
+        ],
+        "answer": 1,
+        "explanation": "Abu Bakr (RA) was called 'Khalifat-ur-Rasool', while Umar (RA) introduced 'Amir-ul-Momineen'."
+    },
+    {
+        "q": "Who was the governor of Syria during the caliphates of Umar and Usman?",
+        "options": [
+            "Hazrat Amr bin al-Aas",
+            "Hazrat Muawiyah bin Abi Sufyan",
+            "Hazrat Khalid bin Walid",
+            "Hazrat Sa'd"
+        ],
+        "answer": 1,
+        "explanation": "Muawiyah (RA) served as governor for 20 years before becoming Caliph himself."
+    },
+    {
+        "q": "Which Caliph was known as 'The Conqueror of Persia' indirectly?",
+        "options": [
+            "Hazrat Abu Bakr",
+            "Hazrat Umar",
+            "Hazrat Usman",
+            "Hazrat Ali"
+        ],
+        "answer": 1,
+        "explanation": "The bulk of the Persian empire fell during Hazrat Umar's (RA) reign."
+    },
+    {
+        "q": "Which companion was given the title 'Ameen-ul-Ummah' (The Trustworthy of the Nation)?",
+        "options": [
+            "Hazrat Abu Bakr",
+            "Hazrat Abu Ubaydah bin al-Jarrah",
+            "Hazrat Khalid",
+            "Hazrat Umar"
+        ],
+        "answer": 1,
+        "explanation": "Prophet (PBUH) called Hazrat Abu Ubaydah (RA) the trustworthy of this Ummah."
+    },
+    {
+        "q": "What was the name of the sword of Hazrat Ali (RA)?",
+        "options": [
+            "Dhul-Faqar",
+            "Al-Battar",
+            "Al-Mahi",
+            "Qul-Sada"
+        ],
+        "answer": 0,
+        "explanation": "It was a famous double-tipped sword given to him by the Prophet (PBUH)."
+    },
+    {
+        "q": "Who was the first person to lead a congregational 'Tarawih' prayer in Ramadan?",
+        "options": [
+            "The Prophet (PBUH)",
+            "Hazrat Umar (RA)",
+            "Hazrat Abu Bakr (RA)",
+            "Hazrat Usman (RA)"
+        ],
+        "answer": 1,
+        "explanation": "Hazrat Umar (RA) organized the scattered prayers into one congregation behind one Imam."
+    },
+    {
+        "q": "Which companion was the 'Interpreter of the Quran' (Tarjuman al-Quran)?",
+        "options": [
+            "Hazrat Abdullah bin Masood",
+            "Hazrat Abdullah bin Abbas",
+            "Hazrat Zaid",
+            "Hazrat Ali"
+        ],
+        "answer": 1,
+        "explanation": "Ibn Abbas (RA), the Prophet's cousin, was known for his vast knowledge of Tafsir."
+    },
+    {
+        "q": "Who was the 'Sword of Allah' (Saif-ullah)?",
+        "options": [
+            "Hazrat Ali",
+            "Hazrat Khalid bin Walid",
+            "Hazrat Umar",
+            "Hazrat Abu Bakr"
+        ],
+        "answer": 1,
+        "explanation": "The Prophet (PBUH) gave this title to Khalid bin Walid (RA) during the Battle of Mu'tah."
+    },
+    {
+        "q": "Which Caliph initiated the expansion of Masjid al-Haram (Kaaba) for the first time?",
+        "options": [
+            "Hazrat Abu Bakr",
+            "Hazrat Umar",
+            "Hazrat Usman",
+            "Hazrat Ali"
+        ],
+        "answer": 1,
+        "explanation": "Hazrat Umar (RA) bought surrounding houses to widen the space for pilgrims."
+    },
+    {
+        "q": "Who was the first governor of Egypt?",
+        "options": [
+            "Hazrat Amr bin al-Aas (RA)",
+            "Hazrat Muawiyah",
+            "Hazrat Sa'd",
+            "Hazrat Abdullah bin Sarh"
+        ],
+        "answer": 0,
+        "explanation": "Amr bin al-Aas (RA) conquered Egypt and became its first Muslim administrator."
+    },
+    {
+        "q": "Which Caliph established a regular military pension and salary system?",
+        "options": [
+            "Hazrat Abu Bakr",
+            "Hazrat Umar",
+            "Hazrat Usman",
+            "Hazrat Ali"
+        ],
+        "answer": 1,
+        "explanation": "Hazrat Umar (RA) set up the 'Diwan' to record and pay soldiers and their families."
+    },
+    {
+        "q": "Who was the 'Hawari' (The Disciple) of the Prophet (PBUH)?",
+        "options": [
+            "Hazrat Talha",
+            "Hazrat Zubair bin al-Awwam",
+            "Hazrat Abu Bakr",
+            "Hazrat Ali"
+        ],
+        "answer": 1,
+        "explanation": "Prophet (PBUH) said, 'Every Prophet has a disciple, and my disciple is Zubair'."
+    },
+    {
+        "q": "Which scholar among the companions was known as 'Hibr-ul-Ummah' (The Doctor/Sage of the Nation)?",
+        "options": [
+            "Hazrat Ibn Abbas",
+            "Hazrat Ibn Umar",
+            "Hazrat Ibn Masood",
+            "Hazrat Ali"
+        ],
+        "answer": 0,
+        "explanation": "Ibn Abbas (RA) was called this due to his deep sea of knowledge."
+    },
+    {
+        "q": "Who was the leader of the Muslims at the Battle of Yarmouk (primary command)?",
+        "options": [
+            "Hazrat Abu Ubaydah",
+            "Hazrat Khalid bin Walid",
+            "Hazrat Amr",
+            "Hazrat Ikrimah"
+        ],
+        "answer": 1,
+        "explanation": "Khalid bin Walid (RA) led the unified Muslim forces to a decisive victory."
+    },
+    {
+        "q": "At which place did Hazrat Ali (RA) defeat the Kharijites?",
+        "options": [
+            "Battle of Nahrawan",
+            "Battle of Karbala",
+            "Battle of Siffin",
+            "Battle of Basra"
+        ],
+        "answer": 0,
+        "explanation": "The Kharijite movement was nearly eliminated at Nahrawan."
+    },
+    {
+        "q": "Which companion was a famous expert in the 'Science of the Faraih' (Inheritance Laws)?",
+        "options": [
+            "Hazrat Zaid bin Thabit",
+            "Hazrat Ali",
+            "Hazrat Ibn Abbas",
+            "Hazrat Abu Bakr"
+        ],
+        "answer": 0,
+        "explanation": "Prophet (PBUH) said Zaid is the most knowledgeable in inheritance."
+    },
+    {
+        "q": "What was the name of the pact in which Muslims and Meccans agreed to peace?",
+        "options": [
+            "Treaty of Hudaibiya",
+            "Pact of Najran",
+            "Misaq-e-Madinah",
+            "Charter of Umar"
+        ],
+        "answer": 0,
+        "explanation": "This treaty took place in 6 AH."
+    },
+    {
+        "q": "Who was the father of Hazrat Usman (RA)?",
+        "options": [
+            "Affan bin Abi Al-As",
+            "Abu Sufyan",
+            "Umayya",
+            "Marwan"
+        ],
+        "answer": 0,
+        "explanation": "He was from the Umayyad branch of the Quraish."
+    },
+    {
+        "q": "How many years did the Rashidun Caliphate last in total?",
+        "options": [
+            "20 years",
+            "30 years",
+            "40 years",
+            "50 years"
+        ],
+        "answer": 1,
+        "explanation": "According to the Hadith, 'The Caliphate after me will be for thirty years', which encompasses the four caliphs."
+    },
+    {
+        "q": "Which Caliph created the title 'Al-Siddiq' status for the whole community's belief?",
+        "options": [
+            "Hazrat Abu Bakr",
+            "Hazrat Umar",
+            "Hazrat Usman",
+            "Hazrat Ali"
+        ],
+        "answer": 0,
+        "explanation": "His unwavering faith became a standard for the Ummah."
+    },
+    {
+        "q": "Who was the wife of the Prophet (PBUH) and daughter of Hazrat Umar (RA)?",
+        "options": [
+            "Hazrat Aisha",
+            "Hazrat Hafsah (RA)",
+            "Hazrat Zainab",
+            "Hazrat Sawda"
+        ],
+        "answer": 1,
+        "explanation": "Hazrat Hafsah (RA) was married to the Prophet (PBUH) after her first husband was martyred."
+    },
+    {
+        "q": "Who was the commander who conquered Cyprus during Hazrat Usman's era?",
+        "options": [
+            "Hazrat Muawiyah (RA)",
+            "Hazrat Amr",
+            "Hazrat Sa'd",
+            "Hazrat Zaid"
+        ],
+        "answer": 0,
+        "explanation": "The navy led by Muawiyah (RA) captured Cyprus in 28 AH."
+    },
+    {
+        "q": "Which companion was the hero of the conquest of Iraq?",
+        "options": [
+            "Hazrat Khalid bin Walid",
+            "Hazrat Sa'd bin Abi Waqqas",
+            "Hazrat Ali",
+            "Hazrat Muthanna"
+        ],
+        "answer": 1,
+        "explanation": "Sa'd bin Abi Waqqas (RA) won the Battle of Qadisiyah."
+    },
+    {
+        "q": "Who was the 'Muazzin' during the caliphates of Abu Bakr and Umar?",
+        "options": [
+            "Hazrat Bilal bin Rabah",
+            "Hazrat Ammar",
+            "Hazrat Salman",
+            "Hazrat Abu Huraira"
+        ],
+        "answer": 0,
+        "explanation": "Hazrat Bilal (RA) continued to call the Adhan, though he mostly retired to Syria after the Prophet's death."
+    }
+]
