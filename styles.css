@@ -360,15 +360,42 @@ body {
 .icon-btn {
     background: none;
     border: none;
-    font-size: 1.25rem;
+    font-size: 1.5rem;
+    /* Increased icon size */
     color: var(--text-muted);
     cursor: pointer;
     transition: var(--transition);
-    padding: 0.5rem;
+    padding: 1rem;
+    /* Increased hit area */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 44px;
+    /* Apple recommendation */
+    min-height: 44px;
 }
 
 .icon-btn:hover {
     color: var(--primary);
+    background: rgba(5, 150, 105, 0.1);
+    border-radius: 50%;
+}
+
+.back-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.8rem 1.2rem;
+    background: var(--bg-color);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    font-weight: 500;
+    color: var(--text-main);
+    cursor: pointer;
+    transition: var(--transition);
+    margin-bottom: 1.5rem;
+    min-height: 48px;
+    /* Android recommendation */
 }
 
 .quiz-header h2 {

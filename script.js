@@ -167,13 +167,33 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Handle native back button navigation
         window.addEventListener('popstate', (e) => {
-            if (e.state && screens[e.state]) {
-                switchScreen(e.state, true);
-            } else if (e.state === 'categories' || !e.state) {
-                updateNavActiveState('nav-home');
-                switchScreen('categories', true);
+            const state = e.state;
+            if (!state) {
+                showMainCategories(true);
+                return;
+            }
+
+            if (state.screen === 'categories') {
+                if (state.mainCategory) {
+                    showSubcategories(state.mainCategory, true);
+                } else {
+                    showMainCategories(true);
+                }
+            } else if (state.screen === 'set') {
+                if (state.subcategoryData) {
+                    startSubcategory(state.subcategoryData, true);
+                }
+            } else if (state.screen === 'quiz') {
+                if (state.setIndex !== undefined) {
+                    startSet(state.setIndex, true);
+                }
+            } else if (screens[state.screen]) {
+                switchScreen(state.screen, true);
             }
         });
+
+        // Initialize first state
+        history.replaceState({ screen: 'categories' }, '', '#categories');
     }
 
     function toggleTheme() {
@@ -599,13 +619,14 @@ document.addEventListener('DOMContentLoaded', () => {
         return "Others";
     }
 
-    function switchScreen(screenName, isPopState = false) {
+    function switchScreen(screenName, isPopState = false, additionalState = {}) {
         Object.values(screens).forEach(screen => screen.classList.remove('active'));
         if (screens[screenName]) screens[screenName].classList.add('active');
         window.scrollTo(0, 0);
 
-        if (!isPopState && history.state !== screenName) {
-            history.pushState(screenName, '', '#' + screenName);
+        if (!isPopState) {
+            const state = { screen: screenName, ...additionalState };
+            history.pushState(state, '', '#' + screenName);
         }
     }
 
@@ -626,17 +647,17 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    function showMainCategories() {
+    function showMainCategories(isPopState = false) {
         updateNavActiveState('nav-home');
         currentMainCategory = null;
         currentSubcategoryData = null;
         if (sectionTitle) sectionTitle.textContent = "Select Main Subject";
 
         renderCategories();
-        switchScreen('categories');
+        switchScreen('categories', isPopState);
     }
 
-    function showSubcategories(mainCat) {
+    function showSubcategories(mainCat, isPopState = false) {
         currentMainCategory = mainCat;
 
         categoriesGrid.innerHTML = '';
@@ -656,13 +677,13 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         // Update header or title if needed
-        const sectionTitle = document.querySelector('#category-screen h2');
-        if (sectionTitle) sectionTitle.textContent = mainCat.name;
+        const sectionTitleElement = document.querySelector('#category-screen h2');
+        if (sectionTitleElement) sectionTitleElement.textContent = mainCat.name;
 
-        switchScreen('categories');
+        switchScreen('categories', isPopState, { mainCategory: mainCat });
     }
 
-    function startSubcategory(subData) {
+    function startSubcategory(subData, isPopState = false) {
         currentSubcategoryData = subData;
 
         // Deep copy and shuffle questions for this subcategory
@@ -674,7 +695,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         setCategoryTitle.textContent = subData.category;
         renderSets();
-        switchScreen('set');
+        switchScreen('set', isPopState, { subcategoryData: subData });
     }
 
     function renderSets() {
@@ -724,7 +745,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    function startSet(setIndex) {
+    function startSet(setIndex, isPopState = false) {
         currentSetIndex = setIndex;
         const setSize = 10;
         const startIdx = setIndex * setSize;
@@ -735,7 +756,7 @@ document.addEventListener('DOMContentLoaded', () => {
         score = 0;
 
         currentCategoryTitle.textContent = `${currentSubcategoryData.category} - Quiz ${setIndex + 1} of ${totalSets}`;
-        switchScreen('quiz');
+        switchScreen('quiz', isPopState, { setIndex: setIndex });
         renderQuestion();
     }
 
