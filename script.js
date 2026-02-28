@@ -425,7 +425,9 @@ document.addEventListener('DOMContentLoaded', () => {
     let userStats = JSON.parse(localStorage.getItem('userStats')) || {
         totalQuizzes: 0,
         totalQuestions: 0,
-        subjectStats: {} // { "Pakistan Affairs": { total: 10, correct: 8 } }
+        totalCorrect: 0,
+        subjectStats: {}, // { "Pakistan Affairs": { total: 10, correct: 8 } }
+        scoreHistory: [] // Array of recent percentage scores
     };
 
     let bookmarks = JSON.parse(localStorage.getItem('bookmarks')) || [];
@@ -445,6 +447,16 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         userStats.subjectStats[subjectName].total += questionsCount;
         userStats.subjectStats[subjectName].correct += correctCount;
+
+        // Push recent score percentage
+        const currentScorePercent = Math.round((correctCount / questionsCount) * 100);
+        if (!userStats.scoreHistory) userStats.scoreHistory = [];
+        userStats.scoreHistory.push(currentScorePercent);
+
+        // Keep only last 10 scores for trend
+        if (userStats.scoreHistory.length > 10) {
+            userStats.scoreHistory.shift();
+        }
 
         saveStats();
     }
@@ -544,7 +556,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 totalQuizzes: 0,
                 totalQuestions: 0,
                 totalCorrect: 0,
-                subjectStats: {}
+                subjectStats: {},
+                scoreHistory: []
             };
             saveStats();
             renderDashboard();
@@ -577,11 +590,25 @@ document.addEventListener('DOMContentLoaded', () => {
                 weakestSubject = { name: subject, accuracy: percentage };
             }
 
+            // Determine Mastery Level
+            let masteryClass = '';
+            let masteryLabel = '';
+            if (percentage >= 75) {
+                masteryClass = 'mastery-expert';
+                masteryLabel = 'Expert';
+            } else if (percentage >= 40) {
+                masteryClass = 'mastery-intermediate';
+                masteryLabel = 'Intermediate';
+            } else {
+                masteryClass = 'mastery-novice';
+                masteryLabel = 'Novice';
+            }
+
             const item = document.createElement('div');
             item.className = 'progress-item';
             item.innerHTML = `
                 <div class="progress-label-row">
-                    <span>${subject}</span>
+                    <span>${subject} <span class="mastery-badge ${masteryClass}">${masteryLabel}</span></span>
                     <span>${percentage}% (${stats.correct}/${stats.total})</span>
                 </div>
                 <div class="progress-bar-small">
@@ -610,6 +637,31 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (Object.keys(userStats.subjectStats).length === 0) {
             list.innerHTML = '<p style="text-align: center; color: var(--text-light); padding: 1rem;">No data yet. Take a quiz to see your progress!</p>';
+        }
+
+        // Render Score Trend Chart
+        const trendChart = document.getElementById('score-trend-chart');
+        if (trendChart && userStats.scoreHistory && userStats.scoreHistory.length > 0) {
+            trendChart.innerHTML = '';
+            userStats.scoreHistory.forEach((score, index) => {
+                const barContainer = document.createElement('div');
+                barContainer.className = 'trend-bar-container';
+
+                // Color coding based on score
+                let bgColor = 'var(--primary)';
+                if (score < 50) bgColor = 'var(--danger)';
+                else if (score < 75) bgColor = 'var(--accent)';
+
+                barContainer.innerHTML = `
+                    <div class="trend-bar" style="height: ${score}%; background: ${bgColor}">
+                        <div class="trend-tooltip">Quiz ${index + 1}: ${score}%</div>
+                    </div>
+                    <div class="trend-label">Q${index + 1}</div>
+                `;
+                trendChart.appendChild(barContainer);
+            });
+        } else if (trendChart) {
+            trendChart.innerHTML = '<span style="color: var(--text-muted); font-size: 0.85rem; width: 100%; text-align: center;">Take a quiz to see your score trend!</span>';
         }
     }
 
