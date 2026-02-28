@@ -26,6 +26,11 @@
 
     <header class="app-header">
         <div class="header-controls">
+            <button id="translate-btn" class="control-btn translate-btn" aria-label="Toggle Urdu Translation"
+                title="Toggle Urdu Translation">
+                <i class="fa-solid fa-language"></i> <span class="trans-text"
+                    style="font-family: 'Jameel Noori Nastaleeq', serif;">اردو</span>
+            </button>
             <button id="dashboard-toggle" class="control-btn" aria-label="View Dashboard" title="View Dashboard">
                 <i class="fa-solid fa-chart-line"></i>
             </button>
@@ -62,32 +67,6 @@
             <div class="screen-header">
                 <h2 id="main-section-title">Select a Subject</h2>
                 <p>Choose a category to start practicing.</p>
-            </div>
-
-            <div class="daily-mcqs-banner" id="daily-mcqs-banner">
-                <div class="daily-info">
-                    <h3><i class="fa-solid fa-calendar-day"></i> Daily MCQs</h3>
-                    <p>10 random mixed questions. Changes every day!</p>
-                </div>
-                <button id="start-daily-btn" class="primary-btn">Start Challenge</button>
-            </div>
-
-            <div class="daily-mcqs-banner mock-test-banner" id="mock-test-banner"
-                style="background: linear-gradient(135deg, var(--accent), #B8860B); margin-top: -1.5rem;">
-                <div class="daily-info">
-                    <h3><i class="fa-solid fa-file-signature"></i> Full Mock Test</h3>
-                    <p>100 random mixed questions from all subjects. Test your prep!</p>
-                </div>
-                <button id="start-mock-btn" class="primary-btn" style="color: #B8860B;">Start Mock Test</button>
-            </div>
-
-            <div class="daily-mcqs-banner bookmarks-banner hidden" id="bookmarks-banner"
-                style="background: linear-gradient(135deg, #f39c12, #e67e22); margin-top: -1.5rem;">
-                <div class="daily-info">
-                    <h3><i class="fa-solid fa-bookmark"></i> Saved Questions</h3>
-                    <p>Review and practice your bookmarked questions.</p>
-                </div>
-                <button id="start-bookmarks-btn" class="primary-btn" style="color: #e67e22;">Review Now</button>
             </div>
 
             <div class="categories-grid" id="categories-grid">
@@ -128,14 +107,11 @@
 
             <div class="timer-container" id="timer-container">
                 <div class="timer-bar" id="timer-bar"></div>
-                <div class="timer-text"><i class="fa-regular fa-clock"></i> <span id="time-left">20</span>s</div>
+                <div class="timer-text"><i class="fa-regular fa-clock"></i> <span id="time-left">60</span>s</div>
             </div>
 
             <div class="question-container">
-                <div class="translate-bar">
-                    <button id="translate-btn" class="icon-btn translate-btn" title="Translate to Urdu">
-                        <i class="fa-solid fa-language"></i> <span class="trans-text">اردو</span>
-                    </button>
+                <div class="translate-bar" style="justify-content: flex-end;">
                     <button id="bookmark-btn" class="icon-btn bookmark-btn" title="Bookmark Question">
                         <i class="fa-regular fa-bookmark"></i>
                     </button>
