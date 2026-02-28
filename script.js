@@ -54,8 +54,14 @@ document.addEventListener('DOMContentLoaded', () => {
     let isDarkMode = localStorage.getItem('theme') === 'dark';
     let isSoundEnabled = true;
     let timerInterval;
-    const timePerQuestion = 20;
+    const timePerQuestion = 60;
     let timeLeft = timePerQuestion;
+
+    let isExamMode = false;
+    let examTimeLeft = 0;
+    let examTimerInterval = null;
+    let totalExamQuestions = 0;
+    let examSelectedSubjects = [];
 
     // Audio Elements
     const soundCorrect = document.getElementById('sound-correct');
@@ -71,6 +77,15 @@ document.addEventListener('DOMContentLoaded', () => {
     const dashboardToggle = document.getElementById('dashboard-toggle');
     const closeDashboardBtn = document.getElementById('close-dashboard');
     const resetStatsBtn = document.getElementById('reset-stats');
+
+    // Exam Modal Elements
+    const examModal = document.getElementById('exam-modal');
+    const navExam = document.getElementById('nav-exam');
+    const closeExamModalBtn = document.getElementById('close-exam-modal');
+    const startExamBtn = document.getElementById('start-exam-btn');
+    const examSubjectList = document.getElementById('exam-subject-list');
+    const examDurationText = document.getElementById('exam-duration-text');
+    const examCountRadios = document.getElementsByName('exam-count');
 
     function updateNavActiveState(activeId) {
         document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active'));
@@ -107,12 +122,6 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         }
 
-        const startDailyBtn = document.getElementById('start-daily-btn');
-        if (startDailyBtn) startDailyBtn.addEventListener('click', startDailyMCQs);
-
-        const startMockBtn = document.getElementById('start-mock-btn');
-        if (startMockBtn) startMockBtn.addEventListener('click', startMockTest);
-
         if (translateBtn) {
             translateBtn.addEventListener('click', toggleTranslation);
         }
@@ -125,22 +134,45 @@ document.addEventListener('DOMContentLoaded', () => {
         if (printBtn) printBtn.addEventListener('click', () => window.print());
 
         if (bookmarkBtn) bookmarkBtn.addEventListener('click', toggleBookmark);
-        const startBookmarksBtn = document.getElementById('start-bookmarks-btn');
-        if (startBookmarksBtn) startBookmarksBtn.addEventListener('click', startBookmarksQuiz);
 
         const navHome = document.getElementById('nav-home');
         const navDaily = document.getElementById('nav-daily');
         const navMock = document.getElementById('nav-mock');
         const navBookmarks = document.getElementById('nav-bookmarks');
 
+        const navMistakes = document.getElementById('nav-mistakes');
+
         if (navHome) navHome.addEventListener('click', (e) => { e.preventDefault(); showMainCategories(); });
         if (navDaily) navDaily.addEventListener('click', (e) => { e.preventDefault(); startDailyMCQs(); });
         if (navMock) navMock.addEventListener('click', (e) => { e.preventDefault(); startMockTest(); });
+        if (navExam) navExam.addEventListener('click', (e) => { e.preventDefault(); openExamModal(); });
         if (navBookmarks) navBookmarks.addEventListener('click', (e) => { e.preventDefault(); startBookmarksQuiz(); });
+        if (navMistakes) navMistakes.addEventListener('click', (e) => { e.preventDefault(); startMistakesQuiz(); });
+
+        if (closeExamModalBtn) closeExamModalBtn.addEventListener('click', closeExamModal);
+        if (startExamBtn) startExamBtn.addEventListener('click', startTimedExam);
+
+        examCountRadios.forEach(radio => {
+            radio.addEventListener('change', (e) => {
+                const count = parseInt(e.target.value);
+                examDurationText.textContent = count === 100 ? "90 Minutes" : "45 Minutes";
+            });
+        });
 
         // Close modal on outside click
         window.addEventListener('click', (e) => {
             if (e.target === dashboardModal) closeDashboard();
+            if (e.target === examModal) closeExamModal();
+        });
+
+        // Handle native back button navigation
+        window.addEventListener('popstate', (e) => {
+            if (e.state && screens[e.state]) {
+                switchScreen(e.state, true);
+            } else if (e.state === 'categories' || !e.state) {
+                updateNavActiveState('nav-home');
+                switchScreen('categories', true);
+            }
         });
     }
 
@@ -215,56 +247,165 @@ document.addEventListener('DOMContentLoaded', () => {
         const icon = translateBtn.querySelector('i');
         const textSpan = translateBtn.querySelector('.trans-text');
 
+        // Handle Global Button State
         if (isTranslated) {
             translateBtn.classList.add('active');
-            icon.className = 'fa-solid fa-spinner fa-spin'; // Loading state
-            textSpan.textContent = "Translating...";
-
-            // Translate Question
-            const translatedQ = await translateText(originalQuestionText);
-            questionText.textContent = translatedQ;
-            questionText.style.direction = "rtl";
-            questionText.style.fontFamily = "'Jameel Noori Nastaleeq', 'Noto Nastaliq Urdu', serif";
-
-            // Translate Options
-            const optionBtns = document.querySelectorAll('.option-btn');
-            for (let i = 0; i < optionBtns.length; i++) {
-                const translatedOpt = await translateText(originalOptionsText[i]);
-                optionBtns[i].textContent = translatedOpt;
-                optionBtns[i].style.direction = "rtl";
-                optionBtns[i].style.fontFamily = "'Jameel Noori Nastaleeq', 'Noto Nastaliq Urdu', serif";
-            }
-
             icon.className = 'fa-solid fa-language';
             textSpan.textContent = "English";
         } else {
             translateBtn.classList.remove('active');
             icon.className = 'fa-solid fa-language';
             textSpan.textContent = "اردو";
+        }
 
-            // Revert to English
-            questionText.textContent = originalQuestionText;
-            questionText.style.direction = "ltr";
-            questionText.style.fontFamily = "inherit";
+        // Apply translation only if we are currently viewing a question layout
+        if (screens.quiz.classList.contains('active') && originalQuestionText) {
+            if (isTranslated) {
+                icon.className = 'fa-solid fa-spinner fa-spin'; // Loading state
+                textSpan.textContent = "Translating...";
 
-            const optionBtns = document.querySelectorAll('.option-btn');
-            for (let i = 0; i < optionBtns.length; i++) {
-                optionBtns[i].textContent = originalOptionsText[i];
-                optionBtns[i].style.direction = "ltr";
-                optionBtns[i].style.fontFamily = "inherit";
+                // Translate Question
+                const translatedQ = await translateText(originalQuestionText);
+                questionText.textContent = translatedQ;
+                questionText.style.direction = "rtl";
+                questionText.style.fontFamily = "'Jameel Noori Nastaleeq', 'Noto Nastaliq Urdu', serif";
+
+                // Translate Options
+                const optionBtns = document.querySelectorAll('.option-btn');
+                for (let i = 0; i < optionBtns.length; i++) {
+                    const translatedOpt = await translateText(originalOptionsText[i]);
+                    optionBtns[i].textContent = translatedOpt;
+                    optionBtns[i].style.direction = "rtl";
+                    optionBtns[i].style.fontFamily = "'Jameel Noori Nastaleeq', 'Noto Nastaliq Urdu', serif";
+                }
+
+                if (isTranslated) { // Check again in case it was toggled back to English rapidly
+                    icon.className = 'fa-solid fa-language';
+                    textSpan.textContent = "English";
+                }
+            } else {
+                // Revert to English
+                questionText.textContent = originalQuestionText;
+                questionText.style.direction = "ltr";
+                questionText.style.fontFamily = "inherit";
+
+                const optionBtns = document.querySelectorAll('.option-btn');
+                for (let i = 0; i < optionBtns.length; i++) {
+                    if (originalOptionsText[i]) {
+                        optionBtns[i].textContent = originalOptionsText[i];
+                        optionBtns[i].style.direction = "ltr";
+                        optionBtns[i].style.fontFamily = "inherit";
+                    }
+                }
             }
         }
     }
 
-    // Dashboard State and Logic
+    // Dashboard State and Logic... (existing code)
+
+    // --- Timed Exam Logic ---
+    function openExamModal() {
+        if (!examSubjectList) return;
+
+        // Populate subject list with checkboxes
+        examSubjectList.innerHTML = '';
+        mainQuizData.forEach(subject => {
+            const label = document.createElement('label');
+            label.className = 'subject-checkbox-item';
+            label.innerHTML = `
+                <input type="checkbox" name="exam-subject" value="${subject.name}" checked>
+                <span>${subject.name}</span>
+            `;
+            examSubjectList.appendChild(label);
+        });
+
+        examModal.classList.remove('hidden');
+    }
+
+    function closeExamModal() {
+        if (examModal) examModal.classList.add('hidden');
+    }
+
+    function startTimedExam() {
+        const selectedSubjectNames = Array.from(document.querySelectorAll('input[name="exam-subject"]:checked'))
+            .map(cb => cb.value);
+
+        if (selectedSubjectNames.length === 0) {
+            alert("Please select at least one subject.");
+            return;
+        }
+
+        const countRadio = document.querySelector('input[name="exam-count"]:checked');
+        totalExamQuestions = parseInt(countRadio.value);
+
+        // Pool questions from selected subjects
+        let pool = [];
+        mainQuizData.forEach(subject => {
+            if (selectedSubjectNames.includes(subject.name)) {
+                subject.subcategories.forEach(sub => {
+                    pool = pool.concat(sub.questions);
+                });
+            }
+        });
+
+        if (pool.length === 0) {
+            alert("No questions found in selected subjects.");
+            return;
+        }
+
+        // Shuffle and take required count
+        currentSetQuestions = shuffleArray([...pool]).slice(0, totalExamQuestions);
+        totalExamQuestions = currentSetQuestions.length; // in case pool < target
+
+        // Initialize Exam State
+        isExamMode = true;
+        currentQuestionIndex = 0;
+        score = 0;
+        examTimeLeft = totalExamQuestions === 100 ? 90 * 60 : 45 * 60;
+
+        closeExamModal();
+        switchScreen('quiz');
+        showQuestion();
+        startExamTimer();
+    }
+
+    function startExamTimer() {
+        clearInterval(examTimerInterval);
+        clearInterval(timerInterval); // stop per-question timer
+
+        const timerContainer = document.getElementById('timer-container');
+        if (timerContainer) timerContainer.classList.add('hidden'); // Hide per-question timer bar
+
+        // Create or Show Global Exam Timer (if we had a dedicated UI for it, let's reuse timer-text for now or add a floating one)
+        // For now, let's just update the existing timer-text but keep it static/global
+        if (timeLeftText) timeLeftText.parentElement.style.color = "var(--primary)";
+
+        examTimerInterval = setInterval(() => {
+            examTimeLeft--;
+            updateExamTimerDisplay();
+
+            if (examTimeLeft <= 0) {
+                clearInterval(examTimerInterval);
+                finishQuiz();
+            }
+        }, 1000);
+    }
+
+    function updateExamTimerDisplay() {
+        const minutes = Math.floor(examTimeLeft / 60);
+        const seconds = examTimeLeft % 60;
+        if (timeLeftText) {
+            timeLeftText.textContent = `${minutes}:${seconds.toString().padStart(2, '0')}`;
+        }
+    }
     let userStats = JSON.parse(localStorage.getItem('userStats')) || {
         totalQuizzes: 0,
         totalQuestions: 0,
-        totalCorrect: 0,
         subjectStats: {} // { "Pakistan Affairs": { total: 10, correct: 8 } }
     };
 
     let bookmarks = JSON.parse(localStorage.getItem('bookmarks')) || [];
+    let mistakesBank = JSON.parse(localStorage.getItem('mistakesBank')) || [];
 
     function saveStats() {
         localStorage.setItem('userStats', JSON.stringify(userStats));
@@ -315,6 +456,55 @@ document.addEventListener('DOMContentLoaded', () => {
         // Update home screen visibility if needed
     }
 
+    // Mistake Bank Logic
+    function addToMistakesBank(question) {
+        const qId = question.q.substring(0, 50);
+        const existing = mistakesBank.find(m => m.qId === qId);
+        if (!existing) {
+            mistakesBank.push({
+                ...question,
+                qId: qId,
+                correctStreak: 0,
+                addedAt: new Date().getTime()
+            });
+            saveMistakes();
+        }
+    }
+
+    function handleMistakeCorrection(questionText) {
+        const qId = questionText.substring(0, 50);
+        const index = mistakesBank.findIndex(m => m.qId === qId);
+        if (index > -1) {
+            mistakesBank[index].correctStreak++;
+            // If answered correctly twice in a row, remove from mistakes bank
+            if (mistakesBank[index].correctStreak >= 2) {
+                mistakesBank.splice(index, 1);
+            }
+            saveMistakes();
+        }
+    }
+
+    function saveMistakes() {
+        localStorage.setItem('mistakesBank', JSON.stringify(mistakesBank));
+    }
+
+    function startMistakesQuiz() {
+        updateNavActiveState('nav-mistakes');
+        if (mistakesBank.length === 0) {
+            alert("No mistakes yet! When you answer questions incorrectly, they will be saved here for review.");
+            return;
+        }
+
+        currentSetQuestions = shuffleArray([...mistakesBank]);
+        currentQuestionIndex = 0;
+        score = 0;
+
+        currentSubcategoryData = null; // Important for back button logic
+        currentCategoryTitle.textContent = `Mistake Bank Review (${mistakesBank.length})`;
+        switchScreen('quiz');
+        renderQuestion();
+    }
+
     function openDashboard() {
         renderDashboard();
         dashboardModal.classList.remove('hidden');
@@ -349,9 +539,19 @@ document.addEventListener('DOMContentLoaded', () => {
         const list = document.getElementById('subject-progress-list');
         list.innerHTML = '';
 
+        let strongestSubject = { name: "N/A", accuracy: -1 };
+        let weakestSubject = { name: "N/A", accuracy: 101 };
+
         Object.keys(userStats.subjectStats).forEach(subject => {
             const stats = userStats.subjectStats[subject];
             const percentage = Math.round((stats.correct / stats.total) * 100);
+
+            if (percentage > strongestSubject.accuracy) {
+                strongestSubject = { name: subject, accuracy: percentage };
+            }
+            if (percentage < weakestSubject.accuracy) {
+                weakestSubject = { name: subject, accuracy: percentage };
+            }
 
             const item = document.createElement('div');
             item.className = 'progress-item';
@@ -366,6 +566,23 @@ document.addEventListener('DOMContentLoaded', () => {
             `;
             list.appendChild(item);
         });
+
+        // Add Insights if data exists
+        if (Object.keys(userStats.subjectStats).length > 0) {
+            const insightsDiv = document.createElement('div');
+            insightsDiv.className = 'dashboard-insights';
+            insightsDiv.innerHTML = `
+                <div class="insight-item">
+                    <i class="fa-solid fa-crown" style="color: var(--accent);"></i>
+                    <span><strong>Strongest:</strong> ${strongestSubject.name} (${strongestSubject.accuracy}%)</span>
+                </div>
+                <div class="insight-item">
+                    <i class="fa-solid fa-arrow-trend-down" style="color: var(--danger);"></i>
+                    <span><strong>Weakest:</strong> ${weakestSubject.name} (${weakestSubject.accuracy}%)</span>
+                </div>
+            `;
+            list.prepend(insightsDiv);
+        }
 
         if (Object.keys(userStats.subjectStats).length === 0) {
             list.innerHTML = '<p style="text-align: center; color: var(--text-light); padding: 1rem;">No data yet. Take a quiz to see your progress!</p>';
@@ -382,10 +599,14 @@ document.addEventListener('DOMContentLoaded', () => {
         return "Others";
     }
 
-    function switchScreen(screenName) {
+    function switchScreen(screenName, isPopState = false) {
         Object.values(screens).forEach(screen => screen.classList.remove('active'));
-        screens[screenName].classList.add('active');
+        if (screens[screenName]) screens[screenName].classList.add('active');
         window.scrollTo(0, 0);
+
+        if (!isPopState && history.state !== screenName) {
+            history.pushState(screenName, '', '#' + screenName);
+        }
     }
 
     function renderCategories() {
@@ -411,29 +632,12 @@ document.addEventListener('DOMContentLoaded', () => {
         currentSubcategoryData = null;
         if (sectionTitle) sectionTitle.textContent = "Select Main Subject";
 
-        const dailyBanner = document.getElementById('daily-mcqs-banner');
-        const mockBanner = document.getElementById('mock-test-banner');
-        if (dailyBanner) dailyBanner.style.display = 'flex';
-        if (mockBanner) mockBanner.style.display = 'flex';
-
-        const bookmarksBanner = document.getElementById('bookmarks-banner');
-        if (bookmarksBanner) {
-            bookmarksBanner.classList.toggle('hidden', bookmarks.length === 0);
-            bookmarksBanner.style.display = bookmarks.length > 0 ? 'flex' : 'none';
-        }
-
-
         renderCategories();
         switchScreen('categories');
     }
 
     function showSubcategories(mainCat) {
         currentMainCategory = mainCat;
-
-        const dailyBanner = document.getElementById('daily-mcqs-banner');
-        const mockBanner = document.getElementById('mock-test-banner');
-        if (dailyBanner) dailyBanner.style.display = 'none';
-        if (mockBanner) mockBanner.style.display = 'none';
 
         categoriesGrid.innerHTML = '';
 
@@ -499,6 +703,12 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function handleBackButtonClick() {
+        if (isExamMode) {
+            if (!confirm("Are you sure you want to exit the exam? All progress will be lost.")) return;
+            clearInterval(examTimerInterval);
+            isExamMode = false;
+        }
+
         if (currentSubcategoryData) {
             switchScreen('set');
         } else {
@@ -684,13 +894,22 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         }
 
-        // Auto-translate if toggle was kept on (we force translation toggle to act like a true toggle)
+        // Auto-translate if toggle was kept on
         if (isTranslated) {
             isTranslated = false; // reset temp to let toggle push it back true
             toggleTranslation();
         }
 
-        startTimer();
+        if (isExamMode) {
+            submitBtn.textContent = "Save & Next";
+            const timerContainer = document.getElementById('timer-container');
+            if (timerContainer) timerContainer.classList.remove('hidden');
+            if (timerBar) timerBar.style.width = "100%";
+            updateExamTimerDisplay();
+        } else {
+            submitBtn.textContent = "Check Answer";
+            startTimer();
+        }
     }
 
     function startTimer() {
@@ -744,15 +963,22 @@ document.addEventListener('DOMContentLoaded', () => {
     function checkAnswer() {
         if (hasAnswered) return;
 
+        const question = currentSetQuestions[currentQuestionIndex];
+        const isCorrect = (selectedOptionIndex === question.answer);
+
+        if (isExamMode) {
+            if (isCorrect) score++;
+            nextQuestion();
+            return;
+        }
+
         hasAnswered = true;
         clearInterval(timerInterval); // Stop timer
 
-        const question = currentSetQuestions[currentQuestionIndex];
         const correctIndex = question.answer;
         const optionsNodes = document.querySelectorAll('.option-btn');
 
         let feedbackIconHTML = '';
-        let isCorrect = (selectedOptionIndex === correctIndex);
 
         playSound(isCorrect);
 
@@ -770,9 +996,11 @@ document.addEventListener('DOMContentLoaded', () => {
             score++;
             feedbackContainer.style.borderLeftColor = 'var(--success)';
             feedbackIconHTML = '<i class="fa-solid fa-circle-check" style="color: var(--success);"></i> Correct! Explanation:';
+            handleMistakeCorrection(question.q);
         } else {
             feedbackContainer.style.borderLeftColor = 'var(--danger)';
             feedbackIconHTML = '<i class="fa-solid fa-circle-xmark" style="color: var(--danger);"></i> Incorrect or Time Out. Explanation:';
+            addToMistakesBank(question);
         }
 
         // Show Explanation
@@ -809,19 +1037,45 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function showResults() {
+        if (timerInterval) clearInterval(timerInterval);
+        if (examTimerInterval) clearInterval(examTimerInterval);
+
         finalScoreEl.textContent = score;
         const total = currentSetQuestions.length;
         totalQuestionsEl.textContent = total;
 
-        // Update User Stats
-        const mainCatName = findMainCategoryBySub(currentSubcategoryData.category);
-        updateStats(mainCatName, total, score);
-
         const trophyIcon = document.querySelector('.trophy-icon');
         const scoreCircle = document.querySelector('.score-circle');
+        const percent = (score / total) * 100;
+
+        if (isExamMode) {
+            resultMessage.textContent = `Timed Exam Completed! You scored ${percent}%`;
+            if (nextSetBtn) nextSetBtn.classList.add('hidden');
+            isExamMode = false; // Reset
+            // Reset timer text color
+            if (timeLeftText) timeLeftText.parentElement.style.color = "inherit";
+        } else {
+            // Update User Stats
+            const mainCatName = findMainCategoryBySub(currentSubcategoryData.category);
+            updateStats(mainCatName, total, score);
+
+            if (score === total) {
+                resultMessage.textContent = 'Excellent! You mastered this set.';
+            } else if (score >= total / 2) {
+                resultMessage.textContent = 'Good effort! Keep practicing to secure full marks.';
+            } else {
+                resultMessage.textContent = 'You need more revision on this topic.';
+            }
+
+            // Handle Next Set Button logic
+            if (currentSetIndex < totalSets - 1) {
+                nextSetBtn.classList.remove('hidden');
+            } else {
+                nextSetBtn.classList.add('hidden');
+            }
+        }
 
         // Confetti Celebration
-        const percent = (score / total) * 100;
         if (percent >= 80 && typeof confetti === 'function') {
             confetti({
                 particleCount: 150,
@@ -831,28 +1085,19 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         }
 
-        if (score === total) {
-            resultMessage.textContent = 'Excellent! You mastered this set.';
+        // Icon styles (shared)
+        if (percent >= 80) {
             trophyIcon.style.color = 'var(--accent)';
             trophyIcon.innerHTML = '<i class="fa-solid fa-trophy"></i>';
             scoreCircle.style.borderColor = 'var(--success)';
-        } else if (score >= total / 2) {
-            resultMessage.textContent = 'Good effort! Keep practicing to secure full marks.';
+        } else if (percent >= 50) {
             trophyIcon.style.color = 'var(--primary)';
             trophyIcon.innerHTML = '<i class="fa-solid fa-medal"></i>';
             scoreCircle.style.borderColor = 'var(--primary)';
         } else {
-            resultMessage.textContent = 'You need more revision on this topic.';
             trophyIcon.style.color = 'var(--danger)';
             trophyIcon.innerHTML = '<i class="fa-solid fa-book-open-reader"></i>';
             scoreCircle.style.borderColor = 'var(--danger)';
-        }
-
-        // Handle Next Set Button logic
-        if (currentSetIndex < totalSets - 1) {
-            nextSetBtn.classList.remove('hidden');
-        } else {
-            nextSetBtn.classList.add('hidden');
         }
 
         switchScreen('result');

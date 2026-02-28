@@ -106,16 +106,25 @@ body {
     background: rgba(255, 255, 255, 0.2);
     border: 1px solid rgba(255, 255, 255, 0.3);
     color: white;
-    width: 40px;
-    height: 40px;
-    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    border-radius: 12px;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     cursor: pointer;
     transition: var(--transition);
-    backdrop-filter: blur(5px);
+    gap: 4px;
+}
+
+.btn-label {
+    font-size: 0.6rem;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
 }
 
 .control-btn:hover {
@@ -815,39 +824,109 @@ body {
     gap: 0.8rem;
 }
 
-.stats-grid {
+.dashboard-modal {
+    max-width: 850px !important;
+    padding: 2rem !important;
+}
+
+.dashboard-body {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: 280px 1fr;
+    gap: 2rem;
+    align-items: start;
+}
+
+.stats-grid-vertical {
+    display: flex;
+    flex-direction: column;
     gap: 1rem;
-    margin-bottom: 2.5rem;
+    margin-bottom: 2rem;
 }
 
-.stat-card {
-    background: var(--background);
-    padding: 1.5rem 1rem;
+.stats-grid-vertical .stat-card {
+    display: flex;
+    align-items: center;
+    gap: 1.2rem;
+    padding: 1.2rem;
+    background: var(--bg-color);
     border-radius: 12px;
-    text-align: center;
-    border: 1px solid var(--border);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    transition: var(--transition);
+    text-align: left;
 }
 
-.stat-value {
+.stats-grid-vertical .stat-card i {
     font-size: 1.8rem;
-    font-weight: 700;
-    color: var(--primary-dark);
-    margin-bottom: 0.3rem;
+    color: var(--primary);
+    background: var(--primary-light);
+    width: 50px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
 }
 
-.stat-label {
-    font-size: 0.8rem;
-    color: var(--text-light);
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
+.stats-grid-vertical .stat-value {
+    font-size: 1.4rem;
+    line-height: 1.2;
+}
+
+.stats-grid-vertical .stat-label {
+    font-size: 0.7rem;
+    margin: 0;
+}
+
+.dashboard-right {
+    background: var(--bg-color);
+    padding: 1.5rem;
+    border-radius: 15px;
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    max-height: 500px;
+    overflow-y: auto;
+}
+
+.performance-section h3 {
+    margin-bottom: 1.5rem;
+    font-size: 1.1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    color: var(--primary-dark);
+}
+
+.dashboard-actions {
+    margin-top: auto;
+}
+
+@media (max-width: 768px) {
+    .dashboard-body {
+        grid-template-columns: 1fr;
+    }
 }
 
 .subject-progress-list {
     display: flex;
     flex-direction: column;
     gap: 1.2rem;
+}
+
+.dashboard-insights {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    background: var(--primary-light);
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    border: 1px solid var(--primary);
+}
+
+.insight-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.9rem;
 }
 
 .progress-item {
@@ -889,6 +968,82 @@ body {
 
 .hidden {
     display: none !important;
+}
+
+.danger-btn {
+    background: #FEE2E2;
+    color: #B91C1C;
+    border: 1px solid #FECACA;
+    padding: 0.8rem 1rem;
+    border-radius: 10px;
+    width: 100%;
+    cursor: pointer;
+    font-weight: 600;
+    transition: var(--transition);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.danger-btn:hover {
+    background: #FECACA;
+}
+
+.subject-checkbox-list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.8rem;
+    max-height: 250px;
+    overflow-y: auto;
+    padding: 0.5rem;
+    background: var(--background);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+}
+
+.subject-checkbox-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.9rem;
+    cursor: pointer;
+    padding: 0.4rem;
+    border-radius: 4px;
+    transition: var(--transition);
+}
+
+.subject-checkbox-item:hover {
+    background: var(--primary-light);
+}
+
+.setup-section h3 {
+    font-size: 1rem;
+    margin-bottom: 0.8rem;
+    color: var(--text-main);
+}
+
+.radio-group {
+    display: flex;
+    gap: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.radio-label {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    cursor: pointer;
+}
+
+#exam-duration-text {
+    font-weight: 600;
+    color: var(--primary);
+    background: var(--primary-light);
+    display: inline-block;
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
 }
 
 /* Confetti Correction */
