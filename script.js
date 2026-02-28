@@ -122,8 +122,14 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         }
 
+        const translateBtn = document.getElementById('translate-btn');
         if (translateBtn) {
             translateBtn.addEventListener('click', toggleTranslation);
+        }
+
+        const readAloudBtn = document.getElementById('read-aloud-btn');
+        if (readAloudBtn) {
+            readAloudBtn.addEventListener('click', readAloud);
         }
 
         if (dashboardToggle) dashboardToggle.addEventListener('click', openDashboard);
@@ -426,8 +432,8 @@ document.addEventListener('DOMContentLoaded', () => {
         totalQuizzes: 0,
         totalQuestions: 0,
         totalCorrect: 0,
-        subjectStats: {}, // { "Pakistan Affairs": { total: 10, correct: 8 } }
-        scoreHistory: [] // Array of recent percentage scores
+        subjectStats: {},
+        scoreHistory: []
     };
 
     let bookmarks = JSON.parse(localStorage.getItem('bookmarks')) || [];
@@ -460,6 +466,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         saveStats();
     }
+
 
     // Bookmark Logic
     function toggleBookmark() {
@@ -676,6 +683,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function switchScreen(screenName, isPopState = false, additionalState = {}) {
+        stopSpeech(); // Stop audio when leaving screen
         Object.values(screens).forEach(screen => screen.classList.remove('active'));
         if (screens[screenName]) screens[screenName].classList.add('active');
         window.scrollTo(0, 0);
@@ -794,10 +802,73 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function handleSetsBackButtonClick() {
-        if (currentMainCategory) {
-            showSubcategories(currentMainCategory);
-        } else {
-            showMainCategories();
+        showScreenFade('subcategory-categories'); // Use fade function
+    }
+
+    // --- Audio Reading (Text-to-Speech) Logic ---
+    function readAloud() {
+        if (!('speechSynthesis' in window)) {
+            alert('Sorry, your browser does not support text-to-speech.');
+            return;
+        }
+
+        // Stop any ongoing speech
+        window.speechSynthesis.cancel();
+
+        const question = currentSetQuestions[currentQuestionIndex];
+        if (!question) return;
+
+        // Construct the text to read
+        let textToRead = `Question: ${question.q}. `;
+
+        // Add options
+        const optionLabels = ['A', 'B', 'C', 'D'];
+        question.options.forEach((opt, index) => {
+            textToRead += `Option ${optionLabels[index]}: ${opt}. `;
+        });
+
+        const utterance = new SpeechSynthesisUtterance(textToRead);
+
+        // Try to pick a clear, English voice
+        const voices = window.speechSynthesis.getVoices();
+        const enVoice = voices.find(v => v.lang.startsWith('en-') && v.name.includes('Google'));
+        if (enVoice) {
+            utterance.voice = enVoice;
+        }
+
+        utterance.rate = 0.9; // Slightly slower for clarity
+        utterance.pitch = 1;
+
+        // Add visual feedback to button while reading
+        const readBtn = document.getElementById('read-aloud-btn');
+        if (readBtn) {
+            const icon = readBtn.querySelector('i');
+            icon.className = 'fa-solid fa-volume-high';
+            icon.classList.add('pulse');
+
+            utterance.onend = () => {
+                icon.className = 'fa-solid fa-ear-listen';
+                icon.classList.remove('pulse');
+            };
+            utterance.onerror = () => {
+                icon.className = 'fa-solid fa-ear-listen';
+                icon.classList.remove('pulse');
+            };
+        }
+
+        window.speechSynthesis.speak(utterance);
+    }
+
+    // Stop speaking when user goes to next question or leaves screen
+    function stopSpeech() {
+        if ('speechSynthesis' in window) {
+            window.speechSynthesis.cancel();
+        }
+        const readBtn = document.getElementById('read-aloud-btn');
+        if (readBtn) {
+            const icon = readBtn.querySelector('i');
+            icon.className = 'fa-solid fa-ear-listen';
+            icon.classList.remove('pulse');
         }
     }
 
@@ -915,6 +986,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function renderQuestion() {
+        stopSpeech(); // Stop audio when moving to new question
         hasAnswered = false;
         selectedOptionIndex = null;
         submitBtn.disabled = true;

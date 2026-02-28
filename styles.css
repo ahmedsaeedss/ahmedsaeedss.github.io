@@ -145,6 +145,48 @@ body {
     color: var(--accent);
 }
 
+.streak-badge {
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    color: #FCA5A5;
+    /* Light fiery red */
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
+    font-size: 1.1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin-left: 0.5rem;
+    font-weight: 700;
+    box-shadow: 0 0 10px rgba(239, 68, 68, 0.3);
+    transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.streak-badge.active {
+    color: #EF4444;
+    /* Bright red/orange when active */
+    background: rgba(255, 255, 255, 0.9);
+}
+
+.streak-badge i {
+    color: #F97316;
+    /* Orange flame */
+}
+
+.streak-badge.pulse {
+    animation: pulseFlame 1s infinite alternate;
+}
+
+@keyframes pulseFlame {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1);
+    }
+}
+
 .subtitle {
     color: var(--primary-light);
     font-size: 1.1rem;
@@ -1210,6 +1252,28 @@ canvas {
 
 /* Mobile Navigation Optimization */
 @media (max-width: 768px) {
+    .app-header {
+        padding: 2rem 1rem;
+    }
+
+    .logo {
+        font-size: 1.8rem;
+        flex-wrap: wrap;
+    }
+
+    .subtitle {
+        font-size: 0.95rem;
+        padding: 0 1rem;
+    }
+
+    .header-controls {
+        position: relative;
+        top: 0;
+        right: 0;
+        justify-content: center;
+        margin-bottom: 1.5rem;
+    }
+
     .nav-links {
         flex-wrap: nowrap;
         justify-content: flex-start;
@@ -1237,6 +1301,17 @@ canvas {
 
     .nav-item i {
         font-size: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .logo {
+        font-size: 1.5rem;
+    }
+
+    .streak-badge {
+        font-size: 0.9rem;
+        padding: 0.2rem 0.6rem;
     }
 }
 
