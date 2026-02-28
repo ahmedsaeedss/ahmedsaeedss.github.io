@@ -169,7 +169,10 @@ document.addEventListener('DOMContentLoaded', () => {
         window.addEventListener('popstate', (e) => {
             const state = e.state;
             if (!state) {
+                // We reached the very first entry (landing). 
+                // Stay on main categories and re-push state to "trap" the back button.
                 showMainCategories(true);
+                history.pushState({ screen: 'categories' }, '', '#categories');
                 return;
             }
 
@@ -192,8 +195,9 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
 
-        // Initialize first state
-        history.replaceState({ screen: 'categories' }, '', '#categories');
+        // Initialize with a push to ensure a "back" doesn't immediately exit
+        history.replaceState({ screen: 'categories' }, '', '#main');
+        history.pushState({ screen: 'categories' }, '', '#categories');
     }
 
     function toggleTheme() {
