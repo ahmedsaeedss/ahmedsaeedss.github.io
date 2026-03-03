@@ -1,0 +1,545 @@
+                                            {
+                                                "category": "Al-Hadith",
+                                                "icon": "fa-book-open",
+                                                "questions": [
+                                                    {
+                                                        "q": "What is the literal meaning of 'Hadith'?",
+                                                        "options": [
+                                                            "Old news",
+                                                            "Report or News",
+                                                            "Ancient story",
+                                                            "Poetry"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "Linguistically, Hadith means a report, talk, or news."
+                                                    },
+                                                    {
+                                                        "q": "What is the technical definition of Hadith in Islam?",
+                                                        "options": [
+                                                            "Sayings of the Sahaba",
+                                                            "Words of Allah",
+                                                            "Sayings, actions, and approvals of Prophet Muhammad (PBUH)",
+                                                            "Islamic history books"
+                                                        ],
+                                                        "answer": 2,
+                                                        "explanation": "Hadith refers to everything attributed to the Prophet (PBUH) regarding his words, actions, or silent approvals."
+                                                    },
+                                                    {
+                                                        "q": "Which Companion of the Prophet (PBUH) narrated the highest number of Hadiths?",
+                                                        "options": [
+                                                            "Hazrat Abu Bakr (RA)",
+                                                            "Hazrat Abu Huraira (RA)",
+                                                            "Hazrat Umar (RA)",
+                                                            "Hazrat Anas bin Malik (RA)"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "Hazrat Abu Huraira (RA) narrated approximately 5,374 Hadiths."
+                                                    },
+                                                    {
+                                                        "q": "Who was the female Companion who narrated the most Hadiths?",
+                                                        "options": [
+                                                            "Hazrat Khadija (RA)",
+                                                            "Hazrat Fatima (RA)",
+                                                            "Hazrat Aisha (RA)",
+                                                            "Hazrat Zainab (RA)"
+                                                        ],
+                                                        "answer": 2,
+                                                        "explanation": "Hazrat Aisha (RA) narrated 2,210 Hadiths and was a great scholar."
+                                                    },
+                                                    {
+                                                        "q": "What is the 'Sanad' of a Hadith?",
+                                                        "options": [
+                                                            "The text of the Hadith",
+                                                            "The chain of narrators",
+                                                            "The book title",
+                                                            "The location of narration"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "Sanad is the list of people who passed the Hadith from one to another until the Prophet (PBUH)."
+                                                    },
+                                                    {
+                                                        "q": "What is the 'Matn' of a Hadith?",
+                                                        "options": [
+                                                            "The narrator's name",
+                                                            "The actual text or message of the Hadith",
+                                                            "The level of authenticity",
+                                                            "The date of recording"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "Matn refers to the core content or the actual words of the Prophet (PBUH) recorded."
+                                                    },
+                                                    {
+                                                        "q": "A Hadith that has a continuous chain of reliable and precise narrators is called?",
+                                                        "options": [
+                                                            "Sahih (Authentic)",
+                                                            "Da'if (Weak)",
+                                                            "Maudu (Fabricated)",
+                                                            "Mursal"
+                                                        ],
+                                                        "answer": 0,
+                                                        "explanation": "Sahih is the highest grade of authenticity in Hadith science."
+                                                    },
+                                                    {
+                                                        "q": "What is 'Hadith Qudsi'?",
+                                                        "options": [
+                                                            "A Hadith about the Day of Judgment",
+                                                            "Words of Allah narrated by the Prophet (PBUH) in his own words",
+                                                            "A Hadith about the Sahaba",
+                                                            "A very long Hadith"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "In Hadith Qudsi, the meaning is from Allah but the wording is from the Prophet (PBUH)."
+                                                    },
+                                                    {
+                                                        "q": "What are the 'Siha-e-Sitta'?",
+                                                        "options": [
+                                                            "The six pillars of Iman",
+                                                            "The six most authentic books of Hadith",
+                                                            "Six famous battles",
+                                                            "Six great Caliphs"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "Siha-e-Sitta refers to the six major collections: Bukhari, Muslim, Abu Dawood, Tirmidhi, Nasa'i, and Ibn Majah."
+                                                    },
+                                                    {
+                                                        "q": "Who is the author of 'Al-Jami al-Sahih' (Sahih Bukhari)?",
+                                                        "options": [
+                                                            "Imam Muslim",
+                                                            "Imam Malik",
+                                                            "Imam Muhammad bin Ismail al-Bukhari",
+                                                            "Imam Abu Hanifa"
+                                                        ],
+                                                        "answer": 2,
+                                                        "explanation": "Imam Bukhari's collection is considered the most authentic book after the Quran."
+                                                    },
+                                                    {
+                                                        "q": "Which book of Hadith is generally placed second in authenticity after Sahih Bukhari?",
+                                                        "options": [
+                                                            "Sunan Abu Dawood",
+                                                            "Sahih Muslim",
+                                                            "Al-Muwatta",
+                                                            "Sunan Ibn Majah"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "Sahih Muslim, compiled by Imam Muslim bin al-Hajjaj, is the second most authentic collection."
+                                                    },
+                                                    {
+                                                        "q": "How many years did Imam Bukhari take to compile his Sahih?",
+                                                        "options": [
+                                                            "5 years",
+                                                            "10 years",
+                                                            "16 years",
+                                                            "20 years"
+                                                        ],
+                                                        "answer": 2,
+                                                        "explanation": "Imam Bukhari spent 16 years traveling and researching to compile his work."
+                                                    },
+                                                    {
+                                                        "q": "Who is the author of 'Al-Muwatta', one of the earliest Hadith collections?",
+                                                        "options": [
+                                                            "Imam Malik bin Anas",
+                                                            "Imam Shafi'i",
+                                                            "Imam Ahmad bin Hanbal",
+                                                            "Imam Bukhari"
+                                                        ],
+                                                        "answer": 0,
+                                                        "explanation": "Imam Malik was the great scholar of Madinah and compiled Al-Muwatta."
+                                                    },
+                                                    {
+                                                        "q": "What is the term for a fabricated or forged Hadith?",
+                                                        "options": [
+                                                            "Da'if",
+                                                            "Maudu",
+                                                            "Hasan",
+                                                            "Sahih"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "Maudu refers to reports that were falsely attributed to the Prophet (PBUH)."
+                                                    },
+                                                    {
+                                                        "q": "A Hadith narrated by so many people at every stage of its chain that it is impossible for them to have agreed upon a lie is called?",
+                                                        "options": [
+                                                            "Mutawatir",
+                                                            "Ahad",
+                                                            "Gharib",
+                                                            "Aziz"
+                                                        ],
+                                                        "answer": 0,
+                                                        "explanation": "Mutawatir Hadiths provide certain knowledge due to the massive number of narrators."
+                                                    },
+                                                    {
+                                                        "q": "Which scholar compiled 'Jami at-Tirmidhi' and is famous for classifying Hadiths into Sahih, Hasan, and Da'if?",
+                                                        "options": [
+                                                            "Imam Abu Dawood",
+                                                            "Imam Nasa'i",
+                                                            "Imam Muhammad bin Isa at-Tirmidhi",
+                                                            "Imam Ibn Majah"
+                                                        ],
+                                                        "answer": 2,
+                                                        "explanation": "Imam Tirmidhi was a student of Imam Bukhari and pioneered more detailed grading."
+                                                    },
+                                                    {
+                                                        "q": "In which city was Imam Bukhari born?",
+                                                        "options": [
+                                                            "Baghdad",
+                                                            "Nishapur",
+                                                            "Bukhara",
+                                                            "Makkah"
+                                                        ],
+                                                        "answer": 2,
+                                                        "explanation": "He was born in Bukhara, in modern-day Uzbekistan."
+                                                    },
+                                                    {
+                                                        "q": "What is 'Sunnah' in relation to Hadith?",
+                                                        "options": [
+                                                            "Only the sayings of the Prophet",
+                                                            "Only the silent approvals",
+                                                            "The practical way and life example of the Prophet (PBUH)",
+                                                            "The laws created by Sahaba"
+                                                        ],
+                                                        "answer": 2,
+                                                        "explanation": "Sunnah represents the way of life of the Prophet (PBUH), which is documented in Hadiths."
+                                                    },
+                                                    {
+                                                        "q": "Who was the Caliph who first ordered the official, systematic collection of Hadith?",
+                                                        "options": [
+                                                            "Hazrat Abu Bakr (RA)",
+                                                            "Hazrat Umar bin Abdul Aziz (RA)",
+                                                            "Hazrat Usman (RA)",
+                                                            "Harun al-Rashid"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "Umar bin Abdul Aziz recognized the need to preserve Hadiths formally at the end of the 1st century AH."
+                                                    },
+                                                    {
+                                                        "q": "The science of evaluating the character and reliability of Hadith narrators is known as?",
+                                                        "options": [
+                                                            "Fiqh",
+                                                            "Ilm al-Rijal",
+                                                            "Tafsir",
+                                                            "Lughat"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "Ilm al-Rijal (Knowledge of Men) involves studying the biographies of narrators."
+                                                    },
+                                                    {
+                                                        "q": "A report that is traced back to a Companion (Sahabi) of the Prophet is called?",
+                                                        "options": [
+                                                            "Marfu",
+                                                            "Mauquf",
+                                                            "Maqtu",
+                                                            "Mursal"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "Mauquf refers to sayings or actions of the Sahaba themselves."
+                                                    },
+                                                    {
+                                                        "q": "A report that is traced back to a Successor (Tabi'i) is called?",
+                                                        "options": [
+                                                            "Marfu",
+                                                            "Mauquf",
+                                                            "Maqtu",
+                                                            "Sahih"
+                                                        ],
+                                                        "answer": 2,
+                                                        "explanation": "Maqtu refers to statements or actions of the Tabi'un."
+                                                    },
+                                                    {
+                                                        "q": "Who is a 'Sahabi'?",
+                                                        "options": [
+                                                            "Anyone who was born in Makkah",
+                                                            "One who met the Prophet (PBUH) as a Muslim and died as a Muslim",
+                                                            "Anyone who lived in Madinah",
+                                                            "A relative of the Prophet"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "A Companion must have seen/met the Prophet (PBUH) in a state of faith."
+                                                    },
+                                                    {
+                                                        "q": "Who is a 'Tabi'i'?",
+                                                        "options": [
+                                                            "A person who met the Prophet",
+                                                            "A person who met a Sahabi in a state of faith and died as a Muslim",
+                                                            "A scholar of the 4th century",
+                                                            "A non-Muslim narrator"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "Tabi'un are the generation that followed the Sahaba."
+                                                    },
+                                                    {
+                                                        "q": "Which book is known for focusing heavily on legal/Fiqh-related Hadiths?",
+                                                        "options": [
+                                                            "Sahih Muslim",
+                                                            "Sunan Abu Dawood",
+                                                            "Sunan Ibn Majah",
+                                                            "Sahih Bukhari"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "Imam Abu Dawood's Sunan is highly valued by jurists (Fuqaha)."
+                                                    },
+                                                    {
+                                                        "q": "What is the meaning of 'Gharib' Hadith?",
+                                                        "options": [
+                                                            "A strange narration",
+                                                            "A Hadith narrated by only one person in its chain",
+                                                            "A very common Hadith",
+                                                            "A Hadith with no chain"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "Gharib refers to a narration that has only one narrator at some point in the Sanad."
+                                                    },
+                                                    {
+                                                        "q": "Which scholar's 'Musnad' contains nearly 30,000 Hadiths?",
+                                                        "options": [
+                                                            "Imam Malik",
+                                                            "Imam Shafi'i",
+                                                            "Imam Ahmad bin Hanbal",
+                                                            "Imam Abu Hanifa"
+                                                        ],
+                                                        "answer": 2,
+                                                        "explanation": "Musnad Ahmad is one of the largest and most famous encyclopedic collections."
+                                                    },
+                                                    {
+                                                        "q": "Is a 'Da'if' (Weak) Hadith considered a lie?",
+                                                        "options": [
+                                                            "Yes, always",
+                                                            "No, it just means there is a gap or weakness in the chain/narrator",
+                                                            "It is the same as Sahih",
+                                                            "It is only used by poets"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "Weakness doesn't necessarily mean it's false, but it's not strong enough for establishing major laws."
+                                                    },
+                                                    {
+                                                        "q": "The collection 'Riyad us-Saliheen' (The Meadows of the Righteous) was compiled by?",
+                                                        "options": [
+                                                            "Imam Bukhari",
+                                                            "Imam Nawawi",
+                                                            "Imam Ghazali",
+                                                            "Imam Ibn Kathir"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "Imam an-Nawawi compiled this popular thematic collection of authentic Hadiths."
+                                                    },
+                                                    {
+                                                        "q": "What is 'Ilal al-Hadith'?",
+                                                        "options": [
+                                                            "The study of hidden defects in Hadiths",
+                                                            "The study of easy Hadiths",
+                                                            "The study of long Hadiths",
+                                                            "The study of Hadith icons"
+                                                        ],
+                                                        "answer": 0,
+                                                        "explanation": "Ilal is a deep science detecting subtle errors that might escape primary inspection."
+                                                    },
+                                                    {
+                                                        "q": "Which book is called 'The Sahihayn'?",
+                                                        "options": [
+                                                            "Bukhari and Tirmidhi",
+                                                            "Bukhari and Muslim",
+                                                            "Muslim and Abu Dawood",
+                                                            "Nasa'i and Ibn Majah"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "Bukhari and Muslim are together referred to as the two Sahihs."
+                                                    },
+                                                    {
+                                                        "q": "How many Hadiths did Imam Bukhari select his Sahih from, out of approximately 600,000 he knew?",
+                                                        "options": [
+                                                            "Approx 7,000 (with repetitions)",
+                                                            "Approx 50,000",
+                                                            "Approx 100,000",
+                                                            "Approx 1,000"
+                                                        ],
+                                                        "answer": 0,
+                                                        "explanation": "He was extremely selective to ensure only the highest authenticity."
+                                                    },
+                                                    {
+                                                        "q": "Which Hadith collection is specially known for having the fewest 'Da'if' (weak) narrations after the Sahihayn?",
+                                                        "options": [
+                                                            "Sunan Ibn Majah",
+                                                            "Sunan an-Nasa'i",
+                                                            "Sunan Abu Dawood",
+                                                            "Musnad Ahmad"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "Imam Nasa'i had very strict criteria for his narrators."
+                                                    },
+                                                    {
+                                                        "q": "What is 'Mursal' Hadith?",
+                                                        "options": [
+                                                            "A Hadith with a broken start",
+                                                            "A Hadith where a Tabi'i quotes the Prophet directly, missing the Sahabi",
+                                                            "A Hadith about travel",
+                                                            "A Hadith with no text"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "It is a type of broken chain where the intermediate link (Sahabi) is omitted."
+                                                    },
+                                                    {
+                                                        "q": "Who was the 'Secretary of the Prophet' who played a key role in documenting revelations and Hadith?",
+                                                        "options": [
+                                                            "Hazrat Khalid bin Walid",
+                                                            "Hazrat Zaid bin Thabit (RA)",
+                                                            "Hazrat Bilal",
+                                                            "Hazrat Ammar"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "Hazrat Zaid was highly literate and trusted with compiling the Quran and Sunnah."
+                                                    },
+                                                    {
+                                                        "q": "What is the status of a Hadith that contradicts the explicit text of the Quran?",
+                                                        "options": [
+                                                            "It is accepted anyway",
+                                                            "It is rejected (Mudu/Shadh)",
+                                                            "The Quran is changed",
+                                                            "It is called a miracle"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "Hadith explains the Quran and cannot fundamentally contradict its clear and established principles."
+                                                    },
+                                                    {
+                                                        "q": "Which Imam moved to Egypt and compiled his Fiqh and Hadith insights there?",
+                                                        "options": [
+                                                            "Imam Abu Hanifa",
+                                                            "Imam Malik",
+                                                            "Imam Shafi'i",
+                                                            "Imam Ahmad"
+                                                        ],
+                                                        "answer": 2,
+                                                        "explanation": "Imam Shafi'i is the founder of the Shafi'i school and wrote 'Al-Risala'."
+                                                    },
+                                                    {
+                                                        "q": "What is 'Hadith al-Mashhur'?",
+                                                        "options": [
+                                                            "A famous Hadith",
+                                                            "A Hadith narrated by at least three people at every level of the chain",
+                                                            "A Hadith only for kings",
+                                                            "A long Hadith"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "It is a grade of popularity (Tawatur) below fully Mutawatir but above Aziz."
+                                                    },
+                                                    {
+                                                        "q": "What is 'Ijazah' in the context of Hadith?",
+                                                        "options": [
+                                                            "Permission to narrate Hadiths from a teacher",
+                                                            "A gift given to students",
+                                                            "A type of ink",
+                                                            "A vacation"
+                                                        ],
+                                                        "answer": 0,
+                                                        "explanation": "Ijazah is a formal certification ensuring the tradition is passed correctly."
+                                                    },
+                                                    {
+                                                        "q": "Which month is traditionally associated with the final review of the Quran and Hadith guidance by the Prophet?",
+                                                        "options": [
+                                                            "Muharram",
+                                                            "Ramadan",
+                                                            "Shawwal",
+                                                            "Zilhajj"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "The Prophet (PBUH) reviewed the Quran with Angel Jibreel every Ramadan."
+                                                    },
+                                                    {
+                                                        "q": "What is 'Aadaab al-Hadith'?",
+                                                        "options": [
+                                                            "History of Hadith",
+                                                            "Etiquettes of narrating and listening to Hadith",
+                                                            "Alphabetical list of Hadiths",
+                                                            "Laws of trade"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "It involves the respect and focus required when dealing with the Prophet's words."
+                                                    },
+                                                    {
+                                                        "q": "Which Companion was known as 'The Scholar of this Ummah'?",
+                                                        "options": [
+                                                            "Hazrat Ibn Abbas (RA)",
+                                                            "Hazrat Ibn Masud (RA)",
+                                                            "Hazrat Muadh bin Jabal (RA)",
+                                                            "All of the above"
+                                                        ],
+                                                        "answer": 0,
+                                                        "explanation": "Hazrat Abdullah ibn Abbas (RA) was famous for his knowledge of Tafsir and Hadith."
+                                                    },
+                                                    {
+                                                        "q": "What is 'Nasikh and Mansukh' in Hadith?",
+                                                        "options": [
+                                                            "The Abrogating and the Abrogated (later rules replacing earlier ones)",
+                                                            "True and False",
+                                                            "Poetry and Prose",
+                                                            "Old and New books"
+                                                        ],
+                                                        "answer": 0,
+                                                        "explanation": "It deals with the chronological order of commands."
+                                                    },
+                                                    {
+                                                        "q": "Imam Muslim's 'Sahih' is especially famous for?",
+                                                        "options": [
+                                                            "Its beautiful poetry",
+                                                            "Its excellent organization and thematic grouping of Hadiths",
+                                                            "Its short length",
+                                                            "Its focus on history only"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "Imam Muslim kept various versions of a Hadith together, making it easy to compare."
+                                                    },
+                                                    {
+                                                        "q": "What is 'Muttafaqun Alayh'?",
+                                                        "options": [
+                                                            "A Hadith agreed upon by everyone in the world",
+                                                            "A Hadith recorded by both Bukhari and Muslim in their Sahihs",
+                                                            "A Hadith with no chain",
+                                                            "A very old Hadith"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "It means 'Agreed Upon' by the two most authentic collectors."
+                                                    },
+                                                    {
+                                                        "q": "The book 'Mishkat al-Masabih' is?",
+                                                        "options": [
+                                                            "A biography of the Prophet",
+                                                            "A thematic compilation of Hadiths from various sources",
+                                                            "A dictionary",
+                                                            "A book of maps"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "Compiled by Khatib al-Tabrizi, it is a widely used textbook for Hadith study."
+                                                    },
+                                                    {
+                                                        "q": "Who was the teacher of Imam Bukhari and a major Hadith collector himself?",
+                                                        "options": [
+                                                            "Imam Malik",
+                                                            "Imam Ahmad bin Hanbal",
+                                                            "Ishaq ibn Rahwayh",
+                                                            "Both B and C"
+                                                        ],
+                                                        "answer": 3,
+                                                        "explanation": "Imam Bukhari studied under many giants, including Ahmad and Ishaq."
+                                                    },
+                                                    {
+                                                        "q": "Which Hijri century is known as the 'Golden Age' of Hadith compilation?",
+                                                        "options": [
+                                                            "1st Century",
+                                                            "2nd Century",
+                                                            "3rd Century",
+                                                            "10th Century"
+                                                        ],
+                                                        "answer": 2,
+                                                        "explanation": "The 3rd Hijri century saw the compilation of the Siha-e-Sitta."
+                                                    },
+                                                    {
+                                                        "q": "What is the primary purpose of studying Hadith?",
+                                                        "options": [
+                                                            "To learn history only",
+                                                            "To understand and follow the teachings of Prophet Muhammad (PBUH) accurately",
+                                                            "To win debates",
+                                                            "To learn Arabic language"
+                                                        ],
+                                                        "answer": 1,
+                                                        "explanation": "Hadith provides the details for living according to the Quranic guidance."
+                                                    }
+                                                ]
+                                            },

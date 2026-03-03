@@ -1349,3 +1349,16 @@ canvas {
         color: black !important;
     }
 }
+
+.dev-credit {
+    margin-top: 12px;
+    font-weight: 700;
+    color: #000000 !important;
+    font-family: 'Playfair Display', serif;
+    font-size: 1.15rem;
+    letter-spacing: 0.8px;
+}
+
+[data-theme="dark"] .dev-credit {
+    color: #ffffff !important;
+}
