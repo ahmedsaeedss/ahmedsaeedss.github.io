@@ -812,7 +812,20 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        // Stop any ongoing speech
+        // If currently speaking, stop it and exit (toggle functionality)
+        if (window.speechSynthesis.speaking) {
+            window.speechSynthesis.cancel();
+
+            const readBtn = document.getElementById('read-aloud-btn');
+            if (readBtn) {
+                const icon = readBtn.querySelector('i');
+                icon.className = 'fa-solid fa-volume-high';
+                icon.classList.remove('pulse');
+            }
+            return;
+        }
+
+        // Otherwise clear queue and start reading
         window.speechSynthesis.cancel();
 
         const question = currentSetQuestions[currentQuestionIndex];
@@ -847,11 +860,11 @@ document.addEventListener('DOMContentLoaded', () => {
             icon.classList.add('pulse');
 
             utterance.onend = () => {
-                icon.className = 'fa-solid fa-ear-listen';
+                icon.className = 'fa-solid fa-volume-high';
                 icon.classList.remove('pulse');
             };
             utterance.onerror = () => {
-                icon.className = 'fa-solid fa-ear-listen';
+                icon.className = 'fa-solid fa-volume-high';
                 icon.classList.remove('pulse');
             };
         }
@@ -867,7 +880,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const readBtn = document.getElementById('read-aloud-btn');
         if (readBtn) {
             const icon = readBtn.querySelector('i');
-            icon.className = 'fa-solid fa-ear-listen';
+            icon.className = 'fa-solid fa-volume-high';
             icon.classList.remove('pulse');
         }
     }
