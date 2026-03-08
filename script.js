@@ -92,36 +92,62 @@ document.addEventListener('DOMContentLoaded', () => {
         // Hashing logic is handled exclusively by switchScreen to prevent conflicts
     }
 
-    function checkHashForDeepLink() {
-        if (!window.location.hash || window.location.hash.length <= 1) return;
+    function checkPathForDeepLink() {
+        console.log("Checking path for deep link:", window.location.pathname, window.location.hash);
 
-        const hashTarget = decodeURIComponent(window.location.hash.substring(1)).replace(/-/g, ' ').toLowerCase();
+        let target = "";
+        const path = window.location.pathname;
+        const hash = window.location.hash;
+
+        // Priority 1: Check Hash (Fallback/Local)
+        if (hash.length > 1) {
+            target = decodeURIComponent(hash.substring(1)).replace(/-/g, ' ').toLowerCase();
+            console.log("Found hash target:", target);
+        }
+        // Priority 2: Check Path (Server/SEO)
+        else if (path !== '/' && !path.includes('index.html')) {
+            if (path.startsWith('/practice/')) {
+                target = decodeURIComponent(path.substring(10)).replace(/-/g, ' ').toLowerCase();
+            } else if (path.startsWith('/topics/')) {
+                target = decodeURIComponent(path.substring(8)).replace(/-/g, ' ').toLowerCase();
+            } else if (path.length > 1) {
+                target = decodeURIComponent(path.substring(1)).replace(/-/g, ' ').toLowerCase();
+            }
+            console.log("Found path target:", target);
+        }
+
+        if (!target || target === 'home') return;
 
         // Try to find matching subcategory and auto-open it
         let found = false;
         mainQuizData.forEach(mainCat => {
             mainCat.subcategories.forEach(subCat => {
-                if (subCat.category.toLowerCase() === hashTarget) {
+                if (subCat.category.toLowerCase() === target || (subCat.isFolder && subCat.category.toLowerCase() === target)) {
                     selectedMainCategory = mainCat.category;
-                    startSubcategory(subCat);
+                    if (subCat.isFolder) {
+                        showNestedSubcategories(mainCat, subCat);
+                    } else {
+                        startSubcategory(subCat);
+                    }
                     found = true;
                 }
             });
         });
 
         if (found) {
-            console.log(`Deep linked to: ${hashTarget}`);
+            console.log(`Deep linked successfully to: ${target}`);
         }
     }
 
     // Call deep link check on load
-    window.addEventListener('load', checkHashForDeepLink);
+    window.addEventListener('load', checkPathForDeepLink);
 
     let isExamMode = false;
     let examTimeLeft = 0;
     let examTimerInterval = null;
     let totalExamQuestions = 0;
     let examSelectedSubjects = [];
+    let currentFolderData = null;
 
     // Analytics state
     let quizStartTime = 0;
@@ -253,12 +279,15 @@ document.addEventListener('DOMContentLoaded', () => {
                 // We reached the very first entry (landing). 
                 // Stay on main categories and re-push state to "trap" the back button.
                 showMainCategories(true);
-                history.pushState({ screen: 'categories' }, '', '#HomePage');
+                const homePath = window.location.protocol === 'file:' ? '#home' : '/home';
+                history.pushState({ screen: 'categories' }, '', homePath);
                 return;
             }
 
             if (state.screen === 'categories') {
-                if (state.mainCategory) {
+                if (state.folderData && state.mainCategory) {
+                    showNestedSubcategories(state.mainCategory, state.folderData, true);
+                } else if (state.mainCategory) {
                     showSubcategories(state.mainCategory, true);
                 } else {
                     showMainCategories(true);
@@ -277,8 +306,9 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         // Initialize with a push to ensure a "back" doesn't immediately exit
-        history.replaceState({ screen: 'categories' }, '', '#HomePage');
-        history.pushState({ screen: 'categories' }, '', '#HomePage');
+        const homePath = window.location.protocol === 'file:' ? '#home' : '/home';
+        history.replaceState({ screen: 'categories' }, '', homePath);
+        history.pushState({ screen: 'categories' }, '', homePath);
     }
 
     function toggleTheme() {
@@ -869,16 +899,41 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (!isPopState) {
             const state = { screen: screenName, ...additionalState };
-            let hashName = screenName;
+            let pathName = screenName;
 
-            // Map the screen names to the URL hashes the user requested
+            // Map the screen names to clean URLs
             if (screenName === 'categories' && !additionalState.mainCategory) {
-                hashName = 'HomePage';
+                pathName = 'home';
             } else if (screenName === 'categories' && additionalState.mainCategory) {
-                hashName = 'categories';
+                const name = (additionalState.mainCategory.name || "").toLowerCase().replace(/ /g, '-');
+                pathName = 'topics/' + name;
+            } else if (screenName === 'set' && additionalState.subcategoryData) {
+                const name = (additionalState.subcategoryData.category || "").toLowerCase().replace(/ /g, '-');
+                pathName = 'practice/' + name;
+            } else if (screenName === 'quiz' && additionalState.setIndex !== undefined) {
+                pathName = 'quiz/set-' + (additionalState.setIndex + 1);
             }
 
-            history.pushState(state, '', '#' + hashName);
+            console.log("Attempting to switch URL to:", pathName);
+
+            // Fallback for local testing (file:// protocol)
+            if (window.location.protocol === 'file:') {
+                console.log("Local file detected. Using Hash.");
+                history.pushState(state, '', '#' + pathName);
+                return;
+            }
+
+            // For servers, use cleaner routing
+            // We prepend '/' to ensure it's from the root
+            const finalPath = '/' + pathName;
+            try {
+                history.pushState(state, '', finalPath);
+                console.log("URL pushed successfully:", finalPath);
+            } catch (e) {
+                console.error("Error pushing state:", e);
+                // Last fallback: use hashes if pushState fails
+                history.pushState(state, '', '#' + pathName);
+            }
         }
     }
 
@@ -903,6 +958,7 @@ document.addEventListener('DOMContentLoaded', () => {
         updateNavActiveState('nav-home');
         currentMainCategory = null;
         currentSubcategoryData = null;
+        currentFolderData = null;
         if (sectionTitle) sectionTitle.textContent = "Select Main Subject";
         updateMetaTags("Home", "All Topics", false);
 
@@ -912,20 +968,34 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function showSubcategories(mainCat, isPopState = false) {
         currentMainCategory = mainCat;
+        currentFolderData = null;
 
         categoriesGrid.innerHTML = '';
 
         mainCat.subcategories.forEach((sub, index) => {
             const card = document.createElement('div');
             card.className = 'category-card';
-            card.innerHTML = `
-                <div class="category-icon">
-                    <i class="fa-solid ${sub.icon || 'fa-book-open'}"></i>
-                </div>
-                <h3>${sub.category}</h3>
-                <p style="color: #6B7280; font-size: 0.95rem;">${sub.questions.length} Questions</p>
-            `;
-            card.addEventListener('click', () => startSubcategory(sub));
+
+            if (sub.isFolder) {
+                card.innerHTML = `
+                    <div class="category-icon">
+                        <i class="fa-solid ${sub.icon || 'fa-folder'}"></i>
+                    </div>
+                    <h3>${sub.category}</h3>
+                    <p style="color: #6B7280; font-size: 0.95rem;">${sub.subcategories ? sub.subcategories.length : 0} Topics</p>
+                `;
+                card.addEventListener('click', () => showNestedSubcategories(mainCat, sub));
+            } else {
+                card.innerHTML = `
+                    <div class="category-icon">
+                        <i class="fa-solid ${sub.icon || 'fa-book-open'}"></i>
+                    </div>
+                    <h3>${sub.category}</h3>
+                    <p style="color: #6B7280; font-size: 0.95rem;">${sub.questions ? sub.questions.length : 0} Questions</p>
+                `;
+                card.addEventListener('click', () => startSubcategory(sub));
+            }
+
             categoriesGrid.appendChild(card);
         });
 
@@ -935,6 +1005,35 @@ document.addEventListener('DOMContentLoaded', () => {
 
         updateMetaTags(mainCat.name, "Various Subjects", false);
         switchScreen('categories', isPopState, { mainCategory: mainCat });
+    }
+
+    function showNestedSubcategories(mainCat, folderData, isPopState = false) {
+        currentMainCategory = mainCat;
+        currentFolderData = folderData;
+
+        categoriesGrid.innerHTML = '';
+
+        if (folderData.subcategories) {
+            folderData.subcategories.forEach((sub, index) => {
+                const card = document.createElement('div');
+                card.className = 'category-card';
+                card.innerHTML = `
+                    <div class="category-icon">
+                        <i class="fa-solid ${sub.icon || 'fa-book-open'}"></i>
+                    </div>
+                    <h3>${sub.category}</h3>
+                    <p style="color: #6B7280; font-size: 0.95rem;">${sub.questions ? sub.questions.length : 0} Questions</p>
+                `;
+                card.addEventListener('click', () => startSubcategory(sub));
+                categoriesGrid.appendChild(card);
+            });
+        }
+
+        const sectionTitleElement = document.querySelector('#category-screen h2');
+        if (sectionTitleElement) sectionTitleElement.textContent = `${mainCat.name} - ${folderData.category}`;
+
+        updateMetaTags(folderData.category, mainCat.name, false);
+        switchScreen('categories', isPopState, { mainCategory: mainCat, folderData: folderData });
     }
 
     function startSubcategory(subData, isPopState = false) {
@@ -997,7 +1096,13 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function handleSetsBackButtonClick() {
-        showScreenFade('subcategory-categories'); // Use fade function
+        if (currentFolderData && currentMainCategory) {
+            showNestedSubcategories(currentMainCategory, currentFolderData);
+        } else if (currentMainCategory) {
+            showSubcategories(currentMainCategory);
+        } else {
+            showMainCategories();
+        }
     }
 
     // --- Audio Reading (Text-to-Speech) Logic ---

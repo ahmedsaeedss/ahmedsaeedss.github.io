@@ -15992,4387 +15992,6 @@ const mainQuizData =
         ]
     },
     {
-        "name": "General Science",
-        "icon": "fa-flask",
-        "subcategories": [
-            {
-                "category": "Everyday Science",
-                "icon": "fa-vial",
-                "questions": [
-                    {
-                        "q": "Which vitamin is obtained from Sunlight?",
-                        "options": [
-                            "Vitamin A",
-                            "Vitamin B",
-                            "Vitamin C",
-                            "Vitamin D"
-                        ],
-                        "answer": 3,
-                        "explanation": "Vitamin D is synthesized in the skin when exposed to ultraviolet B (UVB) rays from sunlight."
-                    },
-                    {
-                        "q": "What is the largest organ of the human body?",
-                        "options": [
-                            "Liver",
-                            "Brain",
-                            "Skin",
-                            "Lungs"
-                        ],
-                        "answer": 2,
-                        "explanation": "The skin is the body's largest organ, covering the entire external surface."
-                    },
-                    {
-                        "q": "Which gas is most abundant in the Earth's atmosphere?",
-                        "options": [
-                            "Oxygen",
-                            "Carbon Dioxide",
-                            "Nitrogen",
-                            "Hydrogen"
-                        ],
-                        "answer": 2,
-                        "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere."
-                    },
-                    {
-                        "q": "What is the chemical name for common table salt?",
-                        "options": [
-                            "Sodium Carbonate",
-                            "Sodium Chloride",
-                            "Potassium Chloride",
-                            "Calcium Chloride"
-                        ],
-                        "answer": 1,
-                        "explanation": "Table salt is Sodium Chloride (NaCl)."
-                    },
-                    {
-                        "q": "Which planet is known as the Red Planet?",
-                        "options": [
-                            "Venus",
-                            "Mars",
-                            "Jupiter",
-                            "Saturn"
-                        ],
-                        "answer": 1,
-                        "explanation": "Mars is known as the Red Planet due to the iron oxide (rust) on its surface."
-                    },
-                    {
-                        "q": "What is the speed of light in a vacuum?",
-                        "options": [
-                            "150,000 km/s",
-                            "299,792 km/s",
-                            "350,000 km/s",
-                            "400,000 km/s"
-                        ],
-                        "answer": 1,
-                        "explanation": "Light travels at approximately 300,000 km/s in a vacuum."
-                    },
-                    {
-                        "q": "Which instrument is used to measure earthquake intensity?",
-                        "options": [
-                            "Barometer",
-                            "Hygrometer",
-                            "Seismograph",
-                            "Anemometer"
-                        ],
-                        "answer": 2,
-                        "explanation": "A seismograph records the shaking of the Earth's surface caused by seismic waves."
-                    },
-                    {
-                        "q": "What is the boiling point of water at sea level?",
-                        "options": [
-                            "90°C",
-                            "100°C",
-                            "110°C",
-                            "120°C"
-                        ],
-                        "answer": 1,
-                        "explanation": "At standard atmospheric pressure, water boils at 100°C."
-                    },
-                    {
-                        "q": "Which blood group is known as the universal donor?",
-                        "options": [
-                            "A+",
-                            "B+",
-                            "AB+",
-                            "O-"
-                        ],
-                        "answer": 3,
-                        "explanation": "O negative blood can be given to patients of any blood type in emergencies."
-                    },
-                    {
-                        "q": "Dry ice is the solid form of which gas?",
-                        "options": [
-                            "Carbon Monoxide",
-                            "Nitrogen",
-                            "Carbon Dioxide",
-                            "Hydrogen"
-                        ],
-                        "answer": 2,
-                        "explanation": "Dry ice is solid Carbon Dioxide (CO2)."
-                    },
-                    {
-                        "q": "What is the hardest natural substance on Earth?",
-                        "options": [
-                            "Gold",
-                            "Iron",
-                            "Diamond",
-                            "Graphite"
-                        ],
-                        "answer": 2,
-                        "explanation": "Diamond is the hardest known natural material."
-                    },
-                    {
-                        "q": "Which part of the plant conducts photosynthesis?",
-                        "options": [
-                            "Root",
-                            "Stem",
-                            "Leaf",
-                            "Flower"
-                        ],
-                        "answer": 2,
-                        "explanation": "Leaves contain chlorophyll and are the primary site for photosynthesis."
-                    },
-                    {
-                        "q": "What is the power source for the solar system?",
-                        "options": [
-                            "Earth",
-                            "Jupiter",
-                            "Sun",
-                            "Mars"
-                        ],
-                        "answer": 2,
-                        "explanation": "The Sun provides energy to all planets in the solar system."
-                    },
-                    {
-                        "q": "Which gas do plants absorb from the atmosphere?",
-                        "options": [
-                            "Oxygen",
-                            "Carbon Dioxide",
-                            "Nitrogen",
-                            "Hydrogen"
-                        ],
-                        "answer": 1,
-                        "explanation": "Plants take in CO2 for photosynthesis and release oxygen."
-                    },
-                    {
-                        "q": "What is the normal human body temperature in Celsius?",
-                        "options": [
-                            "35°C",
-                            "37°C",
-                            "39°C",
-                            "41°C"
-                        ],
-                        "answer": 1,
-                        "explanation": "The average normal body temperature is generally accepted as 37°C (98.6°F)."
-                    },
-                    {
-                        "q": "Which fossil fuel is known as 'Black Gold'?",
-                        "options": [
-                            "Coal",
-                            "Natural Gas",
-                            "Petroleum",
-                            "Uranium"
-                        ],
-                        "answer": 2,
-                        "explanation": "Petroleum is called black gold due to its high value in the global economy."
-                    },
-                    {
-                        "q": "What is the main component of natural gas?",
-                        "options": [
-                            "Ethane",
-                            "Methane",
-                            "Propane",
-                            "Butane"
-                        ],
-                        "answer": 1,
-                        "explanation": "Methane (CH4) typically makes up 70-90% of natural gas."
-                    },
-                    {
-                        "q": "Which vitamin is essential for blood clotting?",
-                        "options": [
-                            "Vitamin A",
-                            "Vitamin C",
-                            "Vitamin D",
-                            "Vitamin K"
-                        ],
-                        "answer": 3,
-                        "explanation": "Vitamin K is a key factor in the coagulation (clotting) of blood."
-                    },
-                    {
-                        "q": "What is the chemical symbol for Iron?",
-                        "options": [
-                            "Ir",
-                            "In",
-                            "Fe",
-                            "I"
-                        ],
-                        "answer": 2,
-                        "explanation": "Fe comes from the Latin word for iron, 'Ferrum'."
-                    },
-                    {
-                        "q": "Which instrument is used to measure atmospheric pressure?",
-                        "options": [
-                            "Thermometer",
-                            "Barometer",
-                            "Seismograph",
-                            "Hydrometer"
-                        ],
-                        "answer": 1,
-                        "explanation": "A barometer measures the pressure exerted by the atmosphere."
-                    },
-                    {
-                        "q": "What is the percentage of water on Earth's surface?",
-                        "options": [
-                            "50%",
-                            "60%",
-                            "71%",
-                            "85%"
-                        ],
-                        "answer": 2,
-                        "explanation": "Water covers approximately 71% of the Earth's surface."
-                    },
-                    {
-                        "q": "Which layer of the atmosphere contains the clouds?",
-                        "options": [
-                            "Troposphere",
-                            "Stratosphere",
-                            "Mesosphere",
-                            "Thermosphere"
-                        ],
-                        "answer": 0,
-                        "explanation": "Most weather phenomena, including clouds, occur in the troposphere."
-                    },
-                    {
-                        "q": "Who is credited with the invention of the light bulb?",
-                        "options": [
-                            "Alexander Graham Bell",
-                            "Thomas Edison",
-                            "Nikola Tesla",
-                            "Albert Einstein"
-                        ],
-                        "answer": 1,
-                        "explanation": "Thomas Edison developed the first commercially practical incandescent light."
-                    },
-                    {
-                        "q": "What is the process of water changing into water vapor called?",
-                        "options": [
-                            "Condensation",
-                            "Precipitation",
-                            "Evaporation",
-                            "Freezing"
-                        ],
-                        "answer": 2,
-                        "explanation": "Evaporation is the phase transition from liquid to gas."
-                    },
-                    {
-                        "q": "Which metal is the best conductor of electricity?",
-                        "options": [
-                            "Copper",
-                            "Gold",
-                            "Silver",
-                            "Aluminum"
-                        ],
-                        "answer": 2,
-                        "explanation": "Silver has the highest electrical conductivity of all metals."
-                    },
-                    {
-                        "q": "What is the primary gas found in the Sun?",
-                        "options": [
-                            "Helium",
-                            "Hydrogen",
-                            "Oxygen",
-                            "Nitrogen"
-                        ],
-                        "answer": 1,
-                        "explanation": "The Sun is composed of roughly 73% hydrogen and 25% helium."
-                    },
-                    {
-                        "q": "What is the smallest unit of an element?",
-                        "options": [
-                            "Cell",
-                            "Atom",
-                            "Molecule",
-                            "Electron"
-                        ],
-                        "answer": 1,
-                        "explanation": "An atom is the smallest particle of an element that retains its chemical properties."
-                    },
-                    {
-                        "q": "Which part of the human eye is responsible for color vision?",
-                        "options": [
-                            "Cornea",
-                            "Retina",
-                            "Cones",
-                            "Rods"
-                        ],
-                        "answer": 2,
-                        "explanation": "Cones are photoreceptor cells in the retina that perceive color."
-                    },
-                    {
-                        "q": "What causes the change of seasons on Earth?",
-                        "options": [
-                            "Earth's rotation",
-                            "Earth's tilt and orbit",
-                            "Distance from Sun",
-                            "Moon's phase"
-                        ],
-                        "answer": 1,
-                        "explanation": "The tilt of the Earth's axis as it revolves around the sun causes seasonal variations."
-                    },
-                    {
-                        "q": "Which acid is found in the human stomach?",
-                        "options": [
-                            "Sulfuric Acid",
-                            "Hydrochloric Acid",
-                            "Nitric Acid",
-                            "Acetic Acid"
-                        ],
-                        "answer": 1,
-                        "explanation": "HCl helps in digestion and kills bacteria in the stomach."
-                    },
-                    {
-                        "q": "What is the primary function of white blood cells?",
-                        "options": [
-                            "To carry oxygen",
-                            "To fight infections",
-                            "To help in clotting",
-                            "To give color to blood"
-                        ],
-                        "answer": 1,
-                        "explanation": "WBCs are a key part of the immune system."
-                    },
-                    {
-                        "q": "Which planet is the closest to the Sun?",
-                        "options": [
-                            "Venus",
-                            "Mars",
-                            "Mercury",
-                            "Earth"
-                        ],
-                        "answer": 2,
-                        "explanation": "Mercury is the innermost planet in the solar system."
-                    },
-                    {
-                        "q": "What is the main source of vitamin C?",
-                        "options": [
-                            "Meat",
-                            "Dairy",
-                            "Citrus fruits",
-                            "Grains"
-                        ],
-                        "answer": 2,
-                        "explanation": "Lemons, oranges, and grapefruits are excellent sources."
-                    },
-                    {
-                        "q": "Which gas is used in electric bulbs?",
-                        "options": [
-                            "Oxygen",
-                            "Nitrogen",
-                            "Argon",
-                            "Hydrogen"
-                        ],
-                        "answer": 2,
-                        "explanation": "Argon is often used to prevent the filament from oxidizing."
-                    },
-                    {
-                        "q": "What is the freezing point of water in Fahrenheit?",
-                        "options": [
-                            "0°F",
-                            "32°F",
-                            "100°F",
-                            "212°F"
-                        ],
-                        "answer": 1,
-                        "explanation": "Water freezes at 0°C or 32°F."
-                    },
-                    {
-                        "q": "Which organ filters blood in the human body?",
-                        "options": [
-                            "Heart",
-                            "Lungs",
-                            "Kidneys",
-                            "Liver"
-                        ],
-                        "answer": 2,
-                        "explanation": "Kidneys remove waste products from the blood."
-                    },
-                    {
-                        "q": "What is the center of an atom called?",
-                        "options": [
-                            "Electron",
-                            "Proton",
-                            "Neutron",
-                            "Nucleus"
-                        ],
-                        "answer": 3,
-                        "explanation": "The nucleus contains protons and neutrons."
-                    },
-                    {
-                        "q": "Which instrument measures humidity?",
-                        "options": [
-                            "Barometer",
-                            "Thermometer",
-                            "Hygrometer",
-                            "Anemometer"
-                        ],
-                        "answer": 2,
-                        "explanation": "A hygrometer is used to measure the moisture content in the air."
-                    },
-                    {
-                        "q": "What is the chemical symbol for Gold?",
-                        "options": [
-                            "Gd",
-                            "Ag",
-                            "Au",
-                            "Fe"
-                        ],
-                        "answer": 2,
-                        "explanation": "Au is from the Latin name 'Aurum'."
-                    },
-                    {
-                        "q": "Which gas is released during photosynthesis?",
-                        "options": [
-                            "Carbon Dioxide",
-                            "Oxygen",
-                            "Nitrogen",
-                            "Methane"
-                        ],
-                        "answer": 1,
-                        "explanation": "Plants take in CO2 and release O2."
-                    },
-                    {
-                        "q": "What is the hardest substance in the human body?",
-                        "options": [
-                            "Bone",
-                            "Muscle",
-                            "Enamel",
-                            "Cartilage"
-                        ],
-                        "answer": 2,
-                        "explanation": "Tooth enamel is the hardest and most highly mineralized substance."
-                    },
-                    {
-                        "q": "Which part of the eye determines its color?",
-                        "options": [
-                            "Pupil",
-                            "Cornea",
-                            "Iris",
-                            "Retina"
-                        ],
-                        "answer": 2,
-                        "explanation": "The iris is the colored part of the eye."
-                    },
-                    {
-                        "q": "What is the gravitational pull of the Moon compared to Earth?",
-                        "options": [
-                            "Same",
-                            "1/2",
-                            "1/6",
-                            "1/10"
-                        ],
-                        "answer": 2,
-                        "explanation": "The Moon's gravity is about 16.6% of Earth's."
-                    },
-                    {
-                        "q": "Which planet is nicknamed the 'Blue Planet'?",
-                        "options": [
-                            "Earth",
-                            "Neptune",
-                            "Uranus",
-                            "Venus"
-                        ],
-                        "answer": 0,
-                        "explanation": "Earth looks blue from space due to its oceans."
-                    },
-                    {
-                        "q": "What is the primary function of the large intestine?",
-                        "options": [
-                            "Digestion",
-                            "Absorption of water",
-                            "Pumping blood",
-                            "Breathing"
-                        ],
-                        "answer": 1,
-                        "explanation": "The large intestine absorbs water and forms solid waste."
-                    },
-                    {
-                        "q": "Which gas is known as 'Laughing Gas'?",
-                        "options": [
-                            "Nitrogen",
-                            "Nitrous Oxide",
-                            "Carbon Monoxide",
-                            "Helium"
-                        ],
-                        "answer": 1,
-                        "explanation": "Nitrous oxide has anesthetic and euphoric effects."
-                    },
-                    {
-                        "q": "What is the SI unit of power?",
-                        "options": [
-                            "Joule",
-                            "Newton",
-                            "Watt",
-                            "Pascal"
-                        ],
-                        "answer": 2,
-                        "explanation": "One watt is equal to one joule per second."
-                    },
-                    {
-                        "q": "Which vitamin is also known as Retinol?",
-                        "options": [
-                            "Vitamin A",
-                            "Vitamin B",
-                            "Vitamin C",
-                            "Vitamin D"
-                        ],
-                        "answer": 0,
-                        "explanation": "Vitamin A is essential for vision and skin health."
-                    },
-                    {
-                        "q": "What is the largest cell in the human body?",
-                        "options": [
-                            "Sperm",
-                            "Nerve cell",
-                            "Egg cell (Ovum)",
-                            "Red blood cell"
-                        ],
-                        "answer": 2,
-                        "explanation": "The female egg cell is the largest human cell."
-                    },
-                    {
-                        "q": "Which metal is the best conductor of electricity?",
-                        "options": [
-                            "Copper",
-                            "Silver",
-                            "Gold",
-                            "Aluminum"
-                        ],
-                        "answer": 1,
-                        "explanation": "Silver has the highest electrical conductivity of all metals."
-                    },
-                    {
-                        "q": "What is the study of birds called?",
-                        "options": [
-                            "Zoology",
-                            "Ornithology",
-                            "Entomology",
-                            "Botany"
-                        ],
-                        "answer": 1,
-                        "explanation": "Ornithology is a branch of zoology."
-                    },
-                    {
-                        "q": "Which gas is used for welding?",
-                        "options": [
-                            "Oxygen",
-                            "Acetylene",
-                            "Methane",
-                            "Argon"
-                        ],
-                        "answer": 1,
-                        "explanation": "Oxy-acetylene welding is a common industrial technique."
-                    },
-                    {
-                        "q": "What is the distance between the Earth and the Sun called?",
-                        "options": [
-                            "Light year",
-                            "Astronomical Unit (AU)",
-                            "Parsec",
-                            "Kilometer"
-                        ],
-                        "answer": 1,
-                        "explanation": "1 AU is approximately 150 million km."
-                    },
-                    {
-                        "q": "Which organ produces bile?",
-                        "options": [
-                            "Stomach",
-                            "Pancreas",
-                            "Gallbladder",
-                            "Liver"
-                        ],
-                        "answer": 3,
-                        "explanation": "The liver produces bile, which is stored in the gallbladder."
-                    },
-                    {
-                        "q": "What is the lifespan of a white blood cell (approx)?",
-                        "options": [
-                            "120 days",
-                            "A few hours to a few days",
-                            "1 year",
-                            "10 years"
-                        ],
-                        "answer": 1,
-                        "explanation": "WBCs have a much shorter lifespan than RBCs."
-                    },
-                    {
-                        "q": "Which planet has the most moons?",
-                        "options": [
-                            "Jupiter",
-                            "Saturn",
-                            "Uranus",
-                            "Neptune"
-                        ],
-                        "answer": 1,
-                        "explanation": "Saturn currently holds the record for most discovered moons."
-                    },
-                    {
-                        "q": "What is the process of a liquid turning into a solid called?",
-                        "options": [
-                            "Melting",
-                            "Freezing",
-                            "Evaporation",
-                            "Condensation"
-                        ],
-                        "answer": 1,
-                        "explanation": "Freezing is the solidification of a liquid."
-                    },
-                    {
-                        "q": "Which gas is used to put out fires?",
-                        "options": [
-                            "Oxygen",
-                            "Nitrogen",
-                            "Carbon Dioxide",
-                            "Hydrogen"
-                        ],
-                        "answer": 2,
-                        "explanation": "CO2 extinguishers work by removing oxygen."
-                    },
-                    {
-                        "q": "What is the main component of a computer chip?",
-                        "options": [
-                            "Gold",
-                            "Silver",
-                            "Silicon",
-                            "Iron"
-                        ],
-                        "answer": 2,
-                        "explanation": "Silicon is a semiconductor perfect for microchips."
-                    },
-                    {
-                        "q": "Which force pulls everything towards the center of the Earth?",
-                        "options": [
-                            "Friction",
-                            "Magnetism",
-                            "Gravity",
-                            "Elasticity"
-                        ],
-                        "answer": 2,
-                        "explanation": "Gravity is a universal force of attraction."
-                    },
-                    {
-                        "q": "What is the pH level of a neutral substance?",
-                        "options": [
-                            "0",
-                            "7",
-                            "14",
-                            "10"
-                        ],
-                        "answer": 1,
-                        "explanation": "pH 7 is neutral (like pure water)."
-                    },
-                    {
-                        "q": "Which blood vessel carries blood away from the heart?",
-                        "options": [
-                            "Vein",
-                            "Artery",
-                            "Capillary",
-                            "Valve"
-                        ],
-                        "answer": 1,
-                        "explanation": "Arteries carry oxygenated blood to the body."
-                    },
-                    {
-                        "q": "What is the study of weather called?",
-                        "options": [
-                            "Meteorology",
-                            "Astrology",
-                            "Geology",
-                            "Ecology"
-                        ],
-                        "answer": 0,
-                        "explanation": "Meteorology involves studying atmospheric phenomena."
-                    },
-                    {
-                        "q": "Which gas is responsible for the smell of rotten eggs?",
-                        "options": [
-                            "Oxygen",
-                            "Sulfur Dioxide",
-                            "Hydrogen Sulfide",
-                            "Nitrogen"
-                        ],
-                        "answer": 2,
-                        "explanation": "Hydrogen sulfide (H2S) is known for its foul odor."
-                    },
-                    {
-                        "q": "What is the unit of frequency?",
-                        "options": [
-                            "Hertz",
-                            "Newton",
-                            "Watt",
-                            "Ohm"
-                        ],
-                        "answer": 0,
-                        "explanation": "One hertz is one cycle per second."
-                    },
-                    {
-                        "q": "Which vitamin is good for eyesight?",
-                        "options": [
-                            "Vitamin A",
-                            "Vitamin B",
-                            "Vitamin C",
-                            "Vitamin K"
-                        ],
-                        "answer": 0,
-                        "explanation": "Vitamin A deficiency can lead to night blindness."
-                    },
-                    {
-                        "q": "What is the scientific name for the collarbone?",
-                        "options": [
-                            "Femur",
-                            "Clavicle",
-                            "Radius",
-                            "Tibia"
-                        ],
-                        "answer": 1,
-                        "explanation": "The clavicle connects the arm to the body."
-                    },
-                    {
-                        "q": "Which mirror is used by dentists to see the teeth?",
-                        "options": [
-                            "Convex",
-                            "Concave",
-                            "Plane",
-                            "Bifocal"
-                        ],
-                        "answer": 1,
-                        "explanation": "Concave mirrors provide a magnified image."
-                    },
-                    {
-                        "q": "What is the chemical name of table sugar?",
-                        "options": [
-                            "Glucose",
-                            "Fructose",
-                            "Sucrose",
-                            "Lactose"
-                        ],
-                        "answer": 2,
-                        "explanation": "Sucrose is a disaccharide made of glucose and fructose."
-                    },
-                    {
-                        "q": "Which gas is used in soda drinks?",
-                        "options": [
-                            "Oxygen",
-                            "Carbon Dioxide",
-                            "Nitrogen",
-                            "Helium"
-                        ],
-                        "answer": 1,
-                        "explanation": "CO2 creates the fizz in carbonated beverages."
-                    },
-                    {
-                        "q": "What is the study of the Earth's physical structure called?",
-                        "options": [
-                            "Biology",
-                            "Chemistry",
-                            "Geology",
-                            "Physics"
-                        ],
-                        "answer": 2,
-                        "explanation": "Geology explores the materials and processes of Earth."
-                    },
-                    {
-                        "q": "Which instrument is used to measure sound?",
-                        "options": [
-                            "Barometer",
-                            "Decibel meter",
-                            "Thermometer",
-                            "Spectrometer"
-                        ],
-                        "answer": 1,
-                        "explanation": "It measures the intensity of sound in decibels."
-                    },
-                    {
-                        "q": "What is the primary gas in the atmosphere of Venus?",
-                        "options": [
-                            "Oxygen",
-                            "Nitrogen",
-                            "Carbon Dioxide",
-                            "Methane"
-                        ],
-                        "answer": 2,
-                        "explanation": "Venus has a thick, toxic atmosphere of CO2."
-                    },
-                    {
-                        "q": "Which bone is the smallest in the human body?",
-                        "options": [
-                            "Stapes (Ear bone)",
-                            "Phalange",
-                            "Fibula",
-                            "Femur"
-                        ],
-                        "answer": 0,
-                        "explanation": "The stapes in the middle ear is the smallest bone."
-                    },
-                    {
-                        "q": "What is the chemical symbol for Sodium?",
-                        "options": [
-                            "So",
-                            "Sd",
-                            "Na",
-                            "Ni"
-                        ],
-                        "answer": 2,
-                        "explanation": "Na comes from the Latin word 'Natrium'."
-                    },
-                    {
-                        "q": "Which type of animal is a dolphin?",
-                        "options": [
-                            "Fish",
-                            "Mammal",
-                            "Reptile",
-                            "Amphibian"
-                        ],
-                        "answer": 1,
-                        "explanation": "Dolphins give birth to live young and nurse them."
-                    },
-                    {
-                        "q": "What is the flow of electrons called?",
-                        "options": [
-                            "Voltage",
-                            "Resistance",
-                            "Electricity (Current)",
-                            "Magmatism"
-                        ],
-                        "answer": 2,
-                        "explanation": "Electric current is the movement of charge."
-                    },
-                    {
-                        "q": "Which gas is inhaled by humans and exhaled by plants (mostly at night)?",
-                        "options": [
-                            "Oxygen",
-                            "Carbon Dioxide",
-                            "Nitrogen",
-                            "Hydrogen"
-                        ],
-                        "answer": 1,
-                        "explanation": "Plants respire and release CO2, especially in the absence of light."
-                    },
-                    {
-                        "q": "What is the study of stars and planets called?",
-                        "options": [
-                            "Geology",
-                            "Astrology",
-                            "Astronomy",
-                            "Ecology"
-                        ],
-                        "answer": 2,
-                        "explanation": "Astronomy is the scientific study of celestial objects."
-                    }
-                ]
-            },
-            {
-                "category": "Biology",
-                "icon": "fa-dna",
-                "questions": [
-                    {
-                        "q": "What is the powerhouse of the cell?",
-                        "options": [
-                            "Nucleus",
-                            "Ribosome",
-                            "Mitochondria",
-                            "Golgi Apparatus"
-                        ],
-                        "answer": 2,
-                        "explanation": "Mitochondria generate most of the chemical energy needed to power the cell's biochemical reactions."
-                    },
-                    {
-                        "q": "Which pigment gives leaves their green color?",
-                        "options": [
-                            "Hemoglobin",
-                            "Chlorophyll",
-                            "Melanin",
-                            "Carotene"
-                        ],
-                        "answer": 1,
-                        "explanation": "Chlorophyll is the green pigment in plants responsible for photosynthesis."
-                    },
-                    {
-                        "q": "How many chambers are there in a human heart?",
-                        "options": [
-                            "2",
-                            "3",
-                            "4",
-                            "5"
-                        ],
-                        "answer": 2,
-                        "explanation": "The human heart consists of four chambers: two atria and two ventricles."
-                    },
-                    {
-                        "q": "What is the basic unit of life?",
-                        "options": [
-                            "Atom",
-                            "Cell",
-                            "Tissue",
-                            "Organ"
-                        ],
-                        "answer": 1,
-                        "explanation": "The cell is the smallest unit that can live on its own and that makes up all living organisms."
-                    },
-                    {
-                        "q": "Who is known as the Father of Genetics?",
-                        "options": [
-                            "Charles Darwin",
-                            "Louis Pasteur",
-                            "Gregor Mendel",
-                            "James Watson"
-                        ],
-                        "answer": 2,
-                        "explanation": "Gregor Mendel discovered the fundamental laws of inheritance through his work on pea plants."
-                    },
-                    {
-                        "q": "Which protein in red blood cells carries oxygen?",
-                        "options": [
-                            "Albumin",
-                            "Globulin",
-                            "Fibrinogen",
-                            "Hemoglobin"
-                        ],
-                        "answer": 3,
-                        "explanation": "Hemoglobin is the iron-containing oxygen-transport metalloprotein in red blood cells."
-                    },
-                    {
-                        "q": "DNA stands for?",
-                        "options": [
-                            "Deoxyribonucleic Acid",
-                            "Diribonucleic Acid",
-                            "Deoxynuclear Acid",
-                            "Dualnucleic Acid"
-                        ],
-                        "answer": 0,
-                        "explanation": "Deoxyribonucleic acid is a molecule that carries genetic instructions for living organisms."
-                    },
-                    {
-                        "q": "Which part of the brain controls balance and coordination?",
-                        "options": [
-                            "Cerebrum",
-                            "Cerebellum",
-                            "Medulla",
-                            "Thalamus"
-                        ],
-                        "answer": 1,
-                        "explanation": "The cerebellum is responsible for maintaining balance and coordinating complex movements."
-                    },
-                    {
-                        "q": "What is the longest bone in the human body?",
-                        "options": [
-                            "Humerus",
-                            "Femur",
-                            "Tibia",
-                            "Fibula"
-                        ],
-                        "answer": 1,
-                        "explanation": "The femur (thigh bone) is the longest and strongest bone in the body."
-                    },
-                    {
-                        "q": "Which organ produces insulin in the human body?",
-                        "options": [
-                            "Liver",
-                            "Kidney",
-                            "Pancreas",
-                            "Gallbladder"
-                        ],
-                        "answer": 2,
-                        "explanation": "The pancreas produces insulin to regulate blood sugar levels."
-                    },
-                    {
-                        "q": "What is the structural and functional unit of the kidney?",
-                        "options": [
-                            "Neuron",
-                            "Nephron",
-                            "Alveoli",
-                            "Capillary"
-                        ],
-                        "answer": 1,
-                        "explanation": "The nephron is responsible for filtering blood and producing urine."
-                    },
-                    {
-                        "q": "Which Vitamin deficiency causes Scurvy?",
-                        "options": [
-                            "Vitamin A",
-                            "Vitamin B",
-                            "Vitamin C",
-                            "Vitamin D"
-                        ],
-                        "answer": 2,
-                        "explanation": "Scurvy is caused by a severe lack of Vitamin C (ascorbic acid)."
-                    },
-                    {
-                        "q": "What is the most abundant protein in the human body?",
-                        "options": [
-                            "Hemoglobin",
-                            "Insulin",
-                            "Collagen",
-                            "Keratin"
-                        ],
-                        "answer": 2,
-                        "explanation": "Collagen provides structure to skin, bones, and connective tissues."
-                    },
-                    {
-                        "q": "Which blood cells help in fighting infections?",
-                        "options": [
-                            "Red Blood Cells",
-                            "White Blood Cells",
-                            "Platelets",
-                            "Plasma"
-                        ],
-                        "answer": 1,
-                        "explanation": "White blood cells (leukocytes) are part of the immune system."
-                    },
-                    {
-                        "q": "Who discovered Penicillin?",
-                        "options": [
-                            "Alexander Fleming",
-                            "Louis Pasteur",
-                            "Edward Jenner",
-                            "Robert Koch"
-                        ],
-                        "answer": 0,
-                        "explanation": "Fleming discovered the first antibiotic, penicillin, in 1928."
-                    },
-                    {
-                        "q": "What is the life span of a Red Blood Cell?",
-                        "options": [
-                            "60 days",
-                            "90 days",
-                            "120 days",
-                            "150 days"
-                        ],
-                        "answer": 2,
-                        "explanation": "RBCs typically circulate for about 120 days before being destroyed."
-                    },
-                    {
-                        "q": "Which gas is released by plants during photosynthesis?",
-                        "options": [
-                            "Carbon Dioxide",
-                            "Nitrogen",
-                            "Oxygen",
-                            "Hydrogen"
-                        ],
-                        "answer": 2,
-                        "explanation": "Plants take in CO2 and release O2 as a byproduct of photosynthesis."
-                    },
-                    {
-                        "q": "The deficiency of which element causes Goiter?",
-                        "options": [
-                            "Iron",
-                            "Calcium",
-                            "Iodine",
-                            "Sodium"
-                        ],
-                        "answer": 2,
-                        "explanation": "Iodine deficiency leads to the enlargement of the thyroid gland."
-                    },
-                    {
-                        "q": "What is the study of Fungi called?",
-                        "options": [
-                            "Phycology",
-                            "Mycology",
-                            "Zoology",
-                            "Botany"
-                        ],
-                        "answer": 1,
-                        "explanation": "Mycology is the branch of biology concerned with the study of fungi."
-                    },
-                    {
-                        "q": "How many pairs of chromosomes are there in a human cell?",
-                        "options": [
-                            "22",
-                            "23",
-                            "24",
-                            "46"
-                        ],
-                        "answer": 1,
-                        "explanation": "Humans have 46 chromosomes in total, arranged in 23 pairs."
-                    },
-                    {
-                        "q": "Which part of the brain controls breathing and heart rate?",
-                        "options": [
-                            "Cerebrum",
-                            "Cerebellum",
-                            "Medulla Oblongata",
-                            "Hypothalamus"
-                        ],
-                        "answer": 2,
-                        "explanation": "The medulla oblongata regulates vital autonomic functions."
-                    },
-                    {
-                        "q": "What is the green pigment in plants called?",
-                        "options": [
-                            "Hemoglobin",
-                            "Melanin",
-                            "Chlorophyll",
-                            "Bilirubin"
-                        ],
-                        "answer": 2,
-                        "explanation": "Chlorophyll is essential for light absorption in photosynthesis."
-                    },
-                    {
-                        "q": "Which of the following is a flightless bird?",
-                        "options": [
-                            "Penguin",
-                            "Ostrich",
-                            "Kiwi",
-                            "All of these"
-                        ],
-                        "answer": 3,
-                        "explanation": "Penguins, Ostriches, and Kiwis are all birds that cannot fly."
-                    },
-                    {
-                        "q": "Where does the process of digestion begin in humans?",
-                        "options": [
-                            "Stomach",
-                            "Small Intestine",
-                            "Mouth",
-                            "Esophagus"
-                        ],
-                        "answer": 2,
-                        "explanation": "Digestion starts in the mouth with the breakdown of food by saliva and teeth."
-                    },
-                    {
-                        "q": "What is the name of the fluid part of blood?",
-                        "options": [
-                            "Hemoglobin",
-                            "Plasma",
-                            "Serum",
-                            "Platelet"
-                        ],
-                        "answer": 1,
-                        "explanation": "Plasma makes up about 55% of the total blood volume."
-                    },
-                    {
-                        "q": "Which acid is found in Ants?",
-                        "options": [
-                            "Citric Acid",
-                            "Formic Acid",
-                            "Lactic Acid",
-                            "Maleic Acid"
-                        ],
-                        "answer": 1,
-                        "explanation": "Ants release formic acid as a defense mechanism and communication signal."
-                    },
-                    {
-                        "q": "The pollination of plants by wind is called?",
-                        "options": [
-                            "Anemophily",
-                            "Entomophily",
-                            "Hydrophily",
-                            "Ornithophily"
-                        ],
-                        "answer": 0,
-                        "explanation": "Anemophily is a form of pollination where pollen is distributed by wind."
-                    },
-                    {
-                        "q": "What is the average weight of an adult human brain?",
-                        "options": [
-                            "1 kg",
-                            "1.4 kg",
-                            "2 kg",
-                            "0.8 kg"
-                        ],
-                        "answer": 1,
-                        "explanation": "Most adult brains weigh between 1.3 and 1.5 kilograms."
-                    },
-                    {
-                        "q": "Which Vitamin is known as 'Calciferol'?",
-                        "options": [
-                            "Vitamin A",
-                            "Vitamin C",
-                            "Vitamin D",
-                            "Vitamin E"
-                        ],
-                        "answer": 2,
-                        "explanation": "Vitamin D refers to a group of fat-soluble secosteroids, mainly Vitamin D3 (cholecalciferol)."
-                    },
-                    {
-                        "q": "The plants which grow in dry habitats are called?",
-                        "options": [
-                            "Hydrophytes",
-                            "Xerophytes",
-                            "Mesophytes",
-                            "Heliophytes"
-                        ],
-                        "answer": 1,
-                        "explanation": "Xerophytes (like cactus) are adapted to survive in environments with little liquid water."
-                    },
-                    {
-                        "q": "What is the largest part of the human brain?",
-                        "options": [
-                            "Cerebellum",
-                            "Cerebrum",
-                            "Medulla",
-                            "Thalamus"
-                        ],
-                        "answer": 1,
-                        "explanation": "The cerebrum is responsible for complex functions like thinking and memory."
-                    },
-                    {
-                        "q": "Which vitamin is synthesized in the skin by UV light?",
-                        "options": [
-                            "Vitamin A",
-                            "Vitamin B",
-                            "Vitamin C",
-                            "Vitamin D"
-                        ],
-                        "answer": 3,
-                        "explanation": "Vitamin D is known as the 'sunshine vitamin'."
-                    },
-                    {
-                        "q": "What is the main function of red blood cells?",
-                        "options": [
-                            "Fight infection",
-                            "Carry oxygen",
-                            "Clot blood",
-                            "Regulate temperature"
-                        ],
-                        "answer": 1,
-                        "explanation": "Hemoglobin in RBCs binds to oxygen for transport."
-                    },
-                    {
-                        "q": "Which hormone is known as the 'fight or flight' hormone?",
-                        "options": [
-                            "Insulin",
-                            "Thyroxine",
-                            "Adrenaline",
-                            "Estrogen"
-                        ],
-                        "answer": 2,
-                        "explanation": "Adrenaline prepares the body for sudden action."
-                    },
-                    {
-                        "q": "What is the term for animals that eat both plants and meat?",
-                        "options": [
-                            "Herbivores",
-                            "Carnivores",
-                            "Omnivores",
-                            "Insectivores"
-                        ],
-                        "answer": 2,
-                        "explanation": "Humans and bears are examples of omnivores."
-                    },
-                    {
-                        "q": "Which part of the plant absorbs water and minerals?",
-                        "options": [
-                            "Leaves",
-                            "Stem",
-                            "Roots",
-                            "Flowers"
-                        ],
-                        "answer": 2,
-                        "explanation": "Roots anchor the plant and draw nutrients from the soil."
-                    },
-                    {
-                        "q": "How many bones are in an adult human body?",
-                        "options": [
-                            "206",
-                            "300",
-                            "250",
-                            "150"
-                        ],
-                        "answer": 0,
-                        "explanation": "Adults have 206 bones; infants have around 270-300."
-                    },
-                    {
-                        "q": "What is the smallest unit of heredity?",
-                        "options": [
-                            "Cell",
-                            "Gene",
-                            "Chromosome",
-                            "Nucleus"
-                        ],
-                        "answer": 1,
-                        "explanation": "Genes are segments of DNA that contain instructions."
-                    },
-                    {
-                        "q": "Which organ stores bile?",
-                        "options": [
-                            "Liver",
-                            "Gallbladder",
-                            "Pancreas",
-                            "Stomach"
-                        ],
-                        "answer": 1,
-                        "explanation": "Bile is produced by the liver and stored in the gallbladder."
-                    },
-                    {
-                        "q": "What is the name of the process by which a caterpillar becomes a butterfly?",
-                        "options": [
-                            "Photosynthesis",
-                            "Metamorphosis",
-                            "Mutation",
-                            "Respiration"
-                        ],
-                        "answer": 1,
-                        "explanation": "Metamorphosis describes the transformation in an insect's life cycle."
-                    },
-                    {
-                        "q": "Which gas is used by plants for respiration?",
-                        "options": [
-                            "Oxygen",
-                            "Carbon Dioxide",
-                            "Nitrogen",
-                            "Hydrogen"
-                        ],
-                        "answer": 0,
-                        "explanation": "Plants, like animals, use oxygen for cellular respiration."
-                    },
-                    {
-                        "q": "What is the pigment that gives human skin its color?",
-                        "options": [
-                            "Chlorophyll",
-                            "Melanin",
-                            "Hemoglobin",
-                            "Carotene"
-                        ],
-                        "answer": 1,
-                        "explanation": "Melanin protects the skin from UV radiation."
-                    },
-                    {
-                        "q": "Which organ system is responsible for removing waste?",
-                        "options": [
-                            "Digestive",
-                            "Circulatory",
-                            "Excretory",
-                            "Nervous"
-                        ],
-                        "answer": 2,
-                        "explanation": "The excretory system includes kidneys, lungs, and skin."
-                    },
-                    {
-                        "q": "What is the common name for the larynx?",
-                        "options": [
-                            "Windpipe",
-                            "Voice box",
-                            "Throat",
-                            "Eardrum"
-                        ],
-                        "answer": 1,
-                        "explanation": "The larynx produces sound."
-                    },
-                    {
-                        "q": "Which vertebrate group has moist skin and no scales?",
-                        "options": [
-                            "Fish",
-                            "Reptiles",
-                            "Amphibians",
-                            "Birds"
-                        ],
-                        "answer": 2,
-                        "explanation": "Frogs and salamanders are amphibians."
-                    },
-                    {
-                        "q": "What is the process of cell division called?",
-                        "options": [
-                            "Mitosis",
-                            "Fission",
-                            "Fusion",
-                            "Osmosis"
-                        ],
-                        "answer": 0,
-                        "explanation": "Mitosis results in two identical daughter cells."
-                    },
-                    {
-                        "q": "Which Vitamin prevents Night Blindness?",
-                        "options": [
-                            "Vitamin A",
-                            "Vitamin B",
-                            "Vitamin C",
-                            "Vitamin D"
-                        ],
-                        "answer": 0,
-                        "explanation": "Vitamin A is essential for the retina's health."
-                    },
-                    {
-                        "q": "What is the study of plants called?",
-                        "options": [
-                            "Zoology",
-                            "Botany",
-                            "Microbiology",
-                            "Ecology"
-                        ],
-                        "answer": 1,
-                        "explanation": "Botany is the scientific study of plant life."
-                    },
-                    {
-                        "q": "Which muscle is the strongest in the human body (based on weight)?",
-                        "options": [
-                            "Heart",
-                            "Masseter (Jaw)",
-                            "Gluteus Maximus",
-                            "Tongue"
-                        ],
-                        "answer": 1,
-                        "explanation": "The masseter can exert the most force relative to its size."
-                    },
-                    {
-                        "q": "What is the protective outer layer of a tree called?",
-                        "options": [
-                            "Stem",
-                            "Leaf",
-                            "Bark",
-                            "Root"
-                        ],
-                        "answer": 2,
-                        "explanation": "Bark protects the inner tissues of the tree."
-                    },
-                    {
-                        "q": "Which part of the blood helps it to clot?",
-                        "options": [
-                            "Plasma",
-                            "Red Blood Cells",
-                            "White Blood Cells",
-                            "Platelets"
-                        ],
-                        "answer": 3,
-                        "explanation": "Platelets aggregate at injury sites to stop bleeding."
-                    },
-                    {
-                        "q": "What is the name of the jelly-like substance inside a cell?",
-                        "options": [
-                            "Nucleus",
-                            "Wall",
-                            "Cytoplasm",
-                            "Membrane"
-                        ],
-                        "answer": 2,
-                        "explanation": "Cytoplasm fills the cell and holds organelles."
-                    },
-                    {
-                        "q": "Which organ is used by fish to breathe?",
-                        "options": [
-                            "Lungs",
-                            "Skin",
-                            "Gills",
-                            "Scale"
-                        ],
-                        "answer": 2,
-                        "explanation": "Gills extract dissolved oxygen from water."
-                    },
-                    {
-                        "q": "What is the scientific term for the study of insects?",
-                        "options": [
-                            "Ornithology",
-                            "Entomology",
-                            "Ichthyology",
-                            "Herpetology"
-                        ],
-                        "answer": 1,
-                        "explanation": "Entomology is a branch of zoology."
-                    },
-                    {
-                        "q": "Which bird is often used as a symbol of peace?",
-                        "options": [
-                            "Eagle",
-                            "Dove",
-                            "Raven",
-                            "Owl"
-                        ],
-                        "answer": 1,
-                        "explanation": "The dove is a universal symbol of peace and hope."
-                    },
-                    {
-                        "q": "What is the chemical released by the pancreas to lower blood sugar?",
-                        "options": [
-                            "Adrenaline",
-                            "Thyroxine",
-                            "Insulin",
-                            "Glucagon"
-                        ],
-                        "answer": 2,
-                        "explanation": "Insulin tells cells to take in glucose."
-                    },
-                    {
-                        "q": "Which system controls all other systems in the body?",
-                        "options": [
-                            "Circulatory",
-                            "Nervous",
-                            "Reproductive",
-                            "Skeletal"
-                        ],
-                        "answer": 1,
-                        "explanation": "The nervous system processes and coordinates information."
-                    },
-                    {
-                        "q": "What is the term for an animal that eats only plants?",
-                        "options": [
-                            "Carnivore",
-                            "Herbivore",
-                            "Omnivore",
-                            "Parasite"
-                        ],
-                        "answer": 1,
-                        "explanation": "Cows and rabbits are herbivores."
-                    },
-                    {
-                        "q": "Which organ filters the air we breathe?",
-                        "options": [
-                            "Heart",
-                            "Lungs",
-                            "Stomach",
-                            "Nose"
-                        ],
-                        "answer": 1,
-                        "explanation": "Lungs exchange oxygen and carbon dioxide."
-                    },
-                    {
-                        "q": "What is the name of the liquid that flows through plants?",
-                        "options": [
-                            "Blood",
-                            "Sap",
-                            "Water",
-                            "Milk"
-                        ],
-                        "answer": 1,
-                        "explanation": "Sap transports sugar and minerals."
-                    },
-                    {
-                        "q": "Which part of the cell contains the genetic material?",
-                        "options": [
-                            "Mitochondria",
-                            "Nucleus",
-                            "Ribosome",
-                            "Cell wall"
-                        ],
-                        "answer": 1,
-                        "explanation": "The nucleus is the control center."
-                    },
-                    {
-                        "q": "What is the process called by which honeybees communicate the location of flowers?",
-                        "options": [
-                            "Buzzing",
-                            "Waggle dance",
-                            "Stinging",
-                            "Sleeping"
-                        ],
-                        "answer": 1,
-                        "explanation": "Bees use a complex dance to share directions."
-                    },
-                    {
-                        "q": "Which mammal can truly fly?",
-                        "options": [
-                            "Flying squirrel",
-                            "Bat",
-                            "Penguin",
-                            "Sugar glider"
-                        ],
-                        "answer": 1,
-                        "explanation": "Bats are the only mammals with powered flight."
-                    },
-                    {
-                        "q": "What is the name of the white part of the eye?",
-                        "options": [
-                            "Pupil",
-                            "Iris",
-                            "Sclera",
-                            "Lens"
-                        ],
-                        "answer": 2,
-                        "explanation": "The sclera is the tough outer coat."
-                    },
-                    {
-                        "q": "Which organ produces the sound of your voice?",
-                        "options": [
-                            "Mouth",
-                            "Nose",
-                            "Larynx",
-                            "Pharynx"
-                        ],
-                        "answer": 2,
-                        "explanation": "The larynx contains the vocal cords."
-                    },
-                    {
-                        "q": "What is the main function of the kidneys?",
-                        "options": [
-                            "Pump blood",
-                            "Digest food",
-                            "Filter waste from blood",
-                            "Store oxygen"
-                        ],
-                        "answer": 2,
-                        "explanation": "Kidneys produce urine as a waste product."
-                    },
-                    {
-                        "q": "Which vitamin is found in abundance in carrots?",
-                        "options": [
-                            "Vitamin A",
-                            "Vitamin C",
-                            "Vitamin D",
-                            "Vitamin E"
-                        ],
-                        "answer": 0,
-                        "explanation": "Carrots are rich in beta-carotene, which becomes Vitamin A."
-                    },
-                    {
-                        "q": "What is the largest land animal currently alive?",
-                        "options": [
-                            "Blue Whale",
-                            "African Elephant",
-                            "Giraffe",
-                            "Hippopotamus"
-                        ],
-                        "answer": 1,
-                        "explanation": "The African Elephant is the largest on land."
-                    },
-                    {
-                        "q": "Which part of the brain is responsible for high-level thinking?",
-                        "options": [
-                            "Medulla",
-                            "Brainstem",
-                            "Cerebral Cortex",
-                            "Spinal Cord"
-                        ],
-                        "answer": 2,
-                        "explanation": "The cortex is the outer layer of the cerebrum."
-                    },
-                    {
-                        "q": "What is the process of seeds growing into plants called?",
-                        "options": [
-                            "Pollination",
-                            "Germination",
-                            "Fertilization",
-                            "Dispersion"
-                        ],
-                        "answer": 1,
-                        "explanation": "Germination is the start of growth."
-                    },
-                    {
-                        "q": "Which type of blood vessel is the thinnest?",
-                        "options": [
-                            "Artery",
-                            "Vein",
-                            "Capillary",
-                            "Aorta"
-                        ],
-                        "answer": 2,
-                        "explanation": "Capillaries allow for exchange between blood and cells."
-                    },
-                    {
-                        "q": "What is the prefix 'bio-' related to?",
-                        "options": [
-                            "Death",
-                            "Earth",
-                            "Life",
-                            "Water"
-                        ],
-                        "answer": 2,
-                        "explanation": "Biology is the study of life."
-                    },
-                    {
-                        "q": "Which organ system helps you move?",
-                        "options": [
-                            "Skeletal",
-                            "Muscular",
-                            "Both A and B",
-                            "Neither"
-                        ],
-                        "answer": 2,
-                        "explanation": "Muscles pull on bones to create movement."
-                    },
-                    {
-                        "q": "What is the name of the light-sensitive layer at the back of the eye?",
-                        "options": [
-                            "Cornea",
-                            "Retina",
-                            "Iris",
-                            "Lens"
-                        ],
-                        "answer": 1,
-                        "explanation": "The retina converts light into electrical signals."
-                    },
-                    {
-                        "q": "Which animal group has cold-blooded bodies and scaly skin?",
-                        "options": [
-                            "Mammals",
-                            "Birds",
-                            "Amphibians",
-                            "Reptiles"
-                        ],
-                        "answer": 3,
-                        "explanation": "Snakes and lizards are reptiles."
-                    },
-                    {
-                        "q": "What is the substance that makes plants stand upright?",
-                        "options": [
-                            "Water",
-                            "Cellulose",
-                            "Chlorophyll",
-                            "Iron"
-                        ],
-                        "answer": 1,
-                        "explanation": "Cellulose provides structure in cell walls."
-                    },
-                    {
-                        "q": "Which organ system carries oxygen and nutrients around the body?",
-                        "options": [
-                            "Digestive",
-                            "Circulatory",
-                            "Respiratory",
-                            "Endocrine"
-                        ],
-                        "answer": 1,
-                        "explanation": "It includes the heart and blood vessels."
-                    },
-                    {
-                        "q": "What is the study of fossils called?",
-                        "options": [
-                            "Geology",
-                            "Archaeology",
-                            "Paleontology",
-                            "Mythology"
-                        ],
-                        "answer": 2,
-                        "explanation": "Paleontology studies life in past geological ages."
-                    },
-                    {
-                        "q": "Which hormone controls the sleep-wake cycle?",
-                        "options": [
-                            "Insulin",
-                            "Melatonin",
-                            "Thyroxine",
-                            "Progesterone"
-                        ],
-                        "answer": 1,
-                        "explanation": "Melatonin is produced by the pineal gland."
-                    }
-                ]
-            },
-            {
-                "category": "Chemistry",
-                "icon": "fa-flask-vial",
-                "questions": [
-                    {
-                        "q": "What is the chemical symbol for Gold?",
-                        "options": [
-                            "Gd",
-                            "Ag",
-                            "Au",
-                            "Fe"
-                        ],
-                        "answer": 2,
-                        "explanation": "Au (from Latin 'Aurum') is the chemical symbol for Gold."
-                    },
-                    {
-                        "q": "Which element has the atomic number 1?",
-                        "options": [
-                            "Helium",
-                            "Hydrogen",
-                            "Lithium",
-                            "Carbon"
-                        ],
-                        "answer": 1,
-                        "explanation": "Hydrogen is the first element in the periodic table."
-                    },
-                    {
-                        "q": "What is the pH of pure water?",
-                        "options": [
-                            "0",
-                            "5",
-                            "7",
-                            "14"
-                        ],
-                        "answer": 2,
-                        "explanation": "Pure water is neutral with a pH of 7."
-                    },
-                    {
-                        "q": "Which gas is used in fire extinguishers?",
-                        "options": [
-                            "Oxygen",
-                            "Nitrogen",
-                            "Carbon Dioxide",
-                            "Argon"
-                        ],
-                        "answer": 2,
-                        "explanation": "CO2 is commonly used to displace oxygen and smother fires."
-                    },
-                    {
-                        "q": "Acid turns blue litmus paper into which color?",
-                        "options": [
-                            "Green",
-                            "Yellow",
-                            "Red",
-                            "Purple"
-                        ],
-                        "answer": 2,
-                        "explanation": "Acids turn blue litmus red; bases turn red litmus blue."
-                    },
-                    {
-                        "q": "What is the chemical formula for Methane?",
-                        "options": [
-                            "CH4",
-                            "C2H6",
-                            "CO2",
-                            "H2O"
-                        ],
-                        "answer": 0,
-                        "explanation": "Methane is the simplest alkane with the formula CH4."
-                    },
-                    {
-                        "q": "Which metal is liquid at room temperature?",
-                        "options": [
-                            "Silver",
-                            "Mercury",
-                            "Copper",
-                            "Aluminum"
-                        ],
-                        "answer": 1,
-                        "explanation": "Mercury is the only metal that is liquid under standard conditions for temperature and pressure."
-                    },
-                    {
-                        "q": "What is the process of a solid turning directly into gas?",
-                        "options": [
-                            "Evaporation",
-                            "Condensation",
-                            "Sublimation",
-                            "Melting"
-                        ],
-                        "answer": 2,
-                        "explanation": "Sublimation is the transition of a substance directly from the solid to the gas state."
-                    },
-                    {
-                        "q": "Who developed the first periodic table?",
-                        "options": [
-                            "Newton",
-                            "Dalton",
-                            "Mendeleev",
-                            "Lavoisier"
-                        ],
-                        "answer": 2,
-                        "explanation": "Dmitri Mendeleev published the first widely recognized periodic table in 1869."
-                    },
-                    {
-                        "q": "What are the three main states of matter?",
-                        "options": [
-                            "Solid, Liquid, Gas",
-                            "Fire, Earth, Water",
-                            "Ice, Water, Steam",
-                            "Atom, Molecule, Ion"
-                        ],
-                        "answer": 0,
-                        "explanation": "Matter typically exists in solid, liquid, or gas phases."
-                    },
-                    {
-                        "q": "What is the chemical name for Baking Soda?",
-                        "options": [
-                            "Sodium Carbonate",
-                            "Sodium Bicarbonate",
-                            "Calcium Carbonate",
-                            "Sodium Chloride"
-                        ],
-                        "answer": 1,
-                        "explanation": "Sodium bicarbonate (NaHCO3) is commonly known as baking soda."
-                    },
-                    {
-                        "q": "Which gas is used to ripen fruits artificially?",
-                        "options": [
-                            "Ethylene",
-                            "Methane",
-                            "Ethane",
-                            "Acetylene"
-                        ],
-                        "answer": 0,
-                        "explanation": "Ethylene is a natural plant hormone that triggers ripening."
-                    },
-                    {
-                        "q": "What is the purest form of Carbon found in nature?",
-                        "options": [
-                            "Coal",
-                            "Graphite",
-                            "Diamond",
-                            "Fullerene"
-                        ],
-                        "answer": 2,
-                        "explanation": "Diamond is the purest crystalline form of carbon."
-                    },
-                    {
-                        "q": "Which acid is present in Lemons?",
-                        "options": [
-                            "Acetic Acid",
-                            "Citric Acid",
-                            "Lactic Acid",
-                            "Oxalic Acid"
-                        ],
-                        "answer": 1,
-                        "explanation": "Citrus fruits are rich in citric acid."
-                    },
-                    {
-                        "q": "The chemical used in nail polish remover is?",
-                        "options": [
-                            "Acetone",
-                            "Benzene",
-                            "Acetic Acid",
-                            "Thinner"
-                        ],
-                        "answer": 0,
-                        "explanation": "Acetone is a powerful solvent used in nail polish removers."
-                    },
-                    {
-                        "q": "What is the main metal in Hemoglobin?",
-                        "options": [
-                            "Magnesium",
-                            "Iron",
-                            "Copper",
-                            "Zinc"
-                        ],
-                        "answer": 1,
-                        "explanation": "Iron (Fe) binds with oxygen in the blood."
-                    },
-                    {
-                        "q": "Which element is common to all acids?",
-                        "options": [
-                            "Oxygen",
-                            "Hydrogen",
-                            "Sulfur",
-                            "Chlorine"
-                        ],
-                        "answer": 1,
-                        "explanation": "Acids release hydrogen ions in aqueous solutions."
-                    },
-                    {
-                        "q": "What is the chemical name of Vitamin C?",
-                        "options": [
-                            "Citric Acid",
-                            "Ascorbic Acid",
-                            "Oxalic Acid",
-                            "Nitric Acid"
-                        ],
-                        "answer": 1,
-                        "explanation": "Ascorbic acid is the chemical name for Vitamin C."
-                    },
-                    {
-                        "q": "Which gas is used to fill balloons for decoration?",
-                        "options": [
-                            "Hydrogen",
-                            "Helium",
-                            "Nitrogen",
-                            "Oxygen"
-                        ],
-                        "answer": 1,
-                        "explanation": "Helium is used because it is lighter than air and non-flammable."
-                    },
-                    {
-                        "q": "What is the symbol for Silver?",
-                        "options": [
-                            "Si",
-                            "Ag",
-                            "Au",
-                            "Sl"
-                        ],
-                        "answer": 1,
-                        "explanation": "Ag comes from the Latin word 'Argentum'."
-                    },
-                    {
-                        "q": "Which non-metal remains liquid at room temperature?",
-                        "options": [
-                            "Bromine",
-                            "Iodine",
-                            "Chlorine",
-                            "Phosphorus"
-                        ],
-                        "answer": 0,
-                        "explanation": "Bromine is the only non-metallic element that is liquid at standard conditions."
-                    },
-                    {
-                        "q": "What is the primary constituent of Pearls?",
-                        "options": [
-                            "Calcium Carbonate",
-                            "Magnesium Carbonate",
-                            "Calcium Oxide",
-                            "Silica"
-                        ],
-                        "answer": 0,
-                        "explanation": "Pearls are made of aragonite, a form of calcium carbonate."
-                    },
-                    {
-                        "q": "Laughing gas is chemically known as?",
-                        "options": [
-                            "Nitrogen Dioxide",
-                            "Nitrous Oxide",
-                            "Nitric Oxide",
-                            "Nitrogen Pentoxide"
-                        ],
-                        "answer": 1,
-                        "explanation": "Nitrous oxide (N2O) is used for its anesthetic and analgesic effects."
-                    },
-                    {
-                        "q": "Which metal is used in the manufacture of stainless steel?",
-                        "options": [
-                            "Copper",
-                            "Chromium",
-                            "Zinc",
-                            "Aluminum"
-                        ],
-                        "answer": 1,
-                        "explanation": "Chromium provides the corrosion resistance in stainless steel."
-                    },
-                    {
-                        "q": "What is the heaviest naturally occurring element?",
-                        "options": [
-                            "Gold",
-                            "Lead",
-                            "Uranium",
-                            "Plutonium"
-                        ],
-                        "answer": 2,
-                        "explanation": "Uranium is the heaviest element found in nature."
-                    },
-                    {
-                        "q": "Which isotope of Hydrogen is used in Nuclear reactors?",
-                        "options": [
-                            "Protium",
-                            "Deuterium",
-                            "Tritium",
-                            "None of these"
-                        ],
-                        "answer": 1,
-                        "explanation": "Deuterium (heavy hydrogen) is used as a moderator in reactors."
-                    },
-                    {
-                        "q": "Water gas is a mixture of?",
-                        "options": [
-                            "CO and H2",
-                            "CO and N2",
-                            "CO2 and H2",
-                            "CH4 and O2"
-                        ],
-                        "answer": 0,
-                        "explanation": "Water gas is a synthesis gas containing carbon monoxide and hydrogen."
-                    },
-                    {
-                        "q": "Which element is used in the tips of safety matches?",
-                        "options": [
-                            "White Phosphorus",
-                            "Red Phosphorus",
-                            "Sulfur",
-                            "Potassium Chlorate"
-                        ],
-                        "answer": 1,
-                        "explanation": "Red phosphorus is used because it is less toxic and more stable than white phosphorus."
-                    },
-                    {
-                        "q": "What is the chemical formula for Ozone?",
-                        "options": [
-                            "O2",
-                            "O3",
-                            "O4",
-                            "O"
-                        ],
-                        "answer": 1,
-                        "explanation": "Ozone is triatomic oxygen."
-                    },
-                    {
-                        "q": "Vinegar is a solution of which acid?",
-                        "options": [
-                            "Formic Acid",
-                            "Acetic Acid",
-                            "Malic Acid",
-                            "Tartaric Acid"
-                        ],
-                        "answer": 1,
-                        "explanation": "Vinegar contains roughly 5-8% acetic acid."
-                    },
-                    {
-                        "q": "What is the common name for Calcium Carbonate?",
-                        "options": [
-                            "Salt",
-                            "Chalk / Limestone",
-                            "Baking Soda",
-                            "Bleach"
-                        ],
-                        "answer": 1,
-                        "explanation": "Calcium carbonate is the main component of shells, snails, and chalk."
-                    },
-                    {
-                        "q": "Which gas is used in the manufacture of Ammonia?",
-                        "options": [
-                            "Nitrogen",
-                            "Oxygen",
-                            "Helium",
-                            "Neon"
-                        ],
-                        "answer": 0,
-                        "explanation": "The Haber process combines nitrogen and hydrogen to make ammonia."
-                    },
-                    {
-                        "q": "What is the atomic number of Carbon?",
-                        "options": [
-                            "1",
-                            "6",
-                            "12",
-                            "14"
-                        ],
-                        "answer": 1,
-                        "explanation": "Carbon has 6 protons in its nucleus."
-                    },
-                    {
-                        "q": "Which element is used as a fuel in nuclear power plants?",
-                        "options": [
-                            "Iron",
-                            "Lead",
-                            "Uranium",
-                            "Gold"
-                        ],
-                        "answer": 2,
-                        "explanation": "Uranium-235 is the most common fuel for nuclear fission."
-                    },
-                    {
-                        "q": "What is the main component of LPG (Liquefied Petroleum Gas)?",
-                        "options": [
-                            "Methane",
-                            "Ethane",
-                            "Propane and Butane",
-                            "Hydrogen"
-                        ],
-                        "answer": 2,
-                        "explanation": "LPG is primarily a mixture of propane and butane."
-                    },
-                    {
-                        "q": "Which acid is found in tamarind?",
-                        "options": [
-                            "Citric Acid",
-                            "Tartaric Acid",
-                            "Acetic Acid",
-                            "Lactic Acid"
-                        ],
-                        "answer": 1,
-                        "explanation": "Tartaric acid gives tamarind its sour taste."
-                    },
-                    {
-                        "q": "What is the hardest form of carbon?",
-                        "options": [
-                            "Graphite",
-                            "Coal",
-                            "Diamond",
-                            "Fullerene"
-                        ],
-                        "answer": 2,
-                        "explanation": "Diamond's rigid crystal structure makes it the hardest known natural substance."
-                    },
-                    {
-                        "q": "Which gas is known as 'Dry Ice' in its solid state?",
-                        "options": [
-                            "Nitrogen",
-                            "Oxygen",
-                            "Carbon Dioxide",
-                            "Hydrogen"
-                        ],
-                        "answer": 2,
-                        "explanation": "Solid CO2 is called dry ice."
-                    },
-                    {
-                        "q": "What is the chemical formula for salt?",
-                        "options": [
-                            "NaOH",
-                            "HCl",
-                            "NaCl",
-                            "KCl"
-                        ],
-                        "answer": 2,
-                        "explanation": "Sodium Chloride is the chemical name."
-                    },
-                    {
-                        "q": "Which metal is used for galvanizing iron?",
-                        "options": [
-                            "Zinc",
-                            "Copper",
-                            "Tin",
-                            "Aluminum"
-                        ],
-                        "answer": 0,
-                        "explanation": "Zinc coating prevents iron from rusting."
-                    },
-                    {
-                        "q": "What is the study of matter and its changes called?",
-                        "options": [
-                            "Physics",
-                            "Chemistry",
-                            "Biology",
-                            "Geology"
-                        ],
-                        "answer": 1,
-                        "explanation": "Chemistry is the science of substances and their interactions."
-                    },
-                    {
-                        "q": "Which gas is produced when an acid reacts with a metal?",
-                        "options": [
-                            "Oxygen",
-                            "Hydrogen",
-                            "Carbon Dioxide",
-                            "Nitrogen"
-                        ],
-                        "answer": 1,
-                        "explanation": "Metal + Acid -> Salt + Hydrogen gas."
-                    },
-                    {
-                        "q": "What is the pH level of a strong base?",
-                        "options": [
-                            "1",
-                            "7",
-                            "13",
-                            "4"
-                        ],
-                        "answer": 2,
-                        "explanation": "Bases have a pH greater than 7; strong bases are near 14."
-                    },
-                    {
-                        "q": "Which mineral is found in Epsom salt?",
-                        "options": [
-                            "Calcium",
-                            "Magnesium",
-                            "Iron",
-                            "Zinc"
-                        ],
-                        "answer": 1,
-                        "explanation": "Epsom salt is Magnesium Sulfate."
-                    },
-                    {
-                        "q": "What is the chemical name for Vitamin C?",
-                        "options": [
-                            "Citric Acid",
-                            "Ascorbic Acid",
-                            "Lactic Acid",
-                            "Folic Acid"
-                        ],
-                        "answer": 1,
-                        "explanation": "Ascorbic acid is essential for human health."
-                    },
-                    {
-                        "q": "Which element is used in the lead of a pencil?",
-                        "options": [
-                            "Lead",
-                            "Graphite",
-                            "Carbon",
-                            "Zinc"
-                        ],
-                        "answer": 1,
-                        "explanation": "Pencil 'lead' is a mixture of graphite and clay."
-                    },
-                    {
-                        "q": "What is the process of coating one metal with another using electricity?",
-                        "options": [
-                            "Galvanization",
-                            "Electroplating",
-                            "Vulcanization",
-                            "Sublimation"
-                        ],
-                        "answer": 1,
-                        "explanation": "Electroplating is used for protection or decoration."
-                    },
-                    {
-                        "q": "Which gas is used in fluorescent tubes?",
-                        "options": [
-                            "Neon",
-                            "Argon and Mercury vapor",
-                            "Helium",
-                            "Oxygen"
-                        ],
-                        "answer": 1,
-                        "explanation": "The gas emits UV light which strikes the phosphor coating."
-                    },
-                    {
-                        "q": "What is the chemical formula for glucose?",
-                        "options": [
-                            "C6H12O6",
-                            "C12H22O11",
-                            "CH4",
-                            "CO2"
-                        ],
-                        "answer": 0,
-                        "explanation": "Glucose is a simple sugar (monosaccharide)."
-                    },
-                    {
-                        "q": "Which acid is responsible for the sting of a bee?",
-                        "options": [
-                            "Acetic acid",
-                            "Citric acid",
-                            "Formic acid",
-                            "Sulfuric acid"
-                        ],
-                        "answer": 2,
-                        "explanation": "Methanoic (formic) acid is injected during the sting."
-                    },
-                    {
-                        "q": "What is the most abundant element in the human body by mass?",
-                        "options": [
-                            "Carbon",
-                            "Hydrogen",
-                            "Oxygen",
-                            "Nitrogen"
-                        ],
-                        "answer": 2,
-                        "explanation": "Oxygen makes up about 65% of the human body bulk."
-                    },
-                    {
-                        "q": "Which metal is used to make aircraft bodies?",
-                        "options": [
-                            "Iron",
-                            "Aluminum",
-                            "Lead",
-                            "Gold"
-                        ],
-                        "answer": 1,
-                        "explanation": "Aluminum is lightweight and strong when alloyed."
-                    },
-                    {
-                        "q": "What is the chemical name for Bleaching Powder?",
-                        "options": [
-                            "Sodium Carbonate",
-                            "Calcium Hypochlorite",
-                            "Calcium Carbonate",
-                            "Sodium Chloride"
-                        ],
-                        "answer": 1,
-                        "explanation": "Calcium hypochlorite is the active ingredient."
-                    },
-                    {
-                        "q": "Which gas has the odor of rotten eggs?",
-                        "options": [
-                            "CO2",
-                            "SO2",
-                            "H2S",
-                            "NH3"
-                        ],
-                        "answer": 2,
-                        "explanation": "Hydrogen Sulfide is produced in volcanoes and sewers."
-                    },
-                    {
-                        "q": "What is the main component of biogas?",
-                        "options": [
-                            "Methane",
-                            "Propane",
-                            "Butane",
-                            "Ethane"
-                        ],
-                        "answer": 0,
-                        "explanation": "Biogas is mostly methane and carbon dioxide."
-                    },
-                    {
-                        "q": "Which non-metal is a good conductor of electricity?",
-                        "options": [
-                            "Sulfur",
-                            "Iodine",
-                            "Graphite",
-                            "Diamond"
-                        ],
-                        "answer": 2,
-                        "explanation": "Graphite has delocalized electrons that can carry current."
-                    },
-                    {
-                        "q": "What is the chemical symbol for Potassium?",
-                        "options": [
-                            "P",
-                            "Po",
-                            "K",
-                            "Pt"
-                        ],
-                        "answer": 2,
-                        "explanation": "K comes from the Latin 'Kalium'."
-                    },
-                    {
-                        "q": "Which acid is used in car batteries?",
-                        "options": [
-                            "Nitric Acid",
-                            "Hydrochloric Acid",
-                            "Sulfuric Acid",
-                            "Acetic Acid"
-                        ],
-                        "answer": 2,
-                        "explanation": "Sulfuric acid (H2SO4) is a strong electrolyte."
-                    },
-                    {
-                        "q": "What is the process of making soap called?",
-                        "options": [
-                            "Fermentation",
-                            "Saponification",
-                            "Hydrogenation",
-                            "Distillation"
-                        ],
-                        "answer": 1,
-                        "explanation": "Saponification is the reaction of fats with a strong base."
-                    },
-                    {
-                        "q": "Which gas is responsible for global warming?",
-                        "options": [
-                            "Oxygen",
-                            "Nitrogen",
-                            "Carbon Dioxide",
-                            "Argon"
-                        ],
-                        "answer": 2,
-                        "explanation": "CO2 traps heat in the atmosphere."
-                    },
-                    {
-                        "q": "What is the chemical symbol for Silver?",
-                        "options": [
-                            "Si",
-                            "Ag",
-                            "Au",
-                            "Sl"
-                        ],
-                        "answer": 1,
-                        "explanation": "Ag is from 'Argentum'."
-                    },
-                    {
-                        "q": "Which element is used to vulcanize rubber?",
-                        "options": [
-                            "Iron",
-                            "Sulfur",
-                            "Carbon",
-                            "Oxygen"
-                        ],
-                        "answer": 1,
-                        "explanation": "Sulfur makes rubber more durable and heat-resistant."
-                    },
-                    {
-                        "q": "What is the chemical name for Plaster of Paris?",
-                        "options": [
-                            "Calcium Sulfate Hemihydrate",
-                            "Calcium Carbonate",
-                            "Sodium Carbonate",
-                            "Gypsum"
-                        ],
-                        "answer": 0,
-                        "explanation": "It is made by heating gypsum."
-                    },
-                    {
-                        "q": "Which gas is found in the stratosphere and protects us from UV rays?",
-                        "options": [
-                            "Oxygen",
-                            "Nitrogen",
-                            "Ozone",
-                            "Helium"
-                        ],
-                        "answer": 2,
-                        "explanation": "Ozone (O3) absorbs harmful ultraviolet radiation."
-                    },
-                    {
-                        "q": "What is the molecular formula of water?",
-                        "options": [
-                            "HO",
-                            "H2O",
-                            "H2O2",
-                            "OH"
-                        ],
-                        "answer": 1,
-                        "explanation": "Two hydrogen atoms and one oxygen atom."
-                    },
-                    {
-                        "q": "Which metal is used to make bronze?",
-                        "options": [
-                            "Copper and Tin",
-                            "Copper and Zinc",
-                            "Iron and Carbon",
-                            "Aluminum and Magnesium"
-                        ],
-                        "answer": 0,
-                        "explanation": "Bronze is a copper-based alloy."
-                    },
-                    {
-                        "q": "What is the chemical name for Vitamin D?",
-                        "options": [
-                            "Retinol",
-                            "Calciferol",
-                            "Tocopherol",
-                            "Thiamine"
-                        ],
-                        "answer": 1,
-                        "explanation": "Calciferol is essential for calcium absorption."
-                    },
-                    {
-                        "q": "Which element is required for bones and teeth?",
-                        "options": [
-                            "Iron",
-                            "Calcium",
-                            "Iodine",
-                            "Sodium"
-                        ],
-                        "answer": 1,
-                        "explanation": "Calcium provides structural strength."
-                    },
-                    {
-                        "q": "What is the lightest element?",
-                        "options": [
-                            "Helium",
-                            "Lithium",
-                            "Hydrogen",
-                            "Oxygen"
-                        ],
-                        "answer": 2,
-                        "explanation": "Hydrogen has atomic number 1."
-                    },
-                    {
-                        "q": "Which non-metal is found in the liquid state?",
-                        "options": [
-                            "Chlorine",
-                            "Bromine",
-                            "Iodine",
-                            "Fluorine"
-                        ],
-                        "answer": 1,
-                        "explanation": "Bromine is a dark red-brown liquid."
-                    },
-                    {
-                        "q": "What is the chemical name of common salt?",
-                        "options": [
-                            "Sodium Hydroxide",
-                            "Sodium Chloride",
-                            "Sodium Bicarbonate",
-                            "Sodium Carbonate"
-                        ],
-                        "answer": 1,
-                        "explanation": "NaCl is used as a seasoning."
-                    },
-                    {
-                        "q": "Which gas is used in electric arc welding?",
-                        "options": [
-                            "Helium",
-                            "Argon",
-                            "CO2",
-                            "All of these"
-                        ],
-                        "answer": 3,
-                        "explanation": "Inert gases protect the weld from oxidation."
-                    },
-                    {
-                        "q": "What is the process of converting a liquid into gas called?",
-                        "options": [
-                            "Condensation",
-                            "Evaporation",
-                            "Freezing",
-                            "Melting"
-                        ],
-                        "answer": 1,
-                        "explanation": "Evaporation happens at the surface of a liquid."
-                    },
-                    {
-                        "q": "Which acid is found in vinegar?",
-                        "options": [
-                            "Acetic acid",
-                            "Formic acid",
-                            "Malic acid",
-                            "Citric acid"
-                        ],
-                        "answer": 0,
-                        "explanation": "Acetic acid gives vinegar its characteristic taste."
-                    },
-                    {
-                        "q": "What is the main metal in brass?",
-                        "options": [
-                            "Copper and Tin",
-                            "Copper and Zinc",
-                            "Iron and Nickel",
-                            "Lead and Tin"
-                        ],
-                        "answer": 1,
-                        "explanation": "Brass is an alloy of copper and zinc."
-                    },
-                    {
-                        "q": "Which element is used to detect leaks in underground pipes?",
-                        "options": [
-                            "Uranium",
-                            "Radioactive isotopes",
-                            "Helium",
-                            "Nitrogen"
-                        ],
-                        "answer": 1,
-                        "explanation": "Radioactive tracers are easy to detect."
-                    },
-                    {
-                        "q": "What is the chemical formula for sulfuric acid?",
-                        "options": [
-                            "HCl",
-                            "HNO3",
-                            "H2SO4",
-                            "H3PO4"
-                        ],
-                        "answer": 2,
-                        "explanation": "It is often called the 'King of Chemicals'."
-                    },
-                    {
-                        "q": "Which gas is used in the treatment of cancer?",
-                        "options": [
-                            "Helium",
-                            "Radon",
-                            "Xenon",
-                            "Neon"
-                        ],
-                        "answer": 1,
-                        "explanation": "Radon has been used in radiotherapy."
-                    },
-                    {
-                        "q": "What is the most electronegative element?",
-                        "options": [
-                            "Oxygen",
-                            "Chlorine",
-                            "Fluorine",
-                            "Nitrogen"
-                        ],
-                        "answer": 2,
-                        "explanation": "Fluorine has the highest affinity for electrons."
-                    }
-                ]
-            },
-            {
-                "category": "Physics",
-                "icon": "fa-atom",
-                "questions": [
-                    {
-                        "q": "What is the SI unit of Force?",
-                        "options": [
-                            "Watt",
-                            "Joule",
-                            "Newton",
-                            "Pascal"
-                        ],
-                        "answer": 2,
-                        "explanation": "The Newton (N) is the SI derived unit of force."
-                    },
-                    {
-                        "q": "Who formulated the Laws of Motion?",
-                        "options": [
-                            "Albert Einstein",
-                            "Isaac Newton",
-                            "Galileo Galilei",
-                            "Nikola Tesla"
-                        ],
-                        "answer": 1,
-                        "explanation": "Sir Isaac Newton formulated the three laws of motion in his work 'Principia Mathematica'."
-                    },
-                    {
-                        "q": "What is the unit of electric current?",
-                        "options": [
-                            "Volt",
-                            "Ohm",
-                            "Ampere",
-                            "Watt"
-                        ],
-                        "answer": 2,
-                        "explanation": "The Ampere (A) is the base unit of electric current."
-                    },
-                    {
-                        "q": "Resistance is measured in?",
-                        "options": [
-                            "Watts",
-                            "Ohms",
-                            "Volts",
-                            "Amps"
-                        ],
-                        "answer": 1,
-                        "explanation": "Ohm (?) is the SI unit of electrical resistance."
-                    },
-                    {
-                        "q": "Which law states that energy cannot be created or destroyed?",
-                        "options": [
-                            "Law of Inertia",
-                            "Law of Gravity",
-                            "Law of Conservation of Energy",
-                            "Ohm's Law"
-                        ],
-                        "answer": 2,
-                        "explanation": "Energy can only be transformed or transferred from one form to another."
-                    },
-                    {
-                        "q": "What is the primary source of energy for the Earth?",
-                        "options": [
-                            "Moon",
-                            "Wind",
-                            "Sun",
-                            "Geothermal"
-                        ],
-                        "answer": 2,
-                        "explanation": "The Sun provides the solar energy that drives most biological and climatic processes."
-                    },
-                    {
-                        "q": "Newton's First Law is also known as?",
-                        "options": [
-                            "Law of Acceleration",
-                            "Law of Action-Reaction",
-                            "Law of Inertia",
-                            "Law of Gravitation"
-                        ],
-                        "answer": 2,
-                        "explanation": "The Law of Inertia states that an object at rest stays at rest unless acted upon by a force."
-                    },
-                    {
-                        "q": "What is the value of acceleration due to gravity on Earth?",
-                        "options": [
-                            "5.8 m/s²",
-                            "7.8 m/s²",
-                            "9.8 m/s²",
-                            "11.8 m/s²"
-                        ],
-                        "answer": 2,
-                        "explanation": "Standard gravity is approximately 9.80665 m/s²."
-                    },
-                    {
-                        "q": "Light year is a unit of?",
-                        "options": [
-                            "Time",
-                            "Speed",
-                            "Distance",
-                            "Intensity"
-                        ],
-                        "answer": 2,
-                        "explanation": "A light year is the distance light travels in a vacuum in one year (approx. 9.46 trillion km)."
-                    },
-                    {
-                        "q": "Which mirror is used in car headlights?",
-                        "options": [
-                            "Convex",
-                            "Concave",
-                            "Plane",
-                            "Cylindrical"
-                        ],
-                        "answer": 1,
-                        "explanation": "Concave mirrors are used to create a powerful, parallel beam of light."
-                    },
-                    {
-                        "q": "The bending of light when it enters another medium is called?",
-                        "options": [
-                            "Reflection",
-                            "Refraction",
-                            "Diffraction",
-                            "Dispersion"
-                        ],
-                        "answer": 1,
-                        "explanation": "Refraction occurs due to the change in the speed of light in different media."
-                    },
-                    {
-                        "q": "What is the frequency of AC (Alternating Current) in most countries?",
-                        "options": [
-                            "30 Hz",
-                            "50-60 Hz",
-                            "100 Hz",
-                            "220 Hz"
-                        ],
-                        "answer": 1,
-                        "explanation": "Most power grids operate at either 50 Hz or 60 Hz."
-                    },
-                    {
-                        "q": "Which instrument measures high temperature?",
-                        "options": [
-                            "Thermometer",
-                            "Pyrometer",
-                            "Manometer",
-                            "Hygrometer"
-                        ],
-                        "answer": 1,
-                        "explanation": "A pyrometer is used for measuring very high temperatures from a distance."
-                    },
-                    {
-                        "q": "What is the speed of sound in air (approx)?",
-                        "options": [
-                            "300 m/s",
-                            "343 m/s",
-                            "500 m/s",
-                            "1000 m/s"
-                        ],
-                        "answer": 1,
-                        "explanation": "At 20°C, the speed of sound is about 343 meters per second."
-                    },
-                    {
-                        "q": "Which type of wave is sound?",
-                        "options": [
-                            "Transverse",
-                            "Longitudinal",
-                            "Electromagnetic",
-                            "Surface"
-                        ],
-                        "answer": 1,
-                        "explanation": "Sound waves are mechanical longitudinal waves."
-                    },
-                    {
-                        "q": "What is the unit of power of a lens?",
-                        "options": [
-                            "Meter",
-                            "Diopter",
-                            "Degree",
-                            "Decibel"
-                        ],
-                        "answer": 1,
-                        "explanation": "The power of a lens is measured in diopters (D)."
-                    },
-                    {
-                        "q": "Who discovered the Electron?",
-                        "options": [
-                            "Ernest Rutherford",
-                            "J.J. Thomson",
-                            "John Dalton",
-                            "James Chadwick"
-                        ],
-                        "answer": 1,
-                        "explanation": "J.J. Thomson discovered the electron in 1897."
-                    },
-                    {
-                        "q": "The Dynamo converts?",
-                        "options": [
-                            "Heat to Light",
-                            "Mechanical to Electrical",
-                            "Electrical to Mechanical",
-                            "Chemical to Heat"
-                        ],
-                        "answer": 1,
-                        "explanation": "A dynamo (generator) uses electromagnetic induction."
-                    },
-                    {
-                        "q": "What is the boiling point of water in Fahrenheit?",
-                        "options": [
-                            "100°F",
-                            "180°F",
-                            "212°F",
-                            "32°F"
-                        ],
-                        "answer": 2,
-                        "explanation": "Standard boiling point is 100°C or 212°F."
-                    },
-                    {
-                        "q": "Which color of light deviates the most through a prism?",
-                        "options": [
-                            "Red",
-                            "Green",
-                            "Yellow",
-                            "Violet"
-                        ],
-                        "answer": 3,
-                        "explanation": "Violet has the shortest wavelength and deviates the most."
-                    },
-                    {
-                        "q": "What is the escape velocity from Earth?",
-                        "options": [
-                            "8.2 km/s",
-                            "9.8 km/s",
-                            "11.2 km/s",
-                            "15.5 km/s"
-                        ],
-                        "answer": 2,
-                        "explanation": "The minimum speed required to escape Earth's gravity is 11.2 km/s."
-                    },
-                    {
-                        "q": "Which mirror is used as a rear-view mirror in vehicles?",
-                        "options": [
-                            "Concave",
-                            "Convex",
-                            "Plane",
-                            "Bifocal"
-                        ],
-                        "answer": 1,
-                        "explanation": "Convex mirrors provide a wider field of view."
-                    },
-                    {
-                        "q": "Density is defined as?",
-                        "options": [
-                            "Mass / Area",
-                            "Mass / Volume",
-                            "Weight / Volume",
-                            "Volume / Mass"
-                        ],
-                        "answer": 1,
-                        "explanation": "Density (?) = m / V."
-                    },
-                    {
-                        "q": "The value of 'g' (gravity) is maximum at?",
-                        "options": [
-                            "Center of Earth",
-                            "Equator",
-                            "Poles",
-                            "Mountain Top"
-                        ],
-                        "answer": 2,
-                        "explanation": "Gravity is slightly stronger at the poles due to the Earth's geoid shape."
-                    },
-                    {
-                        "q": "Which electromagnetic wave has the highest frequency?",
-                        "options": [
-                            "Radio waves",
-                            "Microwaves",
-                            "X-rays",
-                            "Gamma rays"
-                        ],
-                        "answer": 3,
-                        "explanation": "Gamma rays carry the highest energy and frequency."
-                    },
-                    {
-                        "q": "Einstein's E=mc² relates energy with?",
-                        "options": [
-                            "Speed",
-                            "Color",
-                            "Mass",
-                            "Momentum"
-                        ],
-                        "answer": 2,
-                        "explanation": "Mass-energy equivalence states mass can be converted to energy."
-                    },
-                    {
-                        "q": "Short-sightedness is corrected by using?",
-                        "options": [
-                            "Concave lens",
-                            "Convex lens",
-                            "Cylindrical lens",
-                            "Plane mirror"
-                        ],
-                        "answer": 0,
-                        "explanation": "Myopia is corrected by diverging lenses."
-                    },
-                    {
-                        "q": "What is the unit of pressure?",
-                        "options": [
-                            "Newton",
-                            "Watt",
-                            "Pascal",
-                            "Joule"
-                        ],
-                        "answer": 2,
-                        "explanation": "1 Pascal (Pa) = 1 Newton per square meter."
-                    },
-                    {
-                        "q": "Who discovered radioactivity?",
-                        "options": [
-                            "Marie Curie",
-                            "Henri Becquerel",
-                            "Rutherford",
-                            "Chadwick"
-                        ],
-                        "answer": 1,
-                        "explanation": "Becquerel discovered it while experimenting with uranium."
-                    },
-                    {
-                        "q": "Absolute zero temperature is?",
-                        "options": [
-                            "0°C",
-                            "-273.15°C",
-                            "273.15°C",
-                            "-32°F"
-                        ],
-                        "answer": 1,
-                        "explanation": "0 Kelvin (K) equals -273.15 degrees Celsius."
-                    },
-                    {
-                        "q": "What is the unit of work and energy?",
-                        "options": [
-                            "Watt",
-                            "Newton",
-                            "Joule",
-                            "Pascal"
-                        ],
-                        "answer": 2,
-                        "explanation": "Joule (J) is the SI unit of energy."
-                    },
-                    {
-                        "q": "Which lens is used to correct far-sightedness (hyperopia)?",
-                        "options": [
-                            "Concave",
-                            "Convex",
-                            "Cylindrical",
-                            "Bifocal"
-                        ],
-                        "answer": 1,
-                        "explanation": "Convex (converging) lenses help focus light on the retina."
-                    },
-                    {
-                        "q": "What is the rate of change of velocity called?",
-                        "options": [
-                            "Speed",
-                            "Acceleration",
-                            "Momentum",
-                            "Inertia"
-                        ],
-                        "answer": 1,
-                        "explanation": "Acceleration = (Change in Velocity) / Time."
-                    },
-                    {
-                        "q": "Which law explains the phenomenon of buoyancy?",
-                        "options": [
-                            "Newton's Law",
-                            "Ohm's Law",
-                            "Archimedes' Principle",
-                            "Pascal's Law"
-                        ],
-                        "answer": 2,
-                        "explanation": "Archimedes' principle states the buoyant force equals the weight of displaced fluid."
-                    },
-                    {
-                        "q": "What is the speed of light in kilometers per second (approx)?",
-                        "options": [
-                            "100,000",
-                            "200,000",
-                            "300,000",
-                            "500,000"
-                        ],
-                        "answer": 2,
-                        "explanation": "Light travels at roughly 299,792 km/s."
-                    },
-                    {
-                        "q": "Which instrument is used to measure electric potential difference?",
-                        "options": [
-                            "Ammeter",
-                            "Voltmeter",
-                            "Galvanometer",
-                            "Potentiometer"
-                        ],
-                        "answer": 1,
-                        "explanation": "A voltmeter is connected in parallel to measure voltage."
-                    },
-                    {
-                        "q": "What is the force that opposes motion between two surfaces?",
-                        "options": [
-                            "Gravity",
-                            "Friction",
-                            "Magnetism",
-                            "Tension"
-                        ],
-                        "answer": 1,
-                        "explanation": "Friction acts in the opposite direction of movement."
-                    },
-                    {
-                        "q": "Which type of mirror is used as a shaving mirror?",
-                        "options": [
-                            "Convex",
-                            "Concave",
-                            "Plane",
-                            "Cylindrical"
-                        ],
-                        "answer": 1,
-                        "explanation": "Concave mirrors provide a magnified upright image when close."
-                    },
-                    {
-                        "q": "What is the SI unit of frequency?",
-                        "options": [
-                            "Hertz",
-                            "Decibel",
-                            "Watt",
-                            "Tesla"
-                        ],
-                        "answer": 0,
-                        "explanation": "Hertz (Hz) measures cycles per second."
-                    },
-                    {
-                        "q": "Which particle in an atom has no electric charge?",
-                        "options": [
-                            "Proton",
-                            "Electron",
-                            "Neutron",
-                            "Positron"
-                        ],
-                        "answer": 2,
-                        "explanation": "Neutrons are neutral particles in the nucleus."
-                    },
-                    {
-                        "q": "What is the escape velocity from the Moon?",
-                        "options": [
-                            "1.2 km/s",
-                            "2.4 km/s",
-                            "5.0 km/s",
-                            "11.2 km/s"
-                        ],
-                        "answer": 1,
-                        "explanation": "The Moon's gravity is much weaker than Earth's."
-                    },
-                    {
-                        "q": "Which physical quantity remains constant in a uniform circular motion?",
-                        "options": [
-                            "Velocity",
-                            "Acceleration",
-                            "Speed",
-                            "Displacement"
-                        ],
-                        "answer": 2,
-                        "explanation": "While direction changes (so velocity changes), the speed (magnitude) is constant."
-                    },
-                    {
-                        "q": "What is the unit of luminous intensity?",
-                        "options": [
-                            "Mole",
-                            "Candela",
-                            "Kelvin",
-                            "Ampere"
-                        ],
-                        "answer": 1,
-                        "explanation": "Candela (cd) is one of the seven SI base units."
-                    },
-                    {
-                        "q": "Which colors are the primary colors of light?",
-                        "options": [
-                            "Red, Blue, Yellow",
-                            "Red, Green, Blue",
-                            "Yellow, Cyan, Magenta",
-                            "Red, White, Black"
-                        ],
-                        "answer": 1,
-                        "explanation": "RGB are the additive primary colors."
-                    },
-                    {
-                        "q": "What is the product of mass and velocity called?",
-                        "options": [
-                            "Work",
-                            "Power",
-                            "Momentum",
-                            "Force"
-                        ],
-                        "answer": 2,
-                        "explanation": "p = mv."
-                    },
-                    {
-                        "q": "Which electromagnetic radiation has the longest wavelength?",
-                        "options": [
-                            "Gamma rays",
-                            "X-rays",
-                            "Radio waves",
-                            "Infrared"
-                        ],
-                        "answer": 2,
-                        "explanation": "Radio waves have the lowest frequency and longest wavelength."
-                    },
-                    {
-                        "q": "What is the value of one horsepower in watts?",
-                        "options": [
-                            "500 W",
-                            "746 W",
-                            "1000 W",
-                            "1200 W"
-                        ],
-                        "answer": 1,
-                        "explanation": "1 hp = 746 Watts."
-                    },
-                    {
-                        "q": "Which state of matter has the highest kinetic energy?",
-                        "options": [
-                            "Solid",
-                            "Liquid",
-                            "Gas",
-                            "Plasma"
-                        ],
-                        "answer": 3,
-                        "explanation": "Plasma consists of highly energized ions and electrons."
-                    },
-                    {
-                        "q": "What is the refractive index of a vacuum?",
-                        "options": [
-                            "0",
-                            "1",
-                            "1.33",
-                            "2.42"
-                        ],
-                        "answer": 1,
-                        "explanation": "By definition, the refractive index of a vacuum is 1."
-                    },
-                    {
-                        "q": "Which scientist discovered the Law of Universal Gravitation?",
-                        "options": [
-                            "Albert Einstein",
-                            "Isaac Newton",
-                            "Johannes Kepler",
-                            "Stephen Hawking"
-                        ],
-                        "answer": 1,
-                        "explanation": "Newton published his law in 1687."
-                    },
-                    {
-                        "q": "What is the name of the instrument used to measure wind speed?",
-                        "options": [
-                            "Barometer",
-                            "Thermometer",
-                            "Anemometer",
-                            "Hygrometer"
-                        ],
-                        "answer": 2,
-                        "explanation": "Anemometers are common in weather stations."
-                    },
-                    {
-                        "q": "Which law states that pressure applied to a fluid is transmitted equally in all directions?",
-                        "options": [
-                            "Boyle's Law",
-                            "Pascal's Law",
-                            "Charles's Law",
-                            "Hooke's Law"
-                        ],
-                        "answer": 1,
-                        "explanation": "Pascal's principle is the basis of hydraulic systems."
-                    },
-                    {
-                        "q": "What is the heat required to change the state of a substance without temperature change?",
-                        "options": [
-                            "Specific heat",
-                            "Latent heat",
-                            "Thermal capacity",
-                            "Conduction"
-                        ],
-                        "answer": 1,
-                        "explanation": "Latent heat is absorbed or released during phase changes."
-                    },
-                    {
-                        "q": "Which type of lens is a magnifying glass?",
-                        "options": [
-                            "Concave",
-                            "Convex",
-                            "Plano-concave",
-                            "Cylindrical"
-                        ],
-                        "answer": 1,
-                        "explanation": "A biconvex lens produces a virtual magnified image."
-                    },
-                    {
-                        "q": "What is the unit of magnetic flux density?",
-                        "options": [
-                            "Weber",
-                            "Tesla",
-                            "Ohm",
-                            "Henry"
-                        ],
-                        "answer": 1,
-                        "explanation": "One Tesla (T) is one Weber per square meter."
-                    },
-                    {
-                        "q": "Which force holds the planets in their orbits around the Sun?",
-                        "options": [
-                            "Magnetic force",
-                            "Electric force",
-                            "Gravitational force",
-                            "Nuclear force"
-                        ],
-                        "answer": 2,
-                        "explanation": "Gravity provides the centripetal force for orbit."
-                    },
-                    {
-                        "q": "What is the process of heat transfer through direct contact?",
-                        "options": [
-                            "Convection",
-                            "Radiation",
-                            "Conduction",
-                            "Insulation"
-                        ],
-                        "answer": 2,
-                        "explanation": "Conduction occurs primarily in solids."
-                    },
-                    {
-                        "q": "Which mirror is used in solar cookers to focus sunlight?",
-                        "options": [
-                            "Convex",
-                            "Concave",
-                            "Plane",
-                            "Parabolic"
-                        ],
-                        "answer": 1,
-                        "explanation": "Concave (or parabolic) mirrors converge light at a point."
-                    },
-                    {
-                        "q": "What is the unit of capacitance?",
-                        "options": [
-                            "Coulomb",
-                            "Farad",
-                            "Henry",
-                            "Tesla"
-                        ],
-                        "answer": 1,
-                        "explanation": "Farad (F) is the capacity to store charge."
-                    },
-                    {
-                        "q": "Which effect explains why the pitch of a siren changes as it moves past you?",
-                        "options": [
-                            "Tyndall Effect",
-                            "Doppler Effect",
-                            "Photoelectric Effect",
-                            "Compton Effect"
-                        ],
-                        "answer": 1,
-                        "explanation": "The Doppler effect is the change in frequency due to motion."
-                    },
-                    {
-                        "q": "What is the smallest known particle of matter (according to Standard Model)?",
-                        "options": [
-                            "Proton",
-                            "Neutron",
-                            "Quark",
-                            "Molecule"
-                        ],
-                        "answer": 2,
-                        "explanation": "Quarks and leptons are fundamental particles."
-                    },
-                    {
-                        "q": "Which scientist proposed the theory of relativity?",
-                        "options": [
-                            "Max Planck",
-                            "Werner Heisenberg",
-                            "Albert Einstein",
-                            "Niels Bohr"
-                        ],
-                        "answer": 2,
-                        "explanation": "Einstein's E=mc2 is the world's most famous equation."
-                    },
-                    {
-                        "q": "What is the SI unit of temperature?",
-                        "options": [
-                            "Celsius",
-                            "Fahrenheit",
-                            "Kelvin",
-                            "Rankine"
-                        ],
-                        "answer": 2,
-                        "explanation": "Kelvin is the absolute temperature scale."
-                    },
-                    {
-                        "q": "Which device converts electrical energy into mechanical energy?",
-                        "options": [
-                            "Generator",
-                            "Motor",
-                            "Transformer",
-                            "Rectifier"
-                        ],
-                        "answer": 1,
-                        "explanation": "An electric motor uses magnetic fields to create rotation."
-                    },
-                    {
-                        "q": "What is the name for the property of an object to resist changes in its motion?",
-                        "options": [
-                            "Momentum",
-                            "Inertia",
-                            "Gravity",
-                            "Friction"
-                        ],
-                        "answer": 1,
-                        "explanation": "Mass is a measure of inertia."
-                    },
-                    {
-                        "q": "Which light has the longest wavelength in the visible spectrum?",
-                        "options": [
-                            "Violet",
-                            "Blue",
-                            "Green",
-                            "Red"
-                        ],
-                        "answer": 3,
-                        "explanation": "Red light has the lowest frequency and longest wavelength."
-                    },
-                    {
-                        "q": "What is the phenomenon of splitting white light into its component colors?",
-                        "options": [
-                            "Reflection",
-                            "Refraction",
-                            "Dispersion",
-                            "Total internal reflection"
-                        ],
-                        "answer": 2,
-                        "explanation": "A prism causes dispersion because different colors refract at different angles."
-                    },
-                    {
-                        "q": "Which law states that for every action, there is an equal and opposite reaction?",
-                        "options": [
-                            "Newton's First Law",
-                            "Newton's Second Law",
-                            "Newton's Third Law",
-                            "Law of Gravitation"
-                        ],
-                        "answer": 2,
-                        "explanation": "This is a fundamental principle of mechanics."
-                    },
-                    {
-                        "q": "What is the unit of radioactivity?",
-                        "options": [
-                            "Curie",
-                            "Becquerel",
-                            "Roentgen",
-                            "Both A and B"
-                        ],
-                        "answer": 3,
-                        "explanation": "Becquerel is the SI unit; Curie is a traditional unit."
-                    },
-                    {
-                        "q": "Which instrument is used to see very small objects?",
-                        "options": [
-                            "Telescope",
-                            "Microscope",
-                            "Periscope",
-                            "Endoscope"
-                        ],
-                        "answer": 1,
-                        "explanation": "Microscopes use lenses or electrons for magnification."
-                    },
-                    {
-                        "q": "What is the value of atmospheric pressure at sea level (approx)?",
-                        "options": [
-                            "101.3 kPa",
-                            "50 kPa",
-                            "200 kPa",
-                            "10 kPa"
-                        ],
-                        "answer": 0,
-                        "explanation": "1 atmosphere is about 101,325 Pascals."
-                    },
-                    {
-                        "q": "Which radioactive particle is identical to a helium nucleus?",
-                        "options": [
-                            "Alpha particle",
-                            "Beta particle",
-                            "Gamma ray",
-                            "Neutron"
-                        ],
-                        "answer": 0,
-                        "explanation": "An alpha particle consists of 2 protons and 2 neutrons."
-                    },
-                    {
-                        "q": "What is the primary function of a transformer?",
-                        "options": [
-                            "Change DC to AC",
-                            "Change voltage levels",
-                            "Store energy",
-                            "Measure current"
-                        ],
-                        "answer": 1,
-                        "explanation": "Transformers step up or step down AC voltage."
-                    },
-                    {
-                        "q": "Which mirror provides a wide field of view and is used in parking lots?",
-                        "options": [
-                            "Concave",
-                            "Convex",
-                            "Plane",
-                            "Cylindrical"
-                        ],
-                        "answer": 1,
-                        "explanation": "Convex mirrors produce virtual, diminished, and upright images."
-                    },
-                    {
-                        "q": "What is the term for the amount of matter in an object?",
-                        "options": [
-                            "Weight",
-                            "Mass",
-                            "Volume",
-                            "Density"
-                        ],
-                        "answer": 1,
-                        "explanation": "Mass is constant regardless of location."
-                    },
-                    {
-                        "q": "Which law relates the current flow to voltage and resistance?",
-                        "options": [
-                            "Faraday's Law",
-                            "Ohm's Law",
-                            "Lenz's Law",
-                            "Coulomb's Law"
-                        ],
-                        "answer": 1,
-                        "explanation": "V = IR."
-                    },
-                    {
-                        "q": "What is the energy of motion called?",
-                        "options": [
-                            "Potential Energy",
-                            "Kinetic Energy",
-                            "Chemical Energy",
-                            "Thermal Energy"
-                        ],
-                        "answer": 1,
-                        "explanation": "K.E. = 1/2 mv2."
-                    },
-                    {
-                        "q": "Which color of light is least scattered by fog or smoke?",
-                        "options": [
-                            "Blue",
-                            "Green",
-                            "Yellow",
-                            "Red"
-                        ],
-                        "answer": 3,
-                        "explanation": "Red has the longest wavelength, making it ideal for danger signals."
-                    },
-                    {
-                        "q": "What is the time taken for one complete oscillation called?",
-                        "options": [
-                            "Frequency",
-                            "Amplitude",
-                            "Period",
-                            "Wavelength"
-                        ],
-                        "answer": 2,
-                        "explanation": "T = 1 / f."
-                    }
-                ]
-            },
-            {
-                "category": "Environmental Science",
-                "icon": "fa-leaf",
-                "questions": [
-                    {
-                        "q": "Which gas is primarily responsible for the Greenhouse Effect?",
-                        "options": [
-                            "Nitrogen",
-                            "Oxygen",
-                            "Carbon Dioxide",
-                            "Helium"
-                        ],
-                        "answer": 2,
-                        "explanation": "CO2 is the most significant long-lived greenhouse gas in Earth's atmosphere."
-                    },
-                    {
-                        "q": "What is the protective layer in the atmosphere that blocks UV rays?",
-                        "options": [
-                            "Ionosphere",
-                            "Mesosphere",
-                            "Ozone Layer",
-                            "Exosphere"
-                        ],
-                        "answer": 2,
-                        "explanation": "The ozone layer (within the stratosphere) absorbs 97-99% of the Sun's high-frequency ultraviolet light."
-                    },
-                    {
-                        "q": "World Environment Day is celebrated on?",
-                        "options": [
-                            "April 22",
-                            "June 5",
-                            "September 16",
-                            "December 1"
-                        ],
-                        "answer": 1,
-                        "explanation": "June 5 is celebrated globally to raise awareness for the protection of our environment."
-                    },
-                    {
-                        "q": "The process of cutting down forests is called?",
-                        "options": [
-                            "Afforestation",
-                            "Deforestation",
-                            "Reforestation",
-                            "Desertification"
-                        ],
-                        "answer": 1,
-                        "explanation": "Deforestation involves the permanent removal of trees to make room for something besides forest."
-                    },
-                    {
-                        "q": "Which of the following is a renewable source of energy?",
-                        "options": [
-                            "Coal",
-                            "Natural Gas",
-                            "Solar Energy",
-                            "Petroleum"
-                        ],
-                        "answer": 2,
-                        "explanation": "Solar energy is inexhaustible and naturally replenished."
-                    },
-                    {
-                        "q": "What is the primary cause of acid rain?",
-                        "options": [
-                            "CO2 buildup",
-                            "SO2 and NOx emissions",
-                            "CFCs",
-                            "Particulate matter"
-                        ],
-                        "answer": 1,
-                        "explanation": "Sulfur dioxide and nitrogen oxides react with water molecules in the atmosphere to produce acids."
-                    },
-                    {
-                        "q": "Which animal is the symbol of WWF?",
-                        "options": [
-                            "Panda",
-                            "Tiger",
-                            "Lion",
-                            "Elephant"
-                        ],
-                        "answer": 0,
-                        "explanation": "The Giant Panda has been the logo of WWF since its inception in 1961."
-                    },
-                    {
-                        "q": "CNG stands for?",
-                        "options": [
-                            "Carbonized Natural Gas",
-                            "Combined Natural Gas",
-                            "Compressed Natural Gas",
-                            "Clean Natural Gas"
-                        ],
-                        "answer": 2,
-                        "explanation": "Compressed Natural Gas is a cleaner alternative to gasoline and diesel."
-                    },
-                    {
-                        "q": "The study of the relationship between organisms and their environment is?",
-                        "options": [
-                            "Botany",
-                            "Ecology",
-                            "Zoology",
-                            "Meteorology"
-                        ],
-                        "answer": 1,
-                        "explanation": "Ecology focuses on how biotic and abiotic factors interact."
-                    },
-                    {
-                        "q": "Which protocol aims to protect the ozone layer?",
-                        "options": [
-                            "Kyoto Protocol",
-                            "Montreal Protocol",
-                            "Paris Agreement",
-                            "Cartagena Protocol"
-                        ],
-                        "answer": 1,
-                        "explanation": "The Montreal Protocol (1987) phased out the production of ozone-depleting substances like CFCs."
-                    },
-                    {
-                        "q": "What is the term for the variety of life on Earth?",
-                        "options": [
-                            "Ecology",
-                            "Biodiversity",
-                            "Biomass",
-                            "Ethology"
-                        ],
-                        "answer": 1,
-                        "explanation": "Biodiversity covers genetic, species, and ecosystem diversity."
-                    },
-                    {
-                        "q": "Which toxic gas is produced from incomplete combustion of fuel?",
-                        "options": [
-                            "CO2",
-                            "Carbon Monoxide",
-                            "Nitrogen Oxide",
-                            "Sulfur Dioxide"
-                        ],
-                        "answer": 1,
-                        "explanation": "Carbon Monoxide (CO) is a silent, odorless killer."
-                    },
-                    {
-                        "q": "Who coined the term 'Ecosystem'?",
-                        "options": [
-                            "Charles Darwin",
-                            "Arthur Tansley",
-                            "Eugene Odum",
-                            "Aristotle"
-                        ],
-                        "answer": 1,
-                        "explanation": "Sir Arthur Tansley introduced the term in 1935."
-                    },
-                    {
-                        "q": "Minamata disease is caused by which pollutant?",
-                        "options": [
-                            "Lead",
-                            "Mercury",
-                            "Cadmium",
-                            "Arsenic"
-                        ],
-                        "answer": 1,
-                        "explanation": "It was first discovered in Japan due to mercury poisoning in fish."
-                    },
-                    {
-                        "q": "What is the main source of CFCs (Chlorofluorocarbons)?",
-                        "options": [
-                            "Cars",
-                            "Industrial plants",
-                            "Refrigerators and ACs",
-                            "Deforestation"
-                        ],
-                        "answer": 2,
-                        "explanation": "CFCs were widely used as refrigerants."
-                    },
-                    {
-                        "q": "Which of the following is a bio-fertilizer?",
-                        "options": [
-                            "Urea",
-                            "Phosphate",
-                            "Rhizobium",
-                            "Nitrate"
-                        ],
-                        "answer": 2,
-                        "explanation": "Rhizobium bacteria fix nitrogen in legume roots."
-                    },
-                    {
-                        "q": "What is 'Global Warming Potential' measured against?",
-                        "options": [
-                            "Oxygen",
-                            "Carbon Dioxide",
-                            "Methane",
-                            "Water vapor"
-                        ],
-                        "answer": 1,
-                        "explanation": "CO2 is the baseline with a GWP of 1."
-                    },
-                    {
-                        "q": "The Chipko Movement was started to protect?",
-                        "options": [
-                            "Wildlife",
-                            "Rivers",
-                            "Trees",
-                            "Air"
-                        ],
-                        "answer": 2,
-                        "explanation": "It was a forest conservation movement in India where people hugged trees."
-                    },
-                    {
-                        "q": "Which layer of the atmosphere is closest to Earth?",
-                        "options": [
-                            "Stratosphere",
-                            "Exosphere",
-                            "Troposphere",
-                            "Mesosphere"
-                        ],
-                        "answer": 2,
-                        "explanation": "The troposphere contains 75% of the atmosphere's mass."
-                    },
-                    {
-                        "q": "The place where an organism lives is its?",
-                        "options": [
-                            "Niche",
-                            "Habitat",
-                            "Biome",
-                            "Community"
-                        ],
-                        "answer": 1,
-                        "explanation": "A habitat provides the necessary food, water, and shelter."
-                    },
-                    {
-                        "q": "What is 'Eutrophication' associated with?",
-                        "options": [
-                            "Air pollution",
-                            "Water pollution",
-                            "Noise pollution",
-                            "Soil erosion"
-                        ],
-                        "answer": 1,
-                        "explanation": "Excessive richness of nutrients in a lake causes dense growth of plant life."
-                    },
-                    {
-                        "q": "Which fuel is cleanest for the environment?",
-                        "options": [
-                            "Coal",
-                            "Diesel",
-                            "CNG",
-                            "Hydrogen"
-                        ],
-                        "answer": 3,
-                        "explanation": "Hydrogen produces only water when burned."
-                    },
-                    {
-                        "q": "Kyoto Protocol is focused on?",
-                        "options": [
-                            "Climate Change",
-                            "Ozone Layer",
-                            "Forests",
-                            "Endangered species"
-                        ],
-                        "answer": 0,
-                        "explanation": "It aimed to reduce greenhouse gas emissions."
-                    },
-                    {
-                        "q": "Rainwater is considered acidic when its pH falls below?",
-                        "options": [
-                            "7",
-                            "6",
-                            "5.6",
-                            "4"
-                        ],
-                        "answer": 2,
-                        "explanation": "Due to CO2 in air, normal rain is slightly acidic (pH 5.6)."
-                    },
-                    {
-                        "q": "Black Lung disease is common in?",
-                        "options": [
-                            "Farmers",
-                            "Miners",
-                            "Fishermen",
-                            "Drivers"
-                        ],
-                        "answer": 1,
-                        "explanation": "It occurs due to prolonged inhalation of coal dust."
-                    },
-                    {
-                        "q": "Which city is known as the 'Electronic City' of India?",
-                        "options": [
-                            "Mumbai",
-                            "Bengaluru",
-                            "Delhi",
-                            "Hyderabad"
-                        ],
-                        "answer": 1,
-                        "explanation": "Bengaluru is the hub of IT and electronics."
-                    },
-                    {
-                        "q": "What is the primary cause of the 'Dead Zone' in oceans?",
-                        "options": [
-                            "Oil spills",
-                            "Nutrient runoff",
-                            "Plastic pollution",
-                            "Global warming"
-                        ],
-                        "answer": 1,
-                        "explanation": "Excessive nutrients trigger algae blooms that deplete oxygen."
-                    },
-                    {
-                        "q": "Which of these is a non-biodegradable waste?",
-                        "options": [
-                            "Paper",
-                            "Plastic",
-                            "Food scraps",
-                            "Wood"
-                        ],
-                        "answer": 1,
-                        "explanation": "Plastic can take hundreds of years to decompose."
-                    },
-                    {
-                        "q": "World Water Day is observed on?",
-                        "options": [
-                            "March 22",
-                            "April 22",
-                            "May 22",
-                            "June 22"
-                        ],
-                        "answer": 0,
-                        "explanation": "Celebrated yearly to emphasize the importance of freshwater."
-                    },
-                    {
-                        "q": "Which organization maintains the 'Red Data Book'?",
-                        "options": [
-                            "WHO",
-                            "WWF",
-                            "IUCN",
-                            "UNEP"
-                        ],
-                        "answer": 2,
-                        "explanation": "The IUCN Red List tracks threatened and endangered species."
-                    },
-                    {
-                        "q": "What is the main cause of air pollution in cities?",
-                        "options": [
-                            "Agriculture",
-                            "Vehicle emissions",
-                            "Natural dust",
-                            "Volcanoes"
-                        ],
-                        "answer": 1,
-                        "explanation": "Car and bus exhausts release NOx, CO, and particulate matter."
-                    },
-                    {
-                        "q": "Which gas is known as the 'silent killer'?",
-                        "options": [
-                            "Oxygen",
-                            "Carbon Dioxide",
-                            "Carbon Monoxide",
-                            "Nitrogen"
-                        ],
-                        "answer": 2,
-                        "explanation": "CO is colorless, odorless, and highly toxic."
-                    },
-                    {
-                        "q": "What is the term for the accumulation of toxins in a food chain?",
-                        "options": [
-                            "Bioaccumulation",
-                            "Eutrophication",
-                            "Photosynthesis",
-                            "Nitrogen Fixation"
-                        ],
-                        "answer": 0,
-                        "explanation": "Toxins like mercury increase in concentration as they move up the chain."
-                    },
-                    {
-                        "q": "Which of the following is an example of a non-renewable resource?",
-                        "options": [
-                            "Wind",
-                            "Solar",
-                            "Coal",
-                            "Tidal"
-                        ],
-                        "answer": 2,
-                        "explanation": "Fossil fuels like coal take millions of years to form."
-                    },
-                    {
-                        "q": "What is the primary cause of soil erosion?",
-                        "options": [
-                            "Deforestation",
-                            "Overgrazing",
-                            "Poor farming methods",
-                            "All of these"
-                        ],
-                        "answer": 3,
-                        "explanation": "Removal of vegetation leaves soil exposed to wind and water."
-                    },
-                    {
-                        "q": "Which layer of the atmosphere contains the ozone layer?",
-                        "options": [
-                            "Troposphere",
-                            "Stratosphere",
-                            "Mesosphere",
-                            "Thermosphere"
-                        ],
-                        "answer": 1,
-                        "explanation": "The stratosphere extends from approx 10km to 50km."
-                    },
-                    {
-                        "q": "What is the main source of mercury pollution in oceans?",
-                        "options": [
-                            "Plastic waste",
-                            "Coal power plants",
-                            "Agriculture",
-                            "Oil spills"
-                        ],
-                        "answer": 1,
-                        "explanation": "Mercury is released into the air and eventually settles in water."
-                    },
-                    {
-                        "q": "Which gas is released from rice fields and landfills?",
-                        "options": [
-                            "Oxygen",
-                            "Methane",
-                            "Argon",
-                            "Helium"
-                        ],
-                        "answer": 1,
-                        "explanation": "Anaerobic decomposition produces methane (CH4)."
-                    },
-                    {
-                        "q": "What is the term for an ecosystem dominated by trees and shrubs?",
-                        "options": [
-                            "Tundra",
-                            "Desert",
-                            "Forest",
-                            "Grassland"
-                        ],
-                        "answer": 2,
-                        "explanation": "Forests cover about 31% of Earth's land area."
-                    },
-                    {
-                        "q": "Which protocol was signed in 1997 to reduce greenhouse gas emissions?",
-                        "options": [
-                            "Montreal Protocol",
-                            "Kyoto Protocol",
-                            "Basel Convention",
-                            "Vienna Convention"
-                        ],
-                        "answer": 1,
-                        "explanation": "The Kyoto Protocol focused on industrialized nations' emissions."
-                    },
-                    {
-                        "q": "What is the name for the process of converting waste into new materials?",
-                        "options": [
-                            "Reusing",
-                            "Reducing",
-                            "Recycling",
-                            "Refusing"
-                        ],
-                        "answer": 2,
-                        "explanation": "Recycling saves energy and raw materials."
-                    },
-                    {
-                        "q": "Which nutrient causes excessive algae growth in water bodies?",
-                        "options": [
-                            "Oxygen",
-                            "Phosphorus",
-                            "Iron",
-                            "Zinc"
-                        ],
-                        "answer": 1,
-                        "explanation": "Runoff containing phosphates and nitrates leads to eutrophication."
-                    },
-                    {
-                        "q": "What is the term for species that are found in only one specific area?",
-                        "options": [
-                            "Extinct",
-                            "Endangered",
-                            "Endemic",
-                            "Exotic"
-                        ],
-                        "answer": 2,
-                        "explanation": "Endemic species are at high risk if their habitat is destroyed."
-                    },
-                    {
-                        "q": "Which of the following is a major pollutant from leather tanneries?",
-                        "options": [
-                            "Common salt",
-                            "Lead",
-                            "Chromium",
-                            "Mercury"
-                        ],
-                        "answer": 2,
-                        "explanation": "Chromium is used in the tanning process and is highly toxic."
-                    },
-                    {
-                        "q": "What is the maximum limit of noise standard for residential areas in day time?",
-                        "options": [
-                            "45 dB",
-                            "55 dB",
-                            "65 dB",
-                            "75 dB"
-                        ],
-                        "answer": 1,
-                        "explanation": "WHO recommends 55 dB as a healthy limit."
-                    },
-                    {
-                        "q": "Which gas is primarily responsible for the cooling of the atmosphere after a volcanic eruption?",
-                        "options": [
-                            "CO2",
-                            "Sulfur Dioxide",
-                            "Oxygen",
-                            "Neon"
-                        ],
-                        "answer": 1,
-                        "explanation": "SO2 forms aerosols that reflect sunlight away from Earth."
-                    },
-                    {
-                        "q": "What is the term for the conversion of fertile land into desert?",
-                        "options": [
-                            "Erosion",
-                            "Desertification",
-                            "Salinization",
-                            "Irrigation"
-                        ],
-                        "answer": 1,
-                        "explanation": "Often caused by drought, deforestation, or inappropriate agriculture."
-                    },
-                    {
-                        "q": "Which of the following is a bio-indicator of air pollution?",
-                        "options": [
-                            "Mosses",
-                            "Lichens",
-                            "Liverworts",
-                            "Ferns"
-                        ],
-                        "answer": 1,
-                        "explanation": "Lichens are very sensitive to sulfur dioxide levels."
-                    },
-                    {
-                        "q": "What is the primary goal of the 'Paris Agreement'?",
-                        "options": [
-                            "Protect whales",
-                            "End poverty",
-                            "Limit global warming",
-                            "Stop plastic use"
-                        ],
-                        "answer": 2,
-                        "explanation": "Signed in 2015 to keep temperature rise well below 2°C."
-                    },
-                    {
-                        "q": "Which organization is headquarters in Gland, Switzerland?",
-                        "options": [
-                            "WHO",
-                            "UNEP",
-                            "IUCN",
-                            "UNESCO"
-                        ],
-                        "answer": 2,
-                        "explanation": "IUCN is the world's largest environmental network."
-                    },
-                    {
-                        "q": "What is the main source of noise pollution in domestic areas?",
-                        "options": [
-                            "Loudspeakers",
-                            "AC units",
-                            "Washing machines",
-                            "All of these"
-                        ],
-                        "answer": 3,
-                        "explanation": "Various household appliances contribute to noise levels."
-                    },
-                    {
-                        "q": "Which heavy metal is associated with 'Itai-itai' disease?",
-                        "options": [
-                            "Lead",
-                            "Mercury",
-                            "Cadmium",
-                            "Arsenic"
-                        ],
-                        "answer": 2,
-                        "explanation": "Cadmium poisoning causes softening of bones and kidney failure."
-                    },
-                    {
-                        "q": "What is the percentage of Oxygen in the Earth's atmosphere?",
-                        "options": [
-                            "21%",
-                            "78%",
-                            "1%",
-                            "0.03%"
-                        ],
-                        "answer": 0,
-                        "explanation": "Nitrogen is 78%, Oxygen is 21%, and other gases comprise 1%."
-                    },
-                    {
-                        "q": "Which layer of soil contains the most organic matter?",
-                        "options": [
-                            "A-horizon (Topsoil)",
-                            "B-horizon",
-                            "C-horizon",
-                            "Bedrock"
-                        ],
-                        "answer": 0,
-                        "explanation": "Topsoil is rich in humus and minerals."
-                    },
-                    {
-                        "q": "What is 'Smog' a combination of?",
-                        "options": [
-                            "Smoke and Fog",
-                            "Snow and Fog",
-                            "Smoke and Gas",
-                            "Dust and Rain"
-                        ],
-                        "answer": 0,
-                        "explanation": "Smog is a type of intense air pollution."
-                    },
-                    {
-                        "q": "Which fuel is obtained from biological materials like corn or sugarcane?",
-                        "options": [
-                            "Biogas",
-                            "Biodiesel",
-                            "Bioethanol",
-                            "Peat"
-                        ],
-                        "answer": 2,
-                        "explanation": "Bioethanol is a popular biofuel used in many countries."
-                    },
-                    {
-                        "q": "What is the term for the permanent loss of a species?",
-                        "options": [
-                            "Migration",
-                            "Evolution",
-                            "Extinction",
-                            "Adaptation"
-                        ],
-                        "answer": 2,
-                        "explanation": "Species like the Dodo are extinct forever."
-                    },
-                    {
-                        "q": "Which of these is a major cause of ocean acidification?",
-                        "options": [
-                            "Plastic",
-                            "Oil",
-                            "Carbon Dioxide",
-                            "Sewage"
-                        ],
-                        "answer": 2,
-                        "explanation": "Oceans absorb CO2, which reacts with water to form carbonic acid."
-                    },
-                    {
-                        "q": "What is 'Vermicomposting'?",
-                        "options": [
-                            "Composting with bacteria",
-                            "Composting with worms",
-                            "Chemical fertilizers",
-                            "Burning waste"
-                        ],
-                        "answer": 1,
-                        "explanation": "Earthworms are used to turn organic waste into high-quality compost."
-                    },
-                    {
-                        "q": "Which gas is used in the treatment of drinking water to kill bacteria?",
-                        "options": [
-                            "Oxygen",
-                            "Nitrogen",
-                            "Chlorine",
-                            "Fluorine"
-                        ],
-                        "answer": 2,
-                        "explanation": "Chlorination is a common and effective disinfection method."
-                    },
-                    {
-                        "q": "What is the term for the maximum population an environment can support?",
-                        "options": [
-                            "Growth curve",
-                            "Carrying capacity",
-                            "Biomass",
-                            "Niche"
-                        ],
-                        "answer": 1,
-                        "explanation": "Limited resources define the carrying capacity."
-                    },
-                    {
-                        "q": "Which international day is observed on September 16?",
-                        "options": [
-                            "Earth Day",
-                            "Water Day",
-                            "Ozone Day",
-                            "Health Day"
-                        ],
-                        "answer": 2,
-                        "explanation": "International Day for the Preservation of the Ozone Layer."
-                    },
-                    {
-                        "q": "What is the main environmental problem associated with large dams?",
-                        "options": [
-                            "Habitat loss",
-                            "Earthquakes",
-                            "Displacement of people",
-                            "All of these"
-                        ],
-                        "answer": 3,
-                        "explanation": "Dams have significant social and ecological impacts."
-                    },
-                    {
-                        "q": "Which state in India was the first to implement rainwater harvesting in all houses?",
-                        "options": [
-                            "Kerala",
-                            "Tamil Nadu",
-                            "Rajasthan",
-                            "Maharashtra"
-                        ],
-                        "answer": 1,
-                        "explanation": "Tamil Nadu made it mandatory in 2001."
-                    },
-                    {
-                        "q": "What is 'Integrated Pest Management' (IPM)?",
-                        "options": [
-                            "Using only pesticides",
-                            "Using only organic methods",
-                            "Combining different methods to control pests",
-                            "Removing all insects"
-                        ],
-                        "answer": 2,
-                        "explanation": "IPM aims for sustainable and economical pest control."
-                    },
-                    {
-                        "q": "Which gas is the byproduct of aerobic decomposition?",
-                        "options": [
-                            "Methane",
-                            "Carbon Dioxide",
-                            "Ammonia",
-                            "Hydrogen"
-                        ],
-                        "answer": 1,
-                        "explanation": "Aerobic decomposition uses oxygen and produces CO2."
-                    },
-                    {
-                        "q": "What is the main cause of the 'Aral Sea' disaster?",
-                        "options": [
-                            "Global warming",
-                            "Pollution",
-                            "Diversion of rivers for irrigation",
-                            "Nuclear testing"
-                        ],
-                        "answer": 2,
-                        "explanation": "Rivers feeding the sea were diverted for cotton farming."
-                    },
-                    {
-                        "q": "Which of the following is a biodegradable pollutant?",
-                        "options": [
-                            "Plastic",
-                            "DDT",
-                            "Domestic sewage",
-                            "Mercury"
-                        ],
-                        "answer": 2,
-                        "explanation": "Sewage can be broken down by microorganisms."
-                    },
-                    {
-                        "q": "What is the term for light pollution caused by excessive artificial light?",
-                        "options": [
-                            "Glare",
-                            "Skyglow",
-                            "Clutter",
-                            "All of these"
-                        ],
-                        "answer": 3,
-                        "explanation": "Light pollution affects wildlife and star observation."
-                    },
-                    {
-                        "q": "Which layer of the atmosphere is the coldest?",
-                        "options": [
-                            "Troposphere",
-                            "Stratosphere",
-                            "Mesosphere",
-                            "Thermosphere"
-                        ],
-                        "answer": 2,
-                        "explanation": "The mesopause is the coldest place in Earth's atmosphere."
-                    },
-                    {
-                        "q": "What is the primary goal of sustainable development?",
-                        "options": [
-                            "Meet current needs only",
-                            "Economic growth at any cost",
-                            "Meet needs without compromising future generations",
-                            "Stop all development"
-                        ],
-                        "answer": 2,
-                        "explanation": "It balances social, economic, and environmental factors."
-                    },
-                    {
-                        "q": "Which of these is a global environmental issue?",
-                        "options": [
-                            "Climate change",
-                            "Ozone depletion",
-                            "Loss of biodiversity",
-                            "All of these"
-                        ],
-                        "answer": 3,
-                        "explanation": "These issues affect the entire planet."
-                    },
-                    {
-                        "q": "What is the name of the movement started by Sunderlal Bahuguna?",
-                        "options": [
-                            "Narmada Bachao",
-                            "Chipko Movement",
-                            "Appiko Movement",
-                            "Silent Valley"
-                        ],
-                        "answer": 1,
-                        "explanation": "He was a prominent leader of the Chipko movement."
-                    },
-                    {
-                        "q": "Which gas is used as a coolant in refrigerators today (replacing CFCs)?",
-                        "options": [
-                            "Ammonia",
-                            "HCFCs / HFCs",
-                            "Nitrogen",
-                            "Oxygen"
-                        ],
-                        "answer": 1,
-                        "explanation": "HFCs have zero ODP (Ozone Depletion Potential) but high GWP."
-                    },
-                    {
-                        "q": "What is the pH of acid rain (typically)?",
-                        "options": [
-                            "7.0",
-                            "6.5",
-                            "Less than 5.6",
-                            "9.0"
-                        ],
-                        "answer": 2,
-                        "explanation": "Normal rain is 5.6; acid rain is significantly lower."
-                    },
-                    {
-                        "q": "Which continent has the largest area of tropical rainforests?",
-                        "options": [
-                            "Africa",
-                            "Asia",
-                            "South America",
-                            "Australia"
-                        ],
-                        "answer": 2,
-                        "explanation": "The Amazon rainforest covers much of South America."
-                    },
-                    {
-                        "q": "What is the term for the study of the Earth's atmosphere?",
-                        "options": [
-                            "Geology",
-                            "Meteorology",
-                            "Oceanography",
-                            "Astronomy"
-                        ],
-                        "answer": 1,
-                        "explanation": "Meteorology focuses on weather and climate."
-                    },
-                    {
-                        "q": "Which of these is a point source of water pollution?",
-                        "options": [
-                            "Agricultural runoff",
-                            "City street runoff",
-                            "A factory pipe discharging into a river",
-                            "Atmospheric deposition"
-                        ],
-                        "answer": 2,
-                        "explanation": "Point sources come from a single, identifiable location."
-                    },
-                    {
-                        "q": "What is the primary cause of coral bleaching?",
-                        "options": [
-                            "Overfishing",
-                            "Plastic pollution",
-                            "Rising ocean temperatures",
-                            "Oil spills"
-                        ],
-                        "answer": 2,
-                        "explanation": "Warmer water causes corals to expel their symbiotic algae."
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "name": "Mathematics",
         "icon": "fa-calculator",
         "subcategories": [
@@ -44369,7 +39988,7 @@ const mainQuizData =
         "icon": "fa-flask",
         "subcategories": [
             {
-                "category": "General Biology",
+                "category": "Biological Sciences",
                 "icon": "fa-dna",
                 "questions": [
                     {
@@ -44481,12 +40100,881 @@ const mainQuizData =
                         ],
                         "answer": 2,
                         "explanation": "Nitrogen constitutes about 78% of the Earth's atmosphere."
+                    },
+                    {
+                        "q": "What is the powerhouse of the cell?",
+                        "options": [
+                            "Nucleus",
+                            "Ribosome",
+                            "Mitochondria",
+                            "Golgi Apparatus"
+                        ],
+                        "answer": 2,
+                        "explanation": "Mitochondria generate most of the chemical energy needed to power the cell's biochemical reactions."
+                    },
+                    {
+                        "q": "Which pigment gives leaves their green color?",
+                        "options": [
+                            "Hemoglobin",
+                            "Chlorophyll",
+                            "Melanin",
+                            "Carotene"
+                        ],
+                        "answer": 1,
+                        "explanation": "Chlorophyll is the green pigment in plants responsible for photosynthesis."
+                    },
+                    {
+                        "q": "How many chambers are there in a human heart?",
+                        "options": [
+                            "2",
+                            "3",
+                            "4",
+                            "5"
+                        ],
+                        "answer": 2,
+                        "explanation": "The human heart consists of four chambers: two atria and two ventricles."
+                    },
+                    {
+                        "q": "What is the basic unit of life?",
+                        "options": [
+                            "Atom",
+                            "Cell",
+                            "Tissue",
+                            "Organ"
+                        ],
+                        "answer": 1,
+                        "explanation": "The cell is the smallest unit that can live on its own and that makes up all living organisms."
+                    },
+                    {
+                        "q": "Who is known as the Father of Genetics?",
+                        "options": [
+                            "Charles Darwin",
+                            "Louis Pasteur",
+                            "Gregor Mendel",
+                            "James Watson"
+                        ],
+                        "answer": 2,
+                        "explanation": "Gregor Mendel discovered the fundamental laws of inheritance through his work on pea plants."
+                    },
+                    {
+                        "q": "Which protein in red blood cells carries oxygen?",
+                        "options": [
+                            "Albumin",
+                            "Globulin",
+                            "Fibrinogen",
+                            "Hemoglobin"
+                        ],
+                        "answer": 3,
+                        "explanation": "Hemoglobin is the iron-containing oxygen-transport metalloprotein in red blood cells."
+                    },
+                    {
+                        "q": "DNA stands for?",
+                        "options": [
+                            "Deoxyribonucleic Acid",
+                            "Diribonucleic Acid",
+                            "Deoxynuclear Acid",
+                            "Dualnucleic Acid"
+                        ],
+                        "answer": 0,
+                        "explanation": "Deoxyribonucleic acid is a molecule that carries genetic instructions for living organisms."
+                    },
+                    {
+                        "q": "Which part of the brain controls balance and coordination?",
+                        "options": [
+                            "Cerebrum",
+                            "Cerebellum",
+                            "Medulla",
+                            "Thalamus"
+                        ],
+                        "answer": 1,
+                        "explanation": "The cerebellum is responsible for maintaining balance and coordinating complex movements."
+                    },
+                    {
+                        "q": "What is the longest bone in the human body?",
+                        "options": [
+                            "Humerus",
+                            "Femur",
+                            "Tibia",
+                            "Fibula"
+                        ],
+                        "answer": 1,
+                        "explanation": "The femur (thigh bone) is the longest and strongest bone in the body."
+                    },
+                    {
+                        "q": "Which organ produces insulin in the human body?",
+                        "options": [
+                            "Liver",
+                            "Kidney",
+                            "Pancreas",
+                            "Gallbladder"
+                        ],
+                        "answer": 2,
+                        "explanation": "The pancreas produces insulin to regulate blood sugar levels."
+                    },
+                    {
+                        "q": "What is the structural and functional unit of the kidney?",
+                        "options": [
+                            "Neuron",
+                            "Nephron",
+                            "Alveoli",
+                            "Capillary"
+                        ],
+                        "answer": 1,
+                        "explanation": "The nephron is responsible for filtering blood and producing urine."
+                    },
+                    {
+                        "q": "Which Vitamin deficiency causes Scurvy?",
+                        "options": [
+                            "Vitamin A",
+                            "Vitamin B",
+                            "Vitamin C",
+                            "Vitamin D"
+                        ],
+                        "answer": 2,
+                        "explanation": "Scurvy is caused by a severe lack of Vitamin C (ascorbic acid)."
+                    },
+                    {
+                        "q": "What is the most abundant protein in the human body?",
+                        "options": [
+                            "Hemoglobin",
+                            "Insulin",
+                            "Collagen",
+                            "Keratin"
+                        ],
+                        "answer": 2,
+                        "explanation": "Collagen provides structure to skin, bones, and connective tissues."
+                    },
+                    {
+                        "q": "Which blood cells help in fighting infections?",
+                        "options": [
+                            "Red Blood Cells",
+                            "White Blood Cells",
+                            "Platelets",
+                            "Plasma"
+                        ],
+                        "answer": 1,
+                        "explanation": "White blood cells (leukocytes) are part of the immune system."
+                    },
+                    {
+                        "q": "Who discovered Penicillin?",
+                        "options": [
+                            "Alexander Fleming",
+                            "Louis Pasteur",
+                            "Edward Jenner",
+                            "Robert Koch"
+                        ],
+                        "answer": 0,
+                        "explanation": "Fleming discovered the first antibiotic, penicillin, in 1928."
+                    },
+                    {
+                        "q": "What is the life span of a Red Blood Cell?",
+                        "options": [
+                            "60 days",
+                            "90 days",
+                            "120 days",
+                            "150 days"
+                        ],
+                        "answer": 2,
+                        "explanation": "RBCs typically circulate for about 120 days before being destroyed."
+                    },
+                    {
+                        "q": "Which gas is released by plants during photosynthesis?",
+                        "options": [
+                            "Carbon Dioxide",
+                            "Nitrogen",
+                            "Oxygen",
+                            "Hydrogen"
+                        ],
+                        "answer": 2,
+                        "explanation": "Plants take in CO2 and release O2 as a byproduct of photosynthesis."
+                    },
+                    {
+                        "q": "The deficiency of which element causes Goiter?",
+                        "options": [
+                            "Iron",
+                            "Calcium",
+                            "Iodine",
+                            "Sodium"
+                        ],
+                        "answer": 2,
+                        "explanation": "Iodine deficiency leads to the enlargement of the thyroid gland."
+                    },
+                    {
+                        "q": "What is the study of Fungi called?",
+                        "options": [
+                            "Phycology",
+                            "Mycology",
+                            "Zoology",
+                            "Botany"
+                        ],
+                        "answer": 1,
+                        "explanation": "Mycology is the branch of biology concerned with the study of fungi."
+                    },
+                    {
+                        "q": "How many pairs of chromosomes are there in a human cell?",
+                        "options": [
+                            "22",
+                            "23",
+                            "24",
+                            "46"
+                        ],
+                        "answer": 1,
+                        "explanation": "Humans have 46 chromosomes in total, arranged in 23 pairs."
+                    },
+                    {
+                        "q": "Which part of the brain controls breathing and heart rate?",
+                        "options": [
+                            "Cerebrum",
+                            "Cerebellum",
+                            "Medulla Oblongata",
+                            "Hypothalamus"
+                        ],
+                        "answer": 2,
+                        "explanation": "The medulla oblongata regulates vital autonomic functions."
+                    },
+                    {
+                        "q": "What is the green pigment in plants called?",
+                        "options": [
+                            "Hemoglobin",
+                            "Melanin",
+                            "Chlorophyll",
+                            "Bilirubin"
+                        ],
+                        "answer": 2,
+                        "explanation": "Chlorophyll is essential for light absorption in photosynthesis."
+                    },
+                    {
+                        "q": "Which of the following is a flightless bird?",
+                        "options": [
+                            "Penguin",
+                            "Ostrich",
+                            "Kiwi",
+                            "All of these"
+                        ],
+                        "answer": 3,
+                        "explanation": "Penguins, Ostriches, and Kiwis are all birds that cannot fly."
+                    },
+                    {
+                        "q": "Where does the process of digestion begin in humans?",
+                        "options": [
+                            "Stomach",
+                            "Small Intestine",
+                            "Mouth",
+                            "Esophagus"
+                        ],
+                        "answer": 2,
+                        "explanation": "Digestion starts in the mouth with the breakdown of food by saliva and teeth."
+                    },
+                    {
+                        "q": "What is the name of the fluid part of blood?",
+                        "options": [
+                            "Hemoglobin",
+                            "Plasma",
+                            "Serum",
+                            "Platelet"
+                        ],
+                        "answer": 1,
+                        "explanation": "Plasma makes up about 55% of the total blood volume."
+                    },
+                    {
+                        "q": "Which acid is found in Ants?",
+                        "options": [
+                            "Citric Acid",
+                            "Formic Acid",
+                            "Lactic Acid",
+                            "Maleic Acid"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ants release formic acid as a defense mechanism and communication signal."
+                    },
+                    {
+                        "q": "The pollination of plants by wind is called?",
+                        "options": [
+                            "Anemophily",
+                            "Entomophily",
+                            "Hydrophily",
+                            "Ornithophily"
+                        ],
+                        "answer": 0,
+                        "explanation": "Anemophily is a form of pollination where pollen is distributed by wind."
+                    },
+                    {
+                        "q": "What is the average weight of an adult human brain?",
+                        "options": [
+                            "1 kg",
+                            "1.4 kg",
+                            "2 kg",
+                            "0.8 kg"
+                        ],
+                        "answer": 1,
+                        "explanation": "Most adult brains weigh between 1.3 and 1.5 kilograms."
+                    },
+                    {
+                        "q": "Which Vitamin is known as 'Calciferol'?",
+                        "options": [
+                            "Vitamin A",
+                            "Vitamin C",
+                            "Vitamin D",
+                            "Vitamin E"
+                        ],
+                        "answer": 2,
+                        "explanation": "Vitamin D refers to a group of fat-soluble secosteroids, mainly Vitamin D3 (cholecalciferol)."
+                    },
+                    {
+                        "q": "The plants which grow in dry habitats are called?",
+                        "options": [
+                            "Hydrophytes",
+                            "Xerophytes",
+                            "Mesophytes",
+                            "Heliophytes"
+                        ],
+                        "answer": 1,
+                        "explanation": "Xerophytes (like cactus) are adapted to survive in environments with little liquid water."
+                    },
+                    {
+                        "q": "What is the largest part of the human brain?",
+                        "options": [
+                            "Cerebellum",
+                            "Cerebrum",
+                            "Medulla",
+                            "Thalamus"
+                        ],
+                        "answer": 1,
+                        "explanation": "The cerebrum is responsible for complex functions like thinking and memory."
+                    },
+                    {
+                        "q": "Which vitamin is synthesized in the skin by UV light?",
+                        "options": [
+                            "Vitamin A",
+                            "Vitamin B",
+                            "Vitamin C",
+                            "Vitamin D"
+                        ],
+                        "answer": 3,
+                        "explanation": "Vitamin D is known as the 'sunshine vitamin'."
+                    },
+                    {
+                        "q": "What is the main function of red blood cells?",
+                        "options": [
+                            "Fight infection",
+                            "Carry oxygen",
+                            "Clot blood",
+                            "Regulate temperature"
+                        ],
+                        "answer": 1,
+                        "explanation": "Hemoglobin in RBCs binds to oxygen for transport."
+                    },
+                    {
+                        "q": "Which hormone is known as the 'fight or flight' hormone?",
+                        "options": [
+                            "Insulin",
+                            "Thyroxine",
+                            "Adrenaline",
+                            "Estrogen"
+                        ],
+                        "answer": 2,
+                        "explanation": "Adrenaline prepares the body for sudden action."
+                    },
+                    {
+                        "q": "What is the term for animals that eat both plants and meat?",
+                        "options": [
+                            "Herbivores",
+                            "Carnivores",
+                            "Omnivores",
+                            "Insectivores"
+                        ],
+                        "answer": 2,
+                        "explanation": "Humans and bears are examples of omnivores."
+                    },
+                    {
+                        "q": "Which part of the plant absorbs water and minerals?",
+                        "options": [
+                            "Leaves",
+                            "Stem",
+                            "Roots",
+                            "Flowers"
+                        ],
+                        "answer": 2,
+                        "explanation": "Roots anchor the plant and draw nutrients from the soil."
+                    },
+                    {
+                        "q": "How many bones are in an adult human body?",
+                        "options": [
+                            "206",
+                            "300",
+                            "250",
+                            "150"
+                        ],
+                        "answer": 0,
+                        "explanation": "Adults have 206 bones; infants have around 270-300."
+                    },
+                    {
+                        "q": "What is the smallest unit of heredity?",
+                        "options": [
+                            "Cell",
+                            "Gene",
+                            "Chromosome",
+                            "Nucleus"
+                        ],
+                        "answer": 1,
+                        "explanation": "Genes are segments of DNA that contain instructions."
+                    },
+                    {
+                        "q": "Which organ stores bile?",
+                        "options": [
+                            "Liver",
+                            "Gallbladder",
+                            "Pancreas",
+                            "Stomach"
+                        ],
+                        "answer": 1,
+                        "explanation": "Bile is produced by the liver and stored in the gallbladder."
+                    },
+                    {
+                        "q": "What is the name of the process by which a caterpillar becomes a butterfly?",
+                        "options": [
+                            "Photosynthesis",
+                            "Metamorphosis",
+                            "Mutation",
+                            "Respiration"
+                        ],
+                        "answer": 1,
+                        "explanation": "Metamorphosis describes the transformation in an insect's life cycle."
+                    },
+                    {
+                        "q": "Which gas is used by plants for respiration?",
+                        "options": [
+                            "Oxygen",
+                            "Carbon Dioxide",
+                            "Nitrogen",
+                            "Hydrogen"
+                        ],
+                        "answer": 0,
+                        "explanation": "Plants, like animals, use oxygen for cellular respiration."
+                    },
+                    {
+                        "q": "What is the pigment that gives human skin its color?",
+                        "options": [
+                            "Chlorophyll",
+                            "Melanin",
+                            "Hemoglobin",
+                            "Carotene"
+                        ],
+                        "answer": 1,
+                        "explanation": "Melanin protects the skin from UV radiation."
+                    },
+                    {
+                        "q": "Which organ system is responsible for removing waste?",
+                        "options": [
+                            "Digestive",
+                            "Circulatory",
+                            "Excretory",
+                            "Nervous"
+                        ],
+                        "answer": 2,
+                        "explanation": "The excretory system includes kidneys, lungs, and skin."
+                    },
+                    {
+                        "q": "What is the common name for the larynx?",
+                        "options": [
+                            "Windpipe",
+                            "Voice box",
+                            "Throat",
+                            "Eardrum"
+                        ],
+                        "answer": 1,
+                        "explanation": "The larynx produces sound."
+                    },
+                    {
+                        "q": "Which vertebrate group has moist skin and no scales?",
+                        "options": [
+                            "Fish",
+                            "Reptiles",
+                            "Amphibians",
+                            "Birds"
+                        ],
+                        "answer": 2,
+                        "explanation": "Frogs and salamanders are amphibians."
+                    },
+                    {
+                        "q": "What is the process of cell division called?",
+                        "options": [
+                            "Mitosis",
+                            "Fission",
+                            "Fusion",
+                            "Osmosis"
+                        ],
+                        "answer": 0,
+                        "explanation": "Mitosis results in two identical daughter cells."
+                    },
+                    {
+                        "q": "Which Vitamin prevents Night Blindness?",
+                        "options": [
+                            "Vitamin A",
+                            "Vitamin B",
+                            "Vitamin C",
+                            "Vitamin D"
+                        ],
+                        "answer": 0,
+                        "explanation": "Vitamin A is essential for the retina's health."
+                    },
+                    {
+                        "q": "What is the study of plants called?",
+                        "options": [
+                            "Zoology",
+                            "Botany",
+                            "Microbiology",
+                            "Ecology"
+                        ],
+                        "answer": 1,
+                        "explanation": "Botany is the scientific study of plant life."
+                    },
+                    {
+                        "q": "Which muscle is the strongest in the human body (based on weight)?",
+                        "options": [
+                            "Heart",
+                            "Masseter (Jaw)",
+                            "Gluteus Maximus",
+                            "Tongue"
+                        ],
+                        "answer": 1,
+                        "explanation": "The masseter can exert the most force relative to its size."
+                    },
+                    {
+                        "q": "What is the protective outer layer of a tree called?",
+                        "options": [
+                            "Stem",
+                            "Leaf",
+                            "Bark",
+                            "Root"
+                        ],
+                        "answer": 2,
+                        "explanation": "Bark protects the inner tissues of the tree."
+                    },
+                    {
+                        "q": "Which part of the blood helps it to clot?",
+                        "options": [
+                            "Plasma",
+                            "Red Blood Cells",
+                            "White Blood Cells",
+                            "Platelets"
+                        ],
+                        "answer": 3,
+                        "explanation": "Platelets aggregate at injury sites to stop bleeding."
+                    },
+                    {
+                        "q": "What is the name of the jelly-like substance inside a cell?",
+                        "options": [
+                            "Nucleus",
+                            "Wall",
+                            "Cytoplasm",
+                            "Membrane"
+                        ],
+                        "answer": 2,
+                        "explanation": "Cytoplasm fills the cell and holds organelles."
+                    },
+                    {
+                        "q": "Which organ is used by fish to breathe?",
+                        "options": [
+                            "Lungs",
+                            "Skin",
+                            "Gills",
+                            "Scale"
+                        ],
+                        "answer": 2,
+                        "explanation": "Gills extract dissolved oxygen from water."
+                    },
+                    {
+                        "q": "What is the scientific term for the study of insects?",
+                        "options": [
+                            "Ornithology",
+                            "Entomology",
+                            "Ichthyology",
+                            "Herpetology"
+                        ],
+                        "answer": 1,
+                        "explanation": "Entomology is a branch of zoology."
+                    },
+                    {
+                        "q": "Which bird is often used as a symbol of peace?",
+                        "options": [
+                            "Eagle",
+                            "Dove",
+                            "Raven",
+                            "Owl"
+                        ],
+                        "answer": 1,
+                        "explanation": "The dove is a universal symbol of peace and hope."
+                    },
+                    {
+                        "q": "What is the chemical released by the pancreas to lower blood sugar?",
+                        "options": [
+                            "Adrenaline",
+                            "Thyroxine",
+                            "Insulin",
+                            "Glucagon"
+                        ],
+                        "answer": 2,
+                        "explanation": "Insulin tells cells to take in glucose."
+                    },
+                    {
+                        "q": "Which system controls all other systems in the body?",
+                        "options": [
+                            "Circulatory",
+                            "Nervous",
+                            "Reproductive",
+                            "Skeletal"
+                        ],
+                        "answer": 1,
+                        "explanation": "The nervous system processes and coordinates information."
+                    },
+                    {
+                        "q": "What is the term for an animal that eats only plants?",
+                        "options": [
+                            "Carnivore",
+                            "Herbivore",
+                            "Omnivore",
+                            "Parasite"
+                        ],
+                        "answer": 1,
+                        "explanation": "Cows and rabbits are herbivores."
+                    },
+                    {
+                        "q": "Which organ filters the air we breathe?",
+                        "options": [
+                            "Heart",
+                            "Lungs",
+                            "Stomach",
+                            "Nose"
+                        ],
+                        "answer": 1,
+                        "explanation": "Lungs exchange oxygen and carbon dioxide."
+                    },
+                    {
+                        "q": "What is the name of the liquid that flows through plants?",
+                        "options": [
+                            "Blood",
+                            "Sap",
+                            "Water",
+                            "Milk"
+                        ],
+                        "answer": 1,
+                        "explanation": "Sap transports sugar and minerals."
+                    },
+                    {
+                        "q": "Which part of the cell contains the genetic material?",
+                        "options": [
+                            "Mitochondria",
+                            "Nucleus",
+                            "Ribosome",
+                            "Cell wall"
+                        ],
+                        "answer": 1,
+                        "explanation": "The nucleus is the control center."
+                    },
+                    {
+                        "q": "What is the process called by which honeybees communicate the location of flowers?",
+                        "options": [
+                            "Buzzing",
+                            "Waggle dance",
+                            "Stinging",
+                            "Sleeping"
+                        ],
+                        "answer": 1,
+                        "explanation": "Bees use a complex dance to share directions."
+                    },
+                    {
+                        "q": "Which mammal can truly fly?",
+                        "options": [
+                            "Flying squirrel",
+                            "Bat",
+                            "Penguin",
+                            "Sugar glider"
+                        ],
+                        "answer": 1,
+                        "explanation": "Bats are the only mammals with powered flight."
+                    },
+                    {
+                        "q": "What is the name of the white part of the eye?",
+                        "options": [
+                            "Pupil",
+                            "Iris",
+                            "Sclera",
+                            "Lens"
+                        ],
+                        "answer": 2,
+                        "explanation": "The sclera is the tough outer coat."
+                    },
+                    {
+                        "q": "Which organ produces the sound of your voice?",
+                        "options": [
+                            "Mouth",
+                            "Nose",
+                            "Larynx",
+                            "Pharynx"
+                        ],
+                        "answer": 2,
+                        "explanation": "The larynx contains the vocal cords."
+                    },
+                    {
+                        "q": "What is the main function of the kidneys?",
+                        "options": [
+                            "Pump blood",
+                            "Digest food",
+                            "Filter waste from blood",
+                            "Store oxygen"
+                        ],
+                        "answer": 2,
+                        "explanation": "Kidneys produce urine as a waste product."
+                    },
+                    {
+                        "q": "Which vitamin is found in abundance in carrots?",
+                        "options": [
+                            "Vitamin A",
+                            "Vitamin C",
+                            "Vitamin D",
+                            "Vitamin E"
+                        ],
+                        "answer": 0,
+                        "explanation": "Carrots are rich in beta-carotene, which becomes Vitamin A."
+                    },
+                    {
+                        "q": "What is the largest land animal currently alive?",
+                        "options": [
+                            "Blue Whale",
+                            "African Elephant",
+                            "Giraffe",
+                            "Hippopotamus"
+                        ],
+                        "answer": 1,
+                        "explanation": "The African Elephant is the largest on land."
+                    },
+                    {
+                        "q": "Which part of the brain is responsible for high-level thinking?",
+                        "options": [
+                            "Medulla",
+                            "Brainstem",
+                            "Cerebral Cortex",
+                            "Spinal Cord"
+                        ],
+                        "answer": 2,
+                        "explanation": "The cortex is the outer layer of the cerebrum."
+                    },
+                    {
+                        "q": "What is the process of seeds growing into plants called?",
+                        "options": [
+                            "Pollination",
+                            "Germination",
+                            "Fertilization",
+                            "Dispersion"
+                        ],
+                        "answer": 1,
+                        "explanation": "Germination is the start of growth."
+                    },
+                    {
+                        "q": "Which type of blood vessel is the thinnest?",
+                        "options": [
+                            "Artery",
+                            "Vein",
+                            "Capillary",
+                            "Aorta"
+                        ],
+                        "answer": 2,
+                        "explanation": "Capillaries allow for exchange between blood and cells."
+                    },
+                    {
+                        "q": "What is the prefix 'bio-' related to?",
+                        "options": [
+                            "Death",
+                            "Earth",
+                            "Life",
+                            "Water"
+                        ],
+                        "answer": 2,
+                        "explanation": "Biology is the study of life."
+                    },
+                    {
+                        "q": "Which organ system helps you move?",
+                        "options": [
+                            "Skeletal",
+                            "Muscular",
+                            "Both A and B",
+                            "Neither"
+                        ],
+                        "answer": 2,
+                        "explanation": "Muscles pull on bones to create movement."
+                    },
+                    {
+                        "q": "What is the name of the light-sensitive layer at the back of the eye?",
+                        "options": [
+                            "Cornea",
+                            "Retina",
+                            "Iris",
+                            "Lens"
+                        ],
+                        "answer": 1,
+                        "explanation": "The retina converts light into electrical signals."
+                    },
+                    {
+                        "q": "Which animal group has cold-blooded bodies and scaly skin?",
+                        "options": [
+                            "Mammals",
+                            "Birds",
+                            "Amphibians",
+                            "Reptiles"
+                        ],
+                        "answer": 3,
+                        "explanation": "Snakes and lizards are reptiles."
+                    },
+                    {
+                        "q": "What is the substance that makes plants stand upright?",
+                        "options": [
+                            "Water",
+                            "Cellulose",
+                            "Chlorophyll",
+                            "Iron"
+                        ],
+                        "answer": 1,
+                        "explanation": "Cellulose provides structure in cell walls."
+                    },
+                    {
+                        "q": "Which organ system carries oxygen and nutrients around the body?",
+                        "options": [
+                            "Digestive",
+                            "Circulatory",
+                            "Respiratory",
+                            "Endocrine"
+                        ],
+                        "answer": 1,
+                        "explanation": "It includes the heart and blood vessels."
+                    },
+                    {
+                        "q": "What is the study of fossils called?",
+                        "options": [
+                            "Geology",
+                            "Archaeology",
+                            "Paleontology",
+                            "Mythology"
+                        ],
+                        "answer": 2,
+                        "explanation": "Paleontology studies life in past geological ages."
+                    },
+                    {
+                        "q": "Which hormone controls the sleep-wake cycle?",
+                        "options": [
+                            "Insulin",
+                            "Melatonin",
+                            "Thyroxine",
+                            "Progesterone"
+                        ],
+                        "answer": 1,
+                        "explanation": "Melatonin is produced by the pineal gland."
                     }
                 ]
             },
             {
-                "category": "Physics Basics",
-                "icon": "fa-magnet",
+                "category": "Physical Sciences",
+                "icon": "fa-atom",
                 "questions": [
                     {
                         "q": "What is the SI unit of Force?",
@@ -44599,6 +41087,5742 @@ const mainQuizData =
                         "explanation": "Potential energy is the hidden energy in an object because of its position or state."
                     }
                 ]
+            },
+            {
+                "category": "Food Sciences & Nutrition",
+                "icon": "fa-apple-whole",
+                "questions": [
+                    {
+                        "q": "Which vitamin is obtained from Sunlight?",
+                        "options": [
+                            "Vitamin A",
+                            "Vitamin B",
+                            "Vitamin C",
+                            "Vitamin D"
+                        ],
+                        "answer": 3,
+                        "explanation": "Vitamin D is synthesized in the skin when exposed to ultraviolet B (UVB) rays from sunlight."
+                    },
+                    {
+                        "q": "What is the largest organ of the human body?",
+                        "options": [
+                            "Liver",
+                            "Brain",
+                            "Skin",
+                            "Lungs"
+                        ],
+                        "answer": 2,
+                        "explanation": "The skin is the body's largest organ, covering the entire external surface."
+                    },
+                    {
+                        "q": "Which gas is most abundant in the Earth's atmosphere?",
+                        "options": [
+                            "Oxygen",
+                            "Carbon Dioxide",
+                            "Nitrogen",
+                            "Hydrogen"
+                        ],
+                        "answer": 2,
+                        "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere."
+                    },
+                    {
+                        "q": "What is the chemical name for common table salt?",
+                        "options": [
+                            "Sodium Carbonate",
+                            "Sodium Chloride",
+                            "Potassium Chloride",
+                            "Calcium Chloride"
+                        ],
+                        "answer": 1,
+                        "explanation": "Table salt is Sodium Chloride (NaCl)."
+                    },
+                    {
+                        "q": "Which planet is known as the Red Planet?",
+                        "options": [
+                            "Venus",
+                            "Mars",
+                            "Jupiter",
+                            "Saturn"
+                        ],
+                        "answer": 1,
+                        "explanation": "Mars is known as the Red Planet due to the iron oxide (rust) on its surface."
+                    },
+                    {
+                        "q": "What is the speed of light in a vacuum?",
+                        "options": [
+                            "150,000 km/s",
+                            "299,792 km/s",
+                            "350,000 km/s",
+                            "400,000 km/s"
+                        ],
+                        "answer": 1,
+                        "explanation": "Light travels at approximately 300,000 km/s in a vacuum."
+                    },
+                    {
+                        "q": "Which instrument is used to measure earthquake intensity?",
+                        "options": [
+                            "Barometer",
+                            "Hygrometer",
+                            "Seismograph",
+                            "Anemometer"
+                        ],
+                        "answer": 2,
+                        "explanation": "A seismograph records the shaking of the Earth's surface caused by seismic waves."
+                    },
+                    {
+                        "q": "What is the boiling point of water at sea level?",
+                        "options": [
+                            "90°C",
+                            "100°C",
+                            "110°C",
+                            "120°C"
+                        ],
+                        "answer": 1,
+                        "explanation": "At standard atmospheric pressure, water boils at 100°C."
+                    },
+                    {
+                        "q": "Which blood group is known as the universal donor?",
+                        "options": [
+                            "A+",
+                            "B+",
+                            "AB+",
+                            "O-"
+                        ],
+                        "answer": 3,
+                        "explanation": "O negative blood can be given to patients of any blood type in emergencies."
+                    },
+                    {
+                        "q": "Dry ice is the solid form of which gas?",
+                        "options": [
+                            "Carbon Monoxide",
+                            "Nitrogen",
+                            "Carbon Dioxide",
+                            "Hydrogen"
+                        ],
+                        "answer": 2,
+                        "explanation": "Dry ice is solid Carbon Dioxide (CO2)."
+                    },
+                    {
+                        "q": "What is the hardest natural substance on Earth?",
+                        "options": [
+                            "Gold",
+                            "Iron",
+                            "Diamond",
+                            "Graphite"
+                        ],
+                        "answer": 2,
+                        "explanation": "Diamond is the hardest known natural material."
+                    },
+                    {
+                        "q": "Which part of the plant conducts photosynthesis?",
+                        "options": [
+                            "Root",
+                            "Stem",
+                            "Leaf",
+                            "Flower"
+                        ],
+                        "answer": 2,
+                        "explanation": "Leaves contain chlorophyll and are the primary site for photosynthesis."
+                    },
+                    {
+                        "q": "What is the power source for the solar system?",
+                        "options": [
+                            "Earth",
+                            "Jupiter",
+                            "Sun",
+                            "Mars"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Sun provides energy to all planets in the solar system."
+                    },
+                    {
+                        "q": "Which gas do plants absorb from the atmosphere?",
+                        "options": [
+                            "Oxygen",
+                            "Carbon Dioxide",
+                            "Nitrogen",
+                            "Hydrogen"
+                        ],
+                        "answer": 1,
+                        "explanation": "Plants take in CO2 for photosynthesis and release oxygen."
+                    },
+                    {
+                        "q": "What is the normal human body temperature in Celsius?",
+                        "options": [
+                            "35°C",
+                            "37°C",
+                            "39°C",
+                            "41°C"
+                        ],
+                        "answer": 1,
+                        "explanation": "The average normal body temperature is generally accepted as 37°C (98.6°F)."
+                    },
+                    {
+                        "q": "Which fossil fuel is known as 'Black Gold'?",
+                        "options": [
+                            "Coal",
+                            "Natural Gas",
+                            "Petroleum",
+                            "Uranium"
+                        ],
+                        "answer": 2,
+                        "explanation": "Petroleum is called black gold due to its high value in the global economy."
+                    },
+                    {
+                        "q": "What is the main component of natural gas?",
+                        "options": [
+                            "Ethane",
+                            "Methane",
+                            "Propane",
+                            "Butane"
+                        ],
+                        "answer": 1,
+                        "explanation": "Methane (CH4) typically makes up 70-90% of natural gas."
+                    },
+                    {
+                        "q": "Which vitamin is essential for blood clotting?",
+                        "options": [
+                            "Vitamin A",
+                            "Vitamin C",
+                            "Vitamin D",
+                            "Vitamin K"
+                        ],
+                        "answer": 3,
+                        "explanation": "Vitamin K is a key factor in the coagulation (clotting) of blood."
+                    },
+                    {
+                        "q": "What is the chemical symbol for Iron?",
+                        "options": [
+                            "Ir",
+                            "In",
+                            "Fe",
+                            "I"
+                        ],
+                        "answer": 2,
+                        "explanation": "Fe comes from the Latin word for iron, 'Ferrum'."
+                    },
+                    {
+                        "q": "Which instrument is used to measure atmospheric pressure?",
+                        "options": [
+                            "Thermometer",
+                            "Barometer",
+                            "Seismograph",
+                            "Hydrometer"
+                        ],
+                        "answer": 1,
+                        "explanation": "A barometer measures the pressure exerted by the atmosphere."
+                    },
+                    {
+                        "q": "What is the percentage of water on Earth's surface?",
+                        "options": [
+                            "50%",
+                            "60%",
+                            "71%",
+                            "85%"
+                        ],
+                        "answer": 2,
+                        "explanation": "Water covers approximately 71% of the Earth's surface."
+                    },
+                    {
+                        "q": "Which layer of the atmosphere contains the clouds?",
+                        "options": [
+                            "Troposphere",
+                            "Stratosphere",
+                            "Mesosphere",
+                            "Thermosphere"
+                        ],
+                        "answer": 0,
+                        "explanation": "Most weather phenomena, including clouds, occur in the troposphere."
+                    },
+                    {
+                        "q": "Who is credited with the invention of the light bulb?",
+                        "options": [
+                            "Alexander Graham Bell",
+                            "Thomas Edison",
+                            "Nikola Tesla",
+                            "Albert Einstein"
+                        ],
+                        "answer": 1,
+                        "explanation": "Thomas Edison developed the first commercially practical incandescent light."
+                    },
+                    {
+                        "q": "What is the process of water changing into water vapor called?",
+                        "options": [
+                            "Condensation",
+                            "Precipitation",
+                            "Evaporation",
+                            "Freezing"
+                        ],
+                        "answer": 2,
+                        "explanation": "Evaporation is the phase transition from liquid to gas."
+                    },
+                    {
+                        "q": "Which metal is the best conductor of electricity?",
+                        "options": [
+                            "Copper",
+                            "Gold",
+                            "Silver",
+                            "Aluminum"
+                        ],
+                        "answer": 2,
+                        "explanation": "Silver has the highest electrical conductivity of all metals."
+                    },
+                    {
+                        "q": "What is the primary gas found in the Sun?",
+                        "options": [
+                            "Helium",
+                            "Hydrogen",
+                            "Oxygen",
+                            "Nitrogen"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Sun is composed of roughly 73% hydrogen and 25% helium."
+                    },
+                    {
+                        "q": "What is the smallest unit of an element?",
+                        "options": [
+                            "Cell",
+                            "Atom",
+                            "Molecule",
+                            "Electron"
+                        ],
+                        "answer": 1,
+                        "explanation": "An atom is the smallest particle of an element that retains its chemical properties."
+                    },
+                    {
+                        "q": "Which part of the human eye is responsible for color vision?",
+                        "options": [
+                            "Cornea",
+                            "Retina",
+                            "Cones",
+                            "Rods"
+                        ],
+                        "answer": 2,
+                        "explanation": "Cones are photoreceptor cells in the retina that perceive color."
+                    },
+                    {
+                        "q": "What causes the change of seasons on Earth?",
+                        "options": [
+                            "Earth's rotation",
+                            "Earth's tilt and orbit",
+                            "Distance from Sun",
+                            "Moon's phase"
+                        ],
+                        "answer": 1,
+                        "explanation": "The tilt of the Earth's axis as it revolves around the sun causes seasonal variations."
+                    },
+                    {
+                        "q": "Which acid is found in the human stomach?",
+                        "options": [
+                            "Sulfuric Acid",
+                            "Hydrochloric Acid",
+                            "Nitric Acid",
+                            "Acetic Acid"
+                        ],
+                        "answer": 1,
+                        "explanation": "HCl helps in digestion and kills bacteria in the stomach."
+                    },
+                    {
+                        "q": "What is the primary function of white blood cells?",
+                        "options": [
+                            "To carry oxygen",
+                            "To fight infections",
+                            "To help in clotting",
+                            "To give color to blood"
+                        ],
+                        "answer": 1,
+                        "explanation": "WBCs are a key part of the immune system."
+                    },
+                    {
+                        "q": "Which planet is the closest to the Sun?",
+                        "options": [
+                            "Venus",
+                            "Mars",
+                            "Mercury",
+                            "Earth"
+                        ],
+                        "answer": 2,
+                        "explanation": "Mercury is the innermost planet in the solar system."
+                    },
+                    {
+                        "q": "What is the main source of vitamin C?",
+                        "options": [
+                            "Meat",
+                            "Dairy",
+                            "Citrus fruits",
+                            "Grains"
+                        ],
+                        "answer": 2,
+                        "explanation": "Lemons, oranges, and grapefruits are excellent sources."
+                    },
+                    {
+                        "q": "Which gas is used in electric bulbs?",
+                        "options": [
+                            "Oxygen",
+                            "Nitrogen",
+                            "Argon",
+                            "Hydrogen"
+                        ],
+                        "answer": 2,
+                        "explanation": "Argon is often used to prevent the filament from oxidizing."
+                    },
+                    {
+                        "q": "What is the freezing point of water in Fahrenheit?",
+                        "options": [
+                            "0°F",
+                            "32°F",
+                            "100°F",
+                            "212°F"
+                        ],
+                        "answer": 1,
+                        "explanation": "Water freezes at 0°C or 32°F."
+                    },
+                    {
+                        "q": "Which organ filters blood in the human body?",
+                        "options": [
+                            "Heart",
+                            "Lungs",
+                            "Kidneys",
+                            "Liver"
+                        ],
+                        "answer": 2,
+                        "explanation": "Kidneys remove waste products from the blood."
+                    },
+                    {
+                        "q": "What is the center of an atom called?",
+                        "options": [
+                            "Electron",
+                            "Proton",
+                            "Neutron",
+                            "Nucleus"
+                        ],
+                        "answer": 3,
+                        "explanation": "The nucleus contains protons and neutrons."
+                    },
+                    {
+                        "q": "Which instrument measures humidity?",
+                        "options": [
+                            "Barometer",
+                            "Thermometer",
+                            "Hygrometer",
+                            "Anemometer"
+                        ],
+                        "answer": 2,
+                        "explanation": "A hygrometer is used to measure the moisture content in the air."
+                    },
+                    {
+                        "q": "What is the chemical symbol for Gold?",
+                        "options": [
+                            "Gd",
+                            "Ag",
+                            "Au",
+                            "Fe"
+                        ],
+                        "answer": 2,
+                        "explanation": "Au is from the Latin name 'Aurum'."
+                    },
+                    {
+                        "q": "Which gas is released during photosynthesis?",
+                        "options": [
+                            "Carbon Dioxide",
+                            "Oxygen",
+                            "Nitrogen",
+                            "Methane"
+                        ],
+                        "answer": 1,
+                        "explanation": "Plants take in CO2 and release O2."
+                    },
+                    {
+                        "q": "What is the hardest substance in the human body?",
+                        "options": [
+                            "Bone",
+                            "Muscle",
+                            "Enamel",
+                            "Cartilage"
+                        ],
+                        "answer": 2,
+                        "explanation": "Tooth enamel is the hardest and most highly mineralized substance."
+                    },
+                    {
+                        "q": "Which part of the eye determines its color?",
+                        "options": [
+                            "Pupil",
+                            "Cornea",
+                            "Iris",
+                            "Retina"
+                        ],
+                        "answer": 2,
+                        "explanation": "The iris is the colored part of the eye."
+                    },
+                    {
+                        "q": "What is the gravitational pull of the Moon compared to Earth?",
+                        "options": [
+                            "Same",
+                            "1/2",
+                            "1/6",
+                            "1/10"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Moon's gravity is about 16.6% of Earth's."
+                    },
+                    {
+                        "q": "Which planet is nicknamed the 'Blue Planet'?",
+                        "options": [
+                            "Earth",
+                            "Neptune",
+                            "Uranus",
+                            "Venus"
+                        ],
+                        "answer": 0,
+                        "explanation": "Earth looks blue from space due to its oceans."
+                    },
+                    {
+                        "q": "What is the primary function of the large intestine?",
+                        "options": [
+                            "Digestion",
+                            "Absorption of water",
+                            "Pumping blood",
+                            "Breathing"
+                        ],
+                        "answer": 1,
+                        "explanation": "The large intestine absorbs water and forms solid waste."
+                    },
+                    {
+                        "q": "Which gas is known as 'Laughing Gas'?",
+                        "options": [
+                            "Nitrogen",
+                            "Nitrous Oxide",
+                            "Carbon Monoxide",
+                            "Helium"
+                        ],
+                        "answer": 1,
+                        "explanation": "Nitrous oxide has anesthetic and euphoric effects."
+                    },
+                    {
+                        "q": "What is the SI unit of power?",
+                        "options": [
+                            "Joule",
+                            "Newton",
+                            "Watt",
+                            "Pascal"
+                        ],
+                        "answer": 2,
+                        "explanation": "One watt is equal to one joule per second."
+                    },
+                    {
+                        "q": "Which vitamin is also known as Retinol?",
+                        "options": [
+                            "Vitamin A",
+                            "Vitamin B",
+                            "Vitamin C",
+                            "Vitamin D"
+                        ],
+                        "answer": 0,
+                        "explanation": "Vitamin A is essential for vision and skin health."
+                    },
+                    {
+                        "q": "What is the largest cell in the human body?",
+                        "options": [
+                            "Sperm",
+                            "Nerve cell",
+                            "Egg cell (Ovum)",
+                            "Red blood cell"
+                        ],
+                        "answer": 2,
+                        "explanation": "The female egg cell is the largest human cell."
+                    },
+                    {
+                        "q": "Which metal is the best conductor of electricity?",
+                        "options": [
+                            "Copper",
+                            "Silver",
+                            "Gold",
+                            "Aluminum"
+                        ],
+                        "answer": 1,
+                        "explanation": "Silver has the highest electrical conductivity of all metals."
+                    },
+                    {
+                        "q": "What is the study of birds called?",
+                        "options": [
+                            "Zoology",
+                            "Ornithology",
+                            "Entomology",
+                            "Botany"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ornithology is a branch of zoology."
+                    },
+                    {
+                        "q": "Which gas is used for welding?",
+                        "options": [
+                            "Oxygen",
+                            "Acetylene",
+                            "Methane",
+                            "Argon"
+                        ],
+                        "answer": 1,
+                        "explanation": "Oxy-acetylene welding is a common industrial technique."
+                    },
+                    {
+                        "q": "What is the distance between the Earth and the Sun called?",
+                        "options": [
+                            "Light year",
+                            "Astronomical Unit (AU)",
+                            "Parsec",
+                            "Kilometer"
+                        ],
+                        "answer": 1,
+                        "explanation": "1 AU is approximately 150 million km."
+                    },
+                    {
+                        "q": "Which organ produces bile?",
+                        "options": [
+                            "Stomach",
+                            "Pancreas",
+                            "Gallbladder",
+                            "Liver"
+                        ],
+                        "answer": 3,
+                        "explanation": "The liver produces bile, which is stored in the gallbladder."
+                    },
+                    {
+                        "q": "What is the lifespan of a white blood cell (approx)?",
+                        "options": [
+                            "120 days",
+                            "A few hours to a few days",
+                            "1 year",
+                            "10 years"
+                        ],
+                        "answer": 1,
+                        "explanation": "WBCs have a much shorter lifespan than RBCs."
+                    },
+                    {
+                        "q": "Which planet has the most moons?",
+                        "options": [
+                            "Jupiter",
+                            "Saturn",
+                            "Uranus",
+                            "Neptune"
+                        ],
+                        "answer": 1,
+                        "explanation": "Saturn currently holds the record for most discovered moons."
+                    },
+                    {
+                        "q": "What is the process of a liquid turning into a solid called?",
+                        "options": [
+                            "Melting",
+                            "Freezing",
+                            "Evaporation",
+                            "Condensation"
+                        ],
+                        "answer": 1,
+                        "explanation": "Freezing is the solidification of a liquid."
+                    },
+                    {
+                        "q": "Which gas is used to put out fires?",
+                        "options": [
+                            "Oxygen",
+                            "Nitrogen",
+                            "Carbon Dioxide",
+                            "Hydrogen"
+                        ],
+                        "answer": 2,
+                        "explanation": "CO2 extinguishers work by removing oxygen."
+                    },
+                    {
+                        "q": "What is the main component of a computer chip?",
+                        "options": [
+                            "Gold",
+                            "Silver",
+                            "Silicon",
+                            "Iron"
+                        ],
+                        "answer": 2,
+                        "explanation": "Silicon is a semiconductor perfect for microchips."
+                    },
+                    {
+                        "q": "Which force pulls everything towards the center of the Earth?",
+                        "options": [
+                            "Friction",
+                            "Magnetism",
+                            "Gravity",
+                            "Elasticity"
+                        ],
+                        "answer": 2,
+                        "explanation": "Gravity is a universal force of attraction."
+                    },
+                    {
+                        "q": "What is the pH level of a neutral substance?",
+                        "options": [
+                            "0",
+                            "7",
+                            "14",
+                            "10"
+                        ],
+                        "answer": 1,
+                        "explanation": "pH 7 is neutral (like pure water)."
+                    },
+                    {
+                        "q": "Which blood vessel carries blood away from the heart?",
+                        "options": [
+                            "Vein",
+                            "Artery",
+                            "Capillary",
+                            "Valve"
+                        ],
+                        "answer": 1,
+                        "explanation": "Arteries carry oxygenated blood to the body."
+                    },
+                    {
+                        "q": "What is the study of weather called?",
+                        "options": [
+                            "Meteorology",
+                            "Astrology",
+                            "Geology",
+                            "Ecology"
+                        ],
+                        "answer": 0,
+                        "explanation": "Meteorology involves studying atmospheric phenomena."
+                    },
+                    {
+                        "q": "Which gas is responsible for the smell of rotten eggs?",
+                        "options": [
+                            "Oxygen",
+                            "Sulfur Dioxide",
+                            "Hydrogen Sulfide",
+                            "Nitrogen"
+                        ],
+                        "answer": 2,
+                        "explanation": "Hydrogen sulfide (H2S) is known for its foul odor."
+                    },
+                    {
+                        "q": "What is the unit of frequency?",
+                        "options": [
+                            "Hertz",
+                            "Newton",
+                            "Watt",
+                            "Ohm"
+                        ],
+                        "answer": 0,
+                        "explanation": "One hertz is one cycle per second."
+                    },
+                    {
+                        "q": "Which vitamin is good for eyesight?",
+                        "options": [
+                            "Vitamin A",
+                            "Vitamin B",
+                            "Vitamin C",
+                            "Vitamin K"
+                        ],
+                        "answer": 0,
+                        "explanation": "Vitamin A deficiency can lead to night blindness."
+                    },
+                    {
+                        "q": "What is the scientific name for the collarbone?",
+                        "options": [
+                            "Femur",
+                            "Clavicle",
+                            "Radius",
+                            "Tibia"
+                        ],
+                        "answer": 1,
+                        "explanation": "The clavicle connects the arm to the body."
+                    },
+                    {
+                        "q": "Which mirror is used by dentists to see the teeth?",
+                        "options": [
+                            "Convex",
+                            "Concave",
+                            "Plane",
+                            "Bifocal"
+                        ],
+                        "answer": 1,
+                        "explanation": "Concave mirrors provide a magnified image."
+                    },
+                    {
+                        "q": "What is the chemical name of table sugar?",
+                        "options": [
+                            "Glucose",
+                            "Fructose",
+                            "Sucrose",
+                            "Lactose"
+                        ],
+                        "answer": 2,
+                        "explanation": "Sucrose is a disaccharide made of glucose and fructose."
+                    },
+                    {
+                        "q": "Which gas is used in soda drinks?",
+                        "options": [
+                            "Oxygen",
+                            "Carbon Dioxide",
+                            "Nitrogen",
+                            "Helium"
+                        ],
+                        "answer": 1,
+                        "explanation": "CO2 creates the fizz in carbonated beverages."
+                    },
+                    {
+                        "q": "What is the study of the Earth's physical structure called?",
+                        "options": [
+                            "Biology",
+                            "Chemistry",
+                            "Geology",
+                            "Physics"
+                        ],
+                        "answer": 2,
+                        "explanation": "Geology explores the materials and processes of Earth."
+                    },
+                    {
+                        "q": "Which instrument is used to measure sound?",
+                        "options": [
+                            "Barometer",
+                            "Decibel meter",
+                            "Thermometer",
+                            "Spectrometer"
+                        ],
+                        "answer": 1,
+                        "explanation": "It measures the intensity of sound in decibels."
+                    },
+                    {
+                        "q": "What is the primary gas in the atmosphere of Venus?",
+                        "options": [
+                            "Oxygen",
+                            "Nitrogen",
+                            "Carbon Dioxide",
+                            "Methane"
+                        ],
+                        "answer": 2,
+                        "explanation": "Venus has a thick, toxic atmosphere of CO2."
+                    },
+                    {
+                        "q": "Which bone is the smallest in the human body?",
+                        "options": [
+                            "Stapes (Ear bone)",
+                            "Phalange",
+                            "Fibula",
+                            "Femur"
+                        ],
+                        "answer": 0,
+                        "explanation": "The stapes in the middle ear is the smallest bone."
+                    },
+                    {
+                        "q": "What is the chemical symbol for Sodium?",
+                        "options": [
+                            "So",
+                            "Sd",
+                            "Na",
+                            "Ni"
+                        ],
+                        "answer": 2,
+                        "explanation": "Na comes from the Latin word 'Natrium'."
+                    },
+                    {
+                        "q": "Which type of animal is a dolphin?",
+                        "options": [
+                            "Fish",
+                            "Mammal",
+                            "Reptile",
+                            "Amphibian"
+                        ],
+                        "answer": 1,
+                        "explanation": "Dolphins give birth to live young and nurse them."
+                    },
+                    {
+                        "q": "What is the flow of electrons called?",
+                        "options": [
+                            "Voltage",
+                            "Resistance",
+                            "Electricity (Current)",
+                            "Magmatism"
+                        ],
+                        "answer": 2,
+                        "explanation": "Electric current is the movement of charge."
+                    },
+                    {
+                        "q": "Which gas is inhaled by humans and exhaled by plants (mostly at night)?",
+                        "options": [
+                            "Oxygen",
+                            "Carbon Dioxide",
+                            "Nitrogen",
+                            "Hydrogen"
+                        ],
+                        "answer": 1,
+                        "explanation": "Plants respire and release CO2, especially in the absence of light."
+                    },
+                    {
+                        "q": "What is the study of stars and planets called?",
+                        "options": [
+                            "Geology",
+                            "Astrology",
+                            "Astronomy",
+                            "Ecology"
+                        ],
+                        "answer": 2,
+                        "explanation": "Astronomy is the scientific study of celestial objects."
+                    }
+                ]
+            },
+            {
+                "category": "Environmental Sciences",
+                "icon": "fa-leaf",
+                "questions": [
+                    {
+                        "q": "Which gas is primarily responsible for the Greenhouse Effect?",
+                        "options": [
+                            "Nitrogen",
+                            "Oxygen",
+                            "Carbon Dioxide",
+                            "Helium"
+                        ],
+                        "answer": 2,
+                        "explanation": "CO2 is the most significant long-lived greenhouse gas in Earth's atmosphere."
+                    },
+                    {
+                        "q": "What is the protective layer in the atmosphere that blocks UV rays?",
+                        "options": [
+                            "Ionosphere",
+                            "Mesosphere",
+                            "Ozone Layer",
+                            "Exosphere"
+                        ],
+                        "answer": 2,
+                        "explanation": "The ozone layer (within the stratosphere) absorbs 97-99% of the Sun's high-frequency ultraviolet light."
+                    },
+                    {
+                        "q": "World Environment Day is celebrated on?",
+                        "options": [
+                            "April 22",
+                            "June 5",
+                            "September 16",
+                            "December 1"
+                        ],
+                        "answer": 1,
+                        "explanation": "June 5 is celebrated globally to raise awareness for the protection of our environment."
+                    },
+                    {
+                        "q": "The process of cutting down forests is called?",
+                        "options": [
+                            "Afforestation",
+                            "Deforestation",
+                            "Reforestation",
+                            "Desertification"
+                        ],
+                        "answer": 1,
+                        "explanation": "Deforestation involves the permanent removal of trees to make room for something besides forest."
+                    },
+                    {
+                        "q": "Which of the following is a renewable source of energy?",
+                        "options": [
+                            "Coal",
+                            "Natural Gas",
+                            "Solar Energy",
+                            "Petroleum"
+                        ],
+                        "answer": 2,
+                        "explanation": "Solar energy is inexhaustible and naturally replenished."
+                    },
+                    {
+                        "q": "What is the primary cause of acid rain?",
+                        "options": [
+                            "CO2 buildup",
+                            "SO2 and NOx emissions",
+                            "CFCs",
+                            "Particulate matter"
+                        ],
+                        "answer": 1,
+                        "explanation": "Sulfur dioxide and nitrogen oxides react with water molecules in the atmosphere to produce acids."
+                    },
+                    {
+                        "q": "Which animal is the symbol of WWF?",
+                        "options": [
+                            "Panda",
+                            "Tiger",
+                            "Lion",
+                            "Elephant"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Giant Panda has been the logo of WWF since its inception in 1961."
+                    },
+                    {
+                        "q": "CNG stands for?",
+                        "options": [
+                            "Carbonized Natural Gas",
+                            "Combined Natural Gas",
+                            "Compressed Natural Gas",
+                            "Clean Natural Gas"
+                        ],
+                        "answer": 2,
+                        "explanation": "Compressed Natural Gas is a cleaner alternative to gasoline and diesel."
+                    },
+                    {
+                        "q": "The study of the relationship between organisms and their environment is?",
+                        "options": [
+                            "Botany",
+                            "Ecology",
+                            "Zoology",
+                            "Meteorology"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ecology focuses on how biotic and abiotic factors interact."
+                    },
+                    {
+                        "q": "Which protocol aims to protect the ozone layer?",
+                        "options": [
+                            "Kyoto Protocol",
+                            "Montreal Protocol",
+                            "Paris Agreement",
+                            "Cartagena Protocol"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Montreal Protocol (1987) phased out the production of ozone-depleting substances like CFCs."
+                    },
+                    {
+                        "q": "What is the term for the variety of life on Earth?",
+                        "options": [
+                            "Ecology",
+                            "Biodiversity",
+                            "Biomass",
+                            "Ethology"
+                        ],
+                        "answer": 1,
+                        "explanation": "Biodiversity covers genetic, species, and ecosystem diversity."
+                    },
+                    {
+                        "q": "Which toxic gas is produced from incomplete combustion of fuel?",
+                        "options": [
+                            "CO2",
+                            "Carbon Monoxide",
+                            "Nitrogen Oxide",
+                            "Sulfur Dioxide"
+                        ],
+                        "answer": 1,
+                        "explanation": "Carbon Monoxide (CO) is a silent, odorless killer."
+                    },
+                    {
+                        "q": "Who coined the term 'Ecosystem'?",
+                        "options": [
+                            "Charles Darwin",
+                            "Arthur Tansley",
+                            "Eugene Odum",
+                            "Aristotle"
+                        ],
+                        "answer": 1,
+                        "explanation": "Sir Arthur Tansley introduced the term in 1935."
+                    },
+                    {
+                        "q": "Minamata disease is caused by which pollutant?",
+                        "options": [
+                            "Lead",
+                            "Mercury",
+                            "Cadmium",
+                            "Arsenic"
+                        ],
+                        "answer": 1,
+                        "explanation": "It was first discovered in Japan due to mercury poisoning in fish."
+                    },
+                    {
+                        "q": "What is the main source of CFCs (Chlorofluorocarbons)?",
+                        "options": [
+                            "Cars",
+                            "Industrial plants",
+                            "Refrigerators and ACs",
+                            "Deforestation"
+                        ],
+                        "answer": 2,
+                        "explanation": "CFCs were widely used as refrigerants."
+                    },
+                    {
+                        "q": "Which of the following is a bio-fertilizer?",
+                        "options": [
+                            "Urea",
+                            "Phosphate",
+                            "Rhizobium",
+                            "Nitrate"
+                        ],
+                        "answer": 2,
+                        "explanation": "Rhizobium bacteria fix nitrogen in legume roots."
+                    },
+                    {
+                        "q": "What is 'Global Warming Potential' measured against?",
+                        "options": [
+                            "Oxygen",
+                            "Carbon Dioxide",
+                            "Methane",
+                            "Water vapor"
+                        ],
+                        "answer": 1,
+                        "explanation": "CO2 is the baseline with a GWP of 1."
+                    },
+                    {
+                        "q": "The Chipko Movement was started to protect?",
+                        "options": [
+                            "Wildlife",
+                            "Rivers",
+                            "Trees",
+                            "Air"
+                        ],
+                        "answer": 2,
+                        "explanation": "It was a forest conservation movement in India where people hugged trees."
+                    },
+                    {
+                        "q": "Which layer of the atmosphere is closest to Earth?",
+                        "options": [
+                            "Stratosphere",
+                            "Exosphere",
+                            "Troposphere",
+                            "Mesosphere"
+                        ],
+                        "answer": 2,
+                        "explanation": "The troposphere contains 75% of the atmosphere's mass."
+                    },
+                    {
+                        "q": "The place where an organism lives is its?",
+                        "options": [
+                            "Niche",
+                            "Habitat",
+                            "Biome",
+                            "Community"
+                        ],
+                        "answer": 1,
+                        "explanation": "A habitat provides the necessary food, water, and shelter."
+                    },
+                    {
+                        "q": "What is 'Eutrophication' associated with?",
+                        "options": [
+                            "Air pollution",
+                            "Water pollution",
+                            "Noise pollution",
+                            "Soil erosion"
+                        ],
+                        "answer": 1,
+                        "explanation": "Excessive richness of nutrients in a lake causes dense growth of plant life."
+                    },
+                    {
+                        "q": "Which fuel is cleanest for the environment?",
+                        "options": [
+                            "Coal",
+                            "Diesel",
+                            "CNG",
+                            "Hydrogen"
+                        ],
+                        "answer": 3,
+                        "explanation": "Hydrogen produces only water when burned."
+                    },
+                    {
+                        "q": "Kyoto Protocol is focused on?",
+                        "options": [
+                            "Climate Change",
+                            "Ozone Layer",
+                            "Forests",
+                            "Endangered species"
+                        ],
+                        "answer": 0,
+                        "explanation": "It aimed to reduce greenhouse gas emissions."
+                    },
+                    {
+                        "q": "Rainwater is considered acidic when its pH falls below?",
+                        "options": [
+                            "7",
+                            "6",
+                            "5.6",
+                            "4"
+                        ],
+                        "answer": 2,
+                        "explanation": "Due to CO2 in air, normal rain is slightly acidic (pH 5.6)."
+                    },
+                    {
+                        "q": "Black Lung disease is common in?",
+                        "options": [
+                            "Farmers",
+                            "Miners",
+                            "Fishermen",
+                            "Drivers"
+                        ],
+                        "answer": 1,
+                        "explanation": "It occurs due to prolonged inhalation of coal dust."
+                    },
+                    {
+                        "q": "Which city is known as the 'Electronic City' of India?",
+                        "options": [
+                            "Mumbai",
+                            "Bengaluru",
+                            "Delhi",
+                            "Hyderabad"
+                        ],
+                        "answer": 1,
+                        "explanation": "Bengaluru is the hub of IT and electronics."
+                    },
+                    {
+                        "q": "What is the primary cause of the 'Dead Zone' in oceans?",
+                        "options": [
+                            "Oil spills",
+                            "Nutrient runoff",
+                            "Plastic pollution",
+                            "Global warming"
+                        ],
+                        "answer": 1,
+                        "explanation": "Excessive nutrients trigger algae blooms that deplete oxygen."
+                    },
+                    {
+                        "q": "Which of these is a non-biodegradable waste?",
+                        "options": [
+                            "Paper",
+                            "Plastic",
+                            "Food scraps",
+                            "Wood"
+                        ],
+                        "answer": 1,
+                        "explanation": "Plastic can take hundreds of years to decompose."
+                    },
+                    {
+                        "q": "World Water Day is observed on?",
+                        "options": [
+                            "March 22",
+                            "April 22",
+                            "May 22",
+                            "June 22"
+                        ],
+                        "answer": 0,
+                        "explanation": "Celebrated yearly to emphasize the importance of freshwater."
+                    },
+                    {
+                        "q": "Which organization maintains the 'Red Data Book'?",
+                        "options": [
+                            "WHO",
+                            "WWF",
+                            "IUCN",
+                            "UNEP"
+                        ],
+                        "answer": 2,
+                        "explanation": "The IUCN Red List tracks threatened and endangered species."
+                    },
+                    {
+                        "q": "What is the main cause of air pollution in cities?",
+                        "options": [
+                            "Agriculture",
+                            "Vehicle emissions",
+                            "Natural dust",
+                            "Volcanoes"
+                        ],
+                        "answer": 1,
+                        "explanation": "Car and bus exhausts release NOx, CO, and particulate matter."
+                    },
+                    {
+                        "q": "Which gas is known as the 'silent killer'?",
+                        "options": [
+                            "Oxygen",
+                            "Carbon Dioxide",
+                            "Carbon Monoxide",
+                            "Nitrogen"
+                        ],
+                        "answer": 2,
+                        "explanation": "CO is colorless, odorless, and highly toxic."
+                    },
+                    {
+                        "q": "What is the term for the accumulation of toxins in a food chain?",
+                        "options": [
+                            "Bioaccumulation",
+                            "Eutrophication",
+                            "Photosynthesis",
+                            "Nitrogen Fixation"
+                        ],
+                        "answer": 0,
+                        "explanation": "Toxins like mercury increase in concentration as they move up the chain."
+                    },
+                    {
+                        "q": "Which of the following is an example of a non-renewable resource?",
+                        "options": [
+                            "Wind",
+                            "Solar",
+                            "Coal",
+                            "Tidal"
+                        ],
+                        "answer": 2,
+                        "explanation": "Fossil fuels like coal take millions of years to form."
+                    },
+                    {
+                        "q": "What is the primary cause of soil erosion?",
+                        "options": [
+                            "Deforestation",
+                            "Overgrazing",
+                            "Poor farming methods",
+                            "All of these"
+                        ],
+                        "answer": 3,
+                        "explanation": "Removal of vegetation leaves soil exposed to wind and water."
+                    },
+                    {
+                        "q": "Which layer of the atmosphere contains the ozone layer?",
+                        "options": [
+                            "Troposphere",
+                            "Stratosphere",
+                            "Mesosphere",
+                            "Thermosphere"
+                        ],
+                        "answer": 1,
+                        "explanation": "The stratosphere extends from approx 10km to 50km."
+                    },
+                    {
+                        "q": "What is the main source of mercury pollution in oceans?",
+                        "options": [
+                            "Plastic waste",
+                            "Coal power plants",
+                            "Agriculture",
+                            "Oil spills"
+                        ],
+                        "answer": 1,
+                        "explanation": "Mercury is released into the air and eventually settles in water."
+                    },
+                    {
+                        "q": "Which gas is released from rice fields and landfills?",
+                        "options": [
+                            "Oxygen",
+                            "Methane",
+                            "Argon",
+                            "Helium"
+                        ],
+                        "answer": 1,
+                        "explanation": "Anaerobic decomposition produces methane (CH4)."
+                    },
+                    {
+                        "q": "What is the term for an ecosystem dominated by trees and shrubs?",
+                        "options": [
+                            "Tundra",
+                            "Desert",
+                            "Forest",
+                            "Grassland"
+                        ],
+                        "answer": 2,
+                        "explanation": "Forests cover about 31% of Earth's land area."
+                    },
+                    {
+                        "q": "Which protocol was signed in 1997 to reduce greenhouse gas emissions?",
+                        "options": [
+                            "Montreal Protocol",
+                            "Kyoto Protocol",
+                            "Basel Convention",
+                            "Vienna Convention"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Kyoto Protocol focused on industrialized nations' emissions."
+                    },
+                    {
+                        "q": "What is the name for the process of converting waste into new materials?",
+                        "options": [
+                            "Reusing",
+                            "Reducing",
+                            "Recycling",
+                            "Refusing"
+                        ],
+                        "answer": 2,
+                        "explanation": "Recycling saves energy and raw materials."
+                    },
+                    {
+                        "q": "Which nutrient causes excessive algae growth in water bodies?",
+                        "options": [
+                            "Oxygen",
+                            "Phosphorus",
+                            "Iron",
+                            "Zinc"
+                        ],
+                        "answer": 1,
+                        "explanation": "Runoff containing phosphates and nitrates leads to eutrophication."
+                    },
+                    {
+                        "q": "What is the term for species that are found in only one specific area?",
+                        "options": [
+                            "Extinct",
+                            "Endangered",
+                            "Endemic",
+                            "Exotic"
+                        ],
+                        "answer": 2,
+                        "explanation": "Endemic species are at high risk if their habitat is destroyed."
+                    },
+                    {
+                        "q": "Which of the following is a major pollutant from leather tanneries?",
+                        "options": [
+                            "Common salt",
+                            "Lead",
+                            "Chromium",
+                            "Mercury"
+                        ],
+                        "answer": 2,
+                        "explanation": "Chromium is used in the tanning process and is highly toxic."
+                    },
+                    {
+                        "q": "What is the maximum limit of noise standard for residential areas in day time?",
+                        "options": [
+                            "45 dB",
+                            "55 dB",
+                            "65 dB",
+                            "75 dB"
+                        ],
+                        "answer": 1,
+                        "explanation": "WHO recommends 55 dB as a healthy limit."
+                    },
+                    {
+                        "q": "Which gas is primarily responsible for the cooling of the atmosphere after a volcanic eruption?",
+                        "options": [
+                            "CO2",
+                            "Sulfur Dioxide",
+                            "Oxygen",
+                            "Neon"
+                        ],
+                        "answer": 1,
+                        "explanation": "SO2 forms aerosols that reflect sunlight away from Earth."
+                    },
+                    {
+                        "q": "What is the term for the conversion of fertile land into desert?",
+                        "options": [
+                            "Erosion",
+                            "Desertification",
+                            "Salinization",
+                            "Irrigation"
+                        ],
+                        "answer": 1,
+                        "explanation": "Often caused by drought, deforestation, or inappropriate agriculture."
+                    },
+                    {
+                        "q": "Which of the following is a bio-indicator of air pollution?",
+                        "options": [
+                            "Mosses",
+                            "Lichens",
+                            "Liverworts",
+                            "Ferns"
+                        ],
+                        "answer": 1,
+                        "explanation": "Lichens are very sensitive to sulfur dioxide levels."
+                    },
+                    {
+                        "q": "What is the primary goal of the 'Paris Agreement'?",
+                        "options": [
+                            "Protect whales",
+                            "End poverty",
+                            "Limit global warming",
+                            "Stop plastic use"
+                        ],
+                        "answer": 2,
+                        "explanation": "Signed in 2015 to keep temperature rise well below 2°C."
+                    },
+                    {
+                        "q": "Which organization is headquarters in Gland, Switzerland?",
+                        "options": [
+                            "WHO",
+                            "UNEP",
+                            "IUCN",
+                            "UNESCO"
+                        ],
+                        "answer": 2,
+                        "explanation": "IUCN is the world's largest environmental network."
+                    },
+                    {
+                        "q": "What is the main source of noise pollution in domestic areas?",
+                        "options": [
+                            "Loudspeakers",
+                            "AC units",
+                            "Washing machines",
+                            "All of these"
+                        ],
+                        "answer": 3,
+                        "explanation": "Various household appliances contribute to noise levels."
+                    },
+                    {
+                        "q": "Which heavy metal is associated with 'Itai-itai' disease?",
+                        "options": [
+                            "Lead",
+                            "Mercury",
+                            "Cadmium",
+                            "Arsenic"
+                        ],
+                        "answer": 2,
+                        "explanation": "Cadmium poisoning causes softening of bones and kidney failure."
+                    },
+                    {
+                        "q": "What is the percentage of Oxygen in the Earth's atmosphere?",
+                        "options": [
+                            "21%",
+                            "78%",
+                            "1%",
+                            "0.03%"
+                        ],
+                        "answer": 0,
+                        "explanation": "Nitrogen is 78%, Oxygen is 21%, and other gases comprise 1%."
+                    },
+                    {
+                        "q": "Which layer of soil contains the most organic matter?",
+                        "options": [
+                            "A-horizon (Topsoil)",
+                            "B-horizon",
+                            "C-horizon",
+                            "Bedrock"
+                        ],
+                        "answer": 0,
+                        "explanation": "Topsoil is rich in humus and minerals."
+                    },
+                    {
+                        "q": "What is 'Smog' a combination of?",
+                        "options": [
+                            "Smoke and Fog",
+                            "Snow and Fog",
+                            "Smoke and Gas",
+                            "Dust and Rain"
+                        ],
+                        "answer": 0,
+                        "explanation": "Smog is a type of intense air pollution."
+                    },
+                    {
+                        "q": "Which fuel is obtained from biological materials like corn or sugarcane?",
+                        "options": [
+                            "Biogas",
+                            "Biodiesel",
+                            "Bioethanol",
+                            "Peat"
+                        ],
+                        "answer": 2,
+                        "explanation": "Bioethanol is a popular biofuel used in many countries."
+                    },
+                    {
+                        "q": "What is the term for the permanent loss of a species?",
+                        "options": [
+                            "Migration",
+                            "Evolution",
+                            "Extinction",
+                            "Adaptation"
+                        ],
+                        "answer": 2,
+                        "explanation": "Species like the Dodo are extinct forever."
+                    },
+                    {
+                        "q": "Which of these is a major cause of ocean acidification?",
+                        "options": [
+                            "Plastic",
+                            "Oil",
+                            "Carbon Dioxide",
+                            "Sewage"
+                        ],
+                        "answer": 2,
+                        "explanation": "Oceans absorb CO2, which reacts with water to form carbonic acid."
+                    },
+                    {
+                        "q": "What is 'Vermicomposting'?",
+                        "options": [
+                            "Composting with bacteria",
+                            "Composting with worms",
+                            "Chemical fertilizers",
+                            "Burning waste"
+                        ],
+                        "answer": 1,
+                        "explanation": "Earthworms are used to turn organic waste into high-quality compost."
+                    },
+                    {
+                        "q": "Which gas is used in the treatment of drinking water to kill bacteria?",
+                        "options": [
+                            "Oxygen",
+                            "Nitrogen",
+                            "Chlorine",
+                            "Fluorine"
+                        ],
+                        "answer": 2,
+                        "explanation": "Chlorination is a common and effective disinfection method."
+                    },
+                    {
+                        "q": "What is the term for the maximum population an environment can support?",
+                        "options": [
+                            "Growth curve",
+                            "Carrying capacity",
+                            "Biomass",
+                            "Niche"
+                        ],
+                        "answer": 1,
+                        "explanation": "Limited resources define the carrying capacity."
+                    },
+                    {
+                        "q": "Which international day is observed on September 16?",
+                        "options": [
+                            "Earth Day",
+                            "Water Day",
+                            "Ozone Day",
+                            "Health Day"
+                        ],
+                        "answer": 2,
+                        "explanation": "International Day for the Preservation of the Ozone Layer."
+                    },
+                    {
+                        "q": "What is the main environmental problem associated with large dams?",
+                        "options": [
+                            "Habitat loss",
+                            "Earthquakes",
+                            "Displacement of people",
+                            "All of these"
+                        ],
+                        "answer": 3,
+                        "explanation": "Dams have significant social and ecological impacts."
+                    },
+                    {
+                        "q": "Which state in India was the first to implement rainwater harvesting in all houses?",
+                        "options": [
+                            "Kerala",
+                            "Tamil Nadu",
+                            "Rajasthan",
+                            "Maharashtra"
+                        ],
+                        "answer": 1,
+                        "explanation": "Tamil Nadu made it mandatory in 2001."
+                    },
+                    {
+                        "q": "What is 'Integrated Pest Management' (IPM)?",
+                        "options": [
+                            "Using only pesticides",
+                            "Using only organic methods",
+                            "Combining different methods to control pests",
+                            "Removing all insects"
+                        ],
+                        "answer": 2,
+                        "explanation": "IPM aims for sustainable and economical pest control."
+                    },
+                    {
+                        "q": "Which gas is the byproduct of aerobic decomposition?",
+                        "options": [
+                            "Methane",
+                            "Carbon Dioxide",
+                            "Ammonia",
+                            "Hydrogen"
+                        ],
+                        "answer": 1,
+                        "explanation": "Aerobic decomposition uses oxygen and produces CO2."
+                    },
+                    {
+                        "q": "What is the main cause of the 'Aral Sea' disaster?",
+                        "options": [
+                            "Global warming",
+                            "Pollution",
+                            "Diversion of rivers for irrigation",
+                            "Nuclear testing"
+                        ],
+                        "answer": 2,
+                        "explanation": "Rivers feeding the sea were diverted for cotton farming."
+                    },
+                    {
+                        "q": "Which of the following is a biodegradable pollutant?",
+                        "options": [
+                            "Plastic",
+                            "DDT",
+                            "Domestic sewage",
+                            "Mercury"
+                        ],
+                        "answer": 2,
+                        "explanation": "Sewage can be broken down by microorganisms."
+                    },
+                    {
+                        "q": "What is the term for light pollution caused by excessive artificial light?",
+                        "options": [
+                            "Glare",
+                            "Skyglow",
+                            "Clutter",
+                            "All of these"
+                        ],
+                        "answer": 3,
+                        "explanation": "Light pollution affects wildlife and star observation."
+                    },
+                    {
+                        "q": "Which layer of the atmosphere is the coldest?",
+                        "options": [
+                            "Troposphere",
+                            "Stratosphere",
+                            "Mesosphere",
+                            "Thermosphere"
+                        ],
+                        "answer": 2,
+                        "explanation": "The mesopause is the coldest place in Earth's atmosphere."
+                    },
+                    {
+                        "q": "What is the primary goal of sustainable development?",
+                        "options": [
+                            "Meet current needs only",
+                            "Economic growth at any cost",
+                            "Meet needs without compromising future generations",
+                            "Stop all development"
+                        ],
+                        "answer": 2,
+                        "explanation": "It balances social, economic, and environmental factors."
+                    },
+                    {
+                        "q": "Which of these is a global environmental issue?",
+                        "options": [
+                            "Climate change",
+                            "Ozone depletion",
+                            "Loss of biodiversity",
+                            "All of these"
+                        ],
+                        "answer": 3,
+                        "explanation": "These issues affect the entire planet."
+                    },
+                    {
+                        "q": "What is the name of the movement started by Sunderlal Bahuguna?",
+                        "options": [
+                            "Narmada Bachao",
+                            "Chipko Movement",
+                            "Appiko Movement",
+                            "Silent Valley"
+                        ],
+                        "answer": 1,
+                        "explanation": "He was a prominent leader of the Chipko movement."
+                    },
+                    {
+                        "q": "Which gas is used as a coolant in refrigerators today (replacing CFCs)?",
+                        "options": [
+                            "Ammonia",
+                            "HCFCs / HFCs",
+                            "Nitrogen",
+                            "Oxygen"
+                        ],
+                        "answer": 1,
+                        "explanation": "HFCs have zero ODP (Ozone Depletion Potential) but high GWP."
+                    },
+                    {
+                        "q": "What is the pH of acid rain (typically)?",
+                        "options": [
+                            "7.0",
+                            "6.5",
+                            "Less than 5.6",
+                            "9.0"
+                        ],
+                        "answer": 2,
+                        "explanation": "Normal rain is 5.6; acid rain is significantly lower."
+                    },
+                    {
+                        "q": "Which continent has the largest area of tropical rainforests?",
+                        "options": [
+                            "Africa",
+                            "Asia",
+                            "South America",
+                            "Australia"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Amazon rainforest covers much of South America."
+                    },
+                    {
+                        "q": "What is the term for the study of the Earth's atmosphere?",
+                        "options": [
+                            "Geology",
+                            "Meteorology",
+                            "Oceanography",
+                            "Astronomy"
+                        ],
+                        "answer": 1,
+                        "explanation": "Meteorology focuses on weather and climate."
+                    },
+                    {
+                        "q": "Which of these is a point source of water pollution?",
+                        "options": [
+                            "Agricultural runoff",
+                            "City street runoff",
+                            "A factory pipe discharging into a river",
+                            "Atmospheric deposition"
+                        ],
+                        "answer": 2,
+                        "explanation": "Point sources come from a single, identifiable location."
+                    },
+                    {
+                        "q": "What is the primary cause of coral bleaching?",
+                        "options": [
+                            "Overfishing",
+                            "Plastic pollution",
+                            "Rising ocean temperatures",
+                            "Oil spills"
+                        ],
+                        "answer": 2,
+                        "explanation": "Warmer water causes corals to expel their symbiotic algae."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Botany",
+        "icon": "fa-leaf",
+        "subcategories": [
+            {
+                "category": "General Botany",
+                "icon": "fa-book",
+                "questions": [
+                    {
+                        "q": "The branch of botany that studies algae is:",
+                        "options": [
+                            "Phycology",
+                            "Mycology",
+                            "Bryology",
+                            "Pteridology"
+                        ],
+                        "answer": 0,
+                        "explanation": "Phycology is the scientific study of algae."
+                    },
+                    {
+                        "q": "Which part of the plant conducts water and dissolved minerals?",
+                        "options": [
+                            "Phloem",
+                            "Xylem",
+                            "Cambium",
+                            "Epidermis"
+                        ],
+                        "answer": 1,
+                        "explanation": "Xylem transports water and minerals from roots to stems and leaves."
+                    },
+                    {
+                        "q": "The process by which plants make their food is called:",
+                        "options": [
+                            "Respiration",
+                            "Transpiration",
+                            "Photosynthesis",
+                            "Digestion"
+                        ],
+                        "answer": 2,
+                        "explanation": "Photosynthesis is the process used by plants to convert light energy into chemical energy."
+                    },
+                    {
+                        "q": "In plants, the male reproductive organ is:",
+                        "options": [
+                            "Pistil",
+                            "Stamen",
+                            "Carpel",
+                            "Sepal"
+                        ],
+                        "answer": 1,
+                        "explanation": "The stamen is the pollen-producing reproductive organ of a flower."
+                    },
+                    {
+                        "q": "The loss of water in the form of vapor from the aerial parts of a plant is:",
+                        "options": [
+                            "Evaporation",
+                            "Transpiration",
+                            "Guttation",
+                            "Exudation"
+                        ],
+                        "answer": 1,
+                        "explanation": "Transpiration is the process of water movement through a plant and its evaporation from aerial parts."
+                    },
+                    {
+                        "q": "Which gas is released during photosynthesis?",
+                        "options": [
+                            "Carbon dioxide",
+                            "Oxygen",
+                            "Nitrogen",
+                            "Methane"
+                        ],
+                        "answer": 1,
+                        "explanation": "Oxygen is released as a byproduct during photosynthesis."
+                    },
+                    {
+                        "q": "The green pigment in plants responsible for photosynthesis is:",
+                        "options": [
+                            "Carotene",
+                            "Xanthophyll",
+                            "Chlorophyll",
+                            "Anthocyanin"
+                        ],
+                        "answer": 2,
+                        "explanation": "Chlorophyll absorbs energy from light for photosynthesis."
+                    },
+                    {
+                        "q": "Which of the following is considered a 'living fossil'?",
+                        "options": [
+                            "Neem",
+                            "Ginkgo biloba",
+                            "Banyan",
+                            "Peepal"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ginkgo biloba is an ancient species of tree with no close living relatives."
+                    },
+                    {
+                        "q": "The study of relationships between plants and their environment is called:",
+                        "options": [
+                            "Plant Taxonomy",
+                            "Plant Physiology",
+                            "Plant Anatomy",
+                            "Plant Ecology"
+                        ],
+                        "answer": 3,
+                        "explanation": "Plant ecology studies the interaction between plants and their environment."
+                    },
+                    {
+                        "q": "What is the study of fungi called?",
+                        "options": [
+                            "Mycology",
+                            "Phycology",
+                            "Cytology",
+                            "Histology"
+                        ],
+                        "answer": 0,
+                        "explanation": "Mycology is the branch of biology concerned with the study of fungi."
+                    },
+                    {
+                        "q": "Fungi belong to which kingdom?",
+                        "options": [
+                            "Plantae",
+                            "Animalia",
+                            "Fungi",
+                            "Monera"
+                        ],
+                        "answer": 2,
+                        "explanation": "Fungi have their own kingdom, separate from plants and animals."
+                    },
+                    {
+                        "q": "The outer protective covering of a plant stem is the:",
+                        "options": [
+                            "Cortex",
+                            "Epidermis",
+                            "Pith",
+                            "Pericycle"
+                        ],
+                        "answer": 1,
+                        "explanation": "The epidermis is the outermost layer of cells covering the stem, root, leaf, options: flower."
+                    },
+                    {
+                        "q": "Which part of the seed stores food for the developing embryo?",
+                        "options": [
+                            "Seed coat",
+                            "Cotyledon",
+                            "Radicle",
+                            "Plumule"
+                        ],
+                        "answer": 1,
+                        "explanation": "Cotyledons (seed leaves) often store food for the seedling."
+                    },
+                    {
+                        "q": "The shedding of leaves, flowers, or fruits is called:",
+                        "options": [
+                            "Abscission",
+                            "Transpiration",
+                            "Guttation",
+                            "Vernalization"
+                        ],
+                        "answer": 0,
+                        "explanation": "Abscission is the shedding of various parts of an organism."
+                    },
+                    {
+                        "q": "Which plant hormone promotes fruit ripening?",
+                        "options": [
+                            "Auxin",
+                            "Gibberellin",
+                            "Cytokinin",
+                            "Ethylene"
+                        ],
+                        "answer": 3,
+                        "explanation": "Ethylene is a gaseous plant hormone famous for promoting fruit ripening."
+                    },
+                    {
+                        "q": "The first formed primary xylem elements are called:",
+                        "options": [
+                            "Metaxylem",
+                            "Protoxylem",
+                            "Cambium",
+                            "Phloem"
+                        ],
+                        "answer": 1,
+                        "explanation": "Protoxylem is the first formed primary xylem."
+                    },
+                    {
+                        "q": "Plants growing in dry regions are called:",
+                        "options": [
+                            "Hydrophytes",
+                            "Mesophytes",
+                            "Xerophytes",
+                            "Halophytes"
+                        ],
+                        "answer": 2,
+                        "explanation": "Xerophytes are adapted to survive in environments with little liquid water."
+                    },
+                    {
+                        "q": "Plants growing in saline soil are known as:",
+                        "options": [
+                            "Halophytes",
+                            "Xerophytes",
+                            "Hydrophytes",
+                            "Mesophytes"
+                        ],
+                        "answer": 0,
+                        "explanation": "Halophytes are plants adapted to grow in high salinity environments."
+                    },
+                    {
+                        "q": "The primary function of the root is:",
+                        "options": [
+                            "Photosynthesis",
+                            "Anchorage and absorption",
+                            "Reproduction",
+                            "Transpiration"
+                        ],
+                        "answer": 1,
+                        "explanation": "Roots anchor the plant and absorb water and dissolved minerals from the soil."
+                    },
+                    {
+                        "q": "The reproductive part of an angiosperm is the:",
+                        "options": [
+                            "Leaf",
+                            "Stem",
+                            "Root",
+                            "Flower"
+                        ],
+                        "answer": 3,
+                        "explanation": "Flowers are the reproductive organs of angiosperms (flowering plants)."
+                    },
+                    {
+                        "q": "Seedless vascular plants are called:",
+                        "options": [
+                            "Bryophytes",
+                            "Gymnosperms",
+                            "Pteridophytes",
+                            "Angiosperms"
+                        ],
+                        "answer": 2,
+                        "explanation": "Pteridophytes, like ferns, have vascular tissue but reproduce via spores, not seeds."
+                    },
+                    {
+                        "q": "Which is the largest flower in the world?",
+                        "options": [
+                            "Lotus",
+                            "Rafflesia",
+                            "Sunflower",
+                            "Titan Arum"
+                        ],
+                        "answer": 1,
+                        "explanation": "Rafflesia arnoldii produces the largest individual flower on Earth."
+                    },
+                    {
+                        "q": "The edible part of an apple is the:",
+                        "options": [
+                            "Endocarp",
+                            "Mesocarp",
+                            "Thalamus",
+                            "Epicarp"
+                        ],
+                        "answer": 2,
+                        "explanation": "In an apple, the fleshy, edible part is the swollen thalamus (receptacle)."
+                    },
+                    {
+                        "q": "Pollen grains are produced in:",
+                        "options": [
+                            "Ovary",
+                            "Anther",
+                            "Stigma",
+                            "Style"
+                        ],
+                        "answer": 1,
+                        "explanation": "The anther, a part of the stamen, contains pollen sacs where pollen grains develop."
+                    },
+                    {
+                        "q": "The movement of plants towards light is termed:",
+                        "options": [
+                            "Geotropism",
+                            "Phototropism",
+                            "Hydrotropism",
+                            "Chemotropism"
+                        ],
+                        "answer": 1,
+                        "explanation": "Phototropism is the directional growth of an organism in response to light."
+                    },
+                    {
+                        "q": "Nitrogen fixation is performed primarily by:",
+                        "options": [
+                            "Algae",
+                            "Fungi",
+                            "Bacteria",
+                            "Viruses"
+                        ],
+                        "answer": 2,
+                        "explanation": "Certain bacteria (like Rhizobium) can convert atmospheric nitrogen into usable forms."
+                    },
+                    {
+                        "q": "The study of internal structure of plants is called:",
+                        "options": [
+                            "Morphology",
+                            "Anatomy",
+                            "Genetics",
+                            "Ecology"
+                        ],
+                        "answer": 1,
+                        "explanation": "Plant anatomy is the study of the internal tissues and cells of plants."
+                    },
+                    {
+                        "q": "Gymnosperms literally means:",
+                        "options": [
+                            "Covered seeds",
+                            "Naked seeds",
+                            "Fruit bearers",
+                            "Flower bearers"
+                        ],
+                        "answer": 1,
+                        "explanation": "Originates from Greek 'gymnos' (naked) and 'sperma' (seed)."
+                    },
+                    {
+                        "q": "Which cell organelle is known as the powerhouse of the cell?",
+                        "options": [
+                            "Nucleus",
+                            "Chloroplast",
+                            "Mitochondrion",
+                            "Ribosome"
+                        ],
+                        "answer": 2,
+                        "explanation": "Mitochondria generate most of the cell's supply of ATP."
+                    },
+                    {
+                        "q": "Chloroplasts contain a stack of thylakoids called:",
+                        "options": [
+                            "Stroma",
+                            "Granum",
+                            "Cristae",
+                            "Matrix"
+                        ],
+                        "answer": 1,
+                        "explanation": "A granum is a coin-like stack of thylakoid membranes in the chloroplast."
+                    },
+                    {
+                        "q": "Mosses belong to the group:",
+                        "options": [
+                            "Thallophyta",
+                            "Bryophyta",
+                            "Pteridophyta",
+                            "Gymnospermae"
+                        ],
+                        "answer": 1,
+                        "explanation": "Bryophytes include mosses, hornworts, and liverworts."
+                    },
+                    {
+                        "q": "The basic unit of classification is:",
+                        "options": [
+                            "Genus",
+                            "Species",
+                            "Family",
+                            "Order"
+                        ],
+                        "answer": 1,
+                        "explanation": "Species is the most basic rank in the taxonomic hierarchy."
+                    },
+                    {
+                        "q": "Which pigment gives yellow/orange color to fruits and flowers?",
+                        "options": [
+                            "Anthocyanin",
+                            "Carotenoids",
+                            "Chlorophyll",
+                            "Melanin"
+                        ],
+                        "answer": 1,
+                        "explanation": "Carotenoids are red, orange, or yellow pigments."
+                    },
+                    {
+                        "q": "A symbiotic association between fungi and algae is called a:",
+                        "options": [
+                            "Mycorrhiza",
+                            "Lichen",
+                            "Parasite",
+                            "Epiphyte"
+                        ],
+                        "answer": 1,
+                        "explanation": "A lichen is a composite organism arising from algae or cyanobacteria living among fungi."
+                    },
+                    {
+                        "q": "A plant that grows on another plant for support but is not parasitic is an:",
+                        "options": [
+                            "Epiphyte",
+                            "Endophyte",
+                            "Saprophyte",
+                            "Halophyte"
+                        ],
+                        "answer": 0,
+                        "explanation": "Epiphytes derive their moisture and nutrients from the air and rain."
+                    },
+                    {
+                        "q": "Wood is essentially composed of secondary:",
+                        "options": [
+                            "Phloem",
+                            "Xylem",
+                            "Cortex",
+                            "Epidermis"
+                        ],
+                        "answer": 1,
+                        "explanation": "Wood is legally defined as secondary xylem."
+                    },
+                    {
+                        "q": "Bamboo is a type of:",
+                        "options": [
+                            "Tree",
+                            "Shrub",
+                            "Herb",
+                            "Grass"
+                        ],
+                        "answer": 3,
+                        "explanation": "Bamboos are a group of woody perennial evergreen plants in the true grass family."
+                    },
+                    {
+                        "q": "The age of a tree can be determined by counting its:",
+                        "options": [
+                            "Leaves",
+                            "Branches",
+                            "Annual rings",
+                            "Roots"
+                        ],
+                        "answer": 2,
+                        "explanation": "Dendrochronology uses annual growth rings in wood to date physiological events."
+                    },
+                    {
+                        "q": "Cuscuta (Dodder) is an example of a:",
+                        "options": [
+                            "Total root parasite",
+                            "Partial stem parasite",
+                            "Total stem parasite",
+                            "Partial root parasite"
+                        ],
+                        "answer": 2,
+                        "explanation": "Cuscuta attaches to the host stem and draws all nutrients from it."
+                    },
+                    {
+                        "q": "The primary source of energy for most ecosystems is:",
+                        "options": [
+                            "Geothermal heat",
+                            "The Sun",
+                            "Wind",
+                            "Water currents"
+                        ],
+                        "answer": 1,
+                        "explanation": "Sunlight is converted to chemical energy through photosynthesis by primary producers."
+                    },
+                    {
+                        "q": "Plants take up carbon dioxide predominantly through their:",
+                        "options": [
+                            "Roots",
+                            "Stems",
+                            "Leaves (Stomata)",
+                            "Flowers"
+                        ],
+                        "answer": 2,
+                        "explanation": "Stomata on leaves are the primary sites for gas exchange."
+                    },
+                    {
+                        "q": "What limits the size of bryophytes (mosses)?",
+                        "options": [
+                            "Lack of vascular tissue",
+                            "Lack of sunlight",
+                            "Lack of roots",
+                            "Poor soil"
+                        ],
+                        "answer": 0,
+                        "explanation": "Without xylem and phloem, they cannot efficiently transport water/nutrients vertically."
+                    },
+                    {
+                        "q": "Which part of a flower becomes the fruit?",
+                        "options": [
+                            "Stigma",
+                            "Style",
+                            "Ovary",
+                            "Ovule"
+                        ],
+                        "answer": 2,
+                        "explanation": "After fertilization, the ovary swells and develops into a fruit."
+                    },
+                    {
+                        "q": "Which part of a flower becomes the seed?",
+                        "options": [
+                            "Ovary",
+                            "Ovule",
+                            "Pollen",
+                            "Sepal"
+                        ],
+                        "answer": 1,
+                        "explanation": "The fertilized ovule develops into a seed."
+                    },
+                    {
+                        "q": "The term 'flora' refers to:",
+                        "options": [
+                            "Animals of a region",
+                            "Plants of a region",
+                            "Microbes of a region",
+                            "Fossils of a region"
+                        ],
+                        "answer": 1,
+                        "explanation": "Flora is the naturally occurring plant life of a specific region."
+                    },
+                    {
+                        "q": "Plants use nitrates from the soil primarily to synthesize:",
+                        "options": [
+                            "Carbohydrates",
+                            "Lipids",
+                            "Proteins",
+                            "Vitamins"
+                        ],
+                        "answer": 2,
+                        "explanation": "Nitrogen is a key component of amino acids, which form proteins."
+                    },
+                    {
+                        "q": "Resin and turpentine are obtained primarily from:",
+                        "options": [
+                            "Angiosperms",
+                            "Pinus (Gymnosperms)",
+                            "Ferns",
+                            "Mosses"
+                        ],
+                        "answer": 1,
+                        "explanation": "Pine trees (Pinus) secrete resin which is refined into turpentine."
+                    },
+                    {
+                        "q": "Which layer of the atmosphere contains the ozone layer that protects plants from UV rays?",
+                        "options": [
+                            "Troposphere",
+                            "Stratosphere",
+                            "Mesosphere",
+                            "Thermosphere"
+                        ],
+                        "answer": 1,
+                        "explanation": "The ozone layer is mainly situated in the lower portion of the stratosphere."
+                    },
+                    {
+                        "q": "In binary fission, a cell divides into how many daughter cells?",
+                        "options": [
+                            "Two",
+                            "Four",
+                            "Eight",
+                            "Sixteen"
+                        ],
+                        "answer": 0,
+                        "explanation": "Binary meaning 'two', indicating division into two identical cells."
+                    },
+                    {
+                        "q": "Which organelle is responsible for protein synthesis?",
+                        "options": [
+                            "Lysosome",
+                            "Golgi apparatus",
+                            "Ribosome",
+                            "Endoplasmic reticulum"
+                        ],
+                        "answer": 2,
+                        "explanation": "Ribosomes translate mRNA into protein chains."
+                    },
+                    {
+                        "q": "The process of transformation of atmospheric nitrogen into usable nitrogenous compounds is called:",
+                        "options": [
+                            "Nitrification",
+                            "Nitrogen fixation",
+                            "Denitrification",
+                            "Ammonification"
+                        ],
+                        "answer": 1,
+                        "explanation": "Nitrogen fixation makes inert atmospheric nitrogen biologically available."
+                    },
+                    {
+                        "q": "Plants synthesize protein from:",
+                        "options": [
+                            "Starch",
+                            "Sugar",
+                            "Amino acids",
+                            "Fatty acids"
+                        ],
+                        "answer": 2,
+                        "explanation": "Amino acids are the building blocks of proteins."
+                    },
+                    {
+                        "q": "What is the primary function of phloem?",
+                        "options": [
+                            "Transport of water",
+                            "Transport of food",
+                            "Mechanical support",
+                            "Photosynthesis"
+                        ],
+                        "answer": 1,
+                        "explanation": "Phloem translocates soluble organic compounds made during photosynthesis."
+                    },
+                    {
+                        "q": "Which part of the cell controls the entry and exit of molecules?",
+                        "options": [
+                            "Cell wall",
+                            "Plasma membrane",
+                            "Nucleus",
+                            "Ribosome"
+                        ],
+                        "answer": 1,
+                        "explanation": "The plasma membrane is semi-permeable and regulates molecular traffic."
+                    },
+                    {
+                        "q": "A characteristic of gymnosperms is:",
+                        "options": [
+                            "They have flowers",
+                            "They produce naked seeds",
+                            "They have no vascular tissue",
+                            "They produce fruits"
+                        ],
+                        "answer": 1,
+                        "explanation": "Gymnosperms like pines produce seeds without enclosing them in a fruit."
+                    },
+                    {
+                        "q": "The root system that develops from regions other than the radicle is called:",
+                        "options": [
+                            "Tap root system",
+                            "Fibrous root system",
+                            "Adventitious root system",
+                            "Primary root system"
+                        ],
+                        "answer": 2,
+                        "explanation": "Adventitious roots arise from stems, leaves, or older roots."
+                    },
+                    {
+                        "q": "Potato is a modified:",
+                        "options": [
+                            "Root",
+                            "Stem",
+                            "Leaf",
+                            "Flower"
+                        ],
+                        "answer": 1,
+                        "explanation": "The potato tuber is a modified, swollen underground stem for food storage."
+                    },
+                    {
+                        "q": "Onion is a modified form of:",
+                        "options": [
+                            "Root",
+                            "Stem",
+                            "Leaf",
+                            "Flower"
+                        ],
+                        "answer": 1,
+                        "explanation": "An onion bulb is a modified underground stem with fleshy leaves."
+                    },
+                    {
+                        "q": "Which of these is NOT a function of the leaf?",
+                        "options": [
+                            "Photosynthesis",
+                            "Transpiration",
+                            "Conduction of water from soil",
+                            "Gas exchange"
+                        ],
+                        "answer": 2,
+                        "explanation": "Roots extract water from the soil; leaves do not."
+                    },
+                    {
+                        "q": "An example of an insectivorous plant is:",
+                        "options": [
+                            "Cuscuta",
+                            "Pitcher plant",
+                            "Sandalwood",
+                            "Mistletoe"
+                        ],
+                        "answer": 1,
+                        "explanation": "The pitcher plant traps and digests insects to obtain nutrients like nitrogen."
+                    },
+                    {
+                        "q": "Which plant hormone is responsible for apical dominance?",
+                        "options": [
+                            "Auxin",
+                            "Cytokinin",
+                            "Gibberellin",
+                            "Abscisic acid"
+                        ],
+                        "answer": 0,
+                        "explanation": "Auxins maintain apical dominance by inhibiting the growth of lateral buds."
+                    },
+                    {
+                        "q": "Which hormone is associated with stomatal closure under water stress?",
+                        "options": [
+                            "Indole acetic acid",
+                            "Cytokinin",
+                            "Abscisic acid (ABA)",
+                            "Ethylene"
+                        ],
+                        "answer": 2,
+                        "explanation": "ABA regulates plant water balance and prompts stomata to close during droughts."
+                    },
+                    {
+                        "q": "What causes the green color in plants?",
+                        "options": [
+                            "Phycoerythrin",
+                            "Chlorophyll",
+                            "Xanthophyll",
+                            "Carotene"
+                        ],
+                        "answer": 1,
+                        "explanation": "Chlorophyll reflects green light and dominates in leaves."
+                    },
+                    {
+                        "q": "Which of the following elements is a constituent of chlorophyll?",
+                        "options": [
+                            "Iron",
+                            "Magnesium",
+                            "Calcium",
+                            "Potassium"
+                        ],
+                        "answer": 1,
+                        "explanation": "Magnesium sits at the central core of the chlorophyll molecule."
+                    },
+                    {
+                        "q": "The female reproductive part of a plant is collectively called:",
+                        "options": [
+                            "Calyx",
+                            "Corolla",
+                            "Androecium",
+                            "Gynoecium"
+                        ],
+                        "answer": 3,
+                        "explanation": "Gynoecium consists of the carpels (pistils)."
+                    },
+                    {
+                        "q": "The transfer of pollen grains from anther to stigma is termed:",
+                        "options": [
+                            "Fertilization",
+                            "Pollination",
+                            "Germination",
+                            "Placentation"
+                        ],
+                        "answer": 1,
+                        "explanation": "Pollination is a vital step right before fertilization in seed plants."
+                    },
+                    {
+                        "q": "When pollen represents the same flower, it is called:",
+                        "options": [
+                            "Cross-pollination",
+                            "Self-pollination",
+                            "Anemophily",
+                            "Entomophily"
+                        ],
+                        "answer": 1,
+                        "explanation": "Self-pollination occurs within the same flower or plant."
+                    },
+                    {
+                        "q": "Pollination by wind is known as:",
+                        "options": [
+                            "Anemophily",
+                            "Zoophily",
+                            "Hydrophily",
+                            "Entomophily"
+                        ],
+                        "answer": 0,
+                        "explanation": "Anemophily relies on wind currents to distribute pollen."
+                    },
+                    {
+                        "q": "Pollination by insects is called:",
+                        "options": [
+                            "Anemophily",
+                            "Ornithophily",
+                            "Entomophily",
+                            "Hydrophily"
+                        ],
+                        "answer": 2,
+                        "explanation": "Entomophily is the transfer of pollen by insects."
+                    },
+                    {
+                        "q": "The process by which seeds begin to grow is called:",
+                        "options": [
+                            "Transpiration",
+                            "Germination",
+                            "Abscission",
+                            "Vernalization"
+                        ],
+                        "answer": 1,
+                        "explanation": "Germination is the process of a seed developing into a seedling."
+                    },
+                    {
+                        "q": "Angiosperms are divided into:",
+                        "options": [
+                            "Monocots and Dicots",
+                            "Bryophytes and Pteridophytes",
+                            "Algae and Fungi",
+                            "Ferns and Mosses"
+                        ],
+                        "answer": 0,
+                        "explanation": "They are divided based on possessing one or two cotyledons."
+                    },
+                    {
+                        "q": "Monocot plants have:",
+                        "options": [
+                            "Two seed leaves",
+                            "One seed leaf",
+                            "No seed leaves",
+                            "Three seed leaves"
+                        ],
+                        "answer": 1,
+                        "explanation": "Monocotyledons (monocots) contain a single embryonic leaf."
+                    },
+                    {
+                        "q": "Which tissue provides mechanical strength to mature plant parts and contains dead cells?",
+                        "options": [
+                            "Parenchyma",
+                            "Collenchyma",
+                            "Sclerenchyma",
+                            "Chlorenchyma"
+                        ],
+                        "answer": 2,
+                        "explanation": "Sclerenchyma cells have thick, lignified walls and are mostly dead at maturity."
+                    },
+                    {
+                        "q": "The outer waxy layer on the surface of leaves that reduces water loss is the:",
+                        "options": [
+                            "Epidermis",
+                            "Cuticle",
+                            "Cortex",
+                            "Endodermis"
+                        ],
+                        "answer": 1,
+                        "explanation": "The cuticle acts as a water-impermeable barrier."
+                    },
+                    {
+                        "q": "Yeast represents which kingdom?",
+                        "options": [
+                            "Monera",
+                            "Protista",
+                            "Fungi",
+                            "Plantae"
+                        ],
+                        "answer": 2,
+                        "explanation": "Yeasts are single-celled microorganisms classified as fungi."
+                    },
+                    {
+                        "q": "Penicillin is obtained from a:",
+                        "options": [
+                            "Bacterium",
+                            "Fungus",
+                            "Alga",
+                            "Virus"
+                        ],
+                        "answer": 1,
+                        "explanation": "Penicillin was originally derived from the fungus Penicillium."
+                    },
+                    {
+                        "q": "Mushroom is an example of:",
+                        "options": [
+                            "Algae",
+                            "Fungi",
+                            "Bryophyte",
+                            "Pteridophyte"
+                        ],
+                        "answer": 1,
+                        "explanation": "A mushroom is the fleshy, spore-bearing fruiting body of a fungus."
+                    },
+                    {
+                        "q": "The plant kingdom's equivalent to amphibians are the:",
+                        "options": [
+                            "Bryophytes",
+                            "Algae",
+                            "Gymnosperms",
+                            "Angiosperms"
+                        ],
+                        "answer": 0,
+                        "explanation": "Bryophytes need water to reproduce, linking aquatic and terrestrial life."
+                    },
+                    {
+                        "q": "Which plant part is responsible for the secondary growth (increase in girth)?",
+                        "options": [
+                            "Apical meristem",
+                            "Lateral meristem (Cambium)",
+                            "Intercalary meristem",
+                            "Permanent tissue"
+                        ],
+                        "answer": 1,
+                        "explanation": "The vascular cambium and cork cambium (lateral meristems) cause radial growth."
+                    },
+                    {
+                        "q": "Plants that complete their life cycle in one season are:",
+                        "options": [
+                            "Annuals",
+                            "Biennials",
+                            "Perennials",
+                            "Evergreens"
+                        ],
+                        "answer": 0,
+                        "explanation": "Annuals go from seed to seed in one growing season."
+                    },
+                    {
+                        "q": "Lactic acid fermentation of cabbage yields:",
+                        "options": [
+                            "Vinegar",
+                            "Sauerkraut",
+                            "Cheese",
+                            "Ethanol"
+                        ],
+                        "answer": 1,
+                        "explanation": "Cabbage is fermented by lactic acid bacteria to produce sauerkraut."
+                    },
+                    {
+                        "q": "Which of these is a macronutrient for plants?",
+                        "options": [
+                            "Zinc",
+                            "Copper",
+                            "Nitrogen",
+                            "Boron"
+                        ],
+                        "answer": 2,
+                        "explanation": "Nitrogen, Phosphorus, and Potassium are the primary macronutrients."
+                    },
+                    {
+                        "q": "Plants wilt due to lack of:",
+                        "options": [
+                            "Respiration",
+                            "Water (Turgor pressure)",
+                            "Photosynthesis",
+                            "Nutrients"
+                        ],
+                        "answer": 1,
+                        "explanation": "Loss of turgor pressure causes the leaves and stems to wilt."
+                    },
+                    {
+                        "q": "What is photoperiodism?",
+                        "options": [
+                            "Dying due to excess light",
+                            "Response of plants to relative lengths of day and night",
+                            "Producing light at night",
+                            "Bending towards light"
+                        ],
+                        "answer": 1,
+                        "explanation": "It determines flowering times based on day/night length."
+                    },
+                    {
+                        "q": "Short-day plants flower when:",
+                        "options": [
+                            "Days are longer than nights",
+                            "Nights are longer than a critical length",
+                            "It is raining",
+                            "Under artificial light only"
+                        ],
+                        "answer": 1,
+                        "explanation": "They require long periods of uninterrupted darkness to flower."
+                    },
+                    {
+                        "q": "An example of a C4 plant is:",
+                        "options": [
+                            "Rice",
+                            "Wheat",
+                            "Maize (Corn)",
+                            "Potato"
+                        ],
+                        "answer": 2,
+                        "explanation": "Maize is adapted (via the C4 pathway) to efficiently fix carbon under high light and heat."
+                    },
+                    {
+                        "q": "Respiration in plants occurs:",
+                        "options": [
+                            "Only during the day",
+                            "Only during the night",
+                            "Continuously, day and night",
+                            "Only in leaves"
+                        ],
+                        "answer": 2,
+                        "explanation": "Cellular respiration occurs continuously in all living cells."
+                    },
+                    {
+                        "q": "The symbiotic nitrogen fixation in legume root nodules is facilitated by:",
+                        "options": [
+                            "Azotobacter",
+                            "Rhizobium",
+                            "Clostridium",
+                            "Nostoc"
+                        ],
+                        "answer": 1,
+                        "explanation": "Rhizobium bacteria fix nitrogen in a symbiotic relationship with legumes."
+                    },
+                    {
+                        "q": "Golden rice is a genetically modified crop enhanced with:",
+                        "options": [
+                            "Vitamin C",
+                            "Vitamin A (beta-carotene)",
+                            "Iron",
+                            "Calcium"
+                        ],
+                        "answer": 1,
+                        "explanation": "It is engineered to biosynthesize beta-carotene."
+                    },
+                    {
+                        "q": "What is tissue culture?",
+                        "options": [
+                            "Growing tissues in vivo",
+                            "Growing plant cells/tissues in an artificial nutrient medium",
+                            "Farming of woven linen",
+                            "Grafting two stems"
+                        ],
+                        "answer": 1,
+                        "explanation": "It involves cultivating exact plant clones in sterile environments."
+                    },
+                    {
+                        "q": "The edible part of a strawberry is the fleshy:",
+                        "options": [
+                            "Ovary",
+                            "Petal",
+                            "Receptacle",
+                            "Endosperm"
+                        ],
+                        "answer": 2,
+                        "explanation": "The receptacle enlarges and becomes fleshy, holding the true fruits (the tiny 'seeds')."
+                    },
+                    {
+                        "q": "The evaporation of water from the stoma is called:",
+                        "options": [
+                            "Guttation",
+                            "Transpiration",
+                            "Respiration",
+                            "Perspiration"
+                        ],
+                        "answer": 1,
+                        "explanation": "Transpiration pulls water up from the roots via the xylem."
+                    },
+                    {
+                        "q": "Kelps belong to the group of:",
+                        "options": [
+                            "Brown algae",
+                            "Red algae",
+                            "Green algae",
+                            "Blue-green algae"
+                        ],
+                        "answer": 0,
+                        "explanation": "Kelps are large brown algae or seaweeds."
+                    },
+                    {
+                        "q": "The pigment found in red algae is:",
+                        "options": [
+                            "Fucoxanthin",
+                            "Phycoerythrin",
+                            "Carotene",
+                            "Lutein"
+                        ],
+                        "answer": 1,
+                        "explanation": "Phycoerythrin gives red algae its distinctive color."
+                    },
+                    {
+                        "q": "Agar-agar, used in labs, is extracted from:",
+                        "options": [
+                            "Brown algae",
+                            "Red algae",
+                            "Green algae",
+                            "Fungi"
+                        ],
+                        "answer": 1,
+                        "explanation": "It is obtained from the cell walls of some species of red algae."
+                    },
+                    {
+                        "q": "A characteristic of ferns is the presence of coiled young leaves known as:",
+                        "options": [
+                            "Cones",
+                            "Crozisers (Fiddleheads)",
+                            "Sori",
+                            "Strobili"
+                        ],
+                        "answer": 1,
+                        "explanation": "Fiddleheads are the furled fronds of a young fern."
+                    },
+                    {
+                        "q": "The male gametophyte of an angiosperm is the:",
+                        "options": [
+                            "Embryo sac",
+                            "Pollen grain",
+                            "Seed",
+                            "Ovule"
+                        ],
+                        "answer": 1,
+                        "explanation": "The pollen grain houses the male gametes."
+                    },
+                    {
+                        "q": "Endosperm in angiosperms is typically:",
+                        "options": [
+                            "Haploid (n)",
+                            "Diploid (2n)",
+                            "Triploid (3n)",
+                            "Tetraploid (4n)"
+                        ],
+                        "answer": 2,
+                        "explanation": "It forms from the fusion of a sperm cell with two polar nuclei, resulting in a triploid cell."
+                    },
+                    {
+                        "q": "The branch of science dealing with the study of fruits is called:",
+                        "options": [
+                            "Pomology",
+                            "Olericulture",
+                            "Floriculture",
+                            "Silviculture"
+                        ],
+                        "answer": 0,
+                        "explanation": "Pomology focuses on the cultivation of fruit."
+                    },
+                    {
+                        "q": "Growing plants without soil, using mineral nutrient solutions in water is called:",
+                        "options": [
+                            "Aeroponics",
+                            "Hydroponics",
+                            "Aquaponics",
+                            "Geoponics"
+                        ],
+                        "answer": 1,
+                        "explanation": "Hydroponics uses water-based nutrient solutions instead of soil."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Zoology",
+        "icon": "fa-hippo",
+        "subcategories": [
+            {
+                "category": "General Zoology",
+                "icon": "fa-book",
+                "questions": [
+                    {
+                        "q": "Zoology is primarily the study of:",
+                        "options": [
+                            "Plants",
+                            "Animals",
+                            "Fossils",
+                            "Microbes"
+                        ],
+                        "answer": 1,
+                        "explanation": "Zoology is the branch of biology that relates to the animal kingdom."
+                    },
+                    {
+                        "q": "The basic unit of structure and function in animals is the:",
+                        "options": [
+                            "Organ",
+                            "Tissue",
+                            "Cell",
+                            "System"
+                        ],
+                        "answer": 2,
+                        "explanation": "The cell is the smallest unit of life."
+                    },
+                    {
+                        "q": "Animals without a backbone are called:",
+                        "options": [
+                            "Vertebrates",
+                            "Invertebrates",
+                            "Mammals",
+                            "Amphibians"
+                        ],
+                        "answer": 1,
+                        "explanation": "Invertebrates are animals that neither possess nor develop a vertebral column."
+                    },
+                    {
+                        "q": "Which of the following belongs to the Phylum Arthropoda?",
+                        "options": [
+                            "Starfish",
+                            "Earthworm",
+                            "Spider",
+                            "Snail"
+                        ],
+                        "answer": 2,
+                        "explanation": "Arthropods have jointed appendages and exoskeletons (e.g., insects, spiders)."
+                    },
+                    {
+                        "q": "The study of insects is called:",
+                        "options": [
+                            "Ornithology",
+                            "Entomology",
+                            "Ichthyology",
+                            "Herpetology"
+                        ],
+                        "answer": 1,
+                        "explanation": "Entomology comes from the Greek 'entomon', meaning 'notched' or 'insect'."
+                    },
+                    {
+                        "q": "The study of birds is termed:",
+                        "options": [
+                            "Ornithology",
+                            "Herpetology",
+                            "Malacology",
+                            "Mammalogy"
+                        ],
+                        "answer": 0,
+                        "explanation": "Ornithology is a branch of zoology that concerns the 'methodological study and consequent knowledge of birds'."
+                    },
+                    {
+                        "q": "Amphibians have a heart with how many chambers?",
+                        "options": [
+                            "Two",
+                            "Three",
+                            "Four",
+                            "Five"
+                        ],
+                        "answer": 1,
+                        "explanation": "Amphibian hearts have two atria and one ventricle."
+                    },
+                    {
+                        "q": "Mammals have a heart with how many chambers?",
+                        "options": [
+                            "Two",
+                            "Three",
+                            "Four",
+                            "Five"
+                        ],
+                        "answer": 2,
+                        "explanation": "Mammals and birds have a four-chambered heart (two atria, two ventricles)."
+                    },
+                    {
+                        "q": "Which animal is a marsupial?",
+                        "options": [
+                            "Platypus",
+                            "Kangaroo",
+                            "Elephant",
+                            "Whale"
+                        ],
+                        "answer": 1,
+                        "explanation": "Marsupials carry their young in a pouch, like kangaroos and koalas."
+                    },
+                    {
+                        "q": "Which of the following is an egg-laying mammal (monotreme)?",
+                        "options": [
+                            "Opossum",
+                            "Platypus",
+                            "Bat",
+                            "Dolphin"
+                        ],
+                        "answer": 1,
+                        "explanation": "The platypus and echidnas are the only living monotremes."
+                    },
+                    {
+                        "q": "The process by which a caterpillar transforms into a butterfly is called:",
+                        "options": [
+                            "Moulting",
+                            "Metamorphosis",
+                            "Ecdysis",
+                            "Gastrulation"
+                        ],
+                        "answer": 1,
+                        "explanation": "Metamorphosis represents profound physical changes after birth or hatching."
+                    },
+                    {
+                        "q": "Which blood cells are responsible for carrying oxygen in vertebrates?",
+                        "options": [
+                            "Leukocytes",
+                            "Thrombocytes",
+                            "Erythrocytes",
+                            "Lymphocytes"
+                        ],
+                        "answer": 2,
+                        "explanation": "Erythrocytes (Red Blood Cells) contain hemoglobin which binds to oxygen."
+                    },
+                    {
+                        "q": "Which is the largest organ in the human body?",
+                        "options": [
+                            "Heart",
+                            "Liver",
+                            "Skin",
+                            "Brain"
+                        ],
+                        "answer": 2,
+                        "explanation": "The skin is the body's largest organ by surface area and weight."
+                    },
+                    {
+                        "q": "What is the largest internal organ in humans?",
+                        "options": [
+                            "Lungs",
+                            "Liver",
+                            "Kidney",
+                            "Stomach"
+                        ],
+                        "answer": 1,
+                        "explanation": "The liver is the heaviest internal organ and the largest gland."
+                    },
+                    {
+                        "q": "The structural and functional unit of the nervous system is the:",
+                        "options": [
+                            "Nephron",
+                            "Neuron",
+                            "Alveolus",
+                            "Sarcomere"
+                        ],
+                        "answer": 1,
+                        "explanation": "Neurons are cells responsible for receiving sensory input and sending commands."
+                    },
+                    {
+                        "q": "Which part of the brain controls balance and coordination?",
+                        "options": [
+                            "Cerebrum",
+                            "Cerebellum",
+                            "Medulla oblongata",
+                            "Hypothalamus"
+                        ],
+                        "answer": 1,
+                        "explanation": "The cerebellum is crucial for motor control and balance."
+                    },
+                    {
+                        "q": "Animals that maintain a constant body temperature are called:",
+                        "options": [
+                            "Poikilotherms",
+                            "Ectotherms",
+                            "Homeotherms (Endotherms)",
+                            "Cold-blooded"
+                        ],
+                        "answer": 2,
+                        "explanation": "Warm-blooded animals (Endotherms) maintain strict body temperature."
+                    },
+                    {
+                        "q": "Which Phylum includes animals with a water vascular system and tube feet?",
+                        "options": [
+                            "Mollusca",
+                            "Arthropoda",
+                            "Echinodermata",
+                            "Annelida"
+                        ],
+                        "answer": 2,
+                        "explanation": "Echinoderms (like starfish) utilize a unique water vascular system."
+                    },
+                    {
+                        "q": "The excretory organs of insects are called:",
+                        "options": [
+                            "Nephridia",
+                            "Malpighian tubules",
+                            "Kidneys",
+                            "Flame cells"
+                        ],
+                        "answer": 1,
+                        "explanation": "Malpighian tubules remove nitrogenous wastes from the insect's hemolymph."
+                    },
+                    {
+                        "q": "A characteristic feature of birds is the presence of:",
+                        "options": [
+                            "Hair",
+                            "Scales all over",
+                            "Feathers",
+                            "Mammary glands"
+                        ],
+                        "answer": 2,
+                        "explanation": "Feathers are unique epidermal growths that define birds."
+                    },
+                    {
+                        "q": "Which group of animals possesses mammary glands?",
+                        "options": [
+                            "Reptiles",
+                            "Birds",
+                            "Mammals",
+                            "Amphibians"
+                        ],
+                        "answer": 2,
+                        "explanation": "Mammals are distinguished by females possessing mammary glands to feed young."
+                    },
+                    {
+                        "q": "The primary organ of gaseous exchange in fishes is:",
+                        "options": [
+                            "Lungs",
+                            "Skin",
+                            "Gills",
+                            "Trachea"
+                        ],
+                        "answer": 2,
+                        "explanation": "Gills extract dissolved oxygen from water and excrete carbon dioxide."
+                    },
+                    {
+                        "q": "What covers the body of reptiles?",
+                        "options": [
+                            "Feathers",
+                            "Hair",
+                            "Dry scales",
+                            "Moist skin"
+                        ],
+                        "answer": 2,
+                        "explanation": "Reptiles have skin covered in scales or scutes."
+                    },
+                    {
+                        "q": "Which is the longest bone in the human body?",
+                        "options": [
+                            "Tibia",
+                            "Humerus",
+                            "Femur",
+                            "Fibula"
+                        ],
+                        "answer": 2,
+                        "explanation": "The femur (thigh bone) is the longest and strongest bone."
+                    },
+                    {
+                        "q": "Where does digestion primarily begin in the human digestive system?",
+                        "options": [
+                            "Stomach",
+                            "Small intestine",
+                            "Mouth",
+                            "Esophagus"
+                        ],
+                        "answer": 2,
+                        "explanation": "Digestion starts in the mouth where salivary amylase breaks down starches."
+                    },
+                    {
+                        "q": "Which organ produces bile?",
+                        "options": [
+                            "Gallbladder",
+                            "Liver",
+                            "Pancreas",
+                            "Stomach"
+                        ],
+                        "answer": 1,
+                        "explanation": "The liver secretes bile which helps in digesting fats."
+                    },
+                    {
+                        "q": "In humans, the normal number of chromosomes in a somatic cell is:",
+                        "options": [
+                            "23",
+                            "46",
+                            "22",
+                            "44"
+                        ],
+                        "answer": 1,
+                        "explanation": "Humans have 23 pairs, giving a total of 46 chromosomes."
+                    },
+                    {
+                        "q": "What limits the size of arthropods on land?",
+                        "options": [
+                            "Their heavy skeleton",
+                            "The need to molt a rigid exoskeleton",
+                            "Lack of lungs",
+                            "Poor vision"
+                        ],
+                        "answer": 1,
+                        "explanation": "To grow, they must molt their heavy exoskeleton, rendering them temporarily vulnerable and physically unsupported."
+                    },
+                    {
+                        "q": "The study of animal behavior is called:",
+                        "options": [
+                            "Ecology",
+                            "Ethology",
+                            "Evolution",
+                            "Embryology"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ethology is the scientific study of animal behavior, usually with a focus on behavior under natural conditions."
+                    },
+                    {
+                        "q": "What is an animal called that eats both plants and meat?",
+                        "options": [
+                            "Carnivore",
+                            "Herbivore",
+                            "Omnivore",
+                            "Detritivore"
+                        ],
+                        "answer": 2,
+                        "explanation": "Omnivores consume a variety of material, including plants, animals, algae, and fungi."
+                    },
+                    {
+                        "q": "Which animal is famously known as the 'Ship of the Desert'?",
+                        "options": [
+                            "Horse",
+                            "Elephant",
+                            "Camel",
+                            "Mule"
+                        ],
+                        "answer": 2,
+                        "explanation": "Camels are well adapted to desert life and historical transport."
+                    },
+                    {
+                        "q": "How many legs does a spider possess?",
+                        "options": [
+                            "Six",
+                            "Eight",
+                            "Ten",
+                            "Four"
+                        ],
+                        "answer": 1,
+                        "explanation": "Arachnids, like spiders, have eight legs."
+                    },
+                    {
+                        "q": "Which marine animal is known as the largest animal to have ever lived?",
+                        "options": [
+                            "Great White Shark",
+                            "Colossal Squid",
+                            "Blue Whale",
+                            "Whale Shark"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Blue Whale can reach nearly 30 meters in length and weigh over 170 tonnes."
+                    },
+                    {
+                        "q": "What is the group of mammals called that have a pouch?",
+                        "options": [
+                            "Placentals",
+                            "Monotremes",
+                            "Marsupials",
+                            "Primates"
+                        ],
+                        "answer": 2,
+                        "explanation": "Marsupials carry and nurse their young in a pouch."
+                    },
+                    {
+                        "q": "What is the main function of white blood cells?",
+                        "options": [
+                            "Transport oxygen",
+                            "Clot blood",
+                            "Fight infection",
+                            "Transport nutrients"
+                        ],
+                        "answer": 2,
+                        "explanation": "White blood cells or leukocytes are part of the immune system."
+                    },
+                    {
+                        "q": "A characteristic shared by all chordates at some stage in life is a:",
+                        "options": [
+                            "Vertebral column",
+                            "Notochord",
+                            "Hair",
+                            "Four-chambered heart"
+                        ],
+                        "answer": 1,
+                        "explanation": "All chordates feature a notochord during embryonic development."
+                    },
+                    {
+                        "q": "The scientific name for the human species is:",
+                        "options": [
+                            "Homo erectus",
+                            "Homo habilis",
+                            "Homo sapiens",
+                            "Australopithecus afarensis"
+                        ],
+                        "answer": 2,
+                        "explanation": "Sapiens translates to 'wise'."
+                    },
+                    {
+                        "q": "Which phylum is characterized by a segmented body like an earthworm?",
+                        "options": [
+                            "Nematoda",
+                            "Platyhelminthes",
+                            "Annelida",
+                            "Mollusca"
+                        ],
+                        "answer": 2,
+                        "explanation": "Annelids are formally called ringed or segmented worms."
+                    },
+                    {
+                        "q": "Tapeworms belong to which phylum?",
+                        "options": [
+                            "Annelida",
+                            "Platyhelminthes",
+                            "Nematoda",
+                            "Arthropoda"
+                        ],
+                        "answer": 1,
+                        "explanation": "Platyhelminthes consists of flatworms."
+                    },
+                    {
+                        "q": "Which is a characteristic of amphibians?",
+                        "options": [
+                            "Dry, scaly skin",
+                            "Amniotic eggs",
+                            "Moist, glandular skin",
+                            "Endothermy"
+                        ],
+                        "answer": 2,
+                        "explanation": "Amphibians generally rely on their moist skin for partial gas exchange."
+                    },
+                    {
+                        "q": "In the mammalian eye, the light-sensitive inner surface is the:",
+                        "options": [
+                            "Cornea",
+                            "Lens",
+                            "Retina",
+                            "Iris"
+                        ],
+                        "answer": 2,
+                        "explanation": "The retina transforms light into neural signals via photoreceptors."
+                    },
+                    {
+                        "q": "Which of these is a function of the lymphatic system?",
+                        "options": [
+                            "Pumping blood",
+                            "Immune defense and fluid balance",
+                            "Digesting fats entirely",
+                            "Excreting urea"
+                        ],
+                        "answer": 1,
+                        "explanation": "It returns fluid to the bloodstream and houses immune cells."
+                    },
+                    {
+                        "q": "The process of shedding an exoskeleton is called:",
+                        "options": [
+                            "Guttation",
+                            "Moulting (Ecdysis)",
+                            "Metamorphosis",
+                            "Pupation"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ecdysis allows arthropods to grow."
+                    },
+                    {
+                        "q": "Bivalves (like clams) belong to which Phylum?",
+                        "options": [
+                            "Arthropoda",
+                            "Echinodermata",
+                            "Mollusca",
+                            "Annelida"
+                        ],
+                        "answer": 2,
+                        "explanation": "Mollusca includes bivalves, gastropods, and cephalopods."
+                    },
+                    {
+                        "q": "What is the primary function of insulin in mammals?",
+                        "options": [
+                            "Increase heart rate",
+                            "Lower blood glucose",
+                            "Raise blood glucose",
+                            "Digest proteins"
+                        ],
+                        "answer": 1,
+                        "explanation": "Insulin promotes the absorption of glucose into cells."
+                    },
+                    {
+                        "q": "What is the name of the pigment responsible for oxygen storage in muscle tissue?",
+                        "options": [
+                            "Hemoglobin",
+                            "Myoglobin",
+                            "Melanin",
+                            "Chlorophyll"
+                        ],
+                        "answer": 1,
+                        "explanation": "Myoglobin binds oxygen in muscle cells."
+                    },
+                    {
+                        "q": "Which group includes octopuses and squids?",
+                        "options": [
+                            "Gastropods",
+                            "Bivalves",
+                            "Cephalopods",
+                            "Crustaceans"
+                        ],
+                        "answer": 2,
+                        "explanation": "Cephalopod literally means 'head-foot'."
+                    },
+                    {
+                        "q": "The highest taxonomic rank among animals is the:",
+                        "options": [
+                            "Kingdom",
+                            "Domain",
+                            "Phylum",
+                            "Class"
+                        ],
+                        "answer": 1,
+                        "explanation": "Under modern systems, Domain is above Kingdom (Eukarya contains the Animal Kingdom)."
+                    },
+                    {
+                        "q": "A specialized stomach compartment used by ruminants to ferment plant matter is the:",
+                        "options": [
+                            "Crop",
+                            "Gizzard",
+                            "Rumen",
+                            "Caecum"
+                        ],
+                        "answer": 2,
+                        "explanation": "The rumen contains microbes that break down cellulose."
+                    },
+                    {
+                        "q": "Which of these animals exhibits radial symmetry?",
+                        "options": [
+                            "Human",
+                            "Frog",
+                            "Starfish",
+                            "Earthworm"
+                        ],
+                        "answer": 2,
+                        "explanation": "Adult echinoderms like starfish exhibit secondary radial symmetry."
+                    },
+                    {
+                        "q": "What is the study of tissues called?",
+                        "options": [
+                            "Cytology",
+                            "Histology",
+                            "Morphology",
+                            "Anatomy"
+                        ],
+                        "answer": 1,
+                        "explanation": "Histology is the microscopic study of plant and animal tissues."
+                    },
+                    {
+                        "q": "Which animal has the heaviest brain?",
+                        "options": [
+                            "Human",
+                            "Elephant",
+                            "Sperm Whale",
+                            "Blue Whale"
+                        ],
+                        "answer": 2,
+                        "explanation": "The sperm whale has the largest and heaviest brain of any animal, weighing up to 9 kg."
+                    },
+                    {
+                        "q": "Which is the only mammal that can truly fly?",
+                        "options": [
+                            "Flying squirrel",
+                            "Bat",
+                            "Lemur",
+                            "Colugo"
+                        ],
+                        "answer": 1,
+                        "explanation": "Bats are the only mammals naturally capable of true and sustained flight."
+                    },
+                    {
+                        "q": "Animals that are active during the night are known as:",
+                        "options": [
+                            "Diurnal",
+                            "Nocturnal",
+                            "Crepuscular",
+                            "Vespertine"
+                        ],
+                        "answer": 1,
+                        "explanation": "Nocturnal animals are active primarily during the night."
+                    },
+                    {
+                        "q": "What is the process by which birds lose their feathers?",
+                        "options": [
+                            "Moulting",
+                            "Preening",
+                            "Shedding",
+                            "Fledging"
+                        ],
+                        "answer": 0,
+                        "explanation": "Moulting in birds replaces worn feathers with new ones."
+                    },
+                    {
+                        "q": "Which of the following has a three-chambered heart?",
+                        "options": [
+                            "Crocodile",
+                            "Fish",
+                            "Frog",
+                            "Pigeon"
+                        ],
+                        "answer": 2,
+                        "explanation": "Amphibians like frogs have two atria and one ventricle."
+                    },
+                    {
+                        "q": "The skeleton of sharks is made entirely of:",
+                        "options": [
+                            "Bone",
+                            "Cartilage",
+                            "Chitin",
+                            "Keratin"
+                        ],
+                        "answer": 1,
+                        "explanation": "Sharks are cartilaginous fish (Chondrichthyes)."
+                    },
+                    {
+                        "q": "What do we call the young of a frog?",
+                        "options": [
+                            "Fry",
+                            "Fingerling",
+                            "Tadpole",
+                            "Nymph"
+                        ],
+                        "answer": 2,
+                        "explanation": "Tadpoles are the aquatic larval stage of frogs."
+                    },
+                    {
+                        "q": "Which animal produces pearls?",
+                        "options": [
+                            "Octopus",
+                            "Starfish",
+                            "Oyster",
+                            "Sea Urchin"
+                        ],
+                        "answer": 2,
+                        "explanation": "Oysters and some other molluscs produce pearls as a defense mechanism against irritants."
+                    },
+                    {
+                        "q": "What is the largest living bird?",
+                        "options": [
+                            "Emu",
+                            "Ostrich",
+                            "Albatross",
+                            "Penguin"
+                        ],
+                        "answer": 1,
+                        "explanation": "The ostrich is the largest and heaviest living bird species."
+                    },
+                    {
+                        "q": "The respiratory organ of an earthworm is its:",
+                        "options": [
+                            "Gills",
+                            "Lungs",
+                            "Skin",
+                            "Trachea"
+                        ],
+                        "answer": 2,
+                        "explanation": "Earthworms breathe through their moist skin."
+                    },
+                    {
+                        "q": "Which group of animals is known for having a radially symmetrical body plan as adults?",
+                        "options": [
+                            "Arthropods",
+                            "Annelids",
+                            "Echinoderms",
+                            "Chordates"
+                        ],
+                        "answer": 2,
+                        "explanation": "Echinoderms (like starfish) have five-point radial symmetry."
+                    },
+                    {
+                        "q": "In human males, the sex chromosomes are:",
+                        "options": [
+                            "XX",
+                            "XY",
+                            "YY",
+                            "XO"
+                        ],
+                        "answer": 1,
+                        "explanation": "Males have one X and one Y chromosome."
+                    },
+                    {
+                        "q": "The study of fossils to determine the structure and evolution of extinct animals is:",
+                        "options": [
+                            "Phylogeny",
+                            "Ontogeny",
+                            "Paleontology",
+                            "Ecology"
+                        ],
+                        "answer": 2,
+                        "explanation": "Paleontology studies life that existed prior to the Holocene Epoch."
+                    },
+                    {
+                        "q": "Which disease is caused by the Plasmodium parasite?",
+                        "options": [
+                            "Dengue",
+                            "Malaria",
+                            "Typhoid",
+                            "Cholera"
+                        ],
+                        "answer": 1,
+                        "explanation": "Malaria is a mosquito-borne infectious disease caused by Plasmodium."
+                    },
+                    {
+                        "q": "The organ that stores urine before it is excreted is the:",
+                        "options": [
+                            "Kidney",
+                            "Ureter",
+                            "Urinary Bladder",
+                            "Urethra"
+                        ],
+                        "answer": 2,
+                        "explanation": "The bladder stores urine from the kidneys."
+                    },
+                    {
+                        "q": "Which of the following animals does not have red blood?",
+                        "options": [
+                            "Snail",
+                            "Frog",
+                            "Earthworm",
+                            "Pigeon"
+                        ],
+                        "answer": 0,
+                        "explanation": "Snails have hemocyanin, which makes their blood blue/colorless."
+                    },
+                    {
+                        "q": "What is the hardest substance in the human body?",
+                        "options": [
+                            "Skull bone",
+                            "Femur",
+                            "Tooth enamel",
+                            "Cartilage"
+                        ],
+                        "answer": 2,
+                        "explanation": "Enamel on the teeth is the hardest and most mineralized substance in the body."
+                    },
+                    {
+                        "q": "An animal that lives on or in another organism and harms it is a:",
+                        "options": [
+                            "Symbiont",
+                            "Parasite",
+                            "Commensal",
+                            "Saprophyte"
+                        ],
+                        "answer": 1,
+                        "explanation": "A parasite benefits at the expense of the host."
+                    },
+                    {
+                        "q": "Which part of the cell is known as the 'suicide bag'?",
+                        "options": [
+                            "Ribosome",
+                            "Lysosome",
+                            "Golgi body",
+                            "Nucleus"
+                        ],
+                        "answer": 1,
+                        "explanation": "Lysosomes contain digestive enzymes that can break down the cell itself if released."
+                    },
+                    {
+                        "q": "How many chambers does a cockroach's heart have?",
+                        "options": [
+                            "3",
+                            "4",
+                            "13",
+                            "10"
+                        ],
+                        "answer": 2,
+                        "explanation": "Cockroaches possess an elongated tube-like heart with 13 chambers."
+                    },
+                    {
+                        "q": "Which of these is NOT a mammal?",
+                        "options": [
+                            "Dolphin",
+                            "Whale",
+                            "Shark",
+                            "Bat"
+                        ],
+                        "answer": 2,
+                        "explanation": "Sharks are cartilaginous fish."
+                    },
+                    {
+                        "q": "The venom of a cobra primarily attacks the:",
+                        "options": [
+                            "Digestive system",
+                            "Nervous system",
+                            "Circulatory system",
+                            "Respiratory system directly"
+                        ],
+                        "answer": 1,
+                        "explanation": "Cobra venom is highly neurotoxic, causing paralysis."
+                    },
+                    {
+                        "q": "Insects have how many pairs of legs?",
+                        "options": [
+                            "Two",
+                            "Three",
+                            "Four",
+                            "Five"
+                        ],
+                        "answer": 1,
+                        "explanation": "All true insects have six legs (three pairs)."
+                    },
+                    {
+                        "q": "Which is the fastest land animal?",
+                        "options": [
+                            "Lion",
+                            "Cheetah",
+                            "Horse",
+                            "Leopard"
+                        ],
+                        "answer": 1,
+                        "explanation": "The cheetah can reach speeds over 100 km/h."
+                    },
+                    {
+                        "q": "What causes the disease sleeping sickness?",
+                        "options": [
+                            "Tsetse fly (carrying Trypanosoma)",
+                            "Anopheles mosquito",
+                            "Housefly",
+                            "Sandfly"
+                        ],
+                        "answer": 0,
+                        "explanation": "African trypanosomiasis is transmitted by the tsetse fly."
+                    },
+                    {
+                        "q": "The basic functional unit of the human kidney is the:",
+                        "options": [
+                            "Neuron",
+                            "Nephron",
+                            "Alveolus",
+                            "Villus"
+                        ],
+                        "answer": 1,
+                        "explanation": "Each kidney contains about a million filtering units called nephrons."
+                    },
+                    {
+                        "q": "Which blood type is considered the universal donor?",
+                        "options": [
+                            "A",
+                            "B",
+                            "AB",
+                            "O"
+                        ],
+                        "answer": 3,
+                        "explanation": "Type O negative blood has no A, B, or Rh antigens and can safely be given to most patients."
+                    },
+                    {
+                        "q": "What is the chemical name for Vitamin C?",
+                        "options": [
+                            "Retinol",
+                            "Thiamine",
+                            "Ascorbic Acid",
+                            "Calciferol"
+                        ],
+                        "answer": 2,
+                        "explanation": "Vitamin C is chemically known as L-ascorbic acid."
+                    },
+                    {
+                        "q": "Which is the smallest bone in the human body?",
+                        "options": [
+                            "Incus",
+                            "Malleus",
+                            "Stapes",
+                            "Phalanx"
+                        ],
+                        "answer": 2,
+                        "explanation": "The stapes (stirrup bone) in the middle ear is the smallest bone."
+                    },
+                    {
+                        "q": "Animals that lay eggs are called:",
+                        "options": [
+                            "Viviparous",
+                            "Oviparous",
+                            "Marsupials",
+                            "Placentals"
+                        ],
+                        "answer": 1,
+                        "explanation": "Oviparous animals lay eggs, with little or no other embryonic development within the mother."
+                    },
+                    {
+                        "q": "Which bird can fly backwards?",
+                        "options": [
+                            "Hummingbird",
+                            "Swift",
+                            "Kingfisher",
+                            "Woodpecker"
+                        ],
+                        "answer": 0,
+                        "explanation": "Hummingbirds have a unique wing structure allowing them to hover and fly backwards."
+                    },
+                    {
+                        "q": "How many teeth does an adult human typically have?",
+                        "options": [
+                            "28",
+                            "30",
+                            "32",
+                            "34"
+                        ],
+                        "answer": 2,
+                        "explanation": "Adults typically have 32 permanent teeth."
+                    },
+                    {
+                        "q": "Bile juice is stored in the:",
+                        "options": [
+                            "Liver",
+                            "Pancreas",
+                            "Gallbladder",
+                            "Spleen"
+                        ],
+                        "answer": 2,
+                        "explanation": "The gallbladder stores and concentrates bile produced by the liver."
+                    },
+                    {
+                        "q": "Which vitamin is synthesized by the human body with the help of sunlight?",
+                        "options": [
+                            "Vitamin A",
+                            "Vitamin B",
+                            "Vitamin C",
+                            "Vitamin D"
+                        ],
+                        "answer": 3,
+                        "explanation": "The skin synthesizes Vitamin D when exposed to UVB rays."
+                    },
+                    {
+                        "q": "Where are red blood cells produced in an adult human?",
+                        "options": [
+                            "Liver",
+                            "Bone marrow",
+                            "Spleen",
+                            "Heart"
+                        ],
+                        "answer": 1,
+                        "explanation": "Hematopoiesis primarily occurs in the red bone marrow."
+                    },
+                    {
+                        "q": "Which animal has the best hearing?",
+                        "options": [
+                            "Dog",
+                            "Bat",
+                            "Moth",
+                            "Owl"
+                        ],
+                        "answer": 2,
+                        "explanation": "Certain moths (like the greater wax moth) have the highest recorded frequency hearing, evolved to evade bats."
+                    },
+                    {
+                        "q": "The term 'Endemic' in biology implies a species is:",
+                        "options": [
+                            "Extinct globally",
+                            "Found everywhere",
+                            "Native to and restricted to a certain area",
+                            "Migratory"
+                        ],
+                        "answer": 2,
+                        "explanation": "Endemic species are unique to a defined geographic location."
+                    },
+                    {
+                        "q": "A symbiotic relationship where both species benefit is called:",
+                        "options": [
+                            "Commensalism",
+                            "Parasitism",
+                            "Mutualism",
+                            "Amensalism"
+                        ],
+                        "answer": 2,
+                        "explanation": "Mutualism yields an interspecific cooperation benefiting both."
+                    },
+                    {
+                        "q": "What is the primary function of platelets?",
+                        "options": [
+                            "Oxygen transport",
+                            "Immune response",
+                            "Blood clotting",
+                            "Nutrient transport"
+                        ],
+                        "answer": 2,
+                        "explanation": "Platelets (thrombocytes) clump together to stop bleeding."
+                    },
+                    {
+                        "q": "Which gland is known as the 'master gland' of the human body?",
+                        "options": [
+                            "Thyroid gland",
+                            "Adrenal gland",
+                            "Pituitary gland",
+                            "Pancreas"
+                        ],
+                        "answer": 2,
+                        "explanation": "The pituitary gland controls the functions of many other endocrine glands."
+                    },
+                    {
+                        "q": "What connects muscle to bone?",
+                        "options": [
+                            "Ligament",
+                            "Tendon",
+                            "Cartilage",
+                            "Fascia"
+                        ],
+                        "answer": 1,
+                        "explanation": "Tendons are tough bands of fibrous connective tissue connecting muscle to bone."
+                    },
+                    {
+                        "q": "What connects bone to bone?",
+                        "options": [
+                            "Tendon",
+                            "Ligament",
+                            "Nerve",
+                            "Skin"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ligaments connect bones to other bones in joints."
+                    },
+                    {
+                        "q": "Sponges belong to which animal phylum?",
+                        "options": [
+                            "Cnidaria",
+                            "Porifera",
+                            "Annelida",
+                            "Mollusca"
+                        ],
+                        "answer": 1,
+                        "explanation": "Porifera means 'pore bearing'."
+                    },
+                    {
+                        "q": "What type of vision do humans have?",
+                        "options": [
+                            "Monocular vision",
+                            "Binocular vision",
+                            "Compound vision",
+                            "Infrared vision"
+                        ],
+                        "answer": 1,
+                        "explanation": "Binocular vision allows for depth perception by using both eyes together."
+                    },
+                    {
+                        "q": "A change in DNA sequence is known as a:",
+                        "options": [
+                            "Transcription",
+                            "Translation",
+                            "Mutation",
+                            "Replication"
+                        ],
+                        "answer": 2,
+                        "explanation": "Mutation is a permanent alteration in the DNA sequence."
+                    },
+                    {
+                        "q": "Which cell division process results in gametes (sperm/egg)?",
+                        "options": [
+                            "Mitosis",
+                            "Meiosis",
+                            "Binary fission",
+                            "Budding"
+                        ],
+                        "answer": 1,
+                        "explanation": "Meiosis reduces the chromosome number by half to create haploid gametes."
+                    },
+                    {
+                        "q": "The protein that makes up hair, nails, and horns is:",
+                        "options": [
+                            "Collagen",
+                            "Elastin",
+                            "Keratin",
+                            "Actin"
+                        ],
+                        "answer": 2,
+                        "explanation": "Keratin is the structural material making up the outer layer of human skin and nails/hair."
+                    },
+                    {
+                        "q": "What is the largest living reptile?",
+                        "options": [
+                            "Komodo Dragon",
+                            "Saltwater Crocodile",
+                            "Anaconda",
+                            "Leatherback Sea Turtle"
+                        ],
+                        "answer": 1,
+                        "explanation": "Saltwater crocodiles are the largest and most dangerous living reptiles."
+                    },
+                    {
+                        "q": "Which of these animals is naturally immortal (capable of reverting its life cycle)?",
+                        "options": [
+                            "Tardigrade",
+                            "Turritopsis dohrnii (Jellyfish)",
+                            "Giant Tortoise",
+                            "Lobster"
+                        ],
+                        "answer": 1,
+                        "explanation": "The 'immortal jellyfish' can revert to its polyp stage after reaching sexual maturity."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Chemistry",
+        "icon": "fa-vial",
+        "subcategories": [
+            {
+                "category": "General Chemistry",
+                "icon": "fa-book",
+                "questions": [
+                    {
+                        "q": "What is the chemical symbol for Gold?",
+                        "options": [
+                            "Gd",
+                            "Ag",
+                            "Au",
+                            "Fe"
+                        ],
+                        "answer": 2,
+                        "explanation": "Au (from Latin 'Aurum') is the chemical symbol for Gold."
+                    },
+                    {
+                        "q": "Which element has the atomic number 1?",
+                        "options": [
+                            "Helium",
+                            "Hydrogen",
+                            "Lithium",
+                            "Carbon"
+                        ],
+                        "answer": 1,
+                        "explanation": "Hydrogen is the first element in the periodic table."
+                    },
+                    {
+                        "q": "What is the pH of pure water?",
+                        "options": [
+                            "0",
+                            "5",
+                            "7",
+                            "14"
+                        ],
+                        "answer": 2,
+                        "explanation": "Pure water is neutral with a pH of 7."
+                    },
+                    {
+                        "q": "Which gas is used in fire extinguishers?",
+                        "options": [
+                            "Oxygen",
+                            "Nitrogen",
+                            "Carbon Dioxide",
+                            "Argon"
+                        ],
+                        "answer": 2,
+                        "explanation": "CO2 is commonly used to displace oxygen and smother fires."
+                    },
+                    {
+                        "q": "Acid turns blue litmus paper into which color?",
+                        "options": [
+                            "Green",
+                            "Yellow",
+                            "Red",
+                            "Purple"
+                        ],
+                        "answer": 2,
+                        "explanation": "Acids turn blue litmus red; bases turn red litmus blue."
+                    },
+                    {
+                        "q": "What is the chemical formula for Methane?",
+                        "options": [
+                            "CH4",
+                            "C2H6",
+                            "CO2",
+                            "H2O"
+                        ],
+                        "answer": 0,
+                        "explanation": "Methane is the simplest alkane with the formula CH4."
+                    },
+                    {
+                        "q": "Which metal is liquid at room temperature?",
+                        "options": [
+                            "Silver",
+                            "Mercury",
+                            "Copper",
+                            "Aluminum"
+                        ],
+                        "answer": 1,
+                        "explanation": "Mercury is the only metal that is liquid under standard conditions for temperature and pressure."
+                    },
+                    {
+                        "q": "What is the process of a solid turning directly into gas?",
+                        "options": [
+                            "Evaporation",
+                            "Condensation",
+                            "Sublimation",
+                            "Melting"
+                        ],
+                        "answer": 2,
+                        "explanation": "Sublimation is the transition of a substance directly from the solid to the gas state."
+                    },
+                    {
+                        "q": "Who developed the first periodic table?",
+                        "options": [
+                            "Newton",
+                            "Dalton",
+                            "Mendeleev",
+                            "Lavoisier"
+                        ],
+                        "answer": 2,
+                        "explanation": "Dmitri Mendeleev published the first widely recognized periodic table in 1869."
+                    },
+                    {
+                        "q": "What are the three main states of matter?",
+                        "options": [
+                            "Solid, Liquid, Gas",
+                            "Fire, Earth, Water",
+                            "Ice, Water, Steam",
+                            "Atom, Molecule, Ion"
+                        ],
+                        "answer": 0,
+                        "explanation": "Matter typically exists in solid, liquid, or gas phases."
+                    },
+                    {
+                        "q": "What is the chemical name for Baking Soda?",
+                        "options": [
+                            "Sodium Carbonate",
+                            "Sodium Bicarbonate",
+                            "Calcium Carbonate",
+                            "Sodium Chloride"
+                        ],
+                        "answer": 1,
+                        "explanation": "Sodium bicarbonate (NaHCO3) is commonly known as baking soda."
+                    },
+                    {
+                        "q": "Which gas is used to ripen fruits artificially?",
+                        "options": [
+                            "Ethylene",
+                            "Methane",
+                            "Ethane",
+                            "Acetylene"
+                        ],
+                        "answer": 0,
+                        "explanation": "Ethylene is a natural plant hormone that triggers ripening."
+                    },
+                    {
+                        "q": "What is the purest form of Carbon found in nature?",
+                        "options": [
+                            "Coal",
+                            "Graphite",
+                            "Diamond",
+                            "Fullerene"
+                        ],
+                        "answer": 2,
+                        "explanation": "Diamond is the purest crystalline form of carbon."
+                    },
+                    {
+                        "q": "Which acid is present in Lemons?",
+                        "options": [
+                            "Acetic Acid",
+                            "Citric Acid",
+                            "Lactic Acid",
+                            "Oxalic Acid"
+                        ],
+                        "answer": 1,
+                        "explanation": "Citrus fruits are rich in citric acid."
+                    },
+                    {
+                        "q": "The chemical used in nail polish remover is?",
+                        "options": [
+                            "Acetone",
+                            "Benzene",
+                            "Acetic Acid",
+                            "Thinner"
+                        ],
+                        "answer": 0,
+                        "explanation": "Acetone is a powerful solvent used in nail polish removers."
+                    },
+                    {
+                        "q": "What is the main metal in Hemoglobin?",
+                        "options": [
+                            "Magnesium",
+                            "Iron",
+                            "Copper",
+                            "Zinc"
+                        ],
+                        "answer": 1,
+                        "explanation": "Iron (Fe) binds with oxygen in the blood."
+                    },
+                    {
+                        "q": "Which element is common to all acids?",
+                        "options": [
+                            "Oxygen",
+                            "Hydrogen",
+                            "Sulfur",
+                            "Chlorine"
+                        ],
+                        "answer": 1,
+                        "explanation": "Acids release hydrogen ions in aqueous solutions."
+                    },
+                    {
+                        "q": "What is the chemical name of Vitamin C?",
+                        "options": [
+                            "Citric Acid",
+                            "Ascorbic Acid",
+                            "Oxalic Acid",
+                            "Nitric Acid"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ascorbic acid is the chemical name for Vitamin C."
+                    },
+                    {
+                        "q": "Which gas is used to fill balloons for decoration?",
+                        "options": [
+                            "Hydrogen",
+                            "Helium",
+                            "Nitrogen",
+                            "Oxygen"
+                        ],
+                        "answer": 1,
+                        "explanation": "Helium is used because it is lighter than air and non-flammable."
+                    },
+                    {
+                        "q": "What is the symbol for Silver?",
+                        "options": [
+                            "Si",
+                            "Ag",
+                            "Au",
+                            "Sl"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ag comes from the Latin word 'Argentum'."
+                    },
+                    {
+                        "q": "Which non-metal remains liquid at room temperature?",
+                        "options": [
+                            "Bromine",
+                            "Iodine",
+                            "Chlorine",
+                            "Phosphorus"
+                        ],
+                        "answer": 0,
+                        "explanation": "Bromine is the only non-metallic element that is liquid at standard conditions."
+                    },
+                    {
+                        "q": "What is the primary constituent of Pearls?",
+                        "options": [
+                            "Calcium Carbonate",
+                            "Magnesium Carbonate",
+                            "Calcium Oxide",
+                            "Silica"
+                        ],
+                        "answer": 0,
+                        "explanation": "Pearls are made of aragonite, a form of calcium carbonate."
+                    },
+                    {
+                        "q": "Laughing gas is chemically known as?",
+                        "options": [
+                            "Nitrogen Dioxide",
+                            "Nitrous Oxide",
+                            "Nitric Oxide",
+                            "Nitrogen Pentoxide"
+                        ],
+                        "answer": 1,
+                        "explanation": "Nitrous oxide (N2O) is used for its anesthetic and analgesic effects."
+                    },
+                    {
+                        "q": "Which metal is used in the manufacture of stainless steel?",
+                        "options": [
+                            "Copper",
+                            "Chromium",
+                            "Zinc",
+                            "Aluminum"
+                        ],
+                        "answer": 1,
+                        "explanation": "Chromium provides the corrosion resistance in stainless steel."
+                    },
+                    {
+                        "q": "What is the heaviest naturally occurring element?",
+                        "options": [
+                            "Gold",
+                            "Lead",
+                            "Uranium",
+                            "Plutonium"
+                        ],
+                        "answer": 2,
+                        "explanation": "Uranium is the heaviest element found in nature."
+                    },
+                    {
+                        "q": "Which isotope of Hydrogen is used in Nuclear reactors?",
+                        "options": [
+                            "Protium",
+                            "Deuterium",
+                            "Tritium",
+                            "None of these"
+                        ],
+                        "answer": 1,
+                        "explanation": "Deuterium (heavy hydrogen) is used as a moderator in reactors."
+                    },
+                    {
+                        "q": "Water gas is a mixture of?",
+                        "options": [
+                            "CO and H2",
+                            "CO and N2",
+                            "CO2 and H2",
+                            "CH4 and O2"
+                        ],
+                        "answer": 0,
+                        "explanation": "Water gas is a synthesis gas containing carbon monoxide and hydrogen."
+                    },
+                    {
+                        "q": "Which element is used in the tips of safety matches?",
+                        "options": [
+                            "White Phosphorus",
+                            "Red Phosphorus",
+                            "Sulfur",
+                            "Potassium Chlorate"
+                        ],
+                        "answer": 1,
+                        "explanation": "Red phosphorus is used because it is less toxic and more stable than white phosphorus."
+                    },
+                    {
+                        "q": "What is the chemical formula for Ozone?",
+                        "options": [
+                            "O2",
+                            "O3",
+                            "O4",
+                            "O"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ozone is triatomic oxygen."
+                    },
+                    {
+                        "q": "Vinegar is a solution of which acid?",
+                        "options": [
+                            "Formic Acid",
+                            "Acetic Acid",
+                            "Malic Acid",
+                            "Tartaric Acid"
+                        ],
+                        "answer": 1,
+                        "explanation": "Vinegar contains roughly 5-8% acetic acid."
+                    },
+                    {
+                        "q": "What is the common name for Calcium Carbonate?",
+                        "options": [
+                            "Salt",
+                            "Chalk / Limestone",
+                            "Baking Soda",
+                            "Bleach"
+                        ],
+                        "answer": 1,
+                        "explanation": "Calcium carbonate is the main component of shells, snails, and chalk."
+                    },
+                    {
+                        "q": "Which gas is used in the manufacture of Ammonia?",
+                        "options": [
+                            "Nitrogen",
+                            "Oxygen",
+                            "Helium",
+                            "Neon"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Haber process combines nitrogen and hydrogen to make ammonia."
+                    },
+                    {
+                        "q": "What is the atomic number of Carbon?",
+                        "options": [
+                            "1",
+                            "6",
+                            "12",
+                            "14"
+                        ],
+                        "answer": 1,
+                        "explanation": "Carbon has 6 protons in its nucleus."
+                    },
+                    {
+                        "q": "Which element is used as a fuel in nuclear power plants?",
+                        "options": [
+                            "Iron",
+                            "Lead",
+                            "Uranium",
+                            "Gold"
+                        ],
+                        "answer": 2,
+                        "explanation": "Uranium-235 is the most common fuel for nuclear fission."
+                    },
+                    {
+                        "q": "What is the main component of LPG (Liquefied Petroleum Gas)?",
+                        "options": [
+                            "Methane",
+                            "Ethane",
+                            "Propane and Butane",
+                            "Hydrogen"
+                        ],
+                        "answer": 2,
+                        "explanation": "LPG is primarily a mixture of propane and butane."
+                    },
+                    {
+                        "q": "Which acid is found in tamarind?",
+                        "options": [
+                            "Citric Acid",
+                            "Tartaric Acid",
+                            "Acetic Acid",
+                            "Lactic Acid"
+                        ],
+                        "answer": 1,
+                        "explanation": "Tartaric acid gives tamarind its sour taste."
+                    },
+                    {
+                        "q": "What is the hardest form of carbon?",
+                        "options": [
+                            "Graphite",
+                            "Coal",
+                            "Diamond",
+                            "Fullerene"
+                        ],
+                        "answer": 2,
+                        "explanation": "Diamond's rigid crystal structure makes it the hardest known natural substance."
+                    },
+                    {
+                        "q": "Which gas is known as 'Dry Ice' in its solid state?",
+                        "options": [
+                            "Nitrogen",
+                            "Oxygen",
+                            "Carbon Dioxide",
+                            "Hydrogen"
+                        ],
+                        "answer": 2,
+                        "explanation": "Solid CO2 is called dry ice."
+                    },
+                    {
+                        "q": "What is the chemical formula for salt?",
+                        "options": [
+                            "NaOH",
+                            "HCl",
+                            "NaCl",
+                            "KCl"
+                        ],
+                        "answer": 2,
+                        "explanation": "Sodium Chloride is the chemical name."
+                    },
+                    {
+                        "q": "Which metal is used for galvanizing iron?",
+                        "options": [
+                            "Zinc",
+                            "Copper",
+                            "Tin",
+                            "Aluminum"
+                        ],
+                        "answer": 0,
+                        "explanation": "Zinc coating prevents iron from rusting."
+                    },
+                    {
+                        "q": "What is the study of matter and its changes called?",
+                        "options": [
+                            "Physics",
+                            "Chemistry",
+                            "Biology",
+                            "Geology"
+                        ],
+                        "answer": 1,
+                        "explanation": "Chemistry is the science of substances and their interactions."
+                    },
+                    {
+                        "q": "Which gas is produced when an acid reacts with a metal?",
+                        "options": [
+                            "Oxygen",
+                            "Hydrogen",
+                            "Carbon Dioxide",
+                            "Nitrogen"
+                        ],
+                        "answer": 1,
+                        "explanation": "Metal + Acid -> Salt + Hydrogen gas."
+                    },
+                    {
+                        "q": "What is the pH level of a strong base?",
+                        "options": [
+                            "1",
+                            "7",
+                            "13",
+                            "4"
+                        ],
+                        "answer": 2,
+                        "explanation": "Bases have a pH greater than 7; strong bases are near 14."
+                    },
+                    {
+                        "q": "Which mineral is found in Epsom salt?",
+                        "options": [
+                            "Calcium",
+                            "Magnesium",
+                            "Iron",
+                            "Zinc"
+                        ],
+                        "answer": 1,
+                        "explanation": "Epsom salt is Magnesium Sulfate."
+                    },
+                    {
+                        "q": "What is the chemical name for Vitamin C?",
+                        "options": [
+                            "Citric Acid",
+                            "Ascorbic Acid",
+                            "Lactic Acid",
+                            "Folic Acid"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ascorbic acid is essential for human health."
+                    },
+                    {
+                        "q": "Which element is used in the lead of a pencil?",
+                        "options": [
+                            "Lead",
+                            "Graphite",
+                            "Carbon",
+                            "Zinc"
+                        ],
+                        "answer": 1,
+                        "explanation": "Pencil 'lead' is a mixture of graphite and clay."
+                    },
+                    {
+                        "q": "What is the process of coating one metal with another using electricity?",
+                        "options": [
+                            "Galvanization",
+                            "Electroplating",
+                            "Vulcanization",
+                            "Sublimation"
+                        ],
+                        "answer": 1,
+                        "explanation": "Electroplating is used for protection or decoration."
+                    },
+                    {
+                        "q": "Which gas is used in fluorescent tubes?",
+                        "options": [
+                            "Neon",
+                            "Argon and Mercury vapor",
+                            "Helium",
+                            "Oxygen"
+                        ],
+                        "answer": 1,
+                        "explanation": "The gas emits UV light which strikes the phosphor coating."
+                    },
+                    {
+                        "q": "What is the chemical formula for glucose?",
+                        "options": [
+                            "C6H12O6",
+                            "C12H22O11",
+                            "CH4",
+                            "CO2"
+                        ],
+                        "answer": 0,
+                        "explanation": "Glucose is a simple sugar (monosaccharide)."
+                    },
+                    {
+                        "q": "Which acid is responsible for the sting of a bee?",
+                        "options": [
+                            "Acetic acid",
+                            "Citric acid",
+                            "Formic acid",
+                            "Sulfuric acid"
+                        ],
+                        "answer": 2,
+                        "explanation": "Methanoic (formic) acid is injected during the sting."
+                    },
+                    {
+                        "q": "What is the most abundant element in the human body by mass?",
+                        "options": [
+                            "Carbon",
+                            "Hydrogen",
+                            "Oxygen",
+                            "Nitrogen"
+                        ],
+                        "answer": 2,
+                        "explanation": "Oxygen makes up about 65% of the human body bulk."
+                    },
+                    {
+                        "q": "Which metal is used to make aircraft bodies?",
+                        "options": [
+                            "Iron",
+                            "Aluminum",
+                            "Lead",
+                            "Gold"
+                        ],
+                        "answer": 1,
+                        "explanation": "Aluminum is lightweight and strong when alloyed."
+                    },
+                    {
+                        "q": "What is the chemical name for Bleaching Powder?",
+                        "options": [
+                            "Sodium Carbonate",
+                            "Calcium Hypochlorite",
+                            "Calcium Carbonate",
+                            "Sodium Chloride"
+                        ],
+                        "answer": 1,
+                        "explanation": "Calcium hypochlorite is the active ingredient."
+                    },
+                    {
+                        "q": "Which gas has the odor of rotten eggs?",
+                        "options": [
+                            "CO2",
+                            "SO2",
+                            "H2S",
+                            "NH3"
+                        ],
+                        "answer": 2,
+                        "explanation": "Hydrogen Sulfide is produced in volcanoes and sewers."
+                    },
+                    {
+                        "q": "What is the main component of biogas?",
+                        "options": [
+                            "Methane",
+                            "Propane",
+                            "Butane",
+                            "Ethane"
+                        ],
+                        "answer": 0,
+                        "explanation": "Biogas is mostly methane and carbon dioxide."
+                    },
+                    {
+                        "q": "Which non-metal is a good conductor of electricity?",
+                        "options": [
+                            "Sulfur",
+                            "Iodine",
+                            "Graphite",
+                            "Diamond"
+                        ],
+                        "answer": 2,
+                        "explanation": "Graphite has delocalized electrons that can carry current."
+                    },
+                    {
+                        "q": "What is the chemical symbol for Potassium?",
+                        "options": [
+                            "P",
+                            "Po",
+                            "K",
+                            "Pt"
+                        ],
+                        "answer": 2,
+                        "explanation": "K comes from the Latin 'Kalium'."
+                    },
+                    {
+                        "q": "Which acid is used in car batteries?",
+                        "options": [
+                            "Nitric Acid",
+                            "Hydrochloric Acid",
+                            "Sulfuric Acid",
+                            "Acetic Acid"
+                        ],
+                        "answer": 2,
+                        "explanation": "Sulfuric acid (H2SO4) is a strong electrolyte."
+                    },
+                    {
+                        "q": "What is the process of making soap called?",
+                        "options": [
+                            "Fermentation",
+                            "Saponification",
+                            "Hydrogenation",
+                            "Distillation"
+                        ],
+                        "answer": 1,
+                        "explanation": "Saponification is the reaction of fats with a strong base."
+                    },
+                    {
+                        "q": "Which gas is responsible for global warming?",
+                        "options": [
+                            "Oxygen",
+                            "Nitrogen",
+                            "Carbon Dioxide",
+                            "Argon"
+                        ],
+                        "answer": 2,
+                        "explanation": "CO2 traps heat in the atmosphere."
+                    },
+                    {
+                        "q": "What is the chemical symbol for Silver?",
+                        "options": [
+                            "Si",
+                            "Ag",
+                            "Au",
+                            "Sl"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ag is from 'Argentum'."
+                    },
+                    {
+                        "q": "Which element is used to vulcanize rubber?",
+                        "options": [
+                            "Iron",
+                            "Sulfur",
+                            "Carbon",
+                            "Oxygen"
+                        ],
+                        "answer": 1,
+                        "explanation": "Sulfur makes rubber more durable and heat-resistant."
+                    },
+                    {
+                        "q": "What is the chemical name for Plaster of Paris?",
+                        "options": [
+                            "Calcium Sulfate Hemihydrate",
+                            "Calcium Carbonate",
+                            "Sodium Carbonate",
+                            "Gypsum"
+                        ],
+                        "answer": 0,
+                        "explanation": "It is made by heating gypsum."
+                    },
+                    {
+                        "q": "Which gas is found in the stratosphere and protects us from UV rays?",
+                        "options": [
+                            "Oxygen",
+                            "Nitrogen",
+                            "Ozone",
+                            "Helium"
+                        ],
+                        "answer": 2,
+                        "explanation": "Ozone (O3) absorbs harmful ultraviolet radiation."
+                    },
+                    {
+                        "q": "What is the molecular formula of water?",
+                        "options": [
+                            "HO",
+                            "H2O",
+                            "H2O2",
+                            "OH"
+                        ],
+                        "answer": 1,
+                        "explanation": "Two hydrogen atoms and one oxygen atom."
+                    },
+                    {
+                        "q": "Which metal is used to make bronze?",
+                        "options": [
+                            "Copper and Tin",
+                            "Copper and Zinc",
+                            "Iron and Carbon",
+                            "Aluminum and Magnesium"
+                        ],
+                        "answer": 0,
+                        "explanation": "Bronze is a copper-based alloy."
+                    },
+                    {
+                        "q": "What is the chemical name for Vitamin D?",
+                        "options": [
+                            "Retinol",
+                            "Calciferol",
+                            "Tocopherol",
+                            "Thiamine"
+                        ],
+                        "answer": 1,
+                        "explanation": "Calciferol is essential for calcium absorption."
+                    },
+                    {
+                        "q": "Which element is required for bones and teeth?",
+                        "options": [
+                            "Iron",
+                            "Calcium",
+                            "Iodine",
+                            "Sodium"
+                        ],
+                        "answer": 1,
+                        "explanation": "Calcium provides structural strength."
+                    },
+                    {
+                        "q": "What is the lightest element?",
+                        "options": [
+                            "Helium",
+                            "Lithium",
+                            "Hydrogen",
+                            "Oxygen"
+                        ],
+                        "answer": 2,
+                        "explanation": "Hydrogen has atomic number 1."
+                    },
+                    {
+                        "q": "Which non-metal is found in the liquid state?",
+                        "options": [
+                            "Chlorine",
+                            "Bromine",
+                            "Iodine",
+                            "Fluorine"
+                        ],
+                        "answer": 1,
+                        "explanation": "Bromine is a dark red-brown liquid."
+                    },
+                    {
+                        "q": "What is the chemical name of common salt?",
+                        "options": [
+                            "Sodium Hydroxide",
+                            "Sodium Chloride",
+                            "Sodium Bicarbonate",
+                            "Sodium Carbonate"
+                        ],
+                        "answer": 1,
+                        "explanation": "NaCl is used as a seasoning."
+                    },
+                    {
+                        "q": "Which gas is used in electric arc welding?",
+                        "options": [
+                            "Helium",
+                            "Argon",
+                            "CO2",
+                            "All of these"
+                        ],
+                        "answer": 3,
+                        "explanation": "Inert gases protect the weld from oxidation."
+                    },
+                    {
+                        "q": "What is the process of converting a liquid into gas called?",
+                        "options": [
+                            "Condensation",
+                            "Evaporation",
+                            "Freezing",
+                            "Melting"
+                        ],
+                        "answer": 1,
+                        "explanation": "Evaporation happens at the surface of a liquid."
+                    },
+                    {
+                        "q": "Which acid is found in vinegar?",
+                        "options": [
+                            "Acetic acid",
+                            "Formic acid",
+                            "Malic acid",
+                            "Citric acid"
+                        ],
+                        "answer": 0,
+                        "explanation": "Acetic acid gives vinegar its characteristic taste."
+                    },
+                    {
+                        "q": "What is the main metal in brass?",
+                        "options": [
+                            "Copper and Tin",
+                            "Copper and Zinc",
+                            "Iron and Nickel",
+                            "Lead and Tin"
+                        ],
+                        "answer": 1,
+                        "explanation": "Brass is an alloy of copper and zinc."
+                    },
+                    {
+                        "q": "Which element is used to detect leaks in underground pipes?",
+                        "options": [
+                            "Uranium",
+                            "Radioactive isotopes",
+                            "Helium",
+                            "Nitrogen"
+                        ],
+                        "answer": 1,
+                        "explanation": "Radioactive tracers are easy to detect."
+                    },
+                    {
+                        "q": "What is the chemical formula for sulfuric acid?",
+                        "options": [
+                            "HCl",
+                            "HNO3",
+                            "H2SO4",
+                            "H3PO4"
+                        ],
+                        "answer": 2,
+                        "explanation": "It is often called the 'King of Chemicals'."
+                    },
+                    {
+                        "q": "Which gas is used in the treatment of cancer?",
+                        "options": [
+                            "Helium",
+                            "Radon",
+                            "Xenon",
+                            "Neon"
+                        ],
+                        "answer": 1,
+                        "explanation": "Radon has been used in radiotherapy."
+                    },
+                    {
+                        "q": "What is the most electronegative element?",
+                        "options": [
+                            "Oxygen",
+                            "Chlorine",
+                            "Fluorine",
+                            "Nitrogen"
+                        ],
+                        "answer": 2,
+                        "explanation": "Fluorine has the highest affinity for electrons."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Physics",
+        "icon": "fa-atom",
+        "subcategories": [
+            {
+                "category": "General Physics",
+                "icon": "fa-book",
+                "questions": [
+                    {
+                        "q": "What is the SI unit of Force?",
+                        "options": [
+                            "Watt",
+                            "Joule",
+                            "Newton",
+                            "Pascal"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Newton (N) is the SI derived unit of force."
+                    },
+                    {
+                        "q": "Who formulated the Laws of Motion?",
+                        "options": [
+                            "Albert Einstein",
+                            "Isaac Newton",
+                            "Galileo Galilei",
+                            "Nikola Tesla"
+                        ],
+                        "answer": 1,
+                        "explanation": "Sir Isaac Newton formulated the three laws of motion in his work 'Principia Mathematica'."
+                    },
+                    {
+                        "q": "What is the unit of electric current?",
+                        "options": [
+                            "Volt",
+                            "Ohm",
+                            "Ampere",
+                            "Watt"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Ampere (A) is the base unit of electric current."
+                    },
+                    {
+                        "q": "Resistance is measured in?",
+                        "options": [
+                            "Watts",
+                            "Ohms",
+                            "Volts",
+                            "Amps"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ohm (?) is the SI unit of electrical resistance."
+                    },
+                    {
+                        "q": "Which law states that energy cannot be created or destroyed?",
+                        "options": [
+                            "Law of Inertia",
+                            "Law of Gravity",
+                            "Law of Conservation of Energy",
+                            "Ohm's Law"
+                        ],
+                        "answer": 2,
+                        "explanation": "Energy can only be transformed or transferred from one form to another."
+                    },
+                    {
+                        "q": "What is the primary source of energy for the Earth?",
+                        "options": [
+                            "Moon",
+                            "Wind",
+                            "Sun",
+                            "Geothermal"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Sun provides the solar energy that drives most biological and climatic processes."
+                    },
+                    {
+                        "q": "Newton's First Law is also known as?",
+                        "options": [
+                            "Law of Acceleration",
+                            "Law of Action-Reaction",
+                            "Law of Inertia",
+                            "Law of Gravitation"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Law of Inertia states that an object at rest stays at rest unless acted upon by a force."
+                    },
+                    {
+                        "q": "What is the value of acceleration due to gravity on Earth?",
+                        "options": [
+                            "5.8 m/s²",
+                            "7.8 m/s²",
+                            "9.8 m/s²",
+                            "11.8 m/s²"
+                        ],
+                        "answer": 2,
+                        "explanation": "Standard gravity is approximately 9.80665 m/s²."
+                    },
+                    {
+                        "q": "Light year is a unit of?",
+                        "options": [
+                            "Time",
+                            "Speed",
+                            "Distance",
+                            "Intensity"
+                        ],
+                        "answer": 2,
+                        "explanation": "A light year is the distance light travels in a vacuum in one year (approx. 9.46 trillion km)."
+                    },
+                    {
+                        "q": "Which mirror is used in car headlights?",
+                        "options": [
+                            "Convex",
+                            "Concave",
+                            "Plane",
+                            "Cylindrical"
+                        ],
+                        "answer": 1,
+                        "explanation": "Concave mirrors are used to create a powerful, parallel beam of light."
+                    },
+                    {
+                        "q": "The bending of light when it enters another medium is called?",
+                        "options": [
+                            "Reflection",
+                            "Refraction",
+                            "Diffraction",
+                            "Dispersion"
+                        ],
+                        "answer": 1,
+                        "explanation": "Refraction occurs due to the change in the speed of light in different media."
+                    },
+                    {
+                        "q": "What is the frequency of AC (Alternating Current) in most countries?",
+                        "options": [
+                            "30 Hz",
+                            "50-60 Hz",
+                            "100 Hz",
+                            "220 Hz"
+                        ],
+                        "answer": 1,
+                        "explanation": "Most power grids operate at either 50 Hz or 60 Hz."
+                    },
+                    {
+                        "q": "Which instrument measures high temperature?",
+                        "options": [
+                            "Thermometer",
+                            "Pyrometer",
+                            "Manometer",
+                            "Hygrometer"
+                        ],
+                        "answer": 1,
+                        "explanation": "A pyrometer is used for measuring very high temperatures from a distance."
+                    },
+                    {
+                        "q": "What is the speed of sound in air (approx)?",
+                        "options": [
+                            "300 m/s",
+                            "343 m/s",
+                            "500 m/s",
+                            "1000 m/s"
+                        ],
+                        "answer": 1,
+                        "explanation": "At 20°C, the speed of sound is about 343 meters per second."
+                    },
+                    {
+                        "q": "Which type of wave is sound?",
+                        "options": [
+                            "Transverse",
+                            "Longitudinal",
+                            "Electromagnetic",
+                            "Surface"
+                        ],
+                        "answer": 1,
+                        "explanation": "Sound waves are mechanical longitudinal waves."
+                    },
+                    {
+                        "q": "What is the unit of power of a lens?",
+                        "options": [
+                            "Meter",
+                            "Diopter",
+                            "Degree",
+                            "Decibel"
+                        ],
+                        "answer": 1,
+                        "explanation": "The power of a lens is measured in diopters (D)."
+                    },
+                    {
+                        "q": "Who discovered the Electron?",
+                        "options": [
+                            "Ernest Rutherford",
+                            "J.J. Thomson",
+                            "John Dalton",
+                            "James Chadwick"
+                        ],
+                        "answer": 1,
+                        "explanation": "J.J. Thomson discovered the electron in 1897."
+                    },
+                    {
+                        "q": "The Dynamo converts?",
+                        "options": [
+                            "Heat to Light",
+                            "Mechanical to Electrical",
+                            "Electrical to Mechanical",
+                            "Chemical to Heat"
+                        ],
+                        "answer": 1,
+                        "explanation": "A dynamo (generator) uses electromagnetic induction."
+                    },
+                    {
+                        "q": "What is the boiling point of water in Fahrenheit?",
+                        "options": [
+                            "100°F",
+                            "180°F",
+                            "212°F",
+                            "32°F"
+                        ],
+                        "answer": 2,
+                        "explanation": "Standard boiling point is 100°C or 212°F."
+                    },
+                    {
+                        "q": "Which color of light deviates the most through a prism?",
+                        "options": [
+                            "Red",
+                            "Green",
+                            "Yellow",
+                            "Violet"
+                        ],
+                        "answer": 3,
+                        "explanation": "Violet has the shortest wavelength and deviates the most."
+                    },
+                    {
+                        "q": "What is the escape velocity from Earth?",
+                        "options": [
+                            "8.2 km/s",
+                            "9.8 km/s",
+                            "11.2 km/s",
+                            "15.5 km/s"
+                        ],
+                        "answer": 2,
+                        "explanation": "The minimum speed required to escape Earth's gravity is 11.2 km/s."
+                    },
+                    {
+                        "q": "Which mirror is used as a rear-view mirror in vehicles?",
+                        "options": [
+                            "Concave",
+                            "Convex",
+                            "Plane",
+                            "Bifocal"
+                        ],
+                        "answer": 1,
+                        "explanation": "Convex mirrors provide a wider field of view."
+                    },
+                    {
+                        "q": "Density is defined as?",
+                        "options": [
+                            "Mass / Area",
+                            "Mass / Volume",
+                            "Weight / Volume",
+                            "Volume / Mass"
+                        ],
+                        "answer": 1,
+                        "explanation": "Density (?) = m / V."
+                    },
+                    {
+                        "q": "The value of 'g' (gravity) is maximum at?",
+                        "options": [
+                            "Center of Earth",
+                            "Equator",
+                            "Poles",
+                            "Mountain Top"
+                        ],
+                        "answer": 2,
+                        "explanation": "Gravity is slightly stronger at the poles due to the Earth's geoid shape."
+                    },
+                    {
+                        "q": "Which electromagnetic wave has the highest frequency?",
+                        "options": [
+                            "Radio waves",
+                            "Microwaves",
+                            "X-rays",
+                            "Gamma rays"
+                        ],
+                        "answer": 3,
+                        "explanation": "Gamma rays carry the highest energy and frequency."
+                    },
+                    {
+                        "q": "Einstein's E=mc² relates energy with?",
+                        "options": [
+                            "Speed",
+                            "Color",
+                            "Mass",
+                            "Momentum"
+                        ],
+                        "answer": 2,
+                        "explanation": "Mass-energy equivalence states mass can be converted to energy."
+                    },
+                    {
+                        "q": "Short-sightedness is corrected by using?",
+                        "options": [
+                            "Concave lens",
+                            "Convex lens",
+                            "Cylindrical lens",
+                            "Plane mirror"
+                        ],
+                        "answer": 0,
+                        "explanation": "Myopia is corrected by diverging lenses."
+                    },
+                    {
+                        "q": "What is the unit of pressure?",
+                        "options": [
+                            "Newton",
+                            "Watt",
+                            "Pascal",
+                            "Joule"
+                        ],
+                        "answer": 2,
+                        "explanation": "1 Pascal (Pa) = 1 Newton per square meter."
+                    },
+                    {
+                        "q": "Who discovered radioactivity?",
+                        "options": [
+                            "Marie Curie",
+                            "Henri Becquerel",
+                            "Rutherford",
+                            "Chadwick"
+                        ],
+                        "answer": 1,
+                        "explanation": "Becquerel discovered it while experimenting with uranium."
+                    },
+                    {
+                        "q": "Absolute zero temperature is?",
+                        "options": [
+                            "0°C",
+                            "-273.15°C",
+                            "273.15°C",
+                            "-32°F"
+                        ],
+                        "answer": 1,
+                        "explanation": "0 Kelvin (K) equals -273.15 degrees Celsius."
+                    },
+                    {
+                        "q": "What is the unit of work and energy?",
+                        "options": [
+                            "Watt",
+                            "Newton",
+                            "Joule",
+                            "Pascal"
+                        ],
+                        "answer": 2,
+                        "explanation": "Joule (J) is the SI unit of energy."
+                    },
+                    {
+                        "q": "Which lens is used to correct far-sightedness (hyperopia)?",
+                        "options": [
+                            "Concave",
+                            "Convex",
+                            "Cylindrical",
+                            "Bifocal"
+                        ],
+                        "answer": 1,
+                        "explanation": "Convex (converging) lenses help focus light on the retina."
+                    },
+                    {
+                        "q": "What is the rate of change of velocity called?",
+                        "options": [
+                            "Speed",
+                            "Acceleration",
+                            "Momentum",
+                            "Inertia"
+                        ],
+                        "answer": 1,
+                        "explanation": "Acceleration = (Change in Velocity) / Time."
+                    },
+                    {
+                        "q": "Which law explains the phenomenon of buoyancy?",
+                        "options": [
+                            "Newton's Law",
+                            "Ohm's Law",
+                            "Archimedes' Principle",
+                            "Pascal's Law"
+                        ],
+                        "answer": 2,
+                        "explanation": "Archimedes' principle states the buoyant force equals the weight of displaced fluid."
+                    },
+                    {
+                        "q": "What is the speed of light in kilometers per second (approx)?",
+                        "options": [
+                            "100,000",
+                            "200,000",
+                            "300,000",
+                            "500,000"
+                        ],
+                        "answer": 2,
+                        "explanation": "Light travels at roughly 299,792 km/s."
+                    },
+                    {
+                        "q": "Which instrument is used to measure electric potential difference?",
+                        "options": [
+                            "Ammeter",
+                            "Voltmeter",
+                            "Galvanometer",
+                            "Potentiometer"
+                        ],
+                        "answer": 1,
+                        "explanation": "A voltmeter is connected in parallel to measure voltage."
+                    },
+                    {
+                        "q": "What is the force that opposes motion between two surfaces?",
+                        "options": [
+                            "Gravity",
+                            "Friction",
+                            "Magnetism",
+                            "Tension"
+                        ],
+                        "answer": 1,
+                        "explanation": "Friction acts in the opposite direction of movement."
+                    },
+                    {
+                        "q": "Which type of mirror is used as a shaving mirror?",
+                        "options": [
+                            "Convex",
+                            "Concave",
+                            "Plane",
+                            "Cylindrical"
+                        ],
+                        "answer": 1,
+                        "explanation": "Concave mirrors provide a magnified upright image when close."
+                    },
+                    {
+                        "q": "What is the SI unit of frequency?",
+                        "options": [
+                            "Hertz",
+                            "Decibel",
+                            "Watt",
+                            "Tesla"
+                        ],
+                        "answer": 0,
+                        "explanation": "Hertz (Hz) measures cycles per second."
+                    },
+                    {
+                        "q": "Which particle in an atom has no electric charge?",
+                        "options": [
+                            "Proton",
+                            "Electron",
+                            "Neutron",
+                            "Positron"
+                        ],
+                        "answer": 2,
+                        "explanation": "Neutrons are neutral particles in the nucleus."
+                    },
+                    {
+                        "q": "What is the escape velocity from the Moon?",
+                        "options": [
+                            "1.2 km/s",
+                            "2.4 km/s",
+                            "5.0 km/s",
+                            "11.2 km/s"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Moon's gravity is much weaker than Earth's."
+                    },
+                    {
+                        "q": "Which physical quantity remains constant in a uniform circular motion?",
+                        "options": [
+                            "Velocity",
+                            "Acceleration",
+                            "Speed",
+                            "Displacement"
+                        ],
+                        "answer": 2,
+                        "explanation": "While direction changes (so velocity changes), the speed (magnitude) is constant."
+                    },
+                    {
+                        "q": "What is the unit of luminous intensity?",
+                        "options": [
+                            "Mole",
+                            "Candela",
+                            "Kelvin",
+                            "Ampere"
+                        ],
+                        "answer": 1,
+                        "explanation": "Candela (cd) is one of the seven SI base units."
+                    },
+                    {
+                        "q": "Which colors are the primary colors of light?",
+                        "options": [
+                            "Red, Blue, Yellow",
+                            "Red, Green, Blue",
+                            "Yellow, Cyan, Magenta",
+                            "Red, White, Black"
+                        ],
+                        "answer": 1,
+                        "explanation": "RGB are the additive primary colors."
+                    },
+                    {
+                        "q": "What is the product of mass and velocity called?",
+                        "options": [
+                            "Work",
+                            "Power",
+                            "Momentum",
+                            "Force"
+                        ],
+                        "answer": 2,
+                        "explanation": "p = mv."
+                    },
+                    {
+                        "q": "Which electromagnetic radiation has the longest wavelength?",
+                        "options": [
+                            "Gamma rays",
+                            "X-rays",
+                            "Radio waves",
+                            "Infrared"
+                        ],
+                        "answer": 2,
+                        "explanation": "Radio waves have the lowest frequency and longest wavelength."
+                    },
+                    {
+                        "q": "What is the value of one horsepower in watts?",
+                        "options": [
+                            "500 W",
+                            "746 W",
+                            "1000 W",
+                            "1200 W"
+                        ],
+                        "answer": 1,
+                        "explanation": "1 hp = 746 Watts."
+                    },
+                    {
+                        "q": "Which state of matter has the highest kinetic energy?",
+                        "options": [
+                            "Solid",
+                            "Liquid",
+                            "Gas",
+                            "Plasma"
+                        ],
+                        "answer": 3,
+                        "explanation": "Plasma consists of highly energized ions and electrons."
+                    },
+                    {
+                        "q": "What is the refractive index of a vacuum?",
+                        "options": [
+                            "0",
+                            "1",
+                            "1.33",
+                            "2.42"
+                        ],
+                        "answer": 1,
+                        "explanation": "By definition, the refractive index of a vacuum is 1."
+                    },
+                    {
+                        "q": "Which scientist discovered the Law of Universal Gravitation?",
+                        "options": [
+                            "Albert Einstein",
+                            "Isaac Newton",
+                            "Johannes Kepler",
+                            "Stephen Hawking"
+                        ],
+                        "answer": 1,
+                        "explanation": "Newton published his law in 1687."
+                    },
+                    {
+                        "q": "What is the name of the instrument used to measure wind speed?",
+                        "options": [
+                            "Barometer",
+                            "Thermometer",
+                            "Anemometer",
+                            "Hygrometer"
+                        ],
+                        "answer": 2,
+                        "explanation": "Anemometers are common in weather stations."
+                    },
+                    {
+                        "q": "Which law states that pressure applied to a fluid is transmitted equally in all directions?",
+                        "options": [
+                            "Boyle's Law",
+                            "Pascal's Law",
+                            "Charles's Law",
+                            "Hooke's Law"
+                        ],
+                        "answer": 1,
+                        "explanation": "Pascal's principle is the basis of hydraulic systems."
+                    },
+                    {
+                        "q": "What is the heat required to change the state of a substance without temperature change?",
+                        "options": [
+                            "Specific heat",
+                            "Latent heat",
+                            "Thermal capacity",
+                            "Conduction"
+                        ],
+                        "answer": 1,
+                        "explanation": "Latent heat is absorbed or released during phase changes."
+                    },
+                    {
+                        "q": "Which type of lens is a magnifying glass?",
+                        "options": [
+                            "Concave",
+                            "Convex",
+                            "Plano-concave",
+                            "Cylindrical"
+                        ],
+                        "answer": 1,
+                        "explanation": "A biconvex lens produces a virtual magnified image."
+                    },
+                    {
+                        "q": "What is the unit of magnetic flux density?",
+                        "options": [
+                            "Weber",
+                            "Tesla",
+                            "Ohm",
+                            "Henry"
+                        ],
+                        "answer": 1,
+                        "explanation": "One Tesla (T) is one Weber per square meter."
+                    },
+                    {
+                        "q": "Which force holds the planets in their orbits around the Sun?",
+                        "options": [
+                            "Magnetic force",
+                            "Electric force",
+                            "Gravitational force",
+                            "Nuclear force"
+                        ],
+                        "answer": 2,
+                        "explanation": "Gravity provides the centripetal force for orbit."
+                    },
+                    {
+                        "q": "What is the process of heat transfer through direct contact?",
+                        "options": [
+                            "Convection",
+                            "Radiation",
+                            "Conduction",
+                            "Insulation"
+                        ],
+                        "answer": 2,
+                        "explanation": "Conduction occurs primarily in solids."
+                    },
+                    {
+                        "q": "Which mirror is used in solar cookers to focus sunlight?",
+                        "options": [
+                            "Convex",
+                            "Concave",
+                            "Plane",
+                            "Parabolic"
+                        ],
+                        "answer": 1,
+                        "explanation": "Concave (or parabolic) mirrors converge light at a point."
+                    },
+                    {
+                        "q": "What is the unit of capacitance?",
+                        "options": [
+                            "Coulomb",
+                            "Farad",
+                            "Henry",
+                            "Tesla"
+                        ],
+                        "answer": 1,
+                        "explanation": "Farad (F) is the capacity to store charge."
+                    },
+                    {
+                        "q": "Which effect explains why the pitch of a siren changes as it moves past you?",
+                        "options": [
+                            "Tyndall Effect",
+                            "Doppler Effect",
+                            "Photoelectric Effect",
+                            "Compton Effect"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Doppler effect is the change in frequency due to motion."
+                    },
+                    {
+                        "q": "What is the smallest known particle of matter (according to Standard Model)?",
+                        "options": [
+                            "Proton",
+                            "Neutron",
+                            "Quark",
+                            "Molecule"
+                        ],
+                        "answer": 2,
+                        "explanation": "Quarks and leptons are fundamental particles."
+                    },
+                    {
+                        "q": "Which scientist proposed the theory of relativity?",
+                        "options": [
+                            "Max Planck",
+                            "Werner Heisenberg",
+                            "Albert Einstein",
+                            "Niels Bohr"
+                        ],
+                        "answer": 2,
+                        "explanation": "Einstein's E=mc2 is the world's most famous equation."
+                    },
+                    {
+                        "q": "What is the SI unit of temperature?",
+                        "options": [
+                            "Celsius",
+                            "Fahrenheit",
+                            "Kelvin",
+                            "Rankine"
+                        ],
+                        "answer": 2,
+                        "explanation": "Kelvin is the absolute temperature scale."
+                    },
+                    {
+                        "q": "Which device converts electrical energy into mechanical energy?",
+                        "options": [
+                            "Generator",
+                            "Motor",
+                            "Transformer",
+                            "Rectifier"
+                        ],
+                        "answer": 1,
+                        "explanation": "An electric motor uses magnetic fields to create rotation."
+                    },
+                    {
+                        "q": "What is the name for the property of an object to resist changes in its motion?",
+                        "options": [
+                            "Momentum",
+                            "Inertia",
+                            "Gravity",
+                            "Friction"
+                        ],
+                        "answer": 1,
+                        "explanation": "Mass is a measure of inertia."
+                    },
+                    {
+                        "q": "Which light has the longest wavelength in the visible spectrum?",
+                        "options": [
+                            "Violet",
+                            "Blue",
+                            "Green",
+                            "Red"
+                        ],
+                        "answer": 3,
+                        "explanation": "Red light has the lowest frequency and longest wavelength."
+                    },
+                    {
+                        "q": "What is the phenomenon of splitting white light into its component colors?",
+                        "options": [
+                            "Reflection",
+                            "Refraction",
+                            "Dispersion",
+                            "Total internal reflection"
+                        ],
+                        "answer": 2,
+                        "explanation": "A prism causes dispersion because different colors refract at different angles."
+                    },
+                    {
+                        "q": "Which law states that for every action, there is an equal and opposite reaction?",
+                        "options": [
+                            "Newton's First Law",
+                            "Newton's Second Law",
+                            "Newton's Third Law",
+                            "Law of Gravitation"
+                        ],
+                        "answer": 2,
+                        "explanation": "This is a fundamental principle of mechanics."
+                    },
+                    {
+                        "q": "What is the unit of radioactivity?",
+                        "options": [
+                            "Curie",
+                            "Becquerel",
+                            "Roentgen",
+                            "Both A and B"
+                        ],
+                        "answer": 3,
+                        "explanation": "Becquerel is the SI unit; Curie is a traditional unit."
+                    },
+                    {
+                        "q": "Which instrument is used to see very small objects?",
+                        "options": [
+                            "Telescope",
+                            "Microscope",
+                            "Periscope",
+                            "Endoscope"
+                        ],
+                        "answer": 1,
+                        "explanation": "Microscopes use lenses or electrons for magnification."
+                    },
+                    {
+                        "q": "What is the value of atmospheric pressure at sea level (approx)?",
+                        "options": [
+                            "101.3 kPa",
+                            "50 kPa",
+                            "200 kPa",
+                            "10 kPa"
+                        ],
+                        "answer": 0,
+                        "explanation": "1 atmosphere is about 101,325 Pascals."
+                    },
+                    {
+                        "q": "Which radioactive particle is identical to a helium nucleus?",
+                        "options": [
+                            "Alpha particle",
+                            "Beta particle",
+                            "Gamma ray",
+                            "Neutron"
+                        ],
+                        "answer": 0,
+                        "explanation": "An alpha particle consists of 2 protons and 2 neutrons."
+                    },
+                    {
+                        "q": "What is the primary function of a transformer?",
+                        "options": [
+                            "Change DC to AC",
+                            "Change voltage levels",
+                            "Store energy",
+                            "Measure current"
+                        ],
+                        "answer": 1,
+                        "explanation": "Transformers step up or step down AC voltage."
+                    },
+                    {
+                        "q": "Which mirror provides a wide field of view and is used in parking lots?",
+                        "options": [
+                            "Concave",
+                            "Convex",
+                            "Plane",
+                            "Cylindrical"
+                        ],
+                        "answer": 1,
+                        "explanation": "Convex mirrors produce virtual, diminished, and upright images."
+                    },
+                    {
+                        "q": "What is the term for the amount of matter in an object?",
+                        "options": [
+                            "Weight",
+                            "Mass",
+                            "Volume",
+                            "Density"
+                        ],
+                        "answer": 1,
+                        "explanation": "Mass is constant regardless of location."
+                    },
+                    {
+                        "q": "Which law relates the current flow to voltage and resistance?",
+                        "options": [
+                            "Faraday's Law",
+                            "Ohm's Law",
+                            "Lenz's Law",
+                            "Coulomb's Law"
+                        ],
+                        "answer": 1,
+                        "explanation": "V = IR."
+                    },
+                    {
+                        "q": "What is the energy of motion called?",
+                        "options": [
+                            "Potential Energy",
+                            "Kinetic Energy",
+                            "Chemical Energy",
+                            "Thermal Energy"
+                        ],
+                        "answer": 1,
+                        "explanation": "K.E. = 1/2 mv2."
+                    },
+                    {
+                        "q": "Which color of light is least scattered by fog or smoke?",
+                        "options": [
+                            "Blue",
+                            "Green",
+                            "Yellow",
+                            "Red"
+                        ],
+                        "answer": 3,
+                        "explanation": "Red has the longest wavelength, making it ideal for danger signals."
+                    },
+                    {
+                        "q": "What is the time taken for one complete oscillation called?",
+                        "options": [
+                            "Frequency",
+                            "Amplitude",
+                            "Period",
+                            "Wavelength"
+                        ],
+                        "answer": 2,
+                        "explanation": "T = 1 / f."
+                    }
+                ]
             }
         ]
     },
@@ -44607,1796 +46831,4481 @@ const mainQuizData =
         "icon": "fa-file-lines",
         "subcategories": [
             {
-                "category": "PPSC Past Papers",
-                "icon": "fa-file-pen",
-                "questions": [
-                    {
-                        "q": "Who was the first President of the Constituent Assembly of Pakistan?",
-                        "options": [
-                            "Liaquat Ali Khan",
-                            "Iskander Mirza",
-                            "Muhammad Ali Jinnah",
-                            "Jogendra Nath Mandal"
-                        ],
-                        "answer": 2,
-                        "explanation": "Quaid-e-Azam Muhammad Ali Jinnah presided over the first session."
-                    },
-                    {
-                        "q": "What is the total area of Pakistan in square kilometers?",
-                        "options": [
-                            "796,095",
-                            "881,913",
-                            "900,000",
-                            "650,000"
-                        ],
-                        "answer": 1,
-                        "explanation": "The current official area including Gilgit-Baltistan and AJK is approximately 881,913 sq km."
-                    },
-                    {
-                        "q": "Which gas is most abundant in the Earth's atmosphere?",
-                        "options": [
-                            "Oxygen",
-                            "Carbon dioxide",
-                            "Nitrogen",
-                            "Hydrogen"
-                        ],
-                        "answer": 2,
-                        "explanation": "Nitrogen constitutes about 78% of the Earth's atmosphere. (Everyday Science)"
-                    },
-                    {
-                        "q": "When did Pakistan conduct its first public nuclear tests?",
-                        "options": [
-                            "1971",
-                            "1988",
-                            "1998",
-                            "2001"
-                        ],
-                        "answer": 2,
-                        "explanation": "The tests were conducted explicitly on 28 May 1998 (Youm-e-Takbir) at Chagai."
-                    },
-                    {
-                        "q": "Which province is the most populous in Pakistan?",
-                        "options": [
-                            "Sindh",
-                            "Khyber Pakhtunkhwa",
-                            "Balochistan",
-                            "Punjab"
-                        ],
-                        "answer": 3,
-                        "explanation": "Punjab houses over 50% of the country's entire population."
-                    },
-                    {
-                        "q": "What is the synonym of 'Abundant'?",
-                        "options": [
-                            "Scarce",
-                            "Plentiful",
-                            "Rare",
-                            "Thin"
-                        ],
-                        "answer": 1,
-                        "explanation": "'Abundant' means existing or available in large quantities; plentiful. (English)"
-                    },
-                    {
-                        "q": "When was the capital of Pakistan shifted from Karachi to Islamabad?",
-                        "options": [
-                            "1955",
-                            "1960",
-                            "1967",
-                            "1973"
-                        ],
-                        "answer": 2,
-                        "explanation": "Construction began in the 1960s, and it officially became the capital in 1967."
-                    },
-                    {
-                        "q": "Who is the longest-serving current Prime Minister of Israel?",
-                        "options": [
-                            "Yair Lapid",
-                            "Naftali Bennett",
-                            "Ariel Sharon",
-                            "Benjamin Netanyahu"
-                        ],
-                        "answer": 3,
-                        "explanation": "Netanyahu has served multiple terms spanning decades. (Current Affairs)"
-                    },
-                    {
-                        "q": "The Indus Water Treaty was significantly brokered by which international organization in 1960?",
-                        "options": [
-                            "United Nations",
-                            "World Bank",
-                            "IMF",
-                            "Asian Development Bank"
-                        ],
-                        "answer": 1,
-                        "explanation": "The World Bank negotiated the water-sharing treaty between India and Pakistan."
-                    },
-                    {
-                        "q": "Which part of the cell is known as the powerhouse?",
-                        "options": [
-                            "Nucleus",
-                            "Ribosome",
-                            "Mitochondria",
-                            "Golgi apparatus"
-                        ],
-                        "answer": 2,
-                        "explanation": "Mitochondria generate most of the chemical energy needed to power the cell."
-                    },
-                    {
-                        "q": "Who was the first Prime Minister of Pakistan?",
-                        "options": [
-                            "Khawaja Nazimuddin",
-                            "Liaquat Ali Khan",
-                            "Chaudhry Muhammad Ali",
-                            "Huseyn Shaheed Suhrawardy"
-                        ],
-                        "answer": 1,
-                        "explanation": "Liaquat Ali Khan was appointed as the first Prime Minister by the Quaid."
-                    },
-                    {
-                        "q": "What is the highest civilian award in Pakistan?",
-                        "options": [
-                            "Nishan-e-Haider",
-                            "Nishan-e-Pakistan",
-                            "Sitara-e-Jurat",
-                            "Tamgha-e-Imtiaz"
-                        ],
-                        "answer": 1,
-                        "explanation": "Nishan-e-Pakistan is the highest civilian award."
-                    },
-                    {
-                        "q": "He is good ___ mathematics.",
-                        "options": [
-                            "in",
-                            "at",
-                            "with",
-                            "for"
-                        ],
-                        "answer": 1,
-                        "explanation": "The correct preposition after 'good' to indicate skill or ability is 'at'."
-                    },
-                    {
-                        "q": "Which city is the industrial hub of Pakistan, often called 'Manchester of Pakistan'?",
-                        "options": [
-                            "Sialkot",
-                            "Faisalabad",
-                            "Gujranwala",
-                            "Hyderabad"
-                        ],
-                        "answer": 1,
-                        "explanation": "Faisalabad (Lyallpur) is the center of the textile industry."
-                    },
-                    {
-                        "q": "Who is the supreme commander of the Pakistan Armed Forces?",
-                        "options": [
-                            "Prime Minister",
-                            "Chief of Army Staff",
-                            "President",
-                            "Minister of Defence"
-                        ],
-                        "answer": 2,
-                        "explanation": "According to the Constitution, the President is the Supreme Commander of the Armed Forces."
-                    },
-                    {
-                        "q": "What is the national language of Pakistan?",
-                        "options": [
-                            "Punjabi",
-                            "English",
-                            "Urdu",
-                            "Sindhi"
-                        ],
-                        "answer": 2,
-                        "explanation": "Urdu is the declared national language (Lingua Franca) of Pakistan."
-                    },
-                    {
-                        "q": "Which country is constructing the 'Neom' megacity project?",
-                        "options": [
-                            "UAE",
-                            "Oman",
-                            "Saudi Arabia",
-                            "Qatar"
-                        ],
-                        "answer": 2,
-                        "explanation": "Neom is part of Saudi Arabia's Vision 2030."
-                    },
-                    {
-                        "q": "The process by which plants make their own food is called?",
-                        "options": [
-                            "Respiration",
-                            "Photosynthesis",
-                            "Digestion",
-                            "Transpiration"
-                        ],
-                        "answer": 1,
-                        "explanation": "Photosynthesis is the process used by plants to convert light energy into chemical energy."
-                    },
-                    {
-                        "q": "What is the total number of seats in the National Assembly of Pakistan?",
-                        "options": [
-                            "272",
-                            "336",
-                            "342",
-                            "104"
-                        ],
-                        "answer": 1,
-                        "explanation": "After recent demographic changes and ex-FATA merger adjustments, it is 336 (including reserved seats)."
-                    },
-                    {
-                        "q": "Which is the largest province of Pakistan by area?",
-                        "options": [
-                            "Punjab",
-                            "Sindh",
-                            "Balochistan",
-                            "KPK"
-                        ],
-                        "answer": 2,
-                        "explanation": "Balochistan covers nearly 44% of Pakistan's landmass."
-                    },
-                    {
-                        "q": "What is the capital of Australia?",
-                        "options": [
-                            "Sydney",
-                            "Melbourne",
-                            "Canberra",
-                            "Perth"
-                        ],
-                        "answer": 2,
-                        "explanation": "Canberra is the capital city of Australia."
-                    },
-                    {
-                        "q": "Which programming language is known as the building block of the web alongside HTML and CSS?",
-                        "options": [
-                            "Python",
-                            "JavaScript",
-                            "C++",
-                            "Java"
-                        ],
-                        "answer": 1,
-                        "explanation": "JavaScript allows you to implement complex features on web pages."
-                    },
-                    {
-                        "q": "Who wrote the national anthem of Pakistan?",
-                        "options": [
-                            "Allama Iqbal",
-                            "Hafeez Jalandhari",
-                            "Faiz Ahmed Faiz",
-                            "Ahmad Faraz"
-                        ],
-                        "answer": 1,
-                        "explanation": "Hafeez Jalandhari wrote the lyrics for the 'Qaumi Taranah'."
-                    },
-                    {
-                        "q": "What is the chemical symbol for Gold?",
-                        "options": [
-                            "Ag",
-                            "Au",
-                            "Pb",
-                            "Fe"
-                        ],
-                        "answer": 1,
-                        "explanation": "Au stands for aurum, the Latin word for gold."
-                    },
-                    {
-                        "q": "Which planet in our solar system is known as the Red Planet?",
-                        "options": [
-                            "Venus",
-                            "Jupiter",
-                            "Mars",
-                            "Saturn"
-                        ],
-                        "answer": 2,
-                        "explanation": "Mars is called the Red Planet because of iron oxide prevalent on its surface."
-                    },
-                    {
-                        "q": "In computer science, what does RAM stand for?",
-                        "options": [
-                            "Read Access Memory",
-                            "Random Access Memory",
-                            "Run Access Memory",
-                            "Real Access Memory"
-                        ],
-                        "answer": 1,
-                        "explanation": "RAM is a form of computer memory that can be read and changed in any order."
-                    },
-                    {
-                        "q": "What is the hardest natural substance on Earth?",
-                        "options": [
-                            "Gold",
-                            "Iron",
-                            "Diamond",
-                            "Platinum"
-                        ],
-                        "answer": 2,
-                        "explanation": "Diamonds are the hardest known natural material."
-                    },
-                    {
-                        "q": "Who is the founder of the Pakistan Peoples Party (PPP)?",
-                        "options": [
-                            "Benazir Bhutto",
-                            "Asif Ali Zardari",
-                            "Zulfikar Ali Bhutto",
-                            "Bilawal Bhutto Zardari"
-                        ],
-                        "answer": 2,
-                        "explanation": "Zulfikar Ali Bhutto founded the PPP in 1967."
-                    },
-                    {
-                        "q": "Which internal organ is the largest in the human body?",
-                        "options": [
-                            "Heart",
-                            "Liver",
-                            "Lungs",
-                            "Kidney"
-                        ],
-                        "answer": 1,
-                        "explanation": "The liver is the largest solid internal organ."
-                    },
-                    {
-                        "q": "What does HTTP stand for in web terminology?",
-                        "options": [
-                            "HyperText Transfer Protocol",
-                            "HyperText Transmission Protocol",
-                            "Hyper Transfer Text Protocol",
-                            "HyperText Transfer Program"
-                        ],
-                        "answer": 0,
-                        "explanation": "HTTP is the foundation of data communication for the World Wide Web."
-                    },
-                    {
-                        "q": "Which country is the host of the 2024 Summer Olympics?",
-                        "options": [
-                            "Tokyo, Japan",
-                            "Paris, France",
-                            "Los Angeles, USA",
-                            "London, UK"
-                        ],
-                        "answer": 1,
-                        "explanation": "The 2024 Summer Olympics are scheduled to take place in Paris, France."
-                    },
-                    {
-                        "q": "What is the synonym for 'Meticulous'?",
-                        "options": [
-                            "Careless",
-                            "Sloppy",
-                            "Careful",
-                            "Hasty"
-                        ],
-                        "answer": 2,
-                        "explanation": "Meticulous means showing great attention to detail; very careful."
-                    },
-                    {
-                        "q": "The highest mountain peak in Pakistan is?",
-                        "options": [
-                            "Nanga Parbat",
-                            "K2",
-                            "Broad Peak",
-                            "Tirich Mir"
-                        ],
-                        "answer": 1,
-                        "explanation": "K2 is the second-highest mountain on Earth, after Mount Everest."
-                    },
-                    {
-                        "q": "Which vitamin is also known as Ascorbic Acid?",
-                        "options": [
-                            "Vitamin A",
-                            "Vitamin B12",
-                            "Vitamin C",
-                            "Vitamin D"
-                        ],
-                        "answer": 2,
-                        "explanation": "Vitamin C is essential for tissue repair and the enzymatic production of certain neurotransmitters."
-                    },
-                    {
-                        "q": "Who was the last Mughal Emperor?",
-                        "options": [
-                            "Akbar",
-                            "Aurangzeb",
-                            "Shah Jahan",
-                            "Bahadur Shah Zafar"
-                        ],
-                        "answer": 3,
-                        "explanation": "Bahadur Shah Zafar II was the twentieth and last Mughal Emperor of India."
-                    },
-                    {
-                        "q": "Identify the antonym of 'Transparent'.",
-                        "options": [
-                            "Clear",
-                            "Lucid",
-                            "Opaque",
-                            "Translucent"
-                        ],
-                        "answer": 2,
-                        "explanation": "Opaque means not able to be seen through; not transparent."
-                    },
-                    {
-                        "q": "What is the main function of a router in a computer network?",
-                        "options": [
-                            "To store data",
-                            "To display graphics",
-                            "To forward data packets",
-                            "To cool the CPU"
-                        ],
-                        "answer": 2,
-                        "explanation": "A router forwards data packets between computer networks."
-                    },
-                    {
-                        "q": "Which is the smallest continent in the world?",
-                        "options": [
-                            "Europe",
-                            "Antarctica",
-                            "Australia",
-                            "South America"
-                        ],
-                        "answer": 2,
-                        "explanation": "Australia is the smallest of the world's continents."
-                    },
-                    {
-                        "q": "The 'Rohtas Fort' in Pakistan was built by?",
-                        "options": [
-                            "Akbar",
-                            "Sher Shah Suri",
-                            "Babar",
-                            "Jahangir"
-                        ],
-                        "answer": 1,
-                        "explanation": "Sher Shah Suri built the fort to block the advances of the Mughal emperor Humayun."
-                    },
-                    {
-                        "q": "What is the primary language spoken in Brazil?",
-                        "options": [
-                            "Spanish",
-                            "English",
-                            "Portuguese",
-                            "French"
-                        ],
-                        "answer": 2,
-                        "explanation": "Portuguese is the official and national language of Brazil."
-                    },
-                    {
-                        "q": "If x + 5 = 12, what is the value of x?",
-                        "options": [
-                            "5",
-                            "7",
-                            "12",
-                            "17"
-                        ],
-                        "answer": 1,
-                        "explanation": "Subtracting 5 from both sides gives x = 7."
-                    },
-                    {
-                        "q": "What is the square root of 144?",
-                        "options": [
-                            "10",
-                            "12",
-                            "14",
-                            "16"
-                        ],
-                        "answer": 1,
-                        "explanation": "12 * 12 = 144."
-                    },
-                    {
-                        "q": "Convert 20% into a fraction.",
-                        "options": [
-                            "1/4",
-                            "1/5",
-                            "1/2",
-                            "1/10"
-                        ],
-                        "answer": 1,
-                        "explanation": "20% means 20/100, which simplifies to 1/5."
-                    },
-                    {
-                        "q": "If an item costs  and is discounted by 25%, what is the final price?",
-                        "options": [
-                            "",
-                            "",
-                            "",
-                            ""
-                        ],
-                        "answer": 2,
-                        "explanation": "25% of 40 is 10. 40 - 10 = 30."
-                    },
-                    {
-                        "q": "What is the next number in the series: 2, 6, 12, 20, ...?",
-                        "options": [
-                            "24",
-                            "28",
-                            "30",
-                            "32"
-                        ],
-                        "answer": 2,
-                        "explanation": "The differences are 4, 6, 8, 10. 20 + 10 = 30."
-                    },
-                    {
-                        "q": "A man walks 4 km North, then turns right and walks 3 km. How far is he from the starting point?",
-                        "options": [
-                            "5 km",
-                            "7 km",
-                            "1 km",
-                            "12 km"
-                        ],
-                        "answer": 0,
-                        "explanation": "Using the Pythagorean theorem: sqrt(4^2 + 3^2) = sqrt(16 + 9) = sqrt(25) = 5."
-                    },
-                    {
-                        "q": "Which is a prime number?",
-                        "options": [
-                            "9",
-                            "12",
-                            "15",
-                            "17"
-                        ],
-                        "answer": 3,
-                        "explanation": "17 is only divisible by 1 and itself."
-                    },
-                    {
-                        "q": "What is 15% of 200?",
-                        "options": [
-                            "15",
-                            "30",
-                            "45",
-                            "60"
-                        ],
-                        "answer": 1,
-                        "explanation": "0.15 * 200 = 30."
-                    },
-                    {
-                        "q": "She ___ to the market everyday.",
-                        "options": [
-                            "go",
-                            "goes",
-                            "going",
-                            "gone"
-                        ],
-                        "answer": 1,
-                        "explanation": "Singular third-person present tense requires 's' or 'es'."
-                    },
-                    {
-                        "q": "He is fond ___ sweets.",
-                        "options": [
-                            "to",
-                            "in",
-                            "of",
-                            "with"
-                        ],
-                        "answer": 2,
-                        "explanation": "The correct preposition is 'of'."
-                    },
-                    {
-                        "q": "Identify the correct spelling.",
-                        "options": [
-                            "Occasion",
-                            "Ocasion",
-                            "Occassion",
-                            "Occassion"
-                        ],
-                        "answer": 0,
-                        "explanation": "'Occasion' is the correct spelling."
-                    },
-                    {
-                        "q": "The train had left before we ___ the station.",
-                        "options": [
-                            "reach",
-                            "reaches",
-                            "reached",
-                            "had reached"
-                        ],
-                        "answer": 2,
-                        "explanation": "Past perfect is used for the earlier action, simple past for the later one."
-                    },
-                    {
-                        "q": "Which ocean is the largest?",
-                        "options": [
-                            "Atlantic",
-                            "Indian",
-                            "Arctic",
-                            "Pacific"
-                        ],
-                        "answer": 3,
-                        "explanation": "The Pacific Ocean covers more than 30% of the Earth's surface."
-                    },
-                    {
-                        "q": "Who discovered penicillin?",
-                        "options": [
-                            "Marie Curie",
-                            "Alexander Fleming",
-                            "Louis Pasteur",
-                            "Isaac Newton"
-                        ],
-                        "answer": 1,
-                        "explanation": "Alexander Fleming discovered penicillin in 1928."
-                    },
-                    {
-                        "q": "What does CPU stand for?",
-                        "options": [
-                            "Central Process Unit",
-                            "Computer Personal Unit",
-                            "Central Processing Unit",
-                            "Central Processor Unit"
-                        ],
-                        "answer": 2,
-                        "explanation": "CPU is the primary component of a computer that acts as its 'brain'."
-                    },
-                    {
-                        "q": "Which planet is closest to the Sun?",
-                        "options": [
-                            "Venus",
-                            "Mars",
-                            "Earth",
-                            "Mercury"
-                        ],
-                        "answer": 3,
-                        "explanation": "Mercury is the smallest and innermost planet in the Solar System."
-                    },
-                    {
-                        "q": "What is the capital of Canada?",
-                        "options": [
-                            "Toronto",
-                            "Vancouver",
-                            "Montreal",
-                            "Ottawa"
-                        ],
-                        "answer": 3,
-                        "explanation": "Ottawa is the capital city of Canada."
-                    },
-                    {
-                        "q": "Which organ purifies blood in the human body?",
-                        "options": [
-                            "Heart",
-                            "Lungs",
-                            "Kidneys",
-                            "Liver"
-                        ],
-                        "answer": 2,
-                        "explanation": "Kidneys filter waste products from the blood."
-                    },
-                    {
-                        "q": "What is the formula for water?",
-                        "options": [
-                            "CO2",
-                            "H2O",
-                            "O2",
-                            "NaCl"
-                        ],
-                        "answer": 1,
-                        "explanation": "Water is composed of two hydrogen atoms and one oxygen atom."
-                    },
-                    {
-                        "q": "Who painted the Mona Lisa?",
-                        "options": [
-                            "Vincent van Gogh",
-                            "Pablo Picasso",
-                            "Leonardo da Vinci",
-                            "Claude Monet"
-                        ],
-                        "answer": 2,
-                        "explanation": "Leonardo da Vinci painted the Mona Lisa."
-                    },
-                    {
-                        "q": "Who was the first female Governor of a province in Pakistan?",
-                        "options": [
-                            "Begum Ra'ana Liaquat Ali",
-                            "Benazir Bhutto",
-                            "Begum Shaista Ikramullah",
-                            "Fatima Jinnah"
-                        ],
-                        "answer": 0,
-                        "explanation": "Begum Ra'ana Liaquat Ali Khan was the Governor of Sindh from 1973 to 1976."
-                    },
-                    {
-                        "q": "What is the square root of 225?",
-                        "options": [
-                            "12",
-                            "15",
-                            "25",
-                            "35"
-                        ],
-                        "answer": 1,
-                        "explanation": "15 * 15 = 225."
-                    },
-                    {
-                        "q": "Which gas is used in refrigerators?",
-                        "options": [
-                            "Oxygen",
-                            "Ammonia",
-                            "Nitrogen",
-                            "Freon"
-                        ],
-                        "answer": 3,
-                        "explanation": "Freon (Chlorofluorocarbons) or modern alternatives are used as refrigerants."
-                    },
-                    {
-                        "q": "Find the antonym of 'Fragile'.",
-                        "options": [
-                            "Weak",
-                            "Delicate",
-                            "Strong",
-                            "Soft"
-                        ],
-                        "answer": 2,
-                        "explanation": "Fragile means easily broken; strong is the opposite."
-                    },
-                    {
-                        "q": "Which Pakistani scientist won the Nobel Prize in Physics?",
-                        "options": [
-                            "Dr. A.Q. Khan",
-                            "Dr. Abdus Salam",
-                            "Dr. Samar Mubarakmand",
-                            "Dr. Atta-ur-Rahman"
-                        ],
-                        "answer": 1,
-                        "explanation": "Dr. Abdus Salam won the Nobel Prize in Physics in 1979."
-                    },
-                    {
-                        "q": "He prefers tea ___ coffee.",
-                        "options": [
-                            "than",
-                            "over",
-                            "to",
-                            "against"
-                        ],
-                        "answer": 2,
-                        "explanation": "The correct preposition after 'prefer' when comparing two nouns is 'to'."
-                    },
-                    {
-                        "q": "What is the capital of Turkey?",
-                        "options": [
-                            "Istanbul",
-                            "Ankara",
-                            "Izmir",
-                            "Bursa"
-                        ],
-                        "answer": 1,
-                        "explanation": "Ankara is the capital, while Istanbul is the largest city."
-                    },
-                    {
-                        "q": "The instrument used to measure blood pressure is?",
-                        "options": [
-                            "Thermometer",
-                            "Barometer",
-                            "Sphygmomanometer",
-                            "Stethoscope"
-                        ],
-                        "answer": 2,
-                        "explanation": "A sphygmomanometer is used to measure blood pressure."
-                    },
-                    {
-                        "q": "Which continent has the highest number of countries?",
-                        "options": [
-                            "Asia",
-                            "Europe",
-                            "Africa",
-                            "South America"
-                        ],
-                        "answer": 2,
-                        "explanation": "Africa has 54 recognized sovereign states."
-                    },
-                    {
-                        "q": "If 5x = 20, what is the value of 3x?",
-                        "options": [
-                            "12",
-                            "15",
-                            "8",
-                            "10"
-                        ],
-                        "answer": 0,
-                        "explanation": "If 5x = 20, then x = 4. Therefore, 3x = 12."
-                    },
-                    {
-                        "q": "When did Pakistan win the Cricket World Cup?",
-                        "options": [
-                            "1987",
-                            "1992",
-                            "1996",
-                            "1999"
-                        ],
-                        "answer": 1,
-                        "explanation": "Pakistan won the ICC Cricket World Cup in 1992 under Imran Khan's captaincy."
+                "category": "General Past Papers",
+                "icon": "fa-folder-open",
+                "isFolder": true,
+                "subcategories": [
+                    {
+                        "category": "PPSC Past Papers",
+                        "icon": "fa-file-pen",
+                        "questions": [
+                            {
+                                "q": "Who was the first President of the Constituent Assembly of Pakistan?",
+                                "options": [
+                                    "Liaquat Ali Khan",
+                                    "Iskander Mirza",
+                                    "Muhammad Ali Jinnah",
+                                    "Jogendra Nath Mandal"
+                                ],
+                                "answer": 2,
+                                "explanation": "Quaid-e-Azam Muhammad Ali Jinnah presided over the first session."
+                            },
+                            {
+                                "q": "What is the total area of Pakistan in square kilometers?",
+                                "options": [
+                                    "796,095",
+                                    "881,913",
+                                    "900,000",
+                                    "650,000"
+                                ],
+                                "answer": 1,
+                                "explanation": "The current official area including Gilgit-Baltistan and AJK is approximately 881,913 sq km."
+                            },
+                            {
+                                "q": "Which gas is most abundant in the Earth's atmosphere?",
+                                "options": [
+                                    "Oxygen",
+                                    "Carbon dioxide",
+                                    "Nitrogen",
+                                    "Hydrogen"
+                                ],
+                                "answer": 2,
+                                "explanation": "Nitrogen constitutes about 78% of the Earth's atmosphere. (Everyday Science)"
+                            },
+                            {
+                                "q": "When did Pakistan conduct its first public nuclear tests?",
+                                "options": [
+                                    "1971",
+                                    "1988",
+                                    "1998",
+                                    "2001"
+                                ],
+                                "answer": 2,
+                                "explanation": "The tests were conducted explicitly on 28 May 1998 (Youm-e-Takbir) at Chagai."
+                            },
+                            {
+                                "q": "Which province is the most populous in Pakistan?",
+                                "options": [
+                                    "Sindh",
+                                    "Khyber Pakhtunkhwa",
+                                    "Balochistan",
+                                    "Punjab"
+                                ],
+                                "answer": 3,
+                                "explanation": "Punjab houses over 50% of the country's entire population."
+                            },
+                            {
+                                "q": "What is the synonym of 'Abundant'?",
+                                "options": [
+                                    "Scarce",
+                                    "Plentiful",
+                                    "Rare",
+                                    "Thin"
+                                ],
+                                "answer": 1,
+                                "explanation": "'Abundant' means existing or available in large quantities; plentiful. (English)"
+                            },
+                            {
+                                "q": "When was the capital of Pakistan shifted from Karachi to Islamabad?",
+                                "options": [
+                                    "1955",
+                                    "1960",
+                                    "1967",
+                                    "1973"
+                                ],
+                                "answer": 2,
+                                "explanation": "Construction began in the 1960s, and it officially became the capital in 1967."
+                            },
+                            {
+                                "q": "Who is the longest-serving current Prime Minister of Israel?",
+                                "options": [
+                                    "Yair Lapid",
+                                    "Naftali Bennett",
+                                    "Ariel Sharon",
+                                    "Benjamin Netanyahu"
+                                ],
+                                "answer": 3,
+                                "explanation": "Netanyahu has served multiple terms spanning decades. (Current Affairs)"
+                            },
+                            {
+                                "q": "The Indus Water Treaty was significantly brokered by which international organization in 1960?",
+                                "options": [
+                                    "United Nations",
+                                    "World Bank",
+                                    "IMF",
+                                    "Asian Development Bank"
+                                ],
+                                "answer": 1,
+                                "explanation": "The World Bank negotiated the water-sharing treaty between India and Pakistan."
+                            },
+                            {
+                                "q": "Which part of the cell is known as the powerhouse?",
+                                "options": [
+                                    "Nucleus",
+                                    "Ribosome",
+                                    "Mitochondria",
+                                    "Golgi apparatus"
+                                ],
+                                "answer": 2,
+                                "explanation": "Mitochondria generate most of the chemical energy needed to power the cell."
+                            },
+                            {
+                                "q": "Who was the first Prime Minister of Pakistan?",
+                                "options": [
+                                    "Khawaja Nazimuddin",
+                                    "Liaquat Ali Khan",
+                                    "Chaudhry Muhammad Ali",
+                                    "Huseyn Shaheed Suhrawardy"
+                                ],
+                                "answer": 1,
+                                "explanation": "Liaquat Ali Khan was appointed as the first Prime Minister by the Quaid."
+                            },
+                            {
+                                "q": "What is the highest civilian award in Pakistan?",
+                                "options": [
+                                    "Nishan-e-Haider",
+                                    "Nishan-e-Pakistan",
+                                    "Sitara-e-Jurat",
+                                    "Tamgha-e-Imtiaz"
+                                ],
+                                "answer": 1,
+                                "explanation": "Nishan-e-Pakistan is the highest civilian award."
+                            },
+                            {
+                                "q": "He is good ___ mathematics.",
+                                "options": [
+                                    "in",
+                                    "at",
+                                    "with",
+                                    "for"
+                                ],
+                                "answer": 1,
+                                "explanation": "The correct preposition after 'good' to indicate skill or ability is 'at'."
+                            },
+                            {
+                                "q": "Which city is the industrial hub of Pakistan, often called 'Manchester of Pakistan'?",
+                                "options": [
+                                    "Sialkot",
+                                    "Faisalabad",
+                                    "Gujranwala",
+                                    "Hyderabad"
+                                ],
+                                "answer": 1,
+                                "explanation": "Faisalabad (Lyallpur) is the center of the textile industry."
+                            },
+                            {
+                                "q": "Who is the supreme commander of the Pakistan Armed Forces?",
+                                "options": [
+                                    "Prime Minister",
+                                    "Chief of Army Staff",
+                                    "President",
+                                    "Minister of Defence"
+                                ],
+                                "answer": 2,
+                                "explanation": "According to the Constitution, the President is the Supreme Commander of the Armed Forces."
+                            },
+                            {
+                                "q": "What is the national language of Pakistan?",
+                                "options": [
+                                    "Punjabi",
+                                    "English",
+                                    "Urdu",
+                                    "Sindhi"
+                                ],
+                                "answer": 2,
+                                "explanation": "Urdu is the declared national language (Lingua Franca) of Pakistan."
+                            },
+                            {
+                                "q": "Which country is constructing the 'Neom' megacity project?",
+                                "options": [
+                                    "UAE",
+                                    "Oman",
+                                    "Saudi Arabia",
+                                    "Qatar"
+                                ],
+                                "answer": 2,
+                                "explanation": "Neom is part of Saudi Arabia's Vision 2030."
+                            },
+                            {
+                                "q": "The process by which plants make their own food is called?",
+                                "options": [
+                                    "Respiration",
+                                    "Photosynthesis",
+                                    "Digestion",
+                                    "Transpiration"
+                                ],
+                                "answer": 1,
+                                "explanation": "Photosynthesis is the process used by plants to convert light energy into chemical energy."
+                            },
+                            {
+                                "q": "What is the total number of seats in the National Assembly of Pakistan?",
+                                "options": [
+                                    "272",
+                                    "336",
+                                    "342",
+                                    "104"
+                                ],
+                                "answer": 1,
+                                "explanation": "After recent demographic changes and ex-FATA merger adjustments, it is 336 (including reserved seats)."
+                            },
+                            {
+                                "q": "Which is the largest province of Pakistan by area?",
+                                "options": [
+                                    "Punjab",
+                                    "Sindh",
+                                    "Balochistan",
+                                    "KPK"
+                                ],
+                                "answer": 2,
+                                "explanation": "Balochistan covers nearly 44% of Pakistan's landmass."
+                            },
+                            {
+                                "q": "What is the capital of Australia?",
+                                "options": [
+                                    "Sydney",
+                                    "Melbourne",
+                                    "Canberra",
+                                    "Perth"
+                                ],
+                                "answer": 2,
+                                "explanation": "Canberra is the capital city of Australia."
+                            },
+                            {
+                                "q": "Which programming language is known as the building block of the web alongside HTML and CSS?",
+                                "options": [
+                                    "Python",
+                                    "JavaScript",
+                                    "C++",
+                                    "Java"
+                                ],
+                                "answer": 1,
+                                "explanation": "JavaScript allows you to implement complex features on web pages."
+                            },
+                            {
+                                "q": "Who wrote the national anthem of Pakistan?",
+                                "options": [
+                                    "Allama Iqbal",
+                                    "Hafeez Jalandhari",
+                                    "Faiz Ahmed Faiz",
+                                    "Ahmad Faraz"
+                                ],
+                                "answer": 1,
+                                "explanation": "Hafeez Jalandhari wrote the lyrics for the 'Qaumi Taranah'."
+                            },
+                            {
+                                "q": "What is the chemical symbol for Gold?",
+                                "options": [
+                                    "Ag",
+                                    "Au",
+                                    "Pb",
+                                    "Fe"
+                                ],
+                                "answer": 1,
+                                "explanation": "Au stands for aurum, the Latin word for gold."
+                            },
+                            {
+                                "q": "Which planet in our solar system is known as the Red Planet?",
+                                "options": [
+                                    "Venus",
+                                    "Jupiter",
+                                    "Mars",
+                                    "Saturn"
+                                ],
+                                "answer": 2,
+                                "explanation": "Mars is called the Red Planet because of iron oxide prevalent on its surface."
+                            },
+                            {
+                                "q": "In computer science, what does RAM stand for?",
+                                "options": [
+                                    "Read Access Memory",
+                                    "Random Access Memory",
+                                    "Run Access Memory",
+                                    "Real Access Memory"
+                                ],
+                                "answer": 1,
+                                "explanation": "RAM is a form of computer memory that can be read and changed in any order."
+                            },
+                            {
+                                "q": "What is the hardest natural substance on Earth?",
+                                "options": [
+                                    "Gold",
+                                    "Iron",
+                                    "Diamond",
+                                    "Platinum"
+                                ],
+                                "answer": 2,
+                                "explanation": "Diamonds are the hardest known natural material."
+                            },
+                            {
+                                "q": "Who is the founder of the Pakistan Peoples Party (PPP)?",
+                                "options": [
+                                    "Benazir Bhutto",
+                                    "Asif Ali Zardari",
+                                    "Zulfikar Ali Bhutto",
+                                    "Bilawal Bhutto Zardari"
+                                ],
+                                "answer": 2,
+                                "explanation": "Zulfikar Ali Bhutto founded the PPP in 1967."
+                            },
+                            {
+                                "q": "Which internal organ is the largest in the human body?",
+                                "options": [
+                                    "Heart",
+                                    "Liver",
+                                    "Lungs",
+                                    "Kidney"
+                                ],
+                                "answer": 1,
+                                "explanation": "The liver is the largest solid internal organ."
+                            },
+                            {
+                                "q": "What does HTTP stand for in web terminology?",
+                                "options": [
+                                    "HyperText Transfer Protocol",
+                                    "HyperText Transmission Protocol",
+                                    "Hyper Transfer Text Protocol",
+                                    "HyperText Transfer Program"
+                                ],
+                                "answer": 0,
+                                "explanation": "HTTP is the foundation of data communication for the World Wide Web."
+                            },
+                            {
+                                "q": "Which country is the host of the 2024 Summer Olympics?",
+                                "options": [
+                                    "Tokyo, Japan",
+                                    "Paris, France",
+                                    "Los Angeles, USA",
+                                    "London, UK"
+                                ],
+                                "answer": 1,
+                                "explanation": "The 2024 Summer Olympics are scheduled to take place in Paris, France."
+                            },
+                            {
+                                "q": "What is the synonym for 'Meticulous'?",
+                                "options": [
+                                    "Careless",
+                                    "Sloppy",
+                                    "Careful",
+                                    "Hasty"
+                                ],
+                                "answer": 2,
+                                "explanation": "Meticulous means showing great attention to detail; very careful."
+                            },
+                            {
+                                "q": "The highest mountain peak in Pakistan is?",
+                                "options": [
+                                    "Nanga Parbat",
+                                    "K2",
+                                    "Broad Peak",
+                                    "Tirich Mir"
+                                ],
+                                "answer": 1,
+                                "explanation": "K2 is the second-highest mountain on Earth, after Mount Everest."
+                            },
+                            {
+                                "q": "Which vitamin is also known as Ascorbic Acid?",
+                                "options": [
+                                    "Vitamin A",
+                                    "Vitamin B12",
+                                    "Vitamin C",
+                                    "Vitamin D"
+                                ],
+                                "answer": 2,
+                                "explanation": "Vitamin C is essential for tissue repair and the enzymatic production of certain neurotransmitters."
+                            },
+                            {
+                                "q": "Who was the last Mughal Emperor?",
+                                "options": [
+                                    "Akbar",
+                                    "Aurangzeb",
+                                    "Shah Jahan",
+                                    "Bahadur Shah Zafar"
+                                ],
+                                "answer": 3,
+                                "explanation": "Bahadur Shah Zafar II was the twentieth and last Mughal Emperor of India."
+                            },
+                            {
+                                "q": "Identify the antonym of 'Transparent'.",
+                                "options": [
+                                    "Clear",
+                                    "Lucid",
+                                    "Opaque",
+                                    "Translucent"
+                                ],
+                                "answer": 2,
+                                "explanation": "Opaque means not able to be seen through; not transparent."
+                            },
+                            {
+                                "q": "What is the main function of a router in a computer network?",
+                                "options": [
+                                    "To store data",
+                                    "To display graphics",
+                                    "To forward data packets",
+                                    "To cool the CPU"
+                                ],
+                                "answer": 2,
+                                "explanation": "A router forwards data packets between computer networks."
+                            },
+                            {
+                                "q": "Which is the smallest continent in the world?",
+                                "options": [
+                                    "Europe",
+                                    "Antarctica",
+                                    "Australia",
+                                    "South America"
+                                ],
+                                "answer": 2,
+                                "explanation": "Australia is the smallest of the world's continents."
+                            },
+                            {
+                                "q": "The 'Rohtas Fort' in Pakistan was built by?",
+                                "options": [
+                                    "Akbar",
+                                    "Sher Shah Suri",
+                                    "Babar",
+                                    "Jahangir"
+                                ],
+                                "answer": 1,
+                                "explanation": "Sher Shah Suri built the fort to block the advances of the Mughal emperor Humayun."
+                            },
+                            {
+                                "q": "What is the primary language spoken in Brazil?",
+                                "options": [
+                                    "Spanish",
+                                    "English",
+                                    "Portuguese",
+                                    "French"
+                                ],
+                                "answer": 2,
+                                "explanation": "Portuguese is the official and national language of Brazil."
+                            },
+                            {
+                                "q": "If x + 5 = 12, what is the value of x?",
+                                "options": [
+                                    "5",
+                                    "7",
+                                    "12",
+                                    "17"
+                                ],
+                                "answer": 1,
+                                "explanation": "Subtracting 5 from both sides gives x = 7."
+                            },
+                            {
+                                "q": "What is the square root of 144?",
+                                "options": [
+                                    "10",
+                                    "12",
+                                    "14",
+                                    "16"
+                                ],
+                                "answer": 1,
+                                "explanation": "12 * 12 = 144."
+                            },
+                            {
+                                "q": "Convert 20% into a fraction.",
+                                "options": [
+                                    "1/4",
+                                    "1/5",
+                                    "1/2",
+                                    "1/10"
+                                ],
+                                "answer": 1,
+                                "explanation": "20% means 20/100, which simplifies to 1/5."
+                            },
+                            {
+                                "q": "If an item costs  and is discounted by 25%, what is the final price?",
+                                "options": [
+                                    "",
+                                    "",
+                                    "",
+                                    ""
+                                ],
+                                "answer": 2,
+                                "explanation": "25% of 40 is 10. 40 - 10 = 30."
+                            },
+                            {
+                                "q": "What is the next number in the series: 2, 6, 12, 20, ...?",
+                                "options": [
+                                    "24",
+                                    "28",
+                                    "30",
+                                    "32"
+                                ],
+                                "answer": 2,
+                                "explanation": "The differences are 4, 6, 8, 10. 20 + 10 = 30."
+                            },
+                            {
+                                "q": "A man walks 4 km North, then turns right and walks 3 km. How far is he from the starting point?",
+                                "options": [
+                                    "5 km",
+                                    "7 km",
+                                    "1 km",
+                                    "12 km"
+                                ],
+                                "answer": 0,
+                                "explanation": "Using the Pythagorean theorem: sqrt(4^2 + 3^2) = sqrt(16 + 9) = sqrt(25) = 5."
+                            },
+                            {
+                                "q": "Which is a prime number?",
+                                "options": [
+                                    "9",
+                                    "12",
+                                    "15",
+                                    "17"
+                                ],
+                                "answer": 3,
+                                "explanation": "17 is only divisible by 1 and itself."
+                            },
+                            {
+                                "q": "What is 15% of 200?",
+                                "options": [
+                                    "15",
+                                    "30",
+                                    "45",
+                                    "60"
+                                ],
+                                "answer": 1,
+                                "explanation": "0.15 * 200 = 30."
+                            },
+                            {
+                                "q": "She ___ to the market everyday.",
+                                "options": [
+                                    "go",
+                                    "goes",
+                                    "going",
+                                    "gone"
+                                ],
+                                "answer": 1,
+                                "explanation": "Singular third-person present tense requires 's' or 'es'."
+                            },
+                            {
+                                "q": "He is fond ___ sweets.",
+                                "options": [
+                                    "to",
+                                    "in",
+                                    "of",
+                                    "with"
+                                ],
+                                "answer": 2,
+                                "explanation": "The correct preposition is 'of'."
+                            },
+                            {
+                                "q": "Identify the correct spelling.",
+                                "options": [
+                                    "Occasion",
+                                    "Ocasion",
+                                    "Occassion",
+                                    "Occassion"
+                                ],
+                                "answer": 0,
+                                "explanation": "'Occasion' is the correct spelling."
+                            },
+                            {
+                                "q": "The train had left before we ___ the station.",
+                                "options": [
+                                    "reach",
+                                    "reaches",
+                                    "reached",
+                                    "had reached"
+                                ],
+                                "answer": 2,
+                                "explanation": "Past perfect is used for the earlier action, simple past for the later one."
+                            },
+                            {
+                                "q": "Which ocean is the largest?",
+                                "options": [
+                                    "Atlantic",
+                                    "Indian",
+                                    "Arctic",
+                                    "Pacific"
+                                ],
+                                "answer": 3,
+                                "explanation": "The Pacific Ocean covers more than 30% of the Earth's surface."
+                            },
+                            {
+                                "q": "Who discovered penicillin?",
+                                "options": [
+                                    "Marie Curie",
+                                    "Alexander Fleming",
+                                    "Louis Pasteur",
+                                    "Isaac Newton"
+                                ],
+                                "answer": 1,
+                                "explanation": "Alexander Fleming discovered penicillin in 1928."
+                            },
+                            {
+                                "q": "What does CPU stand for?",
+                                "options": [
+                                    "Central Process Unit",
+                                    "Computer Personal Unit",
+                                    "Central Processing Unit",
+                                    "Central Processor Unit"
+                                ],
+                                "answer": 2,
+                                "explanation": "CPU is the primary component of a computer that acts as its 'brain'."
+                            },
+                            {
+                                "q": "Which planet is closest to the Sun?",
+                                "options": [
+                                    "Venus",
+                                    "Mars",
+                                    "Earth",
+                                    "Mercury"
+                                ],
+                                "answer": 3,
+                                "explanation": "Mercury is the smallest and innermost planet in the Solar System."
+                            },
+                            {
+                                "q": "What is the capital of Canada?",
+                                "options": [
+                                    "Toronto",
+                                    "Vancouver",
+                                    "Montreal",
+                                    "Ottawa"
+                                ],
+                                "answer": 3,
+                                "explanation": "Ottawa is the capital city of Canada."
+                            },
+                            {
+                                "q": "Which organ purifies blood in the human body?",
+                                "options": [
+                                    "Heart",
+                                    "Lungs",
+                                    "Kidneys",
+                                    "Liver"
+                                ],
+                                "answer": 2,
+                                "explanation": "Kidneys filter waste products from the blood."
+                            },
+                            {
+                                "q": "What is the formula for water?",
+                                "options": [
+                                    "CO2",
+                                    "H2O",
+                                    "O2",
+                                    "NaCl"
+                                ],
+                                "answer": 1,
+                                "explanation": "Water is composed of two hydrogen atoms and one oxygen atom."
+                            },
+                            {
+                                "q": "Who painted the Mona Lisa?",
+                                "options": [
+                                    "Vincent van Gogh",
+                                    "Pablo Picasso",
+                                    "Leonardo da Vinci",
+                                    "Claude Monet"
+                                ],
+                                "answer": 2,
+                                "explanation": "Leonardo da Vinci painted the Mona Lisa."
+                            },
+                            {
+                                "q": "Who was the first female Governor of a province in Pakistan?",
+                                "options": [
+                                    "Begum Ra'ana Liaquat Ali",
+                                    "Benazir Bhutto",
+                                    "Begum Shaista Ikramullah",
+                                    "Fatima Jinnah"
+                                ],
+                                "answer": 0,
+                                "explanation": "Begum Ra'ana Liaquat Ali Khan was the Governor of Sindh from 1973 to 1976."
+                            },
+                            {
+                                "q": "What is the square root of 225?",
+                                "options": [
+                                    "12",
+                                    "15",
+                                    "25",
+                                    "35"
+                                ],
+                                "answer": 1,
+                                "explanation": "15 * 15 = 225."
+                            },
+                            {
+                                "q": "Which gas is used in refrigerators?",
+                                "options": [
+                                    "Oxygen",
+                                    "Ammonia",
+                                    "Nitrogen",
+                                    "Freon"
+                                ],
+                                "answer": 3,
+                                "explanation": "Freon (Chlorofluorocarbons) or modern alternatives are used as refrigerants."
+                            },
+                            {
+                                "q": "Find the antonym of 'Fragile'.",
+                                "options": [
+                                    "Weak",
+                                    "Delicate",
+                                    "Strong",
+                                    "Soft"
+                                ],
+                                "answer": 2,
+                                "explanation": "Fragile means easily broken; strong is the opposite."
+                            },
+                            {
+                                "q": "Which Pakistani scientist won the Nobel Prize in Physics?",
+                                "options": [
+                                    "Dr. A.Q. Khan",
+                                    "Dr. Abdus Salam",
+                                    "Dr. Samar Mubarakmand",
+                                    "Dr. Atta-ur-Rahman"
+                                ],
+                                "answer": 1,
+                                "explanation": "Dr. Abdus Salam won the Nobel Prize in Physics in 1979."
+                            },
+                            {
+                                "q": "He prefers tea ___ coffee.",
+                                "options": [
+                                    "than",
+                                    "over",
+                                    "to",
+                                    "against"
+                                ],
+                                "answer": 2,
+                                "explanation": "The correct preposition after 'prefer' when comparing two nouns is 'to'."
+                            },
+                            {
+                                "q": "What is the capital of Turkey?",
+                                "options": [
+                                    "Istanbul",
+                                    "Ankara",
+                                    "Izmir",
+                                    "Bursa"
+                                ],
+                                "answer": 1,
+                                "explanation": "Ankara is the capital, while Istanbul is the largest city."
+                            },
+                            {
+                                "q": "The instrument used to measure blood pressure is?",
+                                "options": [
+                                    "Thermometer",
+                                    "Barometer",
+                                    "Sphygmomanometer",
+                                    "Stethoscope"
+                                ],
+                                "answer": 2,
+                                "explanation": "A sphygmomanometer is used to measure blood pressure."
+                            },
+                            {
+                                "q": "Which continent has the highest number of countries?",
+                                "options": [
+                                    "Asia",
+                                    "Europe",
+                                    "Africa",
+                                    "South America"
+                                ],
+                                "answer": 2,
+                                "explanation": "Africa has 54 recognized sovereign states."
+                            },
+                            {
+                                "q": "If 5x = 20, what is the value of 3x?",
+                                "options": [
+                                    "12",
+                                    "15",
+                                    "8",
+                                    "10"
+                                ],
+                                "answer": 0,
+                                "explanation": "If 5x = 20, then x = 4. Therefore, 3x = 12."
+                            },
+                            {
+                                "q": "When did Pakistan win the Cricket World Cup?",
+                                "options": [
+                                    "1987",
+                                    "1992",
+                                    "1996",
+                                    "1999"
+                                ],
+                                "answer": 1,
+                                "explanation": "Pakistan won the ICC Cricket World Cup in 1992 under Imran Khan's captaincy."
+                            }
+                        ]
+                    },
+                    {
+                        "category": "FPSC Past Papers",
+                        "icon": "fa-certificate",
+                        "questions": [
+                            {
+                                "q": "What is the name of the AI chatbot developed by OpenAI that sparked the AI boom?",
+                                "options": [
+                                    "Gemini",
+                                    "Claude",
+                                    "ChatGPT",
+                                    "Copilot"
+                                ],
+                                "answer": 2,
+                                "explanation": "ChatGPT's release in late 2022 revolutionized public AI usage."
+                            },
+                            {
+                                "q": "Which ocean is the deepest in the world?",
+                                "options": [
+                                    "Atlantic Ocean",
+                                    "Indian Ocean",
+                                    "Arctic Ocean",
+                                    "Pacific Ocean"
+                                ],
+                                "answer": 3,
+                                "explanation": "The Pacific Ocean contains the Mariana Trench, the deepest point on Earth."
+                            },
+                            {
+                                "q": "Which blood group is known as the universal donor?",
+                                "options": [
+                                    "A",
+                                    "B",
+                                    "AB",
+                                    "O"
+                                ],
+                                "answer": 3,
+                                "explanation": "Type O negative blood is often called the universal donor type."
+                            },
+                            {
+                                "q": "Who won the TIME Person of the Year in 2023?",
+                                "options": [
+                                    "Volodymyr Zelensky",
+                                    "Taylor Swift",
+                                    "Elon Musk",
+                                    "Joe Biden"
+                                ],
+                                "answer": 1,
+                                "explanation": "The pop megastar was recognized for her massive cultural impact."
+                            },
+                            {
+                                "q": "Choose the correct synonym for 'Lucid'.",
+                                "options": [
+                                    "Confusing",
+                                    "Clear",
+                                    "Vague",
+                                    "Dark"
+                                ],
+                                "answer": 1,
+                                "explanation": "'Lucid' means expressed clearly; easy to understand."
+                            },
+                            {
+                                "q": "Which protocol or agreement is currently the main global treaty to combat climate change?",
+                                "options": [
+                                    "Kyoto Protocol",
+                                    "Montreal Protocol",
+                                    "Paris Agreement",
+                                    "Copenhagen Accord"
+                                ],
+                                "answer": 2,
+                                "explanation": "The Paris Agreement was adopted in 2015."
+                            },
+                            {
+                                "q": "Which country has the world's largest proven oil reserves?",
+                                "options": [
+                                    "Saudi Arabia",
+                                    "Venezuela",
+                                    "Canada",
+                                    "Iran"
+                                ],
+                                "answer": 1,
+                                "explanation": "Venezuela holds the largest proven reserves in the world."
+                            },
+                            {
+                                "q": "I am looking forward ___ seeing you.",
+                                "options": [
+                                    "to",
+                                    "for",
+                                    "in",
+                                    "about"
+                                ],
+                                "answer": 0,
+                                "explanation": "'Look forward to' is a phrasal verb meaning to await eagerly."
+                            },
+                            {
+                                "q": "Which alliance was formed in 2021 by Australia, the UK, and the US?",
+                                "options": [
+                                    "Quad",
+                                    "AUKUS",
+                                    "NATO",
+                                    "Five Eyes"
+                                ],
+                                "answer": 1,
+                                "explanation": "AUKUS focuses on defense and developing nuclear-powered submarines for Australia."
+                            },
+                            {
+                                "q": "Who is the current Director-General of the World Health Organization (WHO)?",
+                                "options": [
+                                    "Tedros Adhanom Ghebreyesus",
+                                    "Margaret Chan",
+                                    "Anders Tegnell",
+                                    "Anthony Fauci"
+                                ],
+                                "answer": 0,
+                                "explanation": "Dr. Tedros has served as DG since 2017."
+                            },
+                            {
+                                "q": "Which central bank sets the interest rates for the United States?",
+                                "options": [
+                                    "Bank of America",
+                                    "The Federal Reserve",
+                                    "US Treasury",
+                                    "World Bank"
+                                ],
+                                "answer": 1,
+                                "explanation": "The 'Fed' is the central banking system of the US."
+                            },
+                            {
+                                "q": "What is the antonym of 'Diligent'?",
+                                "options": [
+                                    "Hardworking",
+                                    "Lazy",
+                                    "Careful",
+                                    "Attentive"
+                                ],
+                                "answer": 1,
+                                "explanation": "'Diligent' means showing steady and earnest care and effort; the opposite is lazy."
+                            },
+                            {
+                                "q": "Who discovered the law of planetary motion?",
+                                "options": [
+                                    "Galileo",
+                                    "Newton",
+                                    "Kepler",
+                                    "Einstein"
+                                ],
+                                "answer": 2,
+                                "explanation": "Johannes Kepler published his three laws of planetary motion between 1609 and 1619."
+                            },
+                            {
+                                "q": "Which country is the largest exporter of goods globally?",
+                                "options": [
+                                    "USA",
+                                    "Germany",
+                                    "China",
+                                    "Japan"
+                                ],
+                                "answer": 2,
+                                "explanation": "China's massive manufacturing sector leads global exports."
+                            },
+                            {
+                                "q": "What does the 'O' in OPEC stand for?",
+                                "options": [
+                                    "Oil",
+                                    "Organization",
+                                    "Overseas",
+                                    "Output"
+                                ],
+                                "answer": 1,
+                                "explanation": "Organization of the Petroleum Exporting Countries."
+                            },
+                            {
+                                "q": "She has been living here ___ 2015.",
+                                "options": [
+                                    "from",
+                                    "for",
+                                    "since",
+                                    "until"
+                                ],
+                                "answer": 2,
+                                "explanation": "'Since' is used to refer to a specific point in time in the past when the action began."
+                            },
+                            {
+                                "q": "The energy possessed by a body due to its position is called?",
+                                "options": [
+                                    "Kinetic Energy",
+                                    "Potential Energy",
+                                    "Thermal Energy",
+                                    "Mechanical Energy"
+                                ],
+                                "answer": 1,
+                                "explanation": "Potential energy is the hidden energy in an object because of its position or state."
+                            },
+                            {
+                                "q": "Which international body sits in The Hague and prosecutes individuals for crimes against humanity?",
+                                "options": [
+                                    "ICJ",
+                                    "ICC",
+                                    "UNSC",
+                                    "ECHR"
+                                ],
+                                "answer": 1,
+                                "explanation": "The International Criminal Court tries individuals."
+                            },
+                            {
+                                "q": "What is the main currency used in Japan?",
+                                "options": [
+                                    "Yen",
+                                    "Yuan",
+                                    "Won",
+                                    "Ringgit"
+                                ],
+                                "answer": 0,
+                                "explanation": "The Yen is the official currency."
+                            },
+                            {
+                                "q": "What type of lens is used to correct myopia (short-sightedness)?",
+                                "options": [
+                                    "Convex lens",
+                                    "Concave lens",
+                                    "Cylindrical lens",
+                                    "Bifocal lens"
+                                ],
+                                "answer": 1,
+                                "explanation": "A concave (diverging) lens is used to correct short-sightedness."
+                            },
+                            {
+                                "q": "What is the main function of an operating system?",
+                                "options": [
+                                    "Create documents",
+                                    "Manage hardware and software resources",
+                                    "Edit photos",
+                                    "Browse the internet"
+                                ],
+                                "answer": 1,
+                                "explanation": "An OS manages computer hardware and provides common services for computer programs."
+                            },
+                            {
+                                "q": "What is the synonym for 'Eminent'?",
+                                "options": [
+                                    "Unknown",
+                                    "Famous",
+                                    "Hidden",
+                                    "Poor"
+                                ],
+                                "answer": 1,
+                                "explanation": "Eminent means famous and respected within a particular sphere or profession."
+                            },
+                            {
+                                "q": "The 'Durand Line' is the border between Pakistan and?",
+                                "options": [
+                                    "India",
+                                    "Iran",
+                                    "China",
+                                    "Afghanistan"
+                                ],
+                                "answer": 3,
+                                "explanation": "It constitutes the international land border between Afghanistan and Pakistan."
+                            },
+                            {
+                                "q": "Which unit is used to measure electric resistance?",
+                                "options": [
+                                    "Volts",
+                                    "Amperes",
+                                    "Ohms",
+                                    "Watts"
+                                ],
+                                "answer": 2,
+                                "explanation": "The ohm is the SI derived unit of electrical resistance."
+                            },
+                            {
+                                "q": "Who was the viceroy of India at the time of Partition in 1947?",
+                                "options": [
+                                    "Lord Curzon",
+                                    "Lord Mountbatten",
+                                    "Lord Wavell",
+                                    "Lord Minto"
+                                ],
+                                "answer": 1,
+                                "explanation": "Lord Mountbatten was the last Viceroy of India."
+                            },
+                            {
+                                "q": "What is the antonym of 'Abstain'?",
+                                "options": [
+                                    "Refrain",
+                                    "Indulge",
+                                    "Stop",
+                                    "Quit"
+                                ],
+                                "answer": 1,
+                                "explanation": "Abstain means restrain oneself from doing or enjoying something; indulge is the opposite."
+                            },
+                            {
+                                "q": "Which country is known as the 'Land of the Rising Sun'?",
+                                "options": [
+                                    "China",
+                                    "South Korea",
+                                    "Japan",
+                                    "Thailand"
+                                ],
+                                "answer": 2,
+                                "explanation": "Japan is often called the 'Land of the Rising Sun' due to its position east of the Asian continent."
+                            },
+                            {
+                                "q": "In Microsoft Excel, what does a formula always begin with?",
+                                "options": [
+                                    "+",
+                                    "-",
+                                    "=",
+                                    "*"
+                                ],
+                                "answer": 2,
+                                "explanation": "All formulas in Excel must begin with an equals sign (=)."
+                            },
+                            {
+                                "q": "What is the atomic number of Oxygen?",
+                                "options": [
+                                    "6",
+                                    "7",
+                                    "8",
+                                    "9"
+                                ],
+                                "answer": 2,
+                                "explanation": "The atomic number of oxygen is 8."
+                            },
+                            {
+                                "q": "The headquarter of the UN is located in?",
+                                "options": [
+                                    "Geneva",
+                                    "Paris",
+                                    "New York",
+                                    "London"
+                                ],
+                                "answer": 2,
+                                "explanation": "The headquarters of the United Nations is in New York City."
+                            },
+                            {
+                                "q": "Who was the first woman Prime Minister in the Muslim world?",
+                                "options": [
+                                    "Khaleda Zia",
+                                    "Sheikh Hasina",
+                                    "Benazir Bhutto",
+                                    "Megawati Sukarnoputri"
+                                ],
+                                "answer": 2,
+                                "explanation": "Benazir Bhutto served as the Prime Minister of Pakistan."
+                            },
+                            {
+                                "q": "What does URL stand for?",
+                                "options": [
+                                    "Uniform Resource Locator",
+                                    "Universal Resource Link",
+                                    "Uniform Registered Link",
+                                    "Universal Registry Locator"
+                                ],
+                                "answer": 0,
+                                "explanation": "A URL is colloquially termed a web address."
+                            },
+                            {
+                                "q": "Which is the longest river in the world?",
+                                "options": [
+                                    "Amazon River",
+                                    "Nile River",
+                                    "Yangtze River",
+                                    "Mississippi River"
+                                ],
+                                "answer": 1,
+                                "explanation": "The Nile is generally regarded as the longest river in the world."
+                            },
+                            {
+                                "q": "The process of a solid turning directly into a gas is called?",
+                                "options": [
+                                    "Melting",
+                                    "Evaporation",
+                                    "Sublimation",
+                                    "Condensation"
+                                ],
+                                "answer": 2,
+                                "explanation": "Sublimation is the transition of a substance directly from the solid to the gas state."
+                            },
+                            {
+                                "q": "What is the currency of the United Kingdom?",
+                                "options": [
+                                    "Euro",
+                                    "Dollar",
+                                    "Pound Sterling",
+                                    "Franc"
+                                ],
+                                "answer": 2,
+                                "explanation": "The Pound Sterling (آ£) is the official currency."
+                            },
+                            {
+                                "q": "Which component is considered the 'brain' of the computer?",
+                                "options": [
+                                    "RAM",
+                                    "Hard Drive",
+                                    "Motherboard",
+                                    "CPU"
+                                ],
+                                "answer": 3,
+                                "explanation": "The Central Processing Unit (CPU) performs most of the processing."
+                            },
+                            {
+                                "q": "Which planet has the most moons?",
+                                "options": [
+                                    "Saturn",
+                                    "Jupiter",
+                                    "Uranus",
+                                    "Neptune"
+                                ],
+                                "answer": 0,
+                                "explanation": "Saturn currently holds the record for the most known moons in the solar system."
+                            },
+                            {
+                                "q": "Who proposes the Theory of Relativity?",
+                                "options": [
+                                    "Isaac Newton",
+                                    "Niels Bohr",
+                                    "Albert Einstein",
+                                    "Galileo Galilei"
+                                ],
+                                "answer": 2,
+                                "explanation": "Albert Einstein developed the theory of relativity."
+                            },
+                            {
+                                "q": "What is the largest bone in the human body?",
+                                "options": [
+                                    "Femur",
+                                    "Tibia",
+                                    "Fibula",
+                                    "Humerus"
+                                ],
+                                "answer": 0,
+                                "explanation": "The femur, or thigh bone, is the largest and strongest bone."
+                            },
+                            {
+                                "q": "Which of the following is an input device?",
+                                "options": [
+                                    "Monitor",
+                                    "Printer",
+                                    "Keyboard",
+                                    "Speaker"
+                                ],
+                                "answer": 2,
+                                "explanation": "A keyboard is used to enter data into the computer."
+                            },
+                            {
+                                "q": "Solve: 3x - 7 = 14",
+                                "options": [
+                                    "5",
+                                    "6",
+                                    "7",
+                                    "8"
+                                ],
+                                "answer": 2,
+                                "explanation": "Add 7 to both sides: 3x = 21. Divide by 3: x = 7."
+                            },
+                            {
+                                "q": "What is the average of 10, 20, 30, 40, 50?",
+                                "options": [
+                                    "20",
+                                    "25",
+                                    "30",
+                                    "35"
+                                ],
+                                "answer": 2,
+                                "explanation": "Sum = 150. Count = 5. Average = 150 / 5 = 30."
+                            },
+                            {
+                                "q": "A car travels 120 miles in 2 hours. What is its speed?",
+                                "options": [
+                                    "50 mph",
+                                    "60 mph",
+                                    "70 mph",
+                                    "80 mph"
+                                ],
+                                "answer": 1,
+                                "explanation": "Speed = Distance / Time = 120 / 2 = 60 mph."
+                            },
+                            {
+                                "q": "Which number is a multiple of both 4 and 6?",
+                                "options": [
+                                    "14",
+                                    "18",
+                                    "24",
+                                    "30"
+                                ],
+                                "answer": 2,
+                                "explanation": "24 is divisible by both 4 and 6. LCM(4, 6) = 12, and 24 is a multiple of 12."
+                            },
+                            {
+                                "q": "If the area of a rectangle is 48 and the length is 8, what is the width?",
+                                "options": [
+                                    "4",
+                                    "5",
+                                    "6",
+                                    "8"
+                                ],
+                                "answer": 2,
+                                "explanation": "Area = Length * Width. 48 = 8 * W. W = 6."
+                            },
+                            {
+                                "q": "Complete the series: 1, 4, 9, 16, ___",
+                                "options": [
+                                    "20",
+                                    "24",
+                                    "25",
+                                    "30"
+                                ],
+                                "answer": 2,
+                                "explanation": "The series represents squares of integers: 1^2, 2^2, 3^2, 4^2, 5^2=25."
+                            },
+                            {
+                                "q": "What is the probability of rolling a 3 on a standard six-sided die?",
+                                "options": [
+                                    "1/2",
+                                    "1/3",
+                                    "1/6",
+                                    "1/4"
+                                ],
+                                "answer": 2,
+                                "explanation": "There is one '3' out of 6 possible outcomes."
+                            },
+                            {
+                                "q": "3/4 expressed as a percentage is?",
+                                "options": [
+                                    "50%",
+                                    "60%",
+                                    "75%",
+                                    "80%"
+                                ],
+                                "answer": 2,
+                                "explanation": "3 divided by 4 is 0.75, which is 75%."
+                            },
+                            {
+                                "q": "Choose the correct sentence.",
+                                "options": [
+                                    "He are going.",
+                                    "He is going.",
+                                    "He am going.",
+                                    "He go."
+                                ],
+                                "answer": 1,
+                                "explanation": "'Is' is the correct auxiliary verb for third-person singular present continuous."
+                            },
+                            {
+                                "q": "Choose the synonym for 'Abundant'.",
+                                "options": [
+                                    "Scarce",
+                                    "Plentiful",
+                                    "Rare",
+                                    "Thin"
+                                ],
+                                "answer": 1,
+                                "explanation": "'Plentiful' is the synonym for abundant."
+                            },
+                            {
+                                "q": "He jumped ___ the river.",
+                                "options": [
+                                    "in",
+                                    "into",
+                                    "on",
+                                    "at"
+                                ],
+                                "answer": 1,
+                                "explanation": "'Into' signifies movement toward the inside of something."
+                            },
+                            {
+                                "q": "The antonym of 'Expand' is?",
+                                "options": [
+                                    "Increase",
+                                    "Grow",
+                                    "Contract",
+                                    "Swaken"
+                                ],
+                                "answer": 2,
+                                "explanation": "'Contract' means to decrease in size, number, or range."
+                            },
+                            {
+                                "q": "What is the plural of 'Child'?",
+                                "options": [
+                                    "Childs",
+                                    "Children",
+                                    "Childrens",
+                                    "Childes"
+                                ],
+                                "answer": 1,
+                                "explanation": "The irregular plural of child is children."
+                            },
+                            {
+                                "q": "Which part of speech describes a noun?",
+                                "options": [
+                                    "Verb",
+                                    "Adverb",
+                                    "Adjective",
+                                    "Preposition"
+                                ],
+                                "answer": 2,
+                                "explanation": "An adjective modifies or describes a noun or pronoun."
+                            },
+                            {
+                                "q": "Identify the correct spelling.",
+                                "options": [
+                                    "Accomodate",
+                                    "Acommodate",
+                                    "Accommodate",
+                                    "Acomodate"
+                                ],
+                                "answer": 2,
+                                "explanation": "'Accommodate' has two c's and two m's."
+                            },
+                            {
+                                "q": "What is the capital of Japan?",
+                                "options": [
+                                    "Beijing",
+                                    "Seoul",
+                                    "Tokyo",
+                                    "Kyoto"
+                                ],
+                                "answer": 2,
+                                "explanation": "Tokyo is the capital of Japan."
+                            },
+                            {
+                                "q": "Which gas do plants absorb from the atmosphere?",
+                                "options": [
+                                    "Oxygen",
+                                    "Nitrogen",
+                                    "Carbon Dioxide",
+                                    "Hydrogen"
+                                ],
+                                "answer": 2,
+                                "explanation": "Plants absorb carbon dioxide for photosynthesis."
+                            },
+                            {
+                                "q": "What is the currency of France?",
+                                "options": [
+                                    "Franc",
+                                    "Pound",
+                                    "Euro",
+                                    "Dollar"
+                                ],
+                                "answer": 2,
+                                "explanation": "France uses the Euro as its currency."
+                            },
+                            {
+                                "q": "Who is the author of 'Romeo and Juliet'?",
+                                "options": [
+                                    "Charles Dickens",
+                                    "William Shakespeare",
+                                    "Jane Austen",
+                                    "Mark Twain"
+                                ],
+                                "answer": 1,
+                                "explanation": "William Shakespeare is the author."
+                            },
+                            {
+                                "q": "What is the boiling point of water in Celsius?",
+                                "options": [
+                                    "0",
+                                    "50",
+                                    "100",
+                                    "212"
+                                ],
+                                "answer": 2,
+                                "explanation": "Water boils at 100 degrees Celsius under standard atmospheric pressure."
+                            },
+                            {
+                                "q": "Which metal is liquid at room temperature?",
+                                "options": [
+                                    "Iron",
+                                    "Gold",
+                                    "Mercury",
+                                    "Silver"
+                                ],
+                                "answer": 2,
+                                "explanation": "Mercury is the only metal that is liquid at standard conditions for temperature and pressure."
+                            },
+                            {
+                                "q": "What is the largest desert in the world?",
+                                "options": [
+                                    "Sahara",
+                                    "Arabian",
+                                    "Gobi",
+                                    "Antarctic Desert"
+                                ],
+                                "answer": 3,
+                                "explanation": "The Antarctic Desert is the largest, though the Sahara is the largest hot desert."
+                            },
+                            {
+                                "q": "Who invented the telephone?",
+                                "options": [
+                                    "Thomas Edison",
+                                    "Nikola Tesla",
+                                    "Alexander Graham Bell",
+                                    "Guglielmo Marconi"
+                                ],
+                                "answer": 2,
+                                "explanation": "Alexander Graham Bell is credited with patenting the first practical telephone."
+                            },
+                            {
+                                "q": "Which continent is known as the 'Dark Continent'?",
+                                "options": [
+                                    "Asia",
+                                    "Africa",
+                                    "South America",
+                                    "Europe"
+                                ],
+                                "answer": 1,
+                                "explanation": "Africa was historically referred to as the Dark Continent."
+                            },
+                            {
+                                "q": "What is the chemical symbol for table salt?",
+                                "options": [
+                                    "H2O",
+                                    "CO2",
+                                    "NaCl",
+                                    "KCl"
+                                ],
+                                "answer": 2,
+                                "explanation": "NaCl stands for Sodium Chloride."
+                            },
+                            {
+                                "q": "Which of the following is not a primary color of light?",
+                                "options": [
+                                    "Red",
+                                    "Green",
+                                    "Blue",
+                                    "Yellow"
+                                ],
+                                "answer": 3,
+                                "explanation": "The primary colors of light are red, green, and blue (RGB)."
+                            },
+                            {
+                                "q": "Who is the 'Father of Modern Computer'?",
+                                "options": [
+                                    "Charles Babbage",
+                                    "Alan Turing",
+                                    "John von Neumann",
+                                    "Bill Gates"
+                                ],
+                                "answer": 1,
+                                "explanation": "Alan Turing is considered the father of theoretical computer science and artificial intelligence."
+                            },
+                            {
+                                "q": "What does GUI stand for?",
+                                "options": [
+                                    "Graphic Uniform Interface",
+                                    "Graphical User Interface",
+                                    "General Utility Interface",
+                                    "Global User Identifier"
+                                ],
+                                "answer": 1,
+                                "explanation": "A GUI allows users to interact with electronic devices through graphical icons."
+                            },
+                            {
+                                "q": "What is the main function of the kidneys?",
+                                "options": [
+                                    "To pump blood",
+                                    "To digest food",
+                                    "To filter waste from blood",
+                                    "To absorb oxygen"
+                                ],
+                                "answer": 2,
+                                "explanation": "Kidneys filter blood to produce urine, removing waste."
+                            },
+                            {
+                                "q": "What does the abbreviation 'WWW' stand for?",
+                                "options": [
+                                    "World Wide Web",
+                                    "World Web Wide",
+                                    "Wide World Web",
+                                    "Web World Wide"
+                                ],
+                                "answer": 0,
+                                "explanation": "WWW stands for World Wide Web."
+                            },
+                            {
+                                "q": "Choose the synonym for 'Obstinate'.",
+                                "options": [
+                                    "Flexible",
+                                    "Stubborn",
+                                    "Docile",
+                                    "Weak"
+                                ],
+                                "answer": 1,
+                                "explanation": "Obstinate means stubbornly refusing to change one's opinion."
+                            },
+                            {
+                                "q": "What is the unit of power?",
+                                "options": [
+                                    "Joule",
+                                    "Newton",
+                                    "Watt",
+                                    "Volt"
+                                ],
+                                "answer": 2,
+                                "explanation": "The watt (W) is a unit of power."
+                            },
+                            {
+                                "q": "Who was the founder of the Mughal Empire?",
+                                "options": [
+                                    "Akbar",
+                                    "Babar",
+                                    "Humayun",
+                                    "Aurangzeb"
+                                ],
+                                "answer": 1,
+                                "explanation": "Zahir-ud-din Muhammad Babur founded the Mughal Empire in 1526."
+                            },
+                            {
+                                "q": "She is good ___ playing the piano.",
+                                "options": [
+                                    "in",
+                                    "at",
+                                    "with",
+                                    "on"
+                                ],
+                                "answer": 1,
+                                "explanation": "The correct preposition is 'at' (good at something)."
+                            },
+                            {
+                                "q": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+                                "options": [
+                                    "Mars",
+                                    "Jupiter",
+                                    "Venus",
+                                    "Mercury"
+                                ],
+                                "answer": 2,
+                                "explanation": "Venus is often visible shortly before sunrise or after sunset."
+                            },
+                            {
+                                "q": "What is 25% of 80?",
+                                "options": [
+                                    "15",
+                                    "20",
+                                    "25",
+                                    "30"
+                                ],
+                                "answer": 1,
+                                "explanation": "0.25 * 80 = 20."
+                            },
+                            {
+                                "q": "In a computer, what is the function of the ALU?",
+                                "options": [
+                                    "Store data",
+                                    "Perform arithmetic and logical operations",
+                                    "Control input/output",
+                                    "Manage memory"
+                                ],
+                                "answer": 1,
+                                "explanation": "The Arithmetic Logic Unit performs all mathematical and logical tasks."
+                            },
+                            {
+                                "q": "Which country is the largest by land area?",
+                                "options": [
+                                    "Canada",
+                                    "China",
+                                    "United States",
+                                    "Russia"
+                                ],
+                                "answer": 3,
+                                "explanation": "Russia is the largest country in the world by surface area."
+                            },
+                            {
+                                "q": "What is the antonym of 'Barren'?",
+                                "options": [
+                                    "Empty",
+                                    "Fertile",
+                                    "Dry",
+                                    "Desolate"
+                                ],
+                                "answer": 1,
+                                "explanation": "'Barren' means too poor to produce much vegetation; 'fertile' is the opposite."
+                            },
+                            {
+                                "q": "What is the powerhouse of the cell?",
+                                "options": [
+                                    "Nucleus",
+                                    "Ribosome",
+                                    "Mitochondria",
+                                    "Golgi Body"
+                                ],
+                                "answer": 2,
+                                "explanation": "Mitochondria generate most of the chemical energy needed to power the cell's biochemical reactions."
+                            },
+                            {
+                                "q": "Who is the author of 'War and Peace'?",
+                                "options": [
+                                    "Charles Dickens",
+                                    "Leo Tolstoy",
+                                    "Mark Twain",
+                                    "Homer"
+                                ],
+                                "answer": 1,
+                                "explanation": "Leo Tolstoy, a Russian author, is considered one of the greatest authors of all time."
+                            },
+                            {
+                                "q": "Which gas is responsible for global warming?",
+                                "options": [
+                                    "Oxygen",
+                                    "Carbon Dioxide",
+                                    "Nitrogen",
+                                    "Argon"
+                                ],
+                                "answer": 1,
+                                "explanation": "Carbon dioxide acts as a greenhouse gas, trapping heat in the Earth's atmosphere."
+                            },
+                            {
+                                "q": "What is the capital of Egypt?",
+                                "options": [
+                                    "Cairo",
+                                    "Alexandria",
+                                    "Giza",
+                                    "Luxor"
+                                ],
+                                "answer": 0,
+                                "explanation": "Cairo is the capital and largest city of Egypt."
+                            },
+                            {
+                                "q": "What is the chemical symbol for Silver?",
+                                "options": [
+                                    "Au",
+                                    "Ag",
+                                    "Si",
+                                    "S"
+                                ],
+                                "answer": 1,
+                                "explanation": "Ag comes from the Latin word for silver, argentum."
+                            },
+                            {
+                                "q": "Who painted the Sistine Chapel ceiling?",
+                                "options": [
+                                    "Leonardo da Vinci",
+                                    "Michelangelo",
+                                    "Raphael",
+                                    "Donatello"
+                                ],
+                                "answer": 1,
+                                "explanation": "Michelangelo painted the ceiling between 1508 and 1512."
+                            },
+                            {
+                                "q": "What is the longest river in Asia?",
+                                "options": [
+                                    "Ganges",
+                                    "Indus",
+                                    "Yellow River",
+                                    "Yangtze"
+                                ],
+                                "answer": 3,
+                                "explanation": "The Yangtze is the longest river in Asia and the third longest in the world."
+                            },
+                            {
+                                "q": "Which element is a liquid at room temperature?",
+                                "options": [
+                                    "Bromine",
+                                    "Iodine",
+                                    "Chlorine",
+                                    "Fluorine"
+                                ],
+                                "answer": 0,
+                                "explanation": "Bromine is a nonmetal that is a reddish-brown liquid at room temperature."
+                            },
+                            {
+                                "q": "Who discovered America?",
+                                "options": [
+                                    "Vasco da Gama",
+                                    "Ferdinand Magellan",
+                                    "Christopher Columbus",
+                                    "James Cook"
+                                ],
+                                "answer": 2,
+                                "explanation": "Christopher Columbus is credited with discovering the Americas in 1492."
+                            },
+                            {
+                                "q": "What is the hardest known natural material?",
+                                "options": [
+                                    "Gold",
+                                    "Iron",
+                                    "Diamond",
+                                    "Platinum"
+                                ],
+                                "answer": 2,
+                                "explanation": "Diamonds are the hardest known natural material."
+                            },
+                            {
+                                "q": "What does HTML stand for?",
+                                "options": [
+                                    "Hyper Text Markup Language",
+                                    "High Text Markup Language",
+                                    "Hyper Tabular Markup Language",
+                                    "None of these"
+                                ],
+                                "answer": 0,
+                                "explanation": "HTML is the standard markup language for documents designed to be displayed in a web browser."
+                            },
+                            {
+                                "q": "Which planet is known as the Ringed Planet?",
+                                "options": [
+                                    "Jupiter",
+                                    "Saturn",
+                                    "Uranus",
+                                    "Neptune"
+                                ],
+                                "answer": 1,
+                                "explanation": "Saturn is widely known for its extensive and beautiful ring system."
+                            }
+                        ]
                     }
                 ]
             },
             {
-                "category": "FPSC Past Papers",
-                "icon": "fa-certificate",
-                "questions": [
-                    {
-                        "q": "What is the name of the AI chatbot developed by OpenAI that sparked the AI boom?",
-                        "options": [
-                            "Gemini",
-                            "Claude",
-                            "ChatGPT",
-                            "Copilot"
-                        ],
-                        "answer": 2,
-                        "explanation": "ChatGPT's release in late 2022 revolutionized public AI usage."
-                    },
-                    {
-                        "q": "Which ocean is the deepest in the world?",
-                        "options": [
-                            "Atlantic Ocean",
-                            "Indian Ocean",
-                            "Arctic Ocean",
-                            "Pacific Ocean"
-                        ],
-                        "answer": 3,
-                        "explanation": "The Pacific Ocean contains the Mariana Trench, the deepest point on Earth."
-                    },
-                    {
-                        "q": "Which blood group is known as the universal donor?",
-                        "options": [
-                            "A",
-                            "B",
-                            "AB",
-                            "O"
-                        ],
-                        "answer": 3,
-                        "explanation": "Type O negative blood is often called the universal donor type."
-                    },
-                    {
-                        "q": "Who won the TIME Person of the Year in 2023?",
-                        "options": [
-                            "Volodymyr Zelensky",
-                            "Taylor Swift",
-                            "Elon Musk",
-                            "Joe Biden"
-                        ],
-                        "answer": 1,
-                        "explanation": "The pop megastar was recognized for her massive cultural impact."
-                    },
-                    {
-                        "q": "Choose the correct synonym for 'Lucid'.",
-                        "options": [
-                            "Confusing",
-                            "Clear",
-                            "Vague",
-                            "Dark"
-                        ],
-                        "answer": 1,
-                        "explanation": "'Lucid' means expressed clearly; easy to understand."
-                    },
-                    {
-                        "q": "Which protocol or agreement is currently the main global treaty to combat climate change?",
-                        "options": [
-                            "Kyoto Protocol",
-                            "Montreal Protocol",
-                            "Paris Agreement",
-                            "Copenhagen Accord"
-                        ],
-                        "answer": 2,
-                        "explanation": "The Paris Agreement was adopted in 2015."
-                    },
-                    {
-                        "q": "Which country has the world's largest proven oil reserves?",
-                        "options": [
-                            "Saudi Arabia",
-                            "Venezuela",
-                            "Canada",
-                            "Iran"
-                        ],
-                        "answer": 1,
-                        "explanation": "Venezuela holds the largest proven reserves in the world."
-                    },
-                    {
-                        "q": "I am looking forward ___ seeing you.",
-                        "options": [
-                            "to",
-                            "for",
-                            "in",
-                            "about"
-                        ],
-                        "answer": 0,
-                        "explanation": "'Look forward to' is a phrasal verb meaning to await eagerly."
-                    },
-                    {
-                        "q": "Which alliance was formed in 2021 by Australia, the UK, and the US?",
-                        "options": [
-                            "Quad",
-                            "AUKUS",
-                            "NATO",
-                            "Five Eyes"
-                        ],
-                        "answer": 1,
-                        "explanation": "AUKUS focuses on defense and developing nuclear-powered submarines for Australia."
-                    },
-                    {
-                        "q": "Who is the current Director-General of the World Health Organization (WHO)?",
-                        "options": [
-                            "Tedros Adhanom Ghebreyesus",
-                            "Margaret Chan",
-                            "Anders Tegnell",
-                            "Anthony Fauci"
-                        ],
-                        "answer": 0,
-                        "explanation": "Dr. Tedros has served as DG since 2017."
-                    },
-                    {
-                        "q": "Which central bank sets the interest rates for the United States?",
-                        "options": [
-                            "Bank of America",
-                            "The Federal Reserve",
-                            "US Treasury",
-                            "World Bank"
-                        ],
-                        "answer": 1,
-                        "explanation": "The 'Fed' is the central banking system of the US."
-                    },
-                    {
-                        "q": "What is the antonym of 'Diligent'?",
-                        "options": [
-                            "Hardworking",
-                            "Lazy",
-                            "Careful",
-                            "Attentive"
-                        ],
-                        "answer": 1,
-                        "explanation": "'Diligent' means showing steady and earnest care and effort; the opposite is lazy."
-                    },
-                    {
-                        "q": "Who discovered the law of planetary motion?",
-                        "options": [
-                            "Galileo",
-                            "Newton",
-                            "Kepler",
-                            "Einstein"
-                        ],
-                        "answer": 2,
-                        "explanation": "Johannes Kepler published his three laws of planetary motion between 1609 and 1619."
-                    },
-                    {
-                        "q": "Which country is the largest exporter of goods globally?",
-                        "options": [
-                            "USA",
-                            "Germany",
-                            "China",
-                            "Japan"
-                        ],
-                        "answer": 2,
-                        "explanation": "China's massive manufacturing sector leads global exports."
-                    },
-                    {
-                        "q": "What does the 'O' in OPEC stand for?",
-                        "options": [
-                            "Oil",
-                            "Organization",
-                            "Overseas",
-                            "Output"
-                        ],
-                        "answer": 1,
-                        "explanation": "Organization of the Petroleum Exporting Countries."
-                    },
-                    {
-                        "q": "She has been living here ___ 2015.",
-                        "options": [
-                            "from",
-                            "for",
-                            "since",
-                            "until"
-                        ],
-                        "answer": 2,
-                        "explanation": "'Since' is used to refer to a specific point in time in the past when the action began."
-                    },
-                    {
-                        "q": "The energy possessed by a body due to its position is called?",
-                        "options": [
-                            "Kinetic Energy",
-                            "Potential Energy",
-                            "Thermal Energy",
-                            "Mechanical Energy"
-                        ],
-                        "answer": 1,
-                        "explanation": "Potential energy is the hidden energy in an object because of its position or state."
-                    },
-                    {
-                        "q": "Which international body sits in The Hague and prosecutes individuals for crimes against humanity?",
-                        "options": [
-                            "ICJ",
-                            "ICC",
-                            "UNSC",
-                            "ECHR"
-                        ],
-                        "answer": 1,
-                        "explanation": "The International Criminal Court tries individuals."
-                    },
-                    {
-                        "q": "What is the main currency used in Japan?",
-                        "options": [
-                            "Yen",
-                            "Yuan",
-                            "Won",
-                            "Ringgit"
-                        ],
-                        "answer": 0,
-                        "explanation": "The Yen is the official currency."
-                    },
-                    {
-                        "q": "What type of lens is used to correct myopia (short-sightedness)?",
-                        "options": [
-                            "Convex lens",
-                            "Concave lens",
-                            "Cylindrical lens",
-                            "Bifocal lens"
-                        ],
-                        "answer": 1,
-                        "explanation": "A concave (diverging) lens is used to correct short-sightedness."
-                    },
-                    {
-                        "q": "What is the main function of an operating system?",
-                        "options": [
-                            "Create documents",
-                            "Manage hardware and software resources",
-                            "Edit photos",
-                            "Browse the internet"
-                        ],
-                        "answer": 1,
-                        "explanation": "An OS manages computer hardware and provides common services for computer programs."
-                    },
-                    {
-                        "q": "What is the synonym for 'Eminent'?",
-                        "options": [
-                            "Unknown",
-                            "Famous",
-                            "Hidden",
-                            "Poor"
-                        ],
-                        "answer": 1,
-                        "explanation": "Eminent means famous and respected within a particular sphere or profession."
-                    },
-                    {
-                        "q": "The 'Durand Line' is the border between Pakistan and?",
-                        "options": [
-                            "India",
-                            "Iran",
-                            "China",
-                            "Afghanistan"
-                        ],
-                        "answer": 3,
-                        "explanation": "It constitutes the international land border between Afghanistan and Pakistan."
-                    },
-                    {
-                        "q": "Which unit is used to measure electric resistance?",
-                        "options": [
-                            "Volts",
-                            "Amperes",
-                            "Ohms",
-                            "Watts"
-                        ],
-                        "answer": 2,
-                        "explanation": "The ohm is the SI derived unit of electrical resistance."
-                    },
-                    {
-                        "q": "Who was the viceroy of India at the time of Partition in 1947?",
-                        "options": [
-                            "Lord Curzon",
-                            "Lord Mountbatten",
-                            "Lord Wavell",
-                            "Lord Minto"
-                        ],
-                        "answer": 1,
-                        "explanation": "Lord Mountbatten was the last Viceroy of India."
-                    },
-                    {
-                        "q": "What is the antonym of 'Abstain'?",
-                        "options": [
-                            "Refrain",
-                            "Indulge",
-                            "Stop",
-                            "Quit"
-                        ],
-                        "answer": 1,
-                        "explanation": "Abstain means restrain oneself from doing or enjoying something; indulge is the opposite."
-                    },
-                    {
-                        "q": "Which country is known as the 'Land of the Rising Sun'?",
-                        "options": [
-                            "China",
-                            "South Korea",
-                            "Japan",
-                            "Thailand"
-                        ],
-                        "answer": 2,
-                        "explanation": "Japan is often called the 'Land of the Rising Sun' due to its position east of the Asian continent."
-                    },
-                    {
-                        "q": "In Microsoft Excel, what does a formula always begin with?",
-                        "options": [
-                            "+",
-                            "-",
-                            "=",
-                            "*"
-                        ],
-                        "answer": 2,
-                        "explanation": "All formulas in Excel must begin with an equals sign (=)."
-                    },
-                    {
-                        "q": "What is the atomic number of Oxygen?",
-                        "options": [
-                            "6",
-                            "7",
-                            "8",
-                            "9"
-                        ],
-                        "answer": 2,
-                        "explanation": "The atomic number of oxygen is 8."
-                    },
-                    {
-                        "q": "The headquarter of the UN is located in?",
-                        "options": [
-                            "Geneva",
-                            "Paris",
-                            "New York",
-                            "London"
-                        ],
-                        "answer": 2,
-                        "explanation": "The headquarters of the United Nations is in New York City."
-                    },
-                    {
-                        "q": "Who was the first woman Prime Minister in the Muslim world?",
-                        "options": [
-                            "Khaleda Zia",
-                            "Sheikh Hasina",
-                            "Benazir Bhutto",
-                            "Megawati Sukarnoputri"
-                        ],
-                        "answer": 2,
-                        "explanation": "Benazir Bhutto served as the Prime Minister of Pakistan."
-                    },
-                    {
-                        "q": "What does URL stand for?",
-                        "options": [
-                            "Uniform Resource Locator",
-                            "Universal Resource Link",
-                            "Uniform Registered Link",
-                            "Universal Registry Locator"
-                        ],
-                        "answer": 0,
-                        "explanation": "A URL is colloquially termed a web address."
-                    },
-                    {
-                        "q": "Which is the longest river in the world?",
-                        "options": [
-                            "Amazon River",
-                            "Nile River",
-                            "Yangtze River",
-                            "Mississippi River"
-                        ],
-                        "answer": 1,
-                        "explanation": "The Nile is generally regarded as the longest river in the world."
-                    },
-                    {
-                        "q": "The process of a solid turning directly into a gas is called?",
-                        "options": [
-                            "Melting",
-                            "Evaporation",
-                            "Sublimation",
-                            "Condensation"
-                        ],
-                        "answer": 2,
-                        "explanation": "Sublimation is the transition of a substance directly from the solid to the gas state."
-                    },
-                    {
-                        "q": "What is the currency of the United Kingdom?",
-                        "options": [
-                            "Euro",
-                            "Dollar",
-                            "Pound Sterling",
-                            "Franc"
-                        ],
-                        "answer": 2,
-                        "explanation": "The Pound Sterling (آ£) is the official currency."
-                    },
-                    {
-                        "q": "Which component is considered the 'brain' of the computer?",
-                        "options": [
-                            "RAM",
-                            "Hard Drive",
-                            "Motherboard",
-                            "CPU"
-                        ],
-                        "answer": 3,
-                        "explanation": "The Central Processing Unit (CPU) performs most of the processing."
-                    },
-                    {
-                        "q": "Which planet has the most moons?",
-                        "options": [
-                            "Saturn",
-                            "Jupiter",
-                            "Uranus",
-                            "Neptune"
-                        ],
-                        "answer": 0,
-                        "explanation": "Saturn currently holds the record for the most known moons in the solar system."
-                    },
-                    {
-                        "q": "Who proposes the Theory of Relativity?",
-                        "options": [
-                            "Isaac Newton",
-                            "Niels Bohr",
-                            "Albert Einstein",
-                            "Galileo Galilei"
-                        ],
-                        "answer": 2,
-                        "explanation": "Albert Einstein developed the theory of relativity."
-                    },
-                    {
-                        "q": "What is the largest bone in the human body?",
-                        "options": [
-                            "Femur",
-                            "Tibia",
-                            "Fibula",
-                            "Humerus"
-                        ],
-                        "answer": 0,
-                        "explanation": "The femur, or thigh bone, is the largest and strongest bone."
-                    },
-                    {
-                        "q": "Which of the following is an input device?",
-                        "options": [
-                            "Monitor",
-                            "Printer",
-                            "Keyboard",
-                            "Speaker"
-                        ],
-                        "answer": 2,
-                        "explanation": "A keyboard is used to enter data into the computer."
-                    },
-                    {
-                        "q": "Solve: 3x - 7 = 14",
-                        "options": [
-                            "5",
-                            "6",
-                            "7",
-                            "8"
-                        ],
-                        "answer": 2,
-                        "explanation": "Add 7 to both sides: 3x = 21. Divide by 3: x = 7."
-                    },
-                    {
-                        "q": "What is the average of 10, 20, 30, 40, 50?",
-                        "options": [
-                            "20",
-                            "25",
-                            "30",
-                            "35"
-                        ],
-                        "answer": 2,
-                        "explanation": "Sum = 150. Count = 5. Average = 150 / 5 = 30."
-                    },
-                    {
-                        "q": "A car travels 120 miles in 2 hours. What is its speed?",
-                        "options": [
-                            "50 mph",
-                            "60 mph",
-                            "70 mph",
-                            "80 mph"
-                        ],
-                        "answer": 1,
-                        "explanation": "Speed = Distance / Time = 120 / 2 = 60 mph."
-                    },
-                    {
-                        "q": "Which number is a multiple of both 4 and 6?",
-                        "options": [
-                            "14",
-                            "18",
-                            "24",
-                            "30"
-                        ],
-                        "answer": 2,
-                        "explanation": "24 is divisible by both 4 and 6. LCM(4, 6) = 12, and 24 is a multiple of 12."
-                    },
-                    {
-                        "q": "If the area of a rectangle is 48 and the length is 8, what is the width?",
-                        "options": [
-                            "4",
-                            "5",
-                            "6",
-                            "8"
-                        ],
-                        "answer": 2,
-                        "explanation": "Area = Length * Width. 48 = 8 * W. W = 6."
-                    },
-                    {
-                        "q": "Complete the series: 1, 4, 9, 16, ___",
-                        "options": [
-                            "20",
-                            "24",
-                            "25",
-                            "30"
-                        ],
-                        "answer": 2,
-                        "explanation": "The series represents squares of integers: 1^2, 2^2, 3^2, 4^2, 5^2=25."
-                    },
-                    {
-                        "q": "What is the probability of rolling a 3 on a standard six-sided die?",
-                        "options": [
-                            "1/2",
-                            "1/3",
-                            "1/6",
-                            "1/4"
-                        ],
-                        "answer": 2,
-                        "explanation": "There is one '3' out of 6 possible outcomes."
-                    },
-                    {
-                        "q": "3/4 expressed as a percentage is?",
-                        "options": [
-                            "50%",
-                            "60%",
-                            "75%",
-                            "80%"
-                        ],
-                        "answer": 2,
-                        "explanation": "3 divided by 4 is 0.75, which is 75%."
-                    },
-                    {
-                        "q": "Choose the correct sentence.",
-                        "options": [
-                            "He are going.",
-                            "He is going.",
-                            "He am going.",
-                            "He go."
-                        ],
-                        "answer": 1,
-                        "explanation": "'Is' is the correct auxiliary verb for third-person singular present continuous."
-                    },
-                    {
-                        "q": "Choose the synonym for 'Abundant'.",
-                        "options": [
-                            "Scarce",
-                            "Plentiful",
-                            "Rare",
-                            "Thin"
-                        ],
-                        "answer": 1,
-                        "explanation": "'Plentiful' is the synonym for abundant."
-                    },
-                    {
-                        "q": "He jumped ___ the river.",
-                        "options": [
-                            "in",
-                            "into",
-                            "on",
-                            "at"
-                        ],
-                        "answer": 1,
-                        "explanation": "'Into' signifies movement toward the inside of something."
-                    },
-                    {
-                        "q": "The antonym of 'Expand' is?",
-                        "options": [
-                            "Increase",
-                            "Grow",
-                            "Contract",
-                            "Swaken"
-                        ],
-                        "answer": 2,
-                        "explanation": "'Contract' means to decrease in size, number, or range."
-                    },
-                    {
-                        "q": "What is the plural of 'Child'?",
-                        "options": [
-                            "Childs",
-                            "Children",
-                            "Childrens",
-                            "Childes"
-                        ],
-                        "answer": 1,
-                        "explanation": "The irregular plural of child is children."
-                    },
-                    {
-                        "q": "Which part of speech describes a noun?",
-                        "options": [
-                            "Verb",
-                            "Adverb",
-                            "Adjective",
-                            "Preposition"
-                        ],
-                        "answer": 2,
-                        "explanation": "An adjective modifies or describes a noun or pronoun."
-                    },
-                    {
-                        "q": "Identify the correct spelling.",
-                        "options": [
-                            "Accomodate",
-                            "Acommodate",
-                            "Accommodate",
-                            "Acomodate"
-                        ],
-                        "answer": 2,
-                        "explanation": "'Accommodate' has two c's and two m's."
-                    },
-                    {
-                        "q": "What is the capital of Japan?",
-                        "options": [
-                            "Beijing",
-                            "Seoul",
-                            "Tokyo",
-                            "Kyoto"
-                        ],
-                        "answer": 2,
-                        "explanation": "Tokyo is the capital of Japan."
-                    },
-                    {
-                        "q": "Which gas do plants absorb from the atmosphere?",
-                        "options": [
-                            "Oxygen",
-                            "Nitrogen",
-                            "Carbon Dioxide",
-                            "Hydrogen"
-                        ],
-                        "answer": 2,
-                        "explanation": "Plants absorb carbon dioxide for photosynthesis."
-                    },
-                    {
-                        "q": "What is the currency of France?",
-                        "options": [
-                            "Franc",
-                            "Pound",
-                            "Euro",
-                            "Dollar"
-                        ],
-                        "answer": 2,
-                        "explanation": "France uses the Euro as its currency."
-                    },
-                    {
-                        "q": "Who is the author of 'Romeo and Juliet'?",
-                        "options": [
-                            "Charles Dickens",
-                            "William Shakespeare",
-                            "Jane Austen",
-                            "Mark Twain"
-                        ],
-                        "answer": 1,
-                        "explanation": "William Shakespeare is the author."
-                    },
-                    {
-                        "q": "What is the boiling point of water in Celsius?",
-                        "options": [
-                            "0",
-                            "50",
-                            "100",
-                            "212"
-                        ],
-                        "answer": 2,
-                        "explanation": "Water boils at 100 degrees Celsius under standard atmospheric pressure."
-                    },
-                    {
-                        "q": "Which metal is liquid at room temperature?",
-                        "options": [
-                            "Iron",
-                            "Gold",
-                            "Mercury",
-                            "Silver"
-                        ],
-                        "answer": 2,
-                        "explanation": "Mercury is the only metal that is liquid at standard conditions for temperature and pressure."
-                    },
-                    {
-                        "q": "What is the largest desert in the world?",
-                        "options": [
-                            "Sahara",
-                            "Arabian",
-                            "Gobi",
-                            "Antarctic Desert"
-                        ],
-                        "answer": 3,
-                        "explanation": "The Antarctic Desert is the largest, though the Sahara is the largest hot desert."
-                    },
-                    {
-                        "q": "Who invented the telephone?",
-                        "options": [
-                            "Thomas Edison",
-                            "Nikola Tesla",
-                            "Alexander Graham Bell",
-                            "Guglielmo Marconi"
-                        ],
-                        "answer": 2,
-                        "explanation": "Alexander Graham Bell is credited with patenting the first practical telephone."
-                    },
-                    {
-                        "q": "Which continent is known as the 'Dark Continent'?",
-                        "options": [
-                            "Asia",
-                            "Africa",
-                            "South America",
-                            "Europe"
-                        ],
-                        "answer": 1,
-                        "explanation": "Africa was historically referred to as the Dark Continent."
-                    },
-                    {
-                        "q": "What is the chemical symbol for table salt?",
-                        "options": [
-                            "H2O",
-                            "CO2",
-                            "NaCl",
-                            "KCl"
-                        ],
-                        "answer": 2,
-                        "explanation": "NaCl stands for Sodium Chloride."
-                    },
-                    {
-                        "q": "Which of the following is not a primary color of light?",
-                        "options": [
-                            "Red",
-                            "Green",
-                            "Blue",
-                            "Yellow"
-                        ],
-                        "answer": 3,
-                        "explanation": "The primary colors of light are red, green, and blue (RGB)."
-                    },
-                    {
-                        "q": "Who is the 'Father of Modern Computer'?",
-                        "options": [
-                            "Charles Babbage",
-                            "Alan Turing",
-                            "John von Neumann",
-                            "Bill Gates"
-                        ],
-                        "answer": 1,
-                        "explanation": "Alan Turing is considered the father of theoretical computer science and artificial intelligence."
-                    },
-                    {
-                        "q": "What does GUI stand for?",
-                        "options": [
-                            "Graphic Uniform Interface",
-                            "Graphical User Interface",
-                            "General Utility Interface",
-                            "Global User Identifier"
-                        ],
-                        "answer": 1,
-                        "explanation": "A GUI allows users to interact with electronic devices through graphical icons."
-                    },
-                    {
-                        "q": "What is the main function of the kidneys?",
-                        "options": [
-                            "To pump blood",
-                            "To digest food",
-                            "To filter waste from blood",
-                            "To absorb oxygen"
-                        ],
-                        "answer": 2,
-                        "explanation": "Kidneys filter blood to produce urine, removing waste."
-                    },
-                    {
-                        "q": "What does the abbreviation 'WWW' stand for?",
-                        "options": [
-                            "World Wide Web",
-                            "World Web Wide",
-                            "Wide World Web",
-                            "Web World Wide"
-                        ],
-                        "answer": 0,
-                        "explanation": "WWW stands for World Wide Web."
-                    },
-                    {
-                        "q": "Choose the synonym for 'Obstinate'.",
-                        "options": [
-                            "Flexible",
-                            "Stubborn",
-                            "Docile",
-                            "Weak"
-                        ],
-                        "answer": 1,
-                        "explanation": "Obstinate means stubbornly refusing to change one's opinion."
-                    },
-                    {
-                        "q": "What is the unit of power?",
-                        "options": [
-                            "Joule",
-                            "Newton",
-                            "Watt",
-                            "Volt"
-                        ],
-                        "answer": 2,
-                        "explanation": "The watt (W) is a unit of power."
-                    },
-                    {
-                        "q": "Who was the founder of the Mughal Empire?",
-                        "options": [
-                            "Akbar",
-                            "Babar",
-                            "Humayun",
-                            "Aurangzeb"
-                        ],
-                        "answer": 1,
-                        "explanation": "Zahir-ud-din Muhammad Babur founded the Mughal Empire in 1526."
-                    },
-                    {
-                        "q": "She is good ___ playing the piano.",
-                        "options": [
-                            "in",
-                            "at",
-                            "with",
-                            "on"
-                        ],
-                        "answer": 1,
-                        "explanation": "The correct preposition is 'at' (good at something)."
-                    },
-                    {
-                        "q": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
-                        "options": [
-                            "Mars",
-                            "Jupiter",
-                            "Venus",
-                            "Mercury"
-                        ],
-                        "answer": 2,
-                        "explanation": "Venus is often visible shortly before sunrise or after sunset."
-                    },
-                    {
-                        "q": "What is 25% of 80?",
-                        "options": [
-                            "15",
-                            "20",
-                            "25",
-                            "30"
-                        ],
-                        "answer": 1,
-                        "explanation": "0.25 * 80 = 20."
-                    },
-                    {
-                        "q": "In a computer, what is the function of the ALU?",
-                        "options": [
-                            "Store data",
-                            "Perform arithmetic and logical operations",
-                            "Control input/output",
-                            "Manage memory"
-                        ],
-                        "answer": 1,
-                        "explanation": "The Arithmetic Logic Unit performs all mathematical and logical tasks."
-                    },
-                    {
-                        "q": "Which country is the largest by land area?",
-                        "options": [
-                            "Canada",
-                            "China",
-                            "United States",
-                            "Russia"
-                        ],
-                        "answer": 3,
-                        "explanation": "Russia is the largest country in the world by surface area."
-                    },
-                    {
-                        "q": "What is the antonym of 'Barren'?",
-                        "options": [
-                            "Empty",
-                            "Fertile",
-                            "Dry",
-                            "Desolate"
-                        ],
-                        "answer": 1,
-                        "explanation": "'Barren' means too poor to produce much vegetation; 'fertile' is the opposite."
-                    },
-                    {
-                        "q": "What is the powerhouse of the cell?",
-                        "options": [
-                            "Nucleus",
-                            "Ribosome",
-                            "Mitochondria",
-                            "Golgi Body"
-                        ],
-                        "answer": 2,
-                        "explanation": "Mitochondria generate most of the chemical energy needed to power the cell's biochemical reactions."
-                    },
-                    {
-                        "q": "Who is the author of 'War and Peace'?",
-                        "options": [
-                            "Charles Dickens",
-                            "Leo Tolstoy",
-                            "Mark Twain",
-                            "Homer"
-                        ],
-                        "answer": 1,
-                        "explanation": "Leo Tolstoy, a Russian author, is considered one of the greatest authors of all time."
-                    },
-                    {
-                        "q": "Which gas is responsible for global warming?",
-                        "options": [
-                            "Oxygen",
-                            "Carbon Dioxide",
-                            "Nitrogen",
-                            "Argon"
-                        ],
-                        "answer": 1,
-                        "explanation": "Carbon dioxide acts as a greenhouse gas, trapping heat in the Earth's atmosphere."
-                    },
-                    {
-                        "q": "What is the capital of Egypt?",
-                        "options": [
-                            "Cairo",
-                            "Alexandria",
-                            "Giza",
-                            "Luxor"
-                        ],
-                        "answer": 0,
-                        "explanation": "Cairo is the capital and largest city of Egypt."
-                    },
-                    {
-                        "q": "What is the chemical symbol for Silver?",
-                        "options": [
-                            "Au",
-                            "Ag",
-                            "Si",
-                            "S"
-                        ],
-                        "answer": 1,
-                        "explanation": "Ag comes from the Latin word for silver, argentum."
-                    },
-                    {
-                        "q": "Who painted the Sistine Chapel ceiling?",
-                        "options": [
-                            "Leonardo da Vinci",
-                            "Michelangelo",
-                            "Raphael",
-                            "Donatello"
-                        ],
-                        "answer": 1,
-                        "explanation": "Michelangelo painted the ceiling between 1508 and 1512."
-                    },
-                    {
-                        "q": "What is the longest river in Asia?",
-                        "options": [
-                            "Ganges",
-                            "Indus",
-                            "Yellow River",
-                            "Yangtze"
-                        ],
-                        "answer": 3,
-                        "explanation": "The Yangtze is the longest river in Asia and the third longest in the world."
-                    },
-                    {
-                        "q": "Which element is a liquid at room temperature?",
-                        "options": [
-                            "Bromine",
-                            "Iodine",
-                            "Chlorine",
-                            "Fluorine"
-                        ],
-                        "answer": 0,
-                        "explanation": "Bromine is a nonmetal that is a reddish-brown liquid at room temperature."
-                    },
-                    {
-                        "q": "Who discovered America?",
-                        "options": [
-                            "Vasco da Gama",
-                            "Ferdinand Magellan",
-                            "Christopher Columbus",
-                            "James Cook"
-                        ],
-                        "answer": 2,
-                        "explanation": "Christopher Columbus is credited with discovering the Americas in 1492."
-                    },
-                    {
-                        "q": "What is the hardest known natural material?",
-                        "options": [
-                            "Gold",
-                            "Iron",
-                            "Diamond",
-                            "Platinum"
-                        ],
-                        "answer": 2,
-                        "explanation": "Diamonds are the hardest known natural material."
-                    },
-                    {
-                        "q": "What does HTML stand for?",
-                        "options": [
-                            "Hyper Text Markup Language",
-                            "High Text Markup Language",
-                            "Hyper Tabular Markup Language",
-                            "None of these"
-                        ],
-                        "answer": 0,
-                        "explanation": "HTML is the standard markup language for documents designed to be displayed in a web browser."
-                    },
-                    {
-                        "q": "Which planet is known as the Ringed Planet?",
-                        "options": [
-                            "Jupiter",
-                            "Saturn",
-                            "Uranus",
-                            "Neptune"
-                        ],
-                        "answer": 1,
-                        "explanation": "Saturn is widely known for its extensive and beautiful ring system."
+                "category": "Islamic Studies",
+                "icon": "fa-mosque",
+                "isFolder": true,
+                "subcategories": [
+                    {
+                        "category": "FPSC Islamiat",
+                        "icon": "fa-file-signature",
+                        "questions": [
+                            {
+                                "q": "Who was the first Caliph of Islam?",
+                                "options": [
+                                    "Hazrat Ali (RA)",
+                                    "Hazrat Umar (RA)",
+                                    "Hazrat Abu Bakr (RA)",
+                                    "Hazrat Usman (RA)"
+                                ],
+                                "answer": 2,
+                                "explanation": "Hazrat Abu Bakr (RA) was the first Caliph after the Prophet's (PBUH) demise."
+                            },
+                            {
+                                "q": "The word 'Islam' literally means:",
+                                "options": [
+                                    "Peace",
+                                    "Submission to the will of Allah",
+                                    "Both A and B",
+                                    "None of these"
+                                ],
+                                "answer": 2,
+                                "explanation": "Islam originates from Arabic roots meaning submission and peace."
+                            },
+                            {
+                                "q": "In which year did the Battle of Badr take place?",
+                                "options": [
+                                    "2 AH",
+                                    "3 AH",
+                                    "4 AH",
+                                    "5 AH"
+                                ],
+                                "answer": 0,
+                                "explanation": "The Battle of Badr took place in 2 Hijri (624 CE)."
+                            },
+                            {
+                                "q": "How many stages (Manzils) are there in the Holy Quran?",
+                                "options": [
+                                    "5",
+                                    "7",
+                                    "9",
+                                    "11"
+                                ],
+                                "answer": 1,
+                                "explanation": "The Quran is divided into 7 Manzils for reading convenience over a week."
+                            },
+                            {
+                                "q": "Which angel is responsible for bringing revelations from Allah to Prophets?",
+                                "options": [
+                                    "Hazrat Jibraeel (AS)",
+                                    "Hazrat Mikaeel (AS)",
+                                    "Hazrat Israfeel (AS)",
+                                    "Hazrat Izraeel (AS)"
+                                ],
+                                "answer": 0,
+                                "explanation": "Hazrat Jibraeel (AS) was the angel of revelation."
+                            },
+                            {
+                                "q": "The first mosque built by Muslims was:",
+                                "options": [
+                                    "Masjid-e-Nabawi",
+                                    "Masjid Quba",
+                                    "Masjid-al-Haram",
+                                    "Masjid-e-Aqsa"
+                                ],
+                                "answer": 1,
+                                "explanation": "Masjid Quba was established by the Prophet (PBUH) during his migration."
+                            },
+                            {
+                                "q": "Which Surah is known as the 'Heart of the Quran'?",
+                                "options": [
+                                    "Surah Yaseen",
+                                    "Surah Rahman",
+                                    "Surah Fatiha",
+                                    "Surah Ikhlas"
+                                ],
+                                "answer": 0,
+                                "explanation": "Prophet Muhammad (PBUH) referred to Surah Yaseen as the heart of the Quran."
+                            },
+                            {
+                                "q": "Who collected the Quranic verses in one volume for the first time?",
+                                "options": [
+                                    "Hazrat Abu Bakr (RA)",
+                                    "Hazrat Umar (RA)",
+                                    "Hazrat Usman (RA)",
+                                    "Hazrat Zaid bin Thabit (RA)"
+                                ],
+                                "answer": 0,
+                                "explanation": "Upon Hazrat Umar's suggestion, Hazrat Abu Bakr ordered its compilation."
+                            },
+                            {
+                                "q": "What is the meaning of 'Zakat'?",
+                                "options": [
+                                    "To purify",
+                                    "To increase",
+                                    "Both A and B",
+                                    "To pay tax"
+                                ],
+                                "answer": 2,
+                                "explanation": "Zakat linguistically means to purify and to grow."
+                            },
+                            {
+                                "q": "Which companion is known as 'Saifullah' (Sword of Allah)?",
+                                "options": [
+                                    "Hazrat Hamza (RA)",
+                                    "Hazrat Ali (RA)",
+                                    "Hazrat Khalid bin Waleed (RA)",
+                                    "Hazrat Umar (RA)"
+                                ],
+                                "answer": 2,
+                                "explanation": "Hazrat Khalid bin Waleed was bestowed this title for his military genius."
+                            },
+                            {
+                                "q": "The treaty of Hudaibiya was signed in:",
+                                "options": [
+                                    "5 AH",
+                                    "6 AH",
+                                    "7 AH",
+                                    "8 AH"
+                                ],
+                                "answer": 1,
+                                "explanation": "It was a pivotal peace treaty signed in 6 AH."
+                            },
+                            {
+                                "q": "Which Prophet is known as 'Khalilullah' (Friend of Allah)?",
+                                "options": [
+                                    "Hazrat Musa (AS)",
+                                    "Hazrat Isa (AS)",
+                                    "Hazrat Ibrahim (AS)",
+                                    "Hazrat Nuh (AS)"
+                                ],
+                                "answer": 2,
+                                "explanation": "Hazrat Ibrahim (AS) is honored with the title Khalilullah."
+                            },
+                            {
+                                "q": "How many obligations (Faraiz) are there in Wudu (Ablution)?",
+                                "options": [
+                                    "3",
+                                    "4",
+                                    "5",
+                                    "6"
+                                ],
+                                "answer": 1,
+                                "explanation": "Washing face, arms to elbows, wiping head, washing feet to ankles."
+                            },
+                            {
+                                "q": "The Battle of Uhud was fought in the year:",
+                                "options": [
+                                    "2 AH",
+                                    "3 AH",
+                                    "4 AH",
+                                    "5 AH"
+                                ],
+                                "answer": 1,
+                                "explanation": "It took place in 3 Hijri, a year after Badr."
+                            },
+                            {
+                                "q": "Who is the author of 'Sahih Bukhari'?",
+                                "options": [
+                                    "Imam Muslim",
+                                    "Imam Bukhari",
+                                    "Imam Malik",
+                                    "Imam Abu Hanifa"
+                                ],
+                                "answer": 1,
+                                "explanation": "Written by Muhammad ibn Ismail al-Bukhari."
+                            },
+                            {
+                                "q": "Which Surah does not start with Bismillah?",
+                                "options": [
+                                    "Surah Fatiha",
+                                    "Surah Tauba",
+                                    "Surah Namal",
+                                    "Surah Yaseen"
+                                ],
+                                "answer": 1,
+                                "explanation": "Surah At-Tauba is the only Surah without Bismillah at its beginning."
+                            },
+                            {
+                                "q": "Hazrat Usman (RA) belonged to the tribe of:",
+                                "options": [
+                                    "Banu Hashim",
+                                    "Banu Umayya",
+                                    "Banu Makhzum",
+                                    "Banu Asad"
+                                ],
+                                "answer": 1,
+                                "explanation": "He was a wealthy merchant of the Umayyad clan."
+                            },
+                            {
+                                "q": "What is the third fundamental pillar of Islam?",
+                                "options": [
+                                    "Namaz",
+                                    "Roza (Fasting)",
+                                    "Zakat",
+                                    "Hajj"
+                                ],
+                                "answer": 2,
+                                "explanation": "The order is: Kalima, Namaz, Zakat, Roza, Hajj."
+                            },
+                            {
+                                "q": "Which wife of the Prophet (PBUH) was the daughter of Hazrat Umar (RA)?",
+                                "options": [
+                                    "Hazrat Ayesha (RA)",
+                                    "Hazrat Hafsa (RA)",
+                                    "Hazrat Zainab (RA)",
+                                    "Hazrat Khadija (RA)"
+                                ],
+                                "answer": 1,
+                                "explanation": "Hazrat Hafsa bint Umar (RA) married the Prophet (PBUH)."
+                            },
+                            {
+                                "q": "The first migration of the Companions was made to:",
+                                "options": [
+                                    "Madina",
+                                    "Taif",
+                                    "Abyssinia (Ethiopia)",
+                                    "Syria"
+                                ],
+                                "answer": 2,
+                                "explanation": "Due to persecution, early Muslims sought refuge in Abyssinia."
+                            },
+                            {
+                                "q": "Hazrat Hamza (RA) was martyred in the Battle of:",
+                                "options": [
+                                    "Badr",
+                                    "Uhud",
+                                    "Khandaq",
+                                    "Khyber"
+                                ],
+                                "answer": 1,
+                                "explanation": "He was martyred by Wahshi in the Battle of Uhud."
+                            },
+                            {
+                                "q": "The word 'Ushr' means:",
+                                "options": [
+                                    "1/5th",
+                                    "1/10th",
+                                    "1/20th",
+                                    "1/40th"
+                                ],
+                                "answer": 1,
+                                "explanation": "Ushr is a 10% tax on agricultural produce."
+                            },
+                            {
+                                "q": "Which Prophet's story is related to the splitting of the sea?",
+                                "options": [
+                                    "Hazrat Ibrahim (AS)",
+                                    "Hazrat Musa (AS)",
+                                    "Hazrat Isa (AS)",
+                                    "Hazrat Nuh (AS)"
+                                ],
+                                "answer": 1,
+                                "explanation": "Hazrat Musa (AS) led the Israelites across the parted Red Sea."
+                            },
+                            {
+                                "q": "How many times is the word 'Muhammad' mentioned in the Holy Quran?",
+                                "options": [
+                                    "3",
+                                    "4",
+                                    "5",
+                                    "6"
+                                ],
+                                "answer": 1,
+                                "explanation": "His name appears 4 times in the Quran."
+                            },
+                            {
+                                "q": "Namaze-e-Kasoof is offered during:",
+                                "options": [
+                                    "Lunar Eclipse",
+                                    "Solar Eclipse",
+                                    "Rain",
+                                    "Drought"
+                                ],
+                                "answer": 1,
+                                "explanation": "Namaz-e-Kasoof is performed during a solar eclipse."
+                            },
+                            {
+                                "q": "Fasting was made obligatory in:",
+                                "options": [
+                                    "1 AH",
+                                    "2 AH",
+                                    "3 AH",
+                                    "4 AH"
+                                ],
+                                "answer": 1,
+                                "explanation": "Fasting in Ramadan became Fard in 2 AH."
+                            },
+                            {
+                                "q": "The tragedy of Karbala took place in the year:",
+                                "options": [
+                                    "60 AH",
+                                    "61 AH",
+                                    "62 AH",
+                                    "63 AH"
+                                ],
+                                "answer": 1,
+                                "explanation": "It occurred on 10 Muharram 61 AH."
+                            },
+                            {
+                                "q": "Who was the first female martyr of Islam?",
+                                "options": [
+                                    "Hazrat Khadijah (RA)",
+                                    "Hazrat Sumayya (RA)",
+                                    "Hazrat Amina (RA)",
+                                    "Hazrat Fatima (RA)"
+                                ],
+                                "answer": 1,
+                                "explanation": "Hazrat Sumayya bint Khayyat was killed by Abu Jahl."
+                            },
+                            {
+                                "q": "Where is the cave of Hira located?",
+                                "options": [
+                                    "Jabal al-Nour",
+                                    "Jabal al-Thawr",
+                                    "Mount Uhud",
+                                    "Mount Arafat"
+                                ],
+                                "answer": 0,
+                                "explanation": "Jabal al-Nour (The Mountain of Light) near Makkah."
+                            },
+                            {
+                                "q": "The Holy Prophet (PBUH) belonged to which family of Quraish?",
+                                "options": [
+                                    "Umayyad",
+                                    "Hashimite (Banu Hashim)",
+                                    "Adi",
+                                    "Taym"
+                                ],
+                                "answer": 1,
+                                "explanation": "He was born into the Banu Hashim clan of the Quraish."
+                            },
+                            {
+                                "q": "How many Ruku are there in the Holy Quran?",
+                                "options": [
+                                    "540",
+                                    "558",
+                                    "600",
+                                    "500"
+                                ],
+                                "answer": 1,
+                                "explanation": "There are precisely 558 Rukus in the Quran."
+                            },
+                            {
+                                "q": "Hazrat Ali (RA) shifted the capital from Madina to:",
+                                "options": [
+                                    "Makkah",
+                                    "Kufa",
+                                    "Damascus",
+                                    "Baghdad"
+                                ],
+                                "answer": 1,
+                                "explanation": "He relocated the capital to Kufa in Iraq."
+                            },
+                            {
+                                "q": "What is the nisab of gold for Zakat?",
+                                "options": [
+                                    "5.5 Tolas",
+                                    "7.5 Tolas",
+                                    "9.5 Tolas",
+                                    "10 Tolas"
+                                ],
+                                "answer": 1,
+                                "explanation": "7.5 Tolas (approx 87.48 grams) of gold."
+                            },
+                            {
+                                "q": "Namaz-e-Istisqa is offered for:",
+                                "options": [
+                                    "Peace",
+                                    "Rain",
+                                    "Forgiveness",
+                                    "Eclipse"
+                                ],
+                                "answer": 1,
+                                "explanation": "It is a prayer requesting Allah for rain during drought."
+                            },
+                            {
+                                "q": "Who added the words 'As-salatu Khairum Minan Naum' in the Fajr Azan?",
+                                "options": [
+                                    "Hazrat Abu Bakr (RA)",
+                                    "Hazrat Umar (RA)",
+                                    "Hazrat Bilal (RA)",
+                                    "Prophet Muhammad (PBUH)"
+                                ],
+                                "answer": 1,
+                                "explanation": "Hazrat Umar (RA) initiated this addition."
+                            },
+                            {
+                                "q": "What was the real name of Imam Abu Hanifa?",
+                                "options": [
+                                    "Numan bin Thabit",
+                                    "Ahmad bin Hanbal",
+                                    "Muhammad bin Idris",
+                                    "Malik bin Anas"
+                                ],
+                                "answer": 0,
+                                "explanation": "His actual name was Numan bin Thabit."
+                            },
+                            {
+                                "q": "How many Surahs of the Holy Quran are Makki?",
+                                "options": [
+                                    "86",
+                                    "28",
+                                    "114",
+                                    "94"
+                                ],
+                                "answer": 0,
+                                "explanation": "86 Surahs were revealed in Makkah, while 28 were revealed in Madina."
+                            },
+                            {
+                                "q": "What was the name of the Prophet's (PBUH) camel during the migration?",
+                                "options": [
+                                    "Buraq",
+                                    "Qaswa",
+                                    "Zuljanah",
+                                    "Duldul"
+                                ],
+                                "answer": 1,
+                                "explanation": "Al-Qaswa was the favorite camel of the Prophet (PBUH)."
+                            },
+                            {
+                                "q": "Conquest of Makkah took place in the year:",
+                                "options": [
+                                    "6 AH",
+                                    "7 AH",
+                                    "8 AH",
+                                    "9 AH"
+                                ],
+                                "answer": 2,
+                                "explanation": "Makkah was liberated peacefully in 8 Hijri."
+                            },
+                            {
+                                "q": "Which angel blows the trumpet on the Day of Judgment?",
+                                "options": [
+                                    "Hazrat Jibraeel (AS)",
+                                    "Hazrat Mikaeel (AS)",
+                                    "Hazrat Israfeel (AS)",
+                                    "Hazrat Izraeel (AS)"
+                                ],
+                                "answer": 2,
+                                "explanation": "Hazrat Israfeel (AS) will blow the Soor (trumpet)."
+                            }
+                        ]
+                    },
+                    {
+                        "category": "PPSC Islamiat",
+                        "icon": "fa-file-contract",
+                        "questions": [
+                            {
+                                "q": "Who was the foster mother of Prophet Muhammad (PBUH)?",
+                                "options": [
+                                    "Hazrat Fatima",
+                                    "Hazrat Halima",
+                                    "Hazrat Khadija",
+                                    "Hazrat Ayesha"
+                                ],
+                                "answer": 1,
+                                "explanation": "Hazrat Halima Sadia (RA) was his foster mother."
+                            },
+                            {
+                                "q": "What is the literal meaning of 'Wahi'?",
+                                "options": [
+                                    "Message",
+                                    "Revelation/Inspiration",
+                                    "Voice",
+                                    "Dream"
+                                ],
+                                "answer": 1,
+                                "explanation": "Wahi refers to divine revelation."
+                            },
+                            {
+                                "q": "How many Idols were placed in the Holy Kaaba before its conquest?",
+                                "options": [
+                                    "300",
+                                    "360",
+                                    "400",
+                                    "100"
+                                ],
+                                "answer": 1,
+                                "explanation": "The Kaaba contained 360 idols representing various tribal deities."
+                            },
+                            {
+                                "q": "Who was the commander of the infidels in the Battle of Badr?",
+                                "options": [
+                                    "Abu Sufyan",
+                                    "Abu Jahl",
+                                    "Abu Lahab",
+                                    "Utbah"
+                                ],
+                                "answer": 1,
+                                "explanation": "Abu Jahl led the Quraysh army and was killed in this battle."
+                            },
+                            {
+                                "q": "Which Surah of the Quran contains two Bismillahs?",
+                                "options": [
+                                    "Surah Yaseen",
+                                    "Surah Namal",
+                                    "Surah Tauba",
+                                    "Surah Rahman"
+                                ],
+                                "answer": 1,
+                                "explanation": "Surah An-Namal contains two Bismillahs."
+                            },
+                            {
+                                "q": "Who proposed the digging of a trench in the Battle of Khandaq?",
+                                "options": [
+                                    "Hazrat Ali (RA)",
+                                    "Hazrat Salman Farsi (RA)",
+                                    "Hazrat Umar (RA)",
+                                    "Hazrat Khalid bin Waleed (RA)"
+                                ],
+                                "answer": 1,
+                                "explanation": "Hazrat Salman Farsi (RA) brought this Persian military tactic."
+                            },
+                            {
+                                "q": "What is the punishment for false accusation of Zina (Qazaf)?",
+                                "options": [
+                                    "40 lashes",
+                                    "80 lashes",
+                                    "100 lashes",
+                                    "Stoning"
+                                ],
+                                "answer": 1,
+                                "explanation": "The Quran prescribes 80 lashes for slanderers."
+                            },
+                            {
+                                "q": "Who is known as 'Sayyid-ush-Shuhada'?",
+                                "options": [
+                                    "Hazrat Ali (RA)",
+                                    "Hazrat Hasan (RA)",
+                                    "Hazrat Hussain (RA)",
+                                    "Hazrat Hamza (RA)"
+                                ],
+                                "answer": 3,
+                                "explanation": "Hazrat Hamza is often referred to as the master of martyrs of early Islam."
+                            },
+                            {
+                                "q": "The first Islamic institution of learning was at the house of:",
+                                "options": [
+                                    "Hazrat Arqam",
+                                    "Hazrat Abu Bakr",
+                                    "Hazrat Umar",
+                                    "Hazrat Uthman"
+                                ],
+                                "answer": 0,
+                                "explanation": "Dar-ul-Arqam served as the secret center for Islamic preaching."
+                            },
+                            {
+                                "q": "Which companion compiled the first complete Mus'haf?",
+                                "options": [
+                                    "Hazrat Usman (RA)",
+                                    "Hazrat Zaid bin Thabit (RA)",
+                                    "Hazrat Abu Bakr (RA)",
+                                    "Hazrat Ali (RA)"
+                                ],
+                                "answer": 1,
+                                "explanation": "Hazrat Zaid bin Thabit (RA) was the chief scribe."
+                            },
+                            {
+                                "q": "How many times did the Holy Prophet (PBUH) perform Hajj?",
+                                "options": [
+                                    "One",
+                                    "Two",
+                                    "Three",
+                                    "Four"
+                                ],
+                                "answer": 0,
+                                "explanation": "He performed one Hajj, known as Hujjat-ul-Wida, in 10 AH."
+                            },
+                            {
+                                "q": "The term 'Tawheed' refers to:",
+                                "options": [
+                                    "Oneness of Prophets",
+                                    "Oneness of Allah",
+                                    "Oneness of Angels",
+                                    "Day of Judgment"
+                                ],
+                                "answer": 1,
+                                "explanation": "Tawheed is the indivisible oneness concept of monotheism in Islam."
+                            },
+                            {
+                                "q": "Which caliph established the Hijri calendar?",
+                                "options": [
+                                    "Hazrat Abu Bakr (RA)",
+                                    "Hazrat Umar (RA)",
+                                    "Hazrat Usman (RA)",
+                                    "Hazrat Ali (RA)"
+                                ],
+                                "answer": 1,
+                                "explanation": "Hazrat Umar (RA) instituted it, starting from the Prophet's migration."
+                            },
+                            {
+                                "q": "What is the meaning of 'Al-Quran'?",
+                                "options": [
+                                    "The Book",
+                                    "The Message",
+                                    "The Most Read/Recited",
+                                    "The Truth"
+                                ],
+                                "answer": 2,
+                                "explanation": "Al-Quran literally means 'The Recitation'."
+                            },
+                            {
+                                "q": "Who was the first person to verify the incident of Miraj?",
+                                "options": [
+                                    "Hazrat Ali (RA)",
+                                    "Hazrat Abu Bakr (RA)",
+                                    "Hazrat Umar (RA)",
+                                    "Hazrat Usman (RA)"
+                                ],
+                                "answer": 1,
+                                "explanation": "Hazrat Abu Bakr immediately believed it, earning him the title 'Siddiq'."
+                            },
+                            {
+                                "q": "Battle of Mutah was fought against:",
+                                "options": [
+                                    "Jews",
+                                    "Romans",
+                                    "Persians",
+                                    "Egyptians"
+                                ],
+                                "answer": 1,
+                                "explanation": "Fought in 8 AH against the Byzantine (Roman) Empire."
+                            },
+                            {
+                                "q": "Who was the second female to embrace Islam?",
+                                "options": [
+                                    "Hazrat Fatima",
+                                    "Hazrat Lubaba",
+                                    "Hazrat Asma",
+                                    "Hazrat Zainab"
+                                ],
+                                "answer": 1,
+                                "explanation": "Hazrat Lubaba bint al-Harith (Umm Fadl) was the second woman after Khadijah."
+                            },
+                            {
+                                "q": "Hazrat Ali (RA) was martyred by:",
+                                "options": [
+                                    "Abd-al-Rahman ibn Muljam",
+                                    "Abu Lu'lu'a",
+                                    "Wahshi",
+                                    "Hajaj bin Yousuf"
+                                ],
+                                "answer": 0,
+                                "explanation": "He was assassinated by Ibn Muljam, a Kharijite."
+                            },
+                            {
+                                "q": "Qurbani (sacrificing an animal) is performed during which Islamic month?",
+                                "options": [
+                                    "Ramadan",
+                                    "Shawwal",
+                                    "Zil-Qad",
+                                    "Zil-Hajj"
+                                ],
+                                "answer": 3,
+                                "explanation": "It is performed from the 10th to 12th of Dhu al-Hijjah."
+                            },
+                            {
+                                "q": "Hazrat Umar (RA) conquered Jerusalem in which year?",
+                                "options": [
+                                    "636 AD",
+                                    "638 AD",
+                                    "642 AD",
+                                    "644 AD"
+                                ],
+                                "answer": 1,
+                                "explanation": "Jerusalem fell to the Muslims in 638 CE during Umar's caliphate."
+                            },
+                            {
+                                "q": "Which Surah was recited by Prophet (PBUH) at the time of migration?",
+                                "options": [
+                                    "Surah Yaseen",
+                                    "Surah Fatiha",
+                                    "Surah Tauba",
+                                    "Surah Ikhlas"
+                                ],
+                                "answer": 0,
+                                "explanation": "He recited verses from Surah Yaseen while passing the assassins."
+                            },
+                            {
+                                "q": "Hazrat Musa's (AS) staff turned into a:",
+                                "options": [
+                                    "Bird",
+                                    "Serpent/Snake",
+                                    "Tree",
+                                    "Sword"
+                                ],
+                                "answer": 1,
+                                "explanation": "His staff miraculously transformed into a giant snake by Allah's command."
+                            },
+                            {
+                                "q": "Which relative of Prophet Muhammad (PBUH) died precisely in the 'Year of Sorrow' (Aam ul Huzn)?",
+                                "options": [
+                                    "His son Ibrahim",
+                                    "His uncle Abu Talib",
+                                    "His grandfather",
+                                    "His mother"
+                                ],
+                                "answer": 1,
+                                "explanation": "Abu Talib and Hazrat Khadija (RA) both died in the Year of Sorrow."
+                            },
+                            {
+                                "q": "Which companion is termed 'Zun-Noorain' (Possessor of two lights)?",
+                                "options": [
+                                    "Hazrat Ali (RA)",
+                                    "Hazrat Umar (RA)",
+                                    "Hazrat Usman (RA)",
+                                    "Hazrat Abu Bakr (RA)"
+                                ],
+                                "answer": 2,
+                                "explanation": "Hazrat Usman (RA) married two daughters of the Prophet (PBUH)."
+                            },
+                            {
+                                "q": "Who introduced the police system in Islam?",
+                                "options": [
+                                    "Hazrat Abu Bakr (RA)",
+                                    "Hazrat Umar (RA)",
+                                    "Hazrat Usman (RA)",
+                                    "Hazrat Ali (RA)"
+                                ],
+                                "answer": 1,
+                                "explanation": "Hazrat Umar (RA) modernized the administration and initiated night patrols."
+                            },
+                            {
+                                "q": "In the Battle of Khyber, the famous Jewish fort Qamus was conquered by:",
+                                "options": [
+                                    "Hazrat Umar (RA)",
+                                    "Hazrat Ali (RA)",
+                                    "Hazrat Hamza (RA)",
+                                    "Hazrat Khalid (RA)"
+                                ],
+                                "answer": 1,
+                                "explanation": "The Prophet (PBUH) handed the banner to Hazrat Ali, who breached the fort."
+                            },
+                            {
+                                "q": "Ghazwa Tabook was fought in:",
+                                "options": [
+                                    "7 AH",
+                                    "8 AH",
+                                    "9 AH",
+                                    "10 AH"
+                                ],
+                                "answer": 2,
+                                "explanation": "The Expedition of Tabuk occurred in 9 AH against the Byzantines."
+                            },
+                            {
+                                "q": "Who is the mother of Hazrat Ismail (AS)?",
+                                "options": [
+                                    "Hazrat Sara (AS)",
+                                    "Hazrat Hajra (AS)",
+                                    "Hazrat Maryam (AS)",
+                                    "Hazrat Aasiya (AS)"
+                                ],
+                                "answer": 1,
+                                "explanation": "Hazrat Hajra (Hagar) is the mother of Ismail (AS)."
+                            },
+                            {
+                                "q": "First revelation happened in the cave of Hira when the Prophet (PBUH) was of what age?",
+                                "options": [
+                                    "35 years",
+                                    "40 years",
+                                    "45 years",
+                                    "50 years"
+                                ],
+                                "answer": 1,
+                                "explanation": "He was 40 years old at the time of the first revelation."
+                            },
+                            {
+                                "q": "The incident of Mubahila took place with the Christians of:",
+                                "options": [
+                                    "Najran",
+                                    "Yemen",
+                                    "Syria",
+                                    "Egypt"
+                                ],
+                                "answer": 0,
+                                "explanation": "The event involved Christian envoys from Najran."
+                            },
+                            {
+                                "q": "What is 'Khatam-e-Nabuwat'?",
+                                "options": [
+                                    "Finality of Prophethood",
+                                    "Beginning of Prophethood",
+                                    "Miracles of Prophets",
+                                    "Seal of Angels"
+                                ],
+                                "answer": 0,
+                                "explanation": "It refers to the belief that Prophet Muhammad (PBUH) is the final prophet."
+                            },
+                            {
+                                "q": "The Prophet's grandfather Addul Muttalib belonged to which tribe?",
+                                "options": [
+                                    "Umayyad",
+                                    "Banu Hashim",
+                                    "Banu Zuhra",
+                                    "Banu Makhzum"
+                                ],
+                                "answer": 1,
+                                "explanation": "He was the chieftain of the Banu Hashim."
+                            },
+                            {
+                                "q": "Namaz-e-Khasoof is offered at the time of:",
+                                "options": [
+                                    "Solar Eclipse",
+                                    "Lunar Eclipse",
+                                    "Drought",
+                                    "Earthquake"
+                                ],
+                                "answer": 1,
+                                "explanation": "Khasoof corresponds to a lunar eclipse."
+                            },
+                            {
+                                "q": "Which angel is tasked with blowing the Trumpet?",
+                                "options": [
+                                    "Jibraeel (AS)",
+                                    "Israfeel (AS)",
+                                    "Mikaeel (AS)",
+                                    "Izraeel (AS)"
+                                ],
+                                "answer": 1,
+                                "explanation": "Israfeel will signal the Day of Judgment."
+                            },
+                            {
+                                "q": "Ghazwat are those battles in which:",
+                                "options": [
+                                    "Companions participated",
+                                    "Prophet (PBUH) participated",
+                                    "Fought only defensively",
+                                    "Fought against Persians"
+                                ],
+                                "answer": 1,
+                                "explanation": "Battles directly commanded by the Prophet (PBUH) are Ghazwat."
+                            },
+                            {
+                                "q": "How many Aayaat are in Surah Al-Fatiha?",
+                                "options": [
+                                    "5",
+                                    "6",
+                                    "7",
+                                    "8"
+                                ],
+                                "answer": 2,
+                                "explanation": "There are 7 verses in Surah Al-Fatiha."
+                            },
+                            {
+                                "q": "What is the pre-Islamic era in Arabia called?",
+                                "options": [
+                                    "Ayyam-e-Haq",
+                                    "Ayyam-e-Jahiliyyah",
+                                    "Golden Age",
+                                    "Dark Ages"
+                                ],
+                                "answer": 1,
+                                "explanation": "It means the 'Days of Ignorance'."
+                            },
+                            {
+                                "q": "Which mountain did the Prophet (PBUH) climb to deliver his last sermon?",
+                                "options": [
+                                    "Mount Uhud",
+                                    "Mount Arafat (Jabal al-Rahmah)",
+                                    "Mount Sinai",
+                                    "Mount Safa"
+                                ],
+                                "answer": 1,
+                                "explanation": "The farewell sermon was delivered at Mount Arafat."
+                            },
+                            {
+                                "q": "How many Muslims fought in the Battle of Badr?",
+                                "options": [
+                                    "313",
+                                    "1000",
+                                    "3000",
+                                    "5000"
+                                ],
+                                "answer": 0,
+                                "explanation": "An ill-equipped force of exactly 313 Muslims."
+                            },
+                            {
+                                "q": "Tayamum means performing ablution with:",
+                                "options": [
+                                    "Water",
+                                    "Leaves",
+                                    "Clean dust/sand",
+                                    "Stones"
+                                ],
+                                "answer": 2,
+                                "explanation": "Tayamum is dry ablution using clean earth when water is unavailable."
+                            }
+                        ]
+                    },
+                    {
+                        "category": "SPSC Islamiat",
+                        "icon": "fa-file-invoice",
+                        "questions": [
+                            {
+                                "q": "The institution of Khilafat was officially abolished in which year?",
+                                "options": [
+                                    "1920",
+                                    "1922",
+                                    "1924",
+                                    "1926"
+                                ],
+                                "answer": 2,
+                                "explanation": "The Ottoman Caliphate was abolished by Mustafa Kemal in 1924."
+                            },
+                            {
+                                "q": "Sufi saint Lal Shahbaz Qalandar's shrine is situated in:",
+                                "options": [
+                                    "Sehwan Sharif",
+                                    "Multan",
+                                    "Lahore",
+                                    "Pakpattan"
+                                ],
+                                "answer": 0,
+                                "explanation": "His shrine is famously located in Sehwan, Sindh."
+                            },
+                            {
+                                "q": "Which Umayyad Caliph is highly respected for his piety and likened to the Khulafa-e-Rashideen?",
+                                "options": [
+                                    "Yazid",
+                                    "Abdul Malik",
+                                    "Umar bin Abdul Aziz",
+                                    "Muawiyah II"
+                                ],
+                                "answer": 2,
+                                "explanation": "He is often dubbed the 5th righteous Caliph due to his just rule."
+                            },
+                            {
+                                "q": "According to Quran, there are how many recipient categories for Zakat?",
+                                "options": [
+                                    "6",
+                                    "7",
+                                    "8",
+                                    "9"
+                                ],
+                                "answer": 2,
+                                "explanation": "Surah At-Tauba (9:60) specifies 8 categories of people eligible to receive Zakat."
+                            },
+                            {
+                                "q": "The Prophet (PBUH) stayed at whose house in Madina immediately after migration?",
+                                "options": [
+                                    "Hazrat Abu Ayyub Ansari (RA)",
+                                    "Hazrat Usman (RA)",
+                                    "Hazrat Ali (RA)",
+                                    "Hazrat Saad (RA)"
+                                ],
+                                "answer": 0,
+                                "explanation": "His camel stopped at the house of Abu Ayyub al-Ansari."
+                            },
+                            {
+                                "q": "Where was the Prophet (PBUH) born?",
+                                "options": [
+                                    "Madina",
+                                    "Makkah",
+                                    "Taif",
+                                    "Jerusalem"
+                                ],
+                                "answer": 1,
+                                "explanation": "Born in the city of Makkah in 570 CE."
+                            },
+                            {
+                                "q": "The translation of the Holy Quran into Sindhi was first done by:",
+                                "options": [
+                                    "Shah Abdul Latif",
+                                    "Akhund Azizullah",
+                                    "Makhdoom Nuh",
+                                    "Sachal Sarmast"
+                                ],
+                                "answer": 1,
+                                "explanation": "Akhund Azizullah is credited with an early Sindhi translation."
+                            },
+                            {
+                                "q": "Zakat became obligatory in which Hijri year?",
+                                "options": [
+                                    "1 AH",
+                                    "2 AH",
+                                    "3 AH",
+                                    "4 AH"
+                                ],
+                                "answer": 1,
+                                "explanation": "Zakat, along with Roza, became mandatory in 2 AH."
+                            },
+                            {
+                                "q": "The period of the Pious Caliphate (Khulafa-e-Rashideen) lasted for how many years?",
+                                "options": [
+                                    "20 years",
+                                    "30 years",
+                                    "40 years",
+                                    "50 years"
+                                ],
+                                "answer": 1,
+                                "explanation": "It lasted from 632 CE to 661 CE (approx 30 years)."
+                            },
+                            {
+                                "q": "Ashra Mubashra are those companions who were guaranteed:",
+                                "options": [
+                                    "Wealth",
+                                    "Victory in war",
+                                    "Paradise (Jannah)",
+                                    "Caliphate"
+                                ],
+                                "answer": 2,
+                                "explanation": "The 10 prominent companions promised Jannah during their lifetime."
+                            },
+                            {
+                                "q": "The name of the Prophet's mother is:",
+                                "options": [
+                                    "Hazrat Khadija",
+                                    "Hazrat Halima",
+                                    "Hazrat Amina",
+                                    "Hazrat Asiya"
+                                ],
+                                "answer": 2,
+                                "explanation": "Amina bint Wahb was the mother of the Islamic prophet."
+                            },
+                            {
+                                "q": "The longest Surah in the Holy Quran is:",
+                                "options": [
+                                    "Surah Al-Imran",
+                                    "Surah Al-Baqarah",
+                                    "Surah An-Nisa",
+                                    "Surah Al-A'raf"
+                                ],
+                                "answer": 1,
+                                "explanation": "Surah Al-Baqarah consists of 286 verses."
+                            },
+                            {
+                                "q": "The shortest Surah in the Holy Quran is:",
+                                "options": [
+                                    "Surah Ikhlas",
+                                    "Surah Kausar",
+                                    "Surah Asr",
+                                    "Surah Falaq"
+                                ],
+                                "answer": 1,
+                                "explanation": "Surah Al-Kausar consists of only 3 verses."
+                            },
+                            {
+                                "q": "Surah Namal contains the story of which Prophet?",
+                                "options": [
+                                    "Hazrat Musa (AS)",
+                                    "Hazrat Dawood (AS)",
+                                    "Hazrat Sulaiman (AS)",
+                                    "Hazrat Isa (AS)"
+                                ],
+                                "answer": 2,
+                                "explanation": "It mentions Prophet Solomon's interaction with the Queen of Sheba and ants."
+                            },
+                            {
+                                "q": "Which angel is the custodian of Hell?",
+                                "options": [
+                                    "Malik",
+                                    "Rizwan",
+                                    "Mikail",
+                                    "Atid"
+                                ],
+                                "answer": 0,
+                                "explanation": "Maalik is an archangel in Islamic belief who guards Hell."
+                            },
+                            {
+                                "q": "Which angel is the custodian of Paradise (Jannah)?",
+                                "options": [
+                                    "Rizwan",
+                                    "Malik",
+                                    "Munkar",
+                                    "Nakir"
+                                ],
+                                "answer": 0,
+                                "explanation": "Ridwan is the angel maintaining Jannah."
+                            },
+                            {
+                                "q": "The word Quran literally means:",
+                                "options": [
+                                    "The Book",
+                                    "That which is read frequently",
+                                    "The Guidance",
+                                    "The Truth"
+                                ],
+                                "answer": 1,
+                                "explanation": "It stems from 'qara'a', meaning 'to read/recite'."
+                            },
+                            {
+                                "q": "Which month is known as the month of fasting?",
+                                "options": [
+                                    "Muharram",
+                                    "Rajab",
+                                    "Ramadan",
+                                    "Shaban"
+                                ],
+                                "answer": 2,
+                                "explanation": "Ramadan is the 9th Islamic month of fasting."
+                            },
+                            {
+                                "q": "The battle in which the Prophet (PBUH) lost his teeth (Dandan-e-Mubarak) was:",
+                                "options": [
+                                    "Badr",
+                                    "Uhud",
+                                    "Khandaq",
+                                    "Hunain"
+                                ],
+                                "answer": 1,
+                                "explanation": "He was struck in the face during the Battle of Uhud."
+                            },
+                            {
+                                "q": "Umm-ul-Momineen Hazrat Khadija (RA) passed away in:",
+                                "options": [
+                                    "8th Nabvi",
+                                    "10th Nabvi",
+                                    "12th Nabvi",
+                                    "1 AH"
+                                ],
+                                "answer": 1,
+                                "explanation": "She died in the 10th year of Prophethood ('Year of Sorrow')."
+                            },
+                            {
+                                "q": "Which Sahabi was known as the 'Translater of the Quran' (Tarjuman-ul-Quran)?",
+                                "options": [
+                                    "Hazrat Ali (RA)",
+                                    "Hazrat Abdullah bin Abbas (RA)",
+                                    "Hazrat Abdullah bin Masud (RA)",
+                                    "Hazrat Zaid (RA)"
+                                ],
+                                "answer": 1,
+                                "explanation": "He was highly reputed for his deep knowledge of Quranic tafseer."
+                            },
+                            {
+                                "q": "Salat-ul-Khasoof is associated with:",
+                                "options": [
+                                    "Solar Eclipse",
+                                    "Lunar Eclipse",
+                                    "Death",
+                                    "Rain"
+                                ],
+                                "answer": 1,
+                                "explanation": "It's the prayer offered during a lunar eclipse."
+                            },
+                            {
+                                "q": "Mazar of Shah Abdul Latif Bhittai is located in:",
+                                "options": [
+                                    "Hyderabad",
+                                    "Karachi",
+                                    "Bhit Shah",
+                                    "Jacobabad"
+                                ],
+                                "answer": 2,
+                                "explanation": "His shrine rests in the town of Bhit Shah, Sindh."
+                            },
+                            {
+                                "q": "What is the primary function of Angel Jibraeel (Gabriel)?",
+                                "options": [
+                                    "Blowing Trumpet",
+                                    "Taking out souls",
+                                    "Bringing rain",
+                                    "Bringing Wahi (Revelations)"
+                                ],
+                                "answer": 3,
+                                "explanation": "He served as the divine messenger to all prophets."
+                            },
+                            {
+                                "q": "In which Surah Bismillah is repeated twice?",
+                                "options": [
+                                    "Surah Tauba",
+                                    "Surah Namal",
+                                    "Surah Rahman",
+                                    "Surah Falaq"
+                                ],
+                                "answer": 1,
+                                "explanation": "Surah Namal has Bismillah at the beginning and in verse 30."
+                            },
+                            {
+                                "q": "Jihad became obligatory in which year?",
+                                "options": [
+                                    "1 AH",
+                                    "2 AH",
+                                    "3 AH",
+                                    "4 AH"
+                                ],
+                                "answer": 1,
+                                "explanation": "Permisison to fight was granted shortly after migration, culminating in 2 AH."
+                            },
+                            {
+                                "q": "First female Hafiz-e-Quran was:",
+                                "options": [
+                                    "Hazrat Ayesha",
+                                    "Hazrat Hafsa",
+                                    "Hazrat Zainab",
+                                    "Hazrat Khadija"
+                                ],
+                                "answer": 1,
+                                "explanation": "Hazrat Hafsa bint Umar (RA) memorized the Quran."
+                            },
+                            {
+                                "q": "Makki Surahs were generally revealed before:",
+                                "options": [
+                                    "Migration to Abyssinia",
+                                    "Migration to Madina",
+                                    "Conquest of Makkah",
+                                    "Battle of Badr"
+                                ],
+                                "answer": 1,
+                                "explanation": "Makki refers to revelations before the Hijrah to Madina."
+                            },
+                            {
+                                "q": "How many stages are there in Hajj?",
+                                "options": [
+                                    "1",
+                                    "3",
+                                    "5",
+                                    "7"
+                                ],
+                                "answer": 2,
+                                "explanation": "There are 5 core days/stages of Hajj."
+                            },
+                            {
+                                "q": "Which Caliph ordered the compilation of the Quran for the very first time?",
+                                "options": [
+                                    "Hazrat Abu Bakr",
+                                    "Hazrat Umar",
+                                    "Hazrat Usman",
+                                    "Hazrat Ali"
+                                ],
+                                "answer": 0,
+                                "explanation": "Initiated after the Battle of Yamama where many Huffaz were martyred."
+                            },
+                            {
+                                "q": "The term Hadith refers to:",
+                                "options": [
+                                    "Verses of Quran",
+                                    "Sayings and actions of the Prophet (PBUH)",
+                                    "Sayings of angels",
+                                    "Historical decrees"
+                                ],
+                                "answer": 1,
+                                "explanation": "Hadith are the recorded traditions of the Prophet."
+                            },
+                            {
+                                "q": "To what tribe did Abu Jahl belong?",
+                                "options": [
+                                    "Banu Hashim",
+                                    "Banu Makhzum",
+                                    "Banu Umayya",
+                                    "Banu Asad"
+                                ],
+                                "answer": 1,
+                                "explanation": "He was a leader of the Banu Makhzum clan."
+                            },
+                            {
+                                "q": "Hazrat Hamza (RA) was the _____ of Prophet Muhammad (PBUH).",
+                                "options": [
+                                    "Brother",
+                                    "Uncle",
+                                    "Cousin",
+                                    "Grandfather"
+                                ],
+                                "answer": 1,
+                                "explanation": "He was a paternal uncle of the Prophet."
+                            },
+                            {
+                                "q": "A Muslim male is allowed to wear clothes made of:",
+                                "options": [
+                                    "Pure Silk",
+                                    "Gold threads",
+                                    "Cotton/Wool",
+                                    "All of the above"
+                                ],
+                                "answer": 2,
+                                "explanation": "Silk and gold are prohibited for Muslim men."
+                            },
+                            {
+                                "q": "The Nisab for silver in Zakat is:",
+                                "options": [
+                                    "40.5 Tolas",
+                                    "52.5 Tolas",
+                                    "60 Tolas",
+                                    "100 Tolas"
+                                ],
+                                "answer": 1,
+                                "explanation": "52.5 Tolas of silver is the threshold for Zakat liability."
+                            },
+                            {
+                                "q": "Zabur (Psalms) was revealed to which Prophet?",
+                                "options": [
+                                    "Musa (AS)",
+                                    "Isa (AS)",
+                                    "Ibrahim (AS)",
+                                    "Dawood (AS)"
+                                ],
+                                "answer": 3,
+                                "explanation": "Prophet David (Dawood) was given the Zabur."
+                            },
+                            {
+                                "q": "Injeel (Gospel) was revealed to:",
+                                "options": [
+                                    "Musa (AS)",
+                                    "Isa (AS)",
+                                    "Dawood (AS)",
+                                    "Nuh (AS)"
+                                ],
+                                "answer": 1,
+                                "explanation": "Prophet Jesus (Isa) was given the Injeel."
+                            },
+                            {
+                                "q": "Torah was revealed to:",
+                                "options": [
+                                    "Musa (AS)",
+                                    "Isa (AS)",
+                                    "Ibrahim (AS)",
+                                    "Yaqoob (AS)"
+                                ],
+                                "answer": 0,
+                                "explanation": "Prophet Moses (Musa) was given the Torah."
+                            },
+                            {
+                                "q": "Tawaf of Kaaba involves making how many circuits?",
+                                "options": [
+                                    "3",
+                                    "5",
+                                    "7",
+                                    "9"
+                                ],
+                                "answer": 2,
+                                "explanation": "Pilgrims circumambulate the Kaaba 7 times."
+                            },
+                            {
+                                "q": "Which Islamic month follows Ramadan?",
+                                "options": [
+                                    "Shaban",
+                                    "Rajab",
+                                    "Shawwal",
+                                    "Zil-Qad"
+                                ],
+                                "answer": 2,
+                                "explanation": "Shawwal starts with the celebration of Eid-ul-Fitr."
+                            }
+                        ]
+                    },
+                    {
+                        "category": "BPSC Islamiat",
+                        "icon": "fa-copy",
+                        "questions": [
+                            {
+                                "q": "Who established the first Islamic state?",
+                                "options": [
+                                    "Hazrat Umar",
+                                    "Hazrat Abu Bakr",
+                                    "Prophet Muhammad (PBUH)",
+                                    "Hazrat Ali"
+                                ],
+                                "answer": 2,
+                                "explanation": "The Prophet (PBUH) founded the first Islamic state in Madina."
+                            },
+                            {
+                                "q": "The book 'Al-Muwatta' was compiled by:",
+                                "options": [
+                                    "Imam Abu Hanifa",
+                                    "Imam Malik",
+                                    "Imam Shafi'i",
+                                    "Imam Ahmad"
+                                ],
+                                "answer": 1,
+                                "explanation": "It is the earliest written collection of Hadith, by Imam Malik."
+                            },
+                            {
+                                "q": "Battle of Yarmouk was fought between Muslims and:",
+                                "options": [
+                                    "Persians",
+                                    "Romans (Byzantines)",
+                                    "Egyptians",
+                                    "Tartars"
+                                ],
+                                "answer": 1,
+                                "explanation": "A major battle where Khalid bin Waleed defeated the Byzantine forces."
+                            },
+                            {
+                                "q": "Who conquered Sindh in 712 AD?",
+                                "options": [
+                                    "Mahmud Ghaznavi",
+                                    "Muhammad bin Qasim",
+                                    "Qutb-ud-din Aibak",
+                                    "Babar"
+                                ],
+                                "answer": 1,
+                                "explanation": "Muhammad bin Qasim led the Umayyad conquest of Sindh."
+                            },
+                            {
+                                "q": "The term 'Ijma' refers to:",
+                                "options": [
+                                    "Analogy",
+                                    "Consensus among Islamic scholars",
+                                    "Personal decree",
+                                    "Fasting"
+                                ],
+                                "answer": 1,
+                                "explanation": "Ijma is the universal consensus of the ummah or scholars."
+                            },
+                            {
+                                "q": "The term 'Qiyas' means:",
+                                "options": [
+                                    "Analogical reasoning",
+                                    "Consensus",
+                                    "Tradition",
+                                    "Struggle"
+                                ],
+                                "answer": 0,
+                                "explanation": "Deducing rulings by drawing an analogy from Quran/Hadith."
+                            },
+                            {
+                                "q": "The incident of Karbala occurred during the reign of which Umayyad Caliph?",
+                                "options": [
+                                    "Muawiyah I",
+                                    "Yazid I",
+                                    "Marwan",
+                                    "Abdul Malik"
+                                ],
+                                "answer": 1,
+                                "explanation": "It occurred in 680 AD under Yazid's rule."
+                            },
+                            {
+                                "q": "Which Abbasid Caliph founded the city of Baghdad?",
+                                "options": [
+                                    "Harun al-Rashid",
+                                    "Al-Mansur",
+                                    "Al-Mamun",
+                                    "Al-Amin"
+                                ],
+                                "answer": 1,
+                                "explanation": "Al-Mansur built Baghdad as his capital in 762 AD."
+                            },
+                            {
+                                "q": "Which companion is known for interpreting dreams?",
+                                "options": [
+                                    "Hazrat Abu Bakr",
+                                    "Hazrat Umar",
+                                    "Hazrat Ali",
+                                    "Ibn Sirin (Tabi'in)"
+                                ],
+                                "answer": 3,
+                                "explanation": "Muhammad ibn Sirin was a famous Muslim interpreter of dreams."
+                            },
+                            {
+                                "q": "Ghazwa Badr occurred in the month of:",
+                                "options": [
+                                    "Muharram",
+                                    "Ramadan",
+                                    "Shawwal",
+                                    "Safar"
+                                ],
+                                "answer": 1,
+                                "explanation": "The Battle of Badr took place on 17 Ramadan."
+                            },
+                            {
+                                "q": "What was the age of Prophet (PBUH) when he married Hazrat Khadija (RA)?",
+                                "options": [
+                                    "20",
+                                    "25",
+                                    "30",
+                                    "35"
+                                ],
+                                "answer": 1,
+                                "explanation": "He was 25 and she was 40."
+                            },
+                            {
+                                "q": "Hazrat Khadija (RA) remained married to the Prophet for how many years?",
+                                "options": [
+                                    "15 years",
+                                    "20 years",
+                                    "25 years",
+                                    "30 years"
+                                ],
+                                "answer": 2,
+                                "explanation": "They were married for exactly 25 years until her death."
+                            },
+                            {
+                                "q": "Sajdah Tilawat is obligatory upon:",
+                                "options": [
+                                    "Reciter",
+                                    "Listener",
+                                    "Both A and B",
+                                    "None"
+                                ],
+                                "answer": 2,
+                                "explanation": "Both the reciter and the one listening must perform it."
+                            },
+                            {
+                                "q": "How many Sajdah Tilawat are in the Holy Quran?",
+                                "options": [
+                                    "12",
+                                    "14",
+                                    "15",
+                                    "16"
+                                ],
+                                "answer": 1,
+                                "explanation": "There are 14 distinct verses where bowing down is required."
+                            },
+                            {
+                                "q": "The first son of the Prophet (PBUH) was:",
+                                "options": [
+                                    "Hazrat Qasim",
+                                    "Hazrat Abdullah",
+                                    "Hazrat Ibrahim",
+                                    "Hazrat Tayyab"
+                                ],
+                                "answer": 0,
+                                "explanation": "He was named Abu'l-Qasim after his eldest son Qasim, who died young."
+                            },
+                            {
+                                "q": "Which Prophet is known as 'Ruhullah'?",
+                                "options": [
+                                    "Hazrat Musa",
+                                    "Hazrat Isa",
+                                    "Hazrat Nooh",
+                                    "Hazrat Yaqoob"
+                                ],
+                                "answer": 1,
+                                "explanation": "Isa (Jesus) is titled the 'Spirit of Allah' in the Quran."
+                            },
+                            {
+                                "q": "Which Prophet was swallowed by a large fish/whale?",
+                                "options": [
+                                    "Hazrat Yunus (AS)",
+                                    "Hazrat Yusuf (AS)",
+                                    "Hazrat Ayub (AS)",
+                                    "Hazrat Idrees (AS)"
+                                ],
+                                "answer": 0,
+                                "explanation": "Prophet Jonah (Yunus) was swallowed by a whale."
+                            },
+                            {
+                                "q": "Hazrat Ayub (AS) is famously known for his:",
+                                "options": [
+                                    "Wealth",
+                                    "Voice",
+                                    "Patience",
+                                    "Beauty"
+                                ],
+                                "answer": 2,
+                                "explanation": "He endured immense physical suffering with extraordinary patience."
+                            },
+                            {
+                                "q": "Al-Masjid an-Nabawi operates in which city?",
+                                "options": [
+                                    "Makkah",
+                                    "Jerusalem",
+                                    "Madina",
+                                    "Taif"
+                                ],
+                                "answer": 2,
+                                "explanation": "The Prophet's Mosque is situated in Madina."
+                            },
+                            {
+                                "q": "During Wudu, washing the elbows is:",
+                                "options": [
+                                    "Sunnah",
+                                    "Fard (Obligatory)",
+                                    "Mustahab",
+                                    "Nafl"
+                                ],
+                                "answer": 1,
+                                "explanation": "Washing the arms including the elbows is fundamentally obligatory."
+                            },
+                            {
+                                "q": "Which companion bought the well of Ruma for Muslims?",
+                                "options": [
+                                    "Hazrat Abu Bakr",
+                                    "Hazrat Umar",
+                                    "Hazrat Usman",
+                                    "Hazrat Ali"
+                                ],
+                                "answer": 2,
+                                "explanation": "Hazrat Usman (RA) purchased the well to provide free water."
+                            },
+                            {
+                                "q": "A Muslim woman is prohibited from marrying:",
+                                "options": [
+                                    "A non-Muslim man",
+                                    "A Muslim man of another sect",
+                                    "A convert",
+                                    "None of the above"
+                                ],
+                                "answer": 0,
+                                "explanation": "Islamic law restrict Muslim women to marrying only Muslim men."
+                            },
+                            {
+                                "q": "The number of daughters of the Prophet Muhammad (PBUH) was:",
+                                "options": [
+                                    "2",
+                                    "3",
+                                    "4",
+                                    "5"
+                                ],
+                                "answer": 2,
+                                "explanation": "They were Zainab, Ruqayyah, Umm Kulthum, and Fatima."
+                            },
+                            {
+                                "q": "Who was the first male to accept Islam?",
+                                "options": [
+                                    "Hazrat Ali",
+                                    "Hazrat Abu Bakr",
+                                    "Hazrat Zaid",
+                                    "Hazrat Bilal"
+                                ],
+                                "answer": 1,
+                                "explanation": "Hazrat Abu Bakr (RA) was the first adult free male to accept Islam."
+                            },
+                            {
+                                "q": "Which mountain in Makkah contains the Cave of Hira?",
+                                "options": [
+                                    "Jabal Thawr",
+                                    "Jabal al-Nour",
+                                    "Jabal Uhud",
+                                    "Jabal Abu Qubais"
+                                ],
+                                "answer": 1,
+                                "explanation": "Jabal al-Nour (The Mountain of Light) houses the cave of Hira."
+                            },
+                            {
+                                "q": "What is 'Istikhara'?",
+                                "options": [
+                                    "A prayer for rain",
+                                    "A prayer seeking guidance in making a decision",
+                                    "A prayer during eclipse",
+                                    "A funeral prayer"
+                                ],
+                                "answer": 1,
+                                "explanation": "Istikhara means asking Allah to guide one to the right choice."
+                            },
+                            {
+                                "q": "The largest Islamic country by population is:",
+                                "options": [
+                                    "Saudi Arabia",
+                                    "Pakistan",
+                                    "Indonesia",
+                                    "Egypt"
+                                ],
+                                "answer": 2,
+                                "explanation": "Indonesia hosts the world's largest Muslim population."
+                            },
+                            {
+                                "q": "The largest Islamic country by area is:",
+                                "options": [
+                                    "Algeria",
+                                    "Saudi Arabia",
+                                    "Sudan",
+                                    "Kazakhstan"
+                                ],
+                                "answer": 3,
+                                "explanation": "Kazakhstan is the largest Muslim country by land mass."
+                            },
+                            {
+                                "q": "First Kalima of Islam is known as:",
+                                "options": [
+                                    "Kalima Tayyab",
+                                    "Kalima Shahadat",
+                                    "Kalima Tamjeed",
+                                    "Kalima Tauheed"
+                                ],
+                                "answer": 0,
+                                "explanation": "Kalima Tayyab translates to 'The Word of Purity'."
+                            },
+                            {
+                                "q": "The term 'Shirk' means:",
+                                "options": [
+                                    "Atheism",
+                                    "Associating partners with Allah",
+                                    "Lying",
+                                    "Theft"
+                                ],
+                                "answer": 1,
+                                "explanation": "Shirk is the greatest unforgivable sin in Islam if unrepented."
+                            },
+                            {
+                                "q": "Prophet Muhammad (PBUH) belonged to which branch of Quraish?",
+                                "options": [
+                                    "Umayyad",
+                                    "Banu Hashim",
+                                    "Banu Makhzum",
+                                    "Banu Taym"
+                                ],
+                                "answer": 1,
+                                "explanation": "He belonged to the Banu Hashim."
+                            },
+                            {
+                                "q": "According to Islamic law, alcohol is:",
+                                "options": [
+                                    "Makruh",
+                                    "Haram",
+                                    "Mubah",
+                                    "Halal"
+                                ],
+                                "answer": 1,
+                                "explanation": "Intoxicants are strictly forbidden (Haram)."
+                            },
+                            {
+                                "q": "Eating pork is explicitly prohibited in which Surah?",
+                                "options": [
+                                    "Al-Baqarah",
+                                    "Yaseen",
+                                    "Al-Maidah",
+                                    "Both A and C"
+                                ],
+                                "answer": 3,
+                                "explanation": "Both Al-Baqarah and Al-Maidah mention the prohibition of swine."
+                            },
+                            {
+                                "q": "A Muslim cannot bequeath more than ____ of their property through a will.",
+                                "options": [
+                                    "1/2",
+                                    "1/3",
+                                    "1/4",
+                                    "1/8"
+                                ],
+                                "answer": 1,
+                                "explanation": "A will (Wasiyyat) is restricted to a maximum of one-third of the estate."
+                            },
+                            {
+                                "q": "Eid prayers consist of how many Rakats?",
+                                "options": [
+                                    "2",
+                                    "3",
+                                    "4",
+                                    "None"
+                                ],
+                                "answer": 0,
+                                "explanation": "Eid-ul-Fitr and Eid-ul-Adha prayers have 2 rakats."
+                            },
+                            {
+                                "q": "Who established the Umayyad Caliphate?",
+                                "options": [
+                                    "Yazid",
+                                    "Marwan",
+                                    "Ameer Muawiyah",
+                                    "Abdul Malik"
+                                ],
+                                "answer": 2,
+                                "explanation": "Muawiyah I founded the Umayyad dynasty in 661 CE."
+                            },
+                            {
+                                "q": "Ghazwa-e-Ahzab is another name for:",
+                                "options": [
+                                    "Ghazwa Badr",
+                                    "Ghazwa Uhud",
+                                    "Ghazwa Khandaq",
+                                    "Ghazwa Tabook"
+                                ],
+                                "answer": 2,
+                                "explanation": "Ahzab means 'Confederates', referencing the allied army that laid siege."
+                            },
+                            {
+                                "q": "Who defeated the Crusaders and recaptured Jerusalem in 1187?",
+                                "options": [
+                                    "Tariq bin Ziyad",
+                                    "Salahuddin Ayyubi",
+                                    "Nur ad-Din Zangi",
+                                    "Suleiman the Magnificent"
+                                ],
+                                "answer": 1,
+                                "explanation": "Saladin captured Jerusalem after the Battle of Hattin."
+                            },
+                            {
+                                "q": "Bait-ul-Hikmah (House of Wisdom) was established in:",
+                                "options": [
+                                    "Damascus",
+                                    "Cordoba",
+                                    "Baghdad",
+                                    "Cairo"
+                                ],
+                                "answer": 2,
+                                "explanation": "It was a major Abbasid intellectual center."
+                            },
+                            {
+                                "q": "The foundation stone of the Qubbat as-Sakhra (Dome of the Rock) was laid by:",
+                                "options": [
+                                    "Umar bin Khattab",
+                                    "Abdul Malik bin Marwan",
+                                    "Salahuddin",
+                                    "Al-Walid I"
+                                ],
+                                "answer": 1,
+                                "explanation": "The Umayyad Caliph Abdul Malik ordered its construction."
+                            }
+                        ]
+                    },
+                    {
+                        "category": "KPSC Islamiat",
+                        "icon": "fa-paste",
+                        "questions": [
+                            {
+                                "q": "Aitekaaf is observed during the:",
+                                "options": [
+                                    "First 10 days of Ramadan",
+                                    "Middle 10 days of Ramadan",
+                                    "Last 10 days of Ramadan",
+                                    "Entire month of Rajab"
+                                ],
+                                "answer": 2,
+                                "explanation": "Aitekaaf involves retreating to the mosque in the final 10 days of Ramadan."
+                            },
+                            {
+                                "q": "Fidya for a missed fast (if unable to fast) is equivalent to:",
+                                "options": [
+                                    "Feeding one poor person for a day",
+                                    "Feeding 60 poor people",
+                                    "Fasting for a month",
+                                    "Paying Zakat"
+                                ],
+                                "answer": 0,
+                                "explanation": "It equals providing two meals to a poor person per missed fast."
+                            },
+                            {
+                                "q": "Which angel is appointed to take out the souls?",
+                                "options": [
+                                    "Mikaeel",
+                                    "Jibraeel",
+                                    "Izraeel",
+                                    "Israfeel"
+                                ],
+                                "answer": 2,
+                                "explanation": "Azrael (Izraeel) is the Angel of Death."
+                            },
+                            {
+                                "q": "What is 'Wahi Ghair Matloo'?",
+                                "options": [
+                                    "The Quran",
+                                    "The Hadith",
+                                    "Dreams",
+                                    "Opinions"
+                                ],
+                                "answer": 1,
+                                "explanation": "It is the unrecited revelation, interpreted as the Prophet's traditions (Hadith)."
+                            },
+                            {
+                                "q": "How many stages (Manzils) of the Quran are there?",
+                                "options": [
+                                    "3",
+                                    "5",
+                                    "7",
+                                    "10"
+                                ],
+                                "answer": 2,
+                                "explanation": "There are 7 portions to facilitate recital in a week."
+                            },
+                            {
+                                "q": "Which Sahabi conquered Egypt?",
+                                "options": [
+                                    "Hazrat Khalid bin Walid",
+                                    "Hazrat Amr ibn al-Aas",
+                                    "Hazrat Saad bin Abi Waqqas",
+                                    "Hazrat Abu Ubaidah"
+                                ],
+                                "answer": 1,
+                                "explanation": "Amr ibn al-Aas (RA) led the Muslim conquest of Egypt in 640 AD."
+                            },
+                            {
+                                "q": "The incident of 'Ifk' (the Slander) involves which wife of the Prophet?",
+                                "options": [
+                                    "Hazrat Hafsa",
+                                    "Hazrat Khadija",
+                                    "Hazrat Ayesha",
+                                    "Hazrat Safiyya"
+                                ],
+                                "answer": 2,
+                                "explanation": "Surah Nur was revealed proving Hazrat Ayesha's innocence."
+                            },
+                            {
+                                "q": "Which Surah begins with the name of a fruit?",
+                                "options": [
+                                    "Surah Al-Baqarah",
+                                    "Surah At-Tin",
+                                    "Surah Al-Fil",
+                                    "Surah An-Nahl"
+                                ],
+                                "answer": 1,
+                                "explanation": "At-Tin means 'The Fig'."
+                            },
+                            {
+                                "q": "Hazrat Bilal (RA) was famously tortured by his master named:",
+                                "options": [
+                                    "Abu Jahl",
+                                    "Abu Lahab",
+                                    "Umayyah bin Khalaf",
+                                    "Utbah"
+                                ],
+                                "answer": 2,
+                                "explanation": "Umayyah bin Khalaf severely tortured him on the hot sand."
+                            },
+                            {
+                                "q": "Who freed Hazrat Bilal (RA) from slavery?",
+                                "options": [
+                                    "Hazrat Ali",
+                                    "Hazrat Umar",
+                                    "Hazrat Abu Bakr",
+                                    "Hazrat Usman"
+                                ],
+                                "answer": 2,
+                                "explanation": "Hazrat Abu Bakr (RA) purchased and emancipated him."
+                            },
+                            {
+                                "q": "How many times does the command to establish prayers (Salat) appear in the Quran?",
+                                "options": [
+                                    "500",
+                                    "700",
+                                    "900",
+                                    "1000"
+                                ],
+                                "answer": 1,
+                                "explanation": "It is directly mentioned roughly 700 times."
+                            },
+                            {
+                                "q": "What is the penalty for drinking alcohol in early Islamic caliphates?",
+                                "options": [
+                                    "40 lashes",
+                                    "80 lashes",
+                                    "Death",
+                                    "Exile"
+                                ],
+                                "answer": 1,
+                                "explanation": "Caliph Umar formalized the Hadd punishment to 80 lashes."
+                            },
+                            {
+                                "q": "When did the Battle of Hunain take place?",
+                                "options": [
+                                    "6 AH",
+                                    "7 AH",
+                                    "8 AH",
+                                    "9 AH"
+                                ],
+                                "answer": 2,
+                                "explanation": "It took place shortly after the Conquest of Makkah in 8 AH."
+                            },
+                            {
+                                "q": "What did the Prophet (PBUH) do immediately after entering Makkah victoriously?",
+                                "options": [
+                                    "Demolished the idols in the Kaaba",
+                                    "Ordered executions",
+                                    "Built a palace",
+                                    "Restored the market"
+                                ],
+                                "answer": 0,
+                                "explanation": "He cleansed the Kaaba of 360 idols, reciting 'Truth has come...'"
+                            },
+                            {
+                                "q": "Prophet Muhammad (PBUH) died on:",
+                                "options": [
+                                    "12 Rabi-ul-Awwal",
+                                    "10 Muharram",
+                                    "27 Rajab",
+                                    "1st Shawwal"
+                                ],
+                                "answer": 0,
+                                "explanation": "His death is widely recorded as 12 Rabi-ul-Awwal, 11 AH."
+                            },
+                            {
+                                "q": "Which Caliph fought against the false prophets?",
+                                "options": [
+                                    "Hazrat Umar",
+                                    "Hazrat Abu Bakr",
+                                    "Hazrat Usman",
+                                    "Hazrat Ali"
+                                ],
+                                "answer": 1,
+                                "explanation": "Hazrat Abu Bakr launched the Ridda (Apostasy) Wars."
+                            },
+                            {
+                                "q": "Musaylimah the Liar was killed by:",
+                                "options": [
+                                    "Hazrat Ali",
+                                    "Hazrat Khalid bin Waleed",
+                                    "Hazrat Wahshi",
+                                    "Hazrat Hamza"
+                                ],
+                                "answer": 2,
+                                "explanation": "Wahshi ibn Harb killed the false prophet at the Battle of Yamama."
+                            },
+                            {
+                                "q": "The term 'Ansar' refers to:",
+                                "options": [
+                                    "Emigrants from Makkah",
+                                    "Helpers of Madina",
+                                    "Jews of Madina",
+                                    "Christians of Najran"
+                                ],
+                                "answer": 1,
+                                "explanation": "The Ansar explicitly opened their homes to the Muhajireen."
+                            },
+                            {
+                                "q": "The term 'Muhajireen' implies:",
+                                "options": [
+                                    "Warriors",
+                                    "Scholars",
+                                    "Emigrants",
+                                    "Local inhabitants"
+                                ],
+                                "answer": 2,
+                                "explanation": "Those who migrated from Makkah to Madina."
+                            },
+                            {
+                                "q": "Which tribe did Hazrat Abu Bakr (RA) belong to?",
+                                "options": [
+                                    "Banu Hashim",
+                                    "Banu Taym",
+                                    "Banu Umayya",
+                                    "Banu Makhzum"
+                                ],
+                                "answer": 1,
+                                "explanation": "He was a noble of the Banu Taym clan."
+                            },
+                            {
+                                "q": "Which Surah is considered one-third of the Quran?",
+                                "options": [
+                                    "Surah Fatiha",
+                                    "Surah Ikhlas",
+                                    "Surah Kausar",
+                                    "Surah Yaseen"
+                                ],
+                                "answer": 1,
+                                "explanation": "Due to its pure message of Tawheed, the Prophet equated it to 1/3 of the Quran."
+                            },
+                            {
+                                "q": "How many months are considered sacred in Islam?",
+                                "options": [
+                                    "2",
+                                    "3",
+                                    "4",
+                                    "5"
+                                ],
+                                "answer": 2,
+                                "explanation": "Four months: Rajab, Dhu al-Qadah, Dhu al-Hijjah, Muharram."
+                            },
+                            {
+                                "q": "What is 'Wahi' given to bees referred to in the Quran?",
+                                "options": [
+                                    "Words",
+                                    "Instinct/Inspiration",
+                                    "Sound",
+                                    "Dreams"
+                                ],
+                                "answer": 1,
+                                "explanation": "Allah 'inspired' the bees to build hives (Surah Nahl)."
+                            },
+                            {
+                                "q": "What was the name of Prophet Yaqoob (AS)?",
+                                "options": [
+                                    "Ismail",
+                                    "Ishaq",
+                                    "Israel",
+                                    "Elias"
+                                ],
+                                "answer": 2,
+                                "explanation": "The term Bani Israel refers to the children of Yaqoob (Israel)."
+                            },
+                            {
+                                "q": "Who built the Kaaba first?",
+                                "options": [
+                                    "Hazrat Ibrahim",
+                                    "Hazrat Adam",
+                                    "Hazrat Nuh",
+                                    "Hazrat Musa"
+                                ],
+                                "answer": 1,
+                                "explanation": "Islamic tradition holds that Prophet Adam (AS) originally built it, later reconstructed by Ibrahim (AS)."
+                            },
+                            {
+                                "q": "Hazrat Ibrahim (AS) was born in which modern-day country?",
+                                "options": [
+                                    "Saudi Arabia",
+                                    "Egypt",
+                                    "Iraq",
+                                    "Palestine"
+                                ],
+                                "answer": 2,
+                                "explanation": "He was born in the ancient city of Ur in Mesopotamia (modern Iraq)."
+                            },
+                            {
+                                "q": "Hazrat Musa's (AS) brother, who was also a prophet, was:",
+                                "options": [
+                                    "Hazrat Haroon (AS)",
+                                    "Hazrat Isa (AS)",
+                                    "Hazrat Shuaib (AS)",
+                                    "Hazrat Yusuf (AS)"
+                                ],
+                                "answer": 0,
+                                "explanation": "Haroon (Aaron) aided Musa in his mission to Pharaoh."
+                            },
+                            {
+                                "q": "Who is known as the 'Father of Prophets' (Abu-al-Anbiya)?",
+                                "options": [
+                                    "Hazrat Adam (AS)",
+                                    "Hazrat Nuh (AS)",
+                                    "Hazrat Ibrahim (AS)",
+                                    "Hazrat Muhammad (PBUH)"
+                                ],
+                                "answer": 2,
+                                "explanation": "Many major prophets descended from Ibrahim's two sons."
+                            },
+                            {
+                                "q": "What is the name of the camel that the Prophet rode into Madina?",
+                                "options": [
+                                    "Buraq",
+                                    "Al-Qaswa",
+                                    "Zuljanah",
+                                    "Al-Adha"
+                                ],
+                                "answer": 1,
+                                "explanation": "Al-Qaswa was his famous camel."
+                            },
+                            {
+                                "q": "What is the key to Paradise according to Hadith?",
+                                "options": [
+                                    "Zakat",
+                                    "Hajj",
+                                    "Fasting",
+                                    "Salat (Prayer)"
+                                ],
+                                "answer": 3,
+                                "explanation": "The Prophet stated: 'The key to Paradise is prayer.'"
+                            },
+                            {
+                                "q": "Wajib prayers include:",
+                                "options": [
+                                    "Fajr",
+                                    "Witr",
+                                    "Tahajjud",
+                                    "Ishraq"
+                                ],
+                                "answer": 1,
+                                "explanation": "The Witr prayer after Isha is considered Wajib in the Hanafi fiqh."
+                            },
+                            {
+                                "q": "How many Takbeers are there in a funeral prayer (Janaza)?",
+                                "options": [
+                                    "2",
+                                    "3",
+                                    "4",
+                                    "5"
+                                ],
+                                "answer": 2,
+                                "explanation": "Salat al-Janaza requires 4 standing Takbeers without any Ruk'u or Sujood."
+                            },
+                            {
+                                "q": "What does the word 'Masjid' literally mean?",
+                                "options": [
+                                    "House of God",
+                                    "Place of Prostration",
+                                    "Place of Gathering",
+                                    "Holy Sanctuary"
+                                ],
+                                "answer": 1,
+                                "explanation": "Derivative of 'Sajdah', meaning a place where one prostrates."
+                            },
+                            {
+                                "q": "During Hajj, pilgrims stay in Arafat on which date?",
+                                "options": [
+                                    "8th Zil-Hajj",
+                                    "9th Zil-Hajj",
+                                    "10th Zil-Hajj",
+                                    "11th Zil-Hajj"
+                                ],
+                                "answer": 1,
+                                "explanation": "The standing at Arafat on the 9th is the essential pillar of Hajj."
+                            },
+                            {
+                                "q": "Which angel is the guardian of the mountains?",
+                                "options": [
+                                    "Angel of Mountains",
+                                    "Jibraeel",
+                                    "Mikaeel",
+                                    "Israfeel"
+                                ],
+                                "answer": 0,
+                                "explanation": "The Angel of Mountains appeared to the Prophet after the incident of Ta'if."
+                            },
+                            {
+                                "q": "Which country has the most mosques in the world?",
+                                "options": [
+                                    "Saudi Arabia",
+                                    "Pakistan",
+                                    "Indonesia",
+                                    "Egypt"
+                                ],
+                                "answer": 2,
+                                "explanation": "Indonesia, having the highest Muslim population, has over 800,000 mosques."
+                            },
+                            {
+                                "q": "Which companion was a scribe for the Prophet (PBUH)?",
+                                "options": [
+                                    "Hazrat Abu Huraira",
+                                    "Hazrat Zaid bin Thabit",
+                                    "Hazrat Khalid",
+                                    "Hazrat Bilal"
+                                ],
+                                "answer": 1,
+                                "explanation": "Zaid bin Thabit was a primary revelation scribe."
+                            },
+                            {
+                                "q": "The term 'Malaikah' means:",
+                                "options": [
+                                    "Jinns",
+                                    "Prophets",
+                                    "Angels",
+                                    "Books"
+                                ],
+                                "answer": 2,
+                                "explanation": "It is the plural form of Malak (Angel)."
+                            },
+                            {
+                                "q": "First female to be martyred in Islam:",
+                                "options": [
+                                    "Sumayyah",
+                                    "Asma",
+                                    "Khadija",
+                                    "Fatima"
+                                ],
+                                "answer": 0,
+                                "explanation": "Hazrat Sumayyah was killed for her faith by Abu Jahl."
+                            },
+                            {
+                                "q": "When did the event of Miraj (Night Journey) occur?",
+                                "options": [
+                                    "1st year of Prophethood",
+                                    "5th year of Prophethood",
+                                    "10th year of Prophethood",
+                                    "12th year of Prophethood"
+                                ],
+                                "answer": 2,
+                                "explanation": "It traditionally occurred around the 10th-12th year, shortly after the Year of Sorrow."
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "icon": "fa-earth-americas",
+                "isFolder": true,
+                "subcategories": [
+                    {
+                        "category": "FPSC General Knowledge",
+                        "icon": "fa-file-signature",
+                        "questions": []
+                    },
+                    {
+                        "category": "PPSC General Knowledge",
+                        "icon": "fa-file-contract",
+                        "questions": []
+                    },
+                    {
+                        "category": "SPSC General Knowledge",
+                        "icon": "fa-file-invoice",
+                        "questions": []
+                    },
+                    {
+                        "category": "BPSC General Knowledge",
+                        "icon": "fa-copy",
+                        "questions": []
+                    },
+                    {
+                        "category": "KPSC General Knowledge",
+                        "icon": "fa-paste",
+                        "questions": []
+                    }
+                ]
+            },
+            {
+                "category": "English",
+                "icon": "fa-language",
+                "isFolder": true,
+                "subcategories": [
+                    {
+                        "category": "FPSC English",
+                        "icon": "fa-file-signature",
+                        "questions": []
+                    },
+                    {
+                        "category": "PPSC English",
+                        "icon": "fa-file-contract",
+                        "questions": []
+                    },
+                    {
+                        "category": "SPSC English",
+                        "icon": "fa-file-invoice",
+                        "questions": []
+                    },
+                    {
+                        "category": "BPSC English",
+                        "icon": "fa-copy",
+                        "questions": []
+                    },
+                    {
+                        "category": "KPSC English",
+                        "icon": "fa-paste",
+                        "questions": []
+                    }
+                ]
+            },
+            {
+                "category": "Mathematics",
+                "icon": "fa-calculator",
+                "isFolder": true,
+                "subcategories": [
+                    {
+                        "category": "FPSC Mathematics",
+                        "icon": "fa-file-signature",
+                        "questions": []
+                    },
+                    {
+                        "category": "PPSC Mathematics",
+                        "icon": "fa-file-contract",
+                        "questions": []
+                    },
+                    {
+                        "category": "SPSC Mathematics",
+                        "icon": "fa-file-invoice",
+                        "questions": []
+                    },
+                    {
+                        "category": "BPSC Mathematics",
+                        "icon": "fa-copy",
+                        "questions": []
+                    },
+                    {
+                        "category": "KPSC Mathematics",
+                        "icon": "fa-paste",
+                        "questions": []
+                    }
+                ]
+            },
+            {
+                "category": "Pakistan Study",
+                "icon": "fa-star-and-crescent",
+                "isFolder": true,
+                "subcategories": [
+                    {
+                        "category": "FPSC Pakistan Study",
+                        "icon": "fa-file-signature",
+                        "questions": []
+                    },
+                    {
+                        "category": "PPSC Pakistan Study",
+                        "icon": "fa-file-contract",
+                        "questions": []
+                    },
+                    {
+                        "category": "SPSC Pakistan Study",
+                        "icon": "fa-file-invoice",
+                        "questions": []
+                    },
+                    {
+                        "category": "BPSC Pakistan Study",
+                        "icon": "fa-copy",
+                        "questions": []
+                    },
+                    {
+                        "category": "KPSC Pakistan Study",
+                        "icon": "fa-paste",
+                        "questions": []
+                    }
+                ]
+            },
+            {
+                "category": "Urdu",
+                "icon": "fa-pen-nib",
+                "isFolder": true,
+                "subcategories": [
+                    {
+                        "category": "FPSC Urdu",
+                        "icon": "fa-file-signature",
+                        "questions": []
+                    },
+                    {
+                        "category": "PPSC Urdu",
+                        "icon": "fa-file-contract",
+                        "questions": []
+                    },
+                    {
+                        "category": "SPSC Urdu",
+                        "icon": "fa-file-invoice",
+                        "questions": []
+                    },
+                    {
+                        "category": "BPSC Urdu",
+                        "icon": "fa-copy",
+                        "questions": []
+                    },
+                    {
+                        "category": "KPSC Urdu",
+                        "icon": "fa-paste",
+                        "questions": []
+                    }
+                ]
+            },
+            {
+                "category": "Computer",
+                "icon": "fa-laptop-code",
+                "isFolder": true,
+                "subcategories": [
+                    {
+                        "category": "FPSC Computer",
+                        "icon": "fa-file-signature",
+                        "questions": []
+                    },
+                    {
+                        "category": "PPSC Computer",
+                        "icon": "fa-file-contract",
+                        "questions": []
+                    },
+                    {
+                        "category": "SPSC Computer",
+                        "icon": "fa-file-invoice",
+                        "questions": []
+                    },
+                    {
+                        "category": "BPSC Computer",
+                        "icon": "fa-copy",
+                        "questions": []
+                    },
+                    {
+                        "category": "KPSC Computer",
+                        "icon": "fa-paste",
+                        "questions": []
+                    }
+                ]
+            },
+            {
+                "category": "Pakistan Affairs",
+                "icon": "fa-landmark",
+                "isFolder": true,
+                "subcategories": [
+                    {
+                        "category": "FPSC Pakistan Affairs",
+                        "icon": "fa-file-signature",
+                        "questions": []
+                    },
+                    {
+                        "category": "PPSC Pakistan Affairs",
+                        "icon": "fa-file-contract",
+                        "questions": []
+                    },
+                    {
+                        "category": "SPSC Pakistan Affairs",
+                        "icon": "fa-file-invoice",
+                        "questions": []
+                    },
+                    {
+                        "category": "BPSC Pakistan Affairs",
+                        "icon": "fa-copy",
+                        "questions": []
+                    },
+                    {
+                        "category": "KPSC Pakistan Affairs",
+                        "icon": "fa-paste",
+                        "questions": []
+                    }
+                ]
+            },
+            {
+                "category": "Current Affairs",
+                "icon": "fa-newspaper",
+                "isFolder": true,
+                "subcategories": [
+                    {
+                        "category": "FPSC Current Affairs",
+                        "icon": "fa-file-signature",
+                        "questions": []
+                    },
+                    {
+                        "category": "PPSC Current Affairs",
+                        "icon": "fa-file-contract",
+                        "questions": []
+                    },
+                    {
+                        "category": "SPSC Current Affairs",
+                        "icon": "fa-file-invoice",
+                        "questions": []
+                    },
+                    {
+                        "category": "BPSC Current Affairs",
+                        "icon": "fa-copy",
+                        "questions": []
+                    },
+                    {
+                        "category": "KPSC Current Affairs",
+                        "icon": "fa-paste",
+                        "questions": []
+                    }
+                ]
+            },
+            {
+                "category": "Everyday Science",
+                "icon": "fa-bolt",
+                "isFolder": true,
+                "subcategories": [
+                    {
+                        "category": "FPSC Everyday Science",
+                        "icon": "fa-file-signature",
+                        "questions": []
+                    },
+                    {
+                        "category": "PPSC Everyday Science",
+                        "icon": "fa-file-contract",
+                        "questions": []
+                    },
+                    {
+                        "category": "SPSC Everyday Science",
+                        "icon": "fa-file-invoice",
+                        "questions": []
+                    },
+                    {
+                        "category": "BPSC Everyday Science",
+                        "icon": "fa-copy",
+                        "questions": []
+                    },
+                    {
+                        "category": "KPSC Everyday Science",
+                        "icon": "fa-paste",
+                        "questions": []
+                    },
+                    {
+                        "category": "FPSC General Science",
+                        "icon": "fa-file-signature",
+                        "questions": []
+                    },
+                    {
+                        "category": "PPSC General Science",
+                        "icon": "fa-file-contract",
+                        "questions": []
+                    },
+                    {
+                        "category": "SPSC General Science",
+                        "icon": "fa-file-invoice",
+                        "questions": []
+                    },
+                    {
+                        "category": "BPSC General Science",
+                        "icon": "fa-copy",
+                        "questions": []
+                    },
+                    {
+                        "category": "KPSC General Science",
+                        "icon": "fa-paste",
+                        "questions": []
+                    }
+                ]
+            },
+            {
+                "category": "Botany",
+                "icon": "fa-leaf",
+                "isFolder": true,
+                "subcategories": [
+                    {
+                        "category": "FPSC Botany",
+                        "icon": "fa-file-signature",
+                        "questions": []
+                    },
+                    {
+                        "category": "PPSC Botany",
+                        "icon": "fa-file-contract",
+                        "questions": []
+                    },
+                    {
+                        "category": "SPSC Botany",
+                        "icon": "fa-file-invoice",
+                        "questions": []
+                    },
+                    {
+                        "category": "BPSC Botany",
+                        "icon": "fa-copy",
+                        "questions": []
+                    },
+                    {
+                        "category": "KPSC Botany",
+                        "icon": "fa-paste",
+                        "questions": []
+                    }
+                ]
+            },
+            {
+                "category": "Zoology",
+                "icon": "fa-hippo",
+                "isFolder": true,
+                "subcategories": [
+                    {
+                        "category": "FPSC Zoology",
+                        "icon": "fa-file-signature",
+                        "questions": []
+                    },
+                    {
+                        "category": "PPSC Zoology",
+                        "icon": "fa-file-contract",
+                        "questions": []
+                    },
+                    {
+                        "category": "SPSC Zoology",
+                        "icon": "fa-file-invoice",
+                        "questions": []
+                    },
+                    {
+                        "category": "BPSC Zoology",
+                        "icon": "fa-copy",
+                        "questions": []
+                    },
+                    {
+                        "category": "KPSC Zoology",
+                        "icon": "fa-paste",
+                        "questions": []
+                    }
+                ]
+            },
+            {
+                "category": "Chemistry",
+                "icon": "fa-vial",
+                "isFolder": true,
+                "subcategories": [
+                    {
+                        "category": "FPSC Chemistry",
+                        "icon": "fa-file-signature",
+                        "questions": []
+                    },
+                    {
+                        "category": "PPSC Chemistry",
+                        "icon": "fa-file-contract",
+                        "questions": []
+                    },
+                    {
+                        "category": "SPSC Chemistry",
+                        "icon": "fa-file-invoice",
+                        "questions": []
+                    },
+                    {
+                        "category": "BPSC Chemistry",
+                        "icon": "fa-copy",
+                        "questions": []
+                    },
+                    {
+                        "category": "KPSC Chemistry",
+                        "icon": "fa-paste",
+                        "questions": []
+                    }
+                ]
+            },
+            {
+                "category": "Physics",
+                "icon": "fa-atom",
+                "isFolder": true,
+                "subcategories": [
+                    {
+                        "category": "FPSC Physics",
+                        "icon": "fa-file-signature",
+                        "questions": []
+                    },
+                    {
+                        "category": "PPSC Physics",
+                        "icon": "fa-file-contract",
+                        "questions": []
+                    },
+                    {
+                        "category": "SPSC Physics",
+                        "icon": "fa-file-invoice",
+                        "questions": []
+                    },
+                    {
+                        "category": "BPSC Physics",
+                        "icon": "fa-copy",
+                        "questions": []
+                    },
+                    {
+                        "category": "KPSC Physics",
+                        "icon": "fa-paste",
+                        "questions": []
                     }
                 ]
             }
