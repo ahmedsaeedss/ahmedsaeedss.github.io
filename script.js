@@ -89,12 +89,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (twDesc) twDesc.content = newDesc;
         if (twUrl) twUrl.content = newUrl;
 
-        // Update URL Hash without triggering scroll
-        if (isQuizView && history.replaceState) {
-            history.replaceState(null, null, "#" + encodeURIComponent(title.replace(/\s+/g, '-').toLowerCase()));
-        } else if (!isQuizView && history.replaceState) {
-            history.replaceState(null, null, window.location.pathname);
-        }
+        // Hashing logic is handled exclusively by switchScreen to prevent conflicts
     }
 
     function checkHashForDeepLink() {
@@ -124,71 +119,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let isExamMode = false;
     let examTimeLeft = 0;
-
-    // --- Dynamic SEO & URL Handling ---
-    function updateMetaTags(title, parentCategory, isQuizView) {
-        const baseTitle = "MCQs Master | Competitive Exam Preparation";
-        const newTitle = `${title} MCQs | ${baseTitle}`;
-        const newDesc = `Prepare for ${title} under ${parentCategory}. Master top-quality MCQs online for free on MCQs Master.`;
-        const newUrl = window.location.origin + window.location.pathname + "#" + encodeURIComponent(title.replace(/\s+/g, '-').toLowerCase());
-
-        // Update Document Title
-        document.title = isQuizView ? newTitle : baseTitle;
-
-        // Update Standard Meta
-        const metaTitle = document.getElementById('seo-meta-title');
-        const metaDesc = document.getElementById('seo-description');
-        if (metaTitle) metaTitle.content = newTitle;
-        if (metaDesc) metaDesc.content = newDesc;
-
-        // Update Open Graph (OG)
-        const ogTitle = document.getElementById('og-title');
-        const ogDesc = document.getElementById('og-description');
-        const ogUrl = document.getElementById('og-url');
-        if (ogTitle) ogTitle.content = newTitle;
-        if (ogDesc) ogDesc.content = newDesc;
-        if (ogUrl) ogUrl.content = newUrl;
-
-        // Update Twitter Cards
-        const twTitle = document.getElementById('twitter-title');
-        const twDesc = document.getElementById('twitter-description');
-        const twUrl = document.getElementById('twitter-url');
-        if (twTitle) twTitle.content = newTitle;
-        if (twDesc) twDesc.content = newDesc;
-        if (twUrl) twUrl.content = newUrl;
-
-        // Update URL Hash without triggering scroll
-        if (isQuizView && history.replaceState) {
-            history.replaceState(null, null, "#" + encodeURIComponent(title.replace(/\s+/g, '-').toLowerCase()));
-        } else if (!isQuizView && history.replaceState) {
-            history.replaceState(null, null, window.location.pathname);
-        }
-    }
-
-    function checkHashForDeepLink() {
-        if (!window.location.hash || window.location.hash.length <= 1) return;
-
-        const hashTarget = decodeURIComponent(window.location.hash.substring(1)).replace(/-/g, ' ').toLowerCase();
-
-        // Try to find matching subcategory and auto-open it
-        let found = false;
-        mainQuizData.forEach(mainCat => {
-            mainCat.subcategories.forEach(subCat => {
-                if (subCat.category.toLowerCase() === hashTarget) {
-                    selectedMainCategory = mainCat.category;
-                    startQuiz(subCat.category);
-                    found = true;
-                }
-            });
-        });
-
-        if (found) {
-            console.log(`Deep linked to: ${hashTarget}`);
-        }
-    }
-
-    // Call deep link check on load
-    window.addEventListener('load', checkHashForDeepLink);
     let examTimerInterval = null;
     let totalExamQuestions = 0;
     let examSelectedSubjects = [];
@@ -323,7 +253,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 // We reached the very first entry (landing). 
                 // Stay on main categories and re-push state to "trap" the back button.
                 showMainCategories(true);
-                history.pushState({ screen: 'categories' }, '', '#categories');
+                history.pushState({ screen: 'categories' }, '', '#HomePage');
                 return;
             }
 
@@ -347,8 +277,8 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         // Initialize with a push to ensure a "back" doesn't immediately exit
-        history.replaceState({ screen: 'categories' }, '', '#main');
-        history.pushState({ screen: 'categories' }, '', '#categories');
+        history.replaceState({ screen: 'categories' }, '', '#HomePage');
+        history.pushState({ screen: 'categories' }, '', '#HomePage');
     }
 
     function toggleTheme() {
@@ -939,7 +869,16 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (!isPopState) {
             const state = { screen: screenName, ...additionalState };
-            history.pushState(state, '', '#' + screenName);
+            let hashName = screenName;
+
+            // Map the screen names to the URL hashes the user requested
+            if (screenName === 'categories' && !additionalState.mainCategory) {
+                hashName = 'HomePage';
+            } else if (screenName === 'categories' && additionalState.mainCategory) {
+                hashName = 'categories';
+            }
+
+            history.pushState(state, '', '#' + hashName);
         }
     }
 
