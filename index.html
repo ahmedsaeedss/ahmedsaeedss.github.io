@@ -4,9 +4,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MCQs Master | Competitive Exam Preparation</title>
+    <!-- Primary Meta Tags -->
+    <title id="seo-title">MCQs Master | Competitive Exam Preparation</title>
+    <meta name="title" id="seo-meta-title" content="MCQs Master | Competitive Exam Preparation">
+    <meta name="description" id="seo-description"
+        content="Comprehensive Preparation for PPSC, SPSC, FPSC, IBA, NTS & CSS. Master top-quality MCQs across multiple subjects online for free.">
 
-    <!-- Google Fonts -->
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" id="og-url" content="https://ahmedsaeedss.github.io/">
+    <meta property="og:title" id="og-title" content="MCQs Master | Competitive Exam Preparation">
+    <meta property="og:description" id="og-description"
+        content="Comprehensive Preparation for PPSC, SPSC, FPSC, IBA, NTS & CSS. Master top-quality MCQs across multiple subjects online for free.">
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" id="twitter-url" content="https://ahmedsaeedss.github.io/">
+    <meta property="twitter:title" id="twitter-title" content="MCQs Master | Competitive Exam Preparation">
+    <meta property="twitter:description" id="twitter-description"
+        content="Comprehensive Preparation for PPSC, SPSC, FPSC, IBA, NTS & CSS. Master top-quality MCQs across multiple subjects online for free.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -38,6 +53,11 @@
                 <i class="fa-solid fa-volume-high"></i>
                 <span class="btn-label">Sound</span>
             </button>
+            <button id="auth-btn" class="control-btn auth-btn-unlogged" aria-label="Login with Google"
+                title="Login with Google">
+                <i class="fa-brands fa-google"></i>
+                <span class="btn-label" id="auth-btn-label">Login</span>
+            </button>
         </div>
         <div class="logo" id="home-logo" style="cursor: pointer;">
             <i class="fa-solid fa-graduation-cap"></i>
@@ -58,6 +78,10 @@
                 </li>
                 <li><a href="#" id="nav-mistakes" class="nav-item"><i class="fa-solid fa-triangle-exclamation"></i>
                         Mistake Bank</a>
+                </li>
+                <li><a href="#" id="nav-leaderboard" class="nav-item"
+                        style="background: rgba(212, 175, 55, 0.2); border-color: var(--accent); color: var(--accent);"><i
+                            class="fa-solid fa-ranking-star"></i> Global Leaderboard</a>
                 </li>
             </ul>
         </nav>
@@ -166,14 +190,36 @@
                     </div>
                 </div>
 
-                <div class="result-actions">
+                <!-- Detailed Analytics Report Card -->
+                <div id="quiz-report-card" class="report-card hidden">
+                    <h3><i class="fa-solid fa-chart-pie"></i> Detailed Performance Report</h3>
+                    <div class="report-stats">
+                        <div class="report-stat-item">
+                            <span class="label">Time Taken</span>
+                            <span id="report-time" class="value">00:00</span>
+                        </div>
+                        <div class="report-stat-item">
+                            <span class="label">Accuracy</span>
+                            <span id="report-accuracy" class="value">0%</span>
+                        </div>
+                    </div>
+                    <div class="weak-areas">
+                        <h4><i class="fa-solid fa-triangle-exclamation" style="color: var(--danger);"></i> Topics to
+                            Improve:</h4>
+                        <ul id="weak-topics-list"></ul>
+                    </div>
+                    <div class="chart-wrapper">
+                        <canvas id="improvement-chart"></canvas>
+                    </div>
+                </div>
+
+                <div class="result-actions" style="margin-top: 2rem;">
                     <button id="retry-btn" class="secondary-btn"><i class="fa-solid fa-rotate-right"></i> Retry
                         Quiz</button>
                     <button id="next-set-btn" class="primary-btn hidden">Next Quiz <i
                             class="fa-solid fa-forward"></i></button>
-                    <button id="print-btn" class="primary-btn" title="Save or Print Results">
-                        <i class="fa-solid fa-file-pdf"></i> Save PDF
-                    </button>
+                    <button id="share-score-btn" class="secondary-btn" style="border-color: #25D366; color: #25D366;"><i
+                            class="fa-brands fa-whatsapp"></i> Share Score</button>
                     <button id="home-btn" class="primary-btn"><i class="fa-solid fa-house"></i> Home</button>
                 </div>
             </div>
@@ -293,8 +339,51 @@
         </div>
     </div>
 
+    <!-- Screen 7: Global Leaderboard Modal -->
+    <div id="leaderboard-modal" class="modal-overlay hidden">
+        <div class="modal-content leaderboard-modal">
+            <div class="modal-header" style="background: linear-gradient(135deg, var(--accent) 0%, #B8860B 100%);">
+                <h2><i class="fa-solid fa-trophy"></i> Global Leaderboard</h2>
+                <button id="close-leaderboard" class="icon-btn" style="color: white;"><i
+                        class="fa-solid fa-xmark"></i></button>
+            </div>
+            <div class="leaderboard-body">
+                <p style="text-align: center; color: var(--text-muted); margin-bottom: 1.5rem;">Top 50 highest scoring
+                    users</p>
+                <div class="leaderboard-list">
+                    <table class="leaderboard-table">
+                        <thead>
+                            <tr>
+                                <th>Rank</th>
+                                <th>Name</th>
+                                <th>Quizzes Taken</th>
+                                <th>Correct</th>
+                                <th>Avg Score</th>
+                            </tr>
+                        </thead>
+                        <tbody id="leaderboard-tbody">
+                            <tr>
+                                <td colspan="5" style="text-align:center;">Loading...</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <script src="data.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+    <!-- Firebase SDKs (Compat version for Drop-in Vanilla JS) -->
+    <script src="https://www.gstatic.com/firebasejs/10.9.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.9.0/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/10.9.0/firebase-firestore-compat.js"></script>
+
+    <!-- Firebase Sync Logic (Must be loaded before script.js) -->
+    <script src="firebase-sync.js"></script>
+
     <script src="script.js"></script>
 </body>
 

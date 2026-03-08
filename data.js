@@ -8,7 +8,7 @@
                 "icon": "fa-quran",
                 "questions": [
                     {
-                        "q": "Which Prophet is known as \u0027Khalilullah\u0027 (Friend of Allah)?",
+                        "q": "Which Prophet is known as 'Khalilullah' (Friend of Allah)?",
                         "options": [
                             "Prophet Nuh (AS)",
                             "Prophet Musa (AS)",
@@ -43,16 +43,16 @@
                     {
                         "q": "What is the longest word in the Quran, comprising 11 letters in Arabic?",
                         "options": [
-                            "Fa\u0027asqaynakumoohu",
+                            "Fa'asqaynakumoohu",
                             "Fasayakfeekahum",
                             "Layastakhlifannahum",
                             "Anulzimukumooha"
                         ],
                         "answer": 0,
-                        "explanation": "It translates to \u0027and We give it to you to drink\u0027 (Surah Al-Hijr, 15:22)."
+                        "explanation": "It translates to 'and We give it to you to drink' (Surah Al-Hijr, 15:22)."
                     },
                     {
-                        "q": "In the Quran, which Prophet\u0027s story is referred to as \u0027Ahsan al-Qasas\u0027 (The Best of Stories)?",
+                        "q": "In the Quran, which Prophet's story is referred to as 'Ahsan al-Qasas' (The Best of Stories)?",
                         "options": [
                             "Prophet Yusuf (AS)",
                             "Prophet Musa (AS)",
@@ -90,7 +90,7 @@
                             "Surah Al-Baqarah",
                             "Surah Aal-e-Imran",
                             "Surah An-Nisa",
-                            "Surah Al-Ma\u0027idah"
+                            "Surah Al-Ma'idah"
                         ],
                         "answer": 0,
                         "explanation": "It is verse 255 of Surah Al-Baqarah."
@@ -122,7 +122,7 @@
                         "options": [
                             "Surah Al-Imran",
                             "Surah Al-Nisa",
-                            "Surah Al-Ma\u0027idah",
+                            "Surah Al-Ma'idah",
                             "Surah Al-Baqarah"
                         ],
                         "answer": 3,
@@ -140,7 +140,7 @@
                         "explanation": "Out of the 114 Surahs, 86 are Makki (revealed before the Hijrah) and 28 are Madani."
                     },
                     {
-                        "q": "Which Surah is known as the \u0027Heart of the Quran\u0027?",
+                        "q": "Which Surah is known as the 'Heart of the Quran'?",
                         "options": [
                             "Surah Ar-Rahman",
                             "Surah Yaseen",
@@ -151,7 +151,7 @@
                         "explanation": "Prophet Muhammad (PBUH) referred to Surah Yaseen as the heart of the Quran due to its profound themes of monotheism and the afterlife."
                     },
                     {
-                        "q": "Which Surah of the Quran does not start with \u0027Bismillah\u0027?",
+                        "q": "Which Surah of the Quran does not start with 'Bismillah'?",
                         "options": [
                             "Surah Al-Fatiha",
                             "Surah At-Tawbah",
@@ -162,7 +162,7 @@
                         "explanation": "Surah At-Tawbah does not begin with Bismillah as it was revealed with stern warnings to hypocrites and polytheists."
                     },
                     {
-                        "q": "In which Surah is the word \u0027Bismillah\u0027 repeated twice?",
+                        "q": "In which Surah is the word 'Bismillah' repeated twice?",
                         "options": [
                             "Surah Al-Baqarah",
                             "Surah An-Nisa",
@@ -184,12 +184,12 @@
                         "explanation": "The Quran is divided into 7 Manzils to facilitate completing its recitation in one week."
                     },
                     {
-                        "q": "Which Surah is also known as \u0027Aroos-ul-Quran\u0027 (The Bride of the Quran)?",
+                        "q": "Which Surah is also known as 'Aroos-ul-Quran' (The Bride of the Quran)?",
                         "options": [
                             "Surah Yaseen",
                             "Surah Ar-Rahman",
                             "Surah Al-Mulk",
-                            "Surah Al-Waqi\u0027ah"
+                            "Surah Al-Waqi'ah"
                         ],
                         "answer": 1,
                         "explanation": "Prophet Muhammad (PBUH) called Surah Ar-Rahman the bride of the Quran due to its rhythmic beauty."
@@ -206,7 +206,7 @@
                         "explanation": "There are 6 Surahs named after Prophets: Yunus, Hud, Yusuf, Ibrahim, Nuh, and Muhammad (PBUH)."
                     },
                     {
-                        "q": "Which Prophet\u0027s name is mentioned most frequently in the Quran?",
+                        "q": "Which Prophet's name is mentioned most frequently in the Quran?",
                         "options": [
                             "Prophet Muhammad (PBUH)",
                             "Prophet Ibrahim (AS)",
@@ -228,7 +228,7 @@
                         "explanation": "There are 14 agreed-upon Ayaat involving an obligatory Sajdah."
                     },
                     {
-                        "q": "Which companion\u0027s name is explicitly mentioned in the Quran?",
+                        "q": "Which companion's name is explicitly mentioned in the Quran?",
                         "options": [
                             "Hazrat Abu Bakr (RA)",
                             "Hazrat Ali (RA)",
@@ -261,12 +261,12 @@
                         "explanation": "Surah Al-Hajj is unique as it contains two Sajdahs."
                     },
                     {
-                        "q": "Which Surah is known as the \u0027Protector\u0027 from the punishment of the grave?",
+                        "q": "Which Surah is known as the 'Protector' from the punishment of the grave?",
                         "options": [
                             "Surah Al-Mulk",
                             "Surah Al-Kahf",
                             "Surah Yaseen",
-                            "Surah Al-Waqi\u0027ah"
+                            "Surah Al-Waqi'ah"
                         ],
                         "answer": 0,
                         "explanation": "Prophet Muhammad (PBUH) said Surah Al-Mulk intercedes for its reader until they are forgiven."
@@ -305,7 +305,7 @@
                         "explanation": "Angel Jibreel (Gabriel) is the messenger of Allah to His Prophets."
                     },
                     {
-                        "q": "Which Surah is called \u0027Umm-ul-Quran\u0027 (The Mother of the Quran)?",
+                        "q": "Which Surah is called 'Umm-ul-Quran' (The Mother of the Quran)?",
                         "options": [
                             "Surah Al-Baqarah",
                             "Surah Al-Fatiha",
@@ -335,10 +335,10 @@
                             "Seven"
                         ],
                         "answer": 3,
-                        "explanation": "The Quran mentions the creation of \u0027Seven Heavens\u0027 multiple times."
+                        "explanation": "The Quran mentions the creation of 'Seven Heavens' multiple times."
                     },
                     {
-                        "q": "Which Surah must be recited in every Raka\u0027at of Salah?",
+                        "q": "Which Surah must be recited in every Raka'at of Salah?",
                         "options": [
                             "Surah Al-Fatiha",
                             "Surah Al-Ikhlas",
@@ -368,7 +368,7 @@
                             "Surah Al-Ahzab"
                         ],
                         "answer": 0,
-                        "explanation": "Surah At-Tawbah (Verse 40) refers to the Prophet\u0027s stay in the cave during Hijrah."
+                        "explanation": "Surah At-Tawbah (Verse 40) refers to the Prophet's stay in the cave during Hijrah."
                     },
                     {
                         "q": "Who was the first person to compile the Quran into a single volume (Mushaf)?",
@@ -382,7 +382,7 @@
                         "explanation": "Under the advice of Hazrat Umar, Hazrat Abu Bakr (RA) initiated the compilation."
                     },
                     {
-                        "q": "Who is known as \u0027Zun-Noorain\u0027 and standardized the Quranic script?",
+                        "q": "Who is known as 'Zun-Noorain' and standardized the Quranic script?",
                         "options": [
                             "Hazrat Abu Bakr",
                             "Hazrat Umar",
@@ -393,7 +393,7 @@
                         "explanation": "Hazrat Usman (RA) compiled the final version and sent copies to major cities."
                     },
                     {
-                        "q": "Which Surah is known as the \u0027Basement\u0027 of the Quran (due to its placement and length)?",
+                        "q": "Which Surah is known as the 'Basement' of the Quran (due to its placement and length)?",
                         "options": [
                             "Surah Al-Baqarah",
                             "None",
@@ -401,10 +401,10 @@
                             "Surah Maryam"
                         ],
                         "answer": 1,
-                        "explanation": "There is no such title as \u0027Basement\u0027 in traditional Islamic terminology."
+                        "explanation": "There is no such title as 'Basement' in traditional Islamic terminology."
                     },
                     {
-                        "q": "How many times is \u0027Bismillah ir-Rahman ir-Rahim\u0027 mentioned in the Quran?",
+                        "q": "How many times is 'Bismillah ir-Rahman ir-Rahim' mentioned in the Quran?",
                         "options": [
                             "113",
                             "114",
@@ -426,7 +426,7 @@
                         "explanation": "Surah Maryam (Chapter 19) is named after the mother of Prophet Isa (AS)."
                     },
                     {
-                        "q": "Which Surah describes the \u0027People of the Cave\u0027 (Ashab-ul-Kahf)?",
+                        "q": "Which Surah describes the 'People of the Cave' (Ashab-ul-Kahf)?",
                         "options": [
                             "Surah Al-Kahf",
                             "Surah Yusuf",
@@ -448,7 +448,7 @@
                         "explanation": "The verse regarding debt/contracts in Surah Al-Baqarah is the longest single verse."
                     },
                     {
-                        "q": "Which Surah does not have the letter \u0027Meem\u0027?",
+                        "q": "Which Surah does not have the letter 'Meem'?",
                         "options": [
                             "Surah Al-Kauthar",
                             "Surah Al-Ikhlas",
@@ -459,7 +459,7 @@
                         "explanation": "Almost all surahs contain the common letter Meem."
                     },
                     {
-                        "q": "How many Surahs start with \u0027Alhamdulillah\u0027 (Praise be to Allah)?",
+                        "q": "How many Surahs start with 'Alhamdulillah' (Praise be to Allah)?",
                         "options": [
                             "3",
                             "4",
@@ -467,7 +467,7 @@
                             "6"
                         ],
                         "answer": 2,
-                        "explanation": "Fatiha, An\u0027am, Kahf, Saba, and Fatir start with Alhamdulillah."
+                        "explanation": "Fatiha, An'am, Kahf, Saba, and Fatir start with Alhamdulillah."
                     },
                     {
                         "q": "Which Surah is named after a basic pillar of Islam?",
@@ -489,10 +489,10 @@
                             "Surah Aal-e-Imran"
                         ],
                         "answer": 0,
-                        "explanation": "The story of Prophet Yusuf is described as \u0027The Best of Stories\u0027 in Surah Yusuf."
+                        "explanation": "The story of Prophet Yusuf is described as 'The Best of Stories' in Surah Yusuf."
                     },
                     {
-                        "q": "What is the meaning of the word \u0027Al-Furqan\u0027?",
+                        "q": "What is the meaning of the word 'Al-Furqan'?",
                         "options": [
                             "The Guidance",
                             "The Criterion",
@@ -514,7 +514,7 @@
                         "explanation": "Surah Al-Anfal discusses the spoils of war and the battle of Badr."
                     },
                     {
-                        "q": "How many alphabets are the \u0027Huroof-e-Muqatta\u0027at\u0027 (Disjointed letters)?",
+                        "q": "How many alphabets are the 'Huroof-e-Muqatta'at' (Disjointed letters)?",
                         "options": [
                             "14",
                             "28",
@@ -525,18 +525,18 @@
                         "explanation": "14 different letters appear in various combinations at the start of 29 Surahs."
                     },
                     {
-                        "q": "Which Surah starts with the letter \u0027Qaf\u0027?",
+                        "q": "Which Surah starts with the letter 'Qaf'?",
                         "options": [
                             "Surah Qaf",
                             "Surah Al-Qamar",
                             "Surah Al-Qalam",
-                            "Surah Al-Qari\u0027ah"
+                            "Surah Al-Qari'ah"
                         ],
                         "answer": 0,
                         "explanation": "Surah Qaf (Chapter 50) begins with the single letter Qaf."
                     },
                     {
-                        "q": "Which Surah is known as the \u0027Heart of the Quran\u0027?",
+                        "q": "Which Surah is known as the 'Heart of the Quran'?",
                         "options": [
                             "Ar-Rahman",
                             "Yaseen",
@@ -569,7 +569,7 @@
                         "explanation": "Surah Al-Kauthar promises the Prophet (PBUH) the abundance (Kauthar)."
                     },
                     {
-                        "q": "Which Surah mentions the \u0027Night of Power\u0027 (Laylat-ul-Qadr)?",
+                        "q": "Which Surah mentions the 'Night of Power' (Laylat-ul-Qadr)?",
                         "options": [
                             "Surah Al-Qadr",
                             "Surah Ad-Dukhan",
@@ -580,11 +580,11 @@
                         "explanation": "Surah Al-Qadr explicitly describes the greatness of this night."
                     },
                     {
-                        "q": "Which Surah is called the \u0027Beauty of the Quran\u0027?",
+                        "q": "Which Surah is called the 'Beauty of the Quran'?",
                         "options": [
                             "Surah Yaseen",
                             "Surah Ar-Rahman",
-                            "Surah Al-Waqi\u0027ah",
+                            "Surah Al-Waqi'ah",
                             "Surah An-Noor"
                         ],
                         "answer": 1,
@@ -613,7 +613,7 @@
                         "explanation": "Surah An-Nas is the 114th and final Surah."
                     },
                     {
-                        "q": "How many Surahs begin with \u0027Inna\u0027 (Truly)?",
+                        "q": "How many Surahs begin with 'Inna' (Truly)?",
                         "options": [
                             "2",
                             "3",
@@ -624,7 +624,7 @@
                         "explanation": "Fath, Nuh, Qadr, and Kauthar begin with Inna."
                     },
                     {
-                        "q": "Which Surah mentions the \u0027Splitting of the Moon\u0027?",
+                        "q": "Which Surah mentions the 'Splitting of the Moon'?",
                         "options": [
                             "Surah Al-Qamar",
                             "Surah Inshiqaq",
@@ -646,7 +646,7 @@
                         "explanation": "Surah Al-Ikhlas is Chapter 112."
                     },
                     {
-                        "q": "Which Prophet is mentioned as \u0027Zun-Noon\u0027 in the Quran?",
+                        "q": "Which Prophet is mentioned as 'Zun-Noon' in the Quran?",
                         "options": [
                             "Prophet Yusuf",
                             "Prophet Yunus",
@@ -657,7 +657,7 @@
                         "explanation": "Zun-Noon (Companion of the Whale) is a title for Prophet Yunus (AS)."
                     },
                     {
-                        "q": "In which Surah is the \u0027Victory of Makkah\u0027 predicted?",
+                        "q": "In which Surah is the 'Victory of Makkah' predicted?",
                         "options": [
                             "Surah Al-Fath",
                             "Surah An-Nasr",
@@ -665,10 +665,10 @@
                             "Surah At-Tawbah"
                         ],
                         "answer": 1,
-                        "explanation": "Surah An-Nasr mentions the coming of Allah\u0027s help and victory."
+                        "explanation": "Surah An-Nasr mentions the coming of Allah's help and victory."
                     },
                     {
-                        "q": "How many times is the word \u0027Quran\u0027 mentioned in the Quran itself?",
+                        "q": "How many times is the word 'Quran' mentioned in the Quran itself?",
                         "options": [
                             "68",
                             "70",
@@ -683,7 +683,7 @@
                         "options": [
                             "Surah Al-Baqarah",
                             "Surah Aal-e-Imran",
-                            "Surah Al-Ma\u0027idah",
+                            "Surah Al-Ma'idah",
                             "Surah An-Nisa"
                         ],
                         "answer": 0,
@@ -704,7 +704,7 @@
                         "q": "Who were the primary scribes (Wahi writers) of the Prophet (PBUH)?",
                         "options": [
                             "Zaid bin Thabit",
-                            "Ubayy bin Ka\u0027b",
+                            "Ubayy bin Ka'b",
                             "Muawiyah bin Abi Sufyan",
                             "All of these"
                         ],
@@ -731,7 +731,7 @@
                             "Al-Huda"
                         ],
                         "answer": 0,
-                        "explanation": "Surah Al-Fatiha is referred to as Umm-ul-Quran (Mother of the Quran) due to summarizing the Quran\u0027s core message."
+                        "explanation": "Surah Al-Fatiha is referred to as Umm-ul-Quran (Mother of the Quran) due to summarizing the Quran's core message."
                     },
                     {
                         "q": "How many bows (Sajdahs) of recitation are there in the Quran?",
@@ -745,7 +745,7 @@
                         "explanation": "According to the majority of scholars (Hanafi school), there are 14 obligatory Sajdahs of recitation (Sajdah Tilawat) in the Quran."
                     },
                     {
-                        "q": "Which Surah is also called the \u0027Heart of the Quran\u0027?",
+                        "q": "Which Surah is also called the 'Heart of the Quran'?",
                         "options": [
                             "Surah Rahman",
                             "Surah Yaseen",
@@ -756,7 +756,7 @@
                         "explanation": "Surah Yaseen is widely recognized as the heart of the Quran."
                     },
                     {
-                        "q": "What is the meaning of the word \u0027An-Nas\u0027?",
+                        "q": "What is the meaning of the word 'An-Nas'?",
                         "options": [
                             "The Victory",
                             "The People",
@@ -764,7 +764,7 @@
                             "The Elephant"
                         ],
                         "answer": 1,
-                        "explanation": "An-Nas means \u0027The People\u0027."
+                        "explanation": "An-Nas means 'The People'."
                     },
                     {
                         "q": "Which Surah is named after an insect?",
@@ -797,10 +797,10 @@
                             "Surah Mudassir"
                         ],
                         "answer": 0,
-                        "explanation": "Surah Al-Ahzab (Verse 45) describes the Prophet\u0027s (PBUH) roles."
+                        "explanation": "Surah Al-Ahzab (Verse 45) describes the Prophet's (PBUH) roles."
                     },
                     {
-                        "q": "How many times is the word \u0027Day\u0027 (Yaum) mentioned in the Quran?",
+                        "q": "How many times is the word 'Day' (Yaum) mentioned in the Quran?",
                         "options": [
                             "30",
                             "100",
@@ -811,7 +811,7 @@
                         "explanation": "The word Yaum (singular) appears exactly 365 times in the Quran."
                     },
                     {
-                        "q": "How many times is the word \u0027Month\u0027 (Shahr) mentioned in the Quran?",
+                        "q": "How many times is the word 'Month' (Shahr) mentioned in the Quran?",
                         "options": [
                             "10",
                             "12",
@@ -822,7 +822,7 @@
                         "explanation": "The word Shahr (singular) appears exactly 12 times in the Quran."
                     },
                     {
-                        "q": "Which Surah mentions the \u0027Batan-e-Hut\u0027 (Belly of the Whale)?",
+                        "q": "Which Surah mentions the 'Batan-e-Hut' (Belly of the Whale)?",
                         "options": [
                             "Surah As-Saaffat",
                             "Surah Al-Qalam",
@@ -830,7 +830,7 @@
                             "Surah Al-Ambiya"
                         ],
                         "answer": 1,
-                        "explanation": "Surah Al-Qalam mentions the story of Prophet Yunus (AS) in the whale\u0027s belly."
+                        "explanation": "Surah Al-Qalam mentions the story of Prophet Yunus (AS) in the whale's belly."
                     },
                     {
                         "q": "Who was the maternal grandfather of Prophet Isa (AS) according to the Quran?",
@@ -844,7 +844,7 @@
                         "explanation": "Imran was the father of Hazrat Maryam (AS) and the grandfather of Prophet Isa (AS)."
                     },
                     {
-                        "q": "Which Surah is known as \u0027Surah Al-Hamd\u0027?",
+                        "q": "Which Surah is known as 'Surah Al-Hamd'?",
                         "options": [
                             "Surah Al-Fatiha",
                             "Surah Al-Ikhlas",
@@ -866,18 +866,18 @@
                         "explanation": "Surah Al-Kahf is the 18th Chapter of the Quran."
                     },
                     {
-                        "q": "Which Surah describes the events of the Day of Judgment as a \u0027Great Noise\u0027?",
+                        "q": "Which Surah describes the events of the Day of Judgment as a 'Great Noise'?",
                         "options": [
-                            "Surah Al-Qari\u0027ah",
+                            "Surah Al-Qari'ah",
                             "Surah Al-Zilzal",
-                            "Surah Al-Waqi\u0027ah",
+                            "Surah Al-Waqi'ah",
                             "Surah Al-Haqqah"
                         ],
                         "answer": 0,
-                        "explanation": "Al-Qari\u0027ah means the striking calamity or noise."
+                        "explanation": "Al-Qari'ah means the striking calamity or noise."
                     },
                     {
-                        "q": "Which metal is mentioned as having \u0027great might\u0027 and benefits for people in the Quran?",
+                        "q": "Which metal is mentioned as having 'great might' and benefits for people in the Quran?",
                         "options": [
                             "Gold",
                             "Silver",
@@ -893,7 +893,7 @@
                             "Surah Al-Baqarah",
                             "Surah Aal-e-Imran",
                             "Surah An-Nisa",
-                            "Surah Al-Ma\u0027idah"
+                            "Surah Al-Ma'idah"
                         ],
                         "answer": 0,
                         "explanation": "The second Juz ends during Surah Al-Baqarah (Verse 252)."
@@ -910,7 +910,7 @@
                         "explanation": "The first Juz contains Surah Al-Fatiha and a part of Surah Al-Baqarah."
                     },
                     {
-                        "q": "Which Surah is called the \u0027Door\u0027 of the Quran?",
+                        "q": "Which Surah is called the 'Door' of the Quran?",
                         "options": [
                             "Surah Al-Fatiha",
                             "Surah Al-Baqarah",
@@ -932,7 +932,7 @@
                         "explanation": "An-Najm (The Star), At-Tariq (The Nightcomer/Star), and Al-Buruj (The Constellations) are named after celestial bodies."
                     },
                     {
-                        "q": "What is the meaning of \u0027Al-Falaq\u0027?",
+                        "q": "What is the meaning of 'Al-Falaq'?",
                         "options": [
                             "The People",
                             "The Daybreak",
@@ -940,7 +940,7 @@
                             "The Sun"
                         ],
                         "answer": 1,
-                        "explanation": "Al-Falaq means \u0027The Daybreak\u0027 or \u0027The Dawn\u0027."
+                        "explanation": "Al-Falaq means 'The Daybreak' or 'The Dawn'."
                     },
                     {
                         "q": "Which Surah describes the story of Abrahah and his elephants?",
@@ -948,13 +948,13 @@
                             "Surah Al-Fil",
                             "Surah Quraish",
                             "Surah Al-Humazah",
-                            "Surah Al-Ma\u0027un"
+                            "Surah Al-Ma'un"
                         ],
                         "answer": 0,
                         "explanation": "Surah Al-Fil (The Elephant) recounts how Allah destroyed the army that came to attack the Kaaba."
                     },
                     {
-                        "q": "Which Surah mentions the city of \u0027Iram\u0027 with lofty pillars?",
+                        "q": "Which Surah mentions the city of 'Iram' with lofty pillars?",
                         "options": [
                             "Surah Al-Fajr",
                             "Surah Al-Balad",
@@ -987,11 +987,11 @@
                         "explanation": "The She-Camel of Allah was a miracle given to the people of Thamud."
                     },
                     {
-                        "q": "Which Surah mentions the \u0027Bait-ul-Mamur\u0027 (The Much-Frequented House in Heaven)?",
+                        "q": "Which Surah mentions the 'Bait-ul-Mamur' (The Much-Frequented House in Heaven)?",
                         "options": [
                             "Surah At-Tur",
                             "Surah An-Najm",
-                            "Surah Al-Waqi\u0027ah",
+                            "Surah Al-Waqi'ah",
                             "Surah Al-Haqqah"
                         ],
                         "answer": 0,
@@ -1009,7 +1009,7 @@
                         "explanation": "Surah Al-Anbiya mentions 16 Prophets by name or reference."
                     },
                     {
-                        "q": "Which Surah is called \u0027Surah Al-Sihr\u0027 (The Surah of Magic) because it mentions it?",
+                        "q": "Which Surah is called 'Surah Al-Sihr' (The Surah of Magic) because it mentions it?",
                         "options": [
                             "Surah Al-Baqarah",
                             "Surah Al-Falaq",
@@ -1020,7 +1020,7 @@
                         "explanation": "Surah Al-Baqarah (Verse 102) discusses magic in the time of Sulaiman (AS)."
                     },
                     {
-                        "q": "What is the meaning of \u0027Al-Mutaffifin\u0027?",
+                        "q": "What is the meaning of 'Al-Mutaffifin'?",
                         "options": [
                             "The Believers",
                             "The Hypocrites",
@@ -1031,10 +1031,10 @@
                         "explanation": "Al-Mutaffifin refers to those who give short measure and cheat in trade."
                     },
                     {
-                        "q": "Which Surah contains the verse \u0027Then which of the favors of your Lord will you deny?\u0027 repeatedly?",
+                        "q": "Which Surah contains the verse 'Then which of the favors of your Lord will you deny?' repeatedly?",
                         "options": [
                             "Surah Ar-Rahman",
-                            "Surah Al-Waqi\u0027ah",
+                            "Surah Al-Waqi'ah",
                             "Surah Al-Mulk",
                             "Surah An-Naba"
                         ],
@@ -1042,7 +1042,7 @@
                         "explanation": "This verse is repeated 31 times in Surah Ar-Rahman."
                     },
                     {
-                        "q": "Which Surah mentions the \u0027Iron\u0027 (Al-Hadid)?",
+                        "q": "Which Surah mentions the 'Iron' (Al-Hadid)?",
                         "options": [
                             "Surah 55",
                             "Surah 57",
@@ -1061,7 +1061,7 @@
                             "Rumi"
                         ],
                         "answer": 0,
-                        "explanation": "Salman al-Farsi (RA) translated some portions of the Quran into Persian during the Prophet\u0027s time."
+                        "explanation": "Salman al-Farsi (RA) translated some portions of the Quran into Persian during the Prophet's time."
                     },
                     {
                         "q": "Which is the only month mentioned by name in the Quran?",
@@ -1086,7 +1086,7 @@
                         "explanation": "Surah Luqman contains profound ethical advice."
                     },
                     {
-                        "q": "What is the meaning of \u0027At-Tariq\u0027?",
+                        "q": "What is the meaning of 'At-Tariq'?",
                         "options": [
                             "The Morning Star",
                             "The Nightcomer",
@@ -1094,7 +1094,7 @@
                             "The Brightness"
                         ],
                         "answer": 1,
-                        "explanation": "At-Tariq means \u0027The Nightcomer\u0027, referring to a piercing star."
+                        "explanation": "At-Tariq means 'The Nightcomer', referring to a piercing star."
                     },
                     {
                         "q": "How many verses are there in Surah Al-Fatiha?",
@@ -1105,10 +1105,10 @@
                             "8"
                         ],
                         "answer": 2,
-                        "explanation": "Al-Fatiha has 7 verses, known as \u0027The Seven Oft-Repeated Verses\u0027."
+                        "explanation": "Al-Fatiha has 7 verses, known as 'The Seven Oft-Repeated Verses'."
                     },
                     {
-                        "q": "Which Surah mentions the \u0027Sidrat-ul-Muntaha\u0027 (The Lote Tree of the Utmost Boundary)?",
+                        "q": "Which Surah mentions the 'Sidrat-ul-Muntaha' (The Lote Tree of the Utmost Boundary)?",
                         "options": [
                             "Surah An-Najm",
                             "Surah Al-Isra",
@@ -1116,10 +1116,10 @@
                             "Surah At-Tur"
                         ],
                         "answer": 0,
-                        "explanation": "Surah An-Najm describes the Prophet\u0027s (PBUH) Mi\u0027raj journey and the Lote Tree."
+                        "explanation": "Surah An-Najm describes the Prophet's (PBUH) Mi'raj journey and the Lote Tree."
                     },
                     {
-                        "q": "Who is the \u0027Daughter of Imran\u0027 mentioned in the Quran?",
+                        "q": "Who is the 'Daughter of Imran' mentioned in the Quran?",
                         "options": [
                             "Hazrat Maryam (AS)",
                             "Hazrat Aisha (RA)",
@@ -1132,7 +1132,7 @@
                     {
                         "q": "Which Surah mentions the creation of the universe in six days?",
                         "options": [
-                            "Surah Al-A\u0027raf",
+                            "Surah Al-A'raf",
                             "Surah Yunus",
                             "Surah Hud",
                             "All of these"
@@ -1141,7 +1141,7 @@
                         "explanation": "Several Surahs mention that Allah created the heavens and earth in six periods/days."
                     },
                     {
-                        "q": "What is the meaning of \u0027Al-Zilzal\u0027?",
+                        "q": "What is the meaning of 'Al-Zilzal'?",
                         "options": [
                             "The Earthquake",
                             "The Wind",
@@ -1152,7 +1152,7 @@
                         "explanation": "Al-Zilzal refers to the violent shaking of the earth on the Day of Judgment."
                     },
                     {
-                        "q": "Which Surah is also known as \u0027Surah Bani Isra\u0027il\u0027?",
+                        "q": "Which Surah is also known as 'Surah Bani Isra'il'?",
                         "options": [
                             "Surah Al-Isra",
                             "Surah Al-Baqarah",
@@ -1160,10 +1160,10 @@
                             "Surah Al-Anbiya"
                         ],
                         "answer": 0,
-                        "explanation": "Surah Al-Isra (Chapter 17) is also called Bani Isra\u0027il."
+                        "explanation": "Surah Al-Isra (Chapter 17) is also called Bani Isra'il."
                     },
                     {
-                        "q": "How many times is \u0027Zakat\u0027 mentioned alongside \u0027Salah\u0027 in the Quran?",
+                        "q": "How many times is 'Zakat' mentioned alongside 'Salah' in the Quran?",
                         "options": [
                             "20",
                             "25",
@@ -1174,7 +1174,7 @@
                         "explanation": "They are mentioned together in 32 places, emphasizing their importance."
                     },
                     {
-                        "q": "Which Surah is known as \u0027Surah Al-Nabi\u0027?",
+                        "q": "Which Surah is known as 'Surah Al-Nabi'?",
                         "options": [
                             "Surah Muhammad",
                             "Surah Al-Anbiya",
@@ -1185,7 +1185,7 @@
                         "explanation": "Surah Muhammad is also called Surah Al-Qital or Surah Al-Nabi."
                     },
                     {
-                        "q": "What is the meaning of \u0027Al-Asr\u0027?",
+                        "q": "What is the meaning of 'Al-Asr'?",
                         "options": [
                             "The Morning",
                             "The Time",
@@ -1196,7 +1196,7 @@
                         "explanation": "Al-Asr refers to declining time or the afternoon."
                     },
                     {
-                        "q": "Which Surah mentions the \u0027Garr-e-Hira\u0027 indirectly?",
+                        "q": "Which Surah mentions the 'Garr-e-Hira' indirectly?",
                         "options": [
                             "Surah Al-Alaq",
                             "Surah Al-Muzammil",
@@ -1207,7 +1207,7 @@
                         "explanation": "These early surahs were revealed in or related to the period of Cave Hira."
                     },
                     {
-                        "q": "Who is \u0027Ahmad\u0027 mentioned in Surah As-Saff?",
+                        "q": "Who is 'Ahmad' mentioned in Surah As-Saff?",
                         "options": [
                             "Prophet Muhammad (PBUH)",
                             "Angel Jibreel",
@@ -1218,7 +1218,7 @@
                         "explanation": "Prophet Isa (AS) gave glad tidings of a Messenger named Ahmad."
                     },
                     {
-                        "q": "Which Surah is called the \u0027Chapter of Monotheism\u0027?",
+                        "q": "Which Surah is called the 'Chapter of Monotheism'?",
                         "options": [
                             "Surah Al-Ikhlas",
                             "Surah Al-Kauthar",
@@ -1240,7 +1240,7 @@
                         "explanation": "His name appears 25 times."
                     },
                     {
-                        "q": "Which Surah mentions the word \u0027Huzn\u0027 (Sorrow) regarding the Prophet (PBUH)?",
+                        "q": "Which Surah mentions the word 'Huzn' (Sorrow) regarding the Prophet (PBUH)?",
                         "options": [
                             "Surah Ad-Duha",
                             "Surah Ash-Sharh",
@@ -1251,7 +1251,7 @@
                         "explanation": "These Surahs were revealed to comfort the Prophet (PBUH) during difficult times."
                     },
                     {
-                        "q": "What is the meaning of \u0027Al-Qari\u0027ah\u0027?",
+                        "q": "What is the meaning of 'Al-Qari'ah'?",
                         "options": [
                             "The Striking Calamity",
                             "The Eternal",
@@ -1259,10 +1259,10 @@
                             "The Wise"
                         ],
                         "answer": 0,
-                        "explanation": "Al-Qari\u0027ah refers to the shock of the Day of Judgment."
+                        "explanation": "Al-Qari'ah refers to the shock of the Day of Judgment."
                     },
                     {
-                        "q": "Which Surah mentions the \u0027Spider\u0027s House\u0027 as the weakest of houses?",
+                        "q": "Which Surah mentions the 'Spider's House' as the weakest of houses?",
                         "options": [
                             "Surah Al-Ankabut",
                             "Surah An-Naml",
@@ -1273,12 +1273,12 @@
                         "explanation": "Surah Al-Ankabut (The Spider) uses this as a metaphor for trusting in other than Allah."
                     },
                     {
-                        "q": "In which Surah is the \u0027Victory\u0027 (Al-Fath) of Hudaibiya celebrated?",
+                        "q": "In which Surah is the 'Victory' (Al-Fath) of Hudaibiya celebrated?",
                         "options": [
                             "Surah Al-Fath",
                             "Surah An-Nasr",
                             "Surah Al-Baqarah",
-                            "Surah Al-Ma\u0027idah"
+                            "Surah Al-Ma'idah"
                         ],
                         "answer": 0,
                         "explanation": "Surah Al-Fath was revealed on the way back from Hudaibiya."
@@ -1322,10 +1322,10 @@
                             "Surah Al-Muddaththir",
                             "Surah Al-Mulk",
                             "Surah Al-Fatiha",
-                            "Surah Al-An\u0027am"
+                            "Surah Al-An'am"
                         ],
                         "answer": 3,
-                        "explanation": "Surah Al-An\u0027am was revealed in Makkah all at once, accompanied by 70,000 angels."
+                        "explanation": "Surah Al-An'am was revealed in Makkah all at once, accompanied by 70,000 angels."
                     },
                     {
                         "q": "Which insect has a Surah named after it?",
@@ -1347,7 +1347,7 @@
                             "Al-Falaq"
                         ],
                         "answer": 1,
-                        "explanation": "The Quran ends with the word \u0027Wan-Nas\u0027 (and mankind) at the end of Surah An-Nas."
+                        "explanation": "The Quran ends with the word 'Wan-Nas' (and mankind) at the end of Surah An-Nas."
                     },
                     {
                         "q": "Over what period of time was the entire Quran revealed?",
@@ -1358,15 +1358,15 @@
                             "25 years"
                         ],
                         "answer": 2,
-                        "explanation": "The Quran was revealed gradually over a period of approximately 23 years during the Prophet\u0027s (PBUH) mission."
+                        "explanation": "The Quran was revealed gradually over a period of approximately 23 years during the Prophet's (PBUH) mission."
                     },
                     {
-                        "q": "Which Surah has two \u0027Sajdahs\u0027 (prostrations)?",
+                        "q": "Which Surah has two 'Sajdahs' (prostrations)?",
                         "options": [
                             "Surah Al-Hajj",
-                            "Surah Al-An\u0027am",
+                            "Surah Al-An'am",
                             "Surah An-Nisa",
-                            "Surah Ar-Ra\u0027d"
+                            "Surah Ar-Ra'd"
                         ],
                         "answer": 0,
                         "explanation": "Surah Al-Hajj is unique as it contains two instances where prostration (Sajdah) is performed upon recitation."
@@ -1394,7 +1394,7 @@
                         "explanation": "The Quran is divided into 30 equal parts called Juz (Para) to facilitate recitation and memorization."
                     },
                     {
-                        "q": "The word \u0027Walyatalattaf\u0027 in Surah Al-Kahf (Verse 19) is mathematically the midpoint word of the entire Quran.",
+                        "q": "The word 'Walyatalattaf' in Surah Al-Kahf (Verse 19) is mathematically the midpoint word of the entire Quran.",
                         "options": [
                             "Bismillah",
                             "Walyatalattaf",
@@ -1402,7 +1402,7 @@
                             "Al-Malik"
                         ],
                         "answer": 1,
-                        "explanation": "The word \u0027Walyatalattaf\u0027 in Surah Al-Kahf (Verse 19) is mathematically the midpoint word of the entire Quran."
+                        "explanation": "The word 'Walyatalattaf' in Surah Al-Kahf (Verse 19) is mathematically the midpoint word of the entire Quran."
                     },
                     {
                         "q": "Which Surah is named after a metal?",
@@ -1413,7 +1413,7 @@
                             "Surah Al-Nahl"
                         ],
                         "answer": 0,
-                        "explanation": "Surah Al-Hadid means \u0027The Iron\u0027."
+                        "explanation": "Surah Al-Hadid means 'The Iron'."
                     },
                     {
                         "q": "What is the total number of verses (Ayats) in the Quran?",
@@ -1427,7 +1427,7 @@
                         "explanation": "According to the most common counting, there are 6236 verses."
                     },
                     {
-                        "q": "Which Prophet is known as \u0027Khalilullah\u0027 (Friend of Allah)?",
+                        "q": "Which Prophet is known as 'Khalilullah' (Friend of Allah)?",
                         "options": [
                             "Prophet Musa (AS)",
                             "Prophet Ibrahim (AS)",
@@ -1438,7 +1438,7 @@
                         "explanation": "Prophet Ibrahim (AS) was given this title due to his immense devotion."
                     },
                     {
-                        "q": "Which Surah is called \u0027Aroos-ul-Quran\u0027 (The Bride of the Quran)?",
+                        "q": "Which Surah is called 'Aroos-ul-Quran' (The Bride of the Quran)?",
                         "options": [
                             "Surah Yaseen",
                             "Surah Ar-Rahman",
@@ -1449,7 +1449,7 @@
                         "explanation": "Surah Ar-Rahman is called the bride of the Quran for its beautiful language and description of blessings."
                     },
                     {
-                        "q": "How many Surahs in the Quran start with \u0027Al-Hamdulillah\u0027?",
+                        "q": "How many Surahs in the Quran start with 'Al-Hamdulillah'?",
                         "options": [
                             "3",
                             "5",
@@ -1457,7 +1457,7 @@
                             "10"
                         ],
                         "answer": 1,
-                        "explanation": "Five Surahs: Al-Fatiha, Al-An\u0027am, Al-Kahf, Saba, and Fatir."
+                        "explanation": "Five Surahs: Al-Fatiha, Al-An'am, Al-Kahf, Saba, and Fatir."
                     },
                     {
                         "q": "Which Surah is named after a Prophet?",
@@ -1504,7 +1504,7 @@
                         "explanation": "Angel Jibreel (AS) brought the divine messages to all Prophets."
                     },
                     {
-                        "q": "What is the meaning of the word \u0027Al-Furqan\u0027?",
+                        "q": "What is the meaning of the word 'Al-Furqan'?",
                         "options": [
                             "The Guidance",
                             "The Criterion (between right and wrong)",
@@ -1526,7 +1526,7 @@
                         "explanation": "Surah Al-Fatiha is the opening chapter of the Quran."
                     },
                     {
-                        "q": "In which Surah is the \u0027Ayat-ul-Kursi\u0027 located?",
+                        "q": "In which Surah is the 'Ayat-ul-Kursi' located?",
                         "options": [
                             "Surah Al-Baqarah",
                             "Surah Al-Imran",
@@ -1548,7 +1548,7 @@
                         "explanation": "Surah An-Naml contains an additional Bismillah in verse 30."
                     },
                     {
-                        "q": "Which Surah is known as the \u0027Surah of Blessings\u0027?",
+                        "q": "Which Surah is known as the 'Surah of Blessings'?",
                         "options": [
                             "Surah Ar-Rahman",
                             "Surah Al-Waqiah",
@@ -1603,7 +1603,7 @@
                         "explanation": "Surah Maryam is named after the mother of Prophet Isa (AS)."
                     },
                     {
-                        "q": "How many times is the word \u0027Allah\u0027 mentioned in the Quran?",
+                        "q": "How many times is the word 'Allah' mentioned in the Quran?",
                         "options": [
                             "2698",
                             "1500",
@@ -1611,7 +1611,7 @@
                             "114"
                         ],
                         "answer": 0,
-                        "explanation": "The name \u0027Allah\u0027 is mentioned approximately 2698 times."
+                        "explanation": "The name 'Allah' is mentioned approximately 2698 times."
                     },
                     {
                         "q": "Which Prophet is mentioned the most in the Quran?",
@@ -1625,7 +1625,7 @@
                         "explanation": "Prophet Musa (AS) is mentioned 136 times."
                     },
                     {
-                        "q": "Which Surah is named after the \u0027Consultation\u0027?",
+                        "q": "Which Surah is named after the 'Consultation'?",
                         "options": [
                             "Surah Ash-Shura",
                             "Surah Al-Baqarah",
@@ -1636,7 +1636,7 @@
                         "explanation": "Ash-Shura means consultation."
                     },
                     {
-                        "q": "How many times is \u0027Bismillah ir-Rahman ir-Rahim\u0027 written in the Quran?",
+                        "q": "How many times is 'Bismillah ir-Rahman ir-Rahim' written in the Quran?",
                         "options": [
                             "113",
                             "114",
@@ -1647,7 +1647,7 @@
                         "explanation": "It appears 114 times (once missing in At-Tawbah, twice in An-Naml)."
                     },
                     {
-                        "q": "Which Surah is known as the \u0027Beauty of the Quran\u0027?",
+                        "q": "Which Surah is known as the 'Beauty of the Quran'?",
                         "options": [
                             "Surah Yaseen",
                             "Surah Ar-Rahman",
@@ -1658,7 +1658,7 @@
                         "explanation": "Surah Ar-Rahman is often called the beauty/bride of the Quran."
                     },
                     {
-                        "q": "What is the literal meaning of \u0027Al-Quran\u0027?",
+                        "q": "What is the literal meaning of 'Al-Quran'?",
                         "options": [
                             "The Book",
                             "The Recitation",
@@ -1666,21 +1666,21 @@
                             "The Message"
                         ],
                         "answer": 1,
-                        "explanation": "Quran comes from \u0027Qara\u0027a\u0027 which means to read or recite."
+                        "explanation": "Quran comes from 'Qara'a' which means to read or recite."
                     },
                     {
                         "q": "Which Surah discusses the inheritance laws in great detail?",
                         "options": [
                             "Surah Al-Baqarah",
                             "Surah An-Nisa",
-                            "Surah Al-Ma\u0027idah",
+                            "Surah Al-Ma'idah",
                             "Surah Al-Imran"
                         ],
                         "answer": 1,
                         "explanation": "Surah An-Nisa (The Women) contains the primary laws of inheritance."
                     },
                     {
-                        "q": "How many Surahs start with the disconnected letters (Muqatta\u0027at)?",
+                        "q": "How many Surahs start with the disconnected letters (Muqatta'at)?",
                         "options": [
                             "25",
                             "29",
@@ -1691,7 +1691,7 @@
                         "explanation": "29 Surahs begin with letters like Alif-Lam-Mim."
                     },
                     {
-                        "q": "Which Surah is called the \u0027Mother of the Book\u0027?",
+                        "q": "Which Surah is called the 'Mother of the Book'?",
                         "options": [
                             "Surah Al-Baqarah",
                             "Surah Al-Imran",
@@ -1713,7 +1713,7 @@
                         "explanation": "The revelation began in the blessed month of Ramadan."
                     },
                     {
-                        "q": "Which Surah is named after \u0027The Bee\u0027?",
+                        "q": "Which Surah is named after 'The Bee'?",
                         "options": [
                             "Surah An-Nahl",
                             "Surah An-Naml",
@@ -1724,7 +1724,7 @@
                         "explanation": "Surah An-Nahl means the Bee."
                     },
                     {
-                        "q": "Which Prophet\u0027s story is called \u0027The Best of Stories\u0027 (Ahsan-al-Qasas)?",
+                        "q": "Which Prophet's story is called 'The Best of Stories' (Ahsan-al-Qasas)?",
                         "options": [
                             "Prophet Musa",
                             "Prophet Yusuf",
@@ -1735,7 +1735,7 @@
                         "explanation": "Surah Yusuf is referred to as the most beautiful story."
                     },
                     {
-                        "q": "Which Surah is named after \u0027The Elephant\u0027?",
+                        "q": "Which Surah is named after 'The Elephant'?",
                         "options": [
                             "Surah Al-Fil",
                             "Surah Al-Baqarah",
@@ -1743,7 +1743,7 @@
                             "Surah Al-Asr"
                         ],
                         "answer": 0,
-                        "explanation": "Surah Al-Fil refers to Abrahah\u0027s army of elephants."
+                        "explanation": "Surah Al-Fil refers to Abrahah's army of elephants."
                     },
                     {
                         "q": "How many Makki Surahs are there?",
@@ -1757,15 +1757,15 @@
                         "explanation": "86 Surahs were revealed in Makkah."
                     },
                     {
-                        "q": "Which Surah is named after \u0027The Table Spread\u0027?",
+                        "q": "Which Surah is named after 'The Table Spread'?",
                         "options": [
-                            "Surah Al-Ma\u0027idah",
-                            "Surah Al-An\u0027am",
-                            "Surah Al-A\u0027raf",
+                            "Surah Al-Ma'idah",
+                            "Surah Al-An'am",
+                            "Surah Al-A'raf",
                             "Surah Al-Imran"
                         ],
                         "answer": 0,
-                        "explanation": "Al-Ma\u0027idah refers to the table of food requested by the disciples of Isa (AS)."
+                        "explanation": "Al-Ma'idah refers to the table of food requested by the disciples of Isa (AS)."
                     },
                     {
                         "q": "Who was the companion mentioned by name in the Quran?",
@@ -1779,7 +1779,7 @@
                         "explanation": "Zaid bin Harithah (RA) is the only companion mentioned by name in Surah Al-Ahzab."
                     },
                     {
-                        "q": "What is the meaning of \u0027Surah Al-Falaq\u0027?",
+                        "q": "What is the meaning of 'Surah Al-Falaq'?",
                         "options": [
                             "The Dawn",
                             "The Daybreak",
@@ -1790,10 +1790,10 @@
                         "explanation": "Al-Falaq means Daybreak or Dawn."
                     },
                     {
-                        "q": "Which Surah is named after \u0027The Iron\u0027?",
+                        "q": "Which Surah is named after 'The Iron'?",
                         "options": [
                             "Surah Al-Hadid",
-                            "Surah Al-Ma\u0027un",
+                            "Surah Al-Ma'un",
                             "Surah Al-Kafirun",
                             "Surah Al-Mulk"
                         ],
@@ -1812,11 +1812,11 @@
                         "explanation": "There are 14 obligatory bows of recitation (Sajdah Tilawat)."
                     },
                     {
-                        "q": "Which Surah is named after \u0027The Cow\u0027?",
+                        "q": "Which Surah is named after 'The Cow'?",
                         "options": [
                             "Surah Al-Fil",
                             "Surah Al-Baqarah",
-                            "Surah Al-An\u0027am",
+                            "Surah Al-An'am",
                             "Surah Al-Kahf"
                         ],
                         "answer": 1,
@@ -1834,7 +1834,7 @@
                         "explanation": "It was in the Cave of Hira on Jabal al-Noor."
                     },
                     {
-                        "q": "Which Surah is named after \u0027The Cave\u0027?",
+                        "q": "Which Surah is named after 'The Cave'?",
                         "options": [
                             "Surah Al-Fil",
                             "Surah Al-Kahf",
@@ -1867,7 +1867,7 @@
                         "explanation": "The middle portion of Surah Al-Imran discusses Uhud."
                     },
                     {
-                        "q": "How many times is Prophet Muhammad (PBUH) mentioned as \u0027Ahmad\u0027?",
+                        "q": "How many times is Prophet Muhammad (PBUH) mentioned as 'Ahmad'?",
                         "options": [
                             "0",
                             "1",
@@ -1878,18 +1878,18 @@
                         "explanation": "The name Ahmad is mentioned once in Surah As-Saff."
                     },
                     {
-                        "q": "Which Surah is named after \u0027The Heights\u0027?",
+                        "q": "Which Surah is named after 'The Heights'?",
                         "options": [
-                            "Surah Al-A\u0027raf",
+                            "Surah Al-A'raf",
                             "Surah Al-Mulk",
                             "Surah Al-Kahf",
                             "Surah Yaseen"
                         ],
                         "answer": 0,
-                        "explanation": "Al-A\u0027raf refers to the barrier between Paradise and Hell."
+                        "explanation": "Al-A'raf refers to the barrier between Paradise and Hell."
                     },
                     {
-                        "q": "Which Surah is known for mentioning the \u0027Haqq-ul-Yaheen\u0027?",
+                        "q": "Which Surah is known for mentioning the 'Haqq-ul-Yaheen'?",
                         "options": [
                             "Surah Al-Waqiah",
                             "Surah Al-Haqqah",
@@ -1908,21 +1908,21 @@
                             "The Crow"
                         ],
                         "answer": 1,
-                        "explanation": "It describes the defense of the Kaaba against Abrahah\u0027s elephants."
+                        "explanation": "It describes the defense of the Kaaba against Abrahah's elephants."
                     },
                     {
-                        "q": "Which Surah is named after \u0027The Thunder\u0027?",
+                        "q": "Which Surah is named after 'The Thunder'?",
                         "options": [
-                            "Surah Ar-Ra\u0027d",
+                            "Surah Ar-Ra'd",
                             "Surah Al-Mulk",
                             "Surah An-Nur",
                             "Surah An-Najm"
                         ],
                         "answer": 0,
-                        "explanation": "Ar-Ra\u0027d means the Thunder."
+                        "explanation": "Ar-Ra'd means the Thunder."
                     },
                     {
-                        "q": "Which Surah is named after \u0027The Light\u0027?",
+                        "q": "Which Surah is named after 'The Light'?",
                         "options": [
                             "Surah An-Nur",
                             "Surah An-Najm",
@@ -1933,7 +1933,7 @@
                         "explanation": "An-Nur contains the famous Verse of Light."
                     },
                     {
-                        "q": "Which Surah is named after \u0027The Star\u0027?",
+                        "q": "Which Surah is named after 'The Star'?",
                         "options": [
                             "Surah An-Nur",
                             "Surah An-Najm",
@@ -1944,7 +1944,7 @@
                         "explanation": "An-Najm means the Star."
                     },
                     {
-                        "q": "Which Surah is named after \u0027The Moon\u0027?",
+                        "q": "Which Surah is named after 'The Moon'?",
                         "options": [
                             "Surah Al-Qamar",
                             "Surah Ash-Shams",
@@ -1955,7 +1955,7 @@
                         "explanation": "Al-Qamar refers to the miracle of the splitting of the moon."
                     },
                     {
-                        "q": "Which Surah is named after \u0027The Sun\u0027?",
+                        "q": "Which Surah is named after 'The Sun'?",
                         "options": [
                             "Surah Ash-Shams",
                             "Surah Al-Lail",
@@ -1966,7 +1966,7 @@
                         "explanation": "Ash-Shams follows the Sun through its stages."
                     },
                     {
-                        "q": "Which Surah is named after \u0027The Night\u0027?",
+                        "q": "Which Surah is named after 'The Night'?",
                         "options": [
                             "Surah Al-Lail",
                             "Surah Al-Asr",
@@ -1977,7 +1977,7 @@
                         "explanation": "Al-Lail means the Night."
                     },
                     {
-                        "q": "Which Surah is known as \u0027The Proof\u0027?",
+                        "q": "Which Surah is known as 'The Proof'?",
                         "options": [
                             "Surah Al-Bayyinah",
                             "Surah Al-Kafirun",
@@ -1988,10 +1988,10 @@
                         "explanation": "Al-Bayyinah means the Clear Proof."
                     },
                     {
-                        "q": "Which Surah is named after \u0027The Earthquake\u0027?",
+                        "q": "Which Surah is named after 'The Earthquake'?",
                         "options": [
                             "Surah Az-Zalzalah",
-                            "Surah Al-Qari\u0027ah",
+                            "Surah Al-Qari'ah",
                             "Surah Al-Adiyat",
                             "Surah At-Takathur"
                         ],
@@ -1999,7 +1999,7 @@
                         "explanation": "Az-Zalzalah describes the day of judgment."
                     },
                     {
-                        "q": "Which Surah is named after \u0027The Time\u0027 / \u0027The Declining Day\u0027?",
+                        "q": "Which Surah is named after 'The Time' / 'The Declining Day'?",
                         "options": [
                             "Surah Al-Asr",
                             "Surah Al-Lail",
@@ -2010,7 +2010,7 @@
                         "explanation": "Al-Asr means time or the afternoon."
                     },
                     {
-                        "q": "Which Surah is named after \u0027The Victory\u0027?",
+                        "q": "Which Surah is named after 'The Victory'?",
                         "options": [
                             "Surah Al-Fath",
                             "Surah An-Nasr",
@@ -2021,7 +2021,7 @@
                         "explanation": "An-Nasr means Divine Support or Victory."
                     },
                     {
-                        "q": "Which Surah is named after \u0027The Emissaries\u0027?",
+                        "q": "Which Surah is named after 'The Emissaries'?",
                         "options": [
                             "Surah Al-Mursalat",
                             "Surah Al-Muda",
@@ -2032,18 +2032,18 @@
                         "explanation": "Al-Mursalat refers to those sent forth."
                     },
                     {
-                        "q": "Which Surah is called \u0027The Chapter of Divorce\u0027?",
+                        "q": "Which Surah is called 'The Chapter of Divorce'?",
                         "options": [
                             "Surah At-Talaq",
                             "Surah An-Nisa",
                             "Surah Al-Baqarah",
-                            "Surah Al-Ma\u0027idah"
+                            "Surah Al-Ma'idah"
                         ],
                         "answer": 0,
                         "explanation": "At-Talaq deals specifically with regulations of divorce."
                     },
                     {
-                        "q": "Which Surah is named after \u0027The Spider\u0027?",
+                        "q": "Which Surah is named after 'The Spider'?",
                         "options": [
                             "Surah Al-Ankabut",
                             "Surah An-Naml",
@@ -2054,7 +2054,7 @@
                         "explanation": "Al-Ankabut means the Spider."
                     },
                     {
-                        "q": "What is the meaning of the word \u0027Ayah\u0027?",
+                        "q": "What is the meaning of the word 'Ayah'?",
                         "options": [
                             "Chapter",
                             "Verse / Sign",
@@ -2062,7 +2062,7 @@
                             "Part"
                         ],
                         "answer": 1,
-                        "explanation": "An Ayah is a verse of the Quran, also meaning \u0027sign\u0027 or \u0027miracle\u0027."
+                        "explanation": "An Ayah is a verse of the Quran, also meaning 'sign' or 'miracle'."
                     },
                     {
                         "q": "How many Surahs (chapters) are there in the Holy Quran?",
@@ -2081,7 +2081,7 @@
                             "Al-Baqarah",
                             "Aal-e-Imran",
                             "An-Nisa",
-                            "Al-Ma\u0027idah"
+                            "Al-Ma'idah"
                         ],
                         "answer": 0,
                         "explanation": "Surah Al-Baqarah is the longest Surah with 286 verses."
@@ -2128,10 +2128,10 @@
                             "Bismillah"
                         ],
                         "answer": 2,
-                        "explanation": "\u0027Iqra\u0027 means \u0027Read\u0027 or \u0027Recite\u0027, the first word of Surah Al-Alaq."
+                        "explanation": "'Iqra' means 'Read' or 'Recite', the first word of Surah Al-Alaq."
                     },
                     {
-                        "q": "Which Surah is considered the \u0027Heart of the Quran\u0027?",
+                        "q": "Which Surah is considered the 'Heart of the Quran'?",
                         "options": [
                             "Surah Ya-Sin",
                             "Surah Ar-Rahman",
@@ -2153,7 +2153,7 @@
                         "explanation": "Jibraeel (AS) was entrusted with delivering the divine messages."
                     },
                     {
-                        "q": "What is the meaning of \u0027Quran\u0027?",
+                        "q": "What is the meaning of 'Quran'?",
                         "options": [
                             "The Book",
                             "That which is frequently recited",
@@ -2161,10 +2161,10 @@
                             "The Light"
                         ],
                         "answer": 1,
-                        "explanation": "Linguistically, \u0027Quran\u0027 comes from \u0027Qara\u0027a\u0027 meaning to read or recite."
+                        "explanation": "Linguistically, 'Quran' comes from 'Qara'a' meaning to read or recite."
                     },
                     {
-                        "q": "Which Surah does NOT begin with \u0027Bismillah ir-Rahman ir-Rahim\u0027?",
+                        "q": "Which Surah does NOT begin with 'Bismillah ir-Rahman ir-Rahim'?",
                         "options": [
                             "Surah Al-Anfal",
                             "Surah At-Tawbah",
@@ -2175,7 +2175,7 @@
                         "explanation": "Surah At-Tawbah is the only Surah without Bismillah at its beginning."
                     },
                     {
-                        "q": "Which Surah contains \u0027Bismillah ir-Rahman ir-Rahim\u0027 twice?",
+                        "q": "Which Surah contains 'Bismillah ir-Rahman ir-Rahim' twice?",
                         "options": [
                             "Surah Al-Baqarah",
                             "Surah An-Naml",
@@ -2183,7 +2183,7 @@
                             "Surah Al-Isra"
                         ],
                         "answer": 1,
-                        "explanation": "Surah An-Naml contains it at the start and in verse 30 (Prophet Sulaiman\u0027s letter)."
+                        "explanation": "Surah An-Naml contains it at the start and in verse 30 (Prophet Sulaiman's letter)."
                     },
                     {
                         "q": "How many Manzils (stages) are in the Quran?",
@@ -2230,7 +2230,7 @@
                         "explanation": "Maryam (AS), mother of Prophet Isa, is the only woman mentioned by name."
                     },
                     {
-                        "q": "Which Surah is known as the \u0027Mother of the Book\u0027 (Umm al-Kitab)?",
+                        "q": "Which Surah is known as the 'Mother of the Book' (Umm al-Kitab)?",
                         "options": [
                             "Al-Baqarah",
                             "Al-Ikhlas",
@@ -2307,11 +2307,11 @@
                         "explanation": "At the suggestion of Umar, Abu Bakr (RA) ordered its official compilation."
                     },
                     {
-                        "q": "Which companion was primarily responsible for writing and compiling the Quran during Abu Bakr\u0027s caliphate?",
+                        "q": "Which companion was primarily responsible for writing and compiling the Quran during Abu Bakr's caliphate?",
                         "options": [
                             "Abdullah ibn Masud",
                             "Zaid bin Thabit",
-                            "Ubayy ibn Ka\u0027b",
+                            "Ubayy ibn Ka'b",
                             "Ali ibn Abi Talib"
                         ],
                         "answer": 1,
@@ -2362,7 +2362,7 @@
                         "explanation": "Tafsir is exegesis, providing context and explanation of the verses."
                     },
                     {
-                        "q": "How many times does the word \u0027Quran\u0027 appear in the Quran itself?",
+                        "q": "How many times does the word 'Quran' appear in the Quran itself?",
                         "options": [
                             "50",
                             "60",
@@ -2370,7 +2370,7 @@
                             "100"
                         ],
                         "answer": 2,
-                        "explanation": "The exact word \u0027Quran\u0027 is mentioned 70 times."
+                        "explanation": "The exact word 'Quran' is mentioned 70 times."
                     },
                     {
                         "q": "Which Surah is named after an insect?",
@@ -2398,15 +2398,15 @@
                         "q": "What are the disjoined letters at the beginning of some Surahs called?",
                         "options": [
                             "Huroof-e-Illat",
-                            "Huroof-e-Muqatta\u0027at",
+                            "Huroof-e-Muqatta'at",
                             "Huroof-e-Qamari",
                             "Huroof-e-Shamsi"
                         ],
                         "answer": 1,
-                        "explanation": "Letters like \u0027Alif-Lam-Mim\u0027. Their true exact meaning is known only to Allah."
+                        "explanation": "Letters like 'Alif-Lam-Mim'. Their true exact meaning is known only to Allah."
                     },
                     {
-                        "q": "Which prophet\u0027s story is described as the \u0027Most Beautiful of Stories\u0027 (Ahsan-ul-Qasas) in the Quran?",
+                        "q": "Which prophet's story is described as the 'Most Beautiful of Stories' (Ahsan-ul-Qasas) in the Quran?",
                         "options": [
                             "Prophet Yusuf (AS)",
                             "Prophet Musa (AS)",
@@ -2421,7 +2421,7 @@
                         "options": [
                             "Muharram",
                             "Rajab",
-                            "Sha\u0027ban",
+                            "Sha'ban",
                             "Ramadan"
                         ],
                         "answer": 3,
@@ -2450,7 +2450,7 @@
                         "explanation": "There are 86 Makki Surahs and 28 Madani Surahs."
                     },
                     {
-                        "q": "What is the meaning of \u0027Al-Furqan\u0027, one of the names of the Quran?",
+                        "q": "What is the meaning of 'Al-Furqan', one of the names of the Quran?",
                         "options": [
                             "The Light",
                             "The Reminder",
@@ -2461,7 +2461,7 @@
                         "explanation": "It separates truth from falsehood."
                     },
                     {
-                        "q": "Which companion\u0027s name is explicitly mentioned in the Quran?",
+                        "q": "Which companion's name is explicitly mentioned in the Quran?",
                         "options": [
                             "Abu Bakr (RA)",
                             "Zaid bin Harithah (RA)",
@@ -2469,13 +2469,13 @@
                             "Ali (RA)"
                         ],
                         "answer": 1,
-                        "explanation": "Zaid\u0027s name is mentioned in Surah Al-Ahzab (33:37)."
+                        "explanation": "Zaid's name is mentioned in Surah Al-Ahzab (33:37)."
                     },
                     {
-                        "q": "Which Surah is considered the \u0027Beauty of the Quran\u0027?",
+                        "q": "Which Surah is considered the 'Beauty of the Quran'?",
                         "options": [
                             "Surah Ar-Rahman",
-                            "Surah Al-Waqi\u0027ah",
+                            "Surah Al-Waqi'ah",
                             "Surah Ya-Sin",
                             "Surah Taha"
                         ],
@@ -2499,7 +2499,7 @@
                             "Ayat-ul-Kursi",
                             "Verse 281 of Al-Baqarah",
                             "First verse of An-Nas",
-                            "Verse 3 of Al-Ma\u0027idah"
+                            "Verse 3 of Al-Ma'idah"
                         ],
                         "answer": 1,
                         "explanation": "Many scholars consider Surah Al-Baqarah Verse 281 as the absolute final revelation."
@@ -2516,7 +2516,7 @@
                         "explanation": "Al-Isra details the journey to Jerusalem, while An-Najm details the ascension."
                     },
                     {
-                        "q": "What does the word \u0027Wahy\u0027 mean?",
+                        "q": "What does the word 'Wahy' mean?",
                         "options": [
                             "Inspiration / Revelation",
                             "Book",
@@ -2527,18 +2527,18 @@
                         "explanation": "Wahy represents the divine communication from Allah."
                     },
                     {
-                        "q": "Which Surah is known as the \u0027Surah of the Prophets\u0027?",
+                        "q": "Which Surah is known as the 'Surah of the Prophets'?",
                         "options": [
                             "Surah Al-Anbiya",
                             "Surah Al-Qasas",
-                            "Surah Al-A\u0027raf",
+                            "Surah Al-A'raf",
                             "Surah As-Saffat"
                         ],
                         "answer": 0,
-                        "explanation": "\u0027Al-Anbiya\u0027 means The Prophets."
+                        "explanation": "'Al-Anbiya' means The Prophets."
                     },
                     {
-                        "q": "How many times does the name \u0027Muhammad\u0027 appear in the Quran?",
+                        "q": "How many times does the name 'Muhammad' appear in the Quran?",
                         "options": [
                             "1",
                             "4",
@@ -2546,7 +2546,7 @@
                             "10"
                         ],
                         "answer": 1,
-                        "explanation": "It appears in Al-Imran, Al-Ahzab, Muhammad, and Al-Fath. He is also called \u0027Ahmad\u0027 once."
+                        "explanation": "It appears in Al-Imran, Al-Ahzab, Muhammad, and Al-Fath. He is also called 'Ahmad' once."
                     },
                     {
                         "q": "Which relative of the Prophet (PBUH) is cursed by name in the Quran?",
@@ -2575,14 +2575,14 @@
                         "options": [
                             "Surah Ya-Sin",
                             "Surah Taha",
-                            "Surah Al-Waqi\u0027ah",
+                            "Surah Al-Waqi'ah",
                             "Surah Ar-Rahman"
                         ],
                         "answer": 1,
                         "explanation": "He heard his sister reciting Surah Taha."
                     },
                     {
-                        "q": "What is \u0027Ayat-ul-Kursi\u0027?",
+                        "q": "What is 'Ayat-ul-Kursi'?",
                         "options": [
                             "The Verse of Light",
                             "The Verse of the Throne",
@@ -2590,21 +2590,21 @@
                             "The Verse of Patience"
                         ],
                         "answer": 1,
-                        "explanation": "Found in Al-Baqarah 2:255, describing Allah\u0027s power and domain."
+                        "explanation": "Found in Al-Baqarah 2:255, describing Allah's power and domain."
                     },
                     {
-                        "q": "Which Surah is the only one to have two \u0027Bismillahs\u0027?",
+                        "q": "Which Surah is the only one to have two 'Bismillahs'?",
                         "options": [
                             "Surah An-Naml",
                             "Surah At-Tawbah",
                             "Surah Al-Baqarah",
-                            "Surah Al-A\u0027raf"
+                            "Surah Al-A'raf"
                         ],
                         "answer": 0,
                         "explanation": "Mentioned earlier; one at the top, one in verse 30."
                     },
                     {
-                        "q": "What is the meaning of \u0027Al-Fatihah\u0027?",
+                        "q": "What is the meaning of 'Al-Fatihah'?",
                         "options": [
                             "The Opening",
                             "The Ending",
@@ -2615,7 +2615,7 @@
                         "explanation": "Al-Fatihah means the Opening."
                     },
                     {
-                        "q": "Which Surah is called \u0027Heart of Quran\u0027?",
+                        "q": "Which Surah is called 'Heart of Quran'?",
                         "options": [
                             "Surah Rahman",
                             "Surah Yaseen",
@@ -2626,7 +2626,7 @@
                         "explanation": "Surah Yaseen is the Heart of the Quran."
                     },
                     {
-                        "q": "Which Surah is called \u0027Beauty of Quran\u0027?",
+                        "q": "Which Surah is called 'Beauty of Quran'?",
                         "options": [
                             "Surah Rahman",
                             "Surah Yaseen",
@@ -2645,7 +2645,7 @@
                             "Surah Anam"
                         ],
                         "answer": 1,
-                        "explanation": "Surah At-Taubah doesn\u0027t have Bismillah at the start."
+                        "explanation": "Surah At-Taubah doesn't have Bismillah at the start."
                     },
                     {
                         "q": "In which Surah is Bismillah mentioned twice?",
@@ -2700,7 +2700,7 @@
                             "Hashr"
                         ],
                         "answer": 1,
-                        "explanation": "Surah Al-Mujadila mentions \u0027Allah\u0027 in every ayah."
+                        "explanation": "Surah Al-Mujadila mentions 'Allah' in every ayah."
                     },
                     {
                         "q": "Which Surah is equivalent to one-third of the Quran?",
@@ -2736,7 +2736,7 @@
                         "explanation": "The Prophet (PBUH) was the first Hafiz."
                     },
                     {
-                        "q": "Which Prophet\u0027s name is mentioned most in the Quran?",
+                        "q": "Which Prophet's name is mentioned most in the Quran?",
                         "options": [
                             "Prophet Muhammad (PBUH)",
                             "Prophet Musa (A.S)",
@@ -2747,7 +2747,7 @@
                         "explanation": "Prophet Musa (A.S) is mentioned 136 times."
                     },
                     {
-                        "q": "Which lady\u0027s name is specifically mentioned in the Quran?",
+                        "q": "Which lady's name is specifically mentioned in the Quran?",
                         "options": [
                             "Hazrat Khadija",
                             "Hazrat Maryam",
@@ -2766,7 +2766,7 @@
                             "Bismillah"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Iqra\u0027 (Read) was the first word."
+                        "explanation": "'Iqra' (Read) was the first word."
                     },
                     {
                         "q": "Which Surah is named after a spider?",
@@ -2788,10 +2788,10 @@
                             "None"
                         ],
                         "answer": 2,
-                        "explanation": "It\u0027s mentioned in both Surahs."
+                        "explanation": "It's mentioned in both Surahs."
                     },
                     {
-                        "q": "Which Surah is called \u0027Al-Mani\u0027ah\u0027 (The Protector)?",
+                        "q": "Which Surah is called 'Al-Mani'ah' (The Protector)?",
                         "options": [
                             "Surah Yaseen",
                             "Surah Mulk",
@@ -2799,10 +2799,10 @@
                             "Surah Kahf"
                         ],
                         "answer": 1,
-                        "explanation": "Surah Al-Mulk protects from the grave\u0027s punishment."
+                        "explanation": "Surah Al-Mulk protects from the grave's punishment."
                     },
                     {
-                        "q": "How many years did it take to complete the Quran\u0027s revelation?",
+                        "q": "How many years did it take to complete the Quran's revelation?",
                         "options": [
                             "13",
                             "23",
@@ -2819,7 +2819,7 @@
                 "icon": "fa-book-open",
                 "questions": [
                     {
-                        "q": "What is the literal meaning of \u0027Hadith\u0027?",
+                        "q": "What is the literal meaning of 'Hadith'?",
                         "options": [
                             "Old news",
                             "Report or News",
@@ -2863,7 +2863,7 @@
                         "explanation": "Hazrat Aisha (RA) narrated 2,210 Hadiths and was a great scholar."
                     },
                     {
-                        "q": "What is the \u0027Sanad\u0027 of a Hadith?",
+                        "q": "What is the 'Sanad' of a Hadith?",
                         "options": [
                             "The text of the Hadith",
                             "The chain of narrators",
@@ -2874,9 +2874,9 @@
                         "explanation": "Sanad is the list of people who passed the Hadith from one to another until the Prophet (PBUH)."
                     },
                     {
-                        "q": "What is the \u0027Matn\u0027 of a Hadith?",
+                        "q": "What is the 'Matn' of a Hadith?",
                         "options": [
-                            "The narrator\u0027s name",
+                            "The narrator's name",
                             "The actual text or message of the Hadith",
                             "The level of authenticity",
                             "The date of recording"
@@ -2888,7 +2888,7 @@
                         "q": "A Hadith that has a continuous chain of reliable and precise narrators is called?",
                         "options": [
                             "Sahih (Authentic)",
-                            "Da\u0027if (Weak)",
+                            "Da'if (Weak)",
                             "Maudu (Fabricated)",
                             "Mursal"
                         ],
@@ -2896,7 +2896,7 @@
                         "explanation": "Sahih is the highest grade of authenticity in Hadith science."
                     },
                     {
-                        "q": "What is \u0027Hadith Qudsi\u0027?",
+                        "q": "What is 'Hadith Qudsi'?",
                         "options": [
                             "A Hadith about the Day of Judgment",
                             "Words of Allah narrated by the Prophet (PBUH) in his own words",
@@ -2907,7 +2907,7 @@
                         "explanation": "In Hadith Qudsi, the meaning is from Allah but the wording is from the Prophet (PBUH)."
                     },
                     {
-                        "q": "What are the \u0027Siha-e-Sitta\u0027?",
+                        "q": "What are the 'Siha-e-Sitta'?",
                         "options": [
                             "The six pillars of Iman",
                             "The six most authentic books of Hadith",
@@ -2915,10 +2915,10 @@
                             "Six great Caliphs"
                         ],
                         "answer": 1,
-                        "explanation": "Siha-e-Sitta refers to the six major collections: Bukhari, Muslim, Abu Dawood, Tirmidhi, Nasa\u0027i, and Ibn Majah."
+                        "explanation": "Siha-e-Sitta refers to the six major collections: Bukhari, Muslim, Abu Dawood, Tirmidhi, Nasa'i, and Ibn Majah."
                     },
                     {
-                        "q": "Who is the author of \u0027Al-Jami al-Sahih\u0027 (Sahih Bukhari)?",
+                        "q": "Who is the author of 'Al-Jami al-Sahih' (Sahih Bukhari)?",
                         "options": [
                             "Imam Muslim",
                             "Imam Malik",
@@ -2926,7 +2926,7 @@
                             "Imam Abu Hanifa"
                         ],
                         "answer": 2,
-                        "explanation": "Imam Bukhari\u0027s collection is considered the most authentic book after the Quran."
+                        "explanation": "Imam Bukhari's collection is considered the most authentic book after the Quran."
                     },
                     {
                         "q": "Which book of Hadith is generally placed second in authenticity after Sahih Bukhari?",
@@ -2951,10 +2951,10 @@
                         "explanation": "Imam Bukhari spent 16 years traveling and researching to compile his work."
                     },
                     {
-                        "q": "Who is the author of \u0027Al-Muwatta\u0027, one of the earliest Hadith collections?",
+                        "q": "Who is the author of 'Al-Muwatta', one of the earliest Hadith collections?",
                         "options": [
                             "Imam Malik bin Anas",
-                            "Imam Shafi\u0027i",
+                            "Imam Shafi'i",
                             "Imam Ahmad bin Hanbal",
                             "Imam Bukhari"
                         ],
@@ -2964,7 +2964,7 @@
                     {
                         "q": "What is the term for a fabricated or forged Hadith?",
                         "options": [
-                            "Da\u0027if",
+                            "Da'if",
                             "Maudu",
                             "Hasan",
                             "Sahih"
@@ -2984,10 +2984,10 @@
                         "explanation": "Mutawatir Hadiths provide certain knowledge due to the massive number of narrators."
                     },
                     {
-                        "q": "Which scholar compiled \u0027Jami at-Tirmidhi\u0027 and is famous for classifying Hadiths into Sahih, Hasan, and Da\u0027if?",
+                        "q": "Which scholar compiled 'Jami at-Tirmidhi' and is famous for classifying Hadiths into Sahih, Hasan, and Da'if?",
                         "options": [
                             "Imam Abu Dawood",
-                            "Imam Nasa\u0027i",
+                            "Imam Nasa'i",
                             "Imam Muhammad bin Isa at-Tirmidhi",
                             "Imam Ibn Majah"
                         ],
@@ -3006,7 +3006,7 @@
                         "explanation": "He was born in Bukhara, in modern-day Uzbekistan."
                     },
                     {
-                        "q": "What is \u0027Sunnah\u0027 in relation to Hadith?",
+                        "q": "What is 'Sunnah' in relation to Hadith?",
                         "options": [
                             "Only the sayings of the Prophet",
                             "Only the silent approvals",
@@ -3050,7 +3050,7 @@
                         "explanation": "Mauquf refers to sayings or actions of the Sahaba themselves."
                     },
                     {
-                        "q": "A report that is traced back to a Successor (Tabi\u0027i) is called?",
+                        "q": "A report that is traced back to a Successor (Tabi'i) is called?",
                         "options": [
                             "Marfu",
                             "Mauquf",
@@ -3058,10 +3058,10 @@
                             "Sahih"
                         ],
                         "answer": 2,
-                        "explanation": "Maqtu refers to statements or actions of the Tabi\u0027un."
+                        "explanation": "Maqtu refers to statements or actions of the Tabi'un."
                     },
                     {
-                        "q": "Who is a \u0027Sahabi\u0027?",
+                        "q": "Who is a 'Sahabi'?",
                         "options": [
                             "Anyone who was born in Makkah",
                             "One who met the Prophet (PBUH) as a Muslim and died as a Muslim",
@@ -3072,7 +3072,7 @@
                         "explanation": "A Companion must have seen/met the Prophet (PBUH) in a state of faith."
                     },
                     {
-                        "q": "Who is a \u0027Tabi\u0027i\u0027?",
+                        "q": "Who is a 'Tabi'i'?",
                         "options": [
                             "A person who met the Prophet",
                             "A person who met a Sahabi in a state of faith and died as a Muslim",
@@ -3080,7 +3080,7 @@
                             "A non-Muslim narrator"
                         ],
                         "answer": 1,
-                        "explanation": "Tabi\u0027un are the generation that followed the Sahaba."
+                        "explanation": "Tabi'un are the generation that followed the Sahaba."
                     },
                     {
                         "q": "Which book is known for focusing heavily on legal/Fiqh-related Hadiths?",
@@ -3091,10 +3091,10 @@
                             "Sahih Bukhari"
                         ],
                         "answer": 1,
-                        "explanation": "Imam Abu Dawood\u0027s Sunan is highly valued by jurists (Fuqaha)."
+                        "explanation": "Imam Abu Dawood's Sunan is highly valued by jurists (Fuqaha)."
                     },
                     {
-                        "q": "What is the meaning of \u0027Gharib\u0027 Hadith?",
+                        "q": "What is the meaning of 'Gharib' Hadith?",
                         "options": [
                             "A strange narration",
                             "A Hadith narrated by only one person in its chain",
@@ -3105,10 +3105,10 @@
                         "explanation": "Gharib refers to a narration that has only one narrator at some point in the Sanad."
                     },
                     {
-                        "q": "Which scholar\u0027s \u0027Musnad\u0027 contains nearly 30,000 Hadiths?",
+                        "q": "Which scholar's 'Musnad' contains nearly 30,000 Hadiths?",
                         "options": [
                             "Imam Malik",
-                            "Imam Shafi\u0027i",
+                            "Imam Shafi'i",
                             "Imam Ahmad bin Hanbal",
                             "Imam Abu Hanifa"
                         ],
@@ -3116,7 +3116,7 @@
                         "explanation": "Musnad Ahmad is one of the largest and most famous encyclopedic collections."
                     },
                     {
-                        "q": "Is a \u0027Da\u0027if\u0027 (Weak) Hadith considered a lie?",
+                        "q": "Is a 'Da'if' (Weak) Hadith considered a lie?",
                         "options": [
                             "Yes, always",
                             "No, it just means there is a gap or weakness in the chain/narrator",
@@ -3124,10 +3124,10 @@
                             "It is only used by poets"
                         ],
                         "answer": 1,
-                        "explanation": "Weakness doesn\u0027t necessarily mean it\u0027s false, but it\u0027s not strong enough for establishing major laws."
+                        "explanation": "Weakness doesn't necessarily mean it's false, but it's not strong enough for establishing major laws."
                     },
                     {
-                        "q": "The collection \u0027Riyad us-Saliheen\u0027 (The Meadows of the Righteous) was compiled by?",
+                        "q": "The collection 'Riyad us-Saliheen' (The Meadows of the Righteous) was compiled by?",
                         "options": [
                             "Imam Bukhari",
                             "Imam Nawawi",
@@ -3138,7 +3138,7 @@
                         "explanation": "Imam an-Nawawi compiled this popular thematic collection of authentic Hadiths."
                     },
                     {
-                        "q": "What is \u0027Ilal al-Hadith\u0027?",
+                        "q": "What is 'Ilal al-Hadith'?",
                         "options": [
                             "The study of hidden defects in Hadiths",
                             "The study of easy Hadiths",
@@ -3149,12 +3149,12 @@
                         "explanation": "Ilal is a deep science detecting subtle errors that might escape primary inspection."
                     },
                     {
-                        "q": "Which book is called \u0027The Sahihayn\u0027?",
+                        "q": "Which book is called 'The Sahihayn'?",
                         "options": [
                             "Bukhari and Tirmidhi",
                             "Bukhari and Muslim",
                             "Muslim and Abu Dawood",
-                            "Nasa\u0027i and Ibn Majah"
+                            "Nasa'i and Ibn Majah"
                         ],
                         "answer": 1,
                         "explanation": "Bukhari and Muslim are together referred to as the two Sahihs."
@@ -3171,21 +3171,21 @@
                         "explanation": "He was extremely selective to ensure only the highest authenticity."
                     },
                     {
-                        "q": "Which Hadith collection is specially known for having the fewest \u0027Da\u0027if\u0027 (weak) narrations after the Sahihayn?",
+                        "q": "Which Hadith collection is specially known for having the fewest 'Da'if' (weak) narrations after the Sahihayn?",
                         "options": [
                             "Sunan Ibn Majah",
-                            "Sunan an-Nasa\u0027i",
+                            "Sunan an-Nasa'i",
                             "Sunan Abu Dawood",
                             "Musnad Ahmad"
                         ],
                         "answer": 1,
-                        "explanation": "Imam Nasa\u0027i had very strict criteria for his narrators."
+                        "explanation": "Imam Nasa'i had very strict criteria for his narrators."
                     },
                     {
-                        "q": "What is \u0027Mursal\u0027 Hadith?",
+                        "q": "What is 'Mursal' Hadith?",
                         "options": [
                             "A Hadith with a broken start",
-                            "A Hadith where a Tabi\u0027i quotes the Prophet directly, missing the Sahabi",
+                            "A Hadith where a Tabi'i quotes the Prophet directly, missing the Sahabi",
                             "A Hadith about travel",
                             "A Hadith with no text"
                         ],
@@ -3193,7 +3193,7 @@
                         "explanation": "It is a type of broken chain where the intermediate link (Sahabi) is omitted."
                     },
                     {
-                        "q": "Who was the \u0027Secretary of the Prophet\u0027 who played a key role in documenting revelations and Hadith?",
+                        "q": "Who was the 'Secretary of the Prophet' who played a key role in documenting revelations and Hadith?",
                         "options": [
                             "Hazrat Khalid bin Walid",
                             "Hazrat Zaid bin Thabit (RA)",
@@ -3219,14 +3219,14 @@
                         "options": [
                             "Imam Abu Hanifa",
                             "Imam Malik",
-                            "Imam Shafi\u0027i",
+                            "Imam Shafi'i",
                             "Imam Ahmad"
                         ],
                         "answer": 2,
-                        "explanation": "Imam Shafi\u0027i is the founder of the Shafi\u0027i school and wrote \u0027Al-Risala\u0027."
+                        "explanation": "Imam Shafi'i is the founder of the Shafi'i school and wrote 'Al-Risala'."
                     },
                     {
-                        "q": "What is \u0027Hadith al-Mashhur\u0027?",
+                        "q": "What is 'Hadith al-Mashhur'?",
                         "options": [
                             "A famous Hadith",
                             "A Hadith narrated by at least three people at every level of the chain",
@@ -3237,7 +3237,7 @@
                         "explanation": "It is a grade of popularity (Tawatur) below fully Mutawatir but above Aziz."
                     },
                     {
-                        "q": "What is \u0027Ijazah\u0027 in the context of Hadith?",
+                        "q": "What is 'Ijazah' in the context of Hadith?",
                         "options": [
                             "Permission to narrate Hadiths from a teacher",
                             "A gift given to students",
@@ -3259,7 +3259,7 @@
                         "explanation": "The Prophet (PBUH) reviewed the Quran with Angel Jibreel every Ramadan."
                     },
                     {
-                        "q": "What is \u0027Aadaab al-Hadith\u0027?",
+                        "q": "What is 'Aadaab al-Hadith'?",
                         "options": [
                             "History of Hadith",
                             "Etiquettes of narrating and listening to Hadith",
@@ -3267,10 +3267,10 @@
                             "Laws of trade"
                         ],
                         "answer": 1,
-                        "explanation": "It involves the respect and focus required when dealing with the Prophet\u0027s words."
+                        "explanation": "It involves the respect and focus required when dealing with the Prophet's words."
                     },
                     {
-                        "q": "Which Companion was known as \u0027The Scholar of this Ummah\u0027?",
+                        "q": "Which Companion was known as 'The Scholar of this Ummah'?",
                         "options": [
                             "Hazrat Ibn Abbas (RA)",
                             "Hazrat Ibn Masud (RA)",
@@ -3281,7 +3281,7 @@
                         "explanation": "Hazrat Abdullah ibn Abbas (RA) was famous for his knowledge of Tafsir and Hadith."
                     },
                     {
-                        "q": "What is \u0027Nasikh and Mansukh\u0027 in Hadith?",
+                        "q": "What is 'Nasikh and Mansukh' in Hadith?",
                         "options": [
                             "The Abrogating and the Abrogated (later rules replacing earlier ones)",
                             "True and False",
@@ -3292,7 +3292,7 @@
                         "explanation": "It deals with the chronological order of commands."
                     },
                     {
-                        "q": "Imam Muslim\u0027s \u0027Sahih\u0027 is especially famous for?",
+                        "q": "Imam Muslim's 'Sahih' is especially famous for?",
                         "options": [
                             "Its beautiful poetry",
                             "Its excellent organization and thematic grouping of Hadiths",
@@ -3303,7 +3303,7 @@
                         "explanation": "Imam Muslim kept various versions of a Hadith together, making it easy to compare."
                     },
                     {
-                        "q": "What is \u0027Muttafaqun Alayh\u0027?",
+                        "q": "What is 'Muttafaqun Alayh'?",
                         "options": [
                             "A Hadith agreed upon by everyone in the world",
                             "A Hadith recorded by both Bukhari and Muslim in their Sahihs",
@@ -3311,10 +3311,10 @@
                             "A very old Hadith"
                         ],
                         "answer": 1,
-                        "explanation": "It means \u0027Agreed Upon\u0027 by the two most authentic collectors."
+                        "explanation": "It means 'Agreed Upon' by the two most authentic collectors."
                     },
                     {
-                        "q": "The book \u0027Mishkat al-Masabih\u0027 is?",
+                        "q": "The book 'Mishkat al-Masabih' is?",
                         "options": [
                             "A biography of the Prophet",
                             "A thematic compilation of Hadiths from various sources",
@@ -3336,7 +3336,7 @@
                         "explanation": "Imam Bukhari studied under many giants, including Ahmad and Ishaq."
                     },
                     {
-                        "q": "Which Hijri century is known as the \u0027Golden Age\u0027 of Hadith compilation?",
+                        "q": "Which Hijri century is known as the 'Golden Age' of Hadith compilation?",
                         "options": [
                             "1st Century",
                             "2nd Century",
@@ -3408,15 +3408,15 @@
                         "explanation": "Marwan II was defeated by the Abbasids at the Battle of the Zab in 750 AD."
                     },
                     {
-                        "q": "Which Abbasid Caliph is famously associated with the \u0027House of Wisdom\u0027 (Bayt al-Hikmah)?",
+                        "q": "Which Abbasid Caliph is famously associated with the 'House of Wisdom' (Bayt al-Hikmah)?",
                         "options": [
                             "Al-Mansur",
                             "Harun al-Rashid",
-                            "Al-Ma\u0027mun",
+                            "Al-Ma'mun",
                             "Al-Mutawakkil"
                         ],
                         "answer": 2,
-                        "explanation": "Al-Ma\u0027mun grandly expanded the Bayt al-Hikmah, sponsoring the translation of classical knowledge."
+                        "explanation": "Al-Ma'mun grandly expanded the Bayt al-Hikmah, sponsoring the translation of classical knowledge."
                     },
                     {
                         "q": "Who was the legendary Kurdish commander who recaptured Jerusalem in 1187?",
@@ -3518,7 +3518,7 @@
                         "explanation": "Isfahan became the splendid capital of the Safavids under Shah Abbas I."
                     },
                     {
-                        "q": "Which Muslim scholar is known as the \u0027Father of Sociology\u0027 and wrote the Muqaddimah?",
+                        "q": "Which Muslim scholar is known as the 'Father of Sociology' and wrote the Muqaddimah?",
                         "options": [
                             "Al-Kindi",
                             "Ibn Khaldun",
@@ -3526,7 +3526,7 @@
                             "Ibn Rushd"
                         ],
                         "answer": 1,
-                        "explanation": "Ibn Khaldun\u0027s Muqaddimah is a foundational text in sociology and historiography."
+                        "explanation": "Ibn Khaldun's Muqaddimah is a foundational text in sociology and historiography."
                     },
                     {
                         "q": "Who is famous for his travels across the Islamic world and beyond in the 14th century?",
@@ -3551,7 +3551,7 @@
                         "explanation": "The Abbasid era saw immense flourishing of science, culture, and philosophy."
                     },
                     {
-                        "q": "Who was the greatest physician of the Islamic Golden Age, author of \u0027The Canon of Medicine\u0027?",
+                        "q": "Who was the greatest physician of the Islamic Golden Age, author of 'The Canon of Medicine'?",
                         "options": [
                             "Al-Razi",
                             "Ibn Sina",
@@ -3562,7 +3562,7 @@
                         "explanation": "Ibn Sina (Avicenna) wrote the Canon, a standard medical text in Europe for centuries."
                     },
                     {
-                        "q": "Which Muslim mathematician is considered the \u0027Father of Algebra\u0027?",
+                        "q": "Which Muslim mathematician is considered the 'Father of Algebra'?",
                         "options": [
                             "Omar Khayyam",
                             "Al-Biruni",
@@ -3570,7 +3570,7 @@
                             "Nasir al-Din al-Tusi"
                         ],
                         "answer": 2,
-                        "explanation": "Al-Khwarizmi\u0027s book Al-Jabr gave the world the term algebra."
+                        "explanation": "Al-Khwarizmi's book Al-Jabr gave the world the term algebra."
                     },
                     {
                         "q": "Who was the famous female ruler of the Delhi Sultanate?",
@@ -3727,7 +3727,7 @@
                         "explanation": "Uqba bin Nafi founded Kairouan in modern-day Tunisia in 670 AD."
                     },
                     {
-                        "q": "Which Ottoman Sultan is known as \u0027The Magnificent\u0027 in the West and \u0027The Lawgiver\u0027 in the East?",
+                        "q": "Which Ottoman Sultan is known as 'The Magnificent' in the West and 'The Lawgiver' in the East?",
                         "options": [
                             "Mehmed II",
                             "Selim I",
@@ -3735,7 +3735,7 @@
                             "Abdul Hamid II"
                         ],
                         "answer": 2,
-                        "explanation": "Suleiman the Magnificent ruled during the apex of the Ottoman Empire\u0027s power."
+                        "explanation": "Suleiman the Magnificent ruled during the apex of the Ottoman Empire's power."
                     },
                     {
                         "q": "The Battle of Lepanto in 1571 was a major naval defeat for which Muslim empire?",
@@ -3757,7 +3757,7 @@
                             "Ibn Rushd"
                         ],
                         "answer": 0,
-                        "explanation": "Ibn al-Haytham (Alhazen) made significant contributions to optics in his \u0027Book of Optics\u0027."
+                        "explanation": "Ibn al-Haytham (Alhazen) made significant contributions to optics in his 'Book of Optics'."
                     },
                     {
                         "q": "Which empire was responsible for ruling over Mecca and Medina during much of the 16th to 19th centuries?",
@@ -3771,7 +3771,7 @@
                         "explanation": "The Ottoman Sultans held the title of Custodian of the Two Holy Mosques."
                     },
                     {
-                        "q": "Who was the prominent Muslim poet and mystic known for his work \u0027The Masnavi\u0027?",
+                        "q": "Who was the prominent Muslim poet and mystic known for his work 'The Masnavi'?",
                         "options": [
                             "Al-Ghazali",
                             "Ibn Arabi",
@@ -3790,7 +3790,7 @@
                             "Murad IV"
                         ],
                         "answer": 2,
-                        "explanation": "It\u0027s officially called the Sultan Ahmed Mosque, built in the 17th century."
+                        "explanation": "It's officially called the Sultan Ahmed Mosque, built in the 17th century."
                     },
                     {
                         "q": "Which Muslim ruler of Mysore fiercely resisted the British East India Company?",
@@ -3801,7 +3801,7 @@
                             "Tipu Sultan"
                         ],
                         "answer": 3,
-                        "explanation": "Tipu Sultan, the \u0027Tiger of Mysore\u0027, fought several wars against the British."
+                        "explanation": "Tipu Sultan, the 'Tiger of Mysore', fought several wars against the British."
                     },
                     {
                         "q": "Who built the initial Dome of the Rock (Qubbat al-Sakhrah) in Jerusalem?",
@@ -3820,10 +3820,10 @@
                             "Abu Jafar al-Mansur",
                             "Harun al-Rashid",
                             "Abu al-Abbas as-Saffah",
-                            "Al-Ma\u0027mun"
+                            "Al-Ma'mun"
                         ],
                         "answer": 2,
-                        "explanation": "Abu al-Abbas \u0027as-Saffah\u0027 overthrew the Umayyads in 750 AD."
+                        "explanation": "Abu al-Abbas 'as-Saffah' overthrew the Umayyads in 750 AD."
                     },
                     {
                         "q": "In which year did Sultan Mehmed II conquer Constantinople?",
@@ -3903,7 +3903,7 @@
                         "explanation": "The Mamluks defeated the Mongols at Ain Jalut in 1260."
                     },
                     {
-                        "q": "Which famous Muslim scholar wrote the comprehensive medical encyclopedia \u0027The Canon of Medicine\u0027?",
+                        "q": "Which famous Muslim scholar wrote the comprehensive medical encyclopedia 'The Canon of Medicine'?",
                         "options": [
                             "Al-Farabi",
                             "Ibn Sina (Avicenna)",
@@ -3911,7 +3911,7 @@
                             "Ibn Rushd"
                         ],
                         "answer": 1,
-                        "explanation": "Ibn Sina\u0027s work remained a standard medical text in Europe for centuries."
+                        "explanation": "Ibn Sina's work remained a standard medical text in Europe for centuries."
                     },
                     {
                         "q": "In which Islamic month did the Tragedy of Karbala occur?",
@@ -3966,7 +3966,7 @@
                             "Hazrat Ali (RA)"
                         ],
                         "answer": 2,
-                        "explanation": "The first Islamic naval fleet was developed under Hazrat Usman (RA)\u0027s caliphate, spearheaded by Amir Muawiyah (RA)."
+                        "explanation": "The first Islamic naval fleet was developed under Hazrat Usman (RA)'s caliphate, spearheaded by Amir Muawiyah (RA)."
                     },
                     {
                         "q": "Who was the founder of the Abbasid Caliphate?",
@@ -3974,7 +3974,7 @@
                             "Harun al-Rashid",
                             "Al-Mansur",
                             "Abu al-Abbas as-Saffah",
-                            "Al-Ma\u0027mun"
+                            "Al-Ma'mun"
                         ],
                         "answer": 2,
                         "explanation": "Abu al-Abbas as-Saffah became the first caliph of the Abbasid empire in 750 AD after overthrowing the Umayyads."
@@ -3988,7 +3988,7 @@
                             "After Conquest of Makkah"
                         ],
                         "answer": 1,
-                        "explanation": "Khalid bin Walid (RA) accepted Islam in 8 AH, shortly after the Treaty of Hudaibiya and before the Battle of Mu\u0027tah."
+                        "explanation": "Khalid bin Walid (RA) accepted Islam in 8 AH, shortly after the Treaty of Hudaibiya and before the Battle of Mu'tah."
                     },
                     {
                         "q": "Who conquered Jerusalem for the Muslims in 1187?",
@@ -4010,7 +4010,7 @@
                             "1453"
                         ],
                         "answer": 2,
-                        "explanation": "Hulagu Khan\u0027s Mongol army sacked Baghdad in 1258, resulting in the fall of the Abbasid Caliphate."
+                        "explanation": "Hulagu Khan's Mongol army sacked Baghdad in 1258, resulting in the fall of the Abbasid Caliphate."
                     },
                     {
                         "q": "Who led the Muslim army in the conquest of Spain (Andalusia)?",
@@ -4024,7 +4024,7 @@
                         "explanation": "Tariq bin Ziyad led the initial Umayyad conquest of Visigothic Hispania in 711 AD."
                     },
                     {
-                        "q": "Which Muslim scholar is considered the \u0027Father of Algebra\u0027?",
+                        "q": "Which Muslim scholar is considered the 'Father of Algebra'?",
                         "options": [
                             "Al-Kindi",
                             "Ibn Sina",
@@ -4068,7 +4068,7 @@
                         "explanation": "Damascus was the political center and capital of the Umayyad dynasty."
                     },
                     {
-                        "q": "Which battle is known as the \u0027Battle of the Trench\u0027?",
+                        "q": "Which battle is known as the 'Battle of the Trench'?",
                         "options": [
                             "Battle of Uhud",
                             "Battle of Khandaq",
@@ -4094,7 +4094,7 @@
                         "options": [
                             "Battle of Yarmouk",
                             "Battle of Qadisiyah",
-                            "Battle of Mu\u0027tah",
+                            "Battle of Mu'tah",
                             "Battle of Damascus"
                         ],
                         "answer": 0,
@@ -4112,15 +4112,15 @@
                         "explanation": "Madinah Munawwarah served as the first capital of the Islamic state after the Hijrah."
                     },
                     {
-                        "q": "Who established the famous \u0027House of Wisdom\u0027 (Bait-ul-Hikmah) in Baghdad?",
+                        "q": "Who established the famous 'House of Wisdom' (Bait-ul-Hikmah) in Baghdad?",
                         "options": [
                             "Harun al-Rashid",
-                            "Al-Ma\u0027mun",
+                            "Al-Ma'mun",
                             "Al-Mansur",
                             "Salahuddin Ayyubi"
                         ],
                         "answer": 1,
-                        "explanation": "The Bait-ul-Hikmah was founded by Al-Ma\u0027mun in the 9th century as a major center for translation and science."
+                        "explanation": "The Bait-ul-Hikmah was founded by Al-Ma'mun in the 9th century as a major center for translation and science."
                     },
                     {
                         "q": "In which year did the Battle of Badr take place?",
@@ -4142,7 +4142,7 @@
                             "Augustus"
                         ],
                         "answer": 0,
-                        "explanation": "Heraclius was the Eastern Roman (Byzantine) Emperor who received the Prophet\u0027s (PBUH) letter."
+                        "explanation": "Heraclius was the Eastern Roman (Byzantine) Emperor who received the Prophet's (PBUH) letter."
                     },
                     {
                         "q": "In which year did the Battle of Uhud occur?",
@@ -4211,7 +4211,7 @@
                         "explanation": "Baghdad was founded by the Abbasid Caliph Al-Mansur in 762 AD."
                     },
                     {
-                        "q": "Who originated the title of \u0027Sultan\u0027?",
+                        "q": "Who originated the title of 'Sultan'?",
                         "options": [
                             "Mahmud Ghaznavi",
                             "Salahuddin Ayyubi",
@@ -4222,7 +4222,7 @@
                         "explanation": "Mahmud of Ghazni was the first ruler to be officially called Sultan."
                     },
                     {
-                        "q": "The \u0027Golden Age of Islam\u0027 is primarily associated with which caliphate?",
+                        "q": "The 'Golden Age of Islam' is primarily associated with which caliphate?",
                         "options": [
                             "Rashidun",
                             "Umayyad",
@@ -4277,7 +4277,7 @@
                         "explanation": "Selim I brought the Mamluk Sultanate to an end."
                     },
                     {
-                        "q": "What was the official language of the Umayyad Caliphate\u0027s administration after the reforms?",
+                        "q": "What was the official language of the Umayyad Caliphate's administration after the reforms?",
                         "options": [
                             "Persian",
                             "Greek",
@@ -4291,7 +4291,7 @@
                         "q": "Who founded the Fatimid Caliphate in North Africa?",
                         "options": [
                             "Ubayd Allah al-Mahdi",
-                            "Al-Mu\u0027izz",
+                            "Al-Mu'izz",
                             "Al-Hakim",
                             "Al-Aziz"
                         ],
@@ -4332,7 +4332,7 @@
                         "explanation": "The Hijri calendar starts from the migration to Madinah."
                     },
                     {
-                        "q": "Which Muslim ruler is known as \u0027The Tiger of Mysore\u0027?",
+                        "q": "Which Muslim ruler is known as 'The Tiger of Mysore'?",
                         "options": [
                             "Haider Ali",
                             "Tipu Sultan",
@@ -4347,7 +4347,7 @@
                         "options": [
                             "Khalid bin Walid",
                             "Amr ibn al-Aas",
-                            "Sa\u0027d bin Abi Waqqas",
+                            "Sa'd bin Abi Waqqas",
                             "Amir Muawiyah"
                         ],
                         "answer": 1,
@@ -4365,7 +4365,7 @@
                         "explanation": "Qadisiyah and Nihawand were the key battles against the Persians."
                     },
                     {
-                        "q": "Who was the Abbasid Caliph known for the \u0027One Thousand and One Nights\u0027 stories?",
+                        "q": "Who was the Abbasid Caliph known for the 'One Thousand and One Nights' stories?",
                         "options": [
                             "Harun al-Rashid",
                             "Al-Mansur",
@@ -4373,7 +4373,7 @@
                             "Al-Wathiq"
                         ],
                         "answer": 0,
-                        "explanation": "Harun al-Rashid\u0027s era is the setting for many of these folk tales."
+                        "explanation": "Harun al-Rashid's era is the setting for many of these folk tales."
                     },
                     {
                         "q": "Which dynasty ruled Granada as the last Muslim kingdom in Spain?",
@@ -4450,7 +4450,7 @@
                             "Hazrat Ali"
                         ],
                         "answer": 1,
-                        "explanation": "It happened during Hazrat Umar\u0027s (RA) caliphate."
+                        "explanation": "It happened during Hazrat Umar's (RA) caliphate."
                     },
                     {
                         "q": "What was the capital of Muslim Spain for several centuries?",
@@ -4475,7 +4475,7 @@
                         "explanation": "Berke Khan of the Golden Horde was the first prominent Mongol ruler to convert."
                     },
                     {
-                        "q": "Who wrote the famous book \u0027The Canon of Medicine\u0027?",
+                        "q": "Who wrote the famous book 'The Canon of Medicine'?",
                         "options": [
                             "Al-Zahrawi",
                             "Ibn Sina (Avicenna)",
@@ -4552,7 +4552,7 @@
                         "explanation": "Charles Martel defeated the Umayyad forces in France."
                     },
                     {
-                        "q": "Who was the famous historian and author of \u0027Muqaddimah\u0027?",
+                        "q": "Who was the famous historian and author of 'Muqaddimah'?",
                         "options": [
                             "Ibn Khaldun",
                             "Ibn Battuta",
@@ -4566,7 +4566,7 @@
                         "q": "Which Muslim ruler built the Great Mosque of Samarra?",
                         "options": [
                             "Al-Mutawakkil",
-                            "Al-Ma\u0027mun",
+                            "Al-Ma'mun",
                             "Al-Mansur",
                             "Harun al-Rashid"
                         ],
@@ -4651,7 +4651,7 @@
                         "explanation": "While there are theories about Malian or Arab explorers, Columbus is the mainstream historical figure."
                     },
                     {
-                        "q": "Which Muslim scholar wrote \u0027Kitab-al-Hind\u0027?",
+                        "q": "Which Muslim scholar wrote 'Kitab-al-Hind'?",
                         "options": [
                             "Al-Biruni",
                             "Ibn Battuta",
@@ -4662,7 +4662,7 @@
                         "explanation": "Al-Biruni studied Indian culture and science deeply."
                     },
                     {
-                        "q": "What was the \u0027Divan-e-Arz\u0027 in the Delhi Sultanate?",
+                        "q": "What was the 'Divan-e-Arz' in the Delhi Sultanate?",
                         "options": [
                             "Military Department",
                             "Revenue Department",
@@ -4695,7 +4695,7 @@
                         "explanation": "Founded in Rabat in 1969."
                     },
                     {
-                        "q": "Which Muslim ruler is famous for the \u0027Din-i-Ilahi\u0027?",
+                        "q": "Which Muslim ruler is famous for the 'Din-i-Ilahi'?",
                         "options": [
                             "Akbar",
                             "Aurangzeb",
@@ -4717,10 +4717,10 @@
                         "explanation": "The Afghan ruler Abdali defeated the Maratha Empire."
                     },
                     {
-                        "q": "Which Sahabi was known as the \u0027Secretary of the Quran\u0027?",
+                        "q": "Which Sahabi was known as the 'Secretary of the Quran'?",
                         "options": [
                             "Zaid bin Thabit",
-                            "Ubayy bin Ka\u0027b",
+                            "Ubayy bin Ka'b",
                             "Abdullah bin Abbas",
                             "Muawiyah bin Abi Sufyan"
                         ],
@@ -4739,7 +4739,7 @@
                         "explanation": "He was exiled by the British in 1858."
                     },
                     {
-                        "q": "The \u0027Dome of the Rock\u0027 is located in which city?",
+                        "q": "The 'Dome of the Rock' is located in which city?",
                         "options": [
                             "Makkah",
                             "Madinah",
@@ -4780,7 +4780,7 @@
                             "Hazrat Ali (RA)"
                         ],
                         "answer": 1,
-                        "explanation": "After the Prophet\u0027s (PBUH) death, Hazrat Abu Bakr (RA) was elected as the first Caliph to lead the Muslim Ummah."
+                        "explanation": "After the Prophet's (PBUH) death, Hazrat Abu Bakr (RA) was elected as the first Caliph to lead the Muslim Ummah."
                     },
                     {
                         "q": "Which battle was fought against the false prophet Musaylimah?",
@@ -4805,11 +4805,11 @@
                         "explanation": "Jerusalem was peacefully surrendered to Hazrat Umar (RA) in 16 AH (637 AD)."
                     },
                     {
-                        "q": "Who is known as the \u0027Conqueror of Egypt\u0027?",
+                        "q": "Who is known as the 'Conqueror of Egypt'?",
                         "options": [
                             "Khalid bin Walid",
                             "Amr bin al-Aas",
-                            "Sa\u0027d bin Abi Waqqas",
+                            "Sa'd bin Abi Waqqas",
                             "Tariq bin Ziyad"
                         ],
                         "answer": 1,
@@ -4824,7 +4824,7 @@
                             "Battle of Badr"
                         ],
                         "answer": 2,
-                        "explanation": "The Battle of Nahavand (21 AH) is known as the \u0027Victory of Victories\u0027 as it ended Persian resistance."
+                        "explanation": "The Battle of Nahavand (21 AH) is known as the 'Victory of Victories' as it ended Persian resistance."
                     },
                     {
                         "q": "Who was the first Muslim commander to enter the Indian subcontinent through Sindh?",
@@ -4871,7 +4871,7 @@
                         "explanation": "Tariq bin Ziyad crossed the straits and conquered the Iberian Peninsula in 711 AD."
                     },
                     {
-                        "q": "Who was the caliph during the \u0027Golden Age of Islam\u0027 known for his wisdom?",
+                        "q": "Who was the caliph during the 'Golden Age of Islam' known for his wisdom?",
                         "options": [
                             "Harun al-Rashid",
                             "Umar bin Abdul Aziz",
@@ -4893,7 +4893,7 @@
                         "explanation": "Salahuddin Ayyubi (Saladin) won the Battle of Hattin and liberated Jerusalem from 88 years of Crusader rule."
                     },
                     {
-                        "q": "The \u0027Charter of Madinah\u0027 is considered the world\u0027s first wrote constitution. True or False?",
+                        "q": "The 'Charter of Madinah' is considered the world's first wrote constitution. True or False?",
                         "options": [
                             "True",
                             "False"
@@ -4913,7 +4913,7 @@
                         "explanation": "The Battle of Yarmouk led by Khalid bin Walid was a decisive victory against the Byzantine Empire."
                     },
                     {
-                        "q": "Which Umayyad Caliph is often called the \u0027Fifth Rightly Guided Caliph\u0027?",
+                        "q": "Which Umayyad Caliph is often called the 'Fifth Rightly Guided Caliph'?",
                         "options": [
                             "Yazid I",
                             "Abdul Malik",
@@ -4932,7 +4932,7 @@
                             "1358"
                         ],
                         "answer": 2,
-                        "explanation": "Hulagu Khan\u0027s siege of Baghdad in 1258 AD was a catastrophic event for Islamic civilization."
+                        "explanation": "Hulagu Khan's siege of Baghdad in 1258 AD was a catastrophic event for Islamic civilization."
                     },
                     {
                         "q": "Who was the first woman to rule a Muslim state in her own right?",
@@ -5012,7 +5012,7 @@
                         "explanation": "Qutuz and Baybars led the Mamluks to a historic victory against the Mongols in 1260."
                     },
                     {
-                        "q": "Which Muslim scientist is known as the \u0027Father of Algebra\u0027?",
+                        "q": "Which Muslim scientist is known as the 'Father of Algebra'?",
                         "options": [
                             "Al-Khwarizmi",
                             "Ibn al-Haytham",
@@ -5020,7 +5020,7 @@
                             "Jabir ibn Hayyan"
                         ],
                         "answer": 0,
-                        "explanation": "Al-Khwarizmi\u0027s book \u0027Al-Jabr\u0027 gave the subject its name."
+                        "explanation": "Al-Khwarizmi's book 'Al-Jabr' gave the subject its name."
                     },
                     {
                         "q": "The city of Cordoba was the capital of which Islamic state?",
@@ -5056,7 +5056,7 @@
                         "explanation": "Persian was the court language and the language of administration and literature."
                     },
                     {
-                        "q": "Which Persian scholar wrote the \u0027Canon of Medicine\u0027?",
+                        "q": "Which Persian scholar wrote the 'Canon of Medicine'?",
                         "options": [
                             "Al-Razi",
                             "Ibn Sina (Avicenna)",
@@ -5064,7 +5064,7 @@
                             "Ibn Rushd"
                         ],
                         "answer": 1,
-                        "explanation": "Ibn Sina\u0027s medical encyclopedia was used in European universities for centuries."
+                        "explanation": "Ibn Sina's medical encyclopedia was used in European universities for centuries."
                     },
                     {
                         "q": "In which year did the Ottoman Empire officially transition to a Republic?",
@@ -5078,7 +5078,7 @@
                         "explanation": "Mustafa Kemal Ataturk declared the Republic of Turkey on October 29, 1923."
                     },
                     {
-                        "q": "Who was the first person to use the title \u0027Sultan\u0027 as an official ruler?",
+                        "q": "Who was the first person to use the title 'Sultan' as an official ruler?",
                         "options": [
                             "Mahmud Ghaznavi",
                             "Alp Arslan",
@@ -5089,7 +5089,7 @@
                         "explanation": "The title was first used by Mahmud of Ghazni to signify his independent power."
                     },
                     {
-                        "q": "The \u0027Mamluks\u0027 were originally what?",
+                        "q": "The 'Mamluks' were originally what?",
                         "options": [
                             "Traders",
                             "Slave soldiers",
@@ -5100,7 +5100,7 @@
                         "explanation": "Mamluks were slave soldiers of Turkic origin who eventually seized power."
                     },
                     {
-                        "q": "Which battle led to the fall of the Mughal Empire\u0027s power to the British?",
+                        "q": "Which battle led to the fall of the Mughal Empire's power to the British?",
                         "options": [
                             "Battle of Panipat",
                             "Battle of Plassey",
@@ -5144,7 +5144,7 @@
                         "explanation": "Al-Azhar University, founded in 970 AD, is one of the oldest in the world."
                     },
                     {
-                        "q": "Who was the \u0027Sword of Allah\u0027 (Saifullah) in Islamic history?",
+                        "q": "Who was the 'Sword of Allah' (Saifullah) in Islamic history?",
                         "options": [
                             "Hazrat Ali",
                             "Khalid bin Walid",
@@ -5188,7 +5188,7 @@
                         "explanation": "Yusuf bin Tashfin founded the city of Marrakech and protected Al-Andalus from the Reconquista."
                     },
                     {
-                        "q": "Which empire was known as the \u0027Sublime State\u0027?",
+                        "q": "Which empire was known as the 'Sublime State'?",
                         "options": [
                             "Mughal",
                             "Safavid",
@@ -5218,10 +5218,10 @@
                             "Ibn Taymiyyah"
                         ],
                         "answer": 0,
-                        "explanation": "Ibn Khaldun\u0027s \u0027Muqaddimah\u0027 is the founding work of these disciplines."
+                        "explanation": "Ibn Khaldun's 'Muqaddimah' is the founding work of these disciplines."
                     },
                     {
-                        "q": "The \u0027Great Mosque of Samarra\u0027 was built by which dynasty?",
+                        "q": "The 'Great Mosque of Samarra' was built by which dynasty?",
                         "options": [
                             "Umayyad",
                             "Abbasid",
@@ -5262,10 +5262,10 @@
                             "Mir Qasim"
                         ],
                         "answer": 1,
-                        "explanation": "Tipu Sultan, the \u0027Tiger of Mysore\u0027, fought four wars against the British."
+                        "explanation": "Tipu Sultan, the 'Tiger of Mysore', fought four wars against the British."
                     },
                     {
-                        "q": "The \u0027Nizamiyya\u0027 schools were founded by which statesman?",
+                        "q": "The 'Nizamiyya' schools were founded by which statesman?",
                         "options": [
                             "Nizam al-Mulk",
                             "Al-Ghazali",
@@ -5298,7 +5298,7 @@
                         "explanation": "Ataturk led the Turkish War of Independence and modernized the nation."
                     },
                     {
-                        "q": "Which early Islamic city was known as the \u0027City of the Prophet\u0027?",
+                        "q": "Which early Islamic city was known as the 'City of the Prophet'?",
                         "options": [
                             "Makkah",
                             "Yathrib (Madinah)",
@@ -5317,7 +5317,7 @@
                             "5"
                         ],
                         "answer": 2,
-                        "explanation": "Hanafi, Maliki, Shafi\u0027i, and Hanbali are the four main schools."
+                        "explanation": "Hanafi, Maliki, Shafi'i, and Hanbali are the four main schools."
                     },
                     {
                         "q": "Who was the ruler of the Fatimid Caliphate when it reached its height?",
@@ -5328,7 +5328,7 @@
                             "Al-Aziz"
                         ],
                         "answer": 1,
-                        "explanation": "Al-Mustansir\u0027s early reign was the peak of Fatimid power and wealth."
+                        "explanation": "Al-Mustansir's early reign was the peak of Fatimid power and wealth."
                     },
                     {
                         "q": "Which Muslim commander led the conquest of Cyprus in 28 AH?",
@@ -5350,7 +5350,7 @@
                             "Ibn Rushd"
                         ],
                         "answer": 0,
-                        "explanation": "Al-Biruni calculated the Earth\u0027s radius with remarkable accuracy in the 11th century."
+                        "explanation": "Al-Biruni calculated the Earth's radius with remarkable accuracy in the 11th century."
                     },
                     {
                         "q": "Which battle in 1071 opened Anatolia (Turkey) to Muslim settlement?",
@@ -5380,13 +5380,13 @@
                             "Rufaydah Al-Aslamiyyah",
                             "Hazrat Aisha",
                             "Hazrat Fatimah",
-                            "Nusaybah bint Ka\u0027b"
+                            "Nusaybah bint Ka'b"
                         ],
                         "answer": 0,
-                        "explanation": "She treated the wounded in battles during the Prophet\u0027s (PBUH) time."
+                        "explanation": "She treated the wounded in battles during the Prophet's (PBUH) time."
                     },
                     {
-                        "q": "Which Seljuk Vizier wrote the famous \u0027Siyasatnama\u0027 (Book of Government)?",
+                        "q": "Which Seljuk Vizier wrote the famous 'Siyasatnama' (Book of Government)?",
                         "options": [
                             "Nizam al-Mulk",
                             "Al-Ghazali",
@@ -5419,7 +5419,7 @@
                         "explanation": "She ruled briefly in 1250 and played a key role in defeating the Seventh Crusade."
                     },
                     {
-                        "q": "The \u0027Blue Mosque\u0027 in Istanbul was built during the reign of which Sultan?",
+                        "q": "The 'Blue Mosque' in Istanbul was built during the reign of which Sultan?",
                         "options": [
                             "Ahmed I",
                             "Suleiman I",
@@ -5449,7 +5449,7 @@
                             "Ibn Khurdadhbih"
                         ],
                         "answer": 0,
-                        "explanation": "Al-Idrisi\u0027s map was the most accurate for centuries."
+                        "explanation": "Al-Idrisi's map was the most accurate for centuries."
                     },
                     {
                         "q": "Which city was the capital of the Abbasid Caliphate before Baghdad?",
@@ -5471,7 +5471,7 @@
                             "Nader Shah"
                         ],
                         "answer": 1,
-                        "explanation": "Ismail I established the dynasty in 1501 and declared Twelver Shi\u0027ism as the state religion."
+                        "explanation": "Ismail I established the dynasty in 1501 and declared Twelver Shi'ism as the state religion."
                     },
                     {
                         "q": "Which battle in 1514 saw the Ottomans defeat the Safavids using firearms?",
@@ -5482,10 +5482,10 @@
                             "Battle of Mohacs"
                         ],
                         "answer": 0,
-                        "explanation": "Selim I\u0027s victory at Chaldiran gave the Ottomans control over Eastern Anatolia."
+                        "explanation": "Selim I's victory at Chaldiran gave the Ottomans control over Eastern Anatolia."
                     },
                     {
-                        "q": "Who was the great Muslim ophthalmologist who wrote \u0027Notebook of the Oculists\u0027?",
+                        "q": "Who was the great Muslim ophthalmologist who wrote 'Notebook of the Oculists'?",
                         "options": [
                             "Ali ibn Isa",
                             "Al-Razi",
@@ -5507,7 +5507,7 @@
                         "explanation": "It was a failed economic experiment that led to mass counterfeiting."
                     },
                     {
-                        "q": "The \u0027Qutub Minar\u0027 was started by whom?",
+                        "q": "The 'Qutub Minar' was started by whom?",
                         "options": [
                             "Iltutmish",
                             "Qutubuddin Aibak",
@@ -5529,7 +5529,7 @@
                         "explanation": "Hisham III was deposed in 1031, leading to the Taifa kingdoms."
                     },
                     {
-                        "q": "Which Muslim ruler is known for building the \u0027Sher Shah Suri Marg\u0027 (GT Road)?",
+                        "q": "Which Muslim ruler is known for building the 'Sher Shah Suri Marg' (GT Road)?",
                         "options": [
                             "Akbar",
                             "Sher Shah Suri",
@@ -5540,7 +5540,7 @@
                         "explanation": "Sher Shah was a brilliant administrator who modernized the revenue and postal systems."
                     },
                     {
-                        "q": "The \u0027Great Mosque of Xi\u0027an\u0027 is one of the oldest in which country?",
+                        "q": "The 'Great Mosque of Xi'an' is one of the oldest in which country?",
                         "options": [
                             "India",
                             "China",
@@ -5551,7 +5551,7 @@
                         "explanation": "It was first built during the Tang Dynasty and reflects Chinese architectural styles."
                     },
                     {
-                        "q": "Which Muslim mathematician wrote \u0027Miftah al-Hisab\u0027 (Key to Arithmetic)?",
+                        "q": "Which Muslim mathematician wrote 'Miftah al-Hisab' (Key to Arithmetic)?",
                         "options": [
                             "Ghiyath al-Din Jamshid al-Kashi",
                             "Omar Khayyam",
@@ -5570,7 +5570,7 @@
                             "Saad Zaghloul"
                         ],
                         "answer": 0,
-                        "explanation": "Omar Mukhtar, the \u0027Lion of the Desert\u0027, led the struggle for 20 years."
+                        "explanation": "Omar Mukhtar, the 'Lion of the Desert', led the struggle for 20 years."
                     },
                     {
                         "q": "Which treaty in 1916 secretly divided the Arab provinces of the Ottoman Empire?",
@@ -5639,7 +5639,7 @@
                         "explanation": "They were the two engineers/architects appointed by Caliph Abdul Malik."
                     },
                     {
-                        "q": "Which Muslim ruler is known for his \u0027Circular City\u0027 plan?",
+                        "q": "Which Muslim ruler is known for his 'Circular City' plan?",
                         "options": [
                             "Al-Mansur",
                             "Harun al-Rashid",
@@ -5680,7 +5680,7 @@
                             "Ibn Sina"
                         ],
                         "answer": 0,
-                        "explanation": "His \u0027Book of Optics\u0027 revolutionized the science of light."
+                        "explanation": "His 'Book of Optics' revolutionized the science of light."
                     },
                     {
                         "q": "Which Sultan of Egypt defeated the Mongols at Ain Jalut?",
@@ -5727,7 +5727,7 @@
                         "explanation": "Benazir Bhutto became the Prime Minister of Pakistan in 1988."
                     },
                     {
-                        "q": "Which city was known as the \u0027Lighthouse of the East\u0027?",
+                        "q": "Which city was known as the 'Lighthouse of the East'?",
                         "options": [
                             "Bukhara",
                             "Samarkand",
@@ -5746,10 +5746,10 @@
                             "Al-Masudi"
                         ],
                         "answer": 0,
-                        "explanation": "Piri Reis\u0027s famous map of 1513 shows parts of the American continent."
+                        "explanation": "Piri Reis's famous map of 1513 shows parts of the American continent."
                     },
                     {
-                        "q": "Which Muslim ruler is known for his \u0027Zero Interest\u0027 economy and justice?",
+                        "q": "Which Muslim ruler is known for his 'Zero Interest' economy and justice?",
                         "options": [
                             "Umar bin Abdul Aziz",
                             "Harun al-Rashid",
@@ -5757,7 +5757,7 @@
                             "Muawiyah"
                         ],
                         "answer": 0,
-                        "explanation": "Umar bin Abdul Aziz\u0027s short reign is considered a direct continuation of the Rashidun caliphate\u0027s justice."
+                        "explanation": "Umar bin Abdul Aziz's short reign is considered a direct continuation of the Rashidun caliphate's justice."
                     },
                     {
                         "q": "Who was the founder of the Nizamiyya University system?",
@@ -5790,10 +5790,10 @@
                             "Sher Shah Suri"
                         ],
                         "answer": 0,
-                        "explanation": "Babur\u0027s use of cannons at the Battle of Panipat was a decisive advantage."
+                        "explanation": "Babur's use of cannons at the Battle of Panipat was a decisive advantage."
                     },
                     {
-                        "q": "Which Muslim scientist is known as the \u0027Pharmacist\u0027 (As-Saidala)?",
+                        "q": "Which Muslim scientist is known as the 'Pharmacist' (As-Saidala)?",
                         "options": [
                             "Al-Biruni",
                             "Ibn al-Baitar",
@@ -5856,7 +5856,7 @@
                             "Dispute over water rights"
                         ],
                         "answer": 1,
-                        "explanation": "The Muslims\u0027 attempt to intercept Abu Sufyan\u0027s caravan led the Meccans to march out in defense, resulting in the battle."
+                        "explanation": "The Muslims' attempt to intercept Abu Sufyan's caravan led the Meccans to march out in defense, resulting in the battle."
                     },
                     {
                         "q": "In which year did the Battle of Badr take place?",
@@ -6010,7 +6010,7 @@
                             "1492"
                         ],
                         "answer": 0,
-                        "explanation": "Hulagu Khan\u0027s forces besieged and destroyed Baghdad, ending the Abbasid Caliphate."
+                        "explanation": "Hulagu Khan's forces besieged and destroyed Baghdad, ending the Abbasid Caliphate."
                     },
                     {
                         "q": "Who was the founder of the Ottoman Empire?",
@@ -6054,7 +6054,7 @@
                             "Hazrat Ali"
                         ],
                         "answer": 2,
-                        "explanation": "Hazrat Uthman standardized the \u0027Mushaf\u0027 to prevent dialectal variations."
+                        "explanation": "Hazrat Uthman standardized the 'Mushaf' to prevent dialectal variations."
                     },
                     {
                         "q": "What was the name of the first Islamic capital under the Prophet (PBUH)?",
@@ -6076,21 +6076,21 @@
                             "Mongol"
                         ],
                         "answer": 1,
-                        "explanation": "Fought during Umar\u0027s caliphate, it broke the Persian empire\u0027s strength."
+                        "explanation": "Fought during Umar's caliphate, it broke the Persian empire's strength."
                     },
                     {
                         "q": "Who commanded the Muslim army at the Battle of Yarmouk?",
                         "options": [
-                            "Abu Ubaidah \u0026 Khalid bin Walid",
+                            "Abu Ubaidah & Khalid bin Walid",
                             "Amr bin al-Aas",
-                            "Sa\u0027d bin Abi Waqqas",
+                            "Sa'd bin Abi Waqqas",
                             "Tariq bin Ziyad"
                         ],
                         "answer": 0,
                         "explanation": "This battle secured the Levant from the Byzantines."
                     },
                     {
-                        "q": "Who was the \u0027Fifth Rightly Guided Caliph\u0027 known for his immense justice and piety?",
+                        "q": "Who was the 'Fifth Rightly Guided Caliph' known for his immense justice and piety?",
                         "options": [
                             "Harun al-Rashid",
                             "Umar bin Abdul Aziz",
@@ -6156,7 +6156,7 @@
                         "explanation": "It occurred on the 10th of Muharram, 61 AH."
                     },
                     {
-                        "q": "Which famous Muslim scholar wrote the medical encyclopedia \u0027The Canon of Medicine\u0027?",
+                        "q": "Which famous Muslim scholar wrote the medical encyclopedia 'The Canon of Medicine'?",
                         "options": [
                             "Al-Khwarizmi",
                             "Al-Ghazali",
@@ -6175,7 +6175,7 @@
                             "Jabir ibn Hayyan"
                         ],
                         "answer": 1,
-                        "explanation": "The word \u0027algebra\u0027 comes from his book \u0027Al-Jabr\u0027."
+                        "explanation": "The word 'algebra' comes from his book 'Al-Jabr'."
                     },
                     {
                         "q": "The Fatimid Caliphate was centered primarily in which region?",
@@ -6211,7 +6211,7 @@
                         "explanation": "Agra and Delhi were the primary centers of power."
                     },
                     {
-                        "q": "Which Islamic empire was known as the \u0027Gunpowder Empire\u0027?",
+                        "q": "Which Islamic empire was known as the 'Gunpowder Empire'?",
                         "options": [
                             "Ottoman Empire",
                             "Safavid Empire",
@@ -6244,7 +6244,7 @@
                         "explanation": "1492 marked the surrender of the last Moorish stronghold."
                     },
                     {
-                        "q": "Who led the Muslims in the Battle of Mut\u0027ah against the Byzantines?",
+                        "q": "Who led the Muslims in the Battle of Mut'ah against the Byzantines?",
                         "options": [
                             "Zaid, Jafar, and Abdullah",
                             "Khalid bin Walid",
@@ -6266,7 +6266,7 @@
                         "explanation": "Hazrat Umar established the calendar starting from the year of Hijrah."
                     },
                     {
-                        "q": "The \u0027Pledge of the Tree\u0027 (Bay\u0027at al-Ridwan) happened during?",
+                        "q": "The 'Pledge of the Tree' (Bay'at al-Ridwan) happened during?",
                         "options": [
                             "Conquest of Makkah",
                             "Treaty of Hudaibiyah",
@@ -6343,7 +6343,7 @@
                         "explanation": "He ruled for 46 years (1520-1566)."
                     },
                     {
-                        "q": "Which scholar is famous for the \u0027Muqaddimah\u0027, foundational to sociology and historiography?",
+                        "q": "Which scholar is famous for the 'Muqaddimah', foundational to sociology and historiography?",
                         "options": [
                             "Al-Farabi",
                             "Al-Kindi",
@@ -6362,7 +6362,7 @@
                             "India"
                         ],
                         "answer": 2,
-                        "explanation": "They established Twelver Shi\u0027ism as the state religion."
+                        "explanation": "They established Twelver Shi'ism as the state religion."
                     },
                     {
                         "q": "Which Sahabi conquered Egypt for the Muslims?",
@@ -6370,13 +6370,13 @@
                             "Amr bin al-Aas (RA)",
                             "Khalid bin Walid (RA)",
                             "Abu Ubaidah (RA)",
-                            "Sa\u0027d bin Abi Waqqas (RA)"
+                            "Sa'd bin Abi Waqqas (RA)"
                         ],
                         "answer": 0,
                         "explanation": "He founded the city of Fustat and built the first mosque in Africa."
                     },
                     {
-                        "q": "The \u0027Golden Age of Islam\u0027 is generally associated with which Caliphate?",
+                        "q": "The 'Golden Age of Islam' is generally associated with which Caliphate?",
                         "options": [
                             "Umayyad",
                             "Abbasid",
@@ -6398,7 +6398,7 @@
                         "explanation": "Built by Shah Jahan for his wife Mumtaz Mahal."
                     },
                     {
-                        "q": "Who was the first muezzin (caller to prayer) of the Prophet\u0027s Mosque?",
+                        "q": "Who was the first muezzin (caller to prayer) of the Prophet's Mosque?",
                         "options": [
                             "Hazrat Salman",
                             "Hazrat Bilal",
@@ -6558,7 +6558,7 @@
                         "explanation": "Hazrat Abu Bakar led the Hajj in 9 A.H."
                     },
                     {
-                        "q": "Who was the first person to use the \u0027Hijri\u0027 calendar?",
+                        "q": "Who was the first person to use the 'Hijri' calendar?",
                         "options": [
                             "Prophet Muhammad (PBUH)",
                             "Hazrat Abu Bakar",
@@ -6624,7 +6624,7 @@
                         "explanation": "Prophet Idrees (A.S)."
                     },
                     {
-                        "q": "Who was the first person to suggest \u0027Azan\u0027?",
+                        "q": "Who was the first person to suggest 'Azan'?",
                         "options": [
                             "Hazrat Bilal",
                             "Hazrat Ali",
@@ -6663,7 +6663,7 @@
                         "explanation": "It is generally enumerated as the fourth pillar after Shahadah, Salah, and Zakat."
                     },
                     {
-                        "q": "In Zakat, what is the \u0027Nisab\u0027 of silver?",
+                        "q": "In Zakat, what is the 'Nisab' of silver?",
                         "options": [
                             "7.5 Tolas",
                             "52.5 Tolas (612.36 grams)",
@@ -6685,7 +6685,7 @@
                         "explanation": "Surah At-Tawbah (9:60) specifies 8 categories of eligible recipients."
                     },
                     {
-                        "q": "Is Zakat required on personal use items like one\u0027s house or car?",
+                        "q": "Is Zakat required on personal use items like one's house or car?",
                         "options": [
                             "Yes",
                             "No",
@@ -6718,7 +6718,7 @@
                         "explanation": "Zakat is generally calculated at 2.5% of savings held for a lunar year."
                     },
                     {
-                        "q": "What is \u0027Zakat-ul-Ushr\u0027 officially?",
+                        "q": "What is 'Zakat-ul-Ushr' officially?",
                         "options": [
                             "Zakat on gold",
                             "Zakat on agricultural land",
@@ -6740,9 +6740,9 @@
                         "explanation": "52.5 tolas of silver is the threshold."
                     },
                     {
-                        "q": "What is the meaning of the word \u0027Zakat\u0027?",
+                        "q": "What is the meaning of the word 'Zakat'?",
                         "options": [
-                            "Purity \u0026 Growth",
+                            "Purity & Growth",
                             "Sacrifice",
                             "Prayer",
                             "Submission"
@@ -6759,10 +6759,10 @@
                             "Fixed at $1000"
                         ],
                         "answer": 2,
-                        "explanation": "Whichever threshold is reached first (usually silver as it\u0027s lower) makes Zakat due."
+                        "explanation": "Whichever threshold is reached first (usually silver as it's lower) makes Zakat due."
                     },
                     {
-                        "q": "What is \u0027Ushr\u0027?",
+                        "q": "What is 'Ushr'?",
                         "options": [
                             "1/40th of wealth",
                             "1/10th tax on agricultural land",
@@ -6773,7 +6773,7 @@
                         "explanation": "Ushr is Zakat on agriculture (10% for naturally irrigated land)."
                     },
                     {
-                        "q": "Who are \u0027Masaarif-e-Zakat\u0027?",
+                        "q": "Who are 'Masaarif-e-Zakat'?",
                         "options": [
                             "Collectors of Zakat",
                             "Categories of people eligible for Zakat",
@@ -6817,7 +6817,7 @@
                         "explanation": "Salah and Zakat are mentioned together in 32 verses of the Holy Quran, highlighting their paired importance."
                     },
                     {
-                        "q": "What is the meaning of the word \u0027Zakat\u0027?",
+                        "q": "What is the meaning of the word 'Zakat'?",
                         "options": [
                             "To multiply",
                             "To purify",
@@ -6825,7 +6825,7 @@
                             "To sacrifice"
                         ],
                         "answer": 1,
-                        "explanation": "Zakat linguistically means \u0027purification\u0027 and \u0027growth\u0027, as it purifies a Muslim\u0027s wealth and soul."
+                        "explanation": "Zakat linguistically means 'purification' and 'growth', as it purifies a Muslim's wealth and soul."
                     },
                     {
                         "q": "On which things is Zakat NOT applicable?",
@@ -6839,7 +6839,7 @@
                         "explanation": "Zakat is not paid on items of personal use like a house, car, or furniture."
                     },
                     {
-                        "q": "What is the \u0027Nisab\u0027 of Zakat for silver?",
+                        "q": "What is the 'Nisab' of Zakat for silver?",
                         "options": [
                             "40 Tolas",
                             "52.5 Tolas (612.36 g)",
@@ -6850,7 +6850,7 @@
                         "explanation": "Zakat is due if someone possesses 52.5 tolas of silver."
                     },
                     {
-                        "q": "What is \u0027Zakat-ul-Maal\u0027?",
+                        "q": "What is 'Zakat-ul-Maal'?",
                         "options": [
                             "Charity on wealth",
                             "Charity on body",
@@ -6938,7 +6938,7 @@
                         "explanation": "52.5 Tola (approx 612.36 grams)."
                     },
                     {
-                        "q": "Who is \u0027Sahib-e-Nisab\u0027?",
+                        "q": "Who is 'Sahib-e-Nisab'?",
                         "options": [
                             "One who has debts",
                             "One who has enough wealth for Zakat",
@@ -6949,7 +6949,7 @@
                         "explanation": "One who owns wealth equal to or above Nisab."
                     },
                     {
-                        "q": "The word \u0027Zakat\u0027 literally means?",
+                        "q": "The word 'Zakat' literally means?",
                         "options": [
                             "To hide",
                             "To purify",
@@ -7001,7 +7001,7 @@
                             "Only elderly"
                         ],
                         "answer": 2,
-                        "explanation": "It\u0027s fard for all who meet the criteria."
+                        "explanation": "It's fard for all who meet the criteria."
                     },
                     {
                         "q": "How many times are Salat and Zakat mentioned together in the Quran?",
@@ -7067,7 +7067,7 @@
                             "Freeing Slaves"
                         ],
                         "answer": 2,
-                        "explanation": "General consensus is Zakat isn\u0027t for mosque building directly."
+                        "explanation": "General consensus is Zakat isn't for mosque building directly."
                     }
                 ]
             },
@@ -7142,7 +7142,7 @@
                         "explanation": "Intentionally eating, drinking, or fulfilling desires during fasting hours breaks the fast."
                     },
                     {
-                        "q": "What is the meaning of \u0027Sawm\u0027?",
+                        "q": "What is the meaning of 'Sawm'?",
                         "options": [
                             "To eat",
                             "To abstain / fast",
@@ -7197,7 +7197,7 @@
                         "explanation": "Shawwal is the month of Eid-ul-Fitr."
                     },
                     {
-                        "q": "What is \u0027Suhur\u0027?",
+                        "q": "What is 'Suhur'?",
                         "options": [
                             "Evening meal",
                             "Pre-dawn meal",
@@ -7208,7 +7208,7 @@
                         "explanation": "Meal before starting the fast."
                     },
                     {
-                        "q": "What is \u0027Iftar\u0027?",
+                        "q": "What is 'Iftar'?",
                         "options": [
                             "Morning meal",
                             "Meal to break the fast",
@@ -7230,7 +7230,7 @@
                         "explanation": "Fasting on the two Eids is haram."
                     },
                     {
-                        "q": "What is \u0027Itikaf\u0027?",
+                        "q": "What is 'Itikaf'?",
                         "options": [
                             "Giving charity",
                             "Staying in Mosque for worship",
@@ -7326,10 +7326,10 @@
                             "Fard"
                         ],
                         "answer": 1,
-                        "explanation": "Slingling out Friday to fast is generally disliked unless it\u0027s a fard fast."
+                        "explanation": "Slingling out Friday to fast is generally disliked unless it's a fard fast."
                     },
                     {
-                        "q": "What is \u0027Sadaqah-ul-Fitr\u0027?",
+                        "q": "What is 'Sadaqah-ul-Fitr'?",
                         "options": [
                             "Zakat on wealth",
                             "Charity given at end of Ramadan",
@@ -7390,7 +7390,7 @@
                         "explanation": "Prophet Adam (A.S)."
                     },
                     {
-                        "q": "Who is known as \u0027Khalilullah\u0027?",
+                        "q": "Who is known as 'Khalilullah'?",
                         "options": [
                             "Prophet Ibrahim",
                             "Prophet Musa",
@@ -7412,7 +7412,7 @@
                         "explanation": "Yunus (A.S) stayed in the belly of the whale/fish."
                     },
                     {
-                        "q": "Which Prophet is called \u0027Zabihullah\u0027?",
+                        "q": "Which Prophet is called 'Zabihullah'?",
                         "options": [
                             "Hazrat Ishmael",
                             "Hazrat Isaac",
@@ -7478,7 +7478,7 @@
                         "explanation": "Ibrahim (A.S) was thrown into the fire by Namrud."
                     },
                     {
-                        "q": "Who is known as \u0027Sheikh-ul-Anbiya\u0027?",
+                        "q": "Who is known as 'Sheikh-ul-Anbiya'?",
                         "options": [
                             "Prophet Noah",
                             "Prophet Ibrahim",
@@ -7489,7 +7489,7 @@
                         "explanation": "Hazrat Nooh (A.S) due to his long age and preaching."
                     },
                     {
-                        "q": "Which Prophet\u0027s grave is in Israel?",
+                        "q": "Which Prophet's grave is in Israel?",
                         "options": [
                             "Hazrat Ibrahim",
                             "Hazrat Ishaq",
@@ -7544,7 +7544,7 @@
                         "explanation": "He was sent to the people of Nineveh."
                     },
                     {
-                        "q": "Which Prophet\u0027s stick turned into a snake?",
+                        "q": "Which Prophet's stick turned into a snake?",
                         "options": [
                             "Prophet Isa",
                             "Prophet Musa",
@@ -7566,7 +7566,7 @@
                         "explanation": "Isa (A.S) son of Maryam."
                     },
                     {
-                        "q": "Which Prophet is mentioned as the \u0027Last Prophet\u0027?",
+                        "q": "Which Prophet is mentioned as the 'Last Prophet'?",
                         "options": [
                             "Dawood",
                             "Isa",
@@ -7588,7 +7588,7 @@
                         "explanation": "Hazrat Sulaiman (A.S)."
                     },
                     {
-                        "q": "Which Prophet\u0027s name means \u0027God will increase\u0027?",
+                        "q": "Which Prophet's name means 'God will increase'?",
                         "options": [
                             "Joseph",
                             "Benjamin",
@@ -7605,7 +7605,7 @@
                 "icon": "fa-book",
                 "questions": [
                     {
-                        "q": "How many books are in \u0027Sihah Sitta\u0027?",
+                        "q": "How many books are in 'Sihah Sitta'?",
                         "options": [
                             "4",
                             "5",
@@ -7613,7 +7613,7 @@
                             "7"
                         ],
                         "answer": 2,
-                        "explanation": "Sihah Sitta means \u0027The Authentic Six\u0027."
+                        "explanation": "Sihah Sitta means 'The Authentic Six'."
                     },
                     {
                         "q": "Which book is considered the most authentic after the Quran?",
@@ -7646,10 +7646,10 @@
                             "Jami at-Tirmidhi"
                         ],
                         "answer": 1,
-                        "explanation": "Muwatta is highly respected but usually not in the \u0027Six\u0027."
+                        "explanation": "Muwatta is highly respected but usually not in the 'Six'."
                     },
                     {
-                        "q": "Who authored the second most authentic Hadith book \u0027Sahih Muslim\u0027?",
+                        "q": "Who authored the second most authentic Hadith book 'Sahih Muslim'?",
                         "options": [
                             "Imam Bukhari",
                             "Imam Muslim bin Al-Hajaj",
@@ -7660,7 +7660,7 @@
                         "explanation": "Muslim bin al-Hajjaj al-Qushayri."
                     },
                     {
-                        "q": "Which book is famous for \u0027Sunan\u0027 (focusing on legal rulings)?",
+                        "q": "Which book is famous for 'Sunan' (focusing on legal rulings)?",
                         "options": [
                             "Sahih Bukhari",
                             "Sunan Abu Dawood",
@@ -7668,7 +7668,7 @@
                             "Jami at-Tirmidhi"
                         ],
                         "answer": 1,
-                        "explanation": "Sunan Abu Dawood focuses on Shar\u0027i ahkam."
+                        "explanation": "Sunan Abu Dawood focuses on Shar'i ahkam."
                     },
                     {
                         "q": "Imam Tirmidhi was the student of?",
@@ -7682,7 +7682,7 @@
                         "explanation": "He was a prominent student of Imam Bukhari."
                     },
                     {
-                        "q": "Which book is known for its categorization of Hadith into Sahih, Hasan, and Da\u0027if?",
+                        "q": "Which book is known for its categorization of Hadith into Sahih, Hasan, and Da'if?",
                         "options": [
                             "Jami at-Tirmidhi",
                             "Sahih Muslim",
@@ -7715,7 +7715,7 @@
                         "explanation": "He selected from around 600,000 narrations."
                     },
                     {
-                        "q": "Which book is \u0027As-Sunan Al-Sughra\u0027?",
+                        "q": "Which book is 'As-Sunan Al-Sughra'?",
                         "options": [
                             "Sunan Ibn Majah",
                             "Sunan Nisai",
@@ -7726,7 +7726,7 @@
                         "explanation": "The smaller Sunan by Imam an-Nisai."
                     },
                     {
-                        "q": "In which city is Imam Muslim\u0027s grave?",
+                        "q": "In which city is Imam Muslim's grave?",
                         "options": [
                             "Bukhara",
                             "Nishapur (Iran)",
@@ -7761,13 +7761,13 @@
                     {
                         "q": "What is the full name of Imam Abu Dawood?",
                         "options": [
-                            "Sulaiman bin Ash\u0027ath",
+                            "Sulaiman bin Ash'ath",
                             "Ahmad bin Hanbal",
                             "Muhammad bin Isa",
                             "Ahmad bin Ali"
                         ],
                         "answer": 0,
-                        "explanation": "Sulaiman bin al-Ash\u0027ath al-Sijistani."
+                        "explanation": "Sulaiman bin al-Ash'ath al-Sijistani."
                     },
                     {
                         "q": "What is the full name of Imam Nisai?",
@@ -7778,10 +7778,10 @@
                             "Muslim"
                         ],
                         "answer": 0,
-                        "explanation": "Ahmad bin Ali bin Shu\u0027ayb an-Nisai."
+                        "explanation": "Ahmad bin Ali bin Shu'ayb an-Nisai."
                     },
                     {
-                        "q": "Imam Tirmidhi\u0027s book is specifically called?",
+                        "q": "Imam Tirmidhi's book is specifically called?",
                         "options": [
                             "Sunan",
                             "Jami",
@@ -7814,7 +7814,7 @@
                         "explanation": "Selection of Imam Abu Dawood."
                     },
                     {
-                        "q": "What does \u0027Muttafaqun Alayh\u0027 mean?",
+                        "q": "What does 'Muttafaqun Alayh' mean?",
                         "options": [
                             "Agreed upon by all Muslims",
                             "Narrated by both Bukhari and Muslim",
@@ -7831,7 +7831,7 @@
                 "icon": "fa-shield-halved",
                 "questions": [
                     {
-                        "q": "The word \u0027Ghazwa\u0027 means?",
+                        "q": "The word 'Ghazwa' means?",
                         "options": [
                             "A small fight",
                             "A battle led by the Prophet (PBUH) in person",
@@ -7842,7 +7842,7 @@
                         "explanation": "Battles where the Prophet (PBUH) participated."
                     },
                     {
-                        "q": "What is a \u0027Sariyah\u0027?",
+                        "q": "What is a 'Sariyah'?",
                         "options": [
                             "A battle on sea",
                             "An expedition where the Prophet (PBUH) did not go personally",
@@ -7850,7 +7850,7 @@
                             "A night attack"
                         ],
                         "answer": 1,
-                        "explanation": "Missions led by companions by Prophet\u0027s order."
+                        "explanation": "Missions led by companions by Prophet's order."
                     },
                     {
                         "q": "How many Ghazwas are mentioned in the Quran?",
@@ -7864,7 +7864,7 @@
                         "explanation": "Approx 12 are referred to."
                     },
                     {
-                        "q": "In which Ghazwa were the Prophet\u0027s teeth martyred?",
+                        "q": "In which Ghazwa were the Prophet's teeth martyred?",
                         "options": [
                             "Badr",
                             "Uhud",
@@ -7875,7 +7875,7 @@
                         "explanation": "Battle of Uhud."
                     },
                     {
-                        "q": "Which battle is known as the \u0027Battle of the Trench\u0027?",
+                        "q": "Which battle is known as the 'Battle of the Trench'?",
                         "options": [
                             "Khaibar",
                             "Ahzab (Khandaq)",
@@ -8007,7 +8007,7 @@
                         "explanation": "Battle of Mutah (8 A.H)."
                     },
                     {
-                        "q": "Who was titled \u0027Saifullah\u0027 (Sword of Allah) after the Battle of Mutah?",
+                        "q": "Who was titled 'Saifullah' (Sword of Allah) after the Battle of Mutah?",
                         "options": [
                             "Hazrat Ali",
                             "Hazrat Khalid bin Waleed",
@@ -8048,7 +8048,7 @@
                             "Internal betrayal"
                         ],
                         "answer": 1,
-                        "explanation": "Archers left the \u0027Jabal-ul-Rumat\u0027 prematurely."
+                        "explanation": "Archers left the 'Jabal-ul-Rumat' prematurely."
                     }
                 ]
             },
@@ -8076,10 +8076,10 @@
                             "Hazrat Usman"
                         ],
                         "answer": 2,
-                        "explanation": "Hazrat Abu Bakr (RA) was chosen immediately after the Prophet\u0027s passing."
+                        "explanation": "Hazrat Abu Bakr (RA) was chosen immediately after the Prophet's passing."
                     },
                     {
-                        "q": "What was the duration of Hazrat Abu Bakr\u0027s caliphate?",
+                        "q": "What was the duration of Hazrat Abu Bakr's caliphate?",
                         "options": [
                             "2 years, 3 months",
                             "10 years",
@@ -8101,7 +8101,7 @@
                         "explanation": "He had to fight Arab tribes that rebelled and stopped paying Zakat."
                     },
                     {
-                        "q": "Who suggested the compilation of the Quran into a single book during Abu Bakr\u0027s reign?",
+                        "q": "Who suggested the compilation of the Quran into a single book during Abu Bakr's reign?",
                         "options": [
                             "Hazrat Ali",
                             "Hazrat Usman",
@@ -8114,7 +8114,7 @@
                     {
                         "q": "Who was appointed by Hazrat Abu Bakr to lead the compilation of the Quran?",
                         "options": [
-                            "Ubayy bin Ka\u0027b",
+                            "Ubayy bin Ka'b",
                             "Abdullah bin Masud",
                             "Zaid bin Thabit",
                             "Abu Hurairah"
@@ -8123,7 +8123,7 @@
                         "explanation": "Zaid bin Thabit (RA) was a primary scribe of the Prophet (PBUH)."
                     },
                     {
-                        "q": "Which great empire did the Muslim armies begin to engage with during Abu Bakr\u0027s rule?",
+                        "q": "Which great empire did the Muslim armies begin to engage with during Abu Bakr's rule?",
                         "options": [
                             "Byzantine and Sassanid",
                             "Roman and Greek",
@@ -8167,7 +8167,7 @@
                         "explanation": "He ruled from 634 to 644 AD."
                     },
                     {
-                        "q": "Which of the following cities was NOT conquered during Hazrat Umar\u0027s reign?",
+                        "q": "Which of the following cities was NOT conquered during Hazrat Umar's reign?",
                         "options": [
                             "Damascus",
                             "Jerusalem",
@@ -8208,7 +8208,7 @@
                             "Died of old age"
                         ],
                         "answer": 1,
-                        "explanation": "He was stabbed by Abu Lu\u0027lu\u0027a Firuz while leading Fajr prayers."
+                        "explanation": "He was stabbed by Abu Lu'lu'a Firuz while leading Fajr prayers."
                     },
                     {
                         "q": "Who was the third Caliph of Islam?",
@@ -8230,10 +8230,10 @@
                             "Saifullah"
                         ],
                         "answer": 2,
-                        "explanation": "Zun-Noorain means \u0027Possessor of Two Lights\u0027 as he married two daughters of the Prophet."
+                        "explanation": "Zun-Noorain means 'Possessor of Two Lights' as he married two daughters of the Prophet."
                     },
                     {
-                        "q": "What was the most significant domestic achievement of Hazrat Usman\u0027s caliphate?",
+                        "q": "What was the most significant domestic achievement of Hazrat Usman's caliphate?",
                         "options": [
                             "Building a navy",
                             "Standardizing the Quranic text",
@@ -8252,7 +8252,7 @@
                             "Hazrat Ali"
                         ],
                         "answer": 2,
-                        "explanation": "Muawiyah, as governor of Syria, built the first fleet with Usman\u0027s permission."
+                        "explanation": "Muawiyah, as governor of Syria, built the first fleet with Usman's permission."
                     },
                     {
                         "q": "How long did Hazrat Usman rule as Caliph?",
@@ -8296,7 +8296,7 @@
                             "Al-Faruq"
                         ],
                         "answer": 2,
-                        "explanation": "Asadullah means \u0027Lion of Allah\u0027. The Prophet also called him Abu Turab."
+                        "explanation": "Asadullah means 'Lion of Allah'. The Prophet also called him Abu Turab."
                     },
                     {
                         "q": "Where did Hazrat Ali move the capital of the Islamic state from Madinah?",
@@ -8354,7 +8354,7 @@
                         "explanation": "He was struck with a poisoned sword by Ibn Muljam, a Kharijite, while praying in Kufa."
                     },
                     {
-                        "q": "Who was the caliph for a brief period of 6 months after Hazrat Ali\u0027s martyrdom?",
+                        "q": "Who was the caliph for a brief period of 6 months after Hazrat Ali's martyrdom?",
                         "options": [
                             "Hazrat Hussain",
                             "Hazrat Muawiyah",
@@ -8373,24 +8373,24 @@
                             "Hazrat Ali"
                         ],
                         "answer": 1,
-                        "explanation": "Hazrat Umar\u0027s reign saw the decisive battles of Qadisiyyah and Nahavand."
+                        "explanation": "Hazrat Umar's reign saw the decisive battles of Qadisiyyah and Nahavand."
                     },
                     {
                         "q": "Who commanded the Muslim army in the crucial Battle of Yarmouk against the Byzantines?",
                         "options": [
                             "Hazrat Umar",
-                            "Abu Ubaidah bin al-Jarrah \u0026 Khalid bin Walid",
+                            "Abu Ubaidah bin al-Jarrah & Khalid bin Walid",
                             "Amr ibn al-Aas",
-                            "Sa\u0027d bin Abi Waqqas"
+                            "Sa'd bin Abi Waqqas"
                         ],
                         "answer": 1,
                         "explanation": "Khalid bin Walid was the tactical commander during this massive victory in Syria."
                     },
                     {
-                        "q": "Who was the commander who conquered Egypt during Hazrat Umar\u0027s reign?",
+                        "q": "Who was the commander who conquered Egypt during Hazrat Umar's reign?",
                         "options": [
                             "Khalid bin Walid",
-                            "Sa\u0027d bin Abi Waqqas",
+                            "Sa'd bin Abi Waqqas",
                             "Amr ibn al-Aas",
                             "Abu Ubaidah"
                         ],
@@ -8406,7 +8406,7 @@
                             "Hazrat Ali"
                         ],
                         "answer": 2,
-                        "explanation": "The Prophet (PBUH) noted Hazrat Usman\u0027s exceptional modesty (Haya)."
+                        "explanation": "The Prophet (PBUH) noted Hazrat Usman's exceptional modesty (Haya)."
                     },
                     {
                         "q": "During whose caliphate was the province of Khurasan and parts of North Africa conquered?",
@@ -8417,7 +8417,7 @@
                             "Hazrat Ali"
                         ],
                         "answer": 2,
-                        "explanation": "Hazrat Usman\u0027s era saw continued expansion east and west."
+                        "explanation": "Hazrat Usman's era saw continued expansion east and west."
                     },
                     {
                         "q": "Hazrat Ali was married to which daughter of Prophet Muhammad (PBUH)?",
@@ -8457,11 +8457,11 @@
                         "options": [
                             "Hazrat Ali",
                             "Khalid bin Walid",
-                            "Qa\u0027qa bin Amr",
+                            "Qa'qa bin Amr",
                             "Zubair bin Awwam"
                         ],
                         "answer": 2,
-                        "explanation": "Qa\u0027qa bin Amr (RA) was an immensely skilled and feared warrior."
+                        "explanation": "Qa'qa bin Amr (RA) was an immensely skilled and feared warrior."
                     },
                     {
                         "q": "How many members were in the committee (Shura) appointed by Hazrat Umar to choose the next Caliph?",
@@ -8475,7 +8475,7 @@
                         "explanation": "He appointed six prominent companions for the Shura."
                     },
                     {
-                        "q": "What was the name of Hazrat Abu Bakr\u0027s father?",
+                        "q": "What was the name of Hazrat Abu Bakr's father?",
                         "options": [
                             "Abu Quhafa",
                             "Khattab",
@@ -8552,7 +8552,7 @@
                         "explanation": "Hazrat Abu Bakr (RA) launched the Ridda Wars to restore unity."
                     },
                     {
-                        "q": "Which companion was nicknamed \u0027Zun-Noorain\u0027 (Possessor of Two Lights)?",
+                        "q": "Which companion was nicknamed 'Zun-Noorain' (Possessor of Two Lights)?",
                         "options": [
                             "Hazrat Umar (RA)",
                             "Hazrat Ali (RA)",
@@ -8565,16 +8565,16 @@
                     {
                         "q": "To whom did Hazrat Umar (RA) assign the task of leading the Tarawih prayers in congregation?",
                         "options": [
-                            "Ubayy bin Ka\u0027b (RA)",
+                            "Ubayy bin Ka'b (RA)",
                             "Zaid bin Thabit (RA)",
                             "Abdullah bin Masud (RA)",
                             "Abu Musa al-Ashari (RA)"
                         ],
                         "answer": 0,
-                        "explanation": "Ubayy bin Ka\u0027b led the congregation efficiently."
+                        "explanation": "Ubayy bin Ka'b led the congregation efficiently."
                     },
                     {
-                        "q": "Which Caliph\u0027s era saw rapid initial expansion of the Islamic state into Persia, Syria, and Egypt?",
+                        "q": "Which Caliph's era saw rapid initial expansion of the Islamic state into Persia, Syria, and Egypt?",
                         "options": [
                             "Hazrat Abu Bakr (RA)",
                             "Hazrat Umar (RA)",
@@ -8593,14 +8593,14 @@
                             "Hazrat Ali (RA)"
                         ],
                         "answer": 3,
-                        "explanation": "It was fought between Hazrat Ali\u0027s forces and Muawiyah\u0027s forces."
+                        "explanation": "It was fought between Hazrat Ali's forces and Muawiyah's forces."
                     },
                     {
                         "q": "Who was appointed to compile the very first collection of the Quran during the time of Abu Bakr (RA)?",
                         "options": [
                             "Abdullah bin Abbas",
                             "Zaid bin Thabit",
-                            "Ubayy bin Ka\u0027b",
+                            "Ubayy bin Ka'b",
                             "Abdur Rahman bin Auf"
                         ],
                         "answer": 1,
@@ -8626,7 +8626,7 @@
                             "Hazrat Muawiyah"
                         ],
                         "answer": 1,
-                        "explanation": "Major expansions into North Africa occurred during Hazrat Usman\u0027s (RA) reign."
+                        "explanation": "Major expansions into North Africa occurred during Hazrat Usman's (RA) reign."
                     },
                     {
                         "q": "Which Caliph was a member of the Umayyad clan?",
@@ -8673,7 +8673,7 @@
                         "explanation": "Abu Quhafa was the father of Hazrat Abu Bakr (RA)."
                     },
                     {
-                        "q": "Who was the first person to call Hazrat Abu Bakr \u0027As-Siddiq\u0027?",
+                        "q": "Who was the first person to call Hazrat Abu Bakr 'As-Siddiq'?",
                         "options": [
                             "Prophet Muhammad (PBUH)",
                             "Hazrat Gabriel",
@@ -8681,7 +8681,7 @@
                             "Hazrat Aisha"
                         ],
                         "answer": 0,
-                        "explanation": "The Prophet (PBUH) titled him As-Siddiq after the Isra and Mi\u0027raj."
+                        "explanation": "The Prophet (PBUH) titled him As-Siddiq after the Isra and Mi'raj."
                     },
                     {
                         "q": "During whose caliphate was the expansion into India initiated?",
@@ -8699,7 +8699,7 @@
                         "options": [
                             "Al-Battar",
                             "Dhulfiqar",
-                            "Al-Ma\u0027thur",
+                            "Al-Ma'thur",
                             "Al-Qadib"
                         ],
                         "answer": 1,
@@ -8717,7 +8717,7 @@
                         "explanation": "Shurayh was a famous judge appointed by Hazrat Umar (RA)."
                     },
                     {
-                        "q": "Which Caliph was known as \u0027Ghani\u0027 (The Wealthy) for his generosity?",
+                        "q": "Which Caliph was known as 'Ghani' (The Wealthy) for his generosity?",
                         "options": [
                             "Hazrat Abu Bakr",
                             "Hazrat Umar",
@@ -8728,7 +8728,7 @@
                         "explanation": "Hazrat Usman (RA) used his vast wealth to serve Islam."
                     },
                     {
-                        "q": "How many verses were revealed in favor of Hazrat Umar\u0027s suggestions (Muwafaqat-e-Umar)?",
+                        "q": "How many verses were revealed in favor of Hazrat Umar's suggestions (Muwafaqat-e-Umar)?",
                         "options": [
                             "3",
                             "12",
@@ -8736,12 +8736,12 @@
                             "More than 20"
                         ],
                         "answer": 3,
-                        "explanation": "Several Quranic verses were revealed confirming Hazrat Umar\u0027s opinions."
+                        "explanation": "Several Quranic verses were revealed confirming Hazrat Umar's opinions."
                     },
                     {
                         "q": "Who was the assassin of Hazrat Ali (RA)?",
                         "options": [
-                            "Abu Lu\u0027lu\u0027a",
+                            "Abu Lu'lu'a",
                             "Abdur Rahman ibn Muljam",
                             "Ibn Mujashi",
                             "Marwan"
@@ -8802,13 +8802,13 @@
                             "Hazrat Ali (RA)"
                         ],
                         "answer": 2,
-                        "explanation": "Hazrat Usman (RA) was known as the personification of \u0027Haya\u0027 (modesty)."
+                        "explanation": "Hazrat Usman (RA) was known as the personification of 'Haya' (modesty)."
                     },
                     {
                         "q": "Who was the companion who compiled the Quran under Hazrat Abu Bakr (RA)?",
                         "options": [
                             "Zaid bin Thabit",
-                            "Ubayy bin Ka\u0027b",
+                            "Ubayy bin Ka'b",
                             "Abdullah bin Abbas",
                             "Hazrat Ali"
                         ],
@@ -8838,7 +8838,7 @@
                         "explanation": "Hazrat Umar (RA) organized the military into a professional department."
                     },
                     {
-                        "q": "Which companion was nicknamed \u0027The Trusted One of this Ummah\u0027?",
+                        "q": "Which companion was nicknamed 'The Trusted One of this Ummah'?",
                         "options": [
                             "Abu Ubaidah bin al-Jarrah",
                             "Abu Bakr",
@@ -8851,16 +8851,16 @@
                     {
                         "q": "Who was the first governor of Kufa?",
                         "options": [
-                            "Sa\u0027d bin Abi Waqqas",
+                            "Sa'd bin Abi Waqqas",
                             "Amr bin al-Aas",
                             "Muawiyah",
                             "Abu Musa al-Ashari"
                         ],
                         "answer": 0,
-                        "explanation": "Sa\u0027d bin Abi Waqqas (RA) was the first governor."
+                        "explanation": "Sa'd bin Abi Waqqas (RA) was the first governor."
                     },
                     {
-                        "q": "Which Caliph established \u0027Bait-ul-Maal\u0027 (Central Treasury)?",
+                        "q": "Which Caliph established 'Bait-ul-Maal' (Central Treasury)?",
                         "options": [
                             "Hazrat Abu Bakr",
                             "Hazrat Umar",
@@ -8893,7 +8893,7 @@
                         "explanation": "Fustat was founded on the orders of Hazrat Umar (RA) by Amr bin al-Aas (RA)."
                     },
                     {
-                        "q": "Who was the first person to call Hazrat Abu Bakr as \u0027As-Siddiq\u0027?",
+                        "q": "Who was the first person to call Hazrat Abu Bakr as 'As-Siddiq'?",
                         "options": [
                             "Hazrat Umar (RA)",
                             "Prophet Muhammad (PBUH)",
@@ -8901,7 +8901,7 @@
                             "Hazrat Khadija (RA)"
                         ],
                         "answer": 1,
-                        "explanation": "The Prophet (PBUH) gave him the title As-Siddiq (The Truthful) after Hazrat Abu Bakr (RA) immediately believed the event of Mi\u0027raj."
+                        "explanation": "The Prophet (PBUH) gave him the title As-Siddiq (The Truthful) after Hazrat Abu Bakr (RA) immediately believed the event of Mi'raj."
                     },
                     {
                         "q": "Which Caliph suppressed the rebellion of false prophets in the Ridda Wars?",
@@ -8948,7 +8948,7 @@
                         "explanation": "Hazrat Ali (RA) shifted the capital from Madinah to Kufa (in present-day Iraq) due to administrative and strategic reasons."
                     },
                     {
-                        "q": "Which Caliph is known by the title \u0027Al-Farooq\u0027?",
+                        "q": "Which Caliph is known by the title 'Al-Farooq'?",
                         "options": [
                             "Hazrat Abu Bakr (RA)",
                             "Hazrat Umar (RA)",
@@ -8959,7 +8959,7 @@
                         "explanation": "The Prophet (PBUH) gave this title to Hazrat Umar (RA) because his acceptance of Islam clearly separated truth from falsehood."
                     },
                     {
-                        "q": "Which Caliph is known as \u0027Jami-ul-Quran\u0027 (The Compiler of the Quran)?",
+                        "q": "Which Caliph is known as 'Jami-ul-Quran' (The Compiler of the Quran)?",
                         "options": [
                             "Hazrat Abu Bakr (RA)",
                             "Hazrat Umar (RA)",
@@ -8978,10 +8978,10 @@
                             "Hazrat Ali (RA)"
                         ],
                         "answer": 1,
-                        "explanation": "Hazrat Umar (RA) formalized the Islamic calendar, initiating it from the year of the Prophet\u0027s (PBUH) migration to Madinah."
+                        "explanation": "Hazrat Umar (RA) formalized the Islamic calendar, initiating it from the year of the Prophet's (PBUH) migration to Madinah."
                     },
                     {
-                        "q": "Who is famously known as \u0027Bab-ul-Ilm\u0027 (The Gateway of Knowledge)?",
+                        "q": "Who is famously known as 'Bab-ul-Ilm' (The Gateway of Knowledge)?",
                         "options": [
                             "Hazrat Abu Bakr (RA)",
                             "Hazrat Umar (RA)",
@@ -8989,7 +8989,7 @@
                             "Hazrat Ali (RA)"
                         ],
                         "answer": 3,
-                        "explanation": "The Prophet (PBUH) said in a Hadith, \u0027I am the city of knowledge and Ali is its gate,\u0027 reflecting his immense wisdom."
+                        "explanation": "The Prophet (PBUH) said in a Hadith, 'I am the city of knowledge and Ali is its gate,' reflecting his immense wisdom."
                     },
                     {
                         "q": "Which Caliph suppressed the rebellion of false prophets in the Ridda Wars?",
@@ -9036,7 +9036,7 @@
                         "explanation": "Hazrat Ali (RA) shifted the capital from Madinah to Kufa (in present-day Iraq) due to administrative and strategic reasons."
                     },
                     {
-                        "q": "Which Caliph had the title \u0027Zun-Nurain\u0027 (Possessor of Two Lights)?",
+                        "q": "Which Caliph had the title 'Zun-Nurain' (Possessor of Two Lights)?",
                         "options": [
                             "Hazrat Abu Bakr (RA)",
                             "Hazrat Umar (RA)",
@@ -9060,7 +9060,7 @@
                     {
                         "q": "How long did the caliphate of Hazrat Abu Bakr (RA) last?",
                         "options": [
-                            "2 years \u0026 3 months",
+                            "2 years & 3 months",
                             "4 years",
                             "10 years",
                             "12 years"
@@ -9072,12 +9072,12 @@
                         "q": "Who was the assassin of Hazrat Umar (RA)?",
                         "options": [
                             "Ibn Muljam",
-                            "Abu Lu\u0027lu\u0027a",
+                            "Abu Lu'lu'a",
                             "Abu Jahl",
                             "Abdullah bin Ubayy"
                         ],
                         "answer": 1,
-                        "explanation": "Hazrat Umar (RA) was martyred by a Persian slave named Abu Lu\u0027lu\u0027a Firuz while leading Fajr prayers."
+                        "explanation": "Hazrat Umar (RA) was martyred by a Persian slave named Abu Lu'lu'a Firuz while leading Fajr prayers."
                     },
                     {
                         "q": "In which battle did Hazrat Ali (RA) fight against the Kharijites?",
@@ -9095,14 +9095,14 @@
                         "options": [
                             "Brother",
                             "Uncle",
-                            "Cousin \u0026 Son-in-law",
+                            "Cousin & Son-in-law",
                             "Nephew"
                         ],
                         "answer": 2,
-                        "explanation": "He was the Prophet\u0027s (PBUH) cousin and became his son-in-law by marrying Hazrat Fatimah (RA)."
+                        "explanation": "He was the Prophet's (PBUH) cousin and became his son-in-law by marrying Hazrat Fatimah (RA)."
                     },
                     {
-                        "q": "Who was the first person to call Hazrat Abu Bakr (RA) as \u0027As-Siddiq\u0027?",
+                        "q": "Who was the first person to call Hazrat Abu Bakr (RA) as 'As-Siddiq'?",
                         "options": [
                             "Hazrat Umar (RA)",
                             "Prophet Muhammad (PBUH)",
@@ -9110,7 +9110,7 @@
                             "Hazrat Khadija (RA)"
                         ],
                         "answer": 1,
-                        "explanation": "The Prophet (PBUH) gave him the title As-Siddiq (The Truthful) after Hazrat Abu Bakr (RA) immediately believed the event of Mi\u0027raj."
+                        "explanation": "The Prophet (PBUH) gave him the title As-Siddiq (The Truthful) after Hazrat Abu Bakr (RA) immediately believed the event of Mi'raj."
                     },
                     {
                         "q": "Which Caliph established the first formal prison system and department of police?",
@@ -9124,7 +9124,7 @@
                         "explanation": "Hazrat Umar (RA) was a pioneer in state administration, establishing the Diwan and a formal police force."
                     },
                     {
-                        "q": "Which companion was known as \u0027Dhu-al-Shihadatayn\u0027 (Winner of Two Testimonies)?",
+                        "q": "Which companion was known as 'Dhu-al-Shihadatayn' (Winner of Two Testimonies)?",
                         "options": [
                             "Hazrat Khuzaymah bin Thabit (RA)",
                             "Hazrat Zaid bin Thabit (RA)",
@@ -9146,7 +9146,7 @@
                         "explanation": "Hazrat Ali ibn Abi Talib (RA) was the fourth and final member of the Rashidun Caliphate."
                     },
                     {
-                        "q": "How many major battles did Muslims fight against the Byzantines during Hazrat Abu Bakr\u0027s period?",
+                        "q": "How many major battles did Muslims fight against the Byzantines during Hazrat Abu Bakr's period?",
                         "options": [
                             "1",
                             "2",
@@ -9187,7 +9187,7 @@
                             "Hazrat Ali (RA)"
                         ],
                         "answer": 1,
-                        "explanation": "Hazrat Umar (RA) organized the state\u0027s financial system professionally."
+                        "explanation": "Hazrat Umar (RA) organized the state's financial system professionally."
                     },
                     {
                         "q": "Which daughter of the Prophet (PBUH) was married to Hazrat Ali (RA)?",
@@ -9203,7 +9203,7 @@
                     {
                         "q": "Who martyred Hazrat Usman (RA)?",
                         "options": [
-                            "Abu Lu\u0027lu\u0027a",
+                            "Abu Lu'lu'a",
                             "Ibn Muljam",
                             "Rebels from Egypt and Iraq",
                             "None of these"
@@ -9264,13 +9264,13 @@
                             "Hazrat Ali (RA)"
                         ],
                         "answer": 2,
-                        "explanation": "Hazrat Usman (RA) was known as the personification of \u0027Haya\u0027 (modesty)."
+                        "explanation": "Hazrat Usman (RA) was known as the personification of 'Haya' (modesty)."
                     },
                     {
                         "q": "Who was the companion who compiled the Quran under Hazrat Abu Bakr (RA)?",
                         "options": [
                             "Zaid bin Thabit",
-                            "Ubayy bin Ka\u0027b",
+                            "Ubayy bin Ka'b",
                             "Abdullah bin Abbas",
                             "Hazrat Ali"
                         ],
@@ -9311,7 +9311,7 @@
                         "explanation": "Umm-ul-Khair Salma bint Sakhar (RA) was his mother."
                     },
                     {
-                        "q": "Which Caliph\u0027s conversion gave great strength to the early Muslims in Makkah?",
+                        "q": "Which Caliph's conversion gave great strength to the early Muslims in Makkah?",
                         "options": [
                             "Hazrat Abu Bakr",
                             "Hazrat Umar",
@@ -9319,10 +9319,10 @@
                             "Hazrat Ali"
                         ],
                         "answer": 1,
-                        "explanation": "Hazrat Umar\u0027s (RA) acceptance of Islam allowed Muslims to pray openly."
+                        "explanation": "Hazrat Umar's (RA) acceptance of Islam allowed Muslims to pray openly."
                     },
                     {
-                        "q": "Who was the first person to call Hazrat Abu Bakr \u0027As-Siddiq\u0027?",
+                        "q": "Who was the first person to call Hazrat Abu Bakr 'As-Siddiq'?",
                         "options": [
                             "Prophet Muhammad (PBUH)",
                             "Hazrat Gabriel",
@@ -9330,7 +9330,7 @@
                             "Hazrat Aisha"
                         ],
                         "answer": 0,
-                        "explanation": "The Prophet (PBUH) titled him As-Siddiq after the Isra and Mi\u0027raj."
+                        "explanation": "The Prophet (PBUH) titled him As-Siddiq after the Isra and Mi'raj."
                     },
                     {
                         "q": "During whose caliphate was the expansion into India initiated?",
@@ -9348,7 +9348,7 @@
                         "options": [
                             "Al-Battar",
                             "Dhulfiqar",
-                            "Al-Ma\u0027thur",
+                            "Al-Ma'thur",
                             "Al-Qadib"
                         ],
                         "answer": 1,
@@ -9366,7 +9366,7 @@
                         "explanation": "Shurayh was a famous judge appointed by Hazrat Umar (RA)."
                     },
                     {
-                        "q": "Which Caliph was known as \u0027Ghani\u0027 (The Wealthy) for his generosity?",
+                        "q": "Which Caliph was known as 'Ghani' (The Wealthy) for his generosity?",
                         "options": [
                             "Hazrat Abu Bakr",
                             "Hazrat Umar",
@@ -9377,7 +9377,7 @@
                         "explanation": "Hazrat Usman (RA) used his vast wealth to serve Islam."
                     },
                     {
-                        "q": "How many verses were revealed in favor of Hazrat Umar\u0027s suggestions (Muwafaqat-e-Umar)?",
+                        "q": "How many verses were revealed in favor of Hazrat Umar's suggestions (Muwafaqat-e-Umar)?",
                         "options": [
                             "3",
                             "12",
@@ -9385,12 +9385,12 @@
                             "More than 20"
                         ],
                         "answer": 3,
-                        "explanation": "Several Quranic verses were revealed confirming Hazrat Umar\u0027s opinions."
+                        "explanation": "Several Quranic verses were revealed confirming Hazrat Umar's opinions."
                     },
                     {
                         "q": "Who was the assassin of Hazrat Ali (RA)?",
                         "options": [
-                            "Abu Lu\u0027lu\u0027a",
+                            "Abu Lu'lu'a",
                             "Abdur Rahman ibn Muljam",
                             "Ibn Mujashi",
                             "Marwan"
@@ -9432,7 +9432,7 @@
                         "explanation": "Hazrat Umar (RA) was stabbed while leading the congregation."
                     },
                     {
-                        "q": "Which Caliph was the last to be buried in the Prophet\u0027s Mosque?",
+                        "q": "Which Caliph was the last to be buried in the Prophet's Mosque?",
                         "options": [
                             "Hazrat Abu Bakr",
                             "Hazrat Umar",
@@ -9443,7 +9443,7 @@
                         "explanation": "Only Abu Bakr and Umar (RA) are buried there."
                     },
                     {
-                        "q": "Who were the \u0027Ashara Mubashara\u0027?",
+                        "q": "Who were the 'Ashara Mubashara'?",
                         "options": [
                             "10 promised paradise",
                             "10 writers of Quran",
@@ -9467,13 +9467,13 @@
                     {
                         "q": "Who was the commander of the Muslim army in the Battle of Qadisiyah?",
                         "options": [
-                            "Sa\u0027d bin Abi Waqqas",
+                            "Sa'd bin Abi Waqqas",
                             "Khalid bin Walid",
                             "Amr bin al-Aas",
                             "Abu Ubaidah"
                         ],
                         "answer": 0,
-                        "explanation": "Sa\u0027d bin Abi Waqqas (RA) led the victory against the Persians."
+                        "explanation": "Sa'd bin Abi Waqqas (RA) led the victory against the Persians."
                     },
                     {
                         "q": "Which Caliph had the longest reign among the Rashidun?",
@@ -9509,7 +9509,7 @@
                         "explanation": "Hazrat Hasan (RA) ruled for about 6 months before making peace."
                     },
                     {
-                        "q": "Which Caliph was known for his \u0027Zuhd\u0027 (Asceticism) even while being a ruler?",
+                        "q": "Which Caliph was known for his 'Zuhd' (Asceticism) even while being a ruler?",
                         "options": [
                             "All of them",
                             "Only Hazrat Ali",
@@ -9520,7 +9520,7 @@
                         "explanation": "All Rashidun caliphs lived extremely simple lives."
                     },
                     {
-                        "q": "Who was the \u0027Secretary of the State\u0027 during Hazrat Abu Bakr\u0027s caliphate?",
+                        "q": "Who was the 'Secretary of the State' during Hazrat Abu Bakr's caliphate?",
                         "options": [
                             "Hazrat Usman",
                             "Hazrat Ali",
@@ -9531,7 +9531,7 @@
                         "explanation": "Zaid bin Thabit (RA) handled much of the official correspondence."
                     },
                     {
-                        "q": "Which Caliph introduced the \u0027Ushr\u0027 (10% tax on trade)?",
+                        "q": "Which Caliph introduced the 'Ushr' (10% tax on trade)?",
                         "options": [
                             "Hazrat Abu Bakr",
                             "Hazrat Umar",
@@ -9564,7 +9564,7 @@
                         "explanation": "Hazrat Khadija (RA) was the first believer."
                     },
                     {
-                        "q": "Which Caliph was known as \u0027Siddiq-e-Akbar\u0027?",
+                        "q": "Which Caliph was known as 'Siddiq-e-Akbar'?",
                         "options": [
                             "Hazrat Abu Bakr",
                             "Hazrat Umar",
@@ -9572,7 +9572,7 @@
                             "Hazrat Ali"
                         ],
                         "answer": 0,
-                        "explanation": "It means \u0027The Greatest Truthful\u0027."
+                        "explanation": "It means 'The Greatest Truthful'."
                     },
                     {
                         "q": "Who defeated Musaylimah the Liar?",
@@ -9594,10 +9594,10 @@
                             "Hazrat Ali"
                         ],
                         "answer": 3,
-                        "explanation": "The Battle of Jamal (36 AH) was fought during Hazrat Ali\u0027s (RA) time."
+                        "explanation": "The Battle of Jamal (36 AH) was fought during Hazrat Ali's (RA) time."
                     },
                     {
-                        "q": "Who were the \u0027Abadilah\u0027 (The Four Abdullahs)?",
+                        "q": "Who were the 'Abadilah' (The Four Abdullahs)?",
                         "options": [
                             "Famous scholars among Sahaba",
                             "A military group",
@@ -9621,13 +9621,13 @@
                     {
                         "q": "Who was the first governor of Kufa?",
                         "options": [
-                            "Sa\u0027d bin Abi Waqqas",
+                            "Sa'd bin Abi Waqqas",
                             "Amr bin al-Aas",
                             "Muawiyah",
                             "Abu Musa al-Ashari"
                         ],
                         "answer": 0,
-                        "explanation": "Sa\u0027d bin Abi Waqqas (RA) was the first governor."
+                        "explanation": "Sa'd bin Abi Waqqas (RA) was the first governor."
                     },
                     {
                         "q": "Which Caliph sent 12,000 troops to help Amr bin al-Aas in Egypt?",
@@ -9652,7 +9652,7 @@
                         "explanation": "He often mentioned Dajnan with humility regarding his past."
                     },
                     {
-                        "q": "Who was the first Muslim to be called \u0027Amir-ul-Momineen\u0027?",
+                        "q": "Who was the first Muslim to be called 'Amir-ul-Momineen'?",
                         "options": [
                             "Hazrat Abu Bakr",
                             "Hazrat Umar",
@@ -9726,10 +9726,10 @@
                             "Muawiyah"
                         ],
                         "answer": 1,
-                        "explanation": "The conquest of Cyprus occurred during Hazrat Usman\u0027s (RA) reign."
+                        "explanation": "The conquest of Cyprus occurred during Hazrat Usman's (RA) reign."
                     },
                     {
-                        "q": "Which companion was nicknamed \u0027The Trusted One of this Ummah\u0027?",
+                        "q": "Which companion was nicknamed 'The Trusted One of this Ummah'?",
                         "options": [
                             "Abu Ubaidah bin al-Jarrah",
                             "Abu Bakr",
@@ -9740,7 +9740,7 @@
                         "explanation": "The Prophet (PBUH) called him Ameen-ul-Ummah."
                     },
                     {
-                        "q": "How many times is the word \u0027Caliph\u0027 (Khalifa) mentioned in the Quran in singular form?",
+                        "q": "How many times is the word 'Caliph' (Khalifa) mentioned in the Quran in singular form?",
                         "options": [
                             "1",
                             "2",
@@ -9762,7 +9762,7 @@
                         "explanation": "Arwa bint Kurayz (RA) was his mother."
                     },
                     {
-                        "q": "Which Caliph was known as \u0027Asadullah\u0027 (Lion of Allah)?",
+                        "q": "Which Caliph was known as 'Asadullah' (Lion of Allah)?",
                         "options": [
                             "Hazrat Ali",
                             "Hazrat Hamza",
@@ -9775,16 +9775,16 @@
                     {
                         "q": "Who was the commander who conquered Persia for Hazrat Umar?",
                         "options": [
-                            "Sa\u0027d bin Abi Waqqas",
+                            "Sa'd bin Abi Waqqas",
                             "Khalid bin Walid",
                             "Musa bin Nusayr",
                             "Tariq bin Ziyad"
                         ],
                         "answer": 0,
-                        "explanation": "Sa\u0027d bin Abi Waqqas (RA) won the battle of Qadisiyah."
+                        "explanation": "Sa'd bin Abi Waqqas (RA) won the battle of Qadisiyah."
                     },
                     {
-                        "q": "Which Caliph had the title \u0027Zun-Nurain\u0027?",
+                        "q": "Which Caliph had the title 'Zun-Nurain'?",
                         "options": [
                             "Hazrat Usman",
                             "Hazrat Ali",
@@ -9817,7 +9817,7 @@
                         "explanation": "Approx 2 years and 3 months (632-634 AD)."
                     },
                     {
-                        "q": "Who earned the title \u0027Zun-Noorain\u0027?",
+                        "q": "Who earned the title 'Zun-Noorain'?",
                         "options": [
                             "Hazrat Ali",
                             "Hazrat Usman",
@@ -9828,7 +9828,7 @@
                         "explanation": "Hazrat Usman was married to two daughters of the Prophet (PBUH)."
                     },
                     {
-                        "q": "Which Caliph is known as \u0027Farooq-e-Azam\u0027?",
+                        "q": "Which Caliph is known as 'Farooq-e-Azam'?",
                         "options": [
                             "Hazrat Umar",
                             "Hazrat Abu Bakar",
@@ -9847,7 +9847,7 @@
                             "Hazrat Ali"
                         ],
                         "answer": 1,
-                        "explanation": "Jerusalem was conquered during Hazrat Umar\u0027s reign."
+                        "explanation": "Jerusalem was conquered during Hazrat Umar's reign."
                     },
                     {
                         "q": "How many years did Hazrat Umar (R.A) rule?",
@@ -9913,7 +9913,7 @@
                             "Hazrat Usman"
                         ],
                         "answer": 1,
-                        "explanation": "Earned him the title \u0027As-Siddiq\u0027."
+                        "explanation": "Earned him the title 'As-Siddiq'."
                     },
                     {
                         "q": "What was the name of the battle between Hazrat Ali and Hazrat Aisha?",
@@ -9949,7 +9949,7 @@
                         "explanation": "Jami-ul-Quran (Usman R.A)."
                     },
                     {
-                        "q": "Hazrat Abu Bakar\u0027s real name was?",
+                        "q": "Hazrat Abu Bakar's real name was?",
                         "options": [
                             "Abdullah",
                             "Abud-Dar",
@@ -9960,7 +9960,7 @@
                         "explanation": "Abdullah ibn Abi Quhafa."
                     },
                     {
-                        "q": "How many months was Hazrat Hasan\u0027s (R.A) caliphate?",
+                        "q": "How many months was Hazrat Hasan's (R.A) caliphate?",
                         "options": [
                             "6 months",
                             "1 year",
@@ -10001,7 +10001,7 @@
                     {
                         "q": "Circling the Kaaba seven times during Hajj or Umrah is known as:",
                         "options": [
-                            "Sa\u0027i",
+                            "Sa'i",
                             "Tawaf",
                             "Wuquf",
                             "Rami"
@@ -10018,13 +10018,13 @@
                             "Safa"
                         ],
                         "answer": 2,
-                        "explanation": "The Prophet (PBUH) said \u0027Hajj is Arafat.\u0027 Missing it invalidates the Hajj."
+                        "explanation": "The Prophet (PBUH) said 'Hajj is Arafat.' Missing it invalidates the Hajj."
                     },
                     {
                         "q": "The symbolic stoning of the devil during Hajj is called:",
                         "options": [
                             "Tawaf",
-                            "Sa\u0027i",
+                            "Sa'i",
                             "Rami al-Jamarat",
                             "Talbiyah"
                         ],
@@ -10065,7 +10065,7 @@
                         "explanation": "Staying at Arafat is the most critical part of Hajj."
                     },
                     {
-                        "q": "What is \u0027Tahajjud\u0027?",
+                        "q": "What is 'Tahajjud'?",
                         "options": [
                             "Mandatory night prayer",
                             "Voluntary late-night prayer",
@@ -10081,13 +10081,13 @@
                             "Hajj-e-Akbar",
                             "Umrah",
                             "Ziyarat",
-                            "I\u0027tikaf"
+                            "I'tikaf"
                         ],
                         "answer": 1,
                         "explanation": "Umrah is the lesser pilgrimage and can be performed year-round."
                     },
                     {
-                        "q": "What is \u0027Rami\u0027 during Hajj?",
+                        "q": "What is 'Rami' during Hajj?",
                         "options": [
                             "Stoning the devils",
                             "Sacrificing animal",
@@ -10153,7 +10153,7 @@
                         "explanation": "Hajj, the final pillar of Islam, is performed in the holy month of Zil-Hajj."
                     },
                     {
-                        "q": "What is \u0027Rami\u0027 during Hajj?",
+                        "q": "What is 'Rami' during Hajj?",
                         "options": [
                             "Stoning the pillars (Jamarat)",
                             "Circling the Kaaba",
@@ -10164,7 +10164,7 @@
                         "explanation": "Rami is the symbolic stoning of the devil."
                     },
                     {
-                        "q": "How many times is \u0027Hajj\u0027 mentioned in the Quran?",
+                        "q": "How many times is 'Hajj' mentioned in the Quran?",
                         "options": [
                             "1",
                             "5",
@@ -10175,7 +10175,7 @@
                         "explanation": "The word Hajj is mentioned 11 times in the Quran."
                     },
                     {
-                        "q": "What is the \u0027Tahajjud\u0027 prayer?",
+                        "q": "What is the 'Tahajjud' prayer?",
                         "options": [
                             "Afternoon prayer",
                             "Morning prayer",
@@ -10190,7 +10190,7 @@
                         "options": [
                             "Ramadan",
                             "Shawwal",
-                            "Dhu al-Qi\u0027dah",
+                            "Dhu al-Qi'dah",
                             "Dhu al-Hijjah"
                         ],
                         "answer": 3,
@@ -10225,7 +10225,7 @@
                         "explanation": "Adhan is called out to announce the entry of the prayer time."
                     },
                     {
-                        "q": "How many Raka\u0027ats (units) are in the obligatory (Fard) Zuhr prayer?",
+                        "q": "How many Raka'ats (units) are in the obligatory (Fard) Zuhr prayer?",
                         "options": [
                             "2",
                             "3",
@@ -10233,10 +10233,10 @@
                             "5"
                         ],
                         "answer": 2,
-                        "explanation": "Zuhr consists of 4 Fard Raka\u0027ats."
+                        "explanation": "Zuhr consists of 4 Fard Raka'ats."
                     },
                     {
-                        "q": "How many Raka\u0027ats (units) are in the obligatory (Fard) Fajr prayer?",
+                        "q": "How many Raka'ats (units) are in the obligatory (Fard) Fajr prayer?",
                         "options": [
                             "2",
                             "3",
@@ -10244,7 +10244,7 @@
                             "5"
                         ],
                         "answer": 0,
-                        "explanation": "Fajr consists of 2 Fard Raka\u0027ats."
+                        "explanation": "Fajr consists of 2 Fard Raka'ats."
                     },
                     {
                         "q": "Which prayer is performed entirely silently by the Imam (except for Takbeers)?",
@@ -10252,7 +10252,7 @@
                             "Fajr and Maghrib",
                             "Zuhr and Asr",
                             "Maghrib and Isha",
-                            "Friday (Jumu\u0027ah) prayer"
+                            "Friday (Jumu'ah) prayer"
                         ],
                         "answer": 1,
                         "explanation": "Zuhr and Asr are recite silently."
@@ -10332,10 +10332,10 @@
                             "500"
                         ],
                         "answer": 1,
-                        "explanation": "During Mi\u0027raj, the prayers were initially 50 and then reduced to 5."
+                        "explanation": "During Mi'raj, the prayers were initially 50 and then reduced to 5."
                     },
                     {
-                        "q": "How many Takbeers are in the first Raka\u0027at of Eid prayer (according to Hanafi)?",
+                        "q": "How many Takbeers are in the first Raka'at of Eid prayer (according to Hanafi)?",
                         "options": [
                             "3 additional",
                             "7 additional",
@@ -10343,10 +10343,10 @@
                             "None"
                         ],
                         "answer": 0,
-                        "explanation": "The Hanafi school prescribes 3 additional Takbeers in the first Raka\u0027at."
+                        "explanation": "The Hanafi school prescribes 3 additional Takbeers in the first Raka'at."
                     },
                     {
-                        "q": "How many Raka\u0027at are in the Maghrib Fard prayer?",
+                        "q": "How many Raka'at are in the Maghrib Fard prayer?",
                         "options": [
                             "2",
                             "3",
@@ -10354,10 +10354,10 @@
                             "5"
                         ],
                         "answer": 1,
-                        "explanation": "Maghrib Fard consists of 3 Raka\u0027ats."
+                        "explanation": "Maghrib Fard consists of 3 Raka'ats."
                     },
                     {
-                        "q": "Which prayer has 2 Fard Raka\u0027ats and is performed at dawn?",
+                        "q": "Which prayer has 2 Fard Raka'ats and is performed at dawn?",
                         "options": [
                             "Zuhr",
                             "Asr",
@@ -10390,7 +10390,7 @@
                         "explanation": "Ishraq is a voluntary (Nafl) prayer performed shortly after the sun rises."
                     },
                     {
-                        "q": "How many Raka\u0027ats are in the Fajr prayer (Sunnah + Fard)?",
+                        "q": "How many Raka'ats are in the Fajr prayer (Sunnah + Fard)?",
                         "options": [
                             "2",
                             "4",
@@ -10398,7 +10398,7 @@
                             "8"
                         ],
                         "answer": 1,
-                        "explanation": "Fajr consists of 2 Sunnah and 2 Fard Raka\u0027ats."
+                        "explanation": "Fajr consists of 2 Sunnah and 2 Fard Raka'ats."
                     },
                     {
                         "q": "Which prayer is skipped during the journey if it is shortened (Qasr)?",
@@ -10412,7 +10412,7 @@
                         "explanation": "Common practice allows skipping non-emphasized Sunnah prayers while traveling, except for Fajr Sunnah and Witr."
                     },
                     {
-                        "q": "What is \u0027Witr\u0027 prayer?",
+                        "q": "What is 'Witr' prayer?",
                         "options": [
                             "Part of Fajr",
                             "Part of Maghrib",
@@ -10420,7 +10420,7 @@
                             "Friday prayer"
                         ],
                         "answer": 2,
-                        "explanation": "Witr is an odd-numbered Raka\u0027at prayer performed after Isha."
+                        "explanation": "Witr is an odd-numbered Raka'at prayer performed after Isha."
                     },
                     {
                         "q": "Which prayer has no Ruku or Sujood?",
@@ -10445,7 +10445,7 @@
                         "explanation": "Tarawih is specific to the month of Ramadan."
                     },
                     {
-                        "q": "How many Raka\u0027ats are in the Tarawih prayer (commonly)?",
+                        "q": "How many Raka'ats are in the Tarawih prayer (commonly)?",
                         "options": [
                             "8",
                             "20",
@@ -10453,7 +10453,7 @@
                             "40"
                         ],
                         "answer": 2,
-                        "explanation": "Muslims commonly pray 8 or 20 Raka\u0027ats based on different schools/traditions."
+                        "explanation": "Muslims commonly pray 8 or 20 Raka'ats based on different schools/traditions."
                     },
                     {
                         "q": "Which prayer is performed for rain?",
@@ -10470,7 +10470,7 @@
                         "q": "Which prayer has no Adhan and no Iqamah?",
                         "options": [
                             "Eid Prayer",
-                            "Jumu\u0027ah",
+                            "Jumu'ah",
                             "Maghrib",
                             "Fajr"
                         ],
@@ -10500,7 +10500,7 @@
                         "explanation": "Salat-ul-Khamsah refers to the 5 obligatory prayers."
                     },
                     {
-                        "q": "What is the minimum number of people required for Jumu\u0027ah (Friday) prayer according to most scholars?",
+                        "q": "What is the minimum number of people required for Jumu'ah (Friday) prayer according to most scholars?",
                         "options": [
                             "None",
                             "2",
@@ -10533,7 +10533,7 @@
                         "explanation": "Istisqa is the prayer for rain during drought."
                     },
                     {
-                        "q": "How many Takbeers are in the first Raka\u0027at of Eid prayer (according to the Hanafi school)?",
+                        "q": "How many Takbeers are in the first Raka'at of Eid prayer (according to the Hanafi school)?",
                         "options": [
                             "3 additional",
                             "6 additional",
@@ -10541,10 +10541,10 @@
                             "12 additional"
                         ],
                         "answer": 0,
-                        "explanation": "Hanafi school has 3 additional Takbeers in the first Raka\u0027at."
+                        "explanation": "Hanafi school has 3 additional Takbeers in the first Raka'at."
                     },
                     {
-                        "q": "What is \u0027Qasr\u0027 prayer?",
+                        "q": "What is 'Qasr' prayer?",
                         "options": [
                             "Shortening the prayer during travel",
                             "Lengthening the prayer",
@@ -10552,10 +10552,10 @@
                             "Night prayer"
                         ],
                         "answer": 0,
-                        "explanation": "Shortening 4-Raka\u0027at Fard prayers to 2 during a journey."
+                        "explanation": "Shortening 4-Raka'at Fard prayers to 2 during a journey."
                     },
                     {
-                        "q": "How many Raka\u0027ats are in the Jumu\u0027ah Fard prayer?",
+                        "q": "How many Raka'ats are in the Jumu'ah Fard prayer?",
                         "options": [
                             "2",
                             "4",
@@ -10563,10 +10563,10 @@
                             "12"
                         ],
                         "answer": 0,
-                        "explanation": "The congregational Friday prayer has 2 Fard Raka\u0027ats."
+                        "explanation": "The congregational Friday prayer has 2 Fard Raka'ats."
                     },
                     {
-                        "q": "What is \u0027Nafil\u0027 prayer?",
+                        "q": "What is 'Nafil' prayer?",
                         "options": [
                             "Obligatory prayer",
                             "Voluntary prayer",
@@ -10577,7 +10577,7 @@
                         "explanation": "Nafil prayers are extra voluntary prayers."
                     },
                     {
-                        "q": "What is the \u0027Tahajjud\u0027 prayer?",
+                        "q": "What is the 'Tahajjud' prayer?",
                         "options": [
                             "Afternoon prayer",
                             "Morning prayer",
@@ -10588,10 +10588,10 @@
                         "explanation": "A highly rewarded voluntary prayer performed in the last third of the night."
                     },
                     {
-                        "q": "What is the \u0027Witr\u0027 prayer?",
+                        "q": "What is the 'Witr' prayer?",
                         "options": [
-                            "An even number of Raka\u0027at",
-                            "An odd number of Raka\u0027at performed at night",
+                            "An even number of Raka'at",
+                            "An odd number of Raka'at performed at night",
                             "Morning prayer",
                             "Friday prayer"
                         ],
@@ -10611,7 +10611,6 @@
                     }
                 ]
             },
-            ,
             {
                 "category": "Holy Books",
                 "icon": "fa-book",
@@ -10661,7 +10660,7 @@
                         "explanation": "Injeel (Gospel) was revealed to Jesus (A.S)."
                     },
                     {
-                        "q": "What were the \u0027Suhuf\u0027 revealed to Prophet Ibrahim (A.S)?",
+                        "q": "What were the 'Suhuf' revealed to Prophet Ibrahim (A.S)?",
                         "options": [
                             "Books",
                             "Scrolls",
@@ -10716,7 +10715,7 @@
                         "explanation": "Allah has promised to protect the Quran from any change."
                     },
                     {
-                        "q": "Which book is called \u0027Old Testament\u0027 by Christians?",
+                        "q": "Which book is called 'Old Testament' by Christians?",
                         "options": [
                             "Zabur",
                             "Torah",
@@ -10727,7 +10726,7 @@
                         "explanation": "The Torah corresponds to the first five books of the Old Testament."
                     },
                     {
-                        "q": "Which book is called \u0027New Testament\u0027?",
+                        "q": "Which book is called 'New Testament'?",
                         "options": [
                             "Injeel",
                             "Quran",
@@ -10738,7 +10737,7 @@
                         "explanation": "Injeel is associated with the New Testament."
                     },
                     {
-                        "q": "Which Prophet was given the \u0027Suhuf\u0027 other than Ibrahim (A.S)?",
+                        "q": "Which Prophet was given the 'Suhuf' other than Ibrahim (A.S)?",
                         "options": [
                             "Prophet Shuaib",
                             "Prophet Musa (before Torah)",
@@ -10771,7 +10770,7 @@
                         "explanation": "The Quran is the final and universal guidance."
                     },
                     {
-                        "q": "Who is the \u0027Spirit of Truth\u0027 mentioned in previous scriptures?",
+                        "q": "Who is the 'Spirit of Truth' mentioned in previous scriptures?",
                         "options": [
                             "Angel Jibril",
                             "Prophet Muhammad (PBUH)",
@@ -10782,7 +10781,7 @@
                         "explanation": "Islamic scholars identify the paraclete/spirit of truth as Prophet Muhammad (PBUH)."
                     },
                     {
-                        "q": "The word \u0027Quran\u0027 means?",
+                        "q": "The word 'Quran' means?",
                         "options": [
                             "The Book",
                             "That which is Read",
@@ -10790,7 +10789,7 @@
                             "The Truth"
                         ],
                         "answer": 1,
-                        "explanation": "Derived from \u0027Qara-a\u0027 (to read/recite)."
+                        "explanation": "Derived from 'Qara-a' (to read/recite)."
                     },
                     {
                         "q": "What is the primary theme of all Holy Books?",
@@ -10815,7 +10814,7 @@
                         "explanation": "Approx 600 years."
                     },
                     {
-                        "q": "Which book mentions the \u0027Psalms\u0027?",
+                        "q": "Which book mentions the 'Psalms'?",
                         "options": [
                             "Quran mentions Zabur",
                             "Torah",
@@ -10843,7 +10842,7 @@
                 "icon": "fa-sword",
                 "questions": [
                     {
-                        "q": "What is the literal meaning of \u0027Jihad\u0027?",
+                        "q": "What is the literal meaning of 'Jihad'?",
                         "options": [
                             "Holy War",
                             "To Strive or Struggle",
@@ -10854,10 +10853,10 @@
                         "explanation": "Jihad means to exert effort for a noble cause."
                     },
                     {
-                        "q": "Which Jihad is called \u0027Jihad-e-Akbar\u0027 (Greatest Jihad)?",
+                        "q": "Which Jihad is called 'Jihad-e-Akbar' (Greatest Jihad)?",
                         "options": [
                             "Battlefield Jihad",
-                            "Jihad against one\u0027s own desires (Nafs)",
+                            "Jihad against one's own desires (Nafs)",
                             "Jihad by wealth",
                             "Jihad by tongue"
                         ],
@@ -10953,7 +10952,7 @@
                         "explanation": "Killing non-combatants is strictly forbidden."
                     },
                     {
-                        "q": "What is \u0027Jihad-bil-Lisan\u0027?",
+                        "q": "What is 'Jihad-bil-Lisan'?",
                         "options": [
                             "Jihad by sword",
                             "Jihad by speaking truth",
@@ -10964,7 +10963,7 @@
                         "explanation": "Speaking out for justice."
                     },
                     {
-                        "q": "Which Prophet\u0027s life is a model for patience and Jihad?",
+                        "q": "Which Prophet's life is a model for patience and Jihad?",
                         "options": [
                             "Prophet Muhammad (PBUH)",
                             "Prophet Musa",
@@ -10997,7 +10996,7 @@
                         "explanation": "Offensive Jihad usually requires organized leadership."
                     },
                     {
-                        "q": "What does \u0027Fi-Sabilillah\u0027 mean?",
+                        "q": "What does 'Fi-Sabilillah' mean?",
                         "options": [
                             "For oneself",
                             "In the way of Allah",
@@ -11008,7 +11007,7 @@
                         "explanation": "Truly for the sake of Allah."
                     },
                     {
-                        "q": "What is \u0027Jihad-bil-Qalam\u0027?",
+                        "q": "What is 'Jihad-bil-Qalam'?",
                         "options": [
                             "Jihad by sword",
                             "Jihad by writing/pen",
@@ -11019,7 +11018,7 @@
                         "explanation": "Intellectual and written defense of Islam."
                     },
                     {
-                        "q": "Which Sahabi was titled \u0027Asadullah\u0027?",
+                        "q": "Which Sahabi was titled 'Asadullah'?",
                         "options": [
                             "Hazrat Umar",
                             "Hazrat Ali",
@@ -11027,10 +11026,10 @@
                             "Hazrat Bilal"
                         ],
                         "answer": 1,
-                        "explanation": "Ali (R.A) was the \u0027Lion of Allah\u0027."
+                        "explanation": "Ali (R.A) was the 'Lion of Allah'."
                     },
                     {
-                        "q": "Which Sahabi was \u0027Saifullah\u0027?",
+                        "q": "Which Sahabi was 'Saifullah'?",
                         "options": [
                             "Khalid bin Waleed",
                             "Hamza",
@@ -11052,7 +11051,7 @@
                         "explanation": "The Prophet (PBUH) told a man that serving parents is Jihad for him."
                     },
                     {
-                        "q": "What is the status of a martyr\u0027s soul?",
+                        "q": "What is the status of a martyr's soul?",
                         "options": [
                             "It sleeps",
                             "It is alive and provided for near Allah",
@@ -11091,7 +11090,7 @@
                         "explanation": "Farooq (the one who distinguishes truth from falsehood)."
                     },
                     {
-                        "q": "Who was titled \u0027Zun-Noorain\u0027?",
+                        "q": "Who was titled 'Zun-Noorain'?",
                         "options": [
                             "Hazrat Usman",
                             "Hazrat Ali",
@@ -11110,10 +11109,10 @@
                             "Saifullah"
                         ],
                         "answer": 0,
-                        "explanation": "Prophet called him \u0027Abu Turab\u0027 (Father of Dust)."
+                        "explanation": "Prophet called him 'Abu Turab' (Father of Dust)."
                     },
                     {
-                        "q": "Who was titled \u0027Saifullah\u0027?",
+                        "q": "Who was titled 'Saifullah'?",
                         "options": [
                             "Khalid bin Waleed",
                             "Hamza bin Abdul Muttalib",
@@ -11124,7 +11123,7 @@
                         "explanation": "Sword of Allah."
                     },
                     {
-                        "q": "Who was titled \u0027Asadullah\u0027?",
+                        "q": "Who was titled 'Asadullah'?",
                         "options": [
                             "Hazrat Hamza and Hazrat Ali",
                             "Hazrat Umar",
@@ -11146,7 +11145,7 @@
                         "explanation": "Sword of Allah."
                     },
                     {
-                        "q": "Who was titled \u0027Saqi-e-Zamzam\u0027?",
+                        "q": "Who was titled 'Saqi-e-Zamzam'?",
                         "options": [
                             "Hazrat Abbas (R.A)",
                             "Hazrat Ali",
@@ -11154,10 +11153,10 @@
                             "Hazrat Abu Bakar"
                         ],
                         "answer": 0,
-                        "explanation": "Prophet\u0027s uncle Hazrat Abbas."
+                        "explanation": "Prophet's uncle Hazrat Abbas."
                     },
                     {
-                        "q": "Who was titled \u0027Ameen-ul-Ummat\u0027?",
+                        "q": "Who was titled 'Ameen-ul-Ummat'?",
                         "options": [
                             "Abu Ubaidah bin Jarrah",
                             "Hazrat Umar",
@@ -11168,7 +11167,7 @@
                         "explanation": "The trustworthy of the nation."
                     },
                     {
-                        "q": "Who was titled \u0027Babul Ilm\u0027 (Gate of Knowledge)?",
+                        "q": "Who was titled 'Babul Ilm' (Gate of Knowledge)?",
                         "options": [
                             "Hazrat Ali",
                             "Hazrat Umar",
@@ -11179,7 +11178,7 @@
                         "explanation": "I am the city of knowledge and Ali is its gate."
                     },
                     {
-                        "q": "Who was known as \u0027Ghani\u0027?",
+                        "q": "Who was known as 'Ghani'?",
                         "options": [
                             "Hazrat Usman",
                             "Hazrat Abu Bakar",
@@ -11190,7 +11189,7 @@
                         "explanation": "The Generous/Rich (Usman R.A)."
                     },
                     {
-                        "q": "Who was called \u0027Tarjuman-ul-Quran\u0027?",
+                        "q": "Who was called 'Tarjuman-ul-Quran'?",
                         "options": [
                             "Hazrat Abdullah bin Abbas",
                             "Hazrat Abdullah bin Masood",
@@ -11201,7 +11200,7 @@
                         "explanation": "Interpreter of the Quran."
                     },
                     {
-                        "q": "Who was titled \u0027Siddiq\u0027 (The Truthful)?",
+                        "q": "Who was titled 'Siddiq' (The Truthful)?",
                         "options": [
                             "Hazrat Abu Bakar",
                             "Hazrat Umar",
@@ -11212,7 +11211,7 @@
                         "explanation": "Abu Bakar (R.A)."
                     },
                     {
-                        "q": "Who was titled \u0027Hibr-ul-Ummah\u0027?",
+                        "q": "Who was titled 'Hibr-ul-Ummah'?",
                         "options": [
                             "Hazrat Abdullah bin Abbas",
                             "Hazrat Umar",
@@ -11223,7 +11222,7 @@
                         "explanation": "The Scholar of the Nation."
                     },
                     {
-                        "q": "Who was called \u0027Hawari-e-Rasool\u0027?",
+                        "q": "Who was called 'Hawari-e-Rasool'?",
                         "options": [
                             "Hazrat Zubair bin Awwam",
                             "Hazrat Talha",
@@ -11234,7 +11233,7 @@
                         "explanation": "The Disciple of the Prophet."
                     },
                     {
-                        "q": "Who was the \u0027Orator of the Prophet\u0027 (Khateeb-e-Rasool)?",
+                        "q": "Who was the 'Orator of the Prophet' (Khateeb-e-Rasool)?",
                         "options": [
                             "Hazrat Sabit bin Qais",
                             "Hazrat Hassan bin Sabit",
@@ -11245,7 +11244,7 @@
                         "explanation": "Hazrat Sabit bin Qais (R.A)."
                     },
                     {
-                        "q": "Who was titled \u0027Hassan-ul-Ummat\u0027?",
+                        "q": "Who was titled 'Hassan-ul-Ummat'?",
                         "options": [
                             "Hazrat Hasan (R.A)",
                             "Hazrat Hussain (R.A)",
@@ -11256,7 +11255,7 @@
                         "explanation": "Hazrat Hasan (R.A)."
                     },
                     {
-                        "q": "Who was known as \u0027Dhul-Janahayn\u0027 (Possessor of two wings)?",
+                        "q": "Who was known as 'Dhul-Janahayn' (Possessor of two wings)?",
                         "options": [
                             "Hazrat Jafar Tayyar (R.A)",
                             "Hazrat Hamza",
@@ -11267,7 +11266,7 @@
                         "explanation": "Hazrat Jafar bin Abi Talib."
                     },
                     {
-                        "q": "Who was \u0027Umm-ul-Momineen\u0027?",
+                        "q": "Who was 'Umm-ul-Momineen'?",
                         "options": [
                             "Hazrat Khadija",
                             "Hazrat Aisha",
@@ -11278,7 +11277,7 @@
                         "explanation": "All wives are Mothers of the Believers."
                     },
                     {
-                        "q": "Who was known as \u0027Abu Huraira\u0027 (Father of Kittens)?",
+                        "q": "Who was known as 'Abu Huraira' (Father of Kittens)?",
                         "options": [
                             "Abdur Rahman bin Sakhr",
                             "Hazrat Khalid",
@@ -11294,90 +11293,1799 @@
                 "category": "World Islamic Empires",
                 "icon": "fa-landmark",
                 "questions": [
-
+                    {
+                        "q": "Which Caliphate immediately succeeded the Prophet Muhammad (PBUH)?",
+                        "options": [
+                            "Umayyad",
+                            "Abbasid",
+                            "Rashidun",
+                            "Ottoman"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Rashidun Caliphate was the first of the four major caliphates established after the death of the Prophet (PBUH)."
+                    },
+                    {
+                        "q": "Who was the founder of the Umayyad Caliphate?",
+                        "options": [
+                            "Muawiya I",
+                            "Yazid I",
+                            "Abd al-Malik",
+                            "Walid I"
+                        ],
+                        "answer": 0,
+                        "explanation": "Muawiya I established the Umayyad Caliphate in 661 CE."
+                    },
+                    {
+                        "q": "What was the capital of the Abbasid Caliphate for most of its history?",
+                        "options": [
+                            "Damascus",
+                            "Baghdad",
+                            "Cairo",
+                            "Cordoba"
+                        ],
+                        "answer": 1,
+                        "explanation": "Baghdad was founded in 762 CE and served as the capital of the Abbasid Caliphate."
+                    },
+                    {
+                        "q": "Which Islamic empire was established in Spain and Portugal?",
+                        "options": [
+                            "Fatimid Caliphate",
+                            "Al-Andalus",
+                            "Mamluk Sultanate",
+                            "Safavid Empire"
+                        ],
+                        "answer": 1,
+                        "explanation": "Al-Andalus was the Muslim-ruled area of the Iberian Peninsula."
+                    },
+                    {
+                        "q": "Who was the longest-reigning sultan of the Ottoman Empire?",
+                        "options": [
+                            "Mehmed the Conqueror",
+                            "Selim I",
+                            "Suleiman the Magnificent",
+                            "Abdul Hamid II"
+                        ],
+                        "answer": 2,
+                        "explanation": "Suleiman the Magnificent ruled from 1520 to 1566."
+                    },
+                    {
+                        "q": "Which empire was known for the 'Gunpowder Empires' along with the Ottomans and Mughals?",
+                        "options": [
+                            "Mamluk",
+                            "Ayyubid",
+                            "Safavid",
+                            "Seljuk"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Safavid Empire was one of the three Islamic Gunpowder Empires."
+                    },
+                    {
+                        "q": "The Fatimid Caliphate was primarily based in which modern-day region?",
+                        "options": [
+                            "Iraq",
+                            "Egypt",
+                            "Spain",
+                            "Persia"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Fatimid Caliphate was an Ismaili Shia caliphate centered in Egypt."
+                    },
+                    {
+                        "q": "Who founded the Ayyubid Dynasty?",
+                        "options": [
+                            "Nur ad-Din",
+                            "Al-Kamil",
+                            "Saladin (Salah ad-Din)",
+                            "Baybars"
+                        ],
+                        "answer": 2,
+                        "explanation": "Saladin founded the Ayyubid dynasty and led the Muslim opposition to the European Crusaders."
+                    },
+                    {
+                        "q": "The Mamluk Sultanate successfully defeated which invading empire at the Battle of Ain Jalut?",
+                        "options": [
+                            "Crusaders",
+                            "Byzantines",
+                            "Mongols",
+                            "Ottomans"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Mamluks handed the Mongol Empire its first major defeat at Ain Jalut in 1260."
+                    },
+                    {
+                        "q": "Which Mughal Emperor built the Taj Mahal?",
+                        "options": [
+                            "Akbar",
+                            "Jahangir",
+                            "Shah Jahan",
+                            "Aurangzeb"
+                        ],
+                        "answer": 2,
+                        "explanation": "Shah Jahan commissioned the Taj Mahal in 1631 to house the tomb of his favorite wife, Mumtaz Mahal."
+                    },
+                    {
+                        "q": "Which city was conquered by Ottoman Sultan Mehmed II in 1453?",
+                        "options": [
+                            "Vienna",
+                            "Constantinople",
+                            "Belgrade",
+                            "Budapest"
+                        ],
+                        "answer": 1,
+                        "explanation": "The capture of Constantinople marked the end of the Byzantine Empire."
+                    },
+                    {
+                        "q": "The Seljuk Empire was founded by which ethnic group?",
+                        "options": [
+                            "Arabs",
+                            "Persians",
+                            "Turks (Oghuz)",
+                            "Berbers"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Seljuks were a Turco-Persian Sunni Muslim empire originally from the Oghuz Turkish branch."
+                    },
+                    {
+                        "q": "During which caliphate did the Islamic Golden Age primarily flourish?",
+                        "options": [
+                            "Rashidun",
+                            "Umayyad",
+                            "Abbasid",
+                            "Ottoman"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Abbasid Caliphate oversaw a period of significant cultural, economic, and scientific flourishing."
+                    },
+                    {
+                        "q": "What was the official language of the Mughal Empire court?",
+                        "options": [
+                            "Arabic",
+                            "Turkish",
+                            "Persian",
+                            "Urdu"
+                        ],
+                        "answer": 2,
+                        "explanation": "Persian was the official and court language of the Mughal Empire."
+                    },
+                    {
+                        "q": "Which Umayyad ruler initiated the construction of the Dome of the Rock?",
+                        "options": [
+                            "Muawiya I",
+                            "Abd al-Malik ibn Marwan",
+                            "Al-Walid I",
+                            "Umar II"
+                        ],
+                        "answer": 1,
+                        "explanation": "Abd al-Malik commissioned the Dome of the Rock in Jerusalem, completed in 691 CE."
+                    },
+                    {
+                        "q": "The city of Cordoba in Al-Andalus reached its zenith under which ruler?",
+                        "options": [
+                            "Tariq ibn Ziyad",
+                            "Abd al-Rahman I",
+                            "Abd al-Rahman III",
+                            "Al-Mansur"
+                        ],
+                        "answer": 2,
+                        "explanation": "Abd al-Rahman III declared himself Caliph in 929, marking a golden age for Cordoba."
+                    },
+                    {
+                        "q": "Which empire established Shi'a Islam as its official religion, significantly shaping modern Iran?",
+                        "options": [
+                            "Seljuk",
+                            "Safavid",
+                            "Mughal",
+                            "Ghaznavid"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Safavid Empire made Twelver Shi'ism the official religion of their empire."
+                    },
+                    {
+                        "q": "Which dynasty ruled from Cairo and was known for its famous university, Al-Azhar?",
+                        "options": [
+                            "Ayyubid",
+                            "Mamluk",
+                            "Fatimid",
+                            "Tulunid"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Fatimid Caliphate founded Cairo and established the Al-Azhar Mosque and University."
+                    },
+                    {
+                        "q": "Who was the founder of the Mughal Empire?",
+                        "options": [
+                            " बाबर (Babur)",
+                            "Humayun",
+                            "Akbar",
+                            "Shah Jahan"
+                        ],
+                        "answer": 0,
+                        "explanation": "Babur founded the Mughal Empire after his victory at the First Battle of Panipat in 1526."
+                    },
+                    {
+                        "q": "The Abbasid Caliphate was eventually destroyed by the sack of Baghdad in 1258. Who led the sack?",
+                        "options": [
+                            "Timur",
+                            "Genghis Khan",
+                            "Hulagu Khan",
+                            "Saladin"
+                        ],
+                        "answer": 2,
+                        "explanation": "Hulagu Khan, a Mongol ruler, sacked Baghdad, functionally ending the Abbasid Caliphate."
+                    },
+                    {
+                        "q": "Which Islamic leader retook Jerusalem from the Crusaders in 1187?",
+                        "options": [
+                            "Tariq ibn Ziyad",
+                            "Nur ad-Din",
+                            "Saladin (Salah ad-Din)",
+                            "Baybars"
+                        ],
+                        "answer": 2,
+                        "explanation": "Saladin captured Jerusalem after the Battle of Hattin."
+                    },
+                    {
+                        "q": "The Ghaznavid Empire, known for its conquests in the Indian subcontinent, was centered in which modern country?",
+                        "options": [
+                            "Iran",
+                            "Afghanistan",
+                            "Pakistan",
+                            "India"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Ghaznavid Empire was centered in Ghazni, in modern-day Afghanistan."
+                    },
+                    {
+                        "q": "Which Ottoman ruler is known as 'The Lawgiver' in the Islamic world?",
+                        "options": [
+                            "Selim I",
+                            "Mehmed II",
+                            "Suleiman the Magnificent",
+                            "Murad IV"
+                        ],
+                        "answer": 2,
+                        "explanation": "Suleiman the Magnificent is known as 'Kanuni' (the Lawmaker) in the East."
+                    },
+                    {
+                        "q": "The Battle of Tours (732 CE) halted the advance of which Islamic empire into Western Europe?",
+                        "options": [
+                            "Rashidun",
+                            "Umayyad",
+                            "Abbasid",
+                            "Fatimid"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Umayyad advance into Gaul (France) was stopped at the Battle of Tours."
+                    },
+                    {
+                        "q": "Which dynasty ruled the Emirate of Sicily from the 9th to 11th centuries?",
+                        "options": [
+                            "Aghlabids/Kalbids",
+                            "Fatimids",
+                            "Umayyads",
+                            "Almoravids"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Aghlabids conquered Sicily, and later the Kalbids ruled it as an emirate."
+                    },
+                    {
+                        "q": "The Almohad Caliphate, a North African and Iberian empire, was founded by which religious movement?",
+                        "options": [
+                            "Ash'ari",
+                            "Mu'tazila",
+                            "Zahiri",
+                            "Ibn Tumart's reformist movement"
+                        ],
+                        "answer": 3,
+                        "explanation": "Ibn Tumart founded the Almohad movement, which emphasized strict monotheism."
+                    },
+                    {
+                        "q": "Which empire was known for the highly trained slave-soldiers known as 'Mamluks'?",
+                        "options": [
+                            "Ottoman Empire",
+                            "Safavid Empire",
+                            "Mamluk Sultanate",
+                            "Mughal Empire"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Mamluk Sultanate of Egypt and the Levant was ruled by a military caste of former slaves."
+                    },
+                    {
+                        "q": "Who was the last Caliph of the Ottoman Empire?",
+                        "options": [
+                            "Mehmed VI",
+                            "Abdulmejid II",
+                            "Abdul Hamid II",
+                            "Mustafa Kemal"
+                        ],
+                        "answer": 1,
+                        "explanation": "Abdulmejid II was the last Caliph before the Caliphate was abolished in 1924."
+                    },
+                    {
+                        "q": "The famous traveler Ibn Battuta visited and documented many Islamic empires. Which empire was ruling India during his visit?",
+                        "options": [
+                            "Mughal Empire",
+                            "Delhi Sultanate",
+                            "Ghaznavid Empire",
+                            "Ghurid Dynasty"
+                        ],
+                        "answer": 1,
+                        "explanation": "He visited during the reign of Muhammad bin Tughluq of the Delhi Sultanate."
+                    },
+                    {
+                        "q": "Which architectural masterpiece was built during the reign of the Umayyad caliph Al-Walid I in Damascus?",
+                        "options": [
+                            "Dome of the Rock",
+                            "Al-Aqsa Mosque",
+                            "Umayyad Mosque",
+                            "Great Mosque of Cordoba"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Great Mosque of Damascus, also known as the Umayyad Mosque, was completed in 715 CE."
+                    },
+                    {
+                        "q": "The term 'House of Wisdom' (Bayt al-Hikmah) is associated with which caliphate?",
+                        "options": [
+                            "Umayyad",
+                            "Abbasid",
+                            "Fatimid",
+                            "Rashidun"
+                        ],
+                        "answer": 1,
+                        "explanation": "The House of Wisdom was a major intellectual center during the Abbasid Caliphate in Baghdad."
+                    },
+                    {
+                        "q": "Which empire utilized the 'Janissary' elite infantry units?",
+                        "options": [
+                            "Seljuk",
+                            "Mamluk",
+                            "Safavid",
+                            "Ottoman"
+                        ],
+                        "answer": 3,
+                        "explanation": "The Janissaries were the elite infantry units from the Ottoman household troops."
+                    },
+                    {
+                        "q": "The Mughal Emperor Akbar is famous for his policy of?",
+                        "options": [
+                            "Strict religious orthodoxy",
+                            "Religious tolerance and syncretism",
+                            "Isolationism",
+                            "Vast naval expansion"
+                        ],
+                        "answer": 1,
+                        "explanation": "Akbar promoted religious tolerance and famously established the 'Din-i-Ilahi'."
+                    },
+                    {
+                        "q": "Which battle functionally ended the Mamluk Sultanate and brought Egypt under Ottoman control?",
+                        "options": [
+                            "Battle of Ankara",
+                            "Battle of Chaldiran",
+                            "Battle of Ridaniya",
+                            "Battle of Lepanto"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Battle of Ridaniya in 1517 marked the fall of the Mamluk Sultanate to the Ottomans."
+                    },
+                    {
+                        "q": "The Safavid capital was moved to which beautiful city by Shah Abbas I?",
+                        "options": [
+                            "Tabriz",
+                            "Qazvin",
+                            "Isfahan",
+                            "Tehran"
+                        ],
+                        "answer": 2,
+                        "explanation": "Shah Abbas I moved the capital to Isfahan and initiated massive architectural projects."
+                    },
+                    {
+                        "q": "Which Muslim dynasty was the first to establish an empire in the Indian subcontinent (Delhi Sultanate)?",
+                        "options": [
+                            "Mamluk (Slave) Dynasty",
+                            "Khilji Dynasty",
+                            "Tughlaq Dynasty",
+                            "Lodi Dynasty"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Mamluk (Slave) Dynasty, founded by Qutb ud-Din Aibak, was the first dynasty of the Delhi Sultanate."
+                    },
+                    {
+                        "q": "Who was the central figure of the Mahdist State in Sudan, which resisted British and Egyptian rule in the late 19th century?",
+                        "options": [
+                            "Omar Mukhtar",
+                            "Muhammad Ahmad",
+                            "Usman dan Fodio",
+                            "Abd al-Qadir"
+                        ],
+                        "answer": 1,
+                        "explanation": "Muhammad Ahmad proclaimed himself the Mahdi and led a successful revolt against Ottoman-Egyptian rule."
+                    },
+                    {
+                        "q": "The Sokoto Caliphate, a massive Islamic state in West Africa, was founded by?",
+                        "options": [
+                            "Mansa Musa",
+                            "Askia the Great",
+                            "Usman dan Fodio",
+                            "Samori Ture"
+                        ],
+                        "answer": 2,
+                        "explanation": "Usman dan Fodio led a jihad that resulted in the creation of the Sokoto Caliphate in 1804."
+                    },
+                    {
+                        "q": "Which empire was ruled by the 'Khwarazmian' dynasty before being destroyed by Genghis Khan?",
+                        "options": [
+                            "Khwarazmian Empire",
+                            "Seljuk Empire",
+                            "Ghaznavid Empire",
+                            "Samanid Empire"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Khwarazmian Empire controlled a vast area of Central Asia and Iran before the Mongol invasion."
+                    },
+                    {
+                        "q": "The 'Tanzimat' were a series of impactful reforms carried out in which Islamic empire?",
+                        "options": [
+                            "Mughal Empire",
+                            "Safavid Empire",
+                            "Ottoman Empire",
+                            "Qajar Iran"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Tanzimat reform era (1839–1876) aimed to modernize the Ottoman Empire."
+                    },
+                    {
+                        "q": "Which Muslim general conquered the Iberian Peninsula in 711 CE?",
+                        "options": [
+                            "Amr ibn al-Aas",
+                            "Tariq ibn Ziyad",
+                            "Khalid ibn al-Walid",
+                            "Uqba ibn Nafi"
+                        ],
+                        "answer": 1,
+                        "explanation": "Tariq ibn Ziyad led the initial Umayyad conquest of Hispania."
+                    },
+                    {
+                        "q": "The city of Samarra served as the capital for which caliphate for about six decades?",
+                        "options": [
+                            "Umayyad",
+                            "Abbasid",
+                            "Fatimid",
+                            "Ayyubid"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Abbasid capital was temporarily moved to Samarra from 836 to 892 CE."
+                    },
+                    {
+                        "q": "The 'Reconquista' was a centuries-long effort by Christian states to expel Muslims from?",
+                        "options": [
+                            "The Balkans",
+                            "Sicily",
+                            "The Iberian Peninsula",
+                            "Anatolia"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Reconquista culminated in the fall of Granada in 1492, ending Islamic rule in Iberia."
+                    },
+                    {
+                        "q": "Who was the first caliph of the Umayyad Caliphate of Cordoba?",
+                        "options": [
+                            "Abd al-Rahman I",
+                            "Abd al-Rahman II",
+                            "Abd al-Rahman III",
+                            "Al-Hakam II"
+                        ],
+                        "answer": 2,
+                        "explanation": "Abd al-Rahman III assumed the title of Caliph in 929 CE."
+                    },
+                    {
+                        "q": "The famous 'Blue Mosque' (Sultan Ahmed Mosque) was built during which empire?",
+                        "options": [
+                            "Mamluk",
+                            "Safavid",
+                            "Mughal",
+                            "Ottoman"
+                        ],
+                        "answer": 3,
+                        "explanation": "It was constructed between 1609 and 1616 during the rule of Ahmed I in the Ottoman Empire."
+                    },
+                    {
+                        "q": "Which dynasty ruled Iran immediately following the Safavids?",
+                        "options": [
+                            "Samanids",
+                            "Zand Dynasty",
+                            "Afsharid Dynasty",
+                            "Qajar Dynasty"
+                        ],
+                        "answer": 2,
+                        "explanation": "Nader Shah founded the Afsharid dynasty after the collapse of the Safavids."
+                    },
+                    {
+                        "q": "The Ayyubid Sultanate was eventually overthrown by their own slave-soldiers, leading to the rise of which empire?",
+                        "options": [
+                            "Fatimid Caliphate",
+                            "Mamluk Sultanate",
+                            "Ottoman Empire",
+                            "Seljuk Empire"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Mamluks took over power from the Ayyubids in Egypt."
+                    },
+                    {
+                        "q": "What was the capital of the Fatimid Caliphate before it was moved to Cairo?",
+                        "options": [
+                            "Mahdia",
+                            "Damascus",
+                            "Baghdad",
+                            "Marrakesh"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Fatimids established their first capital at Mahdia in modern-day Tunisia."
+                    },
+                    {
+                        "q": "The title 'Amir al-Mu'minin' translates to?",
+                        "options": [
+                            "Shadow of God",
+                            "Commander of the Faithful",
+                            "Sword of Islam",
+                            "Servant of the Two Sanctuaries"
+                        ],
+                        "answer": 1,
+                        "explanation": "It is an Arabic style and title of the supreme leader of the Islamic community."
+                    },
+                    {
+                        "q": "At its greatest extent, the Ottoman Empire spanned across which three continents?",
+                        "options": [
+                            "Europe, Asia, Africa",
+                            "Europe, Asia, Australia",
+                            "Asia, Africa, South America",
+                            "Asia, Africa, Antarctica"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Ottoman Empire held territories in Southeastern Europe, Western Asia, and Northern Africa."
+                    }
                 ]
             },
             {
                 "category": "Islamic Sharia Law",
                 "icon": "fa-gavel",
                 "questions": [
-
+                    {
+                        "q": "What are the two primary sources of Islamic Sharia Law?",
+                        "options": [
+                            "Quran and Qiyas",
+                            "Quran and Sunnah",
+                            "Sunnah and Ijma",
+                            "Ijma and Qiyas"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Quran and the Sunnah (teachings/practices of the Prophet) are the foundational sources of Sharia."
+                    },
+                    {
+                        "q": "The consensus of Islamic scholars on a particular issue is called?",
+                        "options": [
+                            "Qiyas",
+                            "Ijtihad",
+                            "Ijma",
+                            "Fatwa"
+                        ],
+                        "answer": 2,
+                        "explanation": "Ijma refers to the consensus or agreement of Muslim scholars on a point of Islamic law."
+                    },
+                    {
+                        "q": "What is the term for 'analogical reasoning' in Islamic jurisprudence?",
+                        "options": [
+                            "Ijma",
+                            "Qiyas",
+                            "Urf",
+                            "Istihsan"
+                        ],
+                        "answer": 1,
+                        "explanation": "Qiyas is the process of deductive analogy to address new situations based on previously established rulings."
+                    },
+                    {
+                        "q": "Which of the following is NOT one of the four main Sunni schools of jurisprudence (Madhahib)?",
+                        "options": [
+                            "Hanafi",
+                            "Maliki",
+                            "Zaydi",
+                            "Shafi'i"
+                        ],
+                        "answer": 2,
+                        "explanation": "Zaydi is a Shia school. The four main Sunni schools are Hanafi, Maliki, Shafi'i, and Hanbali."
+                    },
+                    {
+                        "q": "Who is the founder of the Hanafi school of thought?",
+                        "options": [
+                            "Imam Malik",
+                            "Imam Abu Hanifa",
+                            "Imam Al-Shafi'i",
+                            "Imam Ahmad bin Hanbal"
+                        ],
+                        "answer": 1,
+                        "explanation": "Nu'man ibn Thabit, known as Imam Abu Hanifa, founded the Hanafi school."
+                    },
+                    {
+                        "q": "The independent legal reasoning by an Islamic scholar is referred to as?",
+                        "options": [
+                            "Taqlid",
+                            "Ijtihad",
+                            "Tafsir",
+                            "Tajweed"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ijtihad is an Islamic legal term referring to independent reasoning or the thorough exertion of a jurist's mental faculty."
+                    },
+                    {
+                        "q": "An action that is obligatory and its omission is punishable in Islam is called?",
+                        "options": [
+                            "Sunnah",
+                            "Mustahab",
+                            "Fard (Wajib)",
+                            "Mubah"
+                        ],
+                        "answer": 2,
+                        "explanation": "Fard represents an absolute obligation, like the five daily prayers."
+                    },
+                    {
+                        "q": "An action that is strictly prohibited in Islam is termed?",
+                        "options": [
+                            "Makruh",
+                            "Haram",
+                            "Mubah",
+                            "Fard"
+                        ],
+                        "answer": 1,
+                        "explanation": "Haram refers to purely forbidden acts, such as consuming alcohol or pork."
+                    },
+                    {
+                        "q": "An action that is disliked but not strictly forbidden is called?",
+                        "options": [
+                            "Haraam",
+                            "Makruh",
+                            "Mubaah",
+                            "Sunnah"
+                        ],
+                        "answer": 1,
+                        "explanation": "Makruh denotes a disliked or offensive act, which is better to avoid but does not incur a sin if performed."
+                    },
+                    {
+                        "q": "An action that is permissible, bringing neither reward nor punishment, is termed?",
+                        "options": [
+                            "Mubah / Halal",
+                            "Makruh",
+                            "Mustahab",
+                            "Fard"
+                        ],
+                        "answer": 0,
+                        "explanation": "Mubah refers to an action which is indifferent—neither ordered nor prohibited."
+                    },
+                    {
+                        "q": "An action that is recommended and brings reward, but leaving it incurs no punishment, is?",
+                        "options": [
+                            "Fard",
+                            "Mustahab / Sunnah / Mandub",
+                            "Mubah",
+                            "Makruh"
+                        ],
+                        "answer": 1,
+                        "explanation": "Mustahab or Mandub acts are highly encouraged (like voluntary prayers) but not obligatory."
+                    },
+                    {
+                        "q": "What is the term for a formal legal opinion given by a Mufti?",
+                        "options": [
+                            "Hadith",
+                            "Fatwa",
+                            "Tafsir",
+                            "Khutbah"
+                        ],
+                        "answer": 1,
+                        "explanation": "A Fatwa is a non-binding legal opinion on a point of Islamic law given by a qualified jurist."
+                    },
+                    {
+                        "q": "The Islamic concept of 'Halal' means?",
+                        "options": [
+                            "Prohibited",
+                            "Permissible / Lawful",
+                            "Obligatory",
+                            "Disliked"
+                        ],
+                        "answer": 1,
+                        "explanation": "Halal is an Arabic word meaning lawful or permitted."
+                    },
+                    {
+                        "q": "Which school of jurisprudence is predominant in Saudi Arabia?",
+                        "options": [
+                            "Hanafi",
+                            "Maliki",
+                            "Shafi'i",
+                            "Hanbali"
+                        ],
+                        "answer": 3,
+                        "explanation": "The Hanbali school, specifically through Wahhabi influence, is dominant in Saudi Arabia."
+                    },
+                    {
+                        "q": "Which school of jurisprudence is primarily followed in North Africa (excluding Egypt)?",
+                        "options": [
+                            "Hanafi",
+                            "Maliki",
+                            "Shafi'i",
+                            "Hanbali"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Maliki school is predominant across North and West Africa."
+                    },
+                    {
+                        "q": "Which school of jurisprudence is widely followed in South Asia (Pakistan, India, Bangladesh)?",
+                        "options": [
+                            "Hanafi",
+                            "Maliki",
+                            "Shafi'i",
+                            "Hanbali"
+                        ],
+                        "answer": 0,
+                        "explanation": "The Hanafi school is the most widely followed Madhhab in South Asia."
+                    },
+                    {
+                        "q": "The term 'Nikah' refers to what in Sharia?",
+                        "options": [
+                            "Divorce",
+                            "Marriage",
+                            "Inheritance",
+                            "Charity"
+                        ],
+                        "answer": 1,
+                        "explanation": "Nikah is the Islamic term for the contract of marriage."
+                    },
+                    {
+                        "q": "The mandatory gift given by the groom to the bride upon marriage is called?",
+                        "options": [
+                            "Zakat",
+                            "Sadaqah",
+                            "Mahr",
+                            "Jizya"
+                        ],
+                        "answer": 2,
+                        "explanation": "Mahr is a mandatory payment, in the form of money or possessions paid by the groom regarding the bride."
+                    },
+                    {
+                        "q": "What is the Islamic term for divorce initiated by the husband?",
+                        "options": [
+                            "Khula",
+                            "Talaq",
+                            "Iddah",
+                            "Faskh"
+                        ],
+                        "answer": 1,
+                        "explanation": "Talaq refers to repudiation or divorce initiated by the husband."
+                    },
+                    {
+                        "q": "What is the Islamic term for divorce initiated by the wife?",
+                        "options": [
+                            "Talaq",
+                            "Khula",
+                            "Zihar",
+                            "Lian"
+                        ],
+                        "answer": 1,
+                        "explanation": "Khula is the right of a woman in Islam to divorce and separate from her husband."
+                    },
+                    {
+                        "q": "The waiting period a woman must observe after divorce or the death of her husband is called?",
+                        "options": [
+                            "Mahr",
+                            "Nikah",
+                            "Iddah",
+                            "Wali"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Iddah applies after divorce or widowhood, during which she may not marry another man."
+                    },
+                    {
+                        "q": "In Islamic inheritance (Miras), what is a generally stated ratio between a son's and a daughter's share?",
+                        "options": [
+                            "Equal",
+                            "Son gets double",
+                            "Daughter gets double",
+                            "Son gets triple"
+                        ],
+                        "answer": 1,
+                        "explanation": "Generally, a male heir inherits twice the share of a female heir of the same degree (e.g., son and daughter)."
+                    },
+                    {
+                        "q": "Under Islamic law, a testament or will (Wasiyyah) can only apply to a maximum of what portion of the estate?",
+                        "options": [
+                            "One-half",
+                            "One-third",
+                            "One-fourth",
+                            "One-tenth"
+                        ],
+                        "answer": 1,
+                        "explanation": "A Muslim can bequeath up to one-third of their estate to non-heirs; the rest must follow fixed Sharia shares."
+                    },
+                    {
+                        "q": "The fixed punishments mandated in the Quran and Sunnah for specific crimes are called?",
+                        "options": [
+                            "Tazir",
+                            "Qisas",
+                            "Hudud",
+                            "Diyya"
+                        ],
+                        "answer": 2,
+                        "explanation": "Hudud crimes (like theft, adultery, slander) have specific, fixed punishments in Sharia."
+                    },
+                    {
+                        "q": "Discretionary punishments decided by a judge for crimes not specified under Hudud or Qisas are termed?",
+                        "options": [
+                            "Hudud",
+                            "Qisas",
+                            "Tazir",
+                            "Kaffarah"
+                        ],
+                        "answer": 2,
+                        "explanation": "Tazir punishments are applied at the discretion of the judge (Qadi) for offenses for which no specific punishment is decreed."
+                    },
+                    {
+                        "q": "The principle of 'eye for an eye' or equal retaliation in cases of murder or bodily harm is called?",
+                        "options": [
+                            "Hudud",
+                            "Qisas",
+                            "Tazir",
+                            "Zakat"
+                        ],
+                        "answer": 1,
+                        "explanation": "Qisas allows equal retaliation, though forgiveness (sometimes for Diyya/blood money) is highly recommended."
+                    },
+                    {
+                        "q": "Financial compensation paid to the victim or heirs of a victim for murder or bodily harm is called?",
+                        "options": [
+                            "Zakat",
+                            "Mahr",
+                            "Diyya",
+                            "Jizya"
+                        ],
+                        "answer": 2,
+                        "explanation": "Diyya, often translated as blood money, is compensation for injury or death."
+                    },
+                    {
+                        "q": "Riba is strictly forbidden in Islamic finance. What does Riba mean?",
+                        "options": [
+                            "Profit",
+                            "Usury / Interest",
+                            "Tax",
+                            "Charity"
+                        ],
+                        "answer": 1,
+                        "explanation": "Riba commonly refers to interest charged on loans, which is strictly prohibited (Haram)."
+                    },
+                    {
+                        "q": "The concept of 'Gharar' in Islamic finance forbids?",
+                        "options": [
+                            "Interest",
+                            "Excessive uncertainty or risk",
+                            "Partnerships",
+                            "Trading gold"
+                        ],
+                        "answer": 1,
+                        "explanation": "Transactions involving extreme uncertainty, speculation, or hazard (Gharar) are invalid."
+                    },
+                    {
+                        "q": "A charitable endowment established for a religious or public purpose is called a?",
+                        "options": [
+                            "Zakat",
+                            "Waqf",
+                            "Sukuk",
+                            "Takaful"
+                        ],
+                        "answer": 1,
+                        "explanation": "Waqf is an inalienable charitable endowment under Islamic law, typically involving donating a building or plot of land."
+                    },
+                    {
+                        "q": "What is the required threshold of wealth for paying Zakat called?",
+                        "options": [
+                            "Sadaqah",
+                            "Nisab",
+                            "Khums",
+                            "Fitrana"
+                        ],
+                        "answer": 1,
+                        "explanation": "Nisab is the minimum amount of wealth a Muslim must own before they are obliged to pay Zakat."
+                    },
+                    {
+                        "q": "What is the standard rate of Zakat on accumulated cash and trade goods?",
+                        "options": [
+                            "1.0%",
+                            "2.5%",
+                            "5.0%",
+                            "10.0%"
+                        ],
+                        "answer": 1,
+                        "explanation": "The standard Zakat rate on liquid assets held for a lunar year is 2.5%."
+                    },
+                    {
+                        "q": "Which tax was historically levied on non-Muslim subjects (Dhimmis) living under a Muslim state in exchange for protection?",
+                        "options": [
+                            "Zakat",
+                            "Khums",
+                            "Ushr",
+                            "Jizya"
+                        ],
+                        "answer": 3,
+                        "explanation": "Jizya was a per capita yearly taxation on non-Muslim subjects, who were exempt from military service and Zakat."
+                    },
+                    {
+                        "q": "A religious tax largely paid by Shia Muslims, consisting of one-fifth of certain types of income/booty, is called?",
+                        "options": [
+                            "Zakat",
+                            "Khums",
+                            "Jizya",
+                            "Ushr"
+                        ],
+                        "answer": 1,
+                        "explanation": "Khums refers to a 20% Islamic tax levied on specific items like spoils of war and surplus income in Shia fiqh."
+                    },
+                    {
+                        "q": "The term 'Muamalat' refers to?",
+                        "options": [
+                            "Acts of worship",
+                            "Civic / Commercial transactions",
+                            "Penal law",
+                            "Inheritance"
+                        ],
+                        "answer": 1,
+                        "explanation": "Muamalat covers the social, civic, and commercial dealings and transactions in Sharia."
+                    },
+                    {
+                        "q": "The term 'Ibadat' refers to?",
+                        "options": [
+                            "Civic laws",
+                            "Acts of worship",
+                            "Family laws",
+                            "Criminal laws"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ibadat encompasses rituals and acts of worship like prayer, fasting, and pilgrimage."
+                    },
+                    {
+                        "q": "What is 'Takaful' in the context of Islamic finance?",
+                        "options": [
+                            "Islamic banking",
+                            "Islamic insurance",
+                            "Islamic bonds",
+                            "Islamic charity"
+                        ],
+                        "answer": 1,
+                        "explanation": "Takaful is a co-operative system of reimbursement or repayment in case of loss, compliant with Sharia (Islamic insurance)."
+                    },
+                    {
+                        "q": "What are 'Sukuk'?",
+                        "options": [
+                            "Islamic bonds",
+                            "Charity funds",
+                            "Zakat collectors",
+                            "Divorce decrees"
+                        ],
+                        "answer": 0,
+                        "explanation": "Sukuk is the Arabic name for financial certificates, also commonly referred to as 'Sharia-compliant bonds'."
+                    },
+                    {
+                        "q": "In Islamic penal law, the crime of apostasy or leaving Islam is known as?",
+                        "options": [
+                            "Zina",
+                            "Riddah",
+                            "Sariqa",
+                            "Qazf"
+                        ],
+                        "answer": 1,
+                        "explanation": "Riddah or Irtidad denotes the conscious rejection of Islam by someone who had been a Muslim."
+                    },
+                    {
+                        "q": "The crime of false accusation of unchastity or adultery is called?",
+                        "options": [
+                            "Zina",
+                            "Qazf",
+                            "Sariqa",
+                            "Hirabah"
+                        ],
+                        "answer": 1,
+                        "explanation": "Qazf refers to a false allegation of unlawful intercourse, bringing a punishment under Hudud."
+                    },
+                    {
+                        "q": "Which term describes 'necessity' in Islamic law, where forbidden things may become permissible to save a life?",
+                        "options": [
+                            "Darurah",
+                            "Maslahah",
+                            "Urf",
+                            "Istishab"
+                        ],
+                        "answer": 0,
+                        "explanation": "The principle of Darurah allows exceptions, such as eating prohibited food to prevent starvation."
+                    },
+                    {
+                        "q": "The concept of public interest or common good in Islamic legal reasoning is called?",
+                        "options": [
+                            "Darurah",
+                            "Maslahah Mursalah",
+                            "Ijtihad",
+                            "Taqlid"
+                        ],
+                        "answer": 1,
+                        "explanation": "Maslahah represents considerations of public interest not specifically mentioned in primary texts."
+                    },
+                    {
+                        "q": "What does a 'Qadi' do?",
+                        "options": [
+                            "Issues fatwas",
+                            "Leads prayers",
+                            "Acts as a judge in a Sharia court",
+                            "Collects Zakat"
+                        ],
+                        "answer": 2,
+                        "explanation": "A Qadi is the magistrate or judge of a Sharia court."
+                    },
+                    {
+                        "q": "The practice of 'following' or 'imitating' a qualified religious scholar without independent legal reasoning is called?",
+                        "options": [
+                            "Taqlid",
+                            "Ijtihad",
+                            "Tajdid",
+                            "Tafsir"
+                        ],
+                        "answer": 0,
+                        "explanation": "Taqlid means following the legal decisions of a higher authority or Madhhab without questioning the deductive process."
+                    },
+                    {
+                        "q": "Who wrote 'Al-Muwatta', one of the earliest collections of Hadith and Islamic jurisprudence?",
+                        "options": [
+                            "Imam Abu Hanifa",
+                            "Imam Bukhari",
+                            "Imam Malik",
+                            "Imam Muslim"
+                        ],
+                        "answer": 2,
+                        "explanation": "Imam Malik ibn Anas compiled Al-Muwatta."
+                    },
+                    {
+                        "q": "In Sharia, what is 'Kaffarah'?",
+                        "options": [
+                            "A reward",
+                            "Expiation or compensation for a broken rule",
+                            "A type of prayer",
+                            "A marriage contract"
+                        ],
+                        "answer": 1,
+                        "explanation": "Kaffarah is a penalty or expiation (like feeding the poor) for violating certain religious duties, like breaking an oath or a fast."
+                    },
+                    {
+                        "q": "According to Sharia, eating the meat of an animal found already dead (Carrion/Maytah) is?",
+                        "options": [
+                            "Halal",
+                            "Haram",
+                            "Makruh",
+                            "Mustahab"
+                        ],
+                        "answer": 1,
+                        "explanation": "Carrion is explicitly forbidden in the Quran, except for fish and locusts in some rulings."
+                    },
+                    {
+                        "q": "A contract where one party provides capital and the other provides expertise/labor, sharing profits, is called?",
+                        "options": [
+                            "Musharakah",
+                            "Mudarabah",
+                            "Murabahah",
+                            "Ijarah"
+                        ],
+                        "answer": 1,
+                        "explanation": "Mudarabah is a partnership where one provides the funds and the other provides the work."
+                    },
+                    {
+                        "q": "What is 'Murabahah' in Islamic finance?",
+                        "options": [
+                            "A loan with interest",
+                            "A joint venture",
+                            "Cost-plus financing/sale",
+                            "Leasing"
+                        ],
+                        "answer": 2,
+                        "explanation": "Murabahah is a sale where the seller explicitly mentions the cost incurred, and sells to the buyer with a known profit markup."
+                    },
+                    {
+                        "q": "What is 'Ijarah'?",
+                        "options": [
+                            "Sale contract",
+                            "Partnership",
+                            "Leasing/Rental contract",
+                            "Endowment"
+                        ],
+                        "answer": 2,
+                        "explanation": "Ijarah is equivalent to a lease or rental agreement."
+                    }
                 ]
             },
             {
                 "category": "Prophet Wife",
                 "icon": "fa-person-dress",
-                "questions": [                    {
+                "questions": [
+                    {
                         "q": "Who was the first wife of Prophet Muhammad (PBUH)?",
-                        "options": ["Hazrat Aisha (RA)", "Hazrat Khadija (RA)", "Hazrat Sawda (RA)", "Hazrat Hafsa (RA)"],
+                        "options": [
+                            "Hazrat Aisha (RA)",
+                            "Hazrat Khadija (RA)",
+                            "Hazrat Sawda (RA)",
+                            "Hazrat Hafsa (RA)"
+                        ],
                         "answer": 1,
                         "explanation": "Hazrat Khadija bint Khuwaylid was the first wife of the Prophet (PBUH)."
                     },
                     {
                         "q": "Which wife of the Prophet (PBUH) was the daughter of Hazrat Abu Bakr (RA)?",
-                        "options": ["Hazrat Aisha (RA)", "Hazrat Hafsa (RA)", "Hazrat Zainab (RA)", "Hazrat Umm Salama (RA)"],
+                        "options": [
+                            "Hazrat Aisha (RA)",
+                            "Hazrat Hafsa (RA)",
+                            "Hazrat Zainab (RA)",
+                            "Hazrat Umm Salama (RA)"
+                        ],
                         "answer": 0,
                         "explanation": "Hazrat Aisha (RA) was the daughter of Hazrat Abu Bakr (RA)."
                     },
                     {
                         "q": "Which wife of the Prophet (PBUH) was the daughter of Hazrat Umar (RA)?",
-                        "options": ["Hazrat Aisha (RA)", "Hazrat Hafsa (RA)", "Hazrat Sawda (RA)", "Hazrat Juwayriya (RA)"],
+                        "options": [
+                            "Hazrat Aisha (RA)",
+                            "Hazrat Hafsa (RA)",
+                            "Hazrat Sawda (RA)",
+                            "Hazrat Juwayriya (RA)"
+                        ],
                         "answer": 1,
                         "explanation": "Hazrat Hafsa (RA) was the daughter of Hazrat Umar Farooq (RA)."
                     },
                     {
                         "q": "Who was the only wife of the Prophet (PBUH) to give birth to his children (surviving to adulthood)?",
-                        "options": ["Hazrat AISHA", "Hazrat KHADIJA", "Hazrat MARIA", "Hazrat HAFSA"],
+                        "options": [
+                            "Hazrat AISHA",
+                            "Hazrat KHADIJA",
+                            "Hazrat MARIA",
+                            "Hazrat HAFSA"
+                        ],
                         "answer": 1,
                         "explanation": "Except for Ibrahim (from Maria Qibtiya), all the Prophet's children were from Hazrat Khadija (RA)."
                     },
                     {
                         "q": "Which wife was known as 'Umm al-Masakin' (Mother of the Poor)?",
-                        "options": ["Hazrat Khadija", "Hazrat Zainab bint Khuzaima", "Hazrat Zainab bint Jahsh", "Hazrat Sawda"],
+                        "options": [
+                            "Hazrat Khadija",
+                            "Hazrat Zainab bint Khuzaima",
+                            "Hazrat Zainab bint Jahsh",
+                            "Hazrat Sawda"
+                        ],
                         "answer": 1,
                         "explanation": "Hazrat Zainab bint Khuzaima earned this title due to her extreme generosity."
                     },
                     {
                         "q": "Who was the daughter of the leader of Banu Mustaliq?",
-                        "options": ["Hazrat Juwayriya bint al-Harith", "Hazrat Safiyya bint Huyayy", "Hazrat Rayhana", "Hazrat Maymuna"],
+                        "options": [
+                            "Hazrat Juwayriya bint al-Harith",
+                            "Hazrat Safiyya bint Huyayy",
+                            "Hazrat Rayhana",
+                            "Hazrat Maymuna"
+                        ],
                         "answer": 0,
                         "explanation": "Hazrat Juwayriya was the daughter of the tribal leader Harith ibn Abi Dirar."
                     },
                     {
                         "q": "Which wife of the Prophet (PBUH) was of Jewish origin from Banu Nadir?",
-                        "options": ["Hazrat Maymuna", "Hazrat Safiyya bint Huyayy", "Hazrat Juwayriya", "Hazrat Sawda"],
+                        "options": [
+                            "Hazrat Maymuna",
+                            "Hazrat Safiyya bint Huyayy",
+                            "Hazrat Juwayriya",
+                            "Hazrat Sawda"
+                        ],
                         "answer": 1,
                         "explanation": "Hazrat Safiyya was the daughter of Huyayy ibn Akhtab, chief of Banu Nadir."
                     },
                     {
                         "q": "Who was the last wife of Prophet Muhammad (PBUH)?",
-                        "options": ["Hazrat Maymuna bint al-Harith", "Hazrat Juwayriya", "Hazrat Safiyya", "Hazrat Maria Qibtiya"],
+                        "options": [
+                            "Hazrat Maymuna bint al-Harith",
+                            "Hazrat Juwayriya",
+                            "Hazrat Safiyya",
+                            "Hazrat Maria Qibtiya"
+                        ],
                         "answer": 0,
                         "explanation": "Hazrat Maymuna was the final marriage of the Prophet (PBUH)."
                     },
                     {
                         "q": "Which wife migrated to Abyssinia with her former husband before marrying the Prophet?",
-                        "options": ["Hazrat Umm Habiba (RA)", "Hazrat Umm Salama (RA)", "Hazrat Sawda (RA)", "All of them"],
+                        "options": [
+                            "Hazrat Umm Habiba (RA)",
+                            "Hazrat Umm Salama (RA)",
+                            "Hazrat Sawda (RA)",
+                            "All of them"
+                        ],
                         "answer": 3,
                         "explanation": "Umm Habiba, Umm Salama, and Sawda all participated in migrations to Abyssinia."
                     },
                     {
                         "q": "Who narrated the most Hadiths among the 'Mothers of the Believers'?",
-                        "options": ["Hazrat Khadija", "Hazrat Aisha (RA)", "Hazrat Umm Salama", "Hazrat Hafsa"],
+                        "options": [
+                            "Hazrat Khadija",
+                            "Hazrat Aisha (RA)",
+                            "Hazrat Umm Salama",
+                            "Hazrat Hafsa"
+                        ],
                         "answer": 1,
                         "explanation": "Hazrat Aisha (RA) narrated 2,210 Hadiths and was a leading scholar."
                     },
                     {
                         "q": "Which wife was the cousin of the Prophet (PBUH)?",
-                        "options": ["Hazrat Zainab bint Jahsh", "Hazrat Maymuna", "Hazrat Sawda", "Hazrat Khadija"],
+                        "options": [
+                            "Hazrat Zainab bint Jahsh",
+                            "Hazrat Maymuna",
+                            "Hazrat Sawda",
+                            "Hazrat Khadija"
+                        ],
                         "answer": 0,
                         "explanation": "Hazrat Zainab bint Jahsh's mother was the aunt of the Prophet (PBUH)."
                     },
                     {
                         "q": "At what age did Hazrat Khadija marry the Prophet (PBUH)?",
-                        "options": ["25", "30", "40", "45"],
+                        "options": [
+                            "25",
+                            "30",
+                            "40",
+                            "45"
+                        ],
                         "answer": 2,
                         "explanation": "Hazrat Khadija was 40 years old when she married the 25-year-old Prophet (PBUH)."
+                    },
+                    {
+                        "q": "How many wives did Prophet Muhammad (PBUH) have during his lifetime (collectively known as Mothers of Believers)?",
+                        "options": [
+                            "9",
+                            "11",
+                            "13",
+                            "15"
+                        ],
+                        "answer": 1,
+                        "explanation": "It is generally agreed he had 11 marriages that were consummated, though he did not have them all at the same time."
+                    },
+                    {
+                        "q": "Who was the only wife the Prophet (PBUH) did not marry after she was previously married or widowed?",
+                        "options": [
+                            "Hazrat Khadija (RA)",
+                            "Hazrat Aisha (RA)",
+                            "Hazrat Hafsa (RA)",
+                            "Hazrat Sawda (RA)"
+                        ],
+                        "answer": 1,
+                        "explanation": "Hazrat Aisha (RA) was the only virgin he married."
+                    },
+                    {
+                        "q": "Who suggested the marriage between Prophet Muhammad (PBUH) and Hazrat Khadija (RA)?",
+                        "options": [
+                            "Abu Talib",
+                            "Nafisa bint Munya",
+                            "Hazrat Hamza (RA)",
+                            "Hazrat Abu Bakr (RA)"
+                        ],
+                        "answer": 1,
+                        "explanation": "Nafisa, a friend of Khadija, acted as an intermediary to suggest the match."
+                    },
+                    {
+                        "q": "Which wife of the Prophet (PBUH) passed away during his lifetime after Khadija (RA)?",
+                        "options": [
+                            "Hazrat Sawda (RA)",
+                            "Hazrat Zainab bint Khuzaima (RA)",
+                            "Hazrat Aisha (RA)",
+                            "Hazrat Hafsa (RA)"
+                        ],
+                        "answer": 1,
+                        "explanation": "Zainab bint Khuzaima passed away only a few months after their marriage."
+                    },
+                    {
+                        "q": "Hazrat Khadija (RA) was previously married how many times before marrying the Prophet (PBUH)?",
+                        "options": [
+                            "Once",
+                            "Twice",
+                            "Three times",
+                            "Never"
+                        ],
+                        "answer": 1,
+                        "explanation": "She had been married twice and was twice widowed before marrying the Prophet (PBUH)."
+                    },
+                    {
+                        "q": "What was the previous name of Hazrat Juwayriya (RA) before the Prophet (PBUH) changed it?",
+                        "options": [
+                            "Hind",
+                            "Barrah",
+                            "Zainab",
+                            "Asma"
+                        ],
+                        "answer": 1,
+                        "explanation": "Her name was Barrah, which means 'pious'. The Prophet changed it to Juwayriya."
+                    },
+                    {
+                        "q": "Which wife of the Prophet (PBUH) was married to him by an explicit verse revealed in the Quran?",
+                        "options": [
+                            "Hazrat Aisha (RA)",
+                            "Hazrat Khadija (RA)",
+                            "Hazrat Zainab bint Jahsh (RA)",
+                            "Hazrat Safiyya (RA)"
+                        ],
+                        "answer": 2,
+                        "explanation": "The marriage to Zainab bint Jahsh was commanded in Surah Al-Ahzab (33:37)."
+                    },
+                    {
+                        "q": "Who was the first wife of the Prophet (PBUH) to pass away after his own death?",
+                        "options": [
+                            "Hazrat Aisha (RA)",
+                            "Hazrat Zainab bint Jahsh (RA)",
+                            "Hazrat Sawda (RA)",
+                            "Hazrat Hafsa (RA)"
+                        ],
+                        "answer": 1,
+                        "explanation": "Zainab bint Jahsh (RA) was the first widow to die after the Prophet's death, around 20 AH."
+                    },
+                    {
+                        "q": "With whom did the Prophet (PBUH) share his secret of the first revelation in the Cave of Hira immediately?",
+                        "options": [
+                            "Abu Bakr (RA)",
+                            "Ali (RA)",
+                            "Khadija (RA)",
+                            "Waraqa bin Naufal"
+                        ],
+                        "answer": 2,
+                        "explanation": "He returned home to Khadija (RA) asking her to cover him and told her what happened."
+                    },
+                    {
+                        "q": "Which wife of the Prophet (PBUH) advised him during the Truce of Hudaibiya when the companions were initially reluctant to shave their heads?",
+                        "options": [
+                            "Hazrat Aisha (RA)",
+                            "Hazrat Umm Salama (RA)",
+                            "Hazrat Hafsa (RA)",
+                            "Hazrat Maymuna (RA)"
+                        ],
+                        "answer": 1,
+                        "explanation": "Umm Salama (RA) intelligently advised him to go and shave his own head first, which prompted the companions to follow."
+                    },
+                    {
+                        "q": "Who was the former husband of Hazrat Umm Salama (RA)?",
+                        "options": [
+                            "Abu Salama (RA)",
+                            "Zaid bin Harithah",
+                            "Khunais bin Hudhafa",
+                            "Obaidullah bin Jahsh"
+                        ],
+                        "answer": 0,
+                        "explanation": "She was married to Abu Salama, who died from injuries sustained at the Battle of Uhud."
+                    },
+                    {
+                        "q": "Hazrat Maria al-Qibtiyya (Maria the Copt), who bore the Prophet's son Ibrahim, was gifted to him by?",
+                        "options": [
+                            "The King of Abyssinia",
+                            "The Muqawqis of Egypt",
+                            "The Emperor of Rome",
+                            "The King of Persia"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Muqawqis, ruler of Alexandria, sent her as a gift."
+                    },
+                    {
+                        "q": "Which wife of the Prophet (PBUH) was known for her exceptional skill in leatherwork and tanning, using the earnings for charity?",
+                        "options": [
+                            "Hazrat Aisha (RA)",
+                            "Hazrat Zainab bint Jahsh (RA)",
+                            "Hazrat Safiyya (RA)",
+                            "Hazrat Sawda (RA)"
+                        ],
+                        "answer": 1,
+                        "explanation": "Zainab bint Jahsh was highly skilled in manual crafts and gave the proceeds to the poor."
+                    },
+                    {
+                        "q": "Hazrat Hafsa (RA) was married to whom before the Prophet (PBUH)?",
+                        "options": [
+                            "Khunais bin Hudhafa",
+                            "Zaid bin Harithah",
+                            "Ubaydullah bin Jahsh",
+                            "Al-Nu'man"
+                        ],
+                        "answer": 0,
+                        "explanation": "Her first husband, Khunais, sustained fatal wounds at Badr."
+                    },
+                    {
+                        "q": "Who was the brother of Hazrat Aisha (RA) who led her camel during the Battle of the Camel?",
+                        "options": [
+                            "Abd al-Rahman ibn Abu Bakr",
+                            "Muhammad ibn Abu Bakr",
+                            "Abdullah ibn Abu Bakr",
+                            "Asma bint Abu Bakr"
+                        ],
+                        "answer": 0,
+                        "explanation": "It was Abdul Rahman, though Muhammad ibn Abu Bakr was on the opposing side of Ali."
+                    },
+                    {
+                        "q": "Which wife was accused in the 'Event of Ifk' (The Slander), leading to verses of exoneration in the Quran?",
+                        "options": [
+                            "Hazrat Khadija (RA)",
+                            "Hazrat Sawda (RA)",
+                            "Hazrat Aisha (RA)",
+                            "Hazrat Hafsa (RA)"
+                        ],
+                        "answer": 2,
+                        "explanation": "Hazrat Aisha (RA) was falsely accused, and Allah revealed verses in Surah An-Nur clearing her name."
+                    },
+                    {
+                        "q": "Upon the marriage of which wife did the Prophet (PBUH) manumit 100 households of her tribe?",
+                        "options": [
+                            "Hazrat Juwayriya (RA)",
+                            "Hazrat Safiyya (RA)",
+                            "Hazrat Maymuna (RA)",
+                            "Hazrat Umm Salama (RA)"
+                        ],
+                        "answer": 0,
+                        "explanation": "When he married Juwayriya, the Muslims released their prisoners from her tribe (Banu Mustaliq) out of respect."
+                    },
+                    {
+                        "q": "Hazrat Safiyya's (RA) original name before accepting Islam was?",
+                        "options": [
+                            "Safiyya",
+                            "Barrah",
+                            "Zainab",
+                            "Atekah"
+                        ],
+                        "answer": 0,
+                        "explanation": "She was known as Safiyya, but she was the daughter of Huyayy bin Akhtab."
+                    },
+                    {
+                        "q": "Who was the maternal aunt of Khalid bin Waleed (RA) and married the Prophet (PBUH)?",
+                        "options": [
+                            "Hazrat Maymuna (RA)",
+                            "Hazrat Umm Salama (RA)",
+                            "Hazrat Safiyya (RA)",
+                            "Hazrat Zainab (RA)"
+                        ],
+                        "answer": 0,
+                        "explanation": "Maymuna bint al-Harith was the aunt of Khalid bin Walid and Ibn Abbas."
+                    },
+                    {
+                        "q": "The Prophet (PBUH) married Hazrat Umm Habiba (RA) while she was in?",
+                        "options": [
+                            "Madinah",
+                            "Makkah",
+                            "Abyssinia",
+                            "Taif"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Najashi (King of Abyssinia) conducted the marriage ceremony on behalf of the Prophet (PBUH) while she was in exile there."
+                    },
+                    {
+                        "q": "Who was the father of Hazrat Umm Habiba (RA)?",
+                        "options": [
+                            "Abu Bakr",
+                            "Umar",
+                            "Abu Sufyan",
+                            "Abu Jahl"
+                        ],
+                        "answer": 2,
+                        "explanation": "Her real name was Ramla, daughter of Abu Sufyan, a leader of the Quraish who later accepted Islam."
+                    },
+                    {
+                        "q": "Which wife gave up her 'turn' (day with the Prophet) to Hazrat Aisha (RA) in her old age to remain his wife?",
+                        "options": [
+                            "Hazrat Sawda (RA)",
+                            "Hazrat Hafsa (RA)",
+                            "Hazrat Maymuna (RA)",
+                            "Hazrat Umm Salama (RA)"
+                        ],
+                        "answer": 0,
+                        "explanation": "Hazrat Sawda (RA) gave her allotted day to Aisha out of love for the Prophet (PBUH) and Aisha."
+                    },
+                    {
+                        "q": "Which wife of the Prophet (PBUH) was known for memorizing the Quran and kept the first compiled copy after Umar's death?",
+                        "options": [
+                            "Hazrat Aisha (RA)",
+                            "Hazrat Hafsa (RA)",
+                            "Hazrat Khadija (RA)",
+                            "Hazrat Zainab (RA)"
+                        ],
+                        "answer": 1,
+                        "explanation": "Hazrat Hafsa (RA) was entrusted with the original manuscript compiled during Abu Bakr's caliphate."
+                    },
+                    {
+                        "q": "When did the Prophet (PBUH) marry Hazrat Khadija (RA)?",
+                        "options": [
+                            "Before Prophethood (at age 25)",
+                            "After Prophethood (at age 40)",
+                            "After Hijrah (at age 53)",
+                            "At age 30"
+                        ],
+                        "answer": 0,
+                        "explanation": "He married her 15 years prior to receiving the first revelation."
+                    },
+                    {
+                        "q": "From which Jewish tribe did Hazrat Safiyya (RA) originate?",
+                        "options": [
+                            "Banu Qaynuqa",
+                            "Banu Nadir",
+                            "Banu Qurayza",
+                            "Banu Mustaliq"
+                        ],
+                        "answer": 1,
+                        "explanation": "Her father was the chief of the Banu Nadir tribe."
+                    },
+                    {
+                        "q": "Where did the Prophet (PBUH) and Hazrat Khadija (RA) initially reside after their marriage?",
+                        "options": [
+                            "Madinah",
+                            "Taif",
+                            "Makkah",
+                            "Syria"
+                        ],
+                        "answer": 2,
+                        "explanation": "They lived in Makkah for their entire 25-year marriage."
+                    },
+                    {
+                        "q": "How many daughters did the Prophet (PBUH) have with Hazrat Khadija (RA)?",
+                        "options": [
+                            "Two",
+                            "Three",
+                            "Four",
+                            "Five"
+                        ],
+                        "answer": 2,
+                        "explanation": "They had four daughters: Zainab, Ruqayyah, Umm Kulthum, and Fatima."
+                    },
+                    {
+                        "q": "Which wife survived the Prophet (PBUH) the longest, dying around 61 AH?",
+                        "options": [
+                            "Hazrat Aisha (RA)",
+                            "Hazrat Safiyya (RA)",
+                            "Hazrat Umm Salama (RA)",
+                            "Hazrat Juwayriya (RA)"
+                        ],
+                        "answer": 2,
+                        "explanation": "Hazrat Umm Salama (RA) lived outlived all other wives, dying during Yazid's reign."
+                    },
+                    {
+                        "q": "Who took the Prophet (PBUH) to her cousin Waraqa bin Naufal to understand his first revelation?",
+                        "options": [
+                            "Hazrat Aisha (RA)",
+                            "Hazrat Khadija (RA)",
+                            "Hazrat Sawda (RA)",
+                            "Hazrat Hafsa (RA)"
+                        ],
+                        "answer": 1,
+                        "explanation": "Khadija (RA) took him to Waraqa, a Christian scholar, who confirmed his prophethood."
+                    },
+                    {
+                        "q": "What was the relation of Hazrat Zaid bin Harithah to Hazrat Zainab bint Jahsh before she married the Prophet (PBUH)?",
+                        "options": [
+                            "He was her brother",
+                            "He was her cousin",
+                            "He was her former husband",
+                            "He was her father"
+                        ],
+                        "answer": 2,
+                        "explanation": "Zaid bin Harithah (the Prophet's adopted son) was previously married to Zainab; they divorced, after which she married the Prophet to abolish the taboo of marrying an adopted son's ex-wife."
+                    },
+                    {
+                        "q": "Hazrat Maymuna (RA) died at the exact place where she had been married to the Prophet (PBUH). Where was this?",
+                        "options": [
+                            "Quba",
+                            "Saraf",
+                            "Mina",
+                            "Arafat"
+                        ],
+                        "answer": 1,
+                        "explanation": "She died at Saraf, near Makkah, and was buried there."
+                    },
+                    {
+                        "q": "Which wife of the Prophet (PBUH) was extremely tall and heavily built?",
+                        "options": [
+                            "Hazrat Aisha (RA)",
+                            "Hazrat Sawda (RA)",
+                            "Hazrat Khadija (RA)",
+                            "Hazrat Safiyya (RA)"
+                        ],
+                        "answer": 1,
+                        "explanation": "Hazrat Sawda bint Zam'ah (RA) was known to be tall and heavy, such that she struggled to move fast in later years."
+                    },
+                    {
+                        "q": "According to Sunni tradition, what was the age of Hazrat Aisha (RA) when she consummated the marriage with the Prophet (PBUH) in Madinah?",
+                        "options": [
+                            "9",
+                            "15",
+                            "18",
+                            "21"
+                        ],
+                        "answer": 0,
+                        "explanation": "Traditional Hadith sources state she was 9 when she moved into the Prophet's household in Madinah."
+                    },
+                    {
+                        "q": "Who was the mother of Hazrat Aisha (RA)?",
+                        "options": [
+                            "Umm Ruman",
+                            "Fatima bint Asad",
+                            "Asma bint Umais",
+                            "Hind bint Utbah"
+                        ],
+                        "answer": 0,
+                        "explanation": "Umm Ruman was the wife of Abu Bakr and the mother of Aisha and Abdur-Rahman."
+                    },
+                    {
+                        "q": "Which wife was known to have a very fiery/short temper but was quick to repent, according to Aisha (RA)?",
+                        "options": [
+                            "Hazrat Sawda (RA)",
+                            "Hazrat Hafsa (RA)",
+                            "Hazrat Zainab bint Jahsh (RA)",
+                            "Hazrat Safiyya (RA)"
+                        ],
+                        "answer": 2,
+                        "explanation": "Aisha praised Zainab's religious devoutness, saying her only flaw was a quick temper which faded as quickly as it came."
+                    },
+                    {
+                        "q": "The verses commanding the wives of the Prophet (PBUH) to observe Hijab (veil) were primarily revealed after the marriage to which wife?",
+                        "options": [
+                            "Hazrat Zainab bint Jahsh (RA)",
+                            "Hazrat Aisha (RA)",
+                            "Hazrat Hafsa (RA)",
+                            "Hazrat Umm Salama (RA)"
+                        ],
+                        "answer": 0,
+                        "explanation": "The verses of Hijab were revealed during the Walima feast of Zainab bint Jahsh."
+                    },
+                    {
+                        "q": "Who was the uncle of Hazrat Hafsa (RA) and the brother of Umar (RA) who was martyred at Yamama?",
+                        "options": [
+                            "Zaid bin al-Khattab",
+                            "Abdullah bin Umar",
+                            "Abu Ubaidah",
+                            "Amr bin al-Aas"
+                        ],
+                        "answer": 0,
+                        "explanation": "Zaid bin al-Khattab was the older brother of Umar (RA)."
+                    },
+                    {
+                        "q": "The Prophet (PBUH) was passing away when his head was resting on whose lap/chest?",
+                        "options": [
+                            "Hazrat Ali (RA)",
+                            "Hazrat Fatima (RA)",
+                            "Hazrat Aisha (RA)",
+                            "Hazrat Khadija (RA)"
+                        ],
+                        "answer": 2,
+                        "explanation": "He passed away in the arms/lap of Hazrat Aisha (RA)."
+                    },
+                    {
+                        "q": "Hazrat Umm Salama's (RA) original name was?",
+                        "options": [
+                            "Hind bint Abi Umayya",
+                            "Ramla bint Abu Sufyan",
+                            "Zainab bint Jahsh",
+                            "Barrah bint Harith"
+                        ],
+                        "answer": 0,
+                        "explanation": "Her name was Hind. 'Umm Salama' was her Kunya (mother of Salama)."
+                    },
+                    {
+                        "q": "Which wife of the Prophet (PBUH) was buried in Jannat al-Mu'alla in Makkah?",
+                        "options": [
+                            "Hazrat Aisha (RA)",
+                            "Hazrat Khadija (RA)",
+                            "Hazrat Sawda (RA)",
+                            "Hazrat Hafsa (RA)"
+                        ],
+                        "answer": 1,
+                        "explanation": "Khadija (RA) passed away in Makkah before the Hijrah and is buried there."
+                    },
+                    {
+                        "q": "Apart from Khadija and Maymuna, all other wives are buried where?",
+                        "options": [
+                            "Jannat al-Mu'alla",
+                            "Jannat al-Baqi",
+                            "Mount Uhud",
+                            "Dome of the Rock"
+                        ],
+                        "answer": 1,
+                        "explanation": "The rest of the Mothers of the Believers are buried in Jannat al-Baqi in Madinah."
+                    },
+                    {
+                        "q": "Which wife's dowry (Mahr) was her very freedom/manumission from slavery?",
+                        "options": [
+                            "Hazrat Zainab (RA)",
+                            "Hazrat Safiyya (RA)",
+                            "Hazrat Khadija (RA)",
+                            "Hazrat Aisha (RA)"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Prophet (PBUH) freed Safiyya (and similarly Juwayriya) and made their emancipation their Mahr."
+                    },
+                    {
+                        "q": "Who used to bring food to the Prophet (PBUH) and Hazrat Abu Bakr (RA) during their stay in the Cave of Thawr?",
+                        "options": [
+                            "Asma bint Abu Bakr",
+                            "Aisha bint Abu Bakr",
+                            "Khadija bint Khuwaylid",
+                            "Fatimah bint Muhammad"
+                        ],
+                        "answer": 0,
+                        "explanation": "Asma, Aisha's older sister, secretly brought them provisions."
+                    },
+                    {
+                        "q": "Hazrat Khadija (RA) traded with the wealth of others and shared the profits. This type of Islamic business contract is called?",
+                        "options": [
+                            "Musharakah",
+                            "Mudarabah",
+                            "Murabahah",
+                            "Ijarah"
+                        ],
+                        "answer": 1,
+                        "explanation": "Mudarabah is a partnership where one supplies capital and the other supplies labor/management."
+                    },
+                    {
+                        "q": "During the Prophet’s (PBUH) marriage to Hazrat Khadija (RA), did he take any other wives?",
+                        "options": [
+                            "Yes, one",
+                            "Yes, two",
+                            "Yes, multiple",
+                            "No, none"
+                        ],
+                        "answer": 3,
+                        "explanation": "The Prophet (PBUH) remained monogamous during the 25 years he was married to Khadija (RA)."
+                    },
+                    {
+                        "q": "Which wife was known as 'Tayyiba' and 'Tahirah' (The Pure One) even during the pre-Islamic days of Ignorance (Jahiliyyah)?",
+                        "options": [
+                            "Hazrat Khadija (RA)",
+                            "Hazrat Aisha (RA)",
+                            "Hazrat Sawda (RA)",
+                            "Hazrat Maymuna (RA)"
+                        ],
+                        "answer": 0,
+                        "explanation": "Khadija was known as Tahirah due to her impeccable character even before Islam."
+                    },
+                    {
+                        "q": "In which Hijri year did the marriage between the Prophet (PBUH) and Hazrat Aisha (RA) take place?",
+                        "options": [
+                            "1 AH",
+                            "2 AH",
+                            "3 AH",
+                            "4 AH"
+                        ],
+                        "answer": 1,
+                        "explanation": "The marriage contract was done in Makkah, but consummated in Madinah around 2 AH after the Battle of Badr."
+                    },
+                    {
+                        "q": "When Zainab bint Jahsh (RA) received her stipend during Umar's caliphate, what did she do with it?",
+                        "options": [
+                            "Saved it to build a mosque",
+                            "Gave it all away to the poor immediately",
+                            "Bought jewelry",
+                            " invested it in trade"
+                        ],
+                        "answer": 1,
+                        "explanation": "She was extremely charitable and distributed all her wealth to the needy as soon as she received it."
+                    },
+                    {
+                        "q": "The Prophet (PBUH) said 'the excellence of 'Aisha over other women is like the excellence of _______ over other foods'.",
+                        "options": [
+                            "Tharid",
+                            "Honey",
+                            "Dates",
+                            "Milk"
+                        ],
+                        "answer": 0,
+                        "explanation": "Tharid was a popular Arab dish of bread and meat broth, considered superior food at the time."
+                    },
+                    {
+                        "q": "Who was the father of Hazrat Khadija (RA)?",
+                        "options": [
+                            "Khuwaylid ibn Asad",
+                            "Abu Talib",
+                            "Asad ibn Hashim",
+                            "Mut'im ibn Adi"
+                        ],
+                        "answer": 0,
+                        "explanation": "She was Khadija bint Khuwaylid."
                     }
                 ]
             },
@@ -11485,7 +13193,7 @@
                         "explanation": "She passed away at Abwa when he was six years old."
                     },
                     {
-                        "q": "Under which tree was the Pledge of Ridwan (Bay\u0027at-e-Ridwan) taken during the Treaty of Hudaibiya?",
+                        "q": "Under which tree was the Pledge of Ridwan (Bay'at-e-Ridwan) taken during the Treaty of Hudaibiya?",
                         "options": [
                             "Date palm tree",
                             "Acacia tree",
@@ -11507,7 +13215,7 @@
                         "explanation": "The Prophet (PBUH) was born in Makkah in the Year of the Elephant, which historically corresponds to 571 AD."
                     },
                     {
-                        "q": "What was the name of the Prophet\u0027s (PBUH) foster mother?",
+                        "q": "What was the name of the Prophet's (PBUH) foster mother?",
                         "options": [
                             "Hazrat Khadijah (RA)",
                             "Hazrat Aminah (RA)",
@@ -11515,7 +13223,7 @@
                             "Hazrat Fatimah (RA)"
                         ],
                         "answer": 2,
-                        "explanation": "Hazrat Halimah Sadia (RA) belonged to the Banu Sa\u0027d tribe and served as the wet nurse and foster mother of the Prophet (PBUH)."
+                        "explanation": "Hazrat Halimah Sadia (RA) belonged to the Banu Sa'd tribe and served as the wet nurse and foster mother of the Prophet (PBUH)."
                     },
                     {
                         "q": "Which battle was the first major military engagement for the Muslims?",
@@ -11573,7 +13281,7 @@
                         "explanation": "Hazrat Abu Bakr (RA) was the trusted companion who migrated with the Prophet (PBUH) and stayed in the Cave of Thawr."
                     },
                     {
-                        "q": "In which battle were the Prophet\u0027s (PBUH) teeth martyred?",
+                        "q": "In which battle were the Prophet's (PBUH) teeth martyred?",
                         "options": [
                             "Battle of Badr",
                             "Battle of Uhud",
@@ -11628,7 +13336,7 @@
                         "explanation": "The Prophet (PBUH) passed away at the age of 63 in Madinah (11 AH / 632 AD)."
                     },
                     {
-                        "q": "To which city did the Prophet (PBUH) travel during the incident of Mi\u0027raj?",
+                        "q": "To which city did the Prophet (PBUH) travel during the incident of Mi'raj?",
                         "options": [
                             "Taif",
                             "Jerusalem",
@@ -11647,7 +13355,7 @@
                             "Hazrat Zaid bin Haritha (RA)"
                         ],
                         "answer": 0,
-                        "explanation": "Hazrat Khadija (RA), the Prophet\u0027s (PBUH) wife, was the absolute first person to believe in his prophethood."
+                        "explanation": "Hazrat Khadija (RA), the Prophet's (PBUH) wife, was the absolute first person to believe in his prophethood."
                     },
                     {
                         "q": "Which Jewish tribe plotted to drop a stone on the Prophet (PBUH)?",
@@ -11680,7 +13388,7 @@
                             "Al-Burraq"
                         ],
                         "answer": 1,
-                        "explanation": "The Prophet\u0027s (PBUH) favorite camel was named Al-Qaswa, which also chose the spot for Masjid an-Nabawi in Madinah."
+                        "explanation": "The Prophet's (PBUH) favorite camel was named Al-Qaswa, which also chose the spot for Masjid an-Nabawi in Madinah."
                     },
                     {
                         "q": "How many years did the Prophet (PBUH) stay in Madinah after Hijrah?",
@@ -11713,10 +13421,10 @@
                             "Utbah bin Abu Lahab"
                         ],
                         "answer": 2,
-                        "explanation": "Abul Aas bin Rabi was married to the Prophet\u0027s (PBUH) eldest daughter Zainab (RA) and accepted Islam later after the Treaty of Hudaibiya."
+                        "explanation": "Abul Aas bin Rabi was married to the Prophet's (PBUH) eldest daughter Zainab (RA) and accepted Islam later after the Treaty of Hudaibiya."
                     },
                     {
-                        "q": "What was the name of the Prophet\u0027s (PBUH) sword?",
+                        "q": "What was the name of the Prophet's (PBUH) sword?",
                         "options": [
                             "Dhulfiqar",
                             "Al-Qadib",
@@ -11760,7 +13468,7 @@
                         "explanation": "Hazrat Umm Habiba (Ramlah bint Abi Sufyan) was the daughter of the Quraish leader Abu Sufyan."
                     },
                     {
-                        "q": "How many times is the name \u0027Muhammad\u0027 mentioned in the Quran?",
+                        "q": "How many times is the name 'Muhammad' mentioned in the Quran?",
                         "options": [
                             "2",
                             "4",
@@ -11768,7 +13476,7 @@
                             "10"
                         ],
                         "answer": 1,
-                        "explanation": "The name \u0027Muhammad\u0027 (PBUH) is mentioned explicitly 4 times in the Quran."
+                        "explanation": "The name 'Muhammad' (PBUH) is mentioned explicitly 4 times in the Quran."
                     },
                     {
                         "q": "Who was the leader of the non-believers in the Battle of Badr?",
@@ -11782,7 +13490,7 @@
                         "explanation": "Abu Jahl (Amr ibn Hisham) was the commander of the Meccan army and was killed in the battle."
                     },
                     {
-                        "q": "What was the name of the Prophet\u0027s (PBUH) grandfather who took care of him after his mother\u0027s death?",
+                        "q": "What was the name of the Prophet's (PBUH) grandfather who took care of him after his mother's death?",
                         "options": [
                             "Abu Talib",
                             "Abdul Muttalib",
@@ -11837,7 +13545,7 @@
                         "explanation": "He was born in the very first Year of the Elephant."
                     },
                     {
-                        "q": "What was the name of the Prophet\u0027s (PBUH) father?",
+                        "q": "What was the name of the Prophet's (PBUH) father?",
                         "options": [
                             "Abdul Muttalib",
                             "Abdullah",
@@ -11845,7 +13553,7 @@
                             "Abbas"
                         ],
                         "answer": 1,
-                        "explanation": "Abdullah ibn Abdul Muttalib passed away before the Prophet\u0027s (PBUH) birth."
+                        "explanation": "Abdullah ibn Abdul Muttalib passed away before the Prophet's (PBUH) birth."
                     },
                     {
                         "q": "How many days did the Prophet (PBUH) stay in the Cave of Thawr?",
@@ -11886,7 +13594,7 @@
                             "Banu Hashim",
                             "Banu Umayyah",
                             "Banu Quraish",
-                            "Banu Khuza\u0027a"
+                            "Banu Khuza'a"
                         ],
                         "answer": 2,
                         "explanation": "The Quraish were the custodians of the Kaaba."
@@ -11903,7 +13611,7 @@
                         "explanation": "The Persian companion Salman Farsi (RA) proposed the strategy to defend Madinah."
                     },
                     {
-                        "q": "What was the name of the Prophet\u0027s (PBUH) mother?",
+                        "q": "What was the name of the Prophet's (PBUH) mother?",
                         "options": [
                             "Hazrat Aminah",
                             "Hazrat Halimah",
@@ -11947,7 +13655,7 @@
                         "explanation": "Hazrat Abu Bakr (RA) was the first adult male to accept Islam."
                     },
                     {
-                        "q": "Which year is known as \u0027Am-ul-Huzn\u0027 (Year of Sorrow)?",
+                        "q": "Which year is known as 'Am-ul-Huzn' (Year of Sorrow)?",
                         "options": [
                             "8th Year of Prophethood",
                             "10th Year of Prophethood",
@@ -11955,7 +13663,7 @@
                             "1st Year of Hijrah"
                         ],
                         "answer": 1,
-                        "explanation": "The year the Prophet\u0027s (PBUH) wife Khadija (RA) and uncle Abu Talib died."
+                        "explanation": "The year the Prophet's (PBUH) wife Khadija (RA) and uncle Abu Talib died."
                     },
                     {
                         "q": "How many times did the Prophet (PBUH) perform Hajj?",
@@ -11969,7 +13677,7 @@
                         "explanation": "The Prophet (PBUH) performed only one Hajj, known as Hajjat-ul-Wida."
                     },
                     {
-                        "q": "In which city is the Green Dome (of the Prophet\u0027s Mosque) located?",
+                        "q": "In which city is the Green Dome (of the Prophet's Mosque) located?",
                         "options": [
                             "Makkah",
                             "Madinah",
@@ -11988,7 +13696,7 @@
                             "Ya-Sin"
                         ],
                         "answer": 2,
-                        "explanation": "The first word revealed was \u0027Iqra\u0027 (Read)."
+                        "explanation": "The first word revealed was 'Iqra' (Read)."
                     },
                     {
                         "q": "To which tribe did Hazrat Aminah (RA) belong?",
@@ -11999,10 +13707,10 @@
                             "Banu Taym"
                         ],
                         "answer": 1,
-                        "explanation": "The Prophet\u0027s (PBUH) mother was from the Banu Zuhra clan."
+                        "explanation": "The Prophet's (PBUH) mother was from the Banu Zuhra clan."
                     },
                     {
-                        "q": "Who was the Prophet\u0027s (PBUH) nurse during his infancy in Makkah?",
+                        "q": "Who was the Prophet's (PBUH) nurse during his infancy in Makkah?",
                         "options": [
                             "Umm Ayman",
                             "Halimah Sadia",
@@ -12035,7 +13743,7 @@
                         "explanation": "He had four daughters: Zainab, Ruqayyah, Umm Kulthum, and Fatimah (RA)."
                     },
                     {
-                        "q": "Which companion was known as the \u0027Sword of Allah\u0027?",
+                        "q": "Which companion was known as the 'Sword of Allah'?",
                         "options": [
                             "Hazrat Ali (RA)",
                             "Hazrat Umar (RA)",
@@ -12057,7 +13765,7 @@
                         "explanation": "Abdullah bin Jubair was the commander of the 50 archers on Mount Rumat."
                     },
                     {
-                        "q": "What was the name of the Prophet\u0027s (PBUH) paternal uncle who protected him?",
+                        "q": "What was the name of the Prophet's (PBUH) paternal uncle who protected him?",
                         "options": [
                             "Abu Lahab",
                             "Abu Talib",
@@ -12093,7 +13801,7 @@
                         "q": "Who was the commander of the Muslim army in the Battle of Mutah?",
                         "options": [
                             "Zaid bin Harithah (RA)",
-                            "Ja\u0027far bin Abi Talib (RA)",
+                            "Ja'far bin Abi Talib (RA)",
                             "Abdullah bin Rawahah (RA)",
                             "All of them successively"
                         ],
@@ -12112,7 +13820,7 @@
                         "explanation": "The Khutbah Hajjat-ul-Wida was delivered at Mount Arafat (Jabal al-Rahmah)."
                     },
                     {
-                        "q": "Which wife of the Prophet (PBUH) was known as \u0027Umm-ul-Masakeen\u0027?",
+                        "q": "Which wife of the Prophet (PBUH) was known as 'Umm-ul-Masakeen'?",
                         "options": [
                             "Hazrat Zainab bint Khuzaymah",
                             "Hazrat Khadija",
@@ -12145,7 +13853,7 @@
                         "explanation": "The Prophet (PBUH) performed four Umrahs in his life."
                     },
                     {
-                        "q": "What was the name of the Prophet\u0027s (PBUH) grandmother?",
+                        "q": "What was the name of the Prophet's (PBUH) grandmother?",
                         "options": [
                             "Fatima bint Amr",
                             "Salma bint Amr",
@@ -12178,7 +13886,7 @@
                         "explanation": "It lasted for 3 continuous years."
                     },
                     {
-                        "q": "Which person was given the responsibility of handling the keys of Madinah in the Prophet\u0027s absence?",
+                        "q": "Which person was given the responsibility of handling the keys of Madinah in the Prophet's absence?",
                         "options": [
                             "Hazrat Ali (RA)",
                             "Hazrat Umar (RA)",
@@ -12222,7 +13930,7 @@
                         "explanation": "Actually, Hazrat Aisha was the only one never married before him, but she had no children. Khadija had children but was married before."
                     },
                     {
-                        "q": "Identify the false prophet killed during the time of Abu Bakr but arose during the Prophet\u0027s time?",
+                        "q": "Identify the false prophet killed during the time of Abu Bakr but arose during the Prophet's time?",
                         "options": [
                             "Musaylimah Kazzab",
                             "Tulayha",
@@ -12236,9 +13944,9 @@
                         "q": "Where did the Prophet (PBUH) stay when he reached Madinah first?",
                         "options": [
                             "Masjid an-Nabawi",
-                            "Abu Ayyub Ansari\u0027s house",
-                            "Abu Bakr\u0027s house",
-                            "Salman Farsi\u0027s house"
+                            "Abu Ayyub Ansari's house",
+                            "Abu Bakr's house",
+                            "Salman Farsi's house"
                         ],
                         "answer": 1,
                         "explanation": "The Prophet (PBUH) stayed at the house of Hazrat Abu Ayyub Ansari (RA) for several months."
@@ -12255,7 +13963,7 @@
                         "explanation": "Waraqa bin Nawfal was a Christian scholar who confirmed he was the expected Prophet."
                     },
                     {
-                        "q": "The \u0027Charter of Madinah\u0027 was signed between?",
+                        "q": "The 'Charter of Madinah' was signed between?",
                         "options": [
                             "Muslims and Quraish",
                             "Muslims and Jews of Madinah",
@@ -12277,7 +13985,7 @@
                         "explanation": "They were married for 25 happy years."
                     },
                     {
-                        "q": "What was the name of the Prophet\u0027s (PBUH) mule?",
+                        "q": "What was the name of the Prophet's (PBUH) mule?",
                         "options": [
                             "Al-Qaswa",
                             "Duldul",
@@ -12302,15 +14010,15 @@
                         "q": "Which tribe broke the Treaty of Hudaibiya?",
                         "options": [
                             "Banu Bakr",
-                            "Banu Khuza\u0027a",
+                            "Banu Khuza'a",
                             "Banu Nadir",
                             "Banu Qaynuqa"
                         ],
                         "answer": 0,
-                        "explanation": "The attack by Banu Bakr on Banu Khuza\u0027a led to the conquest of Makkah."
+                        "explanation": "The attack by Banu Bakr on Banu Khuza'a led to the conquest of Makkah."
                     },
                     {
-                        "q": "How long was the journey of Isra and Mi\u0027raj?",
+                        "q": "How long was the journey of Isra and Mi'raj?",
                         "options": [
                             "One week",
                             "One month",
@@ -12376,7 +14084,7 @@
                         "explanation": "Abdullah bin Ubayy ibn Salul was the leader of the Munafiqeen."
                     },
                     {
-                        "q": "What was the Prophet\u0027s (PBUH) age when he went to Basra for trade as an adult?",
+                        "q": "What was the Prophet's (PBUH) age when he went to Basra for trade as an adult?",
                         "options": [
                             "20",
                             "25",
@@ -12387,7 +14095,7 @@
                         "explanation": "He went representing Hazrat Khadija (RA) at the age of 25."
                     },
                     {
-                        "q": "What was the name of the Prophet\u0027s (PBUH) sword that he used in Jihad?",
+                        "q": "What was the name of the Prophet's (PBUH) sword that he used in Jihad?",
                         "options": [
                             "Dhulfiqar",
                             "Al-Qula",
@@ -12431,7 +14139,7 @@
                         "explanation": "Jabal al-Noor (Mountain of Light) contains the Cave of Hira."
                     },
                     {
-                        "q": "Who was the first woman to be given the title of \u0027Mother of the Believers\u0027 (Umm-ul-Momineen)?",
+                        "q": "Who was the first woman to be given the title of 'Mother of the Believers' (Umm-ul-Momineen)?",
                         "options": [
                             "Hazrat Khadija (RA)",
                             "Hazrat Aisha (RA)",
@@ -12453,10 +14161,10 @@
                         "explanation": "He migrated at 53 and died at 63."
                     },
                     {
-                        "q": "Which event is known as the \u0027Year of the Elephant\u0027?",
+                        "q": "Which event is known as the 'Year of the Elephant'?",
                         "options": [
                             "Birth of the Prophet (PBUH)",
-                            "Abrahah\u0027s attack on Kaaba",
+                            "Abrahah's attack on Kaaba",
                             "Migration to Abyssinia",
                             "Conquest of Makkah"
                         ],
@@ -12466,16 +14174,16 @@
                     {
                         "q": "Who was the maternal uncle of the Prophet (PBUH)?",
                         "options": [
-                            "Sa\u0027d bin Abi Waqqas",
+                            "Sa'd bin Abi Waqqas",
                             "Abbas bin Abdul Muttalib",
                             "Abu Talib",
                             "Hamza bin Abdul Muttalib"
                         ],
                         "answer": 0,
-                        "explanation": "The Prophet (PBUH) referred to him as his maternal uncle because he was from his mother\u0027s tribe, Banu Zuhra."
+                        "explanation": "The Prophet (PBUH) referred to him as his maternal uncle because he was from his mother's tribe, Banu Zuhra."
                     },
                     {
-                        "q": "Who was the first person to call the Prophet (PBUH) by the name \u0027Muhammad\u0027?",
+                        "q": "Who was the first person to call the Prophet (PBUH) by the name 'Muhammad'?",
                         "options": [
                             "Abdul Muttalib",
                             "Hazrat Aminah",
@@ -12483,7 +14191,7 @@
                             "Hazrat Halimah"
                         ],
                         "answer": 0,
-                        "explanation": "His grandfather Abdul Muttalib gave him this name, meaning \u0027The Praised One\u0027."
+                        "explanation": "His grandfather Abdul Muttalib gave him this name, meaning 'The Praised One'."
                     },
                     {
                         "q": "What was the title of Hazrat Hamza (RA) after his martyrdom?",
@@ -12494,7 +14202,7 @@
                             "Al-Amin"
                         ],
                         "answer": 0,
-                        "explanation": "Sayyid-us-Shuhada means \u0027Leader of the Martyrs\u0027."
+                        "explanation": "Sayyid-us-Shuhada means 'Leader of the Martyrs'."
                     },
                     {
                         "q": "Which tribe was responsible for providing water to pilgrims (Siqaya) in Makkah?",
@@ -12505,10 +14213,10 @@
                             "Banu Taym"
                         ],
                         "answer": 0,
-                        "explanation": "Banu Hashim (the Prophet\u0027s clan) held the honorable duties of Siqaya."
+                        "explanation": "Banu Hashim (the Prophet's clan) held the honorable duties of Siqaya."
                     },
                     {
-                        "q": "What was the name of the Prophet\u0027s (PBUH) white mule?",
+                        "q": "What was the name of the Prophet's (PBUH) white mule?",
                         "options": [
                             "Duldul",
                             "Al-Sakb",
@@ -12560,7 +14268,7 @@
                             "Hazrat Ali (RA)"
                         ],
                         "answer": 0,
-                        "explanation": "She was the daughter of the Prophet\u0027s (PBUH) closest companion, Abu Bakr (RA)."
+                        "explanation": "She was the daughter of the Prophet's (PBUH) closest companion, Abu Bakr (RA)."
                     },
                     {
                         "q": "What was the name of the valley where the Battle of Badr took place?",
@@ -12593,7 +14301,7 @@
                             "Salman Farsi (RA)"
                         ],
                         "answer": 0,
-                        "explanation": "The Prophet\u0027s camel knelt at the house of Abu Ayyub Ansari (RA)."
+                        "explanation": "The Prophet's camel knelt at the house of Abu Ayyub Ansari (RA)."
                     },
                     {
                         "q": "What was the name of the treaty that established peace for 10 years?",
@@ -12637,7 +14345,7 @@
                             "Shaibah"
                         ],
                         "answer": 0,
-                        "explanation": "Suraqa\u0027s horse repeatedly sank into the sand, leading him to ask for forgiveness."
+                        "explanation": "Suraqa's horse repeatedly sank into the sand, leading him to ask for forgiveness."
                     },
                     {
                         "q": "What was the number of Muslims in the conquest of Makkah?",
@@ -12659,7 +14367,7 @@
                             "Utbah"
                         ],
                         "answer": 0,
-                        "explanation": "The Prophet (PBUH) announced that anyone entering Abu Sufyan\u0027s house would be safe."
+                        "explanation": "The Prophet (PBUH) announced that anyone entering Abu Sufyan's house would be safe."
                     },
                     {
                         "q": "Which idol was the largest in the Kaaba?",
@@ -12681,10 +14389,10 @@
                             "Ali"
                         ],
                         "answer": 0,
-                        "explanation": "His command was to stay at the pass regardless of the battle\u0027s outcome."
+                        "explanation": "His command was to stay at the pass regardless of the battle's outcome."
                     },
                     {
-                        "q": "What was the name of the Prophet\u0027s (PBUH) paternal aunt who was a poet and accepted Islam?",
+                        "q": "What was the name of the Prophet's (PBUH) paternal aunt who was a poet and accepted Islam?",
                         "options": [
                             "Safiyyah bint Abdul Muttalib",
                             "Arwa",
@@ -12700,7 +14408,7 @@
                             "Hazrat Ali (RA)",
                             "Hazrat Usman (RA)",
                             "Zaid bin Thabit",
-                            "Ubayy bin Ka\u0027b"
+                            "Ubayy bin Ka'b"
                         ],
                         "answer": 0,
                         "explanation": "Hazrat Ali (RA) wrote the text of the Treaty of Hudaibiya."
@@ -12783,11 +14491,11 @@
                         "explanation": "Banu Qurayza conspired with the confederates during the siege."
                     },
                     {
-                        "q": "What was the miracle of the \u0027Splitting of the Moon\u0027 called in Arabic?",
+                        "q": "What was the miracle of the 'Splitting of the Moon' called in Arabic?",
                         "options": [
                             "Inshiqaq al-Qamar",
                             "Isra",
-                            "Mi\u0027raj",
+                            "Mi'raj",
                             "Fath"
                         ],
                         "answer": 0,
@@ -12838,7 +14546,7 @@
                         "explanation": "A harsh wind and internal divisions among the tribes forced the invaders to leave."
                     },
                     {
-                        "q": "Who was the prophet\u0027s (PBUH) daughter who died while he was away at Badr?",
+                        "q": "Who was the prophet's (PBUH) daughter who died while he was away at Badr?",
                         "options": [
                             "Hazrat Ruqayyah (RA)",
                             "Hazrat Zainab (RA)",
@@ -12862,7 +14570,7 @@
                     {
                         "q": "What was the main reason for the Battle of Mutah?",
                         "options": [
-                            "The killing of the Prophet\u0027s envoy",
+                            "The killing of the Prophet's envoy",
                             "Trade dispute",
                             "Border raid",
                             "Retaliation for Badr"
@@ -12893,7 +14601,7 @@
                         "explanation": "It happened in Ramadan, 8 AH."
                     },
                     {
-                        "q": "What was the title of the Prophet\u0027s (PBUH) father-in-law, the father of Hazrat Hafsa (RA)?",
+                        "q": "What was the title of the Prophet's (PBUH) father-in-law, the father of Hazrat Hafsa (RA)?",
                         "options": [
                             "Farooq-e-Azam (Hazrat Umar)",
                             "Siddiq-e-Akbar (Hazrat Abu Bakr)",
@@ -12959,12 +14667,12 @@
                         "explanation": "The Battle of Hunayn occurred in 8 AH."
                     },
                     {
-                        "q": "Which Prophet\u0027s (PBUH) son-in-law was Abu al-As ibn al-Rabi?",
+                        "q": "Which Prophet's (PBUH) son-in-law was Abu al-As ibn al-Rabi?",
                         "options": [
-                            "Zainab\u0027s husband",
-                            "Ruqayyah\u0027s husband",
-                            "Fatimah\u0027s husband",
-                            "Umm Kulthum\u0027s husband"
+                            "Zainab's husband",
+                            "Ruqayyah's husband",
+                            "Fatimah's husband",
+                            "Umm Kulthum's husband"
                         ],
                         "answer": 0,
                         "explanation": "He was married to Hazrat Zainab (RA) and accepted Islam later."
@@ -13003,7 +14711,7 @@
                         "explanation": "The Tabuk expedition was against the Byzantine Empire in 9 AH."
                     },
                     {
-                        "q": "Who was the mother of the Prophet\u0027s (PBUH) son Ibrahim?",
+                        "q": "Who was the mother of the Prophet's (PBUH) son Ibrahim?",
                         "options": [
                             "Hazrat Maria Qibtiya",
                             "Hazrat Khadija",
@@ -13069,7 +14777,7 @@
                         "explanation": "Musab bin Umair (RA) was sent by the Prophet (PBUH) after the first pledge of Aqaba."
                     },
                     {
-                        "q": "What was the \u0027Pledge of the Tree\u0027 (Bay\u0027at-ur-Ridwan) for?",
+                        "q": "What was the 'Pledge of the Tree' (Bay'at-ur-Ridwan) for?",
                         "options": [
                             "To fight for the blood of Usman (RA)",
                             "To conquer Makkah",
@@ -13091,7 +14799,7 @@
                         "explanation": "Two young brothers mortally wounded him."
                     },
                     {
-                        "q": "What was the name of the Prophet\u0027s (PBUH) nurse who stayed with him until adulthood?",
+                        "q": "What was the name of the Prophet's (PBUH) nurse who stayed with him until adulthood?",
                         "options": [
                             "Halimah",
                             "Umm Ayman",
@@ -13113,7 +14821,7 @@
                         "explanation": "He passed away in 11 AH, corresponding to 632 AD."
                     },
                     {
-                        "q": "What was the color of the Prophet\u0027s (PBUH) flag on the day of the Conquest of Makkah?",
+                        "q": "What was the color of the Prophet's (PBUH) flag on the day of the Conquest of Makkah?",
                         "options": [
                             "Green",
                             "Black",
@@ -13157,7 +14865,7 @@
                         "explanation": "Hazrat Aminah died at Abwa when he was 6 years old."
                     },
                     {
-                        "q": "Which battle is referred to as \u0027Yawm al-Furqan\u0027 (The Day of Criterion) in the Quran?",
+                        "q": "Which battle is referred to as 'Yawm al-Furqan' (The Day of Criterion) in the Quran?",
                         "options": [
                             "Battle of Badr",
                             "Battle of Uhud",
@@ -13190,7 +14898,7 @@
                         "explanation": "The Pledges of Aqaba took place near Mina."
                     },
                     {
-                        "q": "Who was the Prophet\u0027s (PBUH) companion in the Cave of Thawr?",
+                        "q": "Who was the Prophet's (PBUH) companion in the Cave of Thawr?",
                         "options": [
                             "Hazrat Ali",
                             "Hazrat Abu Bakr",
@@ -13198,10 +14906,10 @@
                             "Hazrat Usman"
                         ],
                         "answer": 1,
-                        "explanation": "Hazrat Abu Bakr (RA) is the \u0027second of the two\u0027 mentioned in the Quran."
+                        "explanation": "Hazrat Abu Bakr (RA) is the 'second of the two' mentioned in the Quran."
                     },
                     {
-                        "q": "What was the name of the Prophet\u0027s (PBUH) horse?",
+                        "q": "What was the name of the Prophet's (PBUH) horse?",
                         "options": [
                             "Al-Sakb",
                             "Duldul",
@@ -13223,7 +14931,7 @@
                         "explanation": "The Quran mentions 1000, then 3000, and finally 5000 angels."
                     },
                     {
-                        "q": "What was the Prophet\u0027s (PBUH) age when he went to Basra for trade as an adult?",
+                        "q": "What was the Prophet's (PBUH) age when he went to Basra for trade as an adult?",
                         "options": [
                             "20",
                             "25",
@@ -13256,7 +14964,7 @@
                         "explanation": "He had three sons: Qasim, Abdullah, and Ibrahim. All died in infancy."
                     },
                     {
-                        "q": "Which of the Prophet\u0027s daughters was married to Hazrat Uthman (RA) first?",
+                        "q": "Which of the Prophet's daughters was married to Hazrat Uthman (RA) first?",
                         "options": [
                             "Zainab",
                             "Ruqayyah",
@@ -13278,7 +14986,7 @@
                         "explanation": "He passed away at the age of 63 in Madinah."
                     },
                     {
-                        "q": "What was the name of the Prophet\u0027s grandfather?",
+                        "q": "What was the name of the Prophet's grandfather?",
                         "options": [
                             "Abu Talib",
                             "Abdul Muttalib",
@@ -13286,7 +14994,7 @@
                             "Abd Manaf"
                         ],
                         "answer": 1,
-                        "explanation": "His grandfather, Abdul Muttalib, took care of him after his mother\u0027s death."
+                        "explanation": "His grandfather, Abdul Muttalib, took care of him after his mother's death."
                     },
                     {
                         "q": "Who took care of the Prophet (PBUH) after his grandfather died?",
@@ -13300,7 +15008,7 @@
                         "explanation": "His uncle Abu Talib lovingly raised him from age eight."
                     },
                     {
-                        "q": "In which battle were the Prophet\u0027s teeth martyred?",
+                        "q": "In which battle were the Prophet's teeth martyred?",
                         "options": [
                             "Badr",
                             "Uhud",
@@ -13399,7 +15107,7 @@
                         "explanation": "Bahira the monk saw the cloud shading him and the mark of Prophethood between his shoulders."
                     },
                     {
-                        "q": "What was the name of the Prophet\u0027s nurse (foster mother)?",
+                        "q": "What was the name of the Prophet's nurse (foster mother)?",
                         "options": [
                             "Umm Ayman",
                             "Halimah Sadia",
@@ -13440,13 +15148,13 @@
                             "Nephew"
                         ],
                         "answer": 0,
-                        "explanation": "Hazrat Hamza was his father\u0027s brother and his foster brother as well."
+                        "explanation": "Hazrat Hamza was his father's brother and his foster brother as well."
                     },
                     {
                         "q": "The incident of Shaq-e-Sadr (Splitting of the Chest) first occurred when the Prophet (PBUH) was?",
                         "options": [
                             "Living with Halimah",
-                            "During Isra and Mi\u0027raj",
+                            "During Isra and Mi'raj",
                             "Before the first revelation",
                             "During the Hijrah"
                         ],
@@ -13454,7 +15162,7 @@
                         "explanation": "It first happened when he was a young boy playing in the desert."
                     },
                     {
-                        "q": "Which wife of the Prophet (PBUH) is known as the \u0027Mother of the Poor\u0027 (Umm al-Masakin)?",
+                        "q": "Which wife of the Prophet (PBUH) is known as the 'Mother of the Poor' (Umm al-Masakin)?",
                         "options": [
                             "Hazrat Aisha",
                             "Hazrat Zainab bint Khuzayma",
@@ -13487,7 +15195,7 @@
                         "explanation": "Cave of Hira is where he received the first revelation."
                     },
                     {
-                        "q": "Who slept in the Prophet\u0027s bed on the night of Hijrah to deceive the Quraish?",
+                        "q": "Who slept in the Prophet's bed on the night of Hijrah to deceive the Quraish?",
                         "options": [
                             "Hazrat Abu Bakr",
                             "Hazrat Umar",
@@ -13531,7 +15239,7 @@
                         "explanation": "Abu Lahab and his wife were staunch enemies of Islam."
                     },
                     {
-                        "q": "What was the name of the Prophet\u0027s mother?",
+                        "q": "What was the name of the Prophet's mother?",
                         "options": [
                             "Aminah",
                             "Halimah",
@@ -13556,7 +15264,7 @@
                         "q": "The year of sadness (Aam al-Huzn) marked the death of which two beloved figures?",
                         "options": [
                             "Abu Talib and Khadija",
-                            "Hamza and Mut\u0027im",
+                            "Hamza and Mut'im",
                             "Abdul Muttalib and Aminah",
                             "Ruqayyah and Zainab"
                         ],
@@ -13594,7 +15302,7 @@
                             "Uncle"
                         ],
                         "answer": 1,
-                        "explanation": "He was the son of Safiyyah, the Prophet\u0027s paternal aunt."
+                        "explanation": "He was the son of Safiyyah, the Prophet's paternal aunt."
                     },
                     {
                         "q": "Which Jewish tribe was expelled from Madinah first for breaking their treaty?",
@@ -13630,7 +15338,7 @@
                         "explanation": "He tended sheep before becoming a successful merchant."
                     },
                     {
-                        "q": "Who was the Prophet\u0027s companion during the journey to Ta\u0027if?",
+                        "q": "Who was the Prophet's companion during the journey to Ta'if?",
                         "options": [
                             "Hazrat Ali",
                             "Hazrat Zaid bin Harithah",
@@ -13638,7 +15346,7 @@
                             "Hazrat Bilal"
                         ],
                         "answer": 1,
-                        "explanation": "Zaid (RA) tried to shield the Prophet (PBUH) from the stones thrown by the people of Ta\u0027if."
+                        "explanation": "Zaid (RA) tried to shield the Prophet (PBUH) from the stones thrown by the people of Ta'if."
                     },
                     {
                         "q": "At what age did the Prophet (PBUH) receive the first revelation?",
@@ -13674,7 +15382,7 @@
                         "explanation": "He left Makkah in Safar and arrived in Quba/Madinah in Rabi al-Awwal."
                     },
                     {
-                        "q": "Who verified the Prophet\u0027s experience of the first revelation?",
+                        "q": "Who verified the Prophet's experience of the first revelation?",
                         "options": [
                             "Abu Talib",
                             "Waraqah bin Nawfal",
@@ -13682,14 +15390,14 @@
                             "Umar"
                         ],
                         "answer": 1,
-                        "explanation": "Waraqah, Khadija\u0027s cousin, was a Christian scholar who confirmed he was the awaited Prophet."
+                        "explanation": "Waraqah, Khadija's cousin, was a Christian scholar who confirmed he was the awaited Prophet."
                     },
                     {
                         "q": "During the Night Journey (Isra), where did the Prophet (PBUH) travel from Makkah before ascending to the heavens?",
                         "options": [
                             "Madinah",
                             "Jerusalem (Al-Aqsa)",
-                            "Ta\u0027if",
+                            "Ta'if",
                             "Egypt"
                         ],
                         "answer": 1,
@@ -13700,14 +15408,14 @@
                         "options": [
                             "Al-Faruq",
                             "Al-Siddiq",
-                            "Al-Amin \u0026 As-Sadiq",
+                            "Al-Amin & As-Sadiq",
                             "Asadullah"
                         ],
                         "answer": 2,
                         "explanation": "They called him the Truthful and the Trustworthy."
                     },
                     {
-                        "q": "Which companion was referred to as the \u0027Sword of Allah\u0027 by the Prophet (PBUH)?",
+                        "q": "Which companion was referred to as the 'Sword of Allah' by the Prophet (PBUH)?",
                         "options": [
                             "Hazrat Hamza",
                             "Hazrat Ali",
@@ -13715,7 +15423,7 @@
                             "Hazrat Zubair"
                         ],
                         "answer": 2,
-                        "explanation": "He earned the title Saifullah after the Battle of Mu\u0027tah."
+                        "explanation": "He earned the title Saifullah after the Battle of Mu'tah."
                     },
                     {
                         "q": "Who delivered the famous speech defending Islam before King Negus of Abyssinia?",
@@ -13729,7 +15437,7 @@
                         "explanation": "Hazrat Jafar (RA) fluently explained Islamic beliefs and recited Surah Maryam."
                     },
                     {
-                        "q": "The Prophet (PBUH) said: \u0027Paradise lies under the feet of ______\u0027.",
+                        "q": "The Prophet (PBUH) said: 'Paradise lies under the feet of ______'.",
                         "options": [
                             "Mothers",
                             "Scholars",
@@ -13740,7 +15448,7 @@
                         "explanation": "A famous authentic Hadith highlighting the status of mothers."
                     },
                     {
-                        "q": "What is the name of the seal between the Prophet\u0027s shoulders?",
+                        "q": "What is the name of the seal between the Prophet's shoulders?",
                         "options": [
                             "Khatm-e-Nubuwwat",
                             "Hajar-e-Aswad",
@@ -13755,14 +15463,14 @@
                         "options": [
                             "Tabuk",
                             "Hunain",
-                            "Mu\u0027tah",
+                            "Mu'tah",
                             "Khaibar"
                         ],
                         "answer": 1,
                         "explanation": "The Battle of Hunain took place against the tribes of Hawazin and Thaqif."
                     },
                     {
-                        "q": "Who washed the Prophet\u0027s (PBUH) body after his demise?",
+                        "q": "Who washed the Prophet's (PBUH) body after his demise?",
                         "options": [
                             "Hazrat Abu Bakr",
                             "Hazrat Umar",
@@ -13784,7 +15492,7 @@
                         "explanation": "They stayed there for three nights to evade the Quraish pursuers."
                     },
                     {
-                        "q": "Which Surah mentions the incident of the Elephant (Abraha\u0027s attack)?",
+                        "q": "Which Surah mentions the incident of the Elephant (Abraha's attack)?",
                         "options": [
                             "Al-Fil",
                             "Al-Quraish",
@@ -13795,7 +15503,7 @@
                         "explanation": "Surah Al-Fil describes the destruction of the army of elephants in the year the Prophet was born."
                     },
                     {
-                        "q": "What was the name of the Prophet\u0027s father?",
+                        "q": "What was the name of the Prophet's father?",
                         "options": [
                             "Abdul Muttalib",
                             "Abdullah",
@@ -13810,123 +15518,224 @@
             {
                 "category": "Companions of the Prophet",
                 "icon": "fa-users-line",
-                "questions": [                    {
+                "questions": [
+                    {
                         "q": "Who was the first male to embrace Islam?",
-                        "options": ["Hazrat Umar (RA)", "Hazrat Abu Bakr (RA)", "Hazrat Ali (RA)", "Hazrat Usman (RA)"],
+                        "options": [
+                            "Hazrat Umar (RA)",
+                            "Hazrat Abu Bakr (RA)",
+                            "Hazrat Ali (RA)",
+                            "Hazrat Usman (RA)"
+                        ],
                         "answer": 1,
                         "explanation": "Hazrat Abu Bakr (RA) was the first adult male to accept Islam."
                     },
                     {
                         "q": "Which Companion was known as 'Asadullah' (The Lion of Allah)?",
-                        "options": ["Hazrat Khalid bin Walid", "Hazrat Hamza bin Abdul Muttalib", "Hazrat Ali ibn Abi Talib", "Hazrat Umar Farooq"],
+                        "options": [
+                            "Hazrat Khalid bin Walid",
+                            "Hazrat Hamza bin Abdul Muttalib",
+                            "Hazrat Ali ibn Abi Talib",
+                            "Hazrat Umar Farooq"
+                        ],
                         "answer": 2,
                         "explanation": "Hazrat Ali (RA) was given the title Asadullah for his bravery."
                     },
                     {
                         "q": "Who was the first Muezzin of Islam?",
-                        "options": ["Hazrat Bilal Habashi (RA)", "Hazrat Zaid bin Thabit", "Hazrat Ammar bin Yasir", "Hazrat Abu Huraira"],
+                        "options": [
+                            "Hazrat Bilal Habashi (RA)",
+                            "Hazrat Zaid bin Thabit",
+                            "Hazrat Ammar bin Yasir",
+                            "Hazrat Abu Huraira"
+                        ],
                         "answer": 0,
                         "explanation": "Hazrat Bilal (RA) was the first person to call the Adhan."
                     },
                     {
                         "q": "Which Companion is known as 'Saifullah' (The Sword of Allah)?",
-                        "options": ["Hazrat Ali (RA)", "Hazrat Khalid bin Walid (RA)", "Hazrat Saad bin Abi Waqas", "Hazrat Hamza (RA)"],
+                        "options": [
+                            "Hazrat Ali (RA)",
+                            "Hazrat Khalid bin Walid (RA)",
+                            "Hazrat Saad bin Abi Waqas",
+                            "Hazrat Hamza (RA)"
+                        ],
                         "answer": 1,
                         "explanation": "Prophet Muhammad (PBUH) titled Hazrat Khalid bin Walid as Saifullah."
                     },
                     {
                         "q": "Who was the youngest of the Ashra Mubashara?",
-                        "options": ["Hazrat Ali (RA)", "Hazrat Saad bin Abi Waqas (RA)", "Hazrat Saeed bin Zaid", "Hazrat Talha bin Ubaidullah"],
+                        "options": [
+                            "Hazrat Ali (RA)",
+                            "Hazrat Saad bin Abi Waqas (RA)",
+                            "Hazrat Saeed bin Zaid",
+                            "Hazrat Talha bin Ubaidullah"
+                        ],
                         "answer": 1,
                         "explanation": "Hazrat Saad bin Abi Waqas was among the youngest promised paradise."
                     },
                     {
                         "q": "Which companion is known as 'Dhu al-Nurayn'?",
-                        "options": ["Hazrat Umar (RA)", "Hazrat Ali (RA)", "Hazrat Usman (RA)", "Hazrat Abu Bakr (RA)"],
+                        "options": [
+                            "Hazrat Umar (RA)",
+                            "Hazrat Ali (RA)",
+                            "Hazrat Usman (RA)",
+                            "Hazrat Abu Bakr (RA)"
+                        ],
                         "answer": 2,
                         "explanation": "Hazrat Usman (RA) was called Dhu al-Nurayn (Possessor of Two Lights) because he married two daughters of the Prophet (PBUH)."
                     },
                     {
                         "q": "Who was the first martyr of Islam?",
-                        "options": ["Hazrat Hamza (RA)", "Hazrat Sumayyah (RA)", "Hazrat Yasir (RA)", "Hazrat Ammar (RA)"],
+                        "options": [
+                            "Hazrat Hamza (RA)",
+                            "Hazrat Sumayyah (RA)",
+                            "Hazrat Yasir (RA)",
+                            "Hazrat Ammar (RA)"
+                        ],
                         "answer": 1,
                         "explanation": "Hazrat Sumayyah bint Khayyat was the first martyr (Shaheed) in Islam."
                     },
                     {
                         "q": "Which companion narrated the most Hadiths?",
-                        "options": ["Hazrat Aisha (RA)", "Hazrat Anas bin Malik (RA)", "Hazrat Abu Huraira (RA)", "Hazrat Abdullah bin Umar (RA)"],
+                        "options": [
+                            "Hazrat Aisha (RA)",
+                            "Hazrat Anas bin Malik (RA)",
+                            "Hazrat Abu Huraira (RA)",
+                            "Hazrat Abdullah bin Umar (RA)"
+                        ],
                         "answer": 2,
                         "explanation": "Hazrat Abu Huraira (RA) narrated approximately 5,374 Hadiths."
                     },
                     {
                         "q": "Who was the first ambassador of Islam?",
-                        "options": ["Hazrat Musab bin Umair (RA)", "Hazrat Jafar bin Abi Talib", "Hazrat Khalid bin Walid", "Hazrat Zaid bin Harithah"],
+                        "options": [
+                            "Hazrat Musab bin Umair (RA)",
+                            "Hazrat Jafar bin Abi Talib",
+                            "Hazrat Khalid bin Walid",
+                            "Hazrat Zaid bin Harithah"
+                        ],
                         "answer": 0,
                         "explanation": "Hazrat Musab bin Umair was sent to Madinah to teach Islam before the Hijrah."
                     },
                     {
                         "q": "Which companion was known as the 'Secretary of the Prophet'?",
-                        "options": ["Hazrat Abdullah bin Masud", "Hazrat Zaid bin Thabit (RA)", "Hazrat Bilal (RA)", "Hazrat Salman Farsi (RA)"],
+                        "options": [
+                            "Hazrat Abdullah bin Masud",
+                            "Hazrat Zaid bin Thabit (RA)",
+                            "Hazrat Bilal (RA)",
+                            "Hazrat Salman Farsi (RA)"
+                        ],
                         "answer": 1,
                         "explanation": "Hazrat Zaid bin Thabit was the primary scribe for the Quranic revelations."
                     },
                     {
                         "q": "Who was 'The Interpreter of the Quran' (Tarjuman al-Quran)?",
-                        "options": ["Hazrat Ibn Masud", "Hazrat Ibn Abbas (RA)", "Hazrat Ali (RA)", "Hazrat Abu Bakr (RA)"],
+                        "options": [
+                            "Hazrat Ibn Masud",
+                            "Hazrat Ibn Abbas (RA)",
+                            "Hazrat Ali (RA)",
+                            "Hazrat Abu Bakr (RA)"
+                        ],
                         "answer": 1,
                         "explanation": "Hazrat Abdullah ibn Abbas (RA) was renowned for his deep knowledge of Quranic interpretation."
                     },
                     {
                         "q": "Which companion was from Persia?",
-                        "options": ["Hazrat Bilal (RA)", "Hazrat Suhayb Roomi", "Hazrat Salman Farsi (RA)", "Hazrat Ammar (RA)"],
+                        "options": [
+                            "Hazrat Bilal (RA)",
+                            "Hazrat Suhayb Roomi",
+                            "Hazrat Salman Farsi (RA)",
+                            "Hazrat Ammar (RA)"
+                        ],
                         "answer": 2,
                         "explanation": "Hazrat Salman Farsi was an influential Persian companion."
                     },
                     {
                         "q": "Who led the Muslim army in the Battle of Qadisiyyah?",
-                        "options": ["Hazrat Khalid bin Walid", "Hazrat Saad bin Abi Waqas (RA)", "Hazrat Abu Ubaidah", "Hazrat Amr ibn al-Aas"],
+                        "options": [
+                            "Hazrat Khalid bin Walid",
+                            "Hazrat Saad bin Abi Waqas (RA)",
+                            "Hazrat Abu Ubaidah",
+                            "Hazrat Amr ibn al-Aas"
+                        ],
                         "answer": 1,
                         "explanation": "Hazrat Saad bin Abi Waqas (RA) was the commander at the decisive Battle of Qadisiyyah."
                     },
                     {
                         "q": "Who conquered Egypt during the reign of Hazrat Umar (RA)?",
-                        "options": ["Hazrat Khalid bin Walid", "Hazrat Amr ibn al-Aas (RA)", "Hazrat Saad bin Abi Waqas", "Hazrat Muawiyah"],
+                        "options": [
+                            "Hazrat Khalid bin Walid",
+                            "Hazrat Amr ibn al-Aas (RA)",
+                            "Hazrat Saad bin Abi Waqas",
+                            "Hazrat Muawiyah"
+                        ],
                         "answer": 1,
                         "explanation": "Hazrat Amr ibn al-Aas led the conquest of Egypt."
                     },
                     {
                         "q": "Which companion was known as 'Ghareel-e-Islam' (The Migrant of Islam)?",
-                        "options": ["Hazrat Musab bin Umair", "Hazrat Zaid bin Harithah", "Hazrat Jafar bin Abi Talib", "Hazrat Abu Bakr"],
+                        "options": [
+                            "Hazrat Musab bin Umair",
+                            "Hazrat Zaid bin Harithah",
+                            "Hazrat Jafar bin Abi Talib",
+                            "Hazrat Abu Bakr"
+                        ],
                         "answer": 2,
                         "explanation": "Hazrat Jafar bin Abi Talib led the first migration to Abyssinia."
                     },
                     {
                         "q": "Who was the 'Trusted One of this Ummah' (Aman-ul-Ummah)?",
-                        "options": ["Hazrat Abu Bakr", "Hazrat Abu Ubaidah bin al-Jarrah (RA)", "Hazrat Umar", "Hazrat Ali"],
+                        "options": [
+                            "Hazrat Abu Bakr",
+                            "Hazrat Abu Ubaidah bin al-Jarrah (RA)",
+                            "Hazrat Umar",
+                            "Hazrat Ali"
+                        ],
                         "answer": 1,
                         "explanation": "Prophet Muhammad (PBUH) called Hazrat Abu Ubaidah the Trustee of the Ummah."
                     },
                     {
                         "q": "Which companion suggested digging a trench in the Battle of Ahzab?",
-                        "options": ["Hazrat Khalid bin Walid", "Hazrat Salman Farsi (RA)", "Hazrat Ammar bin Yasir", "Hazrat Zaid bin Thabit"],
+                        "options": [
+                            "Hazrat Khalid bin Walid",
+                            "Hazrat Salman Farsi (RA)",
+                            "Hazrat Ammar bin Yasir",
+                            "Hazrat Zaid bin Thabit"
+                        ],
                         "answer": 1,
                         "explanation": "Hazrat Salman Farsi suggested the strategy based on Persian warfare tactics."
                     },
                     {
                         "q": "Who was 'The Gate of Knowledge'?",
-                        "options": ["Hazrat Abu Bakr", "Hazrat Umar", "Hazrat Usman", "Hazrat Ali (RA)"],
+                        "options": [
+                            "Hazrat Abu Bakr",
+                            "Hazrat Umar",
+                            "Hazrat Usman",
+                            "Hazrat Ali (RA)"
+                        ],
                         "answer": 3,
                         "explanation": "The Prophet (PBUH) said 'I am the city of knowledge and Ali is its gate.'"
                     },
                     {
                         "q": "Who was the standard-bearer for the Muslims at the Battle of Badr?",
-                        "options": ["Hazrat Khalid bin Walid", "Hazrat Musab bin Umair (RA)", "Hazrat Ali (RA)", "Hazrat Hamza (RA)"],
+                        "options": [
+                            "Hazrat Khalid bin Walid",
+                            "Hazrat Musab bin Umair (RA)",
+                            "Hazrat Ali (RA)",
+                            "Hazrat Hamza (RA)"
+                        ],
                         "answer": 1,
                         "explanation": "Hazrat Musab bin Umair carried the Islamic flag at Badr."
                     },
                     {
                         "q": "Who was the companion known as 'Siddiq'?",
-                        "options": ["Hazrat Umar", "Hazrat Usman", "Hazrat Abu Bakr (RA)", "Hazrat Ali"],
+                        "options": [
+                            "Hazrat Umar",
+                            "Hazrat Usman",
+                            "Hazrat Abu Bakr (RA)",
+                            "Hazrat Ali"
+                        ],
                         "answer": 2,
                         "explanation": "Hazrat Abu Bakr was given the title 'Al-Siddiq' (The Truthful) for his unwavering faith."
                     }
@@ -13935,70 +15744,119 @@
             {
                 "category": "Famous Imams",
                 "icon": "fa-user-graduate",
-                "questions": [
-
-                ]
+                "questions": []
             },
             {
                 "category": "Paradise",
                 "icon": "fa-cloud",
-                "questions": [                    {
+                "questions": [
+                    {
                         "q": "How many gates are there in Paradise (Jannah)?",
-                        "options": ["4", "7", "8", "12"],
+                        "options": [
+                            "4",
+                            "7",
+                            "8",
+                            "12"
+                        ],
                         "answer": 2,
                         "explanation": "Jannah has 8 gates, including Baab-ar-Rayyan for those who fast."
                     },
                     {
                         "q": "Which gate of Jannah is reserved for those who fast (Siyam)?",
-                        "options": ["Baab-al-Jihad", "Baab-ar-Rayyan", "Baab-as-Salat", "Baab-as-Sadaqah"],
+                        "options": [
+                            "Baab-al-Jihad",
+                            "Baab-ar-Rayyan",
+                            "Baab-as-Salat",
+                            "Baab-as-Sadaqah"
+                        ],
                         "answer": 1,
                         "explanation": "Rayyan is the special gate for fasting people."
                     },
                     {
                         "q": "What is the highest level of Paradise?",
-                        "options": ["Jannat-ul-Ma'wa", "Jannat-ul-Adn", "Jannat-ul-Firdous", "Jannat-ul-Khuld"],
+                        "options": [
+                            "Jannat-ul-Ma'wa",
+                            "Jannat-ul-Adn",
+                            "Jannat-ul-Firdous",
+                            "Jannat-ul-Khuld"
+                        ],
                         "answer": 2,
                         "explanation": "Jannat-ul-Firdous is described as the highest and central part of Paradise."
                     },
                     {
                         "q": "Which prophet's face will the people of Jannah resemble in beauty?",
-                        "options": ["Prophet Ibrahim (AS)", "Prophet Muhammad (PBUH)", "Prophet Yusuf (AS)", "Prophet Isa (AS)"],
+                        "options": [
+                            "Prophet Ibrahim (AS)",
+                            "Prophet Muhammad (PBUH)",
+                            "Prophet Yusuf (AS)",
+                            "Prophet Isa (AS)"
+                        ],
                         "answer": 2,
                         "explanation": "People in Jannah will have the height of Adam and the beauty of Yusuf (AS)."
                     },
                     {
                         "q": "What will be the age of the people in Paradise?",
-                        "options": ["Various ages", "33 years old", "20 years old", "Infinitely youthful"],
+                        "options": [
+                            "Various ages",
+                            "33 years old",
+                            "20 years old",
+                            "Infinitely youthful"
+                        ],
                         "answer": 1,
                         "explanation": "It is mentioned that dwellers of Paradise will be 33 years old, the age of peak youth."
                     },
                     {
                         "q": "Which surah contains description of Paradise in almost every verse toward the end?",
-                        "options": ["Surah Al-Waqiah", "Surah Ar-Rahman", "Surah Al-Mulk", "Surah Ad-Dhuha"],
+                        "options": [
+                            "Surah Al-Waqiah",
+                            "Surah Ar-Rahman",
+                            "Surah Al-Mulk",
+                            "Surah Ad-Dhuha"
+                        ],
                         "answer": 1,
                         "explanation": "Surah Ar-Rahman details the gardens and blessings of Jannah extensively."
                     },
                     {
                         "q": "What is 'Kawthar' in Paradise?",
-                        "options": ["A tree", "A mountain", "A river/fountain", "A palace"],
+                        "options": [
+                            "A tree",
+                            "A mountain",
+                            "A river/fountain",
+                            "A palace"
+                        ],
                         "answer": 2,
                         "explanation": "Al-Kawthar is an abundant river/fountain granted to the Prophet (PBUH)."
                     },
                     {
                         "q": "What is the tree in Paradise so large that a rider cannot cross its shade in 100 years?",
-                        "options": ["Sidrat-ul-Muntaha", "Tuba", "Salsabil", "Zaqqum"],
+                        "options": [
+                            "Sidrat-ul-Muntaha",
+                            "Tuba",
+                            "Salsabil",
+                            "Zaqqum"
+                        ],
                         "answer": 1,
                         "explanation": "Tuba is described as a massive blessed tree in Jannah."
                     },
                     {
                         "q": "What will be the first food offered to the people of Paradise?",
-                        "options": ["Dates", "Honey", "Caudal lobe of fish liver", "Milk"],
+                        "options": [
+                            "Dates",
+                            "Honey",
+                            "Caudal lobe of fish liver",
+                            "Milk"
+                        ],
                         "answer": 2,
                         "explanation": "According to Sahih Hadith, the first meal is the liver of a whale/fish."
                     },
                     {
                         "q": "How many levels of Jannah are there?",
-                        "options": ["7", "100", "Infinitely many", "Only 1"],
+                        "options": [
+                            "7",
+                            "100",
+                            "Infinitely many",
+                            "Only 1"
+                        ],
                         "answer": 1,
                         "explanation": "A Hadith states there are 100 levels in Jannah prepared for those who strive in Allah's path."
                     }
@@ -14007,63 +15865,114 @@
             {
                 "category": "Angel",
                 "icon": "fa-angles-right",
-                "questions": [                    {
+                "questions": [
+                    {
                         "q": "Which Angel is responsible for bringing revelations (Wahi) to the Prophets?",
-                        "options": ["Hazrat Mikail (AS)", "Hazrat Jibreel (AS)", "Hazrat Israfeel (AS)", "Hazrat Azrael (AS)"],
+                        "options": [
+                            "Hazrat Mikail (AS)",
+                            "Hazrat Jibreel (AS)",
+                            "Hazrat Israfeel (AS)",
+                            "Hazrat Azrael (AS)"
+                        ],
                         "answer": 1,
                         "explanation": "Hazrat Jibreel (AS) brought Allah's messages to the Prophets."
                     },
                     {
                         "q": "Which Angel will blow the trumpet on the Day of Judgment?",
-                        "options": ["Hazrat Israfeel (AS)", "Hazrat Mikail (AS)", "Hazrat Jibreel (AS)", "Hazrat Azrael (AS)"],
+                        "options": [
+                            "Hazrat Israfeel (AS)",
+                            "Hazrat Mikail (AS)",
+                            "Hazrat Jibreel (AS)",
+                            "Hazrat Azrael (AS)"
+                        ],
                         "answer": 0,
                         "explanation": "Hazrat Israfeel (AS) is assigned to blow the Soor (Trumpet)."
                     },
                     {
                         "q": "Which Angel is in charge of distribution of rain and nourishment?",
-                        "options": ["Hazrat Jibreel", "Hazrat Mikail (AS)", "Hazrat Israfeel", "Hazrat Malik"],
+                        "options": [
+                            "Hazrat Jibreel",
+                            "Hazrat Mikail (AS)",
+                            "Hazrat Israfeel",
+                            "Hazrat Malik"
+                        ],
                         "answer": 1,
                         "explanation": "Hazrat Mikail (AS) is responsible for the natural phenomena like rain and sustenance."
                     },
                     {
                         "q": "Who is the Angel of Death?",
-                        "options": ["Hazrat Israfeel", "Hazrat Mikail", "Hazrat Izraeel (AS)", "Hazrat Malik"],
+                        "options": [
+                            "Hazrat Israfeel",
+                            "Hazrat Mikail",
+                            "Hazrat Izraeel (AS)",
+                            "Hazrat Malik"
+                        ],
                         "answer": 2,
                         "explanation": "Hazrat Izraeel is the Angel tasked with taking life/souls."
                     },
                     {
                         "q": "Who are the Angels that record every person's deeds?",
-                        "options": ["Munkar & Nakir", "Harut & Marut", "Kiraman Katibin", "Ridwan & Malik"],
+                        "options": [
+                            "Munkar & Nakir",
+                            "Harut & Marut",
+                            "Kiraman Katibin",
+                            "Ridwan & Malik"
+                        ],
                         "answer": 2,
                         "explanation": "Kiraman Katibin (The Honorable Scribes) record good and bad deeds."
                     },
                     {
                         "q": "Which Angels question the soul in the grave?",
-                        "options": ["Kiraman Katibin", "Munkar & Nakir", "Ridwan & Malik", "Jibreel & Mikail"],
+                        "options": [
+                            "Kiraman Katibin",
+                            "Munkar & Nakir",
+                            "Ridwan & Malik",
+                            "Jibreel & Mikail"
+                        ],
                         "answer": 1,
                         "explanation": "Munkar and Nakir question the deceased about their faith in the grave."
                     },
                     {
                         "q": "Who is the gatekeeper of Paradise (Jannah)?",
-                        "options": ["Hazrat Malik", "Hazrat Ridwan (AS)", "Hazrat Jibreel", "Hazrat Israfeel"],
+                        "options": [
+                            "Hazrat Malik",
+                            "Hazrat Ridwan (AS)",
+                            "Hazrat Jibreel",
+                            "Hazrat Israfeel"
+                        ],
                         "answer": 1,
                         "explanation": "Ridwan is the guardian of Jannah."
                     },
                     {
                         "q": "Who is the guardian of Hell (Jahannam)?",
-                        "options": ["Hazrat Ridwan", "Hazrat Malik (AS)", "Hazrat Munkar", "Hazrat Nakir"],
+                        "options": [
+                            "Hazrat Ridwan",
+                            "Hazrat Malik (AS)",
+                            "Hazrat Munkar",
+                            "Hazrat Nakir"
+                        ],
                         "answer": 1,
                         "explanation": "Malik is the head of the angels guarding the Hellfire."
                     },
                     {
                         "q": "How many angels are mentioned by name in the Quran?",
-                        "options": ["4", "7", "10", "Only a few"],
+                        "options": [
+                            "4",
+                            "7",
+                            "10",
+                            "Only a few"
+                        ],
                         "answer": 3,
                         "explanation": "Several are mentioned, including Jibreel, Mikail, Harut, Marut, and Malik."
                     },
                     {
                         "q": "Which angel is called 'Ruh-ul-Qudus' (The Holy Spirit) in the Quran?",
-                        "options": ["Hazrat Mikail", "Hazrat Israfeel", "Hazrat Jibreel (AS)", "Hazrat Malik"],
+                        "options": [
+                            "Hazrat Mikail",
+                            "Hazrat Israfeel",
+                            "Hazrat Jibreel (AS)",
+                            "Hazrat Malik"
+                        ],
                         "answer": 2,
                         "explanation": "Ruh-ul-Qudus is a title for Hazrat Jibreel (AS) in the Quran."
                     }
@@ -14072,17 +15981,12 @@
             {
                 "category": "Kalma",
                 "icon": "fa-pen-nib",
-                "questions": [
-
-                ]
+                "questions": []
             },
-            ,
             {
                 "category": "Ethics for Non Muslims",
                 "icon": "fa-scale-balanced",
-                "questions": [
-
-                ]
+                "questions": []
             }
         ]
     },
@@ -14114,10 +16018,10 @@
                             "Lungs"
                         ],
                         "answer": 2,
-                        "explanation": "The skin is the body\u0027s largest organ, covering the entire external surface."
+                        "explanation": "The skin is the body's largest organ, covering the entire external surface."
                     },
                     {
-                        "q": "Which gas is most abundant in the Earth\u0027s atmosphere?",
+                        "q": "Which gas is most abundant in the Earth's atmosphere?",
                         "options": [
                             "Oxygen",
                             "Carbon Dioxide",
@@ -14125,7 +16029,7 @@
                             "Hydrogen"
                         ],
                         "answer": 2,
-                        "explanation": "Nitrogen makes up about 78% of the Earth\u0027s atmosphere."
+                        "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere."
                     },
                     {
                         "q": "What is the chemical name for common table salt?",
@@ -14169,7 +16073,7 @@
                             "Anemometer"
                         ],
                         "answer": 2,
-                        "explanation": "A seismograph records the shaking of the Earth\u0027s surface caused by seismic waves."
+                        "explanation": "A seismograph records the shaking of the Earth's surface caused by seismic waves."
                     },
                     {
                         "q": "What is the boiling point of water at sea level?",
@@ -14260,7 +16164,7 @@
                         "explanation": "The average normal body temperature is generally accepted as 37°C (98.6°F)."
                     },
                     {
-                        "q": "Which fossil fuel is known as \u0027Black Gold\u0027?",
+                        "q": "Which fossil fuel is known as 'Black Gold'?",
                         "options": [
                             "Coal",
                             "Natural Gas",
@@ -14301,7 +16205,7 @@
                             "I"
                         ],
                         "answer": 2,
-                        "explanation": "Fe comes from the Latin word for iron, \u0027Ferrum\u0027."
+                        "explanation": "Fe comes from the Latin word for iron, 'Ferrum'."
                     },
                     {
                         "q": "Which instrument is used to measure atmospheric pressure?",
@@ -14315,7 +16219,7 @@
                         "explanation": "A barometer measures the pressure exerted by the atmosphere."
                     },
                     {
-                        "q": "What is the percentage of water on Earth\u0027s surface?",
+                        "q": "What is the percentage of water on Earth's surface?",
                         "options": [
                             "50%",
                             "60%",
@@ -14323,7 +16227,7 @@
                             "85%"
                         ],
                         "answer": 2,
-                        "explanation": "Water covers approximately 71% of the Earth\u0027s surface."
+                        "explanation": "Water covers approximately 71% of the Earth's surface."
                     },
                     {
                         "q": "Which layer of the atmosphere contains the clouds?",
@@ -14405,13 +16309,13 @@
                     {
                         "q": "What causes the change of seasons on Earth?",
                         "options": [
-                            "Earth\u0027s rotation",
-                            "Earth\u0027s tilt and orbit",
+                            "Earth's rotation",
+                            "Earth's tilt and orbit",
                             "Distance from Sun",
-                            "Moon\u0027s phase"
+                            "Moon's phase"
                         ],
                         "answer": 1,
-                        "explanation": "The tilt of the Earth\u0027s axis as it revolves around the sun causes seasonal variations."
+                        "explanation": "The tilt of the Earth's axis as it revolves around the sun causes seasonal variations."
                     },
                     {
                         "q": "Which acid is found in the human stomach?",
@@ -14521,7 +16425,7 @@
                             "Fe"
                         ],
                         "answer": 2,
-                        "explanation": "Au is from the Latin name \u0027Aurum\u0027."
+                        "explanation": "Au is from the Latin name 'Aurum'."
                     },
                     {
                         "q": "Which gas is released during photosynthesis?",
@@ -14565,10 +16469,10 @@
                             "1/10"
                         ],
                         "answer": 2,
-                        "explanation": "The Moon\u0027s gravity is about 16.6% of Earth\u0027s."
+                        "explanation": "The Moon's gravity is about 16.6% of Earth's."
                     },
                     {
-                        "q": "Which planet is nicknamed the \u0027Blue Planet\u0027?",
+                        "q": "Which planet is nicknamed the 'Blue Planet'?",
                         "options": [
                             "Earth",
                             "Neptune",
@@ -14590,7 +16494,7 @@
                         "explanation": "The large intestine absorbs water and forms solid waste."
                     },
                     {
-                        "q": "Which gas is known as \u0027Laughing Gas\u0027?",
+                        "q": "Which gas is known as 'Laughing Gas'?",
                         "options": [
                             "Nitrogen",
                             "Nitrous Oxide",
@@ -14865,7 +16769,7 @@
                         "explanation": "CO2 creates the fizz in carbonated beverages."
                     },
                     {
-                        "q": "What is the study of the Earth\u0027s physical structure called?",
+                        "q": "What is the study of the Earth's physical structure called?",
                         "options": [
                             "Biology",
                             "Chemistry",
@@ -14917,7 +16821,7 @@
                             "Ni"
                         ],
                         "answer": 2,
-                        "explanation": "Na comes from the Latin word \u0027Natrium\u0027."
+                        "explanation": "Na comes from the Latin word 'Natrium'."
                     },
                     {
                         "q": "Which type of animal is a dolphin?",
@@ -14978,7 +16882,7 @@
                             "Golgi Apparatus"
                         ],
                         "answer": 2,
-                        "explanation": "Mitochondria generate most of the chemical energy needed to power the cell\u0027s biochemical reactions."
+                        "explanation": "Mitochondria generate most of the chemical energy needed to power the cell's biochemical reactions."
                     },
                     {
                         "q": "Which pigment gives leaves their green color?",
@@ -15278,7 +17182,7 @@
                         "explanation": "Most adult brains weigh between 1.3 and 1.5 kilograms."
                     },
                     {
-                        "q": "Which Vitamin is known as \u0027Calciferol\u0027?",
+                        "q": "Which Vitamin is known as 'Calciferol'?",
                         "options": [
                             "Vitamin A",
                             "Vitamin C",
@@ -15319,7 +17223,7 @@
                             "Vitamin D"
                         ],
                         "answer": 3,
-                        "explanation": "Vitamin D is known as the \u0027sunshine vitamin\u0027."
+                        "explanation": "Vitamin D is known as the 'sunshine vitamin'."
                     },
                     {
                         "q": "What is the main function of red blood cells?",
@@ -15333,7 +17237,7 @@
                         "explanation": "Hemoglobin in RBCs binds to oxygen for transport."
                     },
                     {
-                        "q": "Which hormone is known as the \u0027fight or flight\u0027 hormone?",
+                        "q": "Which hormone is known as the 'fight or flight' hormone?",
                         "options": [
                             "Insulin",
                             "Thyroxine",
@@ -15407,7 +17311,7 @@
                             "Respiration"
                         ],
                         "answer": 1,
-                        "explanation": "Metamorphosis describes the transformation in an insect\u0027s life cycle."
+                        "explanation": "Metamorphosis describes the transformation in an insect's life cycle."
                     },
                     {
                         "q": "Which gas is used by plants for respiration?",
@@ -15484,7 +17388,7 @@
                             "Vitamin D"
                         ],
                         "answer": 0,
-                        "explanation": "Vitamin A is essential for the retina\u0027s health."
+                        "explanation": "Vitamin A is essential for the retina's health."
                     },
                     {
                         "q": "What is the study of plants called?",
@@ -15751,7 +17655,7 @@
                         "explanation": "Capillaries allow for exchange between blood and cells."
                     },
                     {
-                        "q": "What is the prefix \u0027bio-\u0027 related to?",
+                        "q": "What is the prefix 'bio-' related to?",
                         "options": [
                             "Death",
                             "Earth",
@@ -15853,7 +17757,7 @@
                             "Fe"
                         ],
                         "answer": 2,
-                        "explanation": "Au (from Latin \u0027Aurum\u0027) is the chemical symbol for Gold."
+                        "explanation": "Au (from Latin 'Aurum') is the chemical symbol for Gold."
                     },
                     {
                         "q": "Which element has the atomic number 1?",
@@ -16062,7 +17966,7 @@
                             "Sl"
                         ],
                         "answer": 1,
-                        "explanation": "Ag comes from the Latin word \u0027Argentum\u0027."
+                        "explanation": "Ag comes from the Latin word 'Argentum'."
                     },
                     {
                         "q": "Which non-metal remains liquid at room temperature?",
@@ -16249,10 +18153,10 @@
                             "Fullerene"
                         ],
                         "answer": 2,
-                        "explanation": "Diamond\u0027s rigid crystal structure makes it the hardest known natural substance."
+                        "explanation": "Diamond's rigid crystal structure makes it the hardest known natural substance."
                     },
                     {
-                        "q": "Which gas is known as \u0027Dry Ice\u0027 in its solid state?",
+                        "q": "Which gas is known as 'Dry Ice' in its solid state?",
                         "options": [
                             "Nitrogen",
                             "Oxygen",
@@ -16304,7 +18208,7 @@
                             "Nitrogen"
                         ],
                         "answer": 1,
-                        "explanation": "Metal + Acid -\u003e Salt + Hydrogen gas."
+                        "explanation": "Metal + Acid -> Salt + Hydrogen gas."
                     },
                     {
                         "q": "What is the pH level of a strong base?",
@@ -16348,7 +18252,7 @@
                             "Zinc"
                         ],
                         "answer": 1,
-                        "explanation": "Pencil \u0027lead\u0027 is a mixture of graphite and clay."
+                        "explanation": "Pencil 'lead' is a mixture of graphite and clay."
                     },
                     {
                         "q": "What is the process of coating one metal with another using electricity?",
@@ -16469,7 +18373,7 @@
                             "Pt"
                         ],
                         "answer": 2,
-                        "explanation": "K comes from the Latin \u0027Kalium\u0027."
+                        "explanation": "K comes from the Latin 'Kalium'."
                     },
                     {
                         "q": "Which acid is used in car batteries?",
@@ -16513,7 +18417,7 @@
                             "Sl"
                         ],
                         "answer": 1,
-                        "explanation": "Ag is from \u0027Argentum\u0027."
+                        "explanation": "Ag is from 'Argentum'."
                     },
                     {
                         "q": "Which element is used to vulcanize rubber?",
@@ -16689,7 +18593,7 @@
                             "H3PO4"
                         ],
                         "answer": 2,
-                        "explanation": "It is often called the \u0027King of Chemicals\u0027."
+                        "explanation": "It is often called the 'King of Chemicals'."
                     },
                     {
                         "q": "Which gas is used in the treatment of cancer?",
@@ -16739,7 +18643,7 @@
                             "Nikola Tesla"
                         ],
                         "answer": 1,
-                        "explanation": "Sir Isaac Newton formulated the three laws of motion in his work \u0027Principia Mathematica\u0027."
+                        "explanation": "Sir Isaac Newton formulated the three laws of motion in his work 'Principia Mathematica'."
                     },
                     {
                         "q": "What is the unit of electric current?",
@@ -16769,7 +18673,7 @@
                             "Law of Inertia",
                             "Law of Gravity",
                             "Law of Conservation of Energy",
-                            "Ohm\u0027s Law"
+                            "Ohm's Law"
                         ],
                         "answer": 2,
                         "explanation": "Energy can only be transformed or transferred from one form to another."
@@ -16786,7 +18690,7 @@
                         "explanation": "The Sun provides the solar energy that drives most biological and climatic processes."
                     },
                     {
-                        "q": "Newton\u0027s First Law is also known as?",
+                        "q": "Newton's First Law is also known as?",
                         "options": [
                             "Law of Acceleration",
                             "Law of Action-Reaction",
@@ -16948,7 +18852,7 @@
                             "15.5 km/s"
                         ],
                         "answer": 2,
-                        "explanation": "The minimum speed required to escape Earth\u0027s gravity is 11.2 km/s."
+                        "explanation": "The minimum speed required to escape Earth's gravity is 11.2 km/s."
                     },
                     {
                         "q": "Which mirror is used as a rear-view mirror in vehicles?",
@@ -16973,7 +18877,7 @@
                         "explanation": "Density (?) = m / V."
                     },
                     {
-                        "q": "The value of \u0027g\u0027 (gravity) is maximum at?",
+                        "q": "The value of 'g' (gravity) is maximum at?",
                         "options": [
                             "Center of Earth",
                             "Equator",
@@ -16981,7 +18885,7 @@
                             "Mountain Top"
                         ],
                         "answer": 2,
-                        "explanation": "Gravity is slightly stronger at the poles due to the Earth\u0027s geoid shape."
+                        "explanation": "Gravity is slightly stronger at the poles due to the Earth's geoid shape."
                     },
                     {
                         "q": "Which electromagnetic wave has the highest frequency?",
@@ -16995,7 +18899,7 @@
                         "explanation": "Gamma rays carry the highest energy and frequency."
                     },
                     {
-                        "q": "Einstein\u0027s E=mc² relates energy with?",
+                        "q": "Einstein's E=mc² relates energy with?",
                         "options": [
                             "Speed",
                             "Color",
@@ -17085,13 +18989,13 @@
                     {
                         "q": "Which law explains the phenomenon of buoyancy?",
                         "options": [
-                            "Newton\u0027s Law",
-                            "Ohm\u0027s Law",
-                            "Archimedes\u0027 Principle",
-                            "Pascal\u0027s Law"
+                            "Newton's Law",
+                            "Ohm's Law",
+                            "Archimedes' Principle",
+                            "Pascal's Law"
                         ],
                         "answer": 2,
-                        "explanation": "Archimedes\u0027 principle states the buoyant force equals the weight of displaced fluid."
+                        "explanation": "Archimedes' principle states the buoyant force equals the weight of displaced fluid."
                     },
                     {
                         "q": "What is the speed of light in kilometers per second (approx)?",
@@ -17168,7 +19072,7 @@
                             "11.2 km/s"
                         ],
                         "answer": 1,
-                        "explanation": "The Moon\u0027s gravity is much weaker than Earth\u0027s."
+                        "explanation": "The Moon's gravity is much weaker than Earth's."
                     },
                     {
                         "q": "Which physical quantity remains constant in a uniform circular motion?",
@@ -17283,13 +19187,13 @@
                     {
                         "q": "Which law states that pressure applied to a fluid is transmitted equally in all directions?",
                         "options": [
-                            "Boyle\u0027s Law",
-                            "Pascal\u0027s Law",
-                            "Charles\u0027s Law",
-                            "Hooke\u0027s Law"
+                            "Boyle's Law",
+                            "Pascal's Law",
+                            "Charles's Law",
+                            "Hooke's Law"
                         ],
                         "answer": 1,
-                        "explanation": "Pascal\u0027s principle is the basis of hydraulic systems."
+                        "explanation": "Pascal's principle is the basis of hydraulic systems."
                     },
                     {
                         "q": "What is the heat required to change the state of a substance without temperature change?",
@@ -17399,7 +19303,7 @@
                             "Niels Bohr"
                         ],
                         "answer": 2,
-                        "explanation": "Einstein\u0027s E=mc2 is the world\u0027s most famous equation."
+                        "explanation": "Einstein's E=mc2 is the world's most famous equation."
                     },
                     {
                         "q": "What is the SI unit of temperature?",
@@ -17459,9 +19363,9 @@
                     {
                         "q": "Which law states that for every action, there is an equal and opposite reaction?",
                         "options": [
-                            "Newton\u0027s First Law",
-                            "Newton\u0027s Second Law",
-                            "Newton\u0027s Third Law",
+                            "Newton's First Law",
+                            "Newton's Second Law",
+                            "Newton's Third Law",
                             "Law of Gravitation"
                         ],
                         "answer": 2,
@@ -17547,10 +19451,10 @@
                     {
                         "q": "Which law relates the current flow to voltage and resistance?",
                         "options": [
-                            "Faraday\u0027s Law",
-                            "Ohm\u0027s Law",
-                            "Lenz\u0027s Law",
-                            "Coulomb\u0027s Law"
+                            "Faraday's Law",
+                            "Ohm's Law",
+                            "Lenz's Law",
+                            "Coulomb's Law"
                         ],
                         "answer": 1,
                         "explanation": "V = IR."
@@ -17603,7 +19507,7 @@
                             "Helium"
                         ],
                         "answer": 2,
-                        "explanation": "CO2 is the most significant long-lived greenhouse gas in Earth\u0027s atmosphere."
+                        "explanation": "CO2 is the most significant long-lived greenhouse gas in Earth's atmosphere."
                     },
                     {
                         "q": "What is the protective layer in the atmosphere that blocks UV rays?",
@@ -17614,7 +19518,7 @@
                             "Exosphere"
                         ],
                         "answer": 2,
-                        "explanation": "The ozone layer (within the stratosphere) absorbs 97-99% of the Sun\u0027s high-frequency ultraviolet light."
+                        "explanation": "The ozone layer (within the stratosphere) absorbs 97-99% of the Sun's high-frequency ultraviolet light."
                     },
                     {
                         "q": "World Environment Day is celebrated on?",
@@ -17727,7 +19631,7 @@
                         "explanation": "Carbon Monoxide (CO) is a silent, odorless killer."
                     },
                     {
-                        "q": "Who coined the term \u0027Ecosystem\u0027?",
+                        "q": "Who coined the term 'Ecosystem'?",
                         "options": [
                             "Charles Darwin",
                             "Arthur Tansley",
@@ -17771,7 +19675,7 @@
                         "explanation": "Rhizobium bacteria fix nitrogen in legume roots."
                     },
                     {
-                        "q": "What is \u0027Global Warming Potential\u0027 measured against?",
+                        "q": "What is 'Global Warming Potential' measured against?",
                         "options": [
                             "Oxygen",
                             "Carbon Dioxide",
@@ -17801,7 +19705,7 @@
                             "Mesosphere"
                         ],
                         "answer": 2,
-                        "explanation": "The troposphere contains 75% of the atmosphere\u0027s mass."
+                        "explanation": "The troposphere contains 75% of the atmosphere's mass."
                     },
                     {
                         "q": "The place where an organism lives is its?",
@@ -17815,7 +19719,7 @@
                         "explanation": "A habitat provides the necessary food, water, and shelter."
                     },
                     {
-                        "q": "What is \u0027Eutrophication\u0027 associated with?",
+                        "q": "What is 'Eutrophication' associated with?",
                         "options": [
                             "Air pollution",
                             "Water pollution",
@@ -17870,7 +19774,7 @@
                         "explanation": "It occurs due to prolonged inhalation of coal dust."
                     },
                     {
-                        "q": "Which city is known as the \u0027Electronic City\u0027 of India?",
+                        "q": "Which city is known as the 'Electronic City' of India?",
                         "options": [
                             "Mumbai",
                             "Bengaluru",
@@ -17881,7 +19785,7 @@
                         "explanation": "Bengaluru is the hub of IT and electronics."
                     },
                     {
-                        "q": "What is the primary cause of the \u0027Dead Zone\u0027 in oceans?",
+                        "q": "What is the primary cause of the 'Dead Zone' in oceans?",
                         "options": [
                             "Oil spills",
                             "Nutrient runoff",
@@ -17914,7 +19818,7 @@
                         "explanation": "Celebrated yearly to emphasize the importance of freshwater."
                     },
                     {
-                        "q": "Which organization maintains the \u0027Red Data Book\u0027?",
+                        "q": "Which organization maintains the 'Red Data Book'?",
                         "options": [
                             "WHO",
                             "WWF",
@@ -17936,7 +19840,7 @@
                         "explanation": "Car and bus exhausts release NOx, CO, and particulate matter."
                     },
                     {
-                        "q": "Which gas is known as the \u0027silent killer\u0027?",
+                        "q": "Which gas is known as the 'silent killer'?",
                         "options": [
                             "Oxygen",
                             "Carbon Dioxide",
@@ -18021,7 +19925,7 @@
                             "Grassland"
                         ],
                         "answer": 2,
-                        "explanation": "Forests cover about 31% of Earth\u0027s land area."
+                        "explanation": "Forests cover about 31% of Earth's land area."
                     },
                     {
                         "q": "Which protocol was signed in 1997 to reduce greenhouse gas emissions?",
@@ -18032,7 +19936,7 @@
                             "Vienna Convention"
                         ],
                         "answer": 1,
-                        "explanation": "The Kyoto Protocol focused on industrialized nations\u0027 emissions."
+                        "explanation": "The Kyoto Protocol focused on industrialized nations' emissions."
                     },
                     {
                         "q": "What is the name for the process of converting waste into new materials?",
@@ -18123,7 +20027,7 @@
                         "explanation": "Lichens are very sensitive to sulfur dioxide levels."
                     },
                     {
-                        "q": "What is the primary goal of the \u0027Paris Agreement\u0027?",
+                        "q": "What is the primary goal of the 'Paris Agreement'?",
                         "options": [
                             "Protect whales",
                             "End poverty",
@@ -18142,7 +20046,7 @@
                             "UNESCO"
                         ],
                         "answer": 2,
-                        "explanation": "IUCN is the world\u0027s largest environmental network."
+                        "explanation": "IUCN is the world's largest environmental network."
                     },
                     {
                         "q": "What is the main source of noise pollution in domestic areas?",
@@ -18156,7 +20060,7 @@
                         "explanation": "Various household appliances contribute to noise levels."
                     },
                     {
-                        "q": "Which heavy metal is associated with \u0027Itai-itai\u0027 disease?",
+                        "q": "Which heavy metal is associated with 'Itai-itai' disease?",
                         "options": [
                             "Lead",
                             "Mercury",
@@ -18167,7 +20071,7 @@
                         "explanation": "Cadmium poisoning causes softening of bones and kidney failure."
                     },
                     {
-                        "q": "What is the percentage of Oxygen in the Earth\u0027s atmosphere?",
+                        "q": "What is the percentage of Oxygen in the Earth's atmosphere?",
                         "options": [
                             "21%",
                             "78%",
@@ -18189,7 +20093,7 @@
                         "explanation": "Topsoil is rich in humus and minerals."
                     },
                     {
-                        "q": "What is \u0027Smog\u0027 a combination of?",
+                        "q": "What is 'Smog' a combination of?",
                         "options": [
                             "Smoke and Fog",
                             "Snow and Fog",
@@ -18233,7 +20137,7 @@
                         "explanation": "Oceans absorb CO2, which reacts with water to form carbonic acid."
                     },
                     {
-                        "q": "What is \u0027Vermicomposting\u0027?",
+                        "q": "What is 'Vermicomposting'?",
                         "options": [
                             "Composting with bacteria",
                             "Composting with worms",
@@ -18299,7 +20203,7 @@
                         "explanation": "Tamil Nadu made it mandatory in 2001."
                     },
                     {
-                        "q": "What is \u0027Integrated Pest Management\u0027 (IPM)?",
+                        "q": "What is 'Integrated Pest Management' (IPM)?",
                         "options": [
                             "Using only pesticides",
                             "Using only organic methods",
@@ -18321,7 +20225,7 @@
                         "explanation": "Aerobic decomposition uses oxygen and produces CO2."
                     },
                     {
-                        "q": "What is the main cause of the \u0027Aral Sea\u0027 disaster?",
+                        "q": "What is the main cause of the 'Aral Sea' disaster?",
                         "options": [
                             "Global warming",
                             "Pollution",
@@ -18362,7 +20266,7 @@
                             "Thermosphere"
                         ],
                         "answer": 2,
-                        "explanation": "The mesopause is the coldest place in Earth\u0027s atmosphere."
+                        "explanation": "The mesopause is the coldest place in Earth's atmosphere."
                     },
                     {
                         "q": "What is the primary goal of sustainable development?",
@@ -18431,7 +20335,7 @@
                         "explanation": "The Amazon rainforest covers much of South America."
                     },
                     {
-                        "q": "What is the term for the study of the Earth\u0027s atmosphere?",
+                        "q": "What is the term for the study of the Earth's atmosphere?",
                         "options": [
                             "Geology",
                             "Meteorology",
@@ -19392,7 +21296,7 @@
                             "9"
                         ],
                         "answer": 2,
-                        "explanation": "3x - 12 = 9 =\u003e 3x = 21 =\u003e x = 7."
+                        "explanation": "3x - 12 = 9 => 3x = 21 => x = 7."
                     },
                     {
                         "q": "What is the degree of the polynomial x³ + 2x² - 5?",
@@ -19546,7 +21450,7 @@
                             "16"
                         ],
                         "answer": 1,
-                        "explanation": "2x - 6 = 14 =\u003e 2x = 20 =\u003e x = 10."
+                        "explanation": "2x - 6 = 14 => 2x = 20 => x = 10."
                     },
                     {
                         "q": "Simplify: x? / x².",
@@ -20039,7 +21943,7 @@
                             "Quadrant"
                         ],
                         "answer": 1,
-                        "explanation": "Prefix \u0027bi\u0027 means two."
+                        "explanation": "Prefix 'bi' means two."
                     },
                     {
                         "q": "If x/4 = 1/2, what is x?",
@@ -20160,7 +22064,7 @@
                             "10"
                         ],
                         "answer": 1,
-                        "explanation": "2x + 2x = 10 =\u003e 4x = 10 =\u003e x = 2.5."
+                        "explanation": "2x + 2x = 10 => 4x = 10 => x = 2.5."
                     },
                     {
                         "q": "Simplify (x³)².",
@@ -20650,7 +22554,7 @@
                             "Straight"
                         ],
                         "answer": 1,
-                        "explanation": "Reflex angles are the \u0027outer\u0027 angles."
+                        "explanation": "Reflex angles are the 'outer' angles."
                     },
                     {
                         "q": "How many faces does a cube have?",
@@ -21112,7 +23016,7 @@
                             "Statistics"
                         ],
                         "answer": 2,
-                        "explanation": "Geometry comes from Greek meaning \u0027Earth measurement\u0027."
+                        "explanation": "Geometry comes from Greek meaning 'Earth measurement'."
                     }
                 ]
             },
@@ -21341,7 +23245,7 @@
                         "explanation": "Total balls = 5. Red = 3. Prob = 3/5."
                     },
                     {
-                        "q": "The term \u0027Bimodal\u0027 means having?",
+                        "q": "The term 'Bimodal' means having?",
                         "options": [
                             "No mode",
                             "One mode",
@@ -21374,7 +23278,7 @@
                         "explanation": "The median is resistant to outliers and skewness."
                     },
                     {
-                        "q": "What is a \u0027population\u0027 in statistics?",
+                        "q": "What is a 'population' in statistics?",
                         "options": [
                             "Only people",
                             "The entire group being studied",
@@ -21506,7 +23410,7 @@
                         "explanation": "Sorted: 1, 2, 5, 7, 8. Middle is 5."
                     },
                     {
-                        "q": "The \u0027law of large numbers\u0027 suggests that as samples get larger, the mean gets closer to?",
+                        "q": "The 'law of large numbers' suggests that as samples get larger, the mean gets closer to?",
                         "options": [
                             "Zero",
                             "The population mean",
@@ -21561,7 +23465,7 @@
                         "explanation": "P(A) + P(not A) = 1."
                     },
                     {
-                        "q": "A \u0027bias\u0027 in sampling means the sample is?",
+                        "q": "A 'bias' in sampling means the sample is?",
                         "options": [
                             "Random",
                             "Not representative",
@@ -21594,7 +23498,7 @@
                         "explanation": "Standard Deviation is the square root of Variance."
                     },
                     {
-                        "q": "In a box plot, the \u0027whiskers\u0027 extend to?",
+                        "q": "In a box plot, the 'whiskers' extend to?",
                         "options": [
                             "The mean",
                             "The quartiles",
@@ -21616,7 +23520,7 @@
                         "explanation": "Only one combination (1,1) out of 36."
                     },
                     {
-                        "q": "The term \u0027Outlier\u0027 refers to?",
+                        "q": "The term 'Outlier' refers to?",
                         "options": [
                             "The middle value",
                             "A value that is very different from others",
@@ -21660,7 +23564,7 @@
                         "explanation": "Face cards are 12 (J, Q, K). Number cards are 40."
                     },
                     {
-                        "q": "An \u0027unbiased coin\u0027 means?",
+                        "q": "An 'unbiased coin' means?",
                         "options": [
                             "Head is more likely",
                             "Tail is more likely",
@@ -21679,7 +23583,7 @@
                             "Both X and Y"
                         ],
                         "answer": 1,
-                        "explanation": "Y-axis shows \u0027how many\u0027 fall into each bin."
+                        "explanation": "Y-axis shows 'how many' fall into each bin."
                     },
                     {
                         "q": "What is the mean of the first three prime numbers?",
@@ -21693,7 +23597,7 @@
                         "explanation": "(2+3+5) / 3 = 10/3 = 3.33."
                     },
                     {
-                        "q": "The \u0027Interquartile Range\u0027 (IQR) is the difference between?",
+                        "q": "The 'Interquartile Range' (IQR) is the difference between?",
                         "options": [
                             "Max and Min",
                             "Q3 and Q1",
@@ -21726,7 +23630,7 @@
                         "explanation": "5/20 = 1/4."
                     },
                     {
-                        "q": "A \u0027negative correlation\u0027 means?",
+                        "q": "A 'negative correlation' means?",
                         "options": [
                             "As X increases, Y increases",
                             "As X increases, Y decreases",
@@ -21748,7 +23652,7 @@
                         "explanation": "4 Jacks in 52 cards. 4/52 = 1/13."
                     },
                     {
-                        "q": "Which average is the \u0027middle\u0027 item?",
+                        "q": "Which average is the 'middle' item?",
                         "options": [
                             "Mean",
                             "Median",
@@ -21781,7 +23685,7 @@
                         "explanation": "5 appears 3 times."
                     },
                     {
-                        "q": "What is \u0027Qualitative Data\u0027?",
+                        "q": "What is 'Qualitative Data'?",
                         "options": [
                             "Numbers",
                             "Descriptions / Categories",
@@ -21825,7 +23729,7 @@
                         "explanation": "There are two black kings (Spades and Clubs)."
                     },
                     {
-                        "q": "A \u0027Census\u0027 involves collecting data from?",
+                        "q": "A 'Census' involves collecting data from?",
                         "options": [
                             "Only volunteers",
                             "A random sample",
@@ -21880,7 +23784,7 @@
                         "explanation": "This is the multiplication rule for independent events."
                     },
                     {
-                        "q": "The \u0027Mean absolute deviation\u0027 (MAD) is always?",
+                        "q": "The 'Mean absolute deviation' (MAD) is always?",
                         "options": [
                             "Positive or zero",
                             "Negative",
@@ -21899,7 +23803,7 @@
                             "22"
                         ],
                         "answer": 1,
-                        "explanation": "The outlier 100 doesn\u0027t affect the median location."
+                        "explanation": "The outlier 100 doesn't affect the median location."
                     },
                     {
                         "q": "A perfect positive correlation corresponds to an R-value of?",
@@ -21910,7 +23814,7 @@
                             "100"
                         ],
                         "answer": 2,
-                        "explanation": "Pearson\u0027s correlation coefficient ranges from -1 to 1."
+                        "explanation": "Pearson's correlation coefficient ranges from -1 to 1."
                     },
                     {
                         "q": "If the probability of rain is 40%, what is the odds ratio against rain?",
@@ -21935,7 +23839,7 @@
                         "explanation": "If every value appears once, there is no mode."
                     },
                     {
-                        "q": "Which distribution is shaped like a \u0027Bell Curve\u0027?",
+                        "q": "Which distribution is shaped like a 'Bell Curve'?",
                         "options": [
                             "Uniform",
                             "Normal",
@@ -21957,7 +23861,7 @@
                         "explanation": "All cards are either red or black."
                     },
                     {
-                        "q": "Statistical \u0027Significance\u0027 usually means the probability is below?",
+                        "q": "Statistical 'Significance' usually means the probability is below?",
                         "options": [
                             "0.5",
                             "0.05",
@@ -22876,7 +24780,7 @@
                         "explanation": "Sin(180-30) = Sin 30 = 0.5."
                     },
                     {
-                        "q": "The \u0027Hypotenuse\u0027 is associated with which triangle?",
+                        "q": "The 'Hypotenuse' is associated with which triangle?",
                         "options": [
                             "Acute",
                             "Obtuse",
@@ -22910,7 +24814,7 @@
                         "explanation": "Pakistan is a specific name of a country, making it a proper noun."
                     },
                     {
-                        "q": "Identify the verb in the sentence: \u0027The cat jumped over the wall.\u0027",
+                        "q": "Identify the verb in the sentence: 'The cat jumped over the wall.'",
                         "options": [
                             "Cat",
                             "Jumped",
@@ -22921,7 +24825,7 @@
                         "explanation": "Jumped is the action performed by the subject."
                     },
                     {
-                        "q": "Choose the correct article: \u0027She is ___ honorable woman.\u0027",
+                        "q": "Choose the correct article: 'She is ___ honorable woman.'",
                         "options": [
                             "a",
                             "an",
@@ -22929,10 +24833,10 @@
                             "no article"
                         ],
                         "answer": 1,
-                        "explanation": "Honorable starts with a vowel sound (h is silent), so \u0027an\u0027 is used."
+                        "explanation": "Honorable starts with a vowel sound (h is silent), so 'an' is used."
                     },
                     {
-                        "q": "What is the plural of \u0027Criteria\u0027?",
+                        "q": "What is the plural of 'Criteria'?",
                         "options": [
                             "Criterias",
                             "Criterion",
@@ -22940,10 +24844,10 @@
                             "Criterions"
                         ],
                         "answer": 2,
-                        "explanation": "Actually, \u0027Criteria\u0027 is already plural; the singular is \u0027Criterion\u0027."
+                        "explanation": "Actually, 'Criteria' is already plural; the singular is 'Criterion'."
                     },
                     {
-                        "q": "Identify the tense: \u0027I have been reading for two hours.\u0027",
+                        "q": "Identify the tense: 'I have been reading for two hours.'",
                         "options": [
                             "Present Perfect",
                             "Present Continuous",
@@ -22962,10 +24866,10 @@
                             "He"
                         ],
                         "answer": 0,
-                        "explanation": "\u0027And\u0027 is used to connect words or sentences."
+                        "explanation": "'And' is used to connect words or sentences."
                     },
                     {
-                        "q": "Choose the correct preposition: \u0027The book is ___ the table.\u0027",
+                        "q": "Choose the correct preposition: 'The book is ___ the table.'",
                         "options": [
                             "in",
                             "on",
@@ -22973,10 +24877,10 @@
                             "by"
                         ],
                         "answer": 1,
-                        "explanation": "We use \u0027on\u0027 for surface contact."
+                        "explanation": "We use 'on' for surface contact."
                     },
                     {
-                        "q": "What is the past participle of \u0027Fly\u0027?",
+                        "q": "What is the past participle of 'Fly'?",
                         "options": [
                             "Flew",
                             "Flown",
@@ -22987,7 +24891,7 @@
                         "explanation": "Fly (V1), Flew (V2), Flown (V3)."
                     },
                     {
-                        "q": "Identify the adjective: \u0027The big blue ocean looks beautiful.\u0027",
+                        "q": "Identify the adjective: 'The big blue ocean looks beautiful.'",
                         "options": [
                             "Ocean",
                             "Looks",
@@ -22995,7 +24899,7 @@
                             "The"
                         ],
                         "answer": 2,
-                        "explanation": "Big is describing the noun \u0027ocean\u0027."
+                        "explanation": "Big is describing the noun 'ocean'."
                     },
                     {
                         "q": "Which sentence is correctly punctuated?",
@@ -23020,7 +24924,7 @@
                         "explanation": "Intransitive verbs (like sleep, sit, die) do not take a direct object."
                     },
                     {
-                        "q": "Identify the conjunction in: \u0027I like tea, but I hate coffee.\u0027",
+                        "q": "Identify the conjunction in: 'I like tea, but I hate coffee.'",
                         "options": [
                             "like",
                             "but",
@@ -23028,10 +24932,10 @@
                             "tea"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027But\u0027 is a coordinating conjunction connecting two independent clauses."
+                        "explanation": "'But' is a coordinating conjunction connecting two independent clauses."
                     },
                     {
-                        "q": "What is the past participle of the verb \u0027Fly\u0027?",
+                        "q": "What is the past participle of the verb 'Fly'?",
                         "options": [
                             "Flied",
                             "Flew",
@@ -23050,10 +24954,10 @@
                             "He is the honest man."
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Honest\u0027 starts with a vowel sound, so \u0027an\u0027 is required."
+                        "explanation": "'Honest' starts with a vowel sound, so 'an' is required."
                     },
                     {
-                        "q": "Choose the correct preposition: \u0027He is afraid ___ dogs.\u0027",
+                        "q": "Choose the correct preposition: 'He is afraid ___ dogs.'",
                         "options": [
                             "on",
                             "with",
@@ -23061,10 +24965,10 @@
                             "from"
                         ],
                         "answer": 2,
-                        "explanation": "The adjective \u0027afraid\u0027 is followed by \u0027of\u0027."
+                        "explanation": "The adjective 'afraid' is followed by 'of'."
                     },
                     {
-                        "q": "What is the plural of \u0027Criterion\u0027?",
+                        "q": "What is the plural of 'Criterion'?",
                         "options": [
                             "Criterions",
                             "Criterias",
@@ -23072,7 +24976,7 @@
                             "Criterion"
                         ],
                         "answer": 2,
-                        "explanation": "\u0027Criteria\u0027 is the standard plural form of \u0027criterion\u0027."
+                        "explanation": "'Criteria' is the standard plural form of 'criterion'."
                     },
                     {
                         "q": "Which part of speech describes a noun?",
@@ -23094,10 +24998,10 @@
                             "Ocurrence"
                         ],
                         "answer": 1,
-                        "explanation": "Occurrence has double \u0027c\u0027 and double \u0027r\u0027."
+                        "explanation": "Occurrence has double 'c' and double 'r'."
                     },
                     {
-                        "q": "Identify the tense: \u0027I have been working since morning.\u0027",
+                        "q": "Identify the tense: 'I have been working since morning.'",
                         "options": [
                             "Present Perfect",
                             "Present Perfect Continuous",
@@ -23105,10 +25009,10 @@
                             "Future Perfect"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Have been + -ing\u0027 denotes present perfect continuous."
+                        "explanation": "'Have been + -ing' denotes present perfect continuous."
                     },
                     {
-                        "q": "What is the feminine of \u0027Actor\u0027?",
+                        "q": "What is the feminine of 'Actor'?",
                         "options": [
                             "Actoress",
                             "Actress",
@@ -23119,7 +25023,7 @@
                         "explanation": "Actress is the feminine form."
                     },
                     {
-                        "q": "Choose the correct option: \u0027If it rains, we ___ at home.\u0027",
+                        "q": "Choose the correct option: 'If it rains, we ___ at home.'",
                         "options": [
                             "shall stay",
                             "stayed",
@@ -23138,10 +25042,10 @@
                             "Beautiful"
                         ],
                         "answer": 1,
-                        "explanation": "A \u0027flock\u0027 refers to a group of birds or sheep."
+                        "explanation": "A 'flock' refers to a group of birds or sheep."
                     },
                     {
-                        "q": "What is the comparative degree of \u0027Good\u0027?",
+                        "q": "What is the comparative degree of 'Good'?",
                         "options": [
                             "Gooder",
                             "Best",
@@ -23152,7 +25056,7 @@
                         "explanation": "Good (positive), Better (comparative), Best (superlative)."
                     },
                     {
-                        "q": "Change into passive: \u0027She wrote a letter.\u0027",
+                        "q": "Change into passive: 'She wrote a letter.'",
                         "options": [
                             "A letter is written by her.",
                             "A letter was written by her.",
@@ -23163,7 +25067,7 @@
                         "explanation": "Past simple passive: was/were + past participle."
                     },
                     {
-                        "q": "Identify the pronoun in: \u0027They are playing.\u0027",
+                        "q": "Identify the pronoun in: 'They are playing.'",
                         "options": [
                             "playing",
                             "are",
@@ -23171,7 +25075,7 @@
                             "football"
                         ],
                         "answer": 2,
-                        "explanation": "\u0027They\u0027 is a third-person plural pronoun."
+                        "explanation": "'They' is a third-person plural pronoun."
                     },
                     {
                         "q": "Which word is an adverb?",
@@ -23196,7 +25100,7 @@
                         "explanation": "Questions must start with a capital and end with a question mark."
                     },
                     {
-                        "q": "What is the superlative of \u0027Far\u0027?",
+                        "q": "What is the superlative of 'Far'?",
                         "options": [
                             "Farther",
                             "Farthest",
@@ -23204,7 +25108,7 @@
                             "Both B and C"
                         ],
                         "answer": 3,
-                        "explanation": "Both \u0027farthest\u0027 and \u0027furthest\u0027 are correct superlatives of \u0027far\u0027."
+                        "explanation": "Both 'farthest' and 'furthest' are correct superlatives of 'far'."
                     },
                     {
                         "q": "Which of these is a proper noun?",
@@ -23218,7 +25122,7 @@
                         "explanation": "London is a specific name of a city."
                     },
                     {
-                        "q": "Choose the correct antonym for \u0027Giant\u0027:",
+                        "q": "Choose the correct antonym for 'Giant':",
                         "options": [
                             "Huge",
                             "Tiny",
@@ -23251,7 +25155,7 @@
                         "explanation": "Abstract nouns represent feelings, states, or concepts that cannot be touched."
                     },
                     {
-                        "q": "Choose the correct verb form: \u0027She ___ to the gym every morning.\u0027",
+                        "q": "Choose the correct verb form: 'She ___ to the gym every morning.'",
                         "options": [
                             "go",
                             "goes",
@@ -23259,7 +25163,7 @@
                             "gone"
                         ],
                         "answer": 1,
-                        "explanation": "Third person singular takes \u0027goes\u0027 in simple present."
+                        "explanation": "Third person singular takes 'goes' in simple present."
                     },
                     {
                         "q": "Which sentence is in the past continuous tense?",
@@ -23273,7 +25177,7 @@
                         "explanation": "Was/were + verb-ing denotes past continuous."
                     },
                     {
-                        "q": "Identify the preposition in: \u0027The cat is under the table.\u0027",
+                        "q": "Identify the preposition in: 'The cat is under the table.'",
                         "options": [
                             "The",
                             "Cat",
@@ -23281,10 +25185,10 @@
                             "Table"
                         ],
                         "answer": 2,
-                        "explanation": "\u0027Under\u0027 shows the relationship of the cat to the table."
+                        "explanation": "'Under' shows the relationship of the cat to the table."
                     },
                     {
-                        "q": "What is the plural of \u0027Mouse\u0027?",
+                        "q": "What is the plural of 'Mouse'?",
                         "options": [
                             "Mouses",
                             "Mice",
@@ -23292,10 +25196,10 @@
                             "Mouse"
                         ],
                         "answer": 1,
-                        "explanation": "Mouse has an irregular plural form, \u0027mice\u0027."
+                        "explanation": "Mouse has an irregular plural form, 'mice'."
                     },
                     {
-                        "q": "Choose the correct relative pronoun: \u0027The man ___ stole my wallet was caught.\u0027",
+                        "q": "Choose the correct relative pronoun: 'The man ___ stole my wallet was caught.'",
                         "options": [
                             "who",
                             "which",
@@ -23303,10 +25207,10 @@
                             "whom"
                         ],
                         "answer": 0,
-                        "explanation": "\u0027Who\u0027 is used for people as a subject."
+                        "explanation": "'Who' is used for people as a subject."
                     },
                     {
-                        "q": "Identify the adverb in: \u0027He finished his homework quickly.\u0027",
+                        "q": "Identify the adverb in: 'He finished his homework quickly.'",
                         "options": [
                             "He",
                             "Finished",
@@ -23314,10 +25218,10 @@
                             "Quickly"
                         ],
                         "answer": 3,
-                        "explanation": "\u0027Quickly\u0027 describes how the action was performed."
+                        "explanation": "'Quickly' describes how the action was performed."
                     },
                     {
-                        "q": "What is the comparative form of \u0027Busy\u0027?",
+                        "q": "What is the comparative form of 'Busy'?",
                         "options": [
                             "Busier",
                             "More busy",
@@ -23325,7 +25229,7 @@
                             "Busy"
                         ],
                         "answer": 0,
-                        "explanation": "Adjectives ending in \u0027y\u0027 change to \u0027ier\u0027 for comparative."
+                        "explanation": "Adjectives ending in 'y' change to 'ier' for comparative."
                     },
                     {
                         "q": "Which of these is a possessive pronoun?",
@@ -23336,10 +25240,10 @@
                             "My"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Mine\u0027 shows ownership independently."
+                        "explanation": "'Mine' shows ownership independently."
                     },
                     {
-                        "q": "Identify the object in: \u0027She painted a beautiful picture.\u0027",
+                        "q": "Identify the object in: 'She painted a beautiful picture.'",
                         "options": [
                             "She",
                             "Painted",
@@ -23347,10 +25251,10 @@
                             "Beautiful"
                         ],
                         "answer": 2,
-                        "explanation": "\u0027Picture\u0027 receives the action of painting."
+                        "explanation": "'Picture' receives the action of painting."
                     },
                     {
-                        "q": "Choose the correct auxiliary verb: \u0027___ you seen the movie?\u0027",
+                        "q": "Choose the correct auxiliary verb: '___ you seen the movie?'",
                         "options": [
                             "Do",
                             "Have",
@@ -23358,10 +25262,10 @@
                             "Was"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Have\u0027 is used with \u0027you\u0027 for the present perfect."
+                        "explanation": "'Have' is used with 'you' for the present perfect."
                     },
                     {
-                        "q": "What is the past tense of \u0027Drink\u0027?",
+                        "q": "What is the past tense of 'Drink'?",
                         "options": [
                             "Drinked",
                             "Drank",
@@ -23380,10 +25284,10 @@
                             "Each"
                         ],
                         "answer": 0,
-                        "explanation": "\u0027Who\u0027 is used to ask questions about people."
+                        "explanation": "'Who' is used to ask questions about people."
                     },
                     {
-                        "q": "Identify the conjunction in: \u0027I will go if you stay.\u0027",
+                        "q": "Identify the conjunction in: 'I will go if you stay.'",
                         "options": [
                             "I",
                             "Will",
@@ -23391,10 +25295,10 @@
                             "If"
                         ],
                         "answer": 3,
-                        "explanation": "\u0027If\u0027 is a subordinating conjunction."
+                        "explanation": "'If' is a subordinating conjunction."
                     },
                     {
-                        "q": "Choose the correct article: \u0027He is ___ university student.\u0027",
+                        "q": "Choose the correct article: 'He is ___ university student.'",
                         "options": [
                             "a",
                             "an",
@@ -23402,10 +25306,10 @@
                             "no article"
                         ],
                         "answer": 0,
-                        "explanation": "\u0027University\u0027 starts with a \u0027y\u0027 sound, so \u0027a\u0027 is used."
+                        "explanation": "'University' starts with a 'y' sound, so 'a' is used."
                     },
                     {
-                        "q": "What is the superlative form of \u0027Interesting\u0027?",
+                        "q": "What is the superlative form of 'Interesting'?",
                         "options": [
                             "Interestinger",
                             "Most interesting",
@@ -23413,7 +25317,7 @@
                             "Interest"
                         ],
                         "answer": 1,
-                        "explanation": "Longer adjectives use \u0027most\u0027 for superlative."
+                        "explanation": "Longer adjectives use 'most' for superlative."
                     },
                     {
                         "q": "Identify the reflexive pronoun:",
@@ -23424,7 +25328,7 @@
                             "Mine"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Myself\u0027 refers back to the subject \u0027I\u0027."
+                        "explanation": "'Myself' refers back to the subject 'I'."
                     },
                     {
                         "q": "Which sentence is in the present perfect tense?",
@@ -23438,7 +25342,7 @@
                         "explanation": "Have/has + past participle."
                     },
                     {
-                        "q": "Identify the subject: \u0027Behind the tree sat the old man.\u0027",
+                        "q": "Identify the subject: 'Behind the tree sat the old man.'",
                         "options": [
                             "Tree",
                             "Old man",
@@ -23446,7 +25350,7 @@
                             "Behind"
                         ],
                         "answer": 1,
-                        "explanation": "The person performing the action (sitting) is the \u0027old man\u0027."
+                        "explanation": "The person performing the action (sitting) is the 'old man'."
                     },
                     {
                         "q": "Which word is a common noun?",
@@ -23457,10 +25361,10 @@
                             "Shakespeare"
                         ],
                         "answer": 2,
-                        "explanation": "\u0027City\u0027 doesn\u0027t refer to a specific individual entity."
+                        "explanation": "'City' doesn't refer to a specific individual entity."
                     },
                     {
-                        "q": "Choose the correct tense: \u0027By next year, I ___ my degree.\u0027",
+                        "q": "Choose the correct tense: 'By next year, I ___ my degree.'",
                         "options": [
                             "will finish",
                             "will have finished",
@@ -23471,7 +25375,7 @@
                         "explanation": "Future perfect is used for actions completed by a certain time."
                     },
                     {
-                        "q": "What is the feminine of \u0027Nephew\u0027?",
+                        "q": "What is the feminine of 'Nephew'?",
                         "options": [
                             "Niece",
                             "Aunt",
@@ -23479,7 +25383,7 @@
                             "Daughter"
                         ],
                         "answer": 0,
-                        "explanation": "Niece is the female child of one\u0027s sibling."
+                        "explanation": "Niece is the female child of one's sibling."
                     },
                     {
                         "q": "Identify the interjection:",
@@ -23490,10 +25394,10 @@
                             "Under"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Wow!\u0027 expresses sudden emotion."
+                        "explanation": "'Wow!' expresses sudden emotion."
                     },
                     {
-                        "q": "Change to indirect speech: He said, \u0027I am ill.\u0027",
+                        "q": "Change to indirect speech: He said, 'I am ill.'",
                         "options": [
                             "He said that I am ill.",
                             "He said that he was ill.",
@@ -23504,7 +25408,7 @@
                         "explanation": "Tense shifts back in indirect speech."
                     },
                     {
-                        "q": "Which part of speech is \u0027because\u0027?",
+                        "q": "Which part of speech is 'because'?",
                         "options": [
                             "Preposition",
                             "Conjunction",
@@ -23515,7 +25419,7 @@
                         "explanation": "It joins clauses and shows cause/effect."
                     },
                     {
-                        "q": "Find the error: \u0027She has a white and a black dog.\u0027",
+                        "q": "Find the error: 'She has a white and a black dog.'",
                         "options": [
                             "She",
                             "has",
@@ -23526,7 +25430,7 @@
                         "explanation": "The sentence is grammatically correct as it is."
                     },
                     {
-                        "q": "What is the plural of \u0027Chateau\u0027?",
+                        "q": "What is the plural of 'Chateau'?",
                         "options": [
                             "Chateaus",
                             "Chateaux",
@@ -23534,10 +25438,10 @@
                             "Chateau"
                         ],
                         "answer": 1,
-                        "explanation": "French origin word, plural ends in \u0027x\u0027."
+                        "explanation": "French origin word, plural ends in 'x'."
                     },
                     {
-                        "q": "Which sentence uses \u0027as...as\u0027 correctly?",
+                        "q": "Which sentence uses 'as...as' correctly?",
                         "options": [
                             "He is as tall than me.",
                             "He is as tall as I am.",
@@ -23556,10 +25460,10 @@
                             "He sits."
                         ],
                         "answer": 2,
-                        "explanation": "\u0027Kick\u0027 requires an object (ball)."
+                        "explanation": "'Kick' requires an object (ball)."
                     },
                     {
-                        "q": "What is the past participle of \u0027Break\u0027?",
+                        "q": "What is the past participle of 'Break'?",
                         "options": [
                             "Broke",
                             "Broken",
@@ -23570,7 +25474,7 @@
                         "explanation": "Break-Broke-Broken."
                     },
                     {
-                        "q": "Choose the correct preposition: \u0027She has been here ___ Monday.\u0027",
+                        "q": "Choose the correct preposition: 'She has been here ___ Monday.'",
                         "options": [
                             "for",
                             "since",
@@ -23578,7 +25482,7 @@
                             "during"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Since\u0027 is used for a specific point in time."
+                        "explanation": "'Since' is used for a specific point in time."
                     },
                     {
                         "q": "Identify the demonstrative adjective:",
@@ -23589,7 +25493,7 @@
                             "Either book will do."
                         ],
                         "answer": 0,
-                        "explanation": "\u0027That\u0027 points out exactly which book."
+                        "explanation": "'That' points out exactly which book."
                     },
                     {
                         "q": "What is the collective noun for lions?",
@@ -23603,7 +25507,7 @@
                         "explanation": "A pride of lions."
                     },
                     {
-                        "q": "Identify the mood in: \u0027I wish I were rich.\u0027",
+                        "q": "Identify the mood in: 'I wish I were rich.'",
                         "options": [
                             "Indicative",
                             "Imperative",
@@ -23622,10 +25526,10 @@
                             "Acomodation"
                         ],
                         "answer": 0,
-                        "explanation": "Double \u0027c\u0027 and double \u0027m\u0027."
+                        "explanation": "Double 'c' and double 'm'."
                     },
                     {
-                        "q": "What type of pronoun is \u0027someone\u0027?",
+                        "q": "What type of pronoun is 'someone'?",
                         "options": [
                             "Relative",
                             "Indefinite",
@@ -23636,7 +25540,7 @@
                         "explanation": "Refers to a person not specifically identified."
                     },
                     {
-                        "q": "Identify the gerund: \u0027Ali loves singing in the shower.\u0027",
+                        "q": "Identify the gerund: 'Ali loves singing in the shower.'",
                         "options": [
                             "Loves",
                             "Singing",
@@ -23644,10 +25548,10 @@
                             "Shower"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Singing\u0027 acts as the object (noun)."
+                        "explanation": "'Singing' acts as the object (noun)."
                     },
                     {
-                        "q": "Change to active: \u0027The work was finished by him.\u0027",
+                        "q": "Change to active: 'The work was finished by him.'",
                         "options": [
                             "He has finished the work.",
                             "He finished the work.",
@@ -23658,7 +25562,7 @@
                         "explanation": "Simple past passive becomes simple past active."
                     },
                     {
-                        "q": "Identify the determiner in: \u0027Few people attended the meeting.\u0027",
+                        "q": "Identify the determiner in: 'Few people attended the meeting.'",
                         "options": [
                             "Few",
                             "People",
@@ -23666,10 +25570,10 @@
                             "Meeting"
                         ],
                         "answer": 0,
-                        "explanation": "\u0027Few\u0027 specifies the quantity of people."
+                        "explanation": "'Few' specifies the quantity of people."
                     },
                     {
-                        "q": "What is the past tense of \u0027Go\u0027?",
+                        "q": "What is the past tense of 'Go'?",
                         "options": [
                             "Gone",
                             "Going",
@@ -23691,18 +25595,18 @@
                         "explanation": "Shows direction or location into a space."
                     },
                     {
-                        "q": "Choose the correct tag: \u0027It’s cold today, ___?\u0027",
+                        "q": "Choose the correct tag: 'It’s cold today, ___?'",
                         "options": [
                             "is it?",
-                            "isn\u0027t it?",
+                            "isn't it?",
                             "was it?",
-                            "doesn\u0027t it?"
+                            "doesn't it?"
                         ],
                         "answer": 1,
                         "explanation": "Positive sentence takes a negative tag."
                     },
                     {
-                        "q": "Identify the adjective in: \u0027That is a heavy box.\u0027",
+                        "q": "Identify the adjective in: 'That is a heavy box.'",
                         "options": [
                             "That",
                             "Is",
@@ -23710,10 +25614,10 @@
                             "Box"
                         ],
                         "answer": 2,
-                        "explanation": "\u0027Heavy\u0027 describes the box."
+                        "explanation": "'Heavy' describes the box."
                     },
                     {
-                        "q": "What is the plural of \u0027Foot\u0027?",
+                        "q": "What is the plural of 'Foot'?",
                         "options": [
                             "Foots",
                             "Feets",
@@ -23724,7 +25628,7 @@
                         "explanation": "Irregular plural: foot becomes feet."
                     },
                     {
-                        "q": "Identify the auxiliary verb: \u0027They are playing cricket.\u0027",
+                        "q": "Identify the auxiliary verb: 'They are playing cricket.'",
                         "options": [
                             "They",
                             "Are",
@@ -23732,10 +25636,10 @@
                             "Cricket"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Are\u0027 helps form the continuous tense."
+                        "explanation": "'Are' helps form the continuous tense."
                     },
                     {
-                        "q": "Choose the synonym for \u0027Help\u0027:",
+                        "q": "Choose the synonym for 'Help':",
                         "options": [
                             "Assist",
                             "Hinder",
@@ -23754,10 +25658,10 @@
                             "Down"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Always\u0027 tells us how often."
+                        "explanation": "'Always' tells us how often."
                     },
                     {
-                        "q": "Identify the direct object: \u0027He gave the boy a pen.\u0027",
+                        "q": "Identify the direct object: 'He gave the boy a pen.'",
                         "options": [
                             "He",
                             "Gave",
@@ -23765,7 +25669,7 @@
                             "Pen"
                         ],
                         "answer": 3,
-                        "explanation": "\u0027Pen\u0027 is what was given; \u0027Boy\u0027 is the indirect recipient."
+                        "explanation": "'Pen' is what was given; 'Boy' is the indirect recipient."
                     }
                 ]
             },
@@ -23774,7 +25678,7 @@
                 "icon": "fa-language",
                 "questions": [
                     {
-                        "q": "What does \u0027Omniscient\u0027 mean?",
+                        "q": "What does 'Omniscient' mean?",
                         "options": [
                             "Strong",
                             "All-knowing",
@@ -23782,7 +25686,7 @@
                             "Immortal"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Omni\u0027 means all and \u0027scient\u0027 means knowing."
+                        "explanation": "'Omni' means all and 'scient' means knowing."
                     },
                     {
                         "q": "A person who loves books is called?",
@@ -23796,7 +25700,7 @@
                         "explanation": "Bibliophile comes from Hippo (book) and phile (lover)."
                     },
                     {
-                        "q": "What is the meaning of \u0027Dwindle\u0027?",
+                        "q": "What is the meaning of 'Dwindle'?",
                         "options": [
                             "To grow",
                             "To decrease",
@@ -23807,7 +25711,7 @@
                         "explanation": "Dwindle means to diminish gradually in size, amount, or strength."
                     },
                     {
-                        "q": "Meaning of \u0027Obstinate\u0027?",
+                        "q": "Meaning of 'Obstinate'?",
                         "options": [
                             "Stubborn",
                             "Flexible",
@@ -23815,10 +25719,10 @@
                             "Weak"
                         ],
                         "answer": 0,
-                        "explanation": "Refusing to change one\u0027s opinion or chosen course of action."
+                        "explanation": "Refusing to change one's opinion or chosen course of action."
                     },
                     {
-                        "q": "What is a \u0027Calamity\u0027?",
+                        "q": "What is a 'Calamity'?",
                         "options": [
                             "Success",
                             "Disaster",
@@ -23829,7 +25733,7 @@
                         "explanation": "An event causing great and often sudden damage or distress."
                     },
                     {
-                        "q": "Define \u0027Ambiguous\u0027?",
+                        "q": "Define 'Ambiguous'?",
                         "options": [
                             "Clear",
                             "Unclear / Open to multiple meanings",
@@ -23840,7 +25744,7 @@
                         "explanation": "Something that lacks a single, clear meaning."
                     },
                     {
-                        "q": "Meaning of \u0027Benevolent\u0027?",
+                        "q": "Meaning of 'Benevolent'?",
                         "options": [
                             "Cruel",
                             "Kind",
@@ -23862,7 +25766,7 @@
                         "explanation": "A eulogy is given in praise of a person who has passed away."
                     },
                     {
-                        "q": "What is \u0027Altruism\u0027?",
+                        "q": "What is 'Altruism'?",
                         "options": [
                             "Selfishness",
                             "Selfless concern for others",
@@ -23873,7 +25777,7 @@
                         "explanation": "The practice of disinterested and selfless concern for the well-being of others."
                     },
                     {
-                        "q": "Meaning of \u0027Fragile\u0027?",
+                        "q": "Meaning of 'Fragile'?",
                         "options": [
                             "Strong",
                             "Easily broken",
@@ -23884,7 +25788,7 @@
                         "explanation": "An object that is easily damaged or broken."
                     },
                     {
-                        "q": "What is the meaning of \u0027Optimist\u0027?",
+                        "q": "What is the meaning of 'Optimist'?",
                         "options": [
                             "One who looks at the dark side",
                             "One who looks at the bright side",
@@ -23906,7 +25810,7 @@
                         "explanation": "A polyglot is someone who can speak or write in several languages."
                     },
                     {
-                        "q": "What is the meaning of \u0027Inevitable\u0027?",
+                        "q": "What is the meaning of 'Inevitable'?",
                         "options": [
                             "Uncertain",
                             "That cannot be avoided",
@@ -23928,7 +25832,7 @@
                         "explanation": "Numismatics is the study or collection of currency."
                     },
                     {
-                        "q": "What is the meaning of \u0027Abundant\u0027?",
+                        "q": "What is the meaning of 'Abundant'?",
                         "options": [
                             "Scarce",
                             "Plentiful",
@@ -23950,7 +25854,7 @@
                         "explanation": "An apiary is a place where beehives are kept."
                     },
                     {
-                        "q": "What is a \u0027Cemetery\u0027?",
+                        "q": "What is a 'Cemetery'?",
                         "options": [
                             "A garden",
                             "A place for burial",
@@ -23972,7 +25876,7 @@
                         "explanation": "Misogyny is the hatred of, contempt for, or prejudice against women."
                     },
                     {
-                        "q": "What does \u0027Exaggerate\u0027 mean?",
+                        "q": "What does 'Exaggerate' mean?",
                         "options": [
                             "To simplify",
                             "To overstate",
@@ -23994,7 +25898,7 @@
                         "explanation": "Auto (self) + biography (life writing)."
                     },
                     {
-                        "q": "What is the meaning of \u0027Lethal\u0027?",
+                        "q": "What is the meaning of 'Lethal'?",
                         "options": [
                             "Harmmless",
                             "Deep",
@@ -24016,7 +25920,7 @@
                         "explanation": "A glutton is an excessively greedy eater."
                     },
                     {
-                        "q": "What is an \u0027Ambassador\u0027?",
+                        "q": "What is an 'Ambassador'?",
                         "options": [
                             "A criminal",
                             "A high-ranking diplomat",
@@ -24035,10 +25939,10 @@
                             "Geology"
                         ],
                         "answer": 1,
-                        "explanation": "Ornithology comes from the Greek \u0027ornis\u0027 (bird)."
+                        "explanation": "Ornithology comes from the Greek 'ornis' (bird)."
                     },
                     {
-                        "q": "What does \u0027Fragile\u0027 mean?",
+                        "q": "What does 'Fragile' mean?",
                         "options": [
                             "Strong",
                             "Easily broken",
@@ -24060,7 +25964,7 @@
                         "explanation": "Bankrupt or insolvent means being unable to satisfy financial obligations."
                     },
                     {
-                        "q": "What is a \u0027Manuscript\u0027?",
+                        "q": "What is a 'Manuscript'?",
                         "options": [
                             "A printed book",
                             "A handwritten document",
@@ -24068,10 +25972,10 @@
                             "A painting"
                         ],
                         "answer": 1,
-                        "explanation": "Linguistically \u0027manu\u0027 (hand) + \u0027script\u0027 (writing)."
+                        "explanation": "Linguistically 'manu' (hand) + 'script' (writing)."
                     },
                     {
-                        "q": "What does \u0027Ambiguous\u0027 mean?",
+                        "q": "What does 'Ambiguous' mean?",
                         "options": [
                             "Very clear",
                             "Having more than one meaning",
@@ -24093,7 +25997,7 @@
                         "explanation": "A decade is 10 years."
                     },
                     {
-                        "q": "What is the meaning of \u0027Pacifist\u0027?",
+                        "q": "What is the meaning of 'Pacifist'?",
                         "options": [
                             "One who loves war",
                             "One who believes in peace",
@@ -24115,7 +26019,7 @@
                         "explanation": "Stoicism is the endurance of pain or hardship without display of feelings."
                     },
                     {
-                        "q": "What does \u0027Ephermeral\u0027 mean?",
+                        "q": "What does 'Ephermeral' mean?",
                         "options": [
                             "Lasting a long time",
                             "Short-lived",
@@ -24137,7 +26041,7 @@
                         "explanation": "Truancy is the act of staying away from school without good reason."
                     },
                     {
-                        "q": "What is the meaning of \u0027Garrulous\u0027?",
+                        "q": "What is the meaning of 'Garrulous'?",
                         "options": [
                             "Quiet",
                             "Talkative",
@@ -24159,7 +26063,7 @@
                         "explanation": "A polyglot can speak or write in several languages."
                     },
                     {
-                        "q": "What is \u0027Melancholy\u0027?",
+                        "q": "What is 'Melancholy'?",
                         "options": [
                             "Happiness",
                             "Deep sadness",
@@ -24170,7 +26074,7 @@
                         "explanation": "A feeling of pensive sadness, typically with no obvious cause."
                     },
                     {
-                        "q": "Meaning of \u0027Prudent\u0027?",
+                        "q": "Meaning of 'Prudent'?",
                         "options": [
                             "Rash",
                             "Wise and careful",
@@ -24192,7 +26096,7 @@
                         "explanation": "Misanthropy is the general hatred of the human species."
                     },
                     {
-                        "q": "What is \u0027Verbatim\u0027?",
+                        "q": "What is 'Verbatim'?",
                         "options": [
                             "Word for word",
                             "Summary",
@@ -24203,7 +26107,7 @@
                         "explanation": "Exactly as written or spoken."
                     },
                     {
-                        "q": "Meaning of \u0027Candid\u0027?",
+                        "q": "Meaning of 'Candid'?",
                         "options": [
                             "Secretive",
                             "Frank and honest",
@@ -24225,7 +26129,7 @@
                         "explanation": "Archives preserve historical documents and records."
                     },
                     {
-                        "q": "What is \u0027Exodus\u0027?",
+                        "q": "What is 'Exodus'?",
                         "options": [
                             "Arrival",
                             "Mass departure",
@@ -24236,7 +26140,7 @@
                         "explanation": "A mass departure of people, as from a country."
                     },
                     {
-                        "q": "Meaning of \u0027Meticulous\u0027?",
+                        "q": "Meaning of 'Meticulous'?",
                         "options": [
                             "Careless",
                             "Very careful and precise",
@@ -24258,7 +26162,7 @@
                         "explanation": "Somnambulism is sleepwalking."
                     },
                     {
-                        "q": "What is \u0027Acrimony\u0027?",
+                        "q": "What is 'Acrimony'?",
                         "options": [
                             "Bitterness or ill feeling",
                             "Friendship",
@@ -24269,7 +26173,7 @@
                         "explanation": "Acrimony is bitterness or ill feeling, as in speech or behavior."
                     },
                     {
-                        "q": "Meaning of \u0027Placid\u0027?",
+                        "q": "Meaning of 'Placid'?",
                         "options": [
                             "Noisy",
                             "Calm and peaceful",
@@ -24291,7 +26195,7 @@
                         "explanation": "A theist believes in a creator god."
                     },
                     {
-                        "q": "What is \u0027Gregarious\u0027?",
+                        "q": "What is 'Gregarious'?",
                         "options": [
                             "Shy",
                             "Sociable",
@@ -24302,7 +26206,7 @@
                         "explanation": "Gregarious people enjoy the company of others."
                     },
                     {
-                        "q": "Meaning of \u0027Lethargic\u0027?",
+                        "q": "Meaning of 'Lethargic'?",
                         "options": [
                             "Active",
                             "Sluggish and tired",
@@ -24324,7 +26228,7 @@
                         "explanation": "An atlas is a book of maps or charts."
                     },
                     {
-                        "q": "What is \u0027Brevity\u0027?",
+                        "q": "What is 'Brevity'?",
                         "options": [
                             "Lengthy",
                             "Conciseness/Shortness",
@@ -24335,7 +26239,7 @@
                         "explanation": "Brevity is the use of few words in speech or writing."
                     },
                     {
-                        "q": "Meaning of \u0027Loquacious\u0027?",
+                        "q": "Meaning of 'Loquacious'?",
                         "options": [
                             "Silent",
                             "Talkative",
@@ -24357,7 +26261,7 @@
                         "explanation": "An orphan is a child whose parents are deceased."
                     },
                     {
-                        "q": "What is \u0027Frugal\u0027?",
+                        "q": "What is 'Frugal'?",
                         "options": [
                             "Extravagant",
                             "Economical/thrifty",
@@ -24368,7 +26272,7 @@
                         "explanation": "Simple and plain and costing little."
                     },
                     {
-                        "q": "Meaning of \u0027Apathy\u0027?",
+                        "q": "Meaning of 'Apathy'?",
                         "options": [
                             "Empathy",
                             "Lack of interest or concern",
@@ -24390,7 +26294,7 @@
                         "explanation": "Pessimism is the tendency to see the worst aspect of things."
                     },
                     {
-                        "q": "What is \u0027Enigma\u0027?",
+                        "q": "What is 'Enigma'?",
                         "options": [
                             "Solution",
                             "Mystery/Puzzle",
@@ -24401,7 +26305,7 @@
                         "explanation": "A person or thing that is mysterious or difficult to understand."
                     },
                     {
-                        "q": "Meaning of \u0027Robust\u0027?",
+                        "q": "Meaning of 'Robust'?",
                         "options": [
                             "Weak",
                             "Strong and healthy",
@@ -24420,10 +26324,10 @@
                             "Omnivore"
                         ],
                         "answer": 1,
-                        "explanation": "Cannibalism is the act of eating one\u0027s own species."
+                        "explanation": "Cannibalism is the act of eating one's own species."
                     },
                     {
-                        "q": "What is \u0027Inevitable\u0027?",
+                        "q": "What is 'Inevitable'?",
                         "options": [
                             "Possible",
                             "Unavoidable",
@@ -24434,7 +26338,7 @@
                         "explanation": "Certain to happen; unavoidable."
                     },
                     {
-                        "q": "Meaning of \u0027Belligerent\u0027?",
+                        "q": "Meaning of 'Belligerent'?",
                         "options": [
                             "Peaceful",
                             "Hostile and aggressive",
@@ -24456,7 +26360,7 @@
                         "explanation": "An amateur does it for the love of the activity."
                     },
                     {
-                        "q": "What is \u0027Anachronism\u0027?",
+                        "q": "What is 'Anachronism'?",
                         "options": [
                             "Modern",
                             "Out of place in time",
@@ -24467,7 +26371,7 @@
                         "explanation": "Something belonging to a period other than that in which it exists."
                     },
                     {
-                        "q": "Meaning of \u0027Capricious\u0027?",
+                        "q": "Meaning of 'Capricious'?",
                         "options": [
                             "Stable",
                             "Fickle/Changeable",
@@ -24489,7 +26393,7 @@
                         "explanation": "Voyage specifically refers to water travel."
                     },
                     {
-                        "q": "What is \u0027Zeal\u0027?",
+                        "q": "What is 'Zeal'?",
                         "options": [
                             "Boredom",
                             "Great energy or enthusiasm",
@@ -24500,7 +26404,7 @@
                         "explanation": "Great energy or enthusiasm in pursuit of a cause or an objective."
                     },
                     {
-                        "q": "Meaning of \u0027Lucid\u0027?",
+                        "q": "Meaning of 'Lucid'?",
                         "options": [
                             "Confusing",
                             "Clear and easy to understand",
@@ -24522,7 +26426,7 @@
                         "explanation": "Centenarian is someone who is 100 years old or more."
                     },
                     {
-                        "q": "What is \u0027Benevolent\u0027?",
+                        "q": "What is 'Benevolent'?",
                         "options": [
                             "Cruel",
                             "Charitable/Kind",
@@ -24533,7 +26437,7 @@
                         "explanation": "Well-meaning and kindly."
                     },
                     {
-                        "q": "Meaning of \u0027Fastidious\u0027?",
+                        "q": "Meaning of 'Fastidious'?",
                         "options": [
                             "Quick",
                             "Very attentive to detail/Hard to please",
@@ -24555,7 +26459,7 @@
                         "explanation": "Fables often use animals as characters to teach morals."
                     },
                     {
-                        "q": "What is \u0027Venerable\u0027?",
+                        "q": "What is 'Venerable'?",
                         "options": [
                             "Young",
                             "Deserving great respect",
@@ -24566,7 +26470,7 @@
                         "explanation": "Accorded a great deal of respect, especially because of age or wisdom."
                     },
                     {
-                        "q": "Meaning of \u0027Taciturn\u0027?",
+                        "q": "Meaning of 'Taciturn'?",
                         "options": [
                             "Talkative",
                             "Reserved/Quiet",
@@ -24588,7 +26492,7 @@
                         "explanation": "Living or occurring at the same time."
                     },
                     {
-                        "q": "What is \u0027Opulent\u0027?",
+                        "q": "What is 'Opulent'?",
                         "options": [
                             "Poor",
                             "Wealthy/Luxurious",
@@ -24599,7 +26503,7 @@
                         "explanation": "Ostentatiously rich and luxurious or lavish."
                     },
                     {
-                        "q": "Meaning of \u0027Insolent\u0027?",
+                        "q": "Meaning of 'Insolent'?",
                         "options": [
                             "Polite",
                             "Rude and disrespectful",
@@ -24621,7 +26525,7 @@
                         "explanation": "No longer produced or used."
                     },
                     {
-                        "q": "What is \u0027Egalitarian\u0027?",
+                        "q": "What is 'Egalitarian'?",
                         "options": [
                             "Dictatorial",
                             "Believing in equality",
@@ -24632,7 +26536,7 @@
                         "explanation": "Believing in the principle that all people are equal."
                     },
                     {
-                        "q": "Meaning of \u0027Munificent\u0027?",
+                        "q": "Meaning of 'Munificent'?",
                         "options": [
                             "Stingy",
                             "Very generous",
@@ -24654,7 +26558,7 @@
                         "explanation": "Premiere is the debut."
                     },
                     {
-                        "q": "What is \u0027Sagacious\u0027?",
+                        "q": "What is 'Sagacious'?",
                         "options": [
                             "Foolish",
                             "Wise/Shrewd",
@@ -24665,7 +26569,7 @@
                         "explanation": "Having or showing keen mental discernment and good judgment."
                     },
                     {
-                        "q": "Meaning of \u0027Opaque\u0027?",
+                        "q": "Meaning of 'Opaque'?",
                         "options": [
                             "Transparent",
                             "Not able to be seen through",
@@ -24687,7 +26591,7 @@
                         "explanation": "A person new to and inexperienced in a job or situation."
                     },
                     {
-                        "q": "What is \u0027Altruistic\u0027?",
+                        "q": "What is 'Altruistic'?",
                         "options": [
                             "Selfish",
                             "Unselfish/Selfless",
@@ -24698,7 +26602,7 @@
                         "explanation": "Showing a disinterested and selfless concern for the well-being of others."
                     },
                     {
-                        "q": "Meaning of \u0027Cacophony\u0027?",
+                        "q": "Meaning of 'Cacophony'?",
                         "options": [
                             "Melody",
                             "Harsh discordant mixture of sounds",
@@ -24709,7 +26613,7 @@
                         "explanation": "A harsh, discordant mixture of sounds."
                     },
                     {
-                        "q": "Which of these is a synonym for \u0027Abundant\u0027?",
+                        "q": "Which of these is a synonym for 'Abundant'?",
                         "options": [
                             "Plentiful",
                             "Rare",
@@ -24720,7 +26624,7 @@
                         "explanation": "Existing or available in large quantities."
                     },
                     {
-                        "q": "What is the meaning of \u0027Diligent\u0027?",
+                        "q": "What is the meaning of 'Diligent'?",
                         "options": [
                             "Lazy",
                             "Hardworking",
@@ -24728,7 +26632,7 @@
                             "Weak"
                         ],
                         "answer": 1,
-                        "explanation": "Having or showing care and conscientiousness in one\u0027s work."
+                        "explanation": "Having or showing care and conscientiousness in one's work."
                     },
                     {
                         "q": "What do you call a person who eats both plants and animals?",
@@ -24750,16 +26654,16 @@
                             "Citizen"
                         ],
                         "answer": 1,
-                        "explanation": "One who loves, supports, and defends one\u0027s country."
+                        "explanation": "One who loves, supports, and defends one's country."
                     }
                 ]
             },
             {
-                "category": "Synonyms \u0026 Antonyms",
+                "category": "Synonyms & Antonyms",
                 "icon": "fa-arrows-left-right",
                 "questions": [
                     {
-                        "q": "What is a synonym for \u0027Diligent\u0027?",
+                        "q": "What is a synonym for 'Diligent'?",
                         "options": [
                             "Lazy",
                             "Hardworking",
@@ -24767,10 +26671,10 @@
                             "Weak"
                         ],
                         "answer": 1,
-                        "explanation": "Diligence means showing care and effort in one\u0027s work."
+                        "explanation": "Diligence means showing care and effort in one's work."
                     },
                     {
-                        "q": "What is the antonym of \u0027Extravagant\u0027?",
+                        "q": "What is the antonym of 'Extravagant'?",
                         "options": [
                             "Expensive",
                             "Frugal",
@@ -24781,7 +26685,7 @@
                         "explanation": "Frugal means sparing or economical with regard to money/food."
                     },
                     {
-                        "q": "Synonym of \u0027Fragile\u0027?",
+                        "q": "Synonym of 'Fragile'?",
                         "options": [
                             "Durable",
                             "Delicate",
@@ -24792,7 +26696,7 @@
                         "explanation": "Delicate and fragile both mean easily damaged."
                     },
                     {
-                        "q": "Antonym of \u0027Optimistic\u0027?",
+                        "q": "Antonym of 'Optimistic'?",
                         "options": [
                             "Positive",
                             "Hopeful",
@@ -24803,7 +26707,7 @@
                         "explanation": "A pessimist looks on the negative side of things."
                     },
                     {
-                        "q": "Synonym of \u0027Sincere\u0027?",
+                        "q": "Synonym of 'Sincere'?",
                         "options": [
                             "Dishonest",
                             "Genuine",
@@ -24814,7 +26718,7 @@
                         "explanation": "Sincere means free from pretense or deceit."
                     },
                     {
-                        "q": "Antonym of \u0027Ancient\u0027?",
+                        "q": "Antonym of 'Ancient'?",
                         "options": [
                             "Old",
                             "Antique",
@@ -24825,7 +26729,7 @@
                         "explanation": "Modern refers to current times as opposed to the far past."
                     },
                     {
-                        "q": "Synonym of \u0027Brief\u0027?",
+                        "q": "Synonym of 'Brief'?",
                         "options": [
                             "Long",
                             "Short",
@@ -24836,7 +26740,7 @@
                         "explanation": "Brief means for a short duration."
                     },
                     {
-                        "q": "Antonym of \u0027Vague\u0027?",
+                        "q": "Antonym of 'Vague'?",
                         "options": [
                             "Unclear",
                             "Clear",
@@ -24847,7 +26751,7 @@
                         "explanation": "Clear is the opposite of vague/unclear."
                     },
                     {
-                        "q": "Synonym of \u0027Abandon\u0027?",
+                        "q": "Synonym of 'Abandon'?",
                         "options": [
                             "Keep",
                             "Forsake",
@@ -24858,7 +26762,7 @@
                         "explanation": "To forsake or leave behind completely."
                     },
                     {
-                        "q": "Antonym of \u0027Abundant\u0027?",
+                        "q": "Antonym of 'Abundant'?",
                         "options": [
                             "Plentiful",
                             "Scarce",
@@ -24869,7 +26773,7 @@
                         "explanation": "Scarce means insufficient for the demand."
                     },
                     {
-                        "q": "Choose the synonym for \u0027Abandon\u0027:",
+                        "q": "Choose the synonym for 'Abandon':",
                         "options": [
                             "Keep",
                             "Support",
@@ -24877,10 +26781,10 @@
                             "Maintain"
                         ],
                         "answer": 2,
-                        "explanation": "\u0027Forsake\u0027 and \u0027Abandon\u0027 both mean to leave or desert someone or something."
+                        "explanation": "'Forsake' and 'Abandon' both mean to leave or desert someone or something."
                     },
                     {
-                        "q": "What is the synonym of \u0027Benevolent\u0027?",
+                        "q": "What is the synonym of 'Benevolent'?",
                         "options": [
                             "Cruel",
                             "Kind",
@@ -24891,7 +26795,7 @@
                         "explanation": "Benevolent means well-meaning and kindly."
                     },
                     {
-                        "q": "Choose the antonym for \u0027Artificial\u0027:",
+                        "q": "Choose the antonym for 'Artificial':",
                         "options": [
                             "Man-made",
                             "Natural",
@@ -24902,7 +26806,7 @@
                         "explanation": "Natural is the opposite of artificial."
                     },
                     {
-                        "q": "What is the synonym of \u0027Fragile\u0027?",
+                        "q": "What is the synonym of 'Fragile'?",
                         "options": [
                             "Strong",
                             "Delicate",
@@ -24913,7 +26817,7 @@
                         "explanation": "Fragile and delicate both mean easily broken."
                     },
                     {
-                        "q": "Find the antonym of \u0027Victory\u0027:",
+                        "q": "Find the antonym of 'Victory':",
                         "options": [
                             "Triumph",
                             "Success",
@@ -24924,7 +26828,7 @@
                         "explanation": "Defeat is the loss or failure in a contest."
                     },
                     {
-                        "q": "What is the synonym of \u0027Huge\u0027?",
+                        "q": "What is the synonym of 'Huge'?",
                         "options": [
                             "Tiny",
                             "Giant",
@@ -24935,7 +26839,7 @@
                         "explanation": "Giant and huge describe very large size."
                     },
                     {
-                        "q": "Choose the antonym for \u0027Beautiful\u0027:",
+                        "q": "Choose the antonym for 'Beautiful':",
                         "options": [
                             "Pretty",
                             "Lovely",
@@ -24946,7 +26850,7 @@
                         "explanation": "Ugly is the opposite of beautiful."
                     },
                     {
-                        "q": "What is the synonym of \u0027Fast\u0027?",
+                        "q": "What is the synonym of 'Fast'?",
                         "options": [
                             "Slow",
                             "Quick",
@@ -24957,7 +26861,7 @@
                         "explanation": "Quick and fast are synonyms."
                     },
                     {
-                        "q": "Find the antonym of \u0027Expand\u0027:",
+                        "q": "Find the antonym of 'Expand':",
                         "options": [
                             "Increase",
                             "Shrink",
@@ -24968,7 +26872,7 @@
                         "explanation": "Shrink means to become smaller, opposite of expanding."
                     },
                     {
-                        "q": "What is the synonym of \u0027Silent\u0027?",
+                        "q": "What is the synonym of 'Silent'?",
                         "options": [
                             "Noisy",
                             "Quiet",
@@ -24979,7 +26883,7 @@
                         "explanation": "Quiet is a synonym for silent."
                     },
                     {
-                        "q": "Choose the antonym for \u0027Ancient\u0027:",
+                        "q": "Choose the antonym for 'Ancient':",
                         "options": [
                             "Old",
                             "Modern",
@@ -24990,7 +26894,7 @@
                         "explanation": "Modern refers to current times, opposite of ancient."
                     },
                     {
-                        "q": "What is the synonym of \u0027Valiant\u0027?",
+                        "q": "What is the synonym of 'Valiant'?",
                         "options": [
                             "Cowardly",
                             "Brave",
@@ -25001,7 +26905,7 @@
                         "explanation": "Valiant means having or showing courage."
                     },
                     {
-                        "q": "Find the antonym of \u0027Public\u0027:",
+                        "q": "Find the antonym of 'Public':",
                         "options": [
                             "Open",
                             "Private",
@@ -25012,7 +26916,7 @@
                         "explanation": "Private belongs to an individual, not the public."
                     },
                     {
-                        "q": "What is the synonym of \u0027Wealthy\u0027?",
+                        "q": "What is the synonym of 'Wealthy'?",
                         "options": [
                             "Poor",
                             "Rich",
@@ -25023,7 +26927,7 @@
                         "explanation": "Rich and wealthy are synonyms."
                     },
                     {
-                        "q": "Choose the antonym for \u0027Entrance\u0027:",
+                        "q": "Choose the antonym for 'Entrance':",
                         "options": [
                             "Gate",
                             "Door",
@@ -25034,7 +26938,7 @@
                         "explanation": "Exit is the way out, opposite of entrance."
                     },
                     {
-                        "q": "What is the synonym of \u0027Correct\u0027?",
+                        "q": "What is the synonym of 'Correct'?",
                         "options": [
                             "Wrong",
                             "Right",
@@ -25045,7 +26949,7 @@
                         "explanation": "Right and correct are synonyms."
                     },
                     {
-                        "q": "Find the antonym of \u0027Accept\u0027:",
+                        "q": "Find the antonym of 'Accept':",
                         "options": [
                             "Take",
                             "Refuse",
@@ -25056,18 +26960,18 @@
                         "explanation": "Refuse is the opposite of accepting something."
                     },
                     {
-                        "q": "What is the synonym of \u0027Difficult\u0027?",
+                        "q": "What is the synonym of 'Difficult'?",
                         "options": [
                             "Easy",
                             "Simple",
                             "Hard",
-                            "Child\u0027s play"
+                            "Child's play"
                         ],
                         "answer": 2,
                         "explanation": "Hard and difficult describe something not easy to do."
                     },
                     {
-                        "q": "Choose the antonym for \u0027Junior\u0027:",
+                        "q": "Choose the antonym for 'Junior':",
                         "options": [
                             "Small",
                             "Superior",
@@ -25078,7 +26982,7 @@
                         "explanation": "Senior is the opposite ranking of junior."
                     },
                     {
-                        "q": "Find the antonym of \u0027External\u0027:",
+                        "q": "Find the antonym of 'External':",
                         "options": [
                             "Outside",
                             "Internal",
@@ -25089,7 +26993,7 @@
                         "explanation": "Internal refers to the inside, opposite of external."
                     },
                     {
-                        "q": "Synonym of \u0027Abundant\u0027?",
+                        "q": "Synonym of 'Abundant'?",
                         "options": [
                             "Scarce",
                             "Plentiful",
@@ -25100,7 +27004,7 @@
                         "explanation": "Plentiful means existing in great quantity."
                     },
                     {
-                        "q": "Antonym of \u0027Artificial\u0027?",
+                        "q": "Antonym of 'Artificial'?",
                         "options": [
                             "Natural",
                             "Fake",
@@ -25111,7 +27015,7 @@
                         "explanation": "Natural is the opposite of artificial."
                     },
                     {
-                        "q": "Synonym of \u0027Hostile\u0027?",
+                        "q": "Synonym of 'Hostile'?",
                         "options": [
                             "Friendly",
                             "Aggressive",
@@ -25122,7 +27026,7 @@
                         "explanation": "Hostile means unfriendly or antagonistic."
                     },
                     {
-                        "q": "Antonym of \u0027Bold\u0027?",
+                        "q": "Antonym of 'Bold'?",
                         "options": [
                             "Brave",
                             "Timid",
@@ -25133,7 +27037,7 @@
                         "explanation": "Timid means lacking courage or confidence."
                     },
                     {
-                        "q": "Synonym of \u0027Drowsy\u0027?",
+                        "q": "Synonym of 'Drowsy'?",
                         "options": [
                             "Alert",
                             "Sleepy",
@@ -25144,7 +27048,7 @@
                         "explanation": "Drowsy means sleepy and lethargic."
                     },
                     {
-                        "q": "Antonym of \u0027Lithe\u0027?",
+                        "q": "Antonym of 'Lithe'?",
                         "options": [
                             "Flexible",
                             "Stiff",
@@ -25155,7 +27059,7 @@
                         "explanation": "Lithe means thin, supple, and graceful; stiff is the opposite."
                     },
                     {
-                        "q": "Synonym of \u0027Expose\u0027?",
+                        "q": "Synonym of 'Expose'?",
                         "options": [
                             "Hide",
                             "Reveal",
@@ -25166,7 +27070,7 @@
                         "explanation": "To expose is to make something visible by uncovering it."
                     },
                     {
-                        "q": "Antonym of \u0027Ignorant\u0027?",
+                        "q": "Antonym of 'Ignorant'?",
                         "options": [
                             "Illiterate",
                             "Educated",
@@ -25177,7 +27081,7 @@
                         "explanation": "Educated is the opposite of being ignorant or lacking knowledge."
                     },
                     {
-                        "q": "Synonym of \u0027Grief\u0027?",
+                        "q": "Synonym of 'Grief'?",
                         "options": [
                             "Joy",
                             "Sorrow",
@@ -25188,7 +27092,7 @@
                         "explanation": "Grief is intense sorrow caused by loss."
                     },
                     {
-                        "q": "Antonym of \u0027Arrival\u0027?",
+                        "q": "Antonym of 'Arrival'?",
                         "options": [
                             "Entrance",
                             "Departure",
@@ -25199,7 +27103,7 @@
                         "explanation": "Departure is the act of leaving, opposite of arrival."
                     },
                     {
-                        "q": "Synonym of \u0027Vibrant\u0027?",
+                        "q": "Synonym of 'Vibrant'?",
                         "options": [
                             "Dull",
                             "Energetic",
@@ -25210,7 +27114,7 @@
                         "explanation": "Vibrant means full of energy and enthusiasm."
                     },
                     {
-                        "q": "Antonym of \u0027Cruel\u0027?",
+                        "q": "Antonym of 'Cruel'?",
                         "options": [
                             "Mean",
                             "Kind",
@@ -25221,7 +27125,7 @@
                         "explanation": "Kind is the opposite of being cruel or causing pain."
                     },
                     {
-                        "q": "Synonym of \u0027Obstacle\u0027?",
+                        "q": "Synonym of 'Obstacle'?",
                         "options": [
                             "Path",
                             "Barrier",
@@ -25229,10 +27133,10 @@
                             "Aid"
                         ],
                         "answer": 1,
-                        "explanation": "An obstacle is a thing that blocks one\u0027s way."
+                        "explanation": "An obstacle is a thing that blocks one's way."
                     },
                     {
-                        "q": "Antonym of \u0027Miser\u0027?",
+                        "q": "Antonym of 'Miser'?",
                         "options": [
                             "Spendthrift",
                             "Niggard",
@@ -25243,7 +27147,7 @@
                         "explanation": "A spendthrift is a person who spends money in an extravagant way."
                     },
                     {
-                        "q": "Synonym of \u0027Pardon\u0027?",
+                        "q": "Synonym of 'Pardon'?",
                         "options": [
                             "Punish",
                             "Forgive",
@@ -25254,7 +27158,7 @@
                         "explanation": "Pardon means to forgive or excuse."
                     },
                     {
-                        "q": "Antonym of \u0027Barren\u0027?",
+                        "q": "Antonym of 'Barren'?",
                         "options": [
                             "Empty",
                             "Fertile",
@@ -25265,7 +27169,7 @@
                         "explanation": "Fertile means producing or capable of producing abundant vegetation."
                     },
                     {
-                        "q": "Synonym of \u0027Genuine\u0027?",
+                        "q": "Synonym of 'Genuine'?",
                         "options": [
                             "Authentic",
                             "Fake",
@@ -25276,7 +27180,7 @@
                         "explanation": "Genuine means truly what something is said to be; authentic."
                     },
                     {
-                        "q": "Antonym of \u0027Unity\u0027?",
+                        "q": "Antonym of 'Unity'?",
                         "options": [
                             "Harmony",
                             "Division",
@@ -25287,7 +27191,7 @@
                         "explanation": "Division is the opposite of being together or united."
                     },
                     {
-                        "q": "Synonym of \u0027Feeble\u0027?",
+                        "q": "Synonym of 'Feeble'?",
                         "options": [
                             "Strong",
                             "Weak",
@@ -25298,7 +27202,7 @@
                         "explanation": "Feeble means lacking physical strength."
                     },
                     {
-                        "q": "Antonym of \u0027Success\u0027?",
+                        "q": "Antonym of 'Success'?",
                         "options": [
                             "Victory",
                             "Failure",
@@ -25309,7 +27213,7 @@
                         "explanation": "Failure is the opposite of success."
                     },
                     {
-                        "q": "Synonym of \u0027Imitate\u0027?",
+                        "q": "Synonym of 'Imitate'?",
                         "options": [
                             "Lead",
                             "Copy",
@@ -25320,7 +27224,7 @@
                         "explanation": "To imitate is to take or follow as a model."
                     },
                     {
-                        "q": "Antonym of \u0027Transparent\u0027?",
+                        "q": "Antonym of 'Transparent'?",
                         "options": [
                             "Clear",
                             "Opaque",
@@ -25331,7 +27235,7 @@
                         "explanation": "Opaque means not able to be seen through."
                     },
                     {
-                        "q": "Synonym of \u0027Ample\u0027?",
+                        "q": "Synonym of 'Ample'?",
                         "options": [
                             "Enough",
                             "Scarce",
@@ -25342,7 +27246,7 @@
                         "explanation": "Ample means plentiful or enough."
                     },
                     {
-                        "q": "Antonym of \u0027Pride\u0027?",
+                        "q": "Antonym of 'Pride'?",
                         "options": [
                             "Vanity",
                             "Humility",
@@ -25353,7 +27257,7 @@
                         "explanation": "Humility is the quality of being humble."
                     },
                     {
-                        "q": "Synonym of \u0027Cease\u0027?",
+                        "q": "Synonym of 'Cease'?",
                         "options": [
                             "Start",
                             "Stop",
@@ -25364,7 +27268,7 @@
                         "explanation": "Cease means to bring or come to an end."
                     },
                     {
-                        "q": "Antonym of \u0027Major\u0027?",
+                        "q": "Antonym of 'Major'?",
                         "options": [
                             "Huge",
                             "Minor",
@@ -25375,7 +27279,7 @@
                         "explanation": "Minor means lesser in importance or size."
                     },
                     {
-                        "q": "Synonym of \u0027Comply\u0027?",
+                        "q": "Synonym of 'Comply'?",
                         "options": [
                             "Refuse",
                             "Follow/Obey",
@@ -25386,7 +27290,7 @@
                         "explanation": "To comply is to act in accordance with a wish or command."
                     },
                     {
-                        "q": "Antonym of \u0027Rough\u0027?",
+                        "q": "Antonym of 'Rough'?",
                         "options": [
                             "Smooth",
                             "Bumpy",
@@ -25397,7 +27301,7 @@
                         "explanation": "Smooth is the opposite of rough."
                     },
                     {
-                        "q": "Synonym of \u0027Abolish\u0027?",
+                        "q": "Synonym of 'Abolish'?",
                         "options": [
                             "Retain",
                             "Cancel/Eliminate",
@@ -25408,7 +27312,7 @@
                         "explanation": "Abolish means to formally put an end to a system or practice."
                     },
                     {
-                        "q": "Antonym of \u0027Glow\u0027?",
+                        "q": "Antonym of 'Glow'?",
                         "options": [
                             "Shine",
                             "Tarnish/Dull",
@@ -25419,7 +27323,7 @@
                         "explanation": "Tarnish or dull is the opposite of glowing or shining."
                     },
                     {
-                        "q": "Synonym of \u0027Consent\u0027?",
+                        "q": "Synonym of 'Consent'?",
                         "options": [
                             "Disagreement",
                             "Permission",
@@ -25430,7 +27334,7 @@
                         "explanation": "Consent is permission for something to happen."
                     },
                     {
-                        "q": "Antonym of \u0027Attack\u0027?",
+                        "q": "Antonym of 'Attack'?",
                         "options": [
                             "Offense",
                             "Defense",
@@ -25441,7 +27345,7 @@
                         "explanation": "Defense is the act of resisting an attack."
                     },
                     {
-                        "q": "Synonym of \u0027Drowsy\u0027?",
+                        "q": "Synonym of 'Drowsy'?",
                         "options": [
                             "Alert",
                             "Sleepy",
@@ -25452,7 +27356,7 @@
                         "explanation": "Drowsy means being in a state of sleepiness."
                     },
                     {
-                        "q": "Antonym of \u0027Exotic\u0027?",
+                        "q": "Antonym of 'Exotic'?",
                         "options": [
                             "Native/Ordinary",
                             "Foreign",
@@ -25463,7 +27367,7 @@
                         "explanation": "Ordinary or native is the opposite of exotic."
                     },
                     {
-                        "q": "Synonym of \u0027Frigid\u0027?",
+                        "q": "Synonym of 'Frigid'?",
                         "options": [
                             "Warm",
                             "Very Cold",
@@ -25474,7 +27378,7 @@
                         "explanation": "Frigid means very cold in temperature."
                     },
                     {
-                        "q": "Antonym of \u0027Lazy\u0027?",
+                        "q": "Antonym of 'Lazy'?",
                         "options": [
                             "Idle",
                             "Industrious",
@@ -25485,7 +27389,7 @@
                         "explanation": "Industrious means diligent and hardworking."
                     },
                     {
-                        "q": "Synonym of \u0027Mortal\u0027?",
+                        "q": "Synonym of 'Mortal'?",
                         "options": [
                             "Immortal",
                             "Deadly",
@@ -25496,7 +27400,7 @@
                         "explanation": "Mortal means causing or liable to cause death."
                     },
                     {
-                        "q": "Antonym of \u0027Noble\u0027?",
+                        "q": "Antonym of 'Noble'?",
                         "options": [
                             "Humble",
                             "Ignoble/Mean",
@@ -25507,7 +27411,7 @@
                         "explanation": "Ignoble means not honorable in character or purpose."
                     },
                     {
-                        "q": "Synonym of \u0027Precise\u0027?",
+                        "q": "Synonym of 'Precise'?",
                         "options": [
                             "Exact",
                             "Vague",
@@ -25518,7 +27422,7 @@
                         "explanation": "Precise means marked by exactness and accuracy of expression."
                     },
                     {
-                        "q": "Antonym of \u0027Prosperity\u0027?",
+                        "q": "Antonym of 'Prosperity'?",
                         "options": [
                             "Wealth",
                             "Poverty",
@@ -25529,7 +27433,7 @@
                         "explanation": "Poverty is the state of being extremely poor."
                     },
                     {
-                        "q": "Synonym of \u0027Resistant\u0027?",
+                        "q": "Synonym of 'Resistant'?",
                         "options": [
                             "Yielding",
                             "Defiant/Opposing",
@@ -25540,7 +27444,7 @@
                         "explanation": "Offering resistance to something or someone."
                     },
                     {
-                        "q": "Antonym of \u0027Stale\u0027?",
+                        "q": "Antonym of 'Stale'?",
                         "options": [
                             "Old",
                             "Fresh",
@@ -25551,7 +27455,7 @@
                         "explanation": "Fresh is the opposite of stale (food)."
                     },
                     {
-                        "q": "Synonym of \u0027Timid\u0027?",
+                        "q": "Synonym of 'Timid'?",
                         "options": [
                             "Bold",
                             "Shy",
@@ -25562,7 +27466,7 @@
                         "explanation": "Timid means showing a lack of courage or confidence."
                     },
                     {
-                        "q": "Antonym of \u0027Wild\u0027?",
+                        "q": "Antonym of 'Wild'?",
                         "options": [
                             "Tame",
                             "Savage",
@@ -25573,7 +27477,7 @@
                         "explanation": "Tame means domesticated; not wild."
                     },
                     {
-                        "q": "Synonym of \u0027Yell\u0027?",
+                        "q": "Synonym of 'Yell'?",
                         "options": [
                             "Whisper",
                             "Shout",
@@ -25584,7 +27488,7 @@
                         "explanation": "To yell is to shout in a loud, sharp way."
                     },
                     {
-                        "q": "Antonym of \u0027Arid\u0027?",
+                        "q": "Antonym of 'Arid'?",
                         "options": [
                             "Dry",
                             "Wet/Humid",
@@ -25595,7 +27499,7 @@
                         "explanation": "Humid or wet is the opposite of arid (excessively dry)."
                     },
                     {
-                        "q": "Synonym of \u0027Vanity\u0027?",
+                        "q": "Synonym of 'Vanity'?",
                         "options": [
                             "Pride",
                             "Modesty",
@@ -25603,10 +27507,10 @@
                             "Shame"
                         ],
                         "answer": 0,
-                        "explanation": "Vanity is excessive pride in one\u0027s own appearance or achievements."
+                        "explanation": "Vanity is excessive pride in one's own appearance or achievements."
                     },
                     {
-                        "q": "Antonym of \u0027Generous\u0027?",
+                        "q": "Antonym of 'Generous'?",
                         "options": [
                             "Kind",
                             "Greedy/Stingy",
@@ -25617,7 +27521,7 @@
                         "explanation": "Stingy means not generous with money."
                     },
                     {
-                        "q": "Synonym of \u0027Brief\u0027?",
+                        "q": "Synonym of 'Brief'?",
                         "options": [
                             "Concise",
                             "Verbose",
@@ -25628,7 +27532,7 @@
                         "explanation": "Concise means giving information clearly and in few words."
                     },
                     {
-                        "q": "What is a synonym for \u0027Authentic\u0027?",
+                        "q": "What is a synonym for 'Authentic'?",
                         "options": [
                             "Fake",
                             "Genuine",
@@ -25641,11 +27545,11 @@
                 ]
             },
             {
-                "category": "Idioms \u0026 Phrases",
+                "category": "Idioms & Phrases",
                 "icon": "fa-comment-dots",
                 "questions": [
                     {
-                        "q": "What does \u0027A piece of cake\u0027 mean?",
+                        "q": "What does 'A piece of cake' mean?",
                         "options": [
                             "Something delicious",
                             "A very easy task",
@@ -25656,7 +27560,7 @@
                         "explanation": "It refers to an action that can be performed very easily."
                     },
                     {
-                        "q": "Meaning of \u0027Under the weather\u0027?",
+                        "q": "Meaning of 'Under the weather'?",
                         "options": [
                             "Enjoying rain",
                             "Feeling sick",
@@ -25667,7 +27571,7 @@
                         "explanation": "Used to say that someone is feeling ill."
                     },
                     {
-                        "q": "What is \u0027Beat around the bush\u0027?",
+                        "q": "What is 'Beat around the bush'?",
                         "options": [
                             "Avoid talking about the main topic",
                             "Cutting trees",
@@ -25675,10 +27579,10 @@
                             "Talking loudly"
                         ],
                         "answer": 0,
-                        "explanation": "Avoiding the main point typically because it\u0027s uncomfortable."
+                        "explanation": "Avoiding the main point typically because it's uncomfortable."
                     },
                     {
-                        "q": "Meaning of \u0027Once in a blue moon\u0027?",
+                        "q": "Meaning of 'Once in a blue moon'?",
                         "options": [
                             "Every night",
                             "Very rarely",
@@ -25689,7 +27593,7 @@
                         "explanation": "An event that happens very infrequently."
                     },
                     {
-                        "q": "What does \u0027Break a leg\u0027 mean?",
+                        "q": "What does 'Break a leg' mean?",
                         "options": [
                             "Get injured",
                             "Good luck",
@@ -25700,7 +27604,7 @@
                         "explanation": "Commonly said to performers before they go on stage."
                     },
                     {
-                        "q": "Meaning of \u0027Crying over spilt milk\u0027?",
+                        "q": "Meaning of 'Crying over spilt milk'?",
                         "options": [
                             "Buying milk",
                             "Worrying about past mistakes that cannot be fixed",
@@ -25708,10 +27612,10 @@
                             "Cleaning floor"
                         ],
                         "answer": 1,
-                        "explanation": "There\u0027s no point in being upset about things that have already happened."
+                        "explanation": "There's no point in being upset about things that have already happened."
                     },
                     {
-                        "q": "What is \u0027To cost an arm and a leg\u0027?",
+                        "q": "What is 'To cost an arm and a leg'?",
                         "options": [
                             "To be cheap",
                             "To be very expensive",
@@ -25722,18 +27626,18 @@
                         "explanation": "Refers to a price that is very high."
                     },
                     {
-                        "q": "Meaning of \u0027Hit the nail on the head\u0027?",
+                        "q": "Meaning of 'Hit the nail on the head'?",
                         "options": [
                             "Driving a nail",
                             "To be exactly right",
                             "Making a mistake",
-                            "Hurting one\u0027s hand"
+                            "Hurting one's hand"
                         ],
                         "answer": 1,
                         "explanation": "To describe exactly what is causing a situation or problem."
                     },
                     {
-                        "q": "What does \u0027Kill two birds with one stone\u0027 mean?",
+                        "q": "What does 'Kill two birds with one stone' mean?",
                         "options": [
                             "Hunting",
                             "Solving two problems at the same time",
@@ -25744,7 +27648,7 @@
                         "explanation": "Accomplishing two different things at the same time."
                     },
                     {
-                        "q": "Meaning of \u0027Let the cat out of the bag\u0027?",
+                        "q": "Meaning of 'Let the cat out of the bag'?",
                         "options": [
                             "Freeing a pet",
                             "Reveal a secret accidentally",
@@ -25755,7 +27659,7 @@
                         "explanation": "Revealing information that was intended to be kept secret."
                     },
                     {
-                        "q": "What does \u0027Under the weather\u0027 mean?",
+                        "q": "What does 'Under the weather' mean?",
                         "options": [
                             "Feeling sick",
                             "Enjoying rain",
@@ -25766,7 +27670,7 @@
                         "explanation": "If you are under the weather, you feel slightly ill."
                     },
                     {
-                        "q": "Meaning of \u0027Once in a blue moon\u0027?",
+                        "q": "Meaning of 'Once in a blue moon'?",
                         "options": [
                             "Regularly",
                             "Very rarely",
@@ -25777,7 +27681,7 @@
                         "explanation": "It refers to an event that happens very infrequently."
                     },
                     {
-                        "q": "What does \u0027Beat around the bush\u0027 mean?",
+                        "q": "What does 'Beat around the bush' mean?",
                         "options": [
                             "Avoiding the main topic",
                             "Cutting grass",
@@ -25785,10 +27689,10 @@
                             "Talking clearly"
                         ],
                         "answer": 0,
-                        "explanation": "Avoiding the main point typically because it\u0027s uncomfortable."
+                        "explanation": "Avoiding the main point typically because it's uncomfortable."
                     },
                     {
-                        "q": "Meaning of \u0027A blessing in disguise\u0027?",
+                        "q": "Meaning of 'A blessing in disguise'?",
                         "options": [
                             "A bad thing that turns out good",
                             "A religious gift",
@@ -25799,7 +27703,7 @@
                         "explanation": "A misfortune that eventually results in something good."
                     },
                     {
-                        "q": "What is \u0027The best of both worlds\u0027?",
+                        "q": "What is 'The best of both worlds'?",
                         "options": [
                             "A travel guide",
                             "An ideal situation",
@@ -25810,7 +27714,7 @@
                         "explanation": "A situation where you can enjoy the advantages of two very different things."
                     },
                     {
-                        "q": "Meaning of \u0027Bite off more than you can chew\u0027?",
+                        "q": "Meaning of 'Bite off more than you can chew'?",
                         "options": [
                             "Eating too much",
                             "Taking on a task that is way too big",
@@ -25821,18 +27725,18 @@
                         "explanation": "Trying to do something that is too difficult for you."
                     },
                     {
-                        "q": "What does \u0027Don\u0027t judge a book by its cover\u0027 mean?",
+                        "q": "What does 'Don't judge a book by its cover' mean?",
                         "options": [
                             "Read books",
-                            "Don\u0027t judge by appearances",
+                            "Don't judge by appearances",
                             "Choose good covers",
                             "Library rules"
                         ],
                         "answer": 1,
-                        "explanation": "You shouldn\u0027t form an opinion based only on how something looks."
+                        "explanation": "You shouldn't form an opinion based only on how something looks."
                     },
                     {
-                        "q": "Meaning of \u0027Burn the midnight oil\u0027?",
+                        "q": "Meaning of 'Burn the midnight oil'?",
                         "options": [
                             "Using a lamp",
                             "Working late into the night",
@@ -25843,7 +27747,7 @@
                         "explanation": "To work or study until very late at night."
                     },
                     {
-                        "q": "What is \u0027The elephant in the room\u0027?",
+                        "q": "What is 'The elephant in the room'?",
                         "options": [
                             "A big animal",
                             "A obvious problem no one wants to discuss",
@@ -25854,18 +27758,18 @@
                         "explanation": "An obvious major problem or issue that people are avoiding."
                     },
                     {
-                        "q": "Meaning of \u0027Give someone the cold shoulder\u0027?",
+                        "q": "Meaning of 'Give someone the cold shoulder'?",
                         "options": [
                             "Freezing weather",
                             "Ignore someone",
-                            "Holding someone\u0027s shoulder",
+                            "Holding someone's shoulder",
                             "Helping someone"
                         ],
                         "answer": 1,
                         "explanation": "To intentionally ignore or be unfriendly toward someone."
                     },
                     {
-                        "q": "What does \u0027Break the ice\u0027 mean?",
+                        "q": "What does 'Break the ice' mean?",
                         "options": [
                             "Winter sports",
                             "Start a conversation",
@@ -25876,7 +27780,7 @@
                         "explanation": "To say or do something that makes people feel more relaxed in a social setting."
                     },
                     {
-                        "q": "Meaning of \u0027Call it a day\u0027?",
+                        "q": "Meaning of 'Call it a day'?",
                         "options": [
                             "Name a day",
                             "Stop working on something",
@@ -25887,7 +27791,7 @@
                         "explanation": "Deciding to stop doing something for the rest of the day."
                     },
                     {
-                        "q": "What is \u0027A piece of cake\u0027?",
+                        "q": "What is 'A piece of cake'?",
                         "options": [
                             "Delicious food",
                             "Very easy",
@@ -25898,7 +27802,7 @@
                         "explanation": "Something that is very easy to do."
                     },
                     {
-                        "q": "Meaning of \u0027Get out of hand\u0027?",
+                        "q": "Meaning of 'Get out of hand'?",
                         "options": [
                             "Lose something",
                             "Get out of control",
@@ -25909,7 +27813,7 @@
                         "explanation": "When a situation becomes difficult to manage or regulate."
                     },
                     {
-                        "q": "What does \u0027Back to the drawing board\u0027 mean?",
+                        "q": "What does 'Back to the drawing board' mean?",
                         "options": [
                             "Start over",
                             "Painting",
@@ -25920,7 +27824,7 @@
                         "explanation": "Starting again from the beginning because a previous attempt failed."
                     },
                     {
-                        "q": "Meaning of \u0027Barking up the wrong tree\u0027?",
+                        "q": "Meaning of 'Barking up the wrong tree'?",
                         "options": [
                             "Dog training",
                             "Looking in the wrong place",
@@ -25931,7 +27835,7 @@
                         "explanation": "Following a mistaken line of thought or course of action."
                     },
                     {
-                        "q": "What is \u0027Hit the sack\u0027?",
+                        "q": "What is 'Hit the sack'?",
                         "options": [
                             "Boxing",
                             "Go to sleep",
@@ -25942,7 +27846,7 @@
                         "explanation": "An informal way of saying one is going to bed."
                     },
                     {
-                        "q": "Meaning of \u0027Through thick and thin\u0027?",
+                        "q": "Meaning of 'Through thick and thin'?",
                         "options": [
                             "Weight loss",
                             "In good times and bad times",
@@ -25953,7 +27857,7 @@
                         "explanation": "Staying loyal regardless of the circumstances."
                     },
                     {
-                        "q": "What does \u0027Spill the beans\u0027 mean?",
+                        "q": "What does 'Spill the beans' mean?",
                         "options": [
                             "Cooking error",
                             "Give away a secret",
@@ -25964,10 +27868,10 @@
                         "explanation": "To reveal secret information unintentionally or indiscreetly."
                     },
                     {
-                        "q": "Meaning of \u0027Take it with a grain of salt\u0027?",
+                        "q": "Meaning of 'Take it with a grain of salt'?",
                         "options": [
                             "Adding seasoning",
-                            "Don\u0027t take it too seriously",
+                            "Don't take it too seriously",
                             "Eating healthy",
                             "Preserving food"
                         ],
@@ -25975,10 +27879,10 @@
                         "explanation": "To view something with skepticism or not interpret it literally."
                     },
                     {
-                        "q": "What does \u0027The ball is in your court\u0027 mean?",
+                        "q": "What does 'The ball is in your court' mean?",
                         "options": [
                             "Playing tennis",
-                            "It\u0027s your turn to make a decision",
+                            "It's your turn to make a decision",
                             "Sports competition",
                             "Winning a game"
                         ],
@@ -25986,7 +27890,7 @@
                         "explanation": "It is up to you to take the next step or make a decision."
                     },
                     {
-                        "q": "Meaning of \u0027Bite the bullet\u0027?",
+                        "q": "Meaning of 'Bite the bullet'?",
                         "options": [
                             "Being aggressive",
                             "Endure a painful situation",
@@ -25997,7 +27901,7 @@
                         "explanation": "Accepting something difficult or unpleasant that is unavoidable."
                     },
                     {
-                        "q": "What is \u0027To cut corners\u0027?",
+                        "q": "What is 'To cut corners'?",
                         "options": [
                             "Drawing shapes",
                             "Doing something poorly to save time or money",
@@ -26008,7 +27912,7 @@
                         "explanation": "Doing something in the easiest or cheapest way, often sacrificing quality."
                     },
                     {
-                        "q": "Meaning of \u0027Pull someone\u0027s leg\u0027?",
+                        "q": "Meaning of 'Pull someone's leg'?",
                         "options": [
                             "Physical exercise",
                             "Joking or teasing someone",
@@ -26019,7 +27923,7 @@
                         "explanation": "To play a trick on someone in a playful way."
                     },
                     {
-                        "q": "What does \u0027Wrap your head around something\u0027 mean?",
+                        "q": "What does 'Wrap your head around something' mean?",
                         "options": [
                             "Wearing a hat",
                             "Understand something complex",
@@ -26030,7 +27934,7 @@
                         "explanation": "To find a way to understand or accept something that is difficult."
                     },
                     {
-                        "q": "Meaning of \u0027Straight from the horse\u0027s mouth\u0027?",
+                        "q": "Meaning of 'Straight from the horse's mouth'?",
                         "options": [
                             "Animal sounds",
                             "From a reliable source",
@@ -26041,7 +27945,7 @@
                         "explanation": "Getting information directly from the person involved or a trustworthy source."
                     },
                     {
-                        "q": "What is \u0027A storm in a teacup\u0027?",
+                        "q": "What is 'A storm in a teacup'?",
                         "options": [
                             "Weather forecast",
                             "Big fuss about a small matter",
@@ -26052,7 +27956,7 @@
                         "explanation": "Great excitement or anger about something that is not important."
                     },
                     {
-                        "q": "Meaning of \u0027Burn bridges\u0027?",
+                        "q": "Meaning of 'Burn bridges'?",
                         "options": [
                             "Construction error",
                             "Destroy relationships or paths",
@@ -26063,7 +27967,7 @@
                         "explanation": "To do something that makes it impossible to return to a previous situation."
                     },
                     {
-                        "q": "What does \u0027Put all your eggs in one basket\u0027 mean?",
+                        "q": "What does 'Put all your eggs in one basket' mean?",
                         "options": [
                             "Farming",
                             "Risk everything on one plan",
@@ -26074,10 +27978,10 @@
                         "explanation": "Depending entirely on one single plan or person, which is risky."
                     },
                     {
-                        "q": "Meaning of \u0027Steal someone\u0027s thunder\u0027?",
+                        "q": "Meaning of 'Steal someone's thunder'?",
                         "options": [
                             "Weather event",
-                            "Take credit for someone else\u0027s idea",
+                            "Take credit for someone else's idea",
                             "Being loud",
                             "Robbery"
                         ],
@@ -26085,7 +27989,7 @@
                         "explanation": "To lessen the effect of what someone does by doing it first or taking credit."
                     },
                     {
-                        "q": "What is \u0027To jump the gun\u0027?",
+                        "q": "What is 'To jump the gun'?",
                         "options": [
                             "Olympic sports",
                             "Start too early",
@@ -26096,7 +28000,7 @@
                         "explanation": "Taking action before the appropriate time."
                     },
                     {
-                        "q": "Meaning of \u0027Fit as a fiddle\u0027?",
+                        "q": "Meaning of 'Fit as a fiddle'?",
                         "options": [
                             "Playing music",
                             "Very healthy and strong",
@@ -26107,7 +28011,7 @@
                         "explanation": "To be in excellent physical condition."
                     },
                     {
-                        "q": "What does \u0027Go the extra mile\u0027 mean?",
+                        "q": "What does 'Go the extra mile' mean?",
                         "options": [
                             "Long distance running",
                             "Do more than what is expected",
@@ -26118,10 +28022,10 @@
                         "explanation": "Making a special effort to achieve something."
                     },
                     {
-                        "q": "Meaning of \u0027Under the thumb\u0027?",
+                        "q": "Meaning of 'Under the thumb'?",
                         "options": [
                             "Hand injury",
-                            "Under someone\u0027s control",
+                            "Under someone's control",
                             "Measuring something",
                             "Being small"
                         ],
@@ -26129,7 +28033,7 @@
                         "explanation": "Being completely controlled by someone else."
                     },
                     {
-                        "q": "What is \u0027To see eye to eye\u0027?",
+                        "q": "What is 'To see eye to eye'?",
                         "options": [
                             "Optical test",
                             "To agree completely",
@@ -26140,7 +28044,7 @@
                         "explanation": "Agreeing with someone about something."
                     },
                     {
-                        "q": "Meaning of \u0027The last straw\u0027?",
+                        "q": "Meaning of 'The last straw'?",
                         "options": [
                             "Drinking a soda",
                             "The final problem that makes a situation unbearable",
@@ -26151,7 +28055,7 @@
                         "explanation": "The final minor annoyance that makes one lose patience."
                     },
                     {
-                        "q": "What does \u0027Call a spade a spade\u0027 mean?",
+                        "q": "What does 'Call a spade a spade' mean?",
                         "options": [
                             "Gardening",
                             "Speak plainly and directly",
@@ -26162,7 +28066,7 @@
                         "explanation": "Describing something as it really is, even if it is unpleasant."
                     },
                     {
-                        "q": "Meaning of \u0027Add fuel to the fire\u0027?",
+                        "q": "Meaning of 'Add fuel to the fire'?",
                         "options": [
                             "Camping",
                             "Make a bad situation worse",
@@ -26173,7 +28077,7 @@
                         "explanation": "Doing something that increases the intensity of a conflict or problem."
                     },
                     {
-                        "q": "What is \u0027To get cold feet\u0027?",
+                        "q": "What is 'To get cold feet'?",
                         "options": [
                             "Winter weather",
                             "Be too nervous to do something",
@@ -26184,7 +28088,7 @@
                         "explanation": "Suddenly feeling uncertain or frightened about a planned action."
                     },
                     {
-                        "q": "Meaning of \u0027Keep your chin up\u0027?",
+                        "q": "Meaning of 'Keep your chin up'?",
                         "options": [
                             "Good posture",
                             "Stay positive in a difficult situation",
@@ -26195,7 +28099,7 @@
                         "explanation": "An encouragement to remain cheerful despite setbacks."
                     },
                     {
-                        "q": "What does \u0027Let sleeping dogs lie\u0027 mean?",
+                        "q": "What does 'Let sleeping dogs lie' mean?",
                         "options": [
                             "Pet care",
                             "Avoid interfering in a settled situation",
@@ -26206,7 +28110,7 @@
                         "explanation": "Avoid restarting a conflict that has ended."
                     },
                     {
-                        "q": "Meaning of \u0027A fly in the ointment\u0027?",
+                        "q": "Meaning of 'A fly in the ointment'?",
                         "options": [
                             "Dirty house",
                             "A small drawback that ruins something",
@@ -26217,7 +28121,7 @@
                         "explanation": "One negative thing that spoils otherwise good results."
                     },
                     {
-                        "q": "What is \u0027To miss the boat\u0027?",
+                        "q": "What is 'To miss the boat'?",
                         "options": [
                             "Traveling",
                             "To be too late for an opportunity",
@@ -26228,7 +28132,7 @@
                         "explanation": "Failing to take advantage of an opportunity because of slowness."
                     },
                     {
-                        "q": "Meaning of \u0027Out of the blue\u0027?",
+                        "q": "Meaning of 'Out of the blue'?",
                         "options": [
                             "Color choice",
                             "Suddenly and unexpectedly",
@@ -26239,7 +28143,7 @@
                         "explanation": "Happening without any warning."
                     },
                     {
-                        "q": "What does \u0027The tip of the iceberg\u0027 mean?",
+                        "q": "What does 'The tip of the iceberg' mean?",
                         "options": [
                             "Sailing",
                             "A small visible part of a much larger problem",
@@ -26250,7 +28154,7 @@
                         "explanation": "The majority of the issue is hidden from view."
                     },
                     {
-                        "q": "Meaning of \u0027Turn over a new leaf\u0027?",
+                        "q": "Meaning of 'Turn over a new leaf'?",
                         "options": [
                             "Gardening",
                             "Start behaving better",
@@ -26261,10 +28165,10 @@
                         "explanation": "Making a fresh start with improved behavior."
                     },
                     {
-                        "q": "What is \u0027To pull yourself together\u0027?",
+                        "q": "What is 'To pull yourself together'?",
                         "options": [
                             "Group work",
-                            "Recover control of one\u0027s emotions",
+                            "Recover control of one's emotions",
                             "Packing bags",
                             "Fixing clothes"
                         ],
@@ -26272,7 +28176,7 @@
                         "explanation": "Calming down and acting normally after a stressful event."
                     },
                     {
-                        "q": "Meaning of \u0027Up in the air\u0027?",
+                        "q": "Meaning of 'Up in the air'?",
                         "options": [
                             "Flying",
                             "Uncertain or undecided",
@@ -26283,10 +28187,10 @@
                         "explanation": "Plans that have not been finalized yet."
                     },
                     {
-                        "q": "What does \u0027Your guess is as good as mine\u0027 mean?",
+                        "q": "What does 'Your guess is as good as mine' mean?",
                         "options": [
                             "Competition",
-                            "I don\u0027t know either",
+                            "I don't know either",
                             "Winning",
                             "Smart thinking"
                         ],
@@ -26294,7 +28198,7 @@
                         "explanation": "Having no more information than the person asking."
                     },
                     {
-                        "q": "Meaning of \u0027To cost a fortune\u0027?",
+                        "q": "Meaning of 'To cost a fortune'?",
                         "options": [
                             "Predicting future",
                             "To be very expensive",
@@ -26305,7 +28209,7 @@
                         "explanation": "Refers to something that is extremely pricey."
                     },
                     {
-                        "q": "What is \u0027To fall on deaf ears\u0027?",
+                        "q": "What is 'To fall on deaf ears'?",
                         "options": [
                             "Hearing loss",
                             "To be ignored",
@@ -26316,7 +28220,7 @@
                         "explanation": "Suggestions or orders that are not listened to."
                     },
                     {
-                        "q": "Meaning of \u0027To get the hang of it\u0027?",
+                        "q": "Meaning of 'To get the hang of it'?",
                         "options": [
                             "Hanging clothes",
                             "To learn how to do something",
@@ -26327,7 +28231,7 @@
                         "explanation": "Gaining the skill or understanding needed for an activity."
                     },
                     {
-                        "q": "What does \u0027A drop in the ocean\u0027 mean?",
+                        "q": "What does 'A drop in the ocean' mean?",
                         "options": [
                             "Oceanography",
                             "A tiny amount compared to what is needed",
@@ -26338,7 +28242,7 @@
                         "explanation": "Something so small it has almost no effect."
                     },
                     {
-                        "q": "Meaning of \u0027To keep an eye on something\u0027?",
+                        "q": "Meaning of 'To keep an eye on something'?",
                         "options": [
                             "Medical check",
                             "To watch or monitor closely",
@@ -26349,10 +28253,10 @@
                         "explanation": "Paying careful attention to someone or something."
                     },
                     {
-                        "q": "What is \u0027To face the music\u0027?",
+                        "q": "What is 'To face the music'?",
                         "options": [
                             "Concert",
-                            "Accept the consequences of one\u0027s actions",
+                            "Accept the consequences of one's actions",
                             "Dancing",
                             "Listening"
                         ],
@@ -26360,7 +28264,7 @@
                         "explanation": "Accepting criticism or punishment for something you have done."
                     },
                     {
-                        "q": "Meaning of \u0027To give someone the benefit of the doubt\u0027?",
+                        "q": "Meaning of 'To give someone the benefit of the doubt'?",
                         "options": [
                             "Legal advice",
                             "Believe someone without proof",
@@ -26371,7 +28275,7 @@
                         "explanation": "Choosing to trust someone despite some uncertainty."
                     },
                     {
-                        "q": "What does \u0027To make ends meet\u0027 mean?",
+                        "q": "What does 'To make ends meet' mean?",
                         "options": [
                             "Mathematics",
                             "Earn enough to pay for basic expenses",
@@ -26382,7 +28286,7 @@
                         "explanation": "Managing to survive financially with limited income."
                     },
                     {
-                        "q": "Meaning of \u0027To play it by ear\u0027?",
+                        "q": "Meaning of 'To play it by ear'?",
                         "options": [
                             "Music",
                             "Act without a fixed plan",
@@ -26393,7 +28297,7 @@
                         "explanation": "Managing a situation as it develops rather than following a plan."
                     },
                     {
-                        "q": "What is \u0027To take with a pinch of salt\u0027?",
+                        "q": "What is 'To take with a pinch of salt'?",
                         "options": [
                             "Cooking",
                             "Not to believe something completely",
@@ -26404,7 +28308,7 @@
                         "explanation": "Viewing information with reasonable doubt."
                     },
                     {
-                        "q": "Meaning of \u0027A whole new ball game\u0027?",
+                        "q": "Meaning of 'A whole new ball game'?",
                         "options": [
                             "Sports update",
                             "A completely different situation",
@@ -26415,7 +28319,7 @@
                         "explanation": "A situation that is fundamentally changed."
                     },
                     {
-                        "q": "What does \u0027To be on cloud nine\u0027 mean?",
+                        "q": "What does 'To be on cloud nine' mean?",
                         "options": [
                             "Weather",
                             "To be extremely happy",
@@ -26426,7 +28330,7 @@
                         "explanation": "A state of great joy or bliss."
                     },
                     {
-                        "q": "Meaning of \u0027To hit the roof\u0027?",
+                        "q": "Meaning of 'To hit the roof'?",
                         "options": [
                             "Construction",
                             "Become very angry",
@@ -26434,10 +28338,10 @@
                             "Repairing"
                         ],
                         "answer": 1,
-                        "explanation": "Losing one\u0027s temper suddenly."
+                        "explanation": "Losing one's temper suddenly."
                     },
                     {
-                        "q": "What is \u0027To read between the lines\u0027?",
+                        "q": "What is 'To read between the lines'?",
                         "options": [
                             "Reading test",
                             "Find the hidden meaning",
@@ -26448,7 +28352,7 @@
                         "explanation": "Understanding what is implied but not explicitly stated."
                     },
                     {
-                        "q": "Meaning of \u0027To sit on the fence\u0027?",
+                        "q": "Meaning of 'To sit on the fence'?",
                         "options": [
                             "Gardening",
                             "Avoid making a decision",
@@ -26459,7 +28363,7 @@
                         "explanation": "Being undecided or neutral in a disagreement."
                     },
                     {
-                        "q": "What does \u0027To let the cat sleep\u0027 mean?",
+                        "q": "What does 'To let the cat sleep' mean?",
                         "options": [
                             "Pet care",
                             "Avoid starting trouble",
@@ -26470,7 +28374,7 @@
                         "explanation": "Leaving a situation alone to avoid problems."
                     },
                     {
-                        "q": "Meaning of \u0027A wild goose chase\u0027?",
+                        "q": "Meaning of 'A wild goose chase'?",
                         "options": [
                             "Hunting",
                             "A hopeless search for something",
@@ -26481,7 +28385,7 @@
                         "explanation": "A pursuit that is unlikely to result in success."
                     },
                     {
-                        "q": "What is \u0027To see the light at the end of the tunnel\u0027?",
+                        "q": "What is 'To see the light at the end of the tunnel'?",
                         "options": [
                             "Sailing",
                             "The end of a difficult situation is near",
@@ -26492,7 +28396,7 @@
                         "explanation": "Finding hope that a long problem is finishing."
                     },
                     {
-                        "q": "Meaning of \u0027To throw in the towel\u0027?",
+                        "q": "Meaning of 'To throw in the towel'?",
                         "options": [
                             "Boxing",
                             "To give up",
@@ -26503,7 +28407,7 @@
                         "explanation": "Admitting defeat and stopping an effort."
                     },
                     {
-                        "q": "What does \u0027To be in the same boat\u0027 mean?",
+                        "q": "What does 'To be in the same boat' mean?",
                         "options": [
                             "Traveling",
                             "Being in the same difficult situation",
@@ -26514,7 +28418,7 @@
                         "explanation": "Sharing identical problems with others."
                     },
                     {
-                        "q": "Meaning of \u0027To cost an arm and a leg\u0027?",
+                        "q": "Meaning of 'To cost an arm and a leg'?",
                         "options": [
                             "Very cheap",
                             "Very expensive",
@@ -26531,7 +28435,7 @@
                 "icon": "fa-paragraph",
                 "questions": [
                     {
-                        "q": "In the sentence \u0027The cat slept\u0027, what is the subject?",
+                        "q": "In the sentence 'The cat slept', what is the subject?",
                         "options": [
                             "The",
                             "Cat",
@@ -26542,7 +28446,7 @@
                         "explanation": "The subject is the performer of the action."
                     },
                     {
-                        "q": "Identify the object: \u0027Ali bought a new car.\u0027",
+                        "q": "Identify the object: 'Ali bought a new car.'",
                         "options": [
                             "Ali",
                             "Bought",
@@ -26553,7 +28457,7 @@
                         "explanation": "The car is the thing receiving the action of the verb."
                     },
                     {
-                        "q": "Which type of sentence is \u0027Keep quiet!\u0027?",
+                        "q": "Which type of sentence is 'Keep quiet!'?",
                         "options": [
                             "Declarative",
                             "Imperative",
@@ -26575,7 +28479,7 @@
                         "explanation": "A compound sentence joins two independent clauses with a conjunction."
                     },
                     {
-                        "q": "What is the predicate in \u0027The sun shines brightly\u0027?",
+                        "q": "What is the predicate in 'The sun shines brightly'?",
                         "options": [
                             "The sun",
                             "Shines brightly",
@@ -26597,7 +28501,7 @@
                         "explanation": "Interrogative sentences always ask for information."
                     },
                     {
-                        "q": "Identify the clause: \u0027When the rain stops...\u0027",
+                        "q": "Identify the clause: 'When the rain stops...'",
                         "options": [
                             "Independent Clause",
                             "Dependent Clause",
@@ -26619,7 +28523,7 @@
                         "explanation": "Two independent clauses joined without proper punctuation."
                     },
                     {
-                        "q": "Define a \u0027Phrase\u0027?",
+                        "q": "Define a 'Phrase'?",
                         "options": [
                             "A group of words with a verb",
                             "A group of words without a subject-verb unit",
@@ -26630,7 +28534,7 @@
                         "explanation": "A phrase is a group of words that functions as a unit but lacks a subject or a finite verb."
                     },
                     {
-                        "q": "Correct the order: \u0027School to goes he\u0027",
+                        "q": "Correct the order: 'School to goes he'",
                         "options": [
                             "He to school goes",
                             "He goes to school",
@@ -26652,18 +28556,18 @@
                         "explanation": "A complex sentence has one independent clause and at least one dependent clause."
                     },
                     {
-                        "q": "Identify the error: \u0027He don\u0027t like apples.\u0027",
+                        "q": "Identify the error: 'He don't like apples.'",
                         "options": [
                             "He",
-                            "don\u0027t",
+                            "don't",
                             "like",
                             "apples"
                         ],
                         "answer": 1,
-                        "explanation": "With \u0027He\u0027, the singular form \u0027doesn\u0027t\u0027 should be used."
+                        "explanation": "With 'He', the singular form 'doesn't' should be used."
                     },
                     {
-                        "q": "Which part of the sentence is \u0027The old man\u0027 in \u0027The old man sat down\u0027?",
+                        "q": "Which part of the sentence is 'The old man' in 'The old man sat down'?",
                         "options": [
                             "Subject",
                             "Predicate",
@@ -26671,10 +28575,10 @@
                             "Verb"
                         ],
                         "answer": 0,
-                        "explanation": "\u0027The old man\u0027 is the complete subject."
+                        "explanation": "'The old man' is the complete subject."
                     },
                     {
-                        "q": "Correct the sentence: \u0027She is more taller than her sister.\u0027",
+                        "q": "Correct the sentence: 'She is more taller than her sister.'",
                         "options": [
                             "She is tall than her sister.",
                             "She is more tall than her sister.",
@@ -26682,10 +28586,10 @@
                             "She is as taller as her sister."
                         ],
                         "answer": 2,
-                        "explanation": "Double comparatives like \u0027more taller\u0027 are incorrect."
+                        "explanation": "Double comparatives like 'more taller' are incorrect."
                     },
                     {
-                        "q": "What type of phrase is \u0027in the garden\u0027?",
+                        "q": "What type of phrase is 'in the garden'?",
                         "options": [
                             "Noun phrase",
                             "Verb phrase",
@@ -26693,10 +28597,10 @@
                             "Adjective phrase"
                         ],
                         "answer": 2,
-                        "explanation": "It starts with a preposition \u0027in\u0027."
+                        "explanation": "It starts with a preposition 'in'."
                     },
                     {
-                        "q": "Identify the gerund: \u0027Swimming is good exercise.\u0027",
+                        "q": "Identify the gerund: 'Swimming is good exercise.'",
                         "options": [
                             "Swimming",
                             "is",
@@ -26715,10 +28619,10 @@
                             "Each of the boys are having a book."
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Each\u0027 is singular and takes a singular verb \u0027has\u0027."
+                        "explanation": "'Each' is singular and takes a singular verb 'has'."
                     },
                     {
-                        "q": "What is the function of \u0027quickly\u0027 in \u0027He runs quickly\u0027?",
+                        "q": "What is the function of 'quickly' in 'He runs quickly'?",
                         "options": [
                             "Adjective",
                             "Adverb",
@@ -26726,7 +28630,7 @@
                             "Verb"
                         ],
                         "answer": 1,
-                        "explanation": "It modifies the verb \u0027runs\u0027."
+                        "explanation": "It modifies the verb 'runs'."
                     },
                     {
                         "q": "Identify the passive voice:",
@@ -26737,18 +28641,18 @@
                             "He has eaten the mango."
                         ],
                         "answer": 1,
-                        "explanation": "Passive voice focuses on the object \u0027mango\u0027."
+                        "explanation": "Passive voice focuses on the object 'mango'."
                     },
                     {
-                        "q": "Correct the tag question: \u0027You are coming, isn\u0027t it?\u0027",
+                        "q": "Correct the tag question: 'You are coming, isn't it?'",
                         "options": [
-                            "aren\u0027t you?",
-                            "don\u0027t you?",
-                            "isn\u0027t you?",
-                            "won\u0027t you?"
+                            "aren't you?",
+                            "don't you?",
+                            "isn't you?",
+                            "won't you?"
                         ],
                         "answer": 0,
-                        "explanation": "The tag must match the auxiliary verb and subject: \u0027aren\u0027t you\u0027."
+                        "explanation": "The tag must match the auxiliary verb and subject: 'aren't you'."
                     },
                     {
                         "q": "Which sentence uses the correct plural?",
@@ -26762,7 +28666,7 @@
                         "explanation": "Children is the irregular plural of child."
                     },
                     {
-                        "q": "Identify the direct object: \u0027Give me the book.\u0027",
+                        "q": "Identify the direct object: 'Give me the book.'",
                         "options": [
                             "Give",
                             "me",
@@ -26770,7 +28674,7 @@
                             "the"
                         ],
                         "answer": 2,
-                        "explanation": "\u0027Me\u0027 is the indirect object, \u0027the book\u0027 is the direct object."
+                        "explanation": "'Me' is the indirect object, 'the book' is the direct object."
                     },
                     {
                         "q": "Choose the compound-complex sentence:",
@@ -26784,7 +28688,7 @@
                         "explanation": "It has two independent clauses and one dependent clause."
                     },
                     {
-                        "q": "Correct the sentence: \u0027Between you and I, he is wrong.\u0027",
+                        "q": "Correct the sentence: 'Between you and I, he is wrong.'",
                         "options": [
                             "Between you and me",
                             "Between we",
@@ -26792,10 +28696,10 @@
                             "No correction"
                         ],
                         "answer": 0,
-                        "explanation": "Prepositions take objective case pronouns (\u0027me\u0027)."
+                        "explanation": "Prepositions take objective case pronouns ('me')."
                     },
                     {
-                        "q": "What is an \u0027Appositive\u0027?",
+                        "q": "What is an 'Appositive'?",
                         "options": [
                             "A type of verb",
                             "A noun that renames another noun",
@@ -26806,7 +28710,7 @@
                         "explanation": "An appositive follows a noun to provide more information about it."
                     },
                     {
-                        "q": "Identify the error: \u0027I prefer tea than coffee.\u0027",
+                        "q": "Identify the error: 'I prefer tea than coffee.'",
                         "options": [
                             "I",
                             "prefer",
@@ -26814,7 +28718,7 @@
                             "coffee"
                         ],
                         "answer": 2,
-                        "explanation": "\u0027Prefer\u0027 is followed by \u0027to\u0027, not \u0027than\u0027."
+                        "explanation": "'Prefer' is followed by 'to', not 'than'."
                     },
                     {
                         "q": "Which word is a determiner?",
@@ -26825,7 +28729,7 @@
                             "Happily"
                         ],
                         "answer": 0,
-                        "explanation": "\u0027This\u0027 is a demonstrative determiner."
+                        "explanation": "'This' is a demonstrative determiner."
                     },
                     {
                         "q": "Choose the correct collective noun verb:",
@@ -26839,7 +28743,7 @@
                         "explanation": "Collective nouns usually take singular verbs when acting as a unit."
                     },
                     {
-                        "q": "What is the predicate in \u0027Birds fly\u0027?",
+                        "q": "What is the predicate in 'Birds fly'?",
                         "options": [
                             "Birds",
                             "fly",
@@ -26850,7 +28754,7 @@
                         "explanation": "Fly is the verb and thus the predicate."
                     },
                     {
-                        "q": "Correct the sentence: \u0027He has went to London.\u0027",
+                        "q": "Correct the sentence: 'He has went to London.'",
                         "options": [
                             "He has gone",
                             "He went",
@@ -26858,7 +28762,7 @@
                             "He is went"
                         ],
                         "answer": 0,
-                        "explanation": "With \u0027has\u0027, use the past participle \u0027gone\u0027."
+                        "explanation": "With 'has', use the past participle 'gone'."
                     },
                     {
                         "q": "Which of these is a simple sentence?",
@@ -26872,7 +28776,7 @@
                         "explanation": "A simple sentence consists of one independent clause."
                     },
                     {
-                        "q": "Identify the object complement: \u0027They elected him president.\u0027",
+                        "q": "Identify the object complement: 'They elected him president.'",
                         "options": [
                             "They",
                             "Elected",
@@ -26880,10 +28784,10 @@
                             "President"
                         ],
                         "answer": 3,
-                        "explanation": "\u0027President\u0027 tells us what \u0027him\u0027 (the object) became."
+                        "explanation": "'President' tells us what 'him' (the object) became."
                     },
                     {
-                        "q": "What is an \u0027Independent Clause\u0027?",
+                        "q": "What is an 'Independent Clause'?",
                         "options": [
                             "A phrase without a verb",
                             "A group of words that can stand alone as a sentence",
@@ -26894,7 +28798,7 @@
                         "explanation": "It contains a subject and a verb and expresses a complete thought."
                     },
                     {
-                        "q": "Identify the exclamation: \u0027What a beautiful day!\u0027",
+                        "q": "Identify the exclamation: 'What a beautiful day!'",
                         "options": [
                             "Declarative",
                             "Imperative",
@@ -26905,7 +28809,7 @@
                         "explanation": "Exclamatory sentences express strong emotion."
                     },
                     {
-                        "q": "Which part of speech is \u0027running\u0027 in \u0027He is running\u0027?",
+                        "q": "Which part of speech is 'running' in 'He is running'?",
                         "options": [
                             "Main verb",
                             "Auxiliary verb",
@@ -26916,7 +28820,7 @@
                         "explanation": "It is the present participle forming the main action."
                     },
                     {
-                        "q": "Identify the error: \u0027None of the students were present.\u0027",
+                        "q": "Identify the error: 'None of the students were present.'",
                         "options": [
                             "None",
                             "students",
@@ -26924,10 +28828,10 @@
                             "present"
                         ],
                         "answer": 2,
-                        "explanation": "\u0027None\u0027 is typically singular, so \u0027was\u0027 is often preferred in formal writing."
+                        "explanation": "'None' is typically singular, so 'was' is often preferred in formal writing."
                     },
                     {
-                        "q": "Correct the order: \u0027A book reading is he.\u0027",
+                        "q": "Correct the order: 'A book reading is he.'",
                         "options": [
                             "He is reading a book",
                             "Reading a book is he",
@@ -26938,7 +28842,7 @@
                         "explanation": "Subject + Modal/Auxiliary + Verb + Object."
                     },
                     {
-                        "q": "What is a \u0027Compound Subject\u0027?",
+                        "q": "What is a 'Compound Subject'?",
                         "options": [
                             "One noun",
                             "Two or more nouns joined by a conjunction",
@@ -26946,7 +28850,7 @@
                             "A type of object"
                         ],
                         "answer": 1,
-                        "explanation": "Example: \u0027Ali and Ahmed are friends\u0027."
+                        "explanation": "Example: 'Ali and Ahmed are friends'."
                     },
                     {
                         "q": "Which sentence is correctly structured?",
@@ -26960,7 +28864,7 @@
                         "explanation": "Standard SVO pattern."
                     },
                     {
-                        "q": "Identify the indirect object: \u0027She sent me a letter.\u0027",
+                        "q": "Identify the indirect object: 'She sent me a letter.'",
                         "options": [
                             "She",
                             "Sent",
@@ -26968,10 +28872,10 @@
                             "Letter"
                         ],
                         "answer": 2,
-                        "explanation": "\u0027Me\u0027 is the person to whom the letter was sent."
+                        "explanation": "'Me' is the person to whom the letter was sent."
                     },
                     {
-                        "q": "What is a \u0027Subordinating Conjunction\u0027?",
+                        "q": "What is a 'Subordinating Conjunction'?",
                         "options": [
                             "And",
                             "But",
@@ -26982,7 +28886,7 @@
                         "explanation": "It connects a dependent clause to an independent clause."
                     },
                     {
-                        "q": "Identify the participle: \u0027The crying baby woke up.\u0027",
+                        "q": "Identify the participle: 'The crying baby woke up.'",
                         "options": [
                             "The",
                             "Crying",
@@ -26990,7 +28894,7 @@
                             "Woke up"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Crying\u0027 is a present participle acting as an adjective."
+                        "explanation": "'Crying' is a present participle acting as an adjective."
                     },
                     {
                         "q": "Which sentence has an adverbial phrase?",
@@ -27001,10 +28905,10 @@
                             "The fast runner."
                         ],
                         "answer": 1,
-                        "explanation": "\u0027In the park\u0027 tells us where the action happens."
+                        "explanation": "'In the park' tells us where the action happens."
                     },
                     {
-                        "q": "Choose the correct relative clause: \u0027The movie ___ we saw was great.\u0027",
+                        "q": "Choose the correct relative clause: 'The movie ___ we saw was great.'",
                         "options": [
                             "who",
                             "which",
@@ -27012,10 +28916,10 @@
                             "whom"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Which\u0027 or \u0027that\u0027 is used for things."
+                        "explanation": "'Which' or 'that' is used for things."
                     },
                     {
-                        "q": "Define a \u0027Sentence Fragment\u0027?",
+                        "q": "Define a 'Sentence Fragment'?",
                         "options": [
                             "A complete sentence",
                             "An incomplete thought lacking a subject or verb",
@@ -27037,7 +28941,7 @@
                         "explanation": "Modals (can, could, should) express possibility or necessity."
                     },
                     {
-                        "q": "Correct the sentence: \u0027Hardly I had reached when it rained.\u0027",
+                        "q": "Correct the sentence: 'Hardly I had reached when it rained.'",
                         "options": [
                             "Hardly had I reached",
                             "I had reached hardly",
@@ -27045,10 +28949,10 @@
                             "Reached I hardly"
                         ],
                         "answer": 0,
-                        "explanation": "With \u0027hardly\u0027, we use inversion (Had I)."
+                        "explanation": "With 'hardly', we use inversion (Had I)."
                     },
                     {
-                        "q": "Identify the linking verb: \u0027She seems happy today.\u0027",
+                        "q": "Identify the linking verb: 'She seems happy today.'",
                         "options": [
                             "She",
                             "Seems",
@@ -27059,7 +28963,7 @@
                         "explanation": "Linking verbs connect the subject to an adjective/noun."
                     },
                     {
-                        "q": "What is an \u0027Infinitive\u0027?",
+                        "q": "What is an 'Infinitive'?",
                         "options": [
                             "to + verb",
                             "verb + ing",
@@ -27067,10 +28971,10 @@
                             "plural noun"
                         ],
                         "answer": 0,
-                        "explanation": "The base form of a verb preceded by \u0027to\u0027."
+                        "explanation": "The base form of a verb preceded by 'to'."
                     },
                     {
-                        "q": "Identify the error: \u0027The news are true.\u0027",
+                        "q": "Identify the error: 'The news are true.'",
                         "options": [
                             "The",
                             "news",
@@ -27078,7 +28982,7 @@
                             "true"
                         ],
                         "answer": 2,
-                        "explanation": "\u0027News\u0027 is an uncountable noun and takes a singular verb \u0027is\u0027."
+                        "explanation": "'News' is an uncountable noun and takes a singular verb 'is'."
                     },
                     {
                         "q": "Which is a declarative sentence?",
@@ -27092,7 +28996,7 @@
                         "explanation": "Declarative sentences make a statement."
                     },
                     {
-                        "q": "Identify the antecedent in \u0027Ali lost his keys\u0027?",
+                        "q": "Identify the antecedent in 'Ali lost his keys'?",
                         "options": [
                             "Ali",
                             "Lost",
@@ -27100,10 +29004,10 @@
                             "Keys"
                         ],
                         "answer": 0,
-                        "explanation": "\u0027Ali\u0027 is the noun that the pronoun \u0027his\u0027 refers back to."
+                        "explanation": "'Ali' is the noun that the pronoun 'his' refers back to."
                     },
                     {
-                        "q": "Correct the sentence: \u0027One of my friend is a doctor.\u0027",
+                        "q": "Correct the sentence: 'One of my friend is a doctor.'",
                         "options": [
                             "One of my friends is",
                             "One of my friend are",
@@ -27111,7 +29015,7 @@
                             "My friend is one"
                         ],
                         "answer": 0,
-                        "explanation": "\u0027One of\u0027 is followed by a plural noun but takes a singular verb."
+                        "explanation": "'One of' is followed by a plural noun but takes a singular verb."
                     },
                     {
                         "q": "Identify the pre-determiner:",
@@ -27122,7 +29026,7 @@
                             "This"
                         ],
                         "answer": 1,
-                        "explanation": "Used before other determiners (e.g., \u0027Such a day\u0027)."
+                        "explanation": "Used before other determiners (e.g., 'Such a day')."
                     },
                     {
                         "q": "Which sentence uses the correct case?",
@@ -27136,7 +29040,7 @@
                         "explanation": "Subjective case (He/I) for subjects."
                     },
                     {
-                        "q": "What is the function of \u0027yesterday\u0027 in \u0027I saw him yesterday\u0027?",
+                        "q": "What is the function of 'yesterday' in 'I saw him yesterday'?",
                         "options": [
                             "Adverb of time",
                             "Adjective",
@@ -27155,10 +29059,10 @@
                             "Birds fly."
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Wrote\u0027 has an object \u0027story\u0027."
+                        "explanation": "'Wrote' has an object 'story'."
                     },
                     {
-                        "q": "Correct the order: \u0027Always he late is.\u0027",
+                        "q": "Correct the order: 'Always he late is.'",
                         "options": [
                             "He is always late",
                             "Always late he is",
@@ -27166,10 +29070,10 @@
                             "Is he always late"
                         ],
                         "answer": 0,
-                        "explanation": "Adverbs of frequency usually come after the \u0027be\u0027 verb."
+                        "explanation": "Adverbs of frequency usually come after the 'be' verb."
                     },
                     {
-                        "q": "Identify the appositive: \u0027My brother, Ali, is a chef.\u0027",
+                        "q": "Identify the appositive: 'My brother, Ali, is a chef.'",
                         "options": [
                             "My brother",
                             "Ali",
@@ -27177,10 +29081,10 @@
                             "A chef"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Ali\u0027 renames the subject \u0027My brother\u0027."
+                        "explanation": "'Ali' renames the subject 'My brother'."
                     },
                     {
-                        "q": "What is a \u0027Collective Noun\u0027?",
+                        "q": "What is a 'Collective Noun'?",
                         "options": [
                             "One person",
                             "A group of things",
@@ -27188,21 +29092,21 @@
                             "An action"
                         ],
                         "answer": 1,
-                        "explanation": "Example: \u0027Team\u0027, \u0027Class\u0027, \u0027Flock\u0027."
+                        "explanation": "Example: 'Team', 'Class', 'Flock'."
                     },
                     {
-                        "q": "Choose the correct question tag: \u0027He can swim, ___?\u0027",
+                        "q": "Choose the correct question tag: 'He can swim, ___?'",
                         "options": [
                             "can he?",
-                            "can\u0027t he?",
-                            "doesn\u0027t he?",
+                            "can't he?",
+                            "doesn't he?",
                             "is he?"
                         ],
                         "answer": 1,
                         "explanation": "Negative tag for a positive statement."
                     },
                     {
-                        "q": "Identify the error: \u0027I am looking forward to meet you.\u0027",
+                        "q": "Identify the error: 'I am looking forward to meet you.'",
                         "options": [
                             "I am",
                             "looking forward",
@@ -27210,10 +29114,10 @@
                             "you"
                         ],
                         "answer": 2,
-                        "explanation": "The phrase is \u0027looking forward to\u0027 + gerund (meeting)."
+                        "explanation": "The phrase is 'looking forward to' + gerund (meeting)."
                     },
                     {
-                        "q": "What type of pronoun is \u0027This\u0027 in \u0027This is my pen\u0027?",
+                        "q": "What type of pronoun is 'This' in 'This is my pen'?",
                         "options": [
                             "Personal",
                             "Demonstrative",
@@ -27224,7 +29128,7 @@
                         "explanation": "Points directly at something."
                     },
                     {
-                        "q": "Correct the sentence: \u0027She is more cleverer than her brother.\u0027",
+                        "q": "Correct the sentence: 'She is more cleverer than her brother.'",
                         "options": [
                             "She is cleverer than",
                             "She is more clever than",
@@ -27235,7 +29139,7 @@
                         "explanation": "Avoid double comparatives."
                     },
                     {
-                        "q": "Identify the conjunction: \u0027Neither he nor I went.\u0027",
+                        "q": "Identify the conjunction: 'Neither he nor I went.'",
                         "options": [
                             "Neither/nor",
                             "He",
@@ -27246,7 +29150,7 @@
                         "explanation": "Correlative conjunctions used in pairs."
                     },
                     {
-                        "q": "What is the \u0027Complement\u0027 in \u0027He is a doctor\u0027?",
+                        "q": "What is the 'Complement' in 'He is a doctor'?",
                         "options": [
                             "He",
                             "Is",
@@ -27254,7 +29158,7 @@
                             "Doctor"
                         ],
                         "answer": 3,
-                        "explanation": "\u0027Doctor\u0027 completes the meaning of the subject."
+                        "explanation": "'Doctor' completes the meaning of the subject."
                     },
                     {
                         "q": "Identify the intransitive verb:",
@@ -27268,15 +29172,15 @@
                         "explanation": "Sneezing does not require an object."
                     },
                     {
-                        "q": "Correct the tag question: \u0027Let\u0027s go, ___?\u0027",
+                        "q": "Correct the tag question: 'Let's go, ___?'",
                         "options": [
                             "shall we?",
-                            "won\u0027t we?",
+                            "won't we?",
                             "can we?",
                             "do we?"
                         ],
                         "answer": 0,
-                        "explanation": "\u0027Let\u0027s\u0027 takes \u0027shall we\u0027 as a tag."
+                        "explanation": "'Let's' takes 'shall we' as a tag."
                     },
                     {
                         "q": "Identify the absolute phrase:",
@@ -27290,7 +29194,7 @@
                         "explanation": "A noun + participle phrase that modifies the whole sentence."
                     },
                     {
-                        "q": "What is \u0027Dangling Modifier\u0027?",
+                        "q": "What is 'Dangling Modifier'?",
                         "options": [
                             "A correct adjective",
                             "A modifier that lacks a clear subject",
@@ -27298,21 +29202,21 @@
                             "A verb tense"
                         ],
                         "answer": 1,
-                        "explanation": "Example: \u0027Walking down the street, the trees were green\u0027."
+                        "explanation": "Example: 'Walking down the street, the trees were green'."
                     },
                     {
-                        "q": "Correct the sentence: \u0027He don\u0027t know the answer.\u0027",
+                        "q": "Correct the sentence: 'He don't know the answer.'",
                         "options": [
-                            "He doesn\u0027t know",
+                            "He doesn't know",
                             "He not know",
-                            "He don\u0027t knows",
-                            "He haven\u0027t known"
+                            "He don't knows",
+                            "He haven't known"
                         ],
                         "answer": 0,
-                        "explanation": "Third person singular needs \u0027doesn\u0027t\u0027."
+                        "explanation": "Third person singular needs 'doesn't'."
                     },
                     {
-                        "q": "Identify the object of the preposition: \u0027The key is in the drawer.\u0027",
+                        "q": "Identify the object of the preposition: 'The key is in the drawer.'",
                         "options": [
                             "Key",
                             "Is",
@@ -27320,10 +29224,10 @@
                             "Drawer"
                         ],
                         "answer": 3,
-                        "explanation": "\u0027Drawer\u0027 follows the preposition \u0027in\u0027."
+                        "explanation": "'Drawer' follows the preposition 'in'."
                     },
                     {
-                        "q": "Which part of speech is \u0027himself\u0027 in \u0027He did it himself\u0027?",
+                        "q": "Which part of speech is 'himself' in 'He did it himself'?",
                         "options": [
                             "Personal pronoun",
                             "Reflexive/Emphatic pronoun",
@@ -27342,10 +29246,10 @@
                             "whenever I go out"
                         ],
                         "answer": 1,
-                        "explanation": "Joined by a coordinating conjunction \u0027and\u0027."
+                        "explanation": "Joined by a coordinating conjunction 'and'."
                     },
                     {
-                        "q": "Correct the sentence: \u0027These kind of apples are sweet.\u0027",
+                        "q": "Correct the sentence: 'These kind of apples are sweet.'",
                         "options": [
                             "This kind of apples",
                             "These kinds of apples",
@@ -27356,7 +29260,7 @@
                         "explanation": "Either match singular-singular or plural-plural."
                     },
                     {
-                        "q": "What is the mood of \u0027If I were you, I would go\u0027?",
+                        "q": "What is the mood of 'If I were you, I would go'?",
                         "options": [
                             "Indicative",
                             "Subjunctive",
@@ -27367,7 +29271,7 @@
                         "explanation": "Hypothetical situation."
                     },
                     {
-                        "q": "Identify the error: \u0027The list of items are long.\u0027",
+                        "q": "Identify the error: 'The list of items are long.'",
                         "options": [
                             "The",
                             "list",
@@ -27375,10 +29279,10 @@
                             "long"
                         ],
                         "answer": 2,
-                        "explanation": "The subject is \u0027list\u0027 (singular), so \u0027is\u0027 should be used."
+                        "explanation": "The subject is 'list' (singular), so 'is' should be used."
                     },
                     {
-                        "q": "What is \u0027Pleonasm\u0027?",
+                        "q": "What is 'Pleonasm'?",
                         "options": [
                             "A type of verb",
                             "Using more words than necessary",
@@ -27386,10 +29290,10 @@
                             "A question"
                         ],
                         "answer": 1,
-                        "explanation": "Redundancy, like \u0027burning fire\u0027."
+                        "explanation": "Redundancy, like 'burning fire'."
                     },
                     {
-                        "q": "Correct the sentence: \u0027I am having a car.\u0027",
+                        "q": "Correct the sentence: 'I am having a car.'",
                         "options": [
                             "I have a car",
                             "I has a car",
@@ -27397,10 +29301,10 @@
                             "I having a car"
                         ],
                         "answer": 0,
-                        "explanation": "Statve verbs (like have/possess) usually don\u0027t use -ing for possession."
+                        "explanation": "Statve verbs (like have/possess) usually don't use -ing for possession."
                     },
                     {
-                        "q": "In the sentence \u0027She is a doctor\u0027, what is \u0027doctor\u0027?",
+                        "q": "In the sentence 'She is a doctor', what is 'doctor'?",
                         "options": [
                             "Subject",
                             "Direct Object",
@@ -27431,7 +29335,7 @@
                             "Pacific"
                         ],
                         "answer": 3,
-                        "explanation": "The Pacific Ocean is the largest and deepest of Earth\u0027s oceanic divisions."
+                        "explanation": "The Pacific Ocean is the largest and deepest of Earth's oceanic divisions."
                     },
                     {
                         "q": "Mount Everest is located in which country?",
@@ -27464,7 +29368,7 @@
                             "Thailand"
                         ],
                         "answer": 1,
-                        "explanation": "The name Japan translates to \u0027sun origin\u0027 (Nippon)."
+                        "explanation": "The name Japan translates to 'sun origin' (Nippon)."
                     },
                     {
                         "q": "Which is the smallest continent by land area?",
@@ -27519,7 +29423,7 @@
                             "Indonesia"
                         ],
                         "answer": 0,
-                        "explanation": "As of 2023, India has surpassed China as the world\u0027s most populous country."
+                        "explanation": "As of 2023, India has surpassed China as the world's most populous country."
                     },
                     {
                         "q": "Caspian Sea is actually a?",
@@ -27530,7 +29434,7 @@
                             "Gulf"
                         ],
                         "answer": 1,
-                        "explanation": "It is the world\u0027s largest inland body of water, often classified as the world\u0027s largest lake."
+                        "explanation": "It is the world's largest inland body of water, often classified as the world's largest lake."
                     },
                     {
                         "q": "Which country is the largest in the world by land area?",
@@ -27621,7 +29525,7 @@
                         "explanation": "The British Pound (GBP) is the official currency."
                     },
                     {
-                        "q": "Which country is known as the \u0027Low Countries\u0027 along with Belgium?",
+                        "q": "Which country is known as the 'Low Countries' along with Belgium?",
                         "options": [
                             "Germany",
                             "Denmark",
@@ -27629,10 +29533,10 @@
                             "Luxembourg"
                         ],
                         "answer": 2,
-                        "explanation": "The Netherlands is literally \u0027lower lands\u0027."
+                        "explanation": "The Netherlands is literally 'lower lands'."
                     },
                     {
-                        "q": "The \u0027Ring of Fire\u0027 is a region of high volcanic activity in which ocean?",
+                        "q": "The 'Ring of Fire' is a region of high volcanic activity in which ocean?",
                         "options": [
                             "Atlantic",
                             "Indian",
@@ -27640,10 +29544,10 @@
                             "Arctic"
                         ],
                         "answer": 2,
-                        "explanation": "The Pacific Ring of Fire is home to most of the world\u0027s active volcanoes."
+                        "explanation": "The Pacific Ring of Fire is home to most of the world's active volcanoes."
                     },
                     {
-                        "q": "Which city is known as the \u0027City of Canals\u0027?",
+                        "q": "Which city is known as the 'City of Canals'?",
                         "options": [
                             "Paris",
                             "Venice",
@@ -27761,7 +29665,7 @@
                             "Madagascar"
                         ],
                         "answer": 0,
-                        "explanation": "Greenland is the world\u0027s largest island by area."
+                        "explanation": "Greenland is the world's largest island by area."
                     },
                     {
                         "q": "The Pyramids of Giza are located in which country?",
@@ -27849,7 +29753,7 @@
                             "Iguazu Falls"
                         ],
                         "answer": 2,
-                        "explanation": "Angel Falls in Venezuela is the world\u0027s highest uninterrupted waterfall."
+                        "explanation": "Angel Falls in Venezuela is the world's highest uninterrupted waterfall."
                     },
                     {
                         "q": "The Panama Canal connects which two bodies of water?",
@@ -28017,7 +29921,7 @@
                         "explanation": "The Philippines is an archipelago of over 7,000 islands."
                     },
                     {
-                        "q": "Which is the deepest point in the world\u0027s oceans?",
+                        "q": "Which is the deepest point in the world's oceans?",
                         "options": [
                             "Java Trench",
                             "Puerto Rico Trench",
@@ -28179,7 +30083,7 @@
                             "Brazil"
                         ],
                         "answer": 3,
-                        "explanation": "Brazil has been the world\u0027s largest producer for over 150 years."
+                        "explanation": "Brazil has been the world's largest producer for over 150 years."
                     },
                     {
                         "q": "Which is the longest mountain range on land?",
@@ -28278,7 +30182,7 @@
                             "Canada"
                         ],
                         "answer": 3,
-                        "explanation": "Canada contains more than half of the world\u0027s natural lakes."
+                        "explanation": "Canada contains more than half of the world's natural lakes."
                     },
                     {
                         "q": "What is the capital of India?",
@@ -28441,7 +30345,7 @@
                         "explanation": "The UN was established after World War II to maintain international peace."
                     },
                     {
-                        "q": "Which organization uses the \u0027Euro\u0027 as its official currency?",
+                        "q": "Which organization uses the 'Euro' as its official currency?",
                         "options": [
                             "NATO",
                             "European Union",
@@ -28529,7 +30433,7 @@
                         "explanation": "The International Court of Justice is the principal judicial organ."
                     },
                     {
-                        "q": "The \u0027World Bank\u0027 is headquartered in which city?",
+                        "q": "The 'World Bank' is headquartered in which city?",
                         "options": [
                             "New York",
                             "Washington D.C.",
@@ -28617,7 +30521,7 @@
                         "explanation": "UNESCO promotes international collaboration through educational, scientific, and cultural reforms."
                     },
                     {
-                        "q": "The G7 consists of seven of the world\u0027s most advanced?",
+                        "q": "The G7 consists of seven of the world's most advanced?",
                         "options": [
                             "Military powers",
                             "Economies",
@@ -28716,7 +30620,7 @@
                         "explanation": "The International Olympic Committee (IOC) is the supreme authority of the Olympic Movement."
                     },
                     {
-                        "q": "The \u0027Greenpeace\u0027 organization mainly works for?",
+                        "q": "The 'Greenpeace' organization mainly works for?",
                         "options": [
                             "Poverty",
                             "Environmental Protection",
@@ -28735,10 +30639,10 @@
                             "The Cube"
                         ],
                         "answer": 1,
-                        "explanation": "It is often called \u0027The Glass Palace\u0027 due to its architecture."
+                        "explanation": "It is often called 'The Glass Palace' due to its architecture."
                     },
                     {
-                        "q": "Which organization is known as the \u0027Lender of Last Resort\u0027?",
+                        "q": "Which organization is known as the 'Lender of Last Resort'?",
                         "options": [
                             "World Bank",
                             "IMF",
@@ -28782,7 +30686,7 @@
                         "explanation": "The Red Crescent is used as a neutral emblem of the movement."
                     },
                     {
-                        "q": "Which organization produces the \u0027Human Development Report\u0027?",
+                        "q": "Which organization produces the 'Human Development Report'?",
                         "options": [
                             "UNICEF",
                             "UNDP",
@@ -28804,7 +30708,7 @@
                         "explanation": "The IOC is based in Lausanne, Switzerland."
                     },
                     {
-                        "q": "What does the abbreviation \u0027FAO\u0027 stand for?",
+                        "q": "What does the abbreviation 'FAO' stand for?",
                         "options": [
                             "Food and Agriculture Organization",
                             "Federal Aviation Office",
@@ -28815,7 +30719,7 @@
                         "explanation": "FAO is a specialized agency of the UN that leads international efforts to defeat hunger."
                     },
                     {
-                        "q": "The \u0027Asean\u0027 organization is located in which region?",
+                        "q": "The 'Asean' organization is located in which region?",
                         "options": [
                             "Middle East",
                             "Southeast Asia",
@@ -28826,7 +30730,7 @@
                         "explanation": "ASEAN stands for the Association of Southeast Asian Nations."
                     },
                     {
-                        "q": "Which organization manages the \u0027Nobel Prizes\u0027?",
+                        "q": "Which organization manages the 'Nobel Prizes'?",
                         "options": [
                             "The UN",
                             "The Nobel Foundation",
@@ -28848,7 +30752,7 @@
                         "explanation": "NATO HQ is located in Brussels, Belgium."
                     },
                     {
-                        "q": "What is the main objective of the \u0027International Maritime Organization\u0027 (IMO)?",
+                        "q": "What is the main objective of the 'International Maritime Organization' (IMO)?",
                         "options": [
                             "Space travel",
                             "Shipping safety and security",
@@ -28859,7 +30763,7 @@
                         "explanation": "IMO is the global standard-setting authority for the safety, security and environmental performance of international shipping."
                     },
                     {
-                        "q": "Which organization is responsible for \u0027World Heritage Sites\u0027?",
+                        "q": "Which organization is responsible for 'World Heritage Sites'?",
                         "options": [
                             "UNDP",
                             "UNESCO",
@@ -28867,10 +30771,10 @@
                             "WHO"
                         ],
                         "answer": 1,
-                        "explanation": "UNESCO\u0027s World Heritage program preserves sites of cultural and natural importance."
+                        "explanation": "UNESCO's World Heritage program preserves sites of cultural and natural importance."
                     },
                     {
-                        "q": "The \u0027Transparency International\u0027 organization works to?",
+                        "q": "The 'Transparency International' organization works to?",
                         "options": [
                             "Promote trade",
                             "Combat corruption",
@@ -28892,7 +30796,7 @@
                         "explanation": "The ILO is a UN agency whose mandate is to advance social and economic justice."
                     },
                     {
-                        "q": "What does the \u0027G20\u0027 represent?",
+                        "q": "What does the 'G20' represent?",
                         "options": [
                             "20 largest military powers",
                             "19 countries plus the EU and African Union",
@@ -28903,7 +30807,7 @@
                         "explanation": "The G20 is a premier forum for international economic cooperation."
                     },
                     {
-                        "q": "The \u0027OECD\u0027 is headquartered in?",
+                        "q": "The 'OECD' is headquartered in?",
                         "options": [
                             "London",
                             "Paris",
@@ -28914,7 +30818,7 @@
                         "explanation": "The Organization for Economic Co-operation and Development is based in Paris."
                     },
                     {
-                        "q": "What is the primary function of the \u0027World Intellectual Property Organization\u0027 (WIPO)?",
+                        "q": "What is the primary function of the 'World Intellectual Property Organization' (WIPO)?",
                         "options": [
                             "Trade rules",
                             "Intellectual property services and policy",
@@ -28925,7 +30829,7 @@
                         "explanation": "WIPO promotes the protection of IP throughout the world."
                     },
                     {
-                        "q": "The \u0027Doctors Without Borders\u0027 is also known as?",
+                        "q": "The 'Doctors Without Borders' is also known as?",
                         "options": [
                             "WHO",
                             "MSF",
@@ -28936,7 +30840,7 @@
                         "explanation": "Médecins Sans Frontières (MSF) is an international medical humanitarian organization."
                     },
                     {
-                        "q": "Where is the headquarters of the \u0027African Union\u0027 (AU)?",
+                        "q": "Where is the headquarters of the 'African Union' (AU)?",
                         "options": [
                             "Cairo",
                             "Nairobi",
@@ -28947,7 +30851,7 @@
                         "explanation": "The AU is headquartered in Addis Ababa, Ethiopia."
                     },
                     {
-                        "q": "What does \u0027SDR\u0027 stand for in the context of the IMF?",
+                        "q": "What does 'SDR' stand for in the context of the IMF?",
                         "options": [
                             "Standard Deposit Rate",
                             "Special Drawing Rights",
@@ -28958,7 +30862,7 @@
                         "explanation": "SDR is an international reserve asset created by the IMF."
                     },
                     {
-                        "q": "The \u0027Asian Development Bank\u0027 (ADB) is headquartered in?",
+                        "q": "The 'Asian Development Bank' (ADB) is headquartered in?",
                         "options": [
                             "Beijing",
                             "Tokyo",
@@ -28980,7 +30884,7 @@
                         "explanation": "The International Civil Aviation Organization (ICAO) is a UN specialized agency."
                     },
                     {
-                        "q": "The \u0027World Meteorological Organization\u0027 (WMO) is based in?",
+                        "q": "The 'World Meteorological Organization' (WMO) is based in?",
                         "options": [
                             "London",
                             "New York",
@@ -28991,7 +30895,7 @@
                         "explanation": "WMO is headquartered in Geneva, Switzerland."
                     },
                     {
-                        "q": "What is the main goal of the \u0027Universal Postal Union\u0027 (UPU)?",
+                        "q": "What is the main goal of the 'Universal Postal Union' (UPU)?",
                         "options": [
                             "Global internet",
                             "International postal cooperation",
@@ -29002,7 +30906,7 @@
                         "explanation": "The UPU coordinates postal policies among member nations."
                     },
                     {
-                        "q": "Which organization is known for its \u0027World Development Indicators\u0027?",
+                        "q": "Which organization is known for its 'World Development Indicators'?",
                         "options": [
                             "IMF",
                             "WTO",
@@ -29013,7 +30917,7 @@
                         "explanation": "The World Bank publishes this comprehensive database on development."
                     },
                     {
-                        "q": "Where is the HQ of the \u0027Shanghai Cooperation Organization\u0027 (SCO)?",
+                        "q": "Where is the HQ of the 'Shanghai Cooperation Organization' (SCO)?",
                         "options": [
                             "Shanghai",
                             "Moscow",
@@ -29024,7 +30928,7 @@
                         "explanation": "The SCO secretariat is located in Beijing, China."
                     },
                     {
-                        "q": "The \u0027International Telecommunication Union\u0027 (ITU) is headquartered in?",
+                        "q": "The 'International Telecommunication Union' (ITU) is headquartered in?",
                         "options": [
                             "Silicon Valley",
                             "Geneva",
@@ -29035,7 +30939,7 @@
                         "explanation": "ITU is the UN specialized agency for ICTs."
                     },
                     {
-                        "q": "What does \u0027UNHCR\u0027 focus on?",
+                        "q": "What does 'UNHCR' focus on?",
                         "options": [
                             "Health",
                             "Refugees",
@@ -29046,7 +30950,7 @@
                         "explanation": "The UN High Commissioner for Refugees protects and assists refugees."
                     },
                     {
-                        "q": "The \u0027G77\u0027 is a coalition of?",
+                        "q": "The 'G77' is a coalition of?",
                         "options": [
                             "G7 members",
                             "Developing nations",
@@ -29057,7 +30961,7 @@
                         "explanation": "The Group of 77 is the largest intergovernmental organization of developing countries in the UN."
                     },
                     {
-                        "q": "Where is the headquarters of the \u0027International Olympic Committee\u0027?",
+                        "q": "Where is the headquarters of the 'International Olympic Committee'?",
                         "options": [
                             "Paris",
                             "London",
@@ -29068,7 +30972,7 @@
                         "explanation": "Lausanne is known as the Olympic Capital."
                     },
                     {
-                        "q": "What is the \u0027Warsaw Pact\u0027?",
+                        "q": "What is the 'Warsaw Pact'?",
                         "options": [
                             "Trade agreement",
                             "Cold War military alliance led by USSR",
@@ -29079,7 +30983,7 @@
                         "explanation": "It was the rival alliance to NATO during the Cold War."
                     },
                     {
-                        "q": "The \u0027Mercosur\u0027 trade bloc is located in?",
+                        "q": "The 'Mercosur' trade bloc is located in?",
                         "options": [
                             "Africa",
                             "South America",
@@ -29090,7 +30994,7 @@
                         "explanation": "Mercosur promotes free trade and fluid movement of goods, people, and currency in South America."
                     },
                     {
-                        "q": "Where is the headquarters of \u0027FIFA\u0027?",
+                        "q": "Where is the headquarters of 'FIFA'?",
                         "options": [
                             "London",
                             "Zurich",
@@ -29101,7 +31005,7 @@
                         "explanation": "The International Federation of Association Football is based in Zurich, Switzerland."
                     },
                     {
-                        "q": "What does \u0027E-9\u0027 group refer to?",
+                        "q": "What does 'E-9' group refer to?",
                         "options": [
                             "Europe-9",
                             "9 high-population developing countries for education",
@@ -29109,10 +31013,10 @@
                             "9 space agencies"
                         ],
                         "answer": 1,
-                        "explanation": "The E-9 is a forum of nine countries which aim at achieving the goals of UNESCO\u0027s Education For All."
+                        "explanation": "The E-9 is a forum of nine countries which aim at achieving the goals of UNESCO's Education For All."
                     },
                     {
-                        "q": "The \u0027Nordic Council\u0027 consists of countries from?",
+                        "q": "The 'Nordic Council' consists of countries from?",
                         "options": [
                             "Southern Europe",
                             "Northern Europe",
@@ -29123,7 +31027,7 @@
                         "explanation": "It is an inter-parliamentary body for Nordic countries like Denmark, Finland, Iceland, Norway, and Sweden."
                     },
                     {
-                        "q": "Where is the headquarters of the \u0027Benelux\u0027 union?",
+                        "q": "Where is the headquarters of the 'Benelux' union?",
                         "options": [
                             "Brussels",
                             "Amsterdam",
@@ -29134,7 +31038,7 @@
                         "explanation": "The Benelux Union (Belgium, Netherlands, Luxembourg) is based in Brussels."
                     },
                     {
-                        "q": "What is the primary aim of the \u0027Club of Rome\u0027?",
+                        "q": "What is the primary aim of the 'Club of Rome'?",
                         "options": [
                             "Finance",
                             "Global issues like environment and resource depletion",
@@ -29145,7 +31049,7 @@
                         "explanation": "It is a global think-tank that deals with a variety of critical world issues."
                     },
                     {
-                        "q": "The \u0027Council of Europe\u0027 is based in?",
+                        "q": "The 'Council of Europe' is based in?",
                         "options": [
                             "Brussels",
                             "Strasbourg",
@@ -29156,7 +31060,7 @@
                         "explanation": "The Council of Europe is an international organization whose stated aim is to uphold human rights, democracy and the rule of law in Europe."
                     },
                     {
-                        "q": "Where is the HQ of the \u0027Island Nations Alliance\u0027 (AOSIS)?",
+                        "q": "Where is the HQ of the 'Island Nations Alliance' (AOSIS)?",
                         "options": [
                             "Fiji",
                             "Maldives",
@@ -29167,7 +31071,7 @@
                         "explanation": "The Alliance of Small Island States (AOSIS) works primarily through their missions to the UN."
                     },
                     {
-                        "q": "What is the \u0027Court of Justice\u0027 for the European Union based in?",
+                        "q": "What is the 'Court of Justice' for the European Union based in?",
                         "options": [
                             "Brussels",
                             "Luxembourg",
@@ -29178,7 +31082,7 @@
                         "explanation": "It ensures EU law is interpreted and applied the same in every EU country."
                     },
                     {
-                        "q": "The \u0027World Refugee Day\u0027 is observed on?",
+                        "q": "The 'World Refugee Day' is observed on?",
                         "options": [
                             "June 20",
                             "April 5",
@@ -29189,7 +31093,7 @@
                         "explanation": "It is an international day designated by the UN to honor refugees."
                     },
                     {
-                        "q": "In which city is the HQ of the \u0027OIC\u0027 (Organization of Islamic Cooperation)?",
+                        "q": "In which city is the HQ of the 'OIC' (Organization of Islamic Cooperation)?",
                         "options": [
                             "Riyadh",
                             "Mecca",
@@ -29200,7 +31104,7 @@
                         "explanation": "The OIC Secretariat is located in Jeddah, Saudi Arabia."
                     },
                     {
-                        "q": "What does \u0027SCO\u0027 RATS focus on?",
+                        "q": "What does 'SCO' RATS focus on?",
                         "options": [
                             "Trade",
                             "Counter-terrorism",
@@ -29211,7 +31115,7 @@
                         "explanation": "The Regional Anti-Terrorist Structure (RATS) is a permanent organ of the SCO."
                     },
                     {
-                        "q": "The \u0027D-8 Organization for Economic Cooperation\u0027 includes which country?",
+                        "q": "The 'D-8 Organization for Economic Cooperation' includes which country?",
                         "options": [
                             "USA",
                             "Pakistan",
@@ -29222,7 +31126,7 @@
                         "explanation": "D-8 includes Bangladesh, Egypt, Indonesia, Iran, Malaysia, Nigeria, Pakistan, and Turkey."
                     },
                     {
-                        "q": "Where is the HQ of \u0027Commonwealth\u0027 games federation?",
+                        "q": "Where is the HQ of 'Commonwealth' games federation?",
                         "options": [
                             "London",
                             "Canberra",
@@ -29233,7 +31137,7 @@
                         "explanation": "The CGF is based in London, UK."
                     },
                     {
-                        "q": "What is the main task of the \u0027UN Women\u0027?",
+                        "q": "What is the main task of the 'UN Women'?",
                         "options": [
                             "Child health",
                             "Gender equality and empowerment of women",
@@ -29244,7 +31148,7 @@
                         "explanation": "It is the UN entity dedicated to gender equality."
                     },
                     {
-                        "q": "The \u0027World Economic Forum\u0027 (WEF) is famous for its annual meeting in?",
+                        "q": "The 'World Economic Forum' (WEF) is famous for its annual meeting in?",
                         "options": [
                             "Geneva",
                             "Davos",
@@ -29255,7 +31159,7 @@
                         "explanation": "The meeting in Davos brings together political and business leaders."
                     },
                     {
-                        "q": "Where is the headquarters of \u0027OPEC+\u0027?",
+                        "q": "Where is the headquarters of 'OPEC+'?",
                         "options": [
                             "Riyadh",
                             "Moscow",
@@ -29266,7 +31170,7 @@
                         "explanation": "OPEC meetings are held in Vienna, Austria, where the organization is based."
                     },
                     {
-                        "q": "What is the primary focus of the \u0027United Nations Environment Programme\u0027 (UNEP)?",
+                        "q": "What is the primary focus of the 'United Nations Environment Programme' (UNEP)?",
                         "options": [
                             "Health",
                             "Environment",
@@ -29470,7 +31374,7 @@
                         "explanation": "The Mongol Empire became the largest contiguous land empire in history."
                     },
                     {
-                        "q": "Who was the \u0027Black Mandela\u0027 of the American Civil Rights movement?",
+                        "q": "Who was the 'Black Mandela' of the American Civil Rights movement?",
                         "options": [
                             "Malcolm X",
                             "Martin Luther King Jr.",
@@ -29536,7 +31440,7 @@
                         "explanation": "Joseph Stalin led the USSR from the mid-1920s until 1953."
                     },
                     {
-                        "q": "The \u0027Cold War\u0027 was primarily between?",
+                        "q": "The 'Cold War' was primarily between?",
                         "options": [
                             "UK and France",
                             "Germany and Italy",
@@ -29569,7 +31473,7 @@
                         "explanation": "Osman I founded the dynasty around 1299."
                     },
                     {
-                        "q": "The \u0027Great Wall\u0027 was built by which country?",
+                        "q": "The 'Great Wall' was built by which country?",
                         "options": [
                             "India",
                             "Egypt",
@@ -29610,10 +31514,10 @@
                             "Cook"
                         ],
                         "answer": 1,
-                        "explanation": "Ferdinand Magellan\u0027s expedition completed the first circumnavigation (though he died mid-way)."
+                        "explanation": "Ferdinand Magellan's expedition completed the first circumnavigation (though he died mid-way)."
                     },
                     {
-                        "q": "The \u0027Renaissance\u0027 period followed which era?",
+                        "q": "The 'Renaissance' period followed which era?",
                         "options": [
                             "Classical Era",
                             "Middle Ages",
@@ -29624,7 +31528,7 @@
                         "explanation": "It bridged the gap between the Middle Ages and modern history."
                     },
                     {
-                        "q": "Who was the \u0027Iron Chancellor\u0027 of Germany?",
+                        "q": "Who was the 'Iron Chancellor' of Germany?",
                         "options": [
                             "Hitler",
                             "Bismarck",
@@ -29646,7 +31550,7 @@
                         "explanation": "It was the final defeat of Napoleon Bonaparte."
                     },
                     {
-                        "q": "Which empire was known as the \u0027Sick Man of Europe\u0027 in the 19th century?",
+                        "q": "Which empire was known as the 'Sick Man of Europe' in the 19th century?",
                         "options": [
                             "Austro-Hungarian",
                             "Ottoman",
@@ -29657,7 +31561,7 @@
                         "explanation": "The Ottoman Empire was in a state of terminal decline."
                     },
                     {
-                        "q": "The \u0027Boston Tea Party\u0027 was a protest against which country\u0027s taxes?",
+                        "q": "The 'Boston Tea Party' was a protest against which country's taxes?",
                         "options": [
                             "France",
                             "Spain",
@@ -29676,10 +31580,10 @@
                             "Subhash Chandra Bose"
                         ],
                         "answer": 2,
-                        "explanation": "Gandhi\u0027s philosophy of Satyagraha influenced movements worldwide."
+                        "explanation": "Gandhi's philosophy of Satyagraha influenced movements worldwide."
                     },
                     {
-                        "q": "The \u0027Russian Revolution\u0027 of 1917 led to the rise of?",
+                        "q": "The 'Russian Revolution' of 1917 led to the rise of?",
                         "options": [
                             "Capitalism",
                             "Monarchy",
@@ -29690,7 +31594,7 @@
                         "explanation": "The Bolsheviks led by Lenin established the first socialist state."
                     },
                     {
-                        "q": "Which explorer \u0027discovered\u0027 the sea route to India in 1498?",
+                        "q": "Which explorer 'discovered' the sea route to India in 1498?",
                         "options": [
                             "Columbus",
                             "Amerigo Vespucci",
@@ -29701,7 +31605,7 @@
                         "explanation": "He was the first European to reach India by sea."
                     },
                     {
-                        "q": "The \u0027Opium Wars\u0027 were fought between Britain and which country?",
+                        "q": "The 'Opium Wars' were fought between Britain and which country?",
                         "options": [
                             "India",
                             "Japan",
@@ -29709,7 +31613,7 @@
                             "Vietnam"
                         ],
                         "answer": 2,
-                        "explanation": "The wars were over British trade in China and China\u0027s sovereignty."
+                        "explanation": "The wars were over British trade in China and China's sovereignty."
                     },
                     {
                         "q": "Who was the President of the USA during most of WWII?",
@@ -29723,10 +31627,10 @@
                         "explanation": "FDR served four terms and led the US through the Great Depression and WWII."
                     },
                     {
-                        "q": "The \u0027French and Indian War\u0027 was a theater of which global conflict?",
+                        "q": "The 'French and Indian War' was a theater of which global conflict?",
                         "options": [
-                            "The Thirty Years\u0027 War",
-                            "The Seven Years\u0027 War",
+                            "The Thirty Years' War",
+                            "The Seven Years' War",
                             "The Napoleonic Wars",
                             "WWI"
                         ],
@@ -29745,7 +31649,7 @@
                         "explanation": "Constantinople (now Istanbul) was the seat of the Eastern Roman Empire."
                     },
                     {
-                        "q": "The \u0027Meiji Restoration\u0027 took place in which country?",
+                        "q": "The 'Meiji Restoration' took place in which country?",
                         "options": [
                             "China",
                             "Korea",
@@ -29756,7 +31660,7 @@
                         "explanation": "It marked the end of the Shogunate and the modernization of Japan."
                     },
                     {
-                        "q": "Who was the leader of the \u0027October Revolution\u0027?",
+                        "q": "Who was the leader of the 'October Revolution'?",
                         "options": [
                             "Stalin",
                             "Trotsky",
@@ -29767,7 +31671,7 @@
                         "explanation": "Vladimir Lenin founded the Russian Communist Party."
                     },
                     {
-                        "q": "The \u0027Boxer Rebellion\u0027 occurred in which country?",
+                        "q": "The 'Boxer Rebellion' occurred in which country?",
                         "options": [
                             "Japan",
                             "China",
@@ -29786,10 +31690,10 @@
                             "War of 1812"
                         ],
                         "answer": 1,
-                        "explanation": "The American Civil War was primarily over slavery and states\u0027 rights."
+                        "explanation": "The American Civil War was primarily over slavery and states' rights."
                     },
                     {
-                        "q": "The \u0027Storming of the Bastille\u0027 is associated with which revolution?",
+                        "q": "The 'Storming of the Bastille' is associated with which revolution?",
                         "options": [
                             "American",
                             "French",
@@ -29808,10 +31712,10 @@
                             "James I"
                         ],
                         "answer": 2,
-                        "explanation": "Queen Elizabeth I\u0027s forces defeated the Armada in 1588."
+                        "explanation": "Queen Elizabeth I's forces defeated the Armada in 1588."
                     },
                     {
-                        "q": "The \u0027Helsinki Accords\u0027 (1975) were intended to improve relations between?",
+                        "q": "The 'Helsinki Accords' (1975) were intended to improve relations between?",
                         "options": [
                             "China and USA",
                             "Western Bloc and Eastern Bloc",
@@ -29833,7 +31737,7 @@
                         "explanation": "The Aztec Empire in Mexico fell in 1521."
                     },
                     {
-                        "q": "The \u0027Great Depression\u0027 started with the stock market crash of?",
+                        "q": "The 'Great Depression' started with the stock market crash of?",
                         "options": [
                             "1920",
                             "1929",
@@ -29855,7 +31759,7 @@
                         "explanation": "Nicholas II and his family were executed by the Bolsheviks."
                     },
                     {
-                        "q": "The \u0027Apartheid\u0027 system was abolished under the leadership of?",
+                        "q": "The 'Apartheid' system was abolished under the leadership of?",
                         "options": [
                             "Desmond Tutu",
                             "Nelson Mandela and F.W. de Klerk",
@@ -29877,7 +31781,7 @@
                         "explanation": "The Soviet victory at Stalingrad severely weakened the German army."
                     },
                     {
-                        "q": "The \u0027Vietnam War\u0027 ended in which year with the fall of Saigon?",
+                        "q": "The 'Vietnam War' ended in which year with the fall of Saigon?",
                         "options": [
                             "1965",
                             "1972",
@@ -29888,7 +31792,7 @@
                         "explanation": "The war ended with the unification of North and South Vietnam."
                     },
                     {
-                        "q": "Who was the founder of the \u0027Mughal Empire\u0027 in India?",
+                        "q": "Who was the founder of the 'Mughal Empire' in India?",
                         "options": [
                             "Akbar",
                             "Humayun",
@@ -29899,7 +31803,7 @@
                         "explanation": "Babur founded the empire in 1526 after the Battle of Panipat."
                     },
                     {
-                        "q": "The \u0027Code of Hammurabi\u0027 is one of the oldest sets of?",
+                        "q": "The 'Code of Hammurabi' is one of the oldest sets of?",
                         "options": [
                             "Songs",
                             "Laws",
@@ -29921,7 +31825,7 @@
                         "explanation": "The assassination in Sarajevo sparked the global conflict."
                     },
                     {
-                        "q": "The \u0027Cold War\u0027 term was popularized by which American journalist?",
+                        "q": "The 'Cold War' term was popularized by which American journalist?",
                         "options": [
                             "Ernest Hemingway",
                             "Walter Lippmann",
@@ -29943,7 +31847,7 @@
                         "explanation": "Cleopatra was the last active ruler of the Ptolemaic Kingdom of Egypt."
                     },
                     {
-                        "q": "The \u0027Industrial Revolution\u0027 transformed the economy from?",
+                        "q": "The 'Industrial Revolution' transformed the economy from?",
                         "options": [
                             "Agrarian to Industrial",
                             "Trade to Barter",
@@ -29965,7 +31869,7 @@
                         "explanation": "Amundsen led the Norwegian expedition that reached the pole first."
                     },
                     {
-                        "q": "The \u0027Black Death\u0027 plague killed millions in Europe during which century?",
+                        "q": "The 'Black Death' plague killed millions in Europe during which century?",
                         "options": [
                             "12th",
                             "14th",
@@ -29976,7 +31880,7 @@
                         "explanation": "The pandemic peaked in Europe between 1347 and 1351."
                     },
                     {
-                        "q": "Who was the author of the \u0027Communist Manifesto\u0027 along with Friedrich Engels?",
+                        "q": "Who was the author of the 'Communist Manifesto' along with Friedrich Engels?",
                         "options": [
                             "Lenin",
                             "Stalin",
@@ -29984,10 +31888,10 @@
                             "Mao"
                         ],
                         "answer": 2,
-                        "explanation": "Marx\u0027s theories about society, economics, and politics are known as Marxism."
+                        "explanation": "Marx's theories about society, economics, and politics are known as Marxism."
                     },
                     {
-                        "q": "The \u0027Battle of Britain\u0027 was primarily fought in the?",
+                        "q": "The 'Battle of Britain' was primarily fought in the?",
                         "options": [
                             "Sea",
                             "Air",
@@ -29998,7 +31902,7 @@
                         "explanation": "It was a major air campaign fought over southern England."
                     },
                     {
-                        "q": "Which document begins with \u0027We the People\u0027?",
+                        "q": "Which document begins with 'We the People'?",
                         "options": [
                             "The Declaration of Independence",
                             "The US Constitution",
@@ -30006,10 +31910,10 @@
                             "Common Sense"
                         ],
                         "answer": 1,
-                        "explanation": "The Preamble sets the stage for the US government\u0027s structure."
+                        "explanation": "The Preamble sets the stage for the US government's structure."
                     },
                     {
-                        "q": "The \u0027Nuremberg Trials\u0027 were held after WWII to prosecute?",
+                        "q": "The 'Nuremberg Trials' were held after WWII to prosecute?",
                         "options": [
                             "Japanese generals",
                             "Nazi war criminals",
@@ -30020,7 +31924,7 @@
                         "explanation": "Trials of high-ranking officials for crimes against humanity."
                     },
                     {
-                        "q": "Who was the \u0027Liberator\u0027 of several South American countries from Spanish rule?",
+                        "q": "Who was the 'Liberator' of several South American countries from Spanish rule?",
                         "options": [
                             "Simon Bolivar",
                             "Jose de San Martin",
@@ -30031,7 +31935,7 @@
                         "explanation": "Bolivar is a national hero in Venezuela, Colombia, Ecuador, Peru, and Bolivia."
                     },
                     {
-                        "q": "The \u0027Cultural Revolution\u0027 was launched by which leader?",
+                        "q": "The 'Cultural Revolution' was launched by which leader?",
                         "options": [
                             "Sun Yat-sen",
                             "Chiang Kai-shek",
@@ -30053,7 +31957,7 @@
                         "explanation": "The Berlin Wall separated East and West Berlin."
                     },
                     {
-                        "q": "The \u0027Crusades\u0027 were a series of religious wars between?",
+                        "q": "The 'Crusades' were a series of religious wars between?",
                         "options": [
                             "Catholics and Protestants",
                             "Christians and Muslims",
@@ -30075,7 +31979,7 @@
                         "explanation": "FDR won four presidential elections."
                     },
                     {
-                        "q": "The \u0027Marshall Plan\u0027 was designed to aid rebuilding of?",
+                        "q": "The 'Marshall Plan' was designed to aid rebuilding of?",
                         "options": [
                             "Post-WWII Europe",
                             "Post-Civil War USA",
@@ -30086,7 +31990,7 @@
                         "explanation": "It was a US initiative to help Western Europe recover after WWII."
                     },
                     {
-                        "q": "Which empire was ruled by the \u0027Ming Dynasty\u0027?",
+                        "q": "Which empire was ruled by the 'Ming Dynasty'?",
                         "options": [
                             "Japan",
                             "Korea",
@@ -30097,7 +32001,7 @@
                         "explanation": "The Ming Dynasty ruled China from 1368 to 1644."
                     },
                     {
-                        "q": "The \u0027Spanish Inquisition\u0027 was established by which monarchs?",
+                        "q": "The 'Spanish Inquisition' was established by which monarchs?",
                         "options": [
                             "Henry and Elizabeth",
                             "Ferdinand and Isabella",
@@ -30116,10 +32020,10 @@
                             "Boyle"
                         ],
                         "answer": 1,
-                        "explanation": "Isaac Newton\u0027s Philosophiae Naturalis Principia Mathematica is a cornerstone of science."
+                        "explanation": "Isaac Newton's Philosophiae Naturalis Principia Mathematica is a cornerstone of science."
                     },
                     {
-                        "q": "The \u0027Age of Enlightenment\u0027 emphasized?",
+                        "q": "The 'Age of Enlightenment' emphasized?",
                         "options": [
                             "Faith and tradition",
                             "Reason and individualism",
@@ -30141,7 +32045,7 @@
                         "explanation": "Britain had the resources and economic stability to lead the revolution."
                     },
                     {
-                        "q": "The \u0027Yalta Conference\u0027 (1945) involved which three leaders?",
+                        "q": "The 'Yalta Conference' (1945) involved which three leaders?",
                         "options": [
                             "Churchill, Roosevelt, Stalin",
                             "Hitler, Mussolini, Hirohito",
@@ -30149,7 +32053,7 @@
                             "Kennedy, Khrushchev, Castro"
                         ],
                         "answer": 0,
-                        "explanation": "The \u0027Big Three\u0027 met to discuss Europe\u0027s post-war reorganization."
+                        "explanation": "The 'Big Three' met to discuss Europe's post-war reorganization."
                     },
                     {
                         "q": "What was the significance of the 1969 Apollo 11 mission?",
@@ -30273,7 +32177,7 @@
                         "explanation": "King John of England was forced to sign it at Runnymede."
                     },
                     {
-                        "q": "Which empire was ruled by leaders known as \u0027Czars\u0027 (or Tsars)?",
+                        "q": "Which empire was ruled by leaders known as 'Czars' (or Tsars)?",
                         "options": [
                             "Ottoman Empire",
                             "Roman Empire",
@@ -30281,7 +32185,7 @@
                             "Austro-Hungarian Empire"
                         ],
                         "answer": 2,
-                        "explanation": "The term is derived from \u0027Caesar\u0027."
+                        "explanation": "The term is derived from 'Caesar'."
                     },
                     {
                         "q": "Who was the first woman to rule Egypt as Pharaoh (widely accepted)?",
@@ -30372,7 +32276,7 @@
                         "explanation": "It was enforced by the National Party government from 1948 to the early 1990s."
                     },
                     {
-                        "q": "The Renaissance, a period of \u0027rebirth\u0027 in art and learning, began in which country?",
+                        "q": "The Renaissance, a period of 'rebirth' in art and learning, began in which country?",
                         "options": [
                             "France",
                             "Italy",
@@ -30394,7 +32298,7 @@
                         "explanation": "Thatcher led the British response to the Argentine invasion."
                     },
                     {
-                        "q": "The \u0027Black Death\u0027 in the 14th century was caused by?",
+                        "q": "The 'Black Death' in the 14th century was caused by?",
                         "options": [
                             "Cholera",
                             "Smallpox",
@@ -30402,7 +32306,7 @@
                             "Influenza"
                         ],
                         "answer": 2,
-                        "explanation": "It killed an estimated 30-60% of Europe\u0027s population."
+                        "explanation": "It killed an estimated 30-60% of Europe's population."
                     },
                     {
                         "q": "In 1453, Constantinople fell to which empire?",
@@ -30468,7 +32372,7 @@
                             "Galileo"
                         ],
                         "answer": 1,
-                        "explanation": "Gutenberg\u0027s invention sparked the Printing Revolution."
+                        "explanation": "Gutenberg's invention sparked the Printing Revolution."
                     },
                     {
                         "q": "What was the name of the ancient trade network across the Sahara desert?",
@@ -30493,7 +32397,7 @@
                         "explanation": "He was executed along with his family in 1918."
                     },
                     {
-                        "q": "The \u0027D-Day\u0027 landings in 1944 took place in which region of France?",
+                        "q": "The 'D-Day' landings in 1944 took place in which region of France?",
                         "options": [
                             "Brittany",
                             "Normandy",
@@ -30523,7 +32427,7 @@
                             "Ulysses S. Grant"
                         ],
                         "answer": 2,
-                        "explanation": "It declared that all slaves in rebellious states \u0027shall be then, thenceforward, and forever free\u0027."
+                        "explanation": "It declared that all slaves in rebellious states 'shall be then, thenceforward, and forever free'."
                     },
                     {
                         "q": "The Hellenistic period began after the death of which conqueror?",
@@ -30581,12 +32485,12 @@
                         "explanation": "The canal drastically shortened sea voyages between Europe and Asia."
                     },
                     {
-                        "q": "Which war is known as the \u0027Great War\u0027?",
+                        "q": "Which war is known as the 'Great War'?",
                         "options": [
                             "Napoleonic Wars",
                             "World War I",
                             "World War II",
-                            "Thirty Years\u0027 War"
+                            "Thirty Years' War"
                         ],
                         "answer": 1,
                         "explanation": "It was called the Great War before WWII happened."
@@ -30636,7 +32540,7 @@
                         "explanation": "In 100 days, an estimated 800,000 Tutsis and moderate Hutus were killed."
                     },
                     {
-                        "q": "Which leader famously declared \u0027I came, I saw, I conquered\u0027 (Veni, vidi, vici)?",
+                        "q": "Which leader famously declared 'I came, I saw, I conquered' (Veni, vidi, vici)?",
                         "options": [
                             "Alexander the Great",
                             "Hannibal",
@@ -30647,7 +32551,7 @@
                         "explanation": "Caesar said this after a swift victory in Asia Minor."
                     },
                     {
-                        "q": "The term \u0027Pharaoh\u0027 was used for the rulers of?",
+                        "q": "The term 'Pharaoh' was used for the rulers of?",
                         "options": [
                             "Mesopotamia",
                             "Ancient Egypt",
@@ -30655,7 +32559,7 @@
                             "Rome"
                         ],
                         "answer": 1,
-                        "explanation": "It originally meant \u0027great house\u0027 but later referred to the king."
+                        "explanation": "It originally meant 'great house' but later referred to the king."
                     },
                     {
                         "q": "Which country gifted the Statue of Liberty to the United States?",
@@ -30691,7 +32595,7 @@
                         "explanation": "General Francisco Franco established a dictatorship."
                     },
                     {
-                        "q": "Which empire was known as \u0027The sick man of Europe\u0027 in the 19th century?",
+                        "q": "Which empire was known as 'The sick man of Europe' in the 19th century?",
                         "options": [
                             "Austro-Hungarian Empire",
                             "Russian Empire",
@@ -30730,7 +32634,7 @@
                 "icon": "fa-id-card",
                 "questions": [
                     {
-                        "q": "Who is known as the \u0027Father of Computers\u0027?",
+                        "q": "Who is known as the 'Father of Computers'?",
                         "options": [
                             "Steve Jobs",
                             "Bill Gates",
@@ -30749,10 +32653,10 @@
                             "Marie Curie"
                         ],
                         "answer": 1,
-                        "explanation": "Einstein\u0027s E=mc² is the world\u0027s most famous equation."
+                        "explanation": "Einstein's E=mc² is the world's most famous equation."
                     },
                     {
-                        "q": "Who was known as the \u0027Maid of Orleans\u0027?",
+                        "q": "Who was known as the 'Maid of Orleans'?",
                         "options": [
                             "Joan of Arc",
                             "Queen Elizabeth I",
@@ -30760,7 +32664,7 @@
                             "Florence Nightingale"
                         ],
                         "answer": 0,
-                        "explanation": "Joan of Arc was a French heroine of the Hundred Years\u0027 War."
+                        "explanation": "Joan of Arc was a French heroine of the Hundred Years' War."
                     },
                     {
                         "q": "Nelson Mandela was the former president of?",
@@ -30774,7 +32678,7 @@
                         "explanation": "He was a revolutionary leader who spent 27 years in prison before becoming president."
                     },
                     {
-                        "q": "Who wrote \u0027Romeo and Juliet\u0027?",
+                        "q": "Who wrote 'Romeo and Juliet'?",
                         "options": [
                             "Charles Dickens",
                             "William Shakespeare",
@@ -30826,7 +32730,7 @@
                             "Pakistan"
                         ],
                         "answer": 1,
-                        "explanation": "He used non-violent civil disobedience to win India\u0027s independence from Britain."
+                        "explanation": "He used non-violent civil disobedience to win India's independence from Britain."
                     },
                     {
                         "q": "Who founded the social media platform Facebook?",
@@ -30840,7 +32744,7 @@
                         "explanation": "Zuckerberg launched Facebook from his Harvard dorm room in 2004."
                     },
                     {
-                        "q": "Who is the \u0027King of Pop\u0027?",
+                        "q": "Who is the 'King of Pop'?",
                         "options": [
                             "Elvis Presley",
                             "Michael Jackson",
@@ -30859,10 +32763,10 @@
                             "Charles Darwin"
                         ],
                         "answer": 0,
-                        "explanation": "Fleming discovered the first \u0027miracle drug\u0027 in 1928."
+                        "explanation": "Fleming discovered the first 'miracle drug' in 1928."
                     },
                     {
-                        "q": "Who wrote \u0027The Diary of a Young Girl\u0027?",
+                        "q": "Who wrote 'The Diary of a Young Girl'?",
                         "options": [
                             "Anne Frank",
                             "Helen Keller",
@@ -30873,7 +32777,7 @@
                         "explanation": "Anne Frank wrote her diary while hiding from the Nazis in Amsterdam."
                     },
                     {
-                        "q": "Which boxing legend was known as \u0027The Greatest\u0027?",
+                        "q": "Which boxing legend was known as 'The Greatest'?",
                         "options": [
                             "Mike Tyson",
                             "Muhammad Ali",
@@ -30906,7 +32810,7 @@
                         "explanation": "John F. Kennedy was shot in Dallas on November 22, 1963."
                     },
                     {
-                        "q": "Who is known as the \u0027Mother of the Civil Rights Movement\u0027?",
+                        "q": "Who is known as the 'Mother of the Civil Rights Movement'?",
                         "options": [
                             "Coretta Scott King",
                             "Rosa Parks",
@@ -30928,7 +32832,7 @@
                         "explanation": "Wozniak and Jobs co-founded Apple in 1976."
                     },
                     {
-                        "q": "Which famous physicist wrote \u0027A Brief History of Time\u0027?",
+                        "q": "Which famous physicist wrote 'A Brief History of Time'?",
                         "options": [
                             "Albert Einstein",
                             "Stephen Hawking",
@@ -30947,7 +32851,7 @@
                             "Dalai Lama"
                         ],
                         "answer": 1,
-                        "explanation": "Malala won for her struggle against the suppression of children\u0027s rights."
+                        "explanation": "Malala won for her struggle against the suppression of children's rights."
                     },
                     {
                         "q": "Which architect designed the Eiffel Tower?",
@@ -30958,7 +32862,7 @@
                             "Le Corbusier"
                         ],
                         "answer": 0,
-                        "explanation": "The tower was built for the 1889 World\u0027s Fair."
+                        "explanation": "The tower was built for the 1889 World's Fair."
                     },
                     {
                         "q": "Who is the current CEO of Tesla and SpaceX?",
@@ -30972,7 +32876,7 @@
                         "explanation": "Elon Musk is the lead designer and CEO of both companies."
                     },
                     {
-                        "q": "Which singer is known as the \u0027Queen of Soul\u0027?",
+                        "q": "Which singer is known as the 'Queen of Soul'?",
                         "options": [
                             "Beyonce",
                             "Aretha Franklin",
@@ -31005,7 +32909,7 @@
                         "explanation": "Aristotle taught the young prince for several years."
                     },
                     {
-                        "q": "Who is the lead singer of the band \u0027U2\u0027?",
+                        "q": "Who is the lead singer of the band 'U2'?",
                         "options": [
                             "Sting",
                             "Bono",
@@ -31016,7 +32920,7 @@
                         "explanation": "Bono is also famous for his global humanitarian work."
                     },
                     {
-                        "q": "Which explorer \u0027discovered\u0027 the sea route to India around Africa?",
+                        "q": "Which explorer 'discovered' the sea route to India around Africa?",
                         "options": [
                             "Columbus",
                             "Vasco da Gama",
@@ -31027,7 +32931,7 @@
                         "explanation": "The Portuguese explorer reached Calicut in 1498."
                     },
                     {
-                        "q": "Who painted \u0027The Starry Night\u0027?",
+                        "q": "Who painted 'The Starry Night'?",
                         "options": [
                             "Picasso",
                             "Van Gogh",
@@ -31049,7 +32953,7 @@
                         "explanation": "Novak Djokovic currently holds the record with 24 titles."
                     },
                     {
-                        "q": "Who is the protagonist of the \u0027Sherlock Holmes\u0027 stories?",
+                        "q": "Who is the protagonist of the 'Sherlock Holmes' stories?",
                         "options": [
                             "Watson",
                             "Sherlock Holmes",
@@ -31057,10 +32961,10 @@
                             "Poirot"
                         ],
                         "answer": 1,
-                        "explanation": "Arthur Conan Doyle\u0027s famous consulting detective."
+                        "explanation": "Arthur Conan Doyle's famous consulting detective."
                     },
                     {
-                        "q": "Who founded the \u0027Red Cross\u0027?",
+                        "q": "Who founded the 'Red Cross'?",
                         "options": [
                             "Florence Nightingale",
                             "Henry Dunant",
@@ -31068,7 +32972,7 @@
                             "Clara Barton"
                         ],
                         "answer": 1,
-                        "explanation": "Dunant\u0027s experience at the Battle of Solferino led to the organization\u0027s creation."
+                        "explanation": "Dunant's experience at the Battle of Solferino led to the organization's creation."
                     },
                     {
                         "q": "Which scientist is known for the law of universal gravitation?",
@@ -31079,10 +32983,10 @@
                             "Kepler"
                         ],
                         "answer": 1,
-                        "explanation": "Sir Isaac Newton\u0027s laws of motion are foundational to physics."
+                        "explanation": "Sir Isaac Newton's laws of motion are foundational to physics."
                     },
                     {
-                        "q": "Who was the \u0027Lady with the Lamp\u0027?",
+                        "q": "Who was the 'Lady with the Lamp'?",
                         "options": [
                             "Marie Curie",
                             "Florence Nightingale",
@@ -31093,7 +32997,7 @@
                         "explanation": "She was a pioneer of modern nursing during the Crimean War."
                     },
                     {
-                        "q": "Who is the author of \u0027The Origin of Species\u0027?",
+                        "q": "Who is the author of 'The Origin of Species'?",
                         "options": [
                             "Gregor Mendel",
                             "Charles Darwin",
@@ -31112,10 +33016,10 @@
                             "John Glenn"
                         ],
                         "answer": 1,
-                        "explanation": "Armstrong famously said, \u0027That\u0027s one small step for man...\u0027"
+                        "explanation": "Armstrong famously said, 'That's one small step for man...'"
                     },
                     {
-                        "q": "Which explorer \u0027discovered\u0027 the Americas in 1492?",
+                        "q": "Which explorer 'discovered' the Americas in 1492?",
                         "options": [
                             "Vasco da Gama",
                             "Christopher Columbus",
@@ -31137,7 +33041,7 @@
                         "explanation": "Queen Victoria reigned for 63 years."
                     },
                     {
-                        "q": "Who is the founder of the \u0027SpaceX\u0027 company?",
+                        "q": "Who is the founder of the 'SpaceX' company?",
                         "options": [
                             "Jeff Bezos",
                             "Elon Musk",
@@ -31156,10 +33060,10 @@
                             "Dali"
                         ],
                         "answer": 1,
-                        "explanation": "Vincent van Gogh\u0027s mental health struggles are well-documented."
+                        "explanation": "Vincent van Gogh's mental health struggles are well-documented."
                     },
                     {
-                        "q": "Who wrote \u0027The Communist Manifesto\u0027?",
+                        "q": "Who wrote 'The Communist Manifesto'?",
                         "options": [
                             "Lenin",
                             "Karl Marx",
@@ -31170,7 +33074,7 @@
                         "explanation": "Karl Marx co-authored the book with Friedrich Engels."
                     },
                     {
-                        "q": "Who was the \u0027Iron Lady\u0027 of British politics?",
+                        "q": "Who was the 'Iron Lady' of British politics?",
                         "options": [
                             "Theresa May",
                             "Margaret Thatcher",
@@ -31181,7 +33085,7 @@
                         "explanation": "Thatcher was the first female PM of the UK."
                     },
                     {
-                        "q": "Who is known as the \u0027Father of Modern Physics\u0027?",
+                        "q": "Who is known as the 'Father of Modern Physics'?",
                         "options": [
                             "Newton",
                             "Einstein",
@@ -31189,10 +33093,10 @@
                             "Niels Bohr"
                         ],
                         "answer": 1,
-                        "explanation": "Albert Einstein\u0027s work revolutionized our understanding of space and time."
+                        "explanation": "Albert Einstein's work revolutionized our understanding of space and time."
                     },
                     {
-                        "q": "Who painted \u0027The Last Supper\u0027?",
+                        "q": "Who painted 'The Last Supper'?",
                         "options": [
                             "Michelangelo",
                             "Leonardo da Vinci",
@@ -31200,7 +33104,7 @@
                             "Donatello"
                         ],
                         "answer": 1,
-                        "explanation": "Da Vinci\u0027s mural is one of the most famous religious paintings."
+                        "explanation": "Da Vinci's mural is one of the most famous religious paintings."
                     },
                     {
                         "q": "Who was the leader of the Civil Rights movement in the USA?",
@@ -31211,10 +33115,10 @@
                             "Frederick Douglass"
                         ],
                         "answer": 1,
-                        "explanation": "Dr. King is famous for his \u0027I Have a Dream\u0027 speech."
+                        "explanation": "Dr. King is famous for his 'I Have a Dream' speech."
                     },
                     {
-                        "q": "Who is the author of \u0027A Tale of Two Cities\u0027?",
+                        "q": "Who is the author of 'A Tale of Two Cities'?",
                         "options": [
                             "Jane Austen",
                             "Charles Dickens",
@@ -31225,7 +33129,7 @@
                         "explanation": "Dickens is known for his social commentary and memorable characters."
                     },
                     {
-                        "q": "Who founded the \u0027Academy\u0027 in Ancient Athens?",
+                        "q": "Who founded the 'Academy' in Ancient Athens?",
                         "options": [
                             "Socrates",
                             "Plato",
@@ -31247,7 +33151,7 @@
                         "explanation": "Curie won in Physics and Chemistry."
                     },
                     {
-                        "q": "Who is the founder of the \u0027World Wide Web\u0027?",
+                        "q": "Who is the founder of the 'World Wide Web'?",
                         "options": [
                             "Bill Gates",
                             "Tim Berners-Lee",
@@ -31258,7 +33162,7 @@
                         "explanation": "He invented the WWW while working at CERN."
                     },
                     {
-                        "q": "Who was the \u0027Desert Fox\u0027 of WWII?",
+                        "q": "Who was the 'Desert Fox' of WWII?",
                         "options": [
                             "Patton",
                             "Rommel",
@@ -31269,7 +33173,7 @@
                         "explanation": "Erwin Rommel was a highly respected German general."
                     },
                     {
-                        "q": "Who is the author of \u0027War and Peace\u0027?",
+                        "q": "Who is the author of 'War and Peace'?",
                         "options": [
                             "Fyodor Dostoevsky",
                             "Leo Tolstoy",
@@ -31277,7 +33181,7 @@
                             "Vladimir Nabokov"
                         ],
                         "answer": 1,
-                        "explanation": "Tolstoy\u0027s epic novel is a masterpiece of world literature."
+                        "explanation": "Tolstoy's epic novel is a masterpiece of world literature."
                     },
                     {
                         "q": "Who was the first President of the post-apartheid South Africa?",
@@ -31291,7 +33195,7 @@
                         "explanation": "Mandela became president in 1994 after the first multiracial elections."
                     },
                     {
-                        "q": "Who is known as the \u0027Angel of the Prisons\u0027?",
+                        "q": "Who is known as the 'Angel of the Prisons'?",
                         "options": [
                             "Mother Teresa",
                             "Elizabeth Fry",
@@ -31313,7 +33217,7 @@
                         "explanation": "James Watson and Francis Crick described the double helix."
                     },
                     {
-                        "q": "Who was the \u0027Bird Man of India\u0027?",
+                        "q": "Who was the 'Bird Man of India'?",
                         "options": [
                             "Salim Ali",
                             "J.C. Bose",
@@ -31324,7 +33228,7 @@
                         "explanation": "Salim Ali was a pre-eminent Indian ornithologist."
                     },
                     {
-                        "q": "Who is the author of \u0027Das Kapital\u0027?",
+                        "q": "Who is the author of 'Das Kapital'?",
                         "options": [
                             "Adam Smith",
                             "Karl Marx",
@@ -31346,7 +33250,7 @@
                         "explanation": "Earhart set the record in 1932."
                     },
                     {
-                        "q": "Who is the \u0027King of Horror\u0027 in literature?",
+                        "q": "Who is the 'King of Horror' in literature?",
                         "options": [
                             "Edgar Allan Poe",
                             "Stephen King",
@@ -31354,10 +33258,10 @@
                             "Mary Shelley"
                         ],
                         "answer": 1,
-                        "explanation": "King\u0027s books have sold over 350 million copies."
+                        "explanation": "King's books have sold over 350 million copies."
                     },
                     {
-                        "q": "Who was the leader of the \u0027Free French\u0027 forces during WWII?",
+                        "q": "Who was the leader of the 'Free French' forces during WWII?",
                         "options": [
                             "Napoleon",
                             "Charles de Gaulle",
@@ -31368,7 +33272,7 @@
                         "explanation": "De Gaulle led the resistance from London."
                     },
                     {
-                        "q": "Who is the author of \u0027To Kill a Mockingbird\u0027?",
+                        "q": "Who is the author of 'To Kill a Mockingbird'?",
                         "options": [
                             "John Steinbeck",
                             "Harper Lee",
@@ -31379,7 +33283,7 @@
                         "explanation": "The novel addresses serious themes like racial injustice."
                     },
                     {
-                        "q": "Who was the \u0027Great Liberator\u0027 of South America?",
+                        "q": "Who was the 'Great Liberator' of South America?",
                         "options": [
                             "Simon Bolivar",
                             "Jose de San Martin",
@@ -31390,7 +33294,7 @@
                         "explanation": "Bolivar is a central figure in the independence of several countries."
                     },
                     {
-                        "q": "Who founded the \u0027Al-Qaeda\u0027 group?",
+                        "q": "Who founded the 'Al-Qaeda' group?",
                         "options": [
                             "Saddam Hussein",
                             "Osama bin Laden",
@@ -31401,7 +33305,7 @@
                         "explanation": "Bin Laden was the mastermind behind the 9/11 attacks."
                     },
                     {
-                        "q": "Who is the author of \u0027The Prophet\u0027?",
+                        "q": "Who is the author of 'The Prophet'?",
                         "options": [
                             "Rumi",
                             "Kahlil Gibran",
@@ -31409,7 +33313,7 @@
                             "Hafez"
                         ],
                         "answer": 1,
-                        "explanation": "Gibran\u0027s poetic essays are internationally acclaimed."
+                        "explanation": "Gibran's poetic essays are internationally acclaimed."
                     },
                     {
                         "q": "Who was the first Emperor of Rome?",
@@ -31423,7 +33327,7 @@
                         "explanation": "Octavian took the title Augustus and established the Roman Empire."
                     },
                     {
-                        "q": "Who is the \u0027Father of Medicine\u0027?",
+                        "q": "Who is the 'Father of Medicine'?",
                         "options": [
                             "Aristotle",
                             "Hippocrates",
@@ -31445,7 +33349,7 @@
                         "explanation": "Jefferson drafted the historic document."
                     },
                     {
-                        "q": "Who is the author of \u0027Les Miserables\u0027?",
+                        "q": "Who is the author of 'Les Miserables'?",
                         "options": [
                             "Gustave Flaubert",
                             "Victor Hugo",
@@ -31453,10 +33357,10 @@
                             "Alexandre Dumas"
                         ],
                         "answer": 1,
-                        "explanation": "Hugo\u0027s novel is a masterpiece of romanticism."
+                        "explanation": "Hugo's novel is a masterpiece of romanticism."
                     },
                     {
-                        "q": "Who was the leader of the \u0027Solidarity\u0027 movement in Poland?",
+                        "q": "Who was the leader of the 'Solidarity' movement in Poland?",
                         "options": [
                             "Lech Walesa",
                             "Pope John Paul II",
@@ -31467,7 +33371,7 @@
                         "explanation": "Walesa was a Nobel laureate and former president."
                     },
                     {
-                        "q": "Who is the author of \u0027The Catcher in the Rye\u0027?",
+                        "q": "Who is the author of 'The Catcher in the Rye'?",
                         "options": [
                             "J.D. Salinger",
                             "F. Scott Fitzgerald",
@@ -31478,7 +33382,7 @@
                         "explanation": "The book is a classic of modern literature."
                     },
                     {
-                        "q": "Who was the \u0027Desert Fox\u0027 in WWII?",
+                        "q": "Who was the 'Desert Fox' in WWII?",
                         "options": [
                             "Rommel",
                             "Patton",
@@ -31489,7 +33393,7 @@
                         "explanation": "Erwin Rommel was a legendary German field marshal."
                     },
                     {
-                        "q": "Who is the \u0027Father of Information Theory\u0027?",
+                        "q": "Who is the 'Father of Information Theory'?",
                         "options": [
                             "Alan Turing",
                             "Claude Shannon",
@@ -31497,10 +33401,10 @@
                             "Norbert Wiener"
                         ],
                         "answer": 1,
-                        "explanation": "Shannon\u0027s work laid the foundations for the digital age."
+                        "explanation": "Shannon's work laid the foundations for the digital age."
                     },
                     {
-                        "q": "Who was the \u0027Little Corporal\u0027?",
+                        "q": "Who was the 'Little Corporal'?",
                         "options": [
                             "Napoleon Bonaparte",
                             "Mussolini",
@@ -31511,7 +33415,7 @@
                         "explanation": "The nickname was given to Napoleon by his troops."
                     },
                     {
-                        "q": "Who is the author of \u0027Ulysses\u0027?",
+                        "q": "Who is the author of 'Ulysses'?",
                         "options": [
                             "James Joyce",
                             "T.S. Eliot",
@@ -31522,7 +33426,7 @@
                         "explanation": "The novel is a landmark of modernist literature."
                     },
                     {
-                        "q": "Who founded the \u0027Zionist Movement\u0027?",
+                        "q": "Who founded the 'Zionist Movement'?",
                         "options": [
                             "David Ben-Gurion",
                             "Theodor Herzl",
@@ -31533,7 +33437,7 @@
                         "explanation": "Herzl is considered the father of modern political Zionism."
                     },
                     {
-                        "q": "Who was the \u0027Nightingale of India\u0027?",
+                        "q": "Who was the 'Nightingale of India'?",
                         "options": [
                             "Sarojini Naidu",
                             "Lata Mangeshkar",
@@ -31544,7 +33448,7 @@
                         "explanation": "Naidu was a prominent poet and freedom fighter."
                     },
                     {
-                        "q": "Who is the author of \u0027Gulliver\u0027s Travels\u0027?",
+                        "q": "Who is the author of 'Gulliver's Travels'?",
                         "options": [
                             "Jonathan Swift",
                             "Daniel Defoe",
@@ -31555,7 +33459,7 @@
                         "explanation": "The book is a famous satire on human nature."
                     },
                     {
-                        "q": "Who was the leader of the \u0027Red Garibaldi\u0027 movement in Italy?",
+                        "q": "Who was the leader of the 'Red Garibaldi' movement in Italy?",
                         "options": [
                             "Mazzini",
                             "Garibaldi",
@@ -31566,7 +33470,7 @@
                         "explanation": "Garibaldi was a key figure in Italian unification."
                     },
                     {
-                        "q": "Who is the \u0027Father of Geometry\u0027?",
+                        "q": "Who is the 'Father of Geometry'?",
                         "options": [
                             "Pythagoras",
                             "Euclid",
@@ -31574,10 +33478,10 @@
                             "Newton"
                         ],
                         "answer": 1,
-                        "explanation": "Euclid\u0027s \u0027Elements\u0027 is the most successful textbook in history."
+                        "explanation": "Euclid's 'Elements' is the most successful textbook in history."
                     },
                     {
-                        "q": "Who was the \u0027Black Napoleon\u0027?",
+                        "q": "Who was the 'Black Napoleon'?",
                         "options": [
                             "Toussaint Louverture",
                             "Jean-Jacques Dessalines",
@@ -31588,7 +33492,7 @@
                         "explanation": "He led the Haitian Revolution against the French."
                     },
                     {
-                        "q": "Who is the author of \u0027The Old Man and the Sea\u0027?",
+                        "q": "Who is the author of 'The Old Man and the Sea'?",
                         "options": [
                             "Steinbeck",
                             "Hemingway",
@@ -31599,7 +33503,7 @@
                         "explanation": "Ernest Hemingway won the Nobel Prize for Literature in 1954."
                     },
                     {
-                        "q": "Who is known as the \u0027Light of Asia\u0027?",
+                        "q": "Who is known as the 'Light of Asia'?",
                         "options": [
                             "Confucius",
                             "Gautama Buddha",
@@ -31610,7 +33514,7 @@
                         "explanation": "The title is famously attributed to Gautama Buddha for his teachings."
                     },
                     {
-                        "q": "Who was the \u0027Iron Chancellor\u0027 of Germany?",
+                        "q": "Who was the 'Iron Chancellor' of Germany?",
                         "options": [
                             "Otto von Bismarck",
                             "Adolf Hitler",
@@ -31621,7 +33525,7 @@
                         "explanation": "Bismarck unified Germany in 1871."
                     },
                     {
-                        "q": "Which British physicist wrote \u0027A Brief History of Time\u0027?",
+                        "q": "Which British physicist wrote 'A Brief History of Time'?",
                         "options": [
                             "Stephen Hawking",
                             "Isaac Newton",
@@ -31643,7 +33547,7 @@
                         "explanation": "Nightingale revolutionized nursing during the Crimean War."
                     },
                     {
-                        "q": "Who authored the epic fantasy \u0027The Lord of the Rings\u0027?",
+                        "q": "Who authored the epic fantasy 'The Lord of the Rings'?",
                         "options": [
                             "C.S. Lewis",
                             "J.K. Rowling",
@@ -31665,7 +33569,7 @@
                         "explanation": "Lincoln delivered it during the American Civil War."
                     },
                     {
-                        "q": "Who is the legendary martial artist who starred in \u0027Enter the Dragon\u0027?",
+                        "q": "Who is the legendary martial artist who starred in 'Enter the Dragon'?",
                         "options": [
                             "Jackie Chan",
                             "Jet Li",
@@ -31684,10 +33588,10 @@
                             "Johannes Kepler"
                         ],
                         "answer": 1,
-                        "explanation": "Newton published these laws in his \u0027Principia\u0027."
+                        "explanation": "Newton published these laws in his 'Principia'."
                     },
                     {
-                        "q": "Who is known as the \u0027Father of the Indian Constitution\u0027?",
+                        "q": "Who is known as the 'Father of the Indian Constitution'?",
                         "options": [
                             "Mahatma Gandhi",
                             "Jawaharlal Nehru",
@@ -31728,7 +33632,7 @@
                             "Thomas Huxley"
                         ],
                         "answer": 1,
-                        "explanation": "Darwin\u0027s \u0027On the Origin of Species\u0027 was highly influential."
+                        "explanation": "Darwin's 'On the Origin of Species' was highly influential."
                     },
                     {
                         "q": "Who was the first woman to win a Nobel Prize?",
@@ -31742,7 +33646,7 @@
                         "explanation": "She won in Physics, and later in Chemistry."
                     },
                     {
-                        "q": "Which Russian author wrote \u0027Crime and Punishment\u0027?",
+                        "q": "Which Russian author wrote 'Crime and Punishment'?",
                         "options": [
                             "Leo Tolstoy",
                             "Anton Chekhov",
@@ -31775,7 +33679,7 @@
                         "explanation": "Armstrong stepped onto the lunar surface in 1969."
                     },
                     {
-                        "q": "Who is known as the \u0027Father of Geometry\u0027?",
+                        "q": "Who is known as the 'Father of Geometry'?",
                         "options": [
                             "Pythagoras",
                             "Archimedes",
@@ -31783,10 +33687,10 @@
                             "Thales"
                         ],
                         "answer": 2,
-                        "explanation": "Euclid\u0027s \u0027Elements\u0027 is the foundational textbook of geometry."
+                        "explanation": "Euclid's 'Elements' is the foundational textbook of geometry."
                     },
                     {
-                        "q": "Which civil rights leader delivered the \u0027I Have a Dream\u0027 speech?",
+                        "q": "Which civil rights leader delivered the 'I Have a Dream' speech?",
                         "options": [
                             "Malcolm X",
                             "Martin Luther King Jr.",
@@ -31797,7 +33701,7 @@
                         "explanation": "Dr. King delivered it during the 1963 March on Washington."
                     },
                     {
-                        "q": "Who composed the \u0027Moonlight Sonata\u0027?",
+                        "q": "Who composed the 'Moonlight Sonata'?",
                         "options": [
                             "Mozart",
                             "Bach",
@@ -31808,7 +33712,7 @@
                         "explanation": "Ludwig van Beethoven composed this famous piano piece."
                     },
                     {
-                        "q": "Which leader is known as the \u0027Mahatma\u0027 (Great Soul)?",
+                        "q": "Which leader is known as the 'Mahatma' (Great Soul)?",
                         "options": [
                             "Jawaharlal Nehru",
                             "Subhas Chandra Bose",
@@ -31816,10 +33720,10 @@
                             "Bhagat Singh"
                         ],
                         "answer": 2,
-                        "explanation": "Gandhi led India\u0027s non-violent independence movement."
+                        "explanation": "Gandhi led India's non-violent independence movement."
                     },
                     {
-                        "q": "Who is the \u0027King of Pop\u0027?",
+                        "q": "Who is the 'King of Pop'?",
                         "options": [
                             "Elvis Presley",
                             "Michael Jackson",
@@ -31830,7 +33734,7 @@
                         "explanation": "Michael Jackson was a global cultural figure."
                     },
                     {
-                        "q": "Who wrote \u0027The Diary of a Young Girl\u0027?",
+                        "q": "Who wrote 'The Diary of a Young Girl'?",
                         "options": [
                             "Anne Frank",
                             "Helen Keller",
@@ -31838,7 +33742,7 @@
                             "Sylvia Plath"
                         ],
                         "answer": 0,
-                        "explanation": "Anne Frank\u0027s diary documents her life in hiding during the Holocaust."
+                        "explanation": "Anne Frank's diary documents her life in hiding during the Holocaust."
                     },
                     {
                         "q": "Which political leader spent 27 years in prison before becoming President of South Africa?",
@@ -31874,7 +33778,7 @@
                         "explanation": "Einstein fundamentally changed our understanding of physics."
                     },
                     {
-                        "q": "Who was the first female Prime Minister of the UK, known as the \u0027Iron Lady\u0027?",
+                        "q": "Who was the first female Prime Minister of the UK, known as the 'Iron Lady'?",
                         "options": [
                             "Theresa May",
                             "Queen Victoria",
@@ -31893,7 +33797,7 @@
                             "Donatello"
                         ],
                         "answer": 1,
-                        "explanation": "Michelangelo\u0027s frescoes are among the greatest works of Western art."
+                        "explanation": "Michelangelo's frescoes are among the greatest works of Western art."
                     },
                     {
                         "q": "Who was the leader of the Soviet Union during World War II?",
@@ -31918,7 +33822,7 @@
                         "explanation": "Freud developed therapeutic techniques centered on the unconscious mind."
                     },
                     {
-                        "q": "Which American author wrote \u0027To Kill a Mockingbird\u0027?",
+                        "q": "Which American author wrote 'To Kill a Mockingbird'?",
                         "options": [
                             "Harper Lee",
                             "Mark Twain",
@@ -31926,7 +33830,7 @@
                             "F. Scott Fitzgerald"
                         ],
                         "answer": 0,
-                        "explanation": "Lee\u0027s novel addresses racial injustice in the American South."
+                        "explanation": "Lee's novel addresses racial injustice in the American South."
                     },
                     {
                         "q": "Who was the first woman to fly solo across the Atlantic Ocean?",
@@ -31951,7 +33855,7 @@
                         "explanation": "Aristotle was a foundational figure in Western philosophy."
                     },
                     {
-                        "q": "Who is the author of the \u0027Harry Potter\u0027 series?",
+                        "q": "Who is the author of the 'Harry Potter' series?",
                         "options": [
                             "J.R.R. Tolkien",
                             "C.S. Lewis",
@@ -31959,7 +33863,7 @@
                             "Stephen King"
                         ],
                         "answer": 2,
-                        "explanation": "Rowling\u0027s books became the best-selling book series in history."
+                        "explanation": "Rowling's books became the best-selling book series in history."
                     },
                     {
                         "q": "Which famous leader was assassinated on the Ides of March (44 BC)?",
@@ -31973,7 +33877,7 @@
                         "explanation": "Caesar was assassinated by a group of Roman senators."
                     },
                     {
-                        "q": "Who painted the \u0027Mona Lisa\u0027?",
+                        "q": "Who painted the 'Mona Lisa'?",
                         "options": [
                             "Vincent van Gogh",
                             "Pablo Picasso",
@@ -31981,10 +33885,10 @@
                             "Claude Monet"
                         ],
                         "answer": 2,
-                        "explanation": "Da Vinci\u0027s portrait is the most famous painting in the world."
+                        "explanation": "Da Vinci's portrait is the most famous painting in the world."
                     },
                     {
-                        "q": "Which musician was known as the \u0027King of Rock and Roll\u0027?",
+                        "q": "Which musician was known as the 'King of Rock and Roll'?",
                         "options": [
                             "Chuck Berry",
                             "Little Richard",
@@ -32017,7 +33921,7 @@
                         "explanation": "Genghis Khan conquered massive territories across Eurasia."
                     },
                     {
-                        "q": "Who wrote the play \u0027Romeo and Juliet\u0027?",
+                        "q": "Who wrote the play 'Romeo and Juliet'?",
                         "options": [
                             "Christopher Marlowe",
                             "Ben Jonson",
@@ -32028,7 +33932,7 @@
                         "explanation": "Shakespeare is widely regarded as the greatest playwright."
                     },
                     {
-                        "q": "Which nurse is famously known as the \u0027Lady with the Lamp\u0027?",
+                        "q": "Which nurse is famously known as the 'Lady with the Lamp'?",
                         "options": [
                             "Clara Barton",
                             "Mary Seacole",
@@ -32047,7 +33951,7 @@
                             "Sigmund Freud"
                         ],
                         "answer": 2,
-                        "explanation": "Pavlov\u0027s work was foundational to behavioral psychology."
+                        "explanation": "Pavlov's work was foundational to behavioral psychology."
                     },
                     {
                         "q": "Which inventor holds the most US patents, including the phonograph and light bulb?",
@@ -32091,7 +33995,7 @@
                             "Amerigo Vespucci"
                         ],
                         "answer": 2,
-                        "explanation": "Columbus\u0027s voyages initiated the widespread colonization of the Americas."
+                        "explanation": "Columbus's voyages initiated the widespread colonization of the Americas."
                     },
                     {
                         "q": "Who was the longest-reigning British monarch before Queen Elizabeth II?",
@@ -32105,7 +34009,7 @@
                         "explanation": "Victoria reigned for over 63 years."
                     },
                     {
-                        "q": "Which athlete was famously known as \u0027The Greatest\u0027?",
+                        "q": "Which athlete was famously known as 'The Greatest'?",
                         "options": [
                             "Michael Jordan",
                             "Babe Ruth",
@@ -32116,7 +34020,7 @@
                         "explanation": "Ali was a highly celebrated heavyweight boxer."
                     },
                     {
-                        "q": "Who wrote \u0027The Communist Manifesto\u0027?",
+                        "q": "Who wrote 'The Communist Manifesto'?",
                         "options": [
                             "Vladimir Lenin",
                             "Karl Marx",
@@ -32135,7 +34039,7 @@
                             "James Watt"
                         ],
                         "answer": 1,
-                        "explanation": "Tesla\u0027s AC system remains the global standard for electricity transmission."
+                        "explanation": "Tesla's AC system remains the global standard for electricity transmission."
                     },
                     {
                         "q": "Who was the Prime Minister of the UK during most of World War II?",
@@ -32157,7 +34061,7 @@
         "icon": "fa-language",
         "subcategories": [
             {
-                "category": "Urdu Language \u0026 Literature",
+                "category": "Urdu Language & Literature",
                 "icon": "fa-book-open",
                 "questions": [
                     {
@@ -32180,7 +34084,7 @@
                             "Udaas Naslain"
                         ],
                         "answer": 2,
-                        "explanation": "Bang-e-Dara (The Call of the Marching Bell) is Iqbal\u0027s first philosophical poetry book in Urdu."
+                        "explanation": "Bang-e-Dara (The Call of the Marching Bell) is Iqbal's first philosophical poetry book in Urdu."
                     },
                     {
                         "q": "Who wrote the famous Pakistani national anthem?",
@@ -32202,10 +34106,10 @@
                             "Dagh"
                         ],
                         "answer": 1,
-                        "explanation": "Mirza Asadullah Khan famously used \u0027Ghalib\u0027 as his pen name."
+                        "explanation": "Mirza Asadullah Khan famously used 'Ghalib' as his pen name."
                     },
                     {
-                        "q": "The word \u0027Urdu\u0027 itself is derived from which language family?",
+                        "q": "The word 'Urdu' itself is derived from which language family?",
                         "options": [
                             "Arabic",
                             "Persian",
@@ -32213,10 +34117,10 @@
                             "Sanskrit"
                         ],
                         "answer": 2,
-                        "explanation": "It is derived from the Turkic word \u0027Ordu\u0027, meaning \u0027army\u0027 or \u0027camp\u0027."
+                        "explanation": "It is derived from the Turkic word 'Ordu', meaning 'army' or 'camp'."
                     },
                     {
-                        "q": "Who is the legendary author of the novel \u0027Raja Gidh\u0027?",
+                        "q": "Who is the legendary author of the novel 'Raja Gidh'?",
                         "options": [
                             "Bano Qudsia",
                             "Ashfaq Ahmed",
@@ -32224,7 +34128,7 @@
                             "Fatima Surayya Bajia"
                         ],
                         "answer": 0,
-                        "explanation": "Bano Qudsia wrote the acclaimed novel \u0027Raja Gidh\u0027."
+                        "explanation": "Bano Qudsia wrote the acclaimed novel 'Raja Gidh'."
                     },
                     {
                         "q": "Manto was famously known for writing which form of literature?",
@@ -32238,7 +34142,7 @@
                         "explanation": "Saadat Hasan Manto was a master of the Urdu short story."
                     },
                     {
-                        "q": "Who wrote \u0027Awaaz Dost\u0027?",
+                        "q": "Who wrote 'Awaaz Dost'?",
                         "options": [
                             "Mukhtar Masood",
                             "Mustansar Hussain Tarar",
@@ -32246,10 +34150,10 @@
                             "Patras Bokhari"
                         ],
                         "answer": 0,
-                        "explanation": "Mukhtar Masood\u0027s \u0027Awaaz Dost\u0027 is a classic in Urdu literature."
+                        "explanation": "Mukhtar Masood's 'Awaaz Dost' is a classic in Urdu literature."
                     },
                     {
-                        "q": "What is the main subject of \u0027Musaddas-e-Hali\u0027?",
+                        "q": "What is the main subject of 'Musaddas-e-Hali'?",
                         "options": [
                             "Romance",
                             "Praise of Nature",
@@ -32282,7 +34186,7 @@
                         "explanation": "His real name was Dhanpat Rai Srivastava."
                     },
                     {
-                        "q": "Who wrote the famous travelogue \u0027Niklay Teri Talash Main\u0027?",
+                        "q": "Who wrote the famous travelogue 'Niklay Teri Talash Main'?",
                         "options": [
                             "Ibn-e-Insha",
                             "Mustansar Hussain Tarar",
@@ -32293,7 +34197,7 @@
                         "explanation": "Mustansar Hussain Tarar is famous for his detailed travelogues."
                     },
                     {
-                        "q": "Who is the author of the novel \u0027Udaas Naslain\u0027?",
+                        "q": "Who is the author of the novel 'Udaas Naslain'?",
                         "options": [
                             "Abdullah Hussain",
                             "Intizar Hussain",
@@ -32304,7 +34208,7 @@
                         "explanation": "Abdullah Hussain wrote this masterpiece evaluating generations divided by Partition."
                     },
                     {
-                        "q": "Which poet is known as \u0027Shair-e-Mashriq\u0027 (Poet of the East)?",
+                        "q": "Which poet is known as 'Shair-e-Mashriq' (Poet of the East)?",
                         "options": [
                             "Faiz Ahmed Faiz",
                             "Allama Iqbal",
@@ -32315,7 +34219,7 @@
                         "explanation": "Allama Iqbal is universally acclaimed as the Poet of the East."
                     },
                     {
-                        "q": "Who wrote the famous poem \u0027Shikwa\u0027 and \u0027Jawab-e-Shikwa\u0027?",
+                        "q": "Who wrote the famous poem 'Shikwa' and 'Jawab-e-Shikwa'?",
                         "options": [
                             "Allama Iqbal",
                             "Altaf Hussain Hali",
@@ -32326,7 +34230,7 @@
                         "explanation": "These legendary poems were completely recited by Allama Iqbal addressing the Muslim ummah."
                     },
                     {
-                        "q": "Who is the author of \u0027Khuda Ki Basti\u0027?",
+                        "q": "Who is the author of 'Khuda Ki Basti'?",
                         "options": [
                             "Shaukat Siddiqui",
                             "Mumtaz Mufti",
@@ -32345,10 +34249,10 @@
                             "Aag Ka Darya"
                         ],
                         "answer": 1,
-                        "explanation": "Naseem Hijazi is famous for writing historical Islamic novels like \u0027Muhammad Bin Qasim\u0027."
+                        "explanation": "Naseem Hijazi is famous for writing historical Islamic novels like 'Muhammad Bin Qasim'."
                     },
                     {
-                        "q": "Who wrote the masterpiece novel \u0027Aag Ka Darya\u0027?",
+                        "q": "Who wrote the masterpiece novel 'Aag Ka Darya'?",
                         "options": [
                             "Bano Qudsia",
                             "Qurratulain Hyder",
@@ -32356,7 +34260,7 @@
                             "Parveen Shakir"
                         ],
                         "answer": 1,
-                        "explanation": "Qurratulain Hyder\u0027s \u0027Aag Ka Darya\u0027 spans centuries of Indian subcontinent history."
+                        "explanation": "Qurratulain Hyder's 'Aag Ka Darya' spans centuries of Indian subcontinent history."
                     },
                     {
                         "q": "What was the real name of Ibn-e-Insha?",
@@ -32370,7 +34274,7 @@
                         "explanation": "His real name was Sher Muhammad Khan."
                     },
                     {
-                        "q": "Who is the author of the biography \u0027Aab-e-Hayat\u0027?",
+                        "q": "Who is the author of the biography 'Aab-e-Hayat'?",
                         "options": [
                             "Sir Syed Ahmed Khan",
                             "Maulana Muhammad Hussain Azad",
@@ -32392,7 +34296,7 @@
                         "explanation": "Parveen Shakir revolutionized female expression in Urdu Ghazal."
                     },
                     {
-                        "q": "Who wrote the classic drama \u0027Anarkali\u0027?",
+                        "q": "Who wrote the classic drama 'Anarkali'?",
                         "options": [
                             "Imtiaz Ali Taj",
                             "Agha Hashar Kashmiri",
@@ -32414,7 +34318,7 @@
                         "explanation": "Zavia was a famous philosophical and storytelling program."
                     },
                     {
-                        "q": "Which poet authored \u0027Nuskha-e-Hai Wafa\u0027?",
+                        "q": "Which poet authored 'Nuskha-e-Hai Wafa'?",
                         "options": [
                             "Allama Iqbal",
                             "Faiz Ahmed Faiz",
@@ -32422,10 +34326,10 @@
                             "Habib Jalib"
                         ],
                         "answer": 1,
-                        "explanation": "It is the complete collection of Faiz Ahmed Faiz\u0027s poetry."
+                        "explanation": "It is the complete collection of Faiz Ahmed Faiz's poetry."
                     },
                     {
-                        "q": "Who wrote the renowned novel \u0027Jannat Ke Pattay\u0027?",
+                        "q": "Who wrote the renowned novel 'Jannat Ke Pattay'?",
                         "options": [
                             "Umera Ahmed",
                             "Nemrah Ahmed",
@@ -32436,7 +34340,7 @@
                         "explanation": "Nemrah Ahmed is a popular contemporary Urdu novelist."
                     },
                     {
-                        "q": "Which poet is known as the \u0027Poet of Romance\u0027 in Urdu literature?",
+                        "q": "Which poet is known as the 'Poet of Romance' in Urdu literature?",
                         "options": [
                             "Josh Malihabadi",
                             "Akhtar Sheerani",
@@ -32447,7 +34351,7 @@
                         "explanation": "Akhtar Sheerani is widely regarded as the romantically inclined poet."
                     },
                     {
-                        "q": "Who is the author of the novel \u0027Peer-e-Kamil\u0027?",
+                        "q": "Who is the author of the novel 'Peer-e-Kamil'?",
                         "options": [
                             "Naseem Hijazi",
                             "Umera Ahmed",
@@ -32458,7 +34362,7 @@
                         "explanation": "Umera Ahmed wrote the famous spiritual and transformational novel."
                     },
                     {
-                        "q": "\u0027Bajang Aamad\u0027 is a humorously written biography by?",
+                        "q": "'Bajang Aamad' is a humorously written biography by?",
                         "options": [
                             "Shafiq-ur-Rehman",
                             "Patras Bokhari",
@@ -32480,7 +34384,7 @@
                         "explanation": "Mazameen-e-Patras contains some of the best satirical essays in Urdu."
                     },
                     {
-                        "q": "Who wrote \u0027Meraistan\u0027, a famous political satire?",
+                        "q": "Who wrote 'Meraistan', a famous political satire?",
                         "options": [
                             "Ibn-e-Insha",
                             "Mushtaq Ahmed Yousufi",
@@ -32499,21 +34403,21 @@
                             "Dagh"
                         ],
                         "answer": 0,
-                        "explanation": "Altaf Hussain \u0027Hali\u0027 was his full name."
+                        "explanation": "Altaf Hussain 'Hali' was his full name."
                     },
                     {
-                        "q": "Which fort is a central setting in Naseem Hijazi\u0027s novel \u0027Khaak aur Khoon\u0027?",
+                        "q": "Which fort is a central setting in Naseem Hijazi's novel 'Khaak aur Khoon'?",
                         "options": [
                             "Rohtas Fort",
                             "Red Fort",
-                            "No specific fort, it\u0027s about Partition",
+                            "No specific fort, it's about Partition",
                             "Lahore Fort"
                         ],
                         "answer": 2,
                         "explanation": "Khaak aur Khoon focuses deeply on the migration and sacrifices during the 1947 partition."
                     },
                     {
-                        "q": "Who authored \u0027Alakh Nagri\u0027?",
+                        "q": "Who authored 'Alakh Nagri'?",
                         "options": [
                             "Mumtaz Mufti",
                             "Ashfaq Ahmed",
@@ -32524,7 +34428,7 @@
                         "explanation": "It is an autobiographical book detailing his spiritual journey."
                     },
                     {
-                        "q": "Who authored the famous autobiography \u0027Shahab Nama\u0027?",
+                        "q": "Who authored the famous autobiography 'Shahab Nama'?",
                         "options": [
                             "Mumtaz Mufti",
                             "Qudrat Ullah Shahab",
@@ -32535,7 +34439,7 @@
                         "explanation": "Qudrat Ullah Shahab documented his civil service and spiritual experiences."
                     },
                     {
-                        "q": "What does \u0027Ghazal\u0027 literally mean?",
+                        "q": "What does 'Ghazal' literally mean?",
                         "options": [
                             "Talking to women",
                             "Praising God",
@@ -32557,7 +34461,7 @@
                         "explanation": "The Matla is the opening couplet of a ghazal."
                     },
                     {
-                        "q": "The last couplet of a Ghazal containing the poet\u0027s pen name is?",
+                        "q": "The last couplet of a Ghazal containing the poet's pen name is?",
                         "options": [
                             "Matla",
                             "Maqta",
@@ -32565,10 +34469,10 @@
                             "Bahar"
                         ],
                         "answer": 1,
-                        "explanation": "The Maqta features the poet\u0027s Takhallus."
+                        "explanation": "The Maqta features the poet's Takhallus."
                     },
                     {
-                        "q": "Who is known as \u0027Shaer-e-Mazdoor\u0027 (Poet of the Labourer)?",
+                        "q": "Who is known as 'Shaer-e-Mazdoor' (Poet of the Labourer)?",
                         "options": [
                             "Allama Iqbal",
                             "Ehsan Danish",
@@ -32579,7 +34483,7 @@
                         "explanation": "Ehsan Danish wrote extensively on the plight of workers."
                     },
                     {
-                        "q": "Who wrote the famous national song \u0027Dil Dil Pakistan\u0027?",
+                        "q": "Who wrote the famous national song 'Dil Dil Pakistan'?",
                         "options": [
                             "Shoaib Mansoor",
                             "Nusrat Fateh Ali",
@@ -32590,7 +34494,7 @@
                         "explanation": "It was written and produced by Shoaib Mansoor and sung by Vital Signs."
                     },
                     {
-                        "q": "Who is considered the pioneer of the \u0027Free Verse\u0027 (Azad Nazm) in Urdu?",
+                        "q": "Who is considered the pioneer of the 'Free Verse' (Azad Nazm) in Urdu?",
                         "options": [
                             "N.M. Rashid",
                             "Faiz Ahmed Faiz",
@@ -32601,7 +34505,7 @@
                         "explanation": "Noon Meem Rashid broke away from traditional ghazal structures."
                     },
                     {
-                        "q": "Who wrote the famous poetry collection \u0027Khushboo\u0027?",
+                        "q": "Who wrote the famous poetry collection 'Khushboo'?",
                         "options": [
                             "Parveen Shakir",
                             "Noshi Gilani",
@@ -32612,7 +34516,7 @@
                         "explanation": "Khushboo was her highly celebrated debut collection."
                     },
                     {
-                        "q": "Who is the \u0027Khuda-e-Sukhan\u0027 (God of Poetry) in Urdu literature?",
+                        "q": "Who is the 'Khuda-e-Sukhan' (God of Poetry) in Urdu literature?",
                         "options": [
                             "Mirza Ghalib",
                             "Mir Taqi Mir",
@@ -32634,7 +34538,7 @@
                         "explanation": "Established in Calcutta in 1800 to teach Indian languages to British officers."
                     },
                     {
-                        "q": "Who wrote \u0027Bagh-o-Bahar\u0027, a famous translation of Qissa Chahar Dervish?",
+                        "q": "Who wrote 'Bagh-o-Bahar', a famous translation of Qissa Chahar Dervish?",
                         "options": [
                             "Mir Amman",
                             "Ghalib",
@@ -32645,7 +34549,7 @@
                         "explanation": "Mir Amman translated it in simple, everyday Urdu at Fort William College."
                     },
                     {
-                        "q": "Which city is known as the \u0027Cradle of Urdu Language\u0027?",
+                        "q": "Which city is known as the 'Cradle of Urdu Language'?",
                         "options": [
                             "Lahore",
                             "Delhi",
@@ -32656,7 +34560,7 @@
                         "explanation": "Delhi is traditionally seen as the classical center of Urdu poetry."
                     },
                     {
-                        "q": "Who wrote the drama \u0027Taleem-e-Balighan\u0027?",
+                        "q": "Who wrote the drama 'Taleem-e-Balighan'?",
                         "options": [
                             "Khawaja Moinuddin",
                             "Imtiaz Ali Taj",
@@ -32664,10 +34568,10 @@
                             "Ashfaq Ahmed"
                         ],
                         "answer": 0,
-                        "explanation": "It is one of Pakistan\u0027s most famous and meaningful satirical plays."
+                        "explanation": "It is one of Pakistan's most famous and meaningful satirical plays."
                     },
                     {
-                        "q": "Who is known for introducing the concept of \u0027Ghalibiyat\u0027 (study of Ghalib)?",
+                        "q": "Who is known for introducing the concept of 'Ghalibiyat' (study of Ghalib)?",
                         "options": [
                             "Dr. Abdul Haq",
                             "Maulana Hali",
@@ -32675,10 +34579,10 @@
                             "Shibli Nomani"
                         ],
                         "answer": 1,
-                        "explanation": "Hali’s \u0027Yadgar-e-Ghalib\u0027 laid the foundation."
+                        "explanation": "Hali’s 'Yadgar-e-Ghalib' laid the foundation."
                     },
                     {
-                        "q": "Who is formally called \u0027Baba-e-Urdu\u0027 (Father of Urdu)?",
+                        "q": "Who is formally called 'Baba-e-Urdu' (Father of Urdu)?",
                         "options": [
                             "Sir Syed Ahmed Khan",
                             "Maulvi Abdul Haq",
@@ -32692,7 +34596,7 @@
                         "q": "What was the famous literary movement started in 1936?",
                         "options": [
                             "Aligarh Movement",
-                            "Progressive Writers\u0027 Movement",
+                            "Progressive Writers' Movement",
                             "Romance Movement",
                             "Symbolism"
                         ],
@@ -32700,7 +34604,7 @@
                         "explanation": "Taraqqi Pasand Tehreek championed realism and social justice."
                     },
                     {
-                        "q": "Who is the author of \u0027Aangan\u0027, a masterpiece novel on the emotional toll of partition?",
+                        "q": "Who is the author of 'Aangan', a masterpiece novel on the emotional toll of partition?",
                         "options": [
                             "Khadija Mastoor",
                             "Bano Qudsia",
@@ -32786,7 +34690,7 @@
                             "Punjab"
                         ],
                         "answer": 3,
-                        "explanation": "Punjab houses over 50% of the country\u0027s entire population."
+                        "explanation": "Punjab houses over 50% of the country's entire population."
                     },
                     {
                         "q": "What is the national language of Pakistan?",
@@ -32932,7 +34836,7 @@
                         "explanation": "Allama Iqbal presented the idea of a separate homeland."
                     },
                     {
-                        "q": "The \u0027Day of Deliverance\u0027 was observed by Muslims on?",
+                        "q": "The 'Day of Deliverance' was observed by Muslims on?",
                         "options": [
                             "22 Dec 1939",
                             "23 March 1940",
@@ -32973,10 +34877,10 @@
                             "KPK"
                         ],
                         "answer": 2,
-                        "explanation": "Balochistan covers nearly 44% of Pakistan\u0027s landmass."
+                        "explanation": "Balochistan covers nearly 44% of Pakistan's landmass."
                     },
                     {
-                        "q": "The \u0027Khyber Pass\u0027 connects Pakistan with which country?",
+                        "q": "The 'Khyber Pass' connects Pakistan with which country?",
                         "options": [
                             "India",
                             "China",
@@ -32987,7 +34891,7 @@
                         "explanation": "It is the primary link between Peshawar and Kabul."
                     },
                     {
-                        "q": "Which river is also known as the \u0027Father of Rivers\u0027 in Pakistan?",
+                        "q": "Which river is also known as the 'Father of Rivers' in Pakistan?",
                         "options": [
                             "Indus",
                             "Chenab",
@@ -33011,16 +34915,16 @@
                     {
                         "q": "Who was the first woman Governor of a province in Pakistan?",
                         "options": [
-                            "Begum Ra\u0027ana Liaquat Ali",
+                            "Begum Ra'ana Liaquat Ali",
                             "Benazir Bhutto",
                             "Begum Shaista Ikramullah",
                             "Fatima Jinnah"
                         ],
                         "answer": 0,
-                        "explanation": "Begum Ra\u0027ana was the Governor of Sindh."
+                        "explanation": "Begum Ra'ana was the Governor of Sindh."
                     },
                     {
-                        "q": "Which city is the industrial hub of Pakistan, often called \u0027Manchester of Pakistan\u0027?",
+                        "q": "Which city is the industrial hub of Pakistan, often called 'Manchester of Pakistan'?",
                         "options": [
                             "Sialkot",
                             "Faisalabad",
@@ -33031,7 +34935,7 @@
                         "explanation": "Faisalabad (Lyallpur) is the center of the textile industry."
                     },
                     {
-                        "q": "The world\u0027s second-highest peak K2 is located in which mountain range?",
+                        "q": "The world's second-highest peak K2 is located in which mountain range?",
                         "options": [
                             "Himalayas",
                             "Hindu Kush",
@@ -33064,7 +34968,7 @@
                         "explanation": "The Chukar (Chakor) is the national bird."
                     },
                     {
-                        "q": "The \u0027Objective Resolution\u0027 was presented by?",
+                        "q": "The 'Objective Resolution' was presented by?",
                         "options": [
                             "Jinnah",
                             "Liaquat Ali Khan",
@@ -33108,7 +35012,7 @@
                         "explanation": "Article 2 declares Islam as the state religion."
                     },
                     {
-                        "q": "Who was the first female pilot in Pakistan\u0027s Air Force?",
+                        "q": "Who was the first female pilot in Pakistan's Air Force?",
                         "options": [
                             "Ayesha Farooq",
                             "Marium Mukhtar",
@@ -33152,7 +35056,7 @@
                         "explanation": "Sialkot is globally recognized for sports manufacturing."
                     },
                     {
-                        "q": "The \u0027Badshahi Mosque\u0027 in Lahore was built by?",
+                        "q": "The 'Badshahi Mosque' in Lahore was built by?",
                         "options": [
                             "Akbar",
                             "Shah Jahan",
@@ -33174,7 +35078,7 @@
                         "explanation": "Nishan-e-Pakistan is the highest civilian award."
                     },
                     {
-                        "q": "Who was the founder of the \u0027Dawn\u0027 newspaper?",
+                        "q": "Who was the founder of the 'Dawn' newspaper?",
                         "options": [
                             "Muhammad Ali Jinnah",
                             "Liaquat Ali Khan",
@@ -33185,7 +35089,7 @@
                         "explanation": "Quaid-e-Azam founded Dawn in 1941."
                     },
                     {
-                        "q": "The \u0027Great Trunk Road\u0027 (G.T. Road) was originally built by?",
+                        "q": "The 'Great Trunk Road' (G.T. Road) was originally built by?",
                         "options": [
                             "Akbar",
                             "Sher Shah Suri",
@@ -33218,18 +35122,18 @@
                         "explanation": "Benazir Bhutto was the first female PM in the Muslim world."
                     },
                     {
-                        "q": "The \u0027Simla Agreement\u0027 of 1972 was signed between?",
+                        "q": "The 'Simla Agreement' of 1972 was signed between?",
                         "options": [
-                            "Ayub \u0026 Shastri",
-                            "Bhutto \u0026 Indira Gandhi",
-                            "Zia \u0026 Rajiv Gandhi",
-                            "Jinnah \u0026 Nehru"
+                            "Ayub & Shastri",
+                            "Bhutto & Indira Gandhi",
+                            "Zia & Rajiv Gandhi",
+                            "Jinnah & Nehru"
                         ],
                         "answer": 1,
                         "explanation": "It was signed after the 1971 war."
                     },
                     {
-                        "q": "Which city is known as the \u0027City of Sufis\u0027?",
+                        "q": "Which city is known as the 'City of Sufis'?",
                         "options": [
                             "Multan",
                             "Lahore",
@@ -33240,7 +35144,7 @@
                         "explanation": "Multan is famous for its numerous shrines and saints."
                     },
                     {
-                        "q": "The \u0027Karakoram Pass\u0027 connects Pakistan with?",
+                        "q": "The 'Karakoram Pass' connects Pakistan with?",
                         "options": [
                             "Iran",
                             "China",
@@ -33692,7 +35596,7 @@
                         "explanation": "A modem modulates and demodulates signals."
                     },
                     {
-                        "q": "What is a \u0027Bug\u0027 in computer terminology?",
+                        "q": "What is a 'Bug' in computer terminology?",
                         "options": [
                             "An insect",
                             "A hardware fault",
@@ -33758,7 +35662,7 @@
                         "explanation": "Cloud computing relies on remote servers."
                     },
                     {
-                        "q": "What is \u0027Phishing\u0027?",
+                        "q": "What is 'Phishing'?",
                         "options": [
                             "Catching fish",
                             "A type of network",
@@ -33824,7 +35728,7 @@
                         "explanation": "Ipconfig displays current network configuration."
                     },
                     {
-                        "q": "What does \u0027LAN\u0027 stand for?",
+                        "q": "What does 'LAN' stand for?",
                         "options": [
                             "Large Area Network",
                             "Local Area Network",
@@ -34072,7 +35976,7 @@
                         "explanation": "F2 allows instant renaming of an item."
                     },
                     {
-                        "q": "What does \u0027Mail Merge\u0027 do in MS Word?",
+                        "q": "What does 'Mail Merge' do in MS Word?",
                         "options": [
                             "Merge two files",
                             "Send emails automatically",
@@ -34127,7 +36031,7 @@
                         "explanation": "Pie charts illustrate parts of a whole."
                     },
                     {
-                        "q": "What is a \u0027Macro\u0027 in MS Office?",
+                        "q": "What is a 'Macro' in MS Office?",
                         "options": [
                             "A large font size",
                             "A recorded sequence of commands",
@@ -34160,7 +36064,7 @@
                         "explanation": "A primary key ensures each row in a table is uniquely identifiable."
                     },
                     {
-                        "q": "What does the \u0027Format Painter\u0027 tool do?",
+                        "q": "What does the 'Format Painter' tool do?",
                         "options": [
                             "Paints pictures",
                             "Copies formatting from one place to another",
@@ -34204,7 +36108,7 @@
                         "explanation": "Ctrl+U toggles underline formatting."
                     },
                     {
-                        "q": "What is a \u0027Header\u0027 in MS Word?",
+                        "q": "What is a 'Header' in MS Word?",
                         "options": [
                             "A heading level",
                             "Text repeated at the top of every page",
@@ -34215,7 +36119,7 @@
                         "explanation": "Headers appear in the top margin of pages."
                     },
                     {
-                        "q": "What is a \u0027Footer\u0027 in MS Word?",
+                        "q": "What is a 'Footer' in MS Word?",
                         "options": [
                             "A footnote",
                             "Text repeated at the bottom of every page",
@@ -34237,7 +36141,7 @@
                         "explanation": "Ctrl+W closes the active document/window."
                     },
                     {
-                        "q": "What does the \u0027Find and Replace\u0027 feature do?",
+                        "q": "What does the 'Find and Replace' feature do?",
                         "options": [
                             "Finds a file and replaces it",
                             "Searches for text and replaces it with other text",
@@ -34248,7 +36152,7 @@
                         "explanation": "It quickly locates specific words to change them across the document."
                     },
                     {
-                        "q": "What is the shortcut to open the \u0027Find\u0027 dialog box?",
+                        "q": "What is the shortcut to open the 'Find' dialog box?",
                         "options": [
                             "Ctrl + F",
                             "Ctrl + H",
@@ -34270,7 +36174,7 @@
                         "explanation": "The IF function returns one value if a condition is true, and another if false."
                     },
                     {
-                        "q": "What is a \u0027cell\u0027 in MS Excel?",
+                        "q": "What is a 'cell' in MS Excel?",
                         "options": [
                             "A battery",
                             "The intersection of a row and a column",
@@ -34289,10 +36193,10 @@
                             "Ctrl + S"
                         ],
                         "answer": 2,
-                        "explanation": "F12 opens the \u0027Save As\u0027 dialogue box."
+                        "explanation": "F12 opens the 'Save As' dialogue box."
                     },
                     {
-                        "q": "What is a \u0027Slide Transition\u0027 in PowerPoint?",
+                        "q": "What is a 'Slide Transition' in PowerPoint?",
                         "options": [
                             "Changing slide colors",
                             "The visual effect when moving from one slide to another",
@@ -34336,7 +36240,7 @@
                         "explanation": "PivotTables allow quick data summarization and dynamic reporting."
                     },
                     {
-                        "q": "What does \u0027Wrap Text\u0027 do in Excel?",
+                        "q": "What does 'Wrap Text' do in Excel?",
                         "options": [
                             "Hides text",
                             "Wraps text onto multiple lines within a single cell",
@@ -34358,7 +36262,7 @@
                         "explanation": "Slide Sorter view displays thumbnails of all slides."
                     },
                     {
-                        "q": "In MS Word, what does \u0027Drop Cap\u0027 refer to?",
+                        "q": "In MS Word, what does 'Drop Cap' refer to?",
                         "options": [
                             "A lowered font",
                             "A large capital letter at the beginning of a paragraph",
@@ -34393,7 +36297,7 @@
                 ]
             },
             {
-                "category": "Internet \u0026 Email",
+                "category": "Internet & Email",
                 "icon": "fa-envelope-open-text",
                 "questions": [
                     {
@@ -34419,7 +36323,7 @@
                         "explanation": "Google is a search engine, Chrome is the browser."
                     },
                     {
-                        "q": "What does \u0027CC\u0027 stand for in an email header?",
+                        "q": "What does 'CC' stand for in an email header?",
                         "options": [
                             "Copy Center",
                             "Carbon Copy",
@@ -34430,7 +36334,7 @@
                         "explanation": "Carbon copy allows you to send a copy of the email to someone else."
                     },
                     {
-                        "q": "A website\u0027s primary page is called its?",
+                        "q": "A website's primary page is called its?",
                         "options": [
                             "Master Page",
                             "Root Page",
@@ -34441,7 +36345,7 @@
                         "explanation": "The home page is the entry point of a website."
                     },
                     {
-                        "q": "What is \u0027Spam\u0027?",
+                        "q": "What is 'Spam'?",
                         "options": [
                             "Useful information",
                             "Junk or unsolicited email",
@@ -34485,7 +36389,7 @@
                         "explanation": "Post Office Protocol version 3 (POP3) or IMAP is used to retrieve emails."
                     },
                     {
-                        "q": "What does \u0027BCC\u0027 stand for in an email header?",
+                        "q": "What does 'BCC' stand for in an email header?",
                         "options": [
                             "Blind Carbon Copy",
                             "Blank Carbon Copy",
@@ -34518,7 +36422,7 @@
                         "explanation": "Bing is a web search engine owned by Microsoft."
                     },
                     {
-                        "q": "What does \u0027URL\u0027 stand for?",
+                        "q": "What does 'URL' stand for?",
                         "options": [
                             "Uniform Resource Locator",
                             "Universal Resource Link",
@@ -34529,7 +36433,7 @@
                         "explanation": "A URL is the address of a given unique resource on the Web."
                     },
                     {
-                        "q": "What does \u0027WWW\u0027 stand for?",
+                        "q": "What does 'WWW' stand for?",
                         "options": [
                             "World Web Wide",
                             "Wide World Web",
@@ -34540,7 +36444,7 @@
                         "explanation": "The World Wide Web is an information system where resources are identified by URLs."
                     },
                     {
-                        "q": "What is a \u0027Domain Name\u0027?",
+                        "q": "What is a 'Domain Name'?",
                         "options": [
                             "A type of network",
                             "The physical address of a server",
@@ -34562,7 +36466,7 @@
                         "explanation": "The Domain Name System converts human-readable names into machine-readable IP addresses."
                     },
                     {
-                        "q": "What does \u0027HTTPS\u0027 stand for?",
+                        "q": "What does 'HTTPS' stand for?",
                         "options": [
                             "Hyper Text Transfer Protocol Secure",
                             "High Transfer Tech Protocol Secure",
@@ -34578,13 +36482,13 @@
                             "#",
                             "$",
                             "@",
-                            "\u0026"
+                            "&"
                         ],
                         "answer": 2,
-                        "explanation": "The \u0027@\u0027 symbol separates the username from the domain."
+                        "explanation": "The '@' symbol separates the username from the domain."
                     },
                     {
-                        "q": "What does \u0027ISP\u0027 stand for?",
+                        "q": "What does 'ISP' stand for?",
                         "options": [
                             "Internet Source Provider",
                             "Internet Service Provider",
@@ -34595,7 +36499,7 @@
                         "explanation": "An ISP is a company that provides access to the Internet."
                     },
                     {
-                        "q": "What is a \u0027Hyperlink\u0027?",
+                        "q": "What is a 'Hyperlink'?",
                         "options": [
                             "A very fast internet connection",
                             "A reference to data that the reader can directly follow",
@@ -34606,7 +36510,7 @@
                         "explanation": "A hyperlink is a clickable link that navigates to another page or resource."
                     },
                     {
-                        "q": "What is \u0027Phishing\u0027?",
+                        "q": "What is 'Phishing'?",
                         "options": [
                             "Catching fish",
                             "A fraudulent attempt to obtain sensitive information",
@@ -34617,7 +36521,7 @@
                         "explanation": "Phishing often involves deceptive emails or websites."
                     },
                     {
-                        "q": "What does \u0027FTP\u0027 stand for?",
+                        "q": "What does 'FTP' stand for?",
                         "options": [
                             "File Transfer Protocol",
                             "Fast Transmission Process",
@@ -34628,7 +36532,7 @@
                         "explanation": "FTP is used for the transfer of computer files between a client and server."
                     },
                     {
-                        "q": "Which part of \u0027user@example.com\u0027 is the domain?",
+                        "q": "Which part of 'user@example.com' is the domain?",
                         "options": [
                             "user",
                             "@",
@@ -34636,13 +36540,13 @@
                             "com"
                         ],
                         "answer": 2,
-                        "explanation": "\u0027example.com\u0027 is the domain name hosting the email server."
+                        "explanation": "'example.com' is the domain name hosting the email server."
                     },
                     {
-                        "q": "What is a \u0027Cookie\u0027 in the context of the internet?",
+                        "q": "What is a 'Cookie' in the context of the internet?",
                         "options": [
                             "A baked treat",
-                            "A small piece of data sent from a website and stored on the user\u0027s computer",
+                            "A small piece of data sent from a website and stored on the user's computer",
                             "A virus",
                             "An email attachment"
                         ],
@@ -34650,7 +36554,7 @@
                         "explanation": "Cookies are used to remember stateful information like logins or cart items."
                     },
                     {
-                        "q": "What is an \u0027Attachment\u0027 in an email?",
+                        "q": "What is an 'Attachment' in an email?",
                         "options": [
                             "A signature",
                             "A file sent along with an email message",
@@ -34669,7 +36573,7 @@
                             "BCC:"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027RE:\u0027 stands for \u0027Reply\u0027 or \u0027Regarding\u0027 and prefixes the subject."
+                        "explanation": "'RE:' stands for 'Reply' or 'Regarding' and prefixes the subject."
                     },
                     {
                         "q": "What implies you are forwarding an email?",
@@ -34680,7 +36584,7 @@
                             "BCC:"
                         ],
                         "answer": 0,
-                        "explanation": "\u0027FW:\u0027 or \u0027FWD:\u0027 stands for \u0027Forward\u0027."
+                        "explanation": "'FW:' or 'FWD:' stands for 'Forward'."
                     },
                     {
                         "q": "Which folder temporarily stores deleted emails?",
@@ -34705,7 +36609,7 @@
                         "explanation": "Drafts safely hold incomplete or unsent emails."
                     },
                     {
-                        "q": "What is a \u0027Search Engine\u0027?",
+                        "q": "What is a 'Search Engine'?",
                         "options": [
                             "Hardware for searching files",
                             "A software program that searches a database of internet sites",
@@ -34716,7 +36620,7 @@
                         "explanation": "Search engines like Google help find information on the web."
                     },
                     {
-                        "q": "What does \u0027LAN\u0027 stand for?",
+                        "q": "What does 'LAN' stand for?",
                         "options": [
                             "Local Area Network",
                             "Large Area Network",
@@ -34727,7 +36631,7 @@
                         "explanation": "A LAN connects computers in a limited area like a home or office."
                     },
                     {
-                        "q": "What does \u0027WAN\u0027 stand for?",
+                        "q": "What does 'WAN' stand for?",
                         "options": [
                             "Wide Area Network",
                             "World Access Node",
@@ -34738,7 +36642,7 @@
                         "explanation": "A WAN covers a broad area (e.g., any telecommunications network)."
                     },
                     {
-                        "q": "What is \u0027Wi-Fi\u0027?",
+                        "q": "What is 'Wi-Fi'?",
                         "options": [
                             "Wired Fiber",
                             "Wireless Fidelity",
@@ -34749,7 +36653,7 @@
                         "explanation": "Wi-Fi is a technology for wireless local area networking."
                     },
                     {
-                        "q": "What is a \u0027Web Server\u0027?",
+                        "q": "What is a 'Web Server'?",
                         "options": [
                             "A person who serves food",
                             "A computer that stores and delivers web pages",
@@ -34760,7 +36664,7 @@
                         "explanation": "Web servers host websites and respond to client requests."
                     },
                     {
-                        "q": "What is \u0027Bandwidth\u0027?",
+                        "q": "What is 'Bandwidth'?",
                         "options": [
                             "The width of a cable",
                             "A type of radio",
@@ -34771,7 +36675,7 @@
                         "explanation": "Bandwidth determines how much data can flow at once."
                     },
                     {
-                        "q": "What is \u0027Malware\u0027?",
+                        "q": "What is 'Malware'?",
                         "options": [
                             "Hardware malfunction",
                             "Malicious software",
@@ -34782,7 +36686,7 @@
                         "explanation": "Malware includes viruses, spyware, and ransomware."
                     },
                     {
-                        "q": "What is a \u0027Firewall\u0027?",
+                        "q": "What is a 'Firewall'?",
                         "options": [
                             "A physical wall",
                             "A program that blocks unauthorized access",
@@ -34793,7 +36697,7 @@
                         "explanation": "Firewalls monitor and control incoming and outgoing network traffic."
                     },
                     {
-                        "q": "What does \u0027Upload\u0027 mean?",
+                        "q": "What does 'Upload' mean?",
                         "options": [
                             "Receiving data from the internet",
                             "Sending data from a local system to a remote system",
@@ -34804,7 +36708,7 @@
                         "explanation": "Uploading transfers your local files to a server."
                     },
                     {
-                        "q": "What does \u0027Download\u0027 mean?",
+                        "q": "What does 'Download' mean?",
                         "options": [
                             "Receiving data from a remote system to a local system",
                             "Sending data to the internet",
@@ -34815,7 +36719,7 @@
                         "explanation": "Downloading brings remote files to your device."
                     },
                     {
-                        "q": "What is a \u0027Webpage\u0027?",
+                        "q": "What is a 'Webpage'?",
                         "options": [
                             "A book page",
                             "A document connected to the World Wide Web",
@@ -34848,7 +36752,7 @@
                         "explanation": "An IPv4 address consists of four numbers separated by dots."
                     },
                     {
-                        "q": "What does \u0027SEO\u0027 stand for?",
+                        "q": "What does 'SEO' stand for?",
                         "options": [
                             "Search Engine Optimization",
                             "Secure Email Operation",
@@ -34859,10 +36763,10 @@
                         "explanation": "SEO is the practice of increasing visibility on search engines."
                     },
                     {
-                        "q": "What is an \u0027Intranet\u0027?",
+                        "q": "What is an 'Intranet'?",
                         "options": [
                             "The global internet",
-                            "A private network accessible only to an organization\u0027s staff",
+                            "A private network accessible only to an organization's staff",
                             "A public Wi-Fi",
                             "A web browser tag"
                         ],
@@ -34881,7 +36785,7 @@
                         "explanation": "Cascading Style Sheets (CSS) describe the presentation of a document."
                     },
                     {
-                        "q": "What is \u0027Cloud Storage\u0027?",
+                        "q": "What is 'Cloud Storage'?",
                         "options": [
                             "Storing data on local USB drives",
                             "Storing data on hard disks",
@@ -34905,7 +36809,7 @@
                     {
                         "q": "What is a characteristic of a strong password?",
                         "options": [
-                            "Using \u0027password123\u0027",
+                            "Using 'password123'",
                             "Using your birthdate",
                             "Using a mix of upper/lower case letters, numbers, and symbols",
                             "Using only numbers"
@@ -34914,7 +36818,7 @@
                         "explanation": "Strong passwords prevent unauthorized access through brute force."
                     },
                     {
-                        "q": "What does \u0027VPN\u0027 stand for?",
+                        "q": "What does 'VPN' stand for?",
                         "options": [
                             "Virtual Public Network",
                             "Visual Private Node",
@@ -34936,7 +36840,7 @@
                         "explanation": "Outlook is used to manage and send emails."
                     },
                     {
-                        "q": "What does \u0027E-commerce\u0027 stand for?",
+                        "q": "What does 'E-commerce' stand for?",
                         "options": [
                             "Electric Commerce",
                             "Electronic Commerce",
@@ -34949,7 +36853,7 @@
                 ]
             },
             {
-                "category": "Abbreviations \u0026 IT Terms",
+                "category": "Abbreviations & IT Terms",
                 "icon": "fa-font",
                 "questions": [
                     {
@@ -34975,7 +36879,7 @@
                         "explanation": "USB is a standard for cables and connectors."
                     },
                     {
-                        "q": "What is an \u0027IP Address\u0027?",
+                        "q": "What is an 'IP Address'?",
                         "options": [
                             "Internet Password",
                             "Internal Process",
@@ -35049,7 +36953,7 @@
                             "Central Processor Utility"
                         ],
                         "answer": 2,
-                        "explanation": "The CPU is the primary component of a computer that acts as its \u0027brain\u0027."
+                        "explanation": "The CPU is the primary component of a computer that acts as its 'brain'."
                     },
                     {
                         "q": "What does RAM stand for?",
@@ -35390,7 +37294,7 @@
                             "Blank Carbon Copy"
                         ],
                         "answer": 2,
-                        "explanation": "BCC sends a copy without revealing the recipient\u0027s address to others."
+                        "explanation": "BCC sends a copy without revealing the recipient's address to others."
                     },
                     {
                         "q": "What does SQL stand for?",
@@ -35505,7 +37409,7 @@
                 ]
             },
             {
-                "category": "Hardware \u0026 Software",
+                "category": "Hardware & Software",
                 "icon": "fa-plug",
                 "questions": [
                     {
@@ -35531,7 +37435,7 @@
                         "explanation": "Hardware refers to the tangible parts."
                     },
                     {
-                        "q": "A \u0027Bug\u0027 in computer terminology refers to?",
+                        "q": "A 'Bug' in computer terminology refers to?",
                         "options": [
                             "A virus",
                             "An error in a program",
@@ -35583,7 +37487,7 @@
                             "RAM"
                         ],
                         "answer": 3,
-                        "explanation": "Data in RAM is lost when the computer\u0027s power is turned off."
+                        "explanation": "Data in RAM is lost when the computer's power is turned off."
                     },
                     {
                         "q": "What is the primary function of an Operating System?",
@@ -35619,7 +37523,7 @@
                         "explanation": "Malware encompasses viruses, trojans, worms, and ransomware."
                     },
                     {
-                        "q": "What does \u0027Peripheral Device\u0027 mean?",
+                        "q": "What does 'Peripheral Device' mean?",
                         "options": [
                             "The central processor",
                             "Any auxiliary device connected to the computer (e.g., printer, scanner)",
@@ -35627,7 +37531,7 @@
                             "The power supply"
                         ],
                         "answer": 1,
-                        "explanation": "Peripherals expand a computer\u0027s capabilities beyond its core functions."
+                        "explanation": "Peripherals expand a computer's capabilities beyond its core functions."
                     },
                     {
                         "q": "What kind of software is Microsoft Word?",
@@ -35641,7 +37545,7 @@
                         "explanation": "It is an application designed to help users perform specific tasks."
                     },
                     {
-                        "q": "What is the function of a \u0027Heat Sink\u0027 and Fan in a computer?",
+                        "q": "What is the function of a 'Heat Sink' and Fan in a computer?",
                         "options": [
                             "To look cool",
                             "To prevent the CPU from overheating",
@@ -35663,7 +37567,7 @@
                         "explanation": "USB (Universal Serial Bus) is standard for flash drives and many peripherals."
                     },
                     {
-                        "q": "What is considered the \u0027Brain\u0027 of the computer?",
+                        "q": "What is considered the 'Brain' of the computer?",
                         "options": [
                             "RAM",
                             "Power Supply",
@@ -35685,7 +37589,7 @@
                         "explanation": "Office 365 is an application suite, not an OS."
                     },
                     {
-                        "q": "What does \u0027Utility Software\u0027 do?",
+                        "q": "What does 'Utility Software' do?",
                         "options": [
                             "Plays video games",
                             "Helps to maintain and manage computer resources (e.g., disk defragmenter)",
@@ -35707,7 +37611,7 @@
                         "explanation": "Hard drives and SSDs provide long-term, non-volatile storage."
                     },
                     {
-                        "q": "What is a \u0027Driver\u0027 in terms of computing?",
+                        "q": "What is a 'Driver' in terms of computing?",
                         "options": [
                             "A hardware part",
                             "The person sitting at the PC",
@@ -35718,7 +37622,7 @@
                         "explanation": "Device drivers act as translators between hardware and the OS."
                     },
                     {
-                        "q": "Which of the following describes \u0027Open Source Software\u0027?",
+                        "q": "Which of the following describes 'Open Source Software'?",
                         "options": [
                             "Software that is expensive",
                             "Software with source code available for anyone to inspect and modify",
@@ -35729,7 +37633,7 @@
                         "explanation": "Open source software promotes collaborative development."
                     },
                     {
-                        "q": "What is \u0027Cache Memory\u0027 used for?",
+                        "q": "What is 'Cache Memory' used for?",
                         "options": [
                             "Permanent data storage",
                             "Storing financial data",
@@ -35740,7 +37644,7 @@
                         "explanation": "Cache is extremely fast memory located near or inside the CPU."
                     },
                     {
-                        "q": "Which of these is considered \u0027Firmware\u0027?",
+                        "q": "Which of these is considered 'Firmware'?",
                         "options": [
                             "A database file",
                             "A text document",
@@ -35748,10 +37652,10 @@
                             "A web browser"
                         ],
                         "answer": 2,
-                        "explanation": "Firmware provides low-level control for a device\u0027s specific hardware."
+                        "explanation": "Firmware provides low-level control for a device's specific hardware."
                     },
                     {
-                        "q": "A \u0027Scanner\u0027 is considered a(n) ________ device.",
+                        "q": "A 'Scanner' is considered a(n) ________ device.",
                         "options": [
                             "Output",
                             "Storage",
@@ -35762,7 +37666,7 @@
                         "explanation": "Scanners capture images or text and input them into the computer."
                     },
                     {
-                        "q": "A \u0027Projector\u0027 is considered a(n) ________ device.",
+                        "q": "A 'Projector' is considered a(n) ________ device.",
                         "options": [
                             "Input",
                             "Output",
@@ -35773,7 +37677,7 @@
                         "explanation": "Projectors display visual data onto a surface, making them output devices."
                     },
                     {
-                        "q": "What is the purpose of a \u0027Power Supply Unit\u0027 (PSU)?",
+                        "q": "What is the purpose of a 'Power Supply Unit' (PSU)?",
                         "options": [
                             "To hold data",
                             "To convert AC power from an outlet into usable DC power for internal parts",
@@ -35795,7 +37699,7 @@
                         "explanation": "RAM provides high-speed access to data that the CPU needs immediately."
                     },
                     {
-                        "q": "What is a characteristic of a \u0027Solid State Drive\u0027 (SSD)?",
+                        "q": "What is a characteristic of a 'Solid State Drive' (SSD)?",
                         "options": [
                             "It contains spinning magnetic platters",
                             "It uses magnetic tape",
@@ -35817,7 +37721,7 @@
                         "explanation": "File managers assist users in creating, organizing, and accessing files."
                     },
                     {
-                        "q": "What is the function of an \u0027Optical Drive\u0027?",
+                        "q": "What is the function of an 'Optical Drive'?",
                         "options": [
                             "To process internet signals",
                             "To cool the system",
@@ -35839,7 +37743,7 @@
                         "explanation": "System software acts as a base layer upon which other applications operate."
                     },
                     {
-                        "q": "What is the definition of a \u0027Network Interface Card\u0027 (NIC)?",
+                        "q": "What is the definition of a 'Network Interface Card' (NIC)?",
                         "options": [
                             "A card that adds sound capabilities",
                             "A component that allows a computer to connect to a network",
@@ -35850,7 +37754,7 @@
                         "explanation": "NICs enable wired (Ethernet) or wireless networking."
                     },
                     {
-                        "q": "What is \u0027Freeware\u0027?",
+                        "q": "What is 'Freeware'?",
                         "options": [
                             "Software you must pay for monthly",
                             "Software distributed free of charge",
@@ -35861,7 +37765,7 @@
                         "explanation": "Freeware is free to use but typically retains its original copyright."
                     },
                     {
-                        "q": "In software, what does a \u0027Patch\u0027 do?",
+                        "q": "In software, what does a 'Patch' do?",
                         "options": [
                             "Adds viruses",
                             "Upgrades physical hardware",
@@ -35872,7 +37776,7 @@
                         "explanation": "A patch is a software update intended to fix issues."
                     },
                     {
-                        "q": "What does a \u0027Graphics Processing Unit\u0027 (GPU) do?",
+                        "q": "What does a 'Graphics Processing Unit' (GPU) do?",
                         "options": [
                             "Manages keyboards",
                             "Handles math related strictly to rendering images and video",
@@ -35883,7 +37787,7 @@
                         "explanation": "GPUs are specialized for parallel processing required for graphics rendering."
                     },
                     {
-                        "q": "A \u0027Webcam\u0027 acts as a(n) ________ device.",
+                        "q": "A 'Webcam' acts as a(n) ________ device.",
                         "options": [
                             "Output",
                             "Storage",
@@ -35905,10 +37809,10 @@
                         "explanation": "Parallel ports (LPT) were standard for legacy printers."
                     },
                     {
-                        "q": "What does \u0027Overclocking\u0027 mean in hardware terms?",
+                        "q": "What does 'Overclocking' mean in hardware terms?",
                         "options": [
                             "Making a clock larger",
-                            "Running a component (like a CPU) at a speed higher than the manufacturer\u0027s specification",
+                            "Running a component (like a CPU) at a speed higher than the manufacturer's specification",
                             "Slowing a system down",
                             "Adding more RAM"
                         ],
@@ -35927,7 +37831,7 @@
                         "explanation": "Printers physically print the electronic data onto paper."
                     },
                     {
-                        "q": "What does an \u0027Uninterruptible Power Supply\u0027 (UPS) do?",
+                        "q": "What does an 'Uninterruptible Power Supply' (UPS) do?",
                         "options": [
                             "Speeds up internet",
                             "Provides emergency power to a load when the input power source fails",
@@ -35938,7 +37842,7 @@
                         "explanation": "A UPS allows safe shutdown during sudden power outages."
                     },
                     {
-                        "q": "What is \u0027Commercial Software\u0027?",
+                        "q": "What is 'Commercial Software'?",
                         "options": [
                             "Free code",
                             "Software produced for sale or commercial purposes",
@@ -35949,7 +37853,7 @@
                         "explanation": "Users must acquire a license to use commercial software legally."
                     },
                     {
-                        "q": "What is the primary function of a \u0027Barcode Reader\u0027?",
+                        "q": "What is the primary function of a 'Barcode Reader'?",
                         "options": [
                             "Read books out loud",
                             "Scan printed barcodes and convert them into digital data",
@@ -35960,7 +37864,7 @@
                         "explanation": "Barcode readers act as specialized input devices in retail."
                     },
                     {
-                        "q": "What is \u0027Biometric\u0027 input?",
+                        "q": "What is 'Biometric' input?",
                         "options": [
                             "Using a mouse",
                             "Typing on a keyboard",
@@ -35971,7 +37875,7 @@
                         "explanation": "Biometrics provide secure, individual-specific authentication."
                     },
                     {
-                        "q": "Which of the following is considered an \u0027Application Suite\u0027?",
+                        "q": "Which of the following is considered an 'Application Suite'?",
                         "options": [
                             "Windows 10",
                             "Linux Ubuntu",
@@ -35982,7 +37886,7 @@
                         "explanation": "An application suite bundles multiple related programs (Word, Excel, etc.)."
                     },
                     {
-                        "q": "What does a \u0027Microphone\u0027 do?",
+                        "q": "What does a 'Microphone' do?",
                         "options": [
                             "Outputs sound",
                             "Converts sound waves into electrical signals for computer input",
@@ -35993,7 +37897,7 @@
                         "explanation": "It is an audio input device."
                     },
                     {
-                        "q": "What is a \u0027Zip file\u0027? (e.g., .zip)",
+                        "q": "What is a 'Zip file'? (e.g., .zip)",
                         "options": [
                             "A file that contains malware",
                             "A compressed file or folder that takes up less storage space",
@@ -36004,7 +37908,7 @@
                         "explanation": "Compression utilities shrink data so it occupies less disk space."
                     },
                     {
-                        "q": "What does the \u0027CMOS battery\u0027 do on a motherboard?",
+                        "q": "What does the 'CMOS battery' do on a motherboard?",
                         "options": [
                             "Powers the screen",
                             "Keeps the system clock running and maintains BIOS settings when powered off",
@@ -36015,7 +37919,7 @@
                         "explanation": "Without the CMOS battery, custom BIOS configurations and time are lost."
                     },
                     {
-                        "q": "What kind of hardware is a \u0027Router\u0027?",
+                        "q": "What kind of hardware is a 'Router'?",
                         "options": [
                             "A storage drive",
                             "A networking device that forwards data packets between computer networks",
@@ -36026,7 +37930,7 @@
                         "explanation": "Routers direct traffic on the internet and local networks."
                     },
                     {
-                        "q": "What is a \u0027Server\u0027 in computing context?",
+                        "q": "What is a 'Server' in computing context?",
                         "options": [
                             "A regular desktop PC",
                             "A computer or system that provides resources, data, or services to other computers (clients)",
@@ -36034,7 +37938,7 @@
                             "An input device"
                         ],
                         "answer": 1,
-                        "explanation": "Servers \u0027serve\u0027 data to clients over a network."
+                        "explanation": "Servers 'serve' data to clients over a network."
                     },
                     {
                         "q": "Which is an example of an interface standard for connecting storage devices?",
@@ -36048,7 +37952,7 @@
                         "explanation": "Serial ATA (SATA) connects host bus adapters to mass storage devices."
                     },
                     {
-                        "q": "What defines \u0027Beta Software\u0027?",
+                        "q": "What defines 'Beta Software'?",
                         "options": [
                             "A finalized, stable release",
                             "A pre-release version containing most features, distributed for testing purposes",
@@ -36098,7 +38002,7 @@
                         "explanation": "Algorithms are logical plans for code."
                     },
                     {
-                        "q": "What is a \u0027Compiler\u0027?",
+                        "q": "What is a 'Compiler'?",
                         "options": [
                             "A tool to draw icons",
                             "Software that translates high-level code to machine code",
@@ -36120,7 +38024,7 @@
                         "explanation": "HTML is a markup language, not a programming language."
                     },
                     {
-                        "q": "What is an \u0027IDE\u0027?",
+                        "q": "What is an 'IDE'?",
                         "options": [
                             "Internal Device Element",
                             "Integrated Development Environment",
@@ -36164,7 +38068,7 @@
                         "explanation": "James Gosling designed Java at Sun Microsystems."
                     },
                     {
-                        "q": "What does \u0027OOP\u0027 stand for?",
+                        "q": "What does 'OOP' stand for?",
                         "options": [
                             "Object-Oriented Programming",
                             "Only Output Process",
@@ -36197,7 +38101,7 @@
                         "explanation": "JavaScript adds dynamic behavior to web pages."
                     },
                     {
-                        "q": "In programming, a \u0027Variable\u0027 is?",
+                        "q": "In programming, a 'Variable' is?",
                         "options": [
                             "A mathematical constant",
                             "A named storage location for data",
@@ -36208,18 +38112,18 @@
                         "explanation": "Variables hold data that can be changed during execution."
                     },
                     {
-                        "q": "What is a \u0027Syntax Error\u0027?",
+                        "q": "What is a 'Syntax Error'?",
                         "options": [
                             "An error in the logic",
                             "A compiler bug",
-                            "A violation of the programming language\u0027s rules",
+                            "A violation of the programming language's rules",
                             "A hardware fault"
                         ],
                         "answer": 2,
                         "explanation": "Syntax errors occur when code breaks language grammar rules."
                     },
                     {
-                        "q": "What is an \u0027Array\u0027?",
+                        "q": "What is an 'Array'?",
                         "options": [
                             "A single variable",
                             "A collection of elements of the same type",
@@ -36230,7 +38134,7 @@
                         "explanation": "Arrays store multiple values in a single variable."
                     },
                     {
-                        "q": "What does a \u0027Loop\u0027 do?",
+                        "q": "What does a 'Loop' do?",
                         "options": [
                             "Ends the program",
                             "Repeats a block of code until a condition is met",
@@ -36238,10 +38142,10 @@
                             "Runs once"
                         ],
                         "answer": 1,
-                        "explanation": "Loops like \u0027for\u0027 and \u0027while\u0027 automate repetitive tasks."
+                        "explanation": "Loops like 'for' and 'while' automate repetitive tasks."
                     },
                     {
-                        "q": "What is a \u0027Function\u0027 or \u0027Method\u0027?",
+                        "q": "What is a 'Function' or 'Method'?",
                         "options": [
                             "A reusable block of code that performs a specific task",
                             "A syntax error",
@@ -36252,7 +38156,7 @@
                         "explanation": "Functions break large tasks into smaller, manageable pieces."
                     },
                     {
-                        "q": "What does \u0027Debugging\u0027 mean?",
+                        "q": "What does 'Debugging' mean?",
                         "options": [
                             "Adding insects to code",
                             "Writing new code",
@@ -36263,7 +38167,7 @@
                         "explanation": "Debugging is the process of fixing bugs."
                     },
                     {
-                        "q": "What is \u0027Binary Code\u0027?",
+                        "q": "What is 'Binary Code'?",
                         "options": [
                             "Code written in English",
                             "Code consisting only of 0s and 1s",
@@ -36285,7 +38189,7 @@
                         "explanation": "Python dominates AI due to libraries like TensorFlow and Pandas."
                     },
                     {
-                        "q": "What does \u0027SQL\u0027 stand for?",
+                        "q": "What does 'SQL' stand for?",
                         "options": [
                             "System Query Language",
                             "Structured Query Language",
@@ -36312,13 +38216,13 @@
                             "#",
                             "--",
                             "//",
-                            "\u003c!--"
+                            "<!--"
                         ],
                         "answer": 2,
                         "explanation": "Double slashes (//) indicate a single-line comment."
                     },
                     {
-                        "q": "What is a \u0027Boolean\u0027 data type?",
+                        "q": "What is a 'Boolean' data type?",
                         "options": [
                             "A type of number",
                             "A text string",
@@ -36329,7 +38233,7 @@
                         "explanation": "Boolean logic is the foundation of digital circuits and programming conditions."
                     },
                     {
-                        "q": "In OOP, what is a \u0027Class\u0027?",
+                        "q": "In OOP, what is a 'Class'?",
                         "options": [
                             "A group of students",
                             "A blueprint for creating objects",
@@ -36340,7 +38244,7 @@
                         "explanation": "A class defines the properties and behaviors of objects."
                     },
                     {
-                        "q": "What does \u0027API\u0027 stand for?",
+                        "q": "What does 'API' stand for?",
                         "options": [
                             "Automated Program Interface",
                             "Application Programming Interface",
@@ -36373,7 +38277,7 @@
                         "explanation": "Inheritance promotes code reuse."
                     },
                     {
-                        "q": "What is \u0027Version Control\u0027?",
+                        "q": "What is 'Version Control'?",
                         "options": [
                             "Software testing",
                             "Managing computer versions",
@@ -36384,7 +38288,7 @@
                         "explanation": "Systems like Git handle version control."
                     },
                     {
-                        "q": "What is \u0027Git\u0027?",
+                        "q": "What is 'Git'?",
                         "options": [
                             "A programming language",
                             "A distributed version control system",
@@ -36428,7 +38332,7 @@
                         "explanation": "0-based indexing is standard in most modern languages."
                     },
                     {
-                        "q": "What does \u0027Null\u0027 mean in programming?",
+                        "q": "What does 'Null' mean in programming?",
                         "options": [
                             "Zero",
                             "Empty string",
@@ -36439,7 +38343,7 @@
                         "explanation": "Null represents a lack of a designated value."
                     },
                     {
-                        "q": "What is an \u0027Infinite Loop\u0027?",
+                        "q": "What is an 'Infinite Loop'?",
                         "options": [
                             "A very long array",
                             "A loop that never terminates",
@@ -36447,7 +38351,7 @@
                             "A network ring"
                         ],
                         "answer": 1,
-                        "explanation": "It occurs when a loop\u0027s terminating condition is never met."
+                        "explanation": "It occurs when a loop's terminating condition is never met."
                     },
                     {
                         "q": "Which language is widely used for iOS app development?",
@@ -36472,7 +38376,7 @@
                         "explanation": "Google declared Kotlin the preferred language for Android in 2019."
                     },
                     {
-                        "q": "What does the \u0027if\u0027 statement do?",
+                        "q": "What does the 'if' statement do?",
                         "options": [
                             "Loops code",
                             "Validates syntax",
@@ -36480,10 +38384,10 @@
                             "Declares a function"
                         ],
                         "answer": 2,
-                        "explanation": "The \u0027if\u0027 statement is the fundamental conditional control structure."
+                        "explanation": "The 'if' statement is the fundamental conditional control structure."
                     },
                     {
-                        "q": "What is a \u0027String\u0027?",
+                        "q": "What is a 'String'?",
                         "options": [
                             "A mathematical thread",
                             "A sequence of characters used to represent text",
@@ -36491,10 +38395,10 @@
                             "A pointer"
                         ],
                         "answer": 1,
-                        "explanation": "Strings store text like \u0027Hello World\u0027."
+                        "explanation": "Strings store text like 'Hello World'."
                     },
                     {
-                        "q": "What is the purpose of \u0027HTML\u0027?",
+                        "q": "What is the purpose of 'HTML'?",
                         "options": [
                             "To define the structure of a raw web page",
                             "To style a page beautifully",
@@ -36513,10 +38417,10 @@
                             "Grace Hopper"
                         ],
                         "answer": 2,
-                        "explanation": "Ada Lovelace created the first algorithm intended for Babbage\u0027s Analytical Engine."
+                        "explanation": "Ada Lovelace created the first algorithm intended for Babbage's Analytical Engine."
                     },
                     {
-                        "q": "What is \u0027Machine Code\u0027?",
+                        "q": "What is 'Machine Code'?",
                         "options": [
                             "Assembly language",
                             "Low-level code readable directly by the CPU",
@@ -36527,7 +38431,7 @@
                         "explanation": "Machine code is pure binary, directly executable."
                     },
                     {
-                        "q": "What is an \u0027Integer\u0027 data type?",
+                        "q": "What is an 'Integer' data type?",
                         "options": [
                             "A decimal value",
                             "Text",
@@ -36538,7 +38442,7 @@
                         "explanation": "Integers hold numbers like -1, 0, 42."
                     },
                     {
-                        "q": "What is a \u0027Float\u0027 or \u0027Double\u0027 data type?",
+                        "q": "What is a 'Float' or 'Double' data type?",
                         "options": [
                             "A character",
                             "A string",
@@ -36549,7 +38453,7 @@
                         "explanation": "Floats represent real numbers like 3.14."
                     },
                     {
-                        "q": "What does the \u0027print\u0027 (or \u0027printf\u0027, \u0027console.log\u0027) function usually do?",
+                        "q": "What does the 'print' (or 'printf', 'console.log') function usually do?",
                         "options": [
                             "Prints to a paper printer",
                             "Outputs data to the standard console or screen",
@@ -36560,7 +38464,7 @@
                         "explanation": "Print functions display output for the user."
                     },
                     {
-                        "q": "What is a \u0027Framework\u0027?",
+                        "q": "What is a 'Framework'?",
                         "options": [
                             "A hardware chassis",
                             "A pre-packaged, standardized structure to build software on",
@@ -36582,7 +38486,7 @@
                         "explanation": "JSON is a lightweight data-interchange format."
                     },
                     {
-                        "q": "What does \u0027Backend\u0027 refer to in web development?",
+                        "q": "What does 'Backend' refer to in web development?",
                         "options": [
                             "The visual part of a website",
                             "The server, application, and database working behind the scenes",
@@ -36593,7 +38497,7 @@
                         "explanation": "The backend powers the logic and data storage of applications."
                     },
                     {
-                        "q": "What does \u0027Frontend\u0027 refer to?",
+                        "q": "What does 'Frontend' refer to?",
                         "options": [
                             "The database",
                             "The server logic",
@@ -36623,7 +38527,7 @@
         "icon": "fa-landmark",
         "subcategories": [
             {
-                "category": "Current \u0026 Post-1947",
+                "category": "Current & Post-1947",
                 "icon": "fa-globe",
                 "questions": [
                     {
@@ -36657,7 +38561,7 @@
                             "21st Amendment"
                         ],
                         "answer": 2,
-                        "explanation": "The 18th Amendment drastically reduced the President\u0027s powers and removed article 58-2(b)."
+                        "explanation": "The 18th Amendment drastically reduced the President's powers and removed article 58-2(b)."
                     },
                     {
                         "q": "Pakistan shares its longest international border with which country?",
@@ -36701,7 +38605,7 @@
                             "ECO"
                         ],
                         "answer": 1,
-                        "explanation": "The China-Pakistan Economic Corridor (CPEC) is a primary component of China\u0027s Belt and Road Initiative."
+                        "explanation": "The China-Pakistan Economic Corridor (CPEC) is a primary component of China's Belt and Road Initiative."
                     },
                     {
                         "q": "In which year did the tragic APS (Army Public School) Peshawar attack heavily occur?",
@@ -36770,7 +38674,7 @@
                         "explanation": "Major General Iskander Mirza became the first President under the 1956 Constitution."
                     },
                     {
-                        "q": "The historic \u0027Objective Resolution\u0027 was passed by the Constituent Assembly in which year?",
+                        "q": "The historic 'Objective Resolution' was passed by the Constituent Assembly in which year?",
                         "options": [
                             "1947",
                             "1948",
@@ -36778,7 +38682,7 @@
                             "1956"
                         ],
                         "answer": 2,
-                        "explanation": "It was passed on March 12, 1949, laying the foundation for Pakistan\u0027s constitution."
+                        "explanation": "It was passed on March 12, 1949, laying the foundation for Pakistan's constitution."
                     },
                     {
                         "q": "Which is the largest desert in Pakistan?",
@@ -36814,7 +38718,7 @@
                         "explanation": "Ahmad Ghulamali Chagla composed the music in 1949."
                     },
                     {
-                        "q": "What is the name of the upper house of Pakistan\u0027s Parliament?",
+                        "q": "What is the name of the upper house of Pakistan's Parliament?",
                         "options": [
                             "National Assembly",
                             "Senate",
@@ -36902,7 +38806,7 @@
                         "explanation": "Harappa is an archaeological site in Punjab, near Sahiwal."
                     },
                     {
-                        "q": "Who authored the famous book \u0027The Myth of Independence\u0027?",
+                        "q": "Who authored the famous book 'The Myth of Independence'?",
                         "options": [
                             "Zulfikar Ali Bhutto",
                             "Ayub Khan",
@@ -36968,7 +38872,7 @@
                         "explanation": "Gwadar Port in Balochistan is a warm-water, deep-sea port."
                     },
                     {
-                        "q": "The monumental \u0027Minar-e-Pakistan\u0027 was built in commemoration of what?",
+                        "q": "The monumental 'Minar-e-Pakistan' was built in commemoration of what?",
                         "options": [
                             "Independence Day",
                             "Lahore Resolution",
@@ -37001,7 +38905,7 @@
                         "explanation": "The historic Khyber Pass connects Peshawar to Kabul."
                     },
                     {
-                        "q": "Who coined the name \u0027Pakistan\u0027?",
+                        "q": "Who coined the name 'Pakistan'?",
                         "options": [
                             "Allama Iqbal",
                             "Chaudhry Rahmat Ali",
@@ -37009,7 +38913,7 @@
                             "Liaquat Ali Khan"
                         ],
                         "answer": 1,
-                        "explanation": "Chaudhry Rahmat Ali published it in his 1933 pamphlet \u0027Now or Never\u0027."
+                        "explanation": "Chaudhry Rahmat Ali published it in his 1933 pamphlet 'Now or Never'."
                     },
                     {
                         "q": "How many articles are there in the 1973 Constitution of Pakistan?",
@@ -37078,7 +38982,7 @@
                         "explanation": "It commemorates the sacrifices made during the 1965 Indo-Pak War."
                     },
                     {
-                        "q": "Which city is known specifically as the \u0027City of Saints\u0027?",
+                        "q": "Which city is known specifically as the 'City of Saints'?",
                         "options": [
                             "Lahore",
                             "Multan",
@@ -37100,7 +39004,7 @@
                         "explanation": "General Yahya Khan issued it to set the basis for the 1970 elections."
                     },
                     {
-                        "q": "Which Pakistani province is officially known as the \u0027Land of Five Rivers\u0027?",
+                        "q": "Which Pakistani province is officially known as the 'Land of Five Rivers'?",
                         "options": [
                             "Sindh",
                             "Balochistan",
@@ -37108,7 +39012,7 @@
                             "Punjab"
                         ],
                         "answer": 3,
-                        "explanation": "The name Punjab translates to \u0027Five Waters\u0027 (Panj + Aab)."
+                        "explanation": "The name Punjab translates to 'Five Waters' (Panj + Aab)."
                     },
                     {
                         "q": "When was the objective resolution incorporated completely as an active, substantive part of the constitution?",
@@ -37133,7 +39037,7 @@
                         "explanation": "It was established resulting from the Simla Agreement of 1972."
                     },
                     {
-                        "q": "Who was the driving author of the \u0027Fourteen Points\u0027 formulated defensively in 1929?",
+                        "q": "Who was the driving author of the 'Fourteen Points' formulated defensively in 1929?",
                         "options": [
                             "Allama Iqbal",
                             "Sir Aga Khan",
@@ -37144,7 +39048,7 @@
                         "explanation": "Jinnah presented them as a constitutional reform plan to protect Muslim political rights."
                     },
                     {
-                        "q": "Pakistan successfully launched its first artificial satellite \u0027Badr-1\u0027 in which year?",
+                        "q": "Pakistan successfully launched its first artificial satellite 'Badr-1' in which year?",
                         "options": [
                             "1985",
                             "1990",
@@ -37155,7 +39059,7 @@
                         "explanation": "Badr-1 was launched on July 16, 1990."
                     },
                     {
-                        "q": "Which sector is fundamentally the largest contributor to Pakistan\u0027s GDP?",
+                        "q": "Which sector is fundamentally the largest contributor to Pakistan's GDP?",
                         "options": [
                             "Agriculture",
                             "Industry",
@@ -37203,7 +39107,7 @@
                         "options": [
                             "Central Pakistan Economic Corridor",
                             "China-Pakistan Economic Corridor",
-                            "Combined Power \u0026 Economy Council",
+                            "Combined Power & Economy Council",
                             "Commercial Port of East Coast"
                         ],
                         "answer": 1,
@@ -37221,7 +39125,7 @@
                         "explanation": "Gilgit-Baltistan is currently divided into 14 administrative districts."
                     },
                     {
-                        "q": "Who famously wrote the national song \u0027Sohni Dharti Allah Rakhe\u0027?",
+                        "q": "Who famously wrote the national song 'Sohni Dharti Allah Rakhe'?",
                         "options": [
                             "Jamiluddin Aali",
                             "Masroor Anwar",
@@ -37276,7 +39180,7 @@
                         "explanation": "The President of Pakistan is the ex-officio Chancellor."
                     },
                     {
-                        "q": "Which mountain range is famously known as the \u0027Roof of the World\u0027?",
+                        "q": "Which mountain range is famously known as the 'Roof of the World'?",
                         "options": [
                             "Himalayas",
                             "Karakoram",
@@ -37284,7 +39188,7 @@
                             "Hindu Kush"
                         ],
                         "answer": 2,
-                        "explanation": "The Pamir Knot connects multiple mountain ranges near Pakistan\u0027s northern borders."
+                        "explanation": "The Pamir Knot connects multiple mountain ranges near Pakistan's northern borders."
                     },
                     {
                         "q": "Who was the distinguished Viceroy of India at the time of Partition?",
@@ -37306,10 +39210,10 @@
                             "Leather Products"
                         ],
                         "answer": 2,
-                        "explanation": "The textile industry is the backbone of Pakistan\u0027s exports."
+                        "explanation": "The textile industry is the backbone of Pakistan's exports."
                     },
                     {
-                        "q": "The famous \u0027Salt Range\u0027 is actively situated between which two rivers?",
+                        "q": "The famous 'Salt Range' is actively situated between which two rivers?",
                         "options": [
                             "Indus and Jhelum",
                             "Jhelum and Chenab",
@@ -37350,10 +39254,10 @@
                             "SAARC"
                         ],
                         "answer": 2,
-                        "explanation": "Pakistan left the Commonwealth in protest over Bangladesh\u0027s recognition but rejoined later."
+                        "explanation": "Pakistan left the Commonwealth in protest over Bangladesh's recognition but rejoined later."
                     },
                     {
-                        "q": "The \u0027Simla Deputation\u0027 crucially met Lord Minto in which year?",
+                        "q": "The 'Simla Deputation' crucially met Lord Minto in which year?",
                         "options": [
                             "1905",
                             "1906",
@@ -37397,7 +39301,7 @@
                         "explanation": "There are 4 provincial high courts plus the Islamabad High Court."
                     },
                     {
-                        "q": "The historic \u0027Gandhara Civilization\u0027 fundamentally thrived near which modern Pakistani city?",
+                        "q": "The historic 'Gandhara Civilization' fundamentally thrived near which modern Pakistani city?",
                         "options": [
                             "Multan",
                             "Lahore",
@@ -37408,7 +39312,7 @@
                         "explanation": "Taxila was a major center for the Gandharan civilization."
                     },
                     {
-                        "q": "When was the landmark \u0027National Action Plan\u0027 aggressively formulated?",
+                        "q": "When was the landmark 'National Action Plan' aggressively formulated?",
                         "options": [
                             "2012",
                             "2013",
@@ -37441,7 +39345,7 @@
                         "explanation": "The 21st Amendment authorized military courts for terrorism cases."
                     },
                     {
-                        "q": "What is exclusively physically located at \u0027Zero Point\u0027 in Islamabad?",
+                        "q": "What is exclusively physically located at 'Zero Point' in Islamabad?",
                         "options": [
                             "Parliament House",
                             "Supreme Court",
@@ -37474,7 +39378,7 @@
                         "explanation": "The body operates under a formally appointed Chairman."
                     },
                     {
-                        "q": "The \u0027Kirthar National Park\u0027 is primarily located in which province?",
+                        "q": "The 'Kirthar National Park' is primarily located in which province?",
                         "options": [
                             "Balochistan",
                             "Sindh",
@@ -37485,7 +39389,7 @@
                         "explanation": "It is essentially located in the Kirthar Mountains in Sindh."
                     },
                     {
-                        "q": "Which year marks the dreadful creation of \u0027One Unit\u0027 strategically merging West Pakistan provinces?",
+                        "q": "Which year marks the dreadful creation of 'One Unit' strategically merging West Pakistan provinces?",
                         "options": [
                             "1954",
                             "1955",
@@ -37507,7 +39411,7 @@
                         "explanation": "The portrait of Quaid-e-Azam Muhammad Ali Jinnah appears on all notes."
                     },
                     {
-                        "q": "The strategic \u0027Chagai-I\u0027 heavily references what exactly in Pakistani history?",
+                        "q": "The strategic 'Chagai-I' heavily references what exactly in Pakistani history?",
                         "options": [
                             "A military operation",
                             "Space launch",
@@ -37529,7 +39433,7 @@
                         "explanation": "Pakistan victoriously won gold at the Rome Olympics in 1960."
                     },
                     {
-                        "q": "The breathtaking \u0027Deosai National Park\u0027 is popularly known for what distinct environmental characteristic?",
+                        "q": "The breathtaking 'Deosai National Park' is popularly known for what distinct environmental characteristic?",
                         "options": [
                             "Deepest canyon",
                             "Densest forest",
@@ -37540,7 +39444,7 @@
                         "explanation": "It is widely considered the second-highest alpine plain globally."
                     },
                     {
-                        "q": "Who authored \u0027The Emergence of Pakistan\u0027?",
+                        "q": "Who authored 'The Emergence of Pakistan'?",
                         "options": [
                             "Chaudhry Muhammad Ali",
                             "Ayesha Jalal",
@@ -37551,7 +39455,7 @@
                         "explanation": "Former Prime Minister Chaudhry Muhammad Ali comprehensively wrote this definitive history."
                     },
                     {
-                        "q": "The robust \u0027Agha Steel\u0027 and \u0027Pakistan Steel Mills\u0027 are primarily based in which city?",
+                        "q": "The robust 'Agha Steel' and 'Pakistan Steel Mills' are primarily based in which city?",
                         "options": [
                             "Faisalabad",
                             "Gujranwala",
@@ -37573,7 +39477,7 @@
                         "explanation": "The IVC (Mohenjo-Daro, Harappa) dominated the entire basin."
                     },
                     {
-                        "q": "The strategic \u0027Wakha Corridor\u0027 separates Pakistan directly from which robust neighboring state?",
+                        "q": "The strategic 'Wakha Corridor' separates Pakistan directly from which robust neighboring state?",
                         "options": [
                             "Iran",
                             "China",
@@ -37584,7 +39488,7 @@
                         "explanation": "The narrow predominantly Afghan strip actively creates a buffer with Tajikistan."
                     },
                     {
-                        "q": "Who prominently presented the \u0027Lahore Resolution\u0027 in 1940?",
+                        "q": "Who prominently presented the 'Lahore Resolution' in 1940?",
                         "options": [
                             "Muhammad Ali Jinnah",
                             "A.K. Fazlul Huq",
@@ -37595,7 +39499,7 @@
                         "explanation": "Sher-e-Bengal A.K. Fazlul Huq presented the landmark resolution."
                     },
                     {
-                        "q": "The monumental \u0027Rohtas Fort\u0027 was durably built by whom?",
+                        "q": "The monumental 'Rohtas Fort' was durably built by whom?",
                         "options": [
                             "Akbar the Great",
                             "Sher Shah Suri",
@@ -37617,7 +39521,7 @@
                         "explanation": "The Ganges river predominantly flows entirely through India and Bangladesh."
                     },
                     {
-                        "q": "When historically was the crucial \u0027Radcliffe Award\u0027 unjustly announced?",
+                        "q": "When historically was the crucial 'Radcliffe Award' unjustly announced?",
                         "options": [
                             "14 August 1947",
                             "17 August 1947",
@@ -37636,7 +39540,7 @@
                             "1947 Interim Constitution"
                         ],
                         "answer": 0,
-                        "explanation": "Pakistan\u0027s very first constitution definitively declared it an Islamic Republic in 1956."
+                        "explanation": "Pakistan's very first constitution definitively declared it an Islamic Republic in 1956."
                     },
                     {
                         "q": "Which of the following passes dynamically connects effectively Quetta to violently rugged Chaman in Balochistan?",
@@ -37683,7 +39587,7 @@
                         "explanation": "Karachi is definitively the mega-economic hub and the most densely populated."
                     },
                     {
-                        "q": "The vast \u0027Thar Desert\u0027 expansively lies directly in which distinct province?",
+                        "q": "The vast 'Thar Desert' expansively lies directly in which distinct province?",
                         "options": [
                             "Punjab",
                             "Balochistan",
@@ -37716,7 +39620,7 @@
                         "explanation": "Mangla Dam robustly generates massive power entirely on Jhelum."
                     },
                     {
-                        "q": "The \u0027Kargil War\u0027 dramatically broke out critically between India and Pakistan precisely in which year?",
+                        "q": "The 'Kargil War' dramatically broke out critically between India and Pakistan precisely in which year?",
                         "options": [
                             "1971",
                             "1984",
@@ -37727,7 +39631,7 @@
                         "explanation": "The heavy military conflict dramatically occurred notably in 1999 near the LoC."
                     },
                     {
-                        "q": "Who fundamentally formed the monumental \u0027All India Muslim League\u0027 actively in Dhaka?",
+                        "q": "Who fundamentally formed the monumental 'All India Muslim League' actively in Dhaka?",
                         "options": [
                             "Sir Aga Khan",
                             "Nawab Salimullah Khan",
@@ -37738,7 +39642,7 @@
                         "explanation": "Nawab Salimullah of Dhaka fundamentally hosted the initial founding prominently in 1906."
                     },
                     {
-                        "q": "The spectacular \u0027Shalimar Gardens\u0027 uniquely located in Lahore were distinctly built by?",
+                        "q": "The spectacular 'Shalimar Gardens' uniquely located in Lahore were distinctly built by?",
                         "options": [
                             "Babur",
                             "Akbar",
@@ -37749,7 +39653,7 @@
                         "explanation": "Emperor Shah Jahan artistically created them intricately in 1641."
                     },
                     {
-                        "q": "Who vividly coined the name \u0027Pakistan\u0027 primarily in a historic pamphlet titled \u0027Now or Never\u0027?",
+                        "q": "Who vividly coined the name 'Pakistan' primarily in a historic pamphlet titled 'Now or Never'?",
                         "options": [
                             "Allama Iqbal",
                             "Sir Syed Ahmed",
@@ -37760,7 +39664,7 @@
                         "explanation": "Chaudhry Rahmat Ali powerfully coined the revolutionary name expressly in 1933."
                     },
                     {
-                        "q": "What essentially was the central defining theme decisively of the historic \u0027Allahabad Address\u0027 critically in 1930?",
+                        "q": "What essentially was the central defining theme decisively of the historic 'Allahabad Address' critically in 1930?",
                         "options": [
                             "Complete Independence",
                             "Demand for a separate Muslim state",
@@ -37771,7 +39675,7 @@
                         "explanation": "Allama Iqbal intellectually visualized explicitly a separate consolidated Muslim state."
                     },
                     {
-                        "q": "Which historically prominent leader strongly initiated the prominent \u0027Khilafat Movement\u0027 effectively in British India?",
+                        "q": "Which historically prominent leader strongly initiated the prominent 'Khilafat Movement' effectively in British India?",
                         "options": [
                             "Sir Syed Ahmed Khan",
                             "Ali Brothers",
@@ -37793,7 +39697,7 @@
                         "explanation": "According strictly to the constitution, the candidate must actively be at least 45."
                     },
                     {
-                        "q": "Where exactly is the highly strategic \u0027Gomal Zam Dam\u0027 physically situated geographically?",
+                        "q": "Where exactly is the highly strategic 'Gomal Zam Dam' physically situated geographically?",
                         "options": [
                             "South Waziristan",
                             "North Waziristan",
@@ -37815,7 +39719,7 @@
                         "explanation": "The very first Constitution officially labeled it definitively an Islamic Republic."
                     },
                     {
-                        "q": "The \u0027National Command Authority\u0027 (NCA) critically primarily deals securely with what exactly?",
+                        "q": "The 'National Command Authority' (NCA) critically primarily deals securely with what exactly?",
                         "options": [
                             "Cyber Security",
                             "Naval Fleet",
@@ -37837,7 +39741,7 @@
                         "explanation": "The historic 25th Amendment seamlessly passed explicitly in 2018."
                     },
                     {
-                        "q": "The massive \u0027Reko Diq\u0027 project prominently in Balochistan is critically fundamentally famous notably for?",
+                        "q": "The massive 'Reko Diq' project prominently in Balochistan is critically fundamentally famous notably for?",
                         "options": [
                             "Natural Gas",
                             "Coal Reserves",
@@ -37870,7 +39774,7 @@
                         "explanation": "The tragic formal surrender prominently occurred explicitly in Dhaka actively on Dec 16, 1971."
                     },
                     {
-                        "q": "Where fundamentally does the \u0027Karakoram Highway\u0027 efficiently seamlessly connect prominently Pakistan directly to China?",
+                        "q": "Where fundamentally does the 'Karakoram Highway' efficiently seamlessly connect prominently Pakistan directly to China?",
                         "options": [
                             "Khunjerab Pass",
                             "Babusar Pass",
@@ -37881,7 +39785,7 @@
                         "explanation": "The iconic strategic highway functionally crosses vividly at Khunjerab."
                     },
                     {
-                        "q": "Who proudly explicitly wrote the famously stirring \u0027Pakistan National Anthem\u0027 beautifully?",
+                        "q": "Who proudly explicitly wrote the famously stirring 'Pakistan National Anthem' beautifully?",
                         "options": [
                             "Faiz Ahmed Faiz",
                             "Allama Iqbal",
@@ -37903,7 +39807,7 @@
                         "explanation": "Senators essentially robustly firmly serve successfully for a 6-year operational term."
                     },
                     {
-                        "q": "The \u0027Quaid-e-Azam Solar Park\u0027 comprehensively prominently operates heavily essentially in which city?",
+                        "q": "The 'Quaid-e-Azam Solar Park' comprehensively prominently operates heavily essentially in which city?",
                         "options": [
                             "Bahawalpur",
                             "Multan",
@@ -37938,7 +39842,7 @@
                     {
                         "q": "Who was the first woman to represent Pakistan in the United Nations?",
                         "options": [
-                            "Begum Ra\u0027ana Liaquat",
+                            "Begum Ra'ana Liaquat",
                             "Shaista Ikramullah",
                             "Benazir Bhutto",
                             "Malala Yousafzai"
@@ -37969,7 +39873,7 @@
                         "explanation": "The Khyber Pass is the historic gateway to Afghanistan."
                     },
                     {
-                        "q": "The \u0027Port of Gawadar\u0027 is located on the shores of which body of water?",
+                        "q": "The 'Port of Gawadar' is located on the shores of which body of water?",
                         "options": [
                             "Red Sea",
                             "Arabian Sea",
@@ -38013,7 +39917,7 @@
                         "explanation": "Karachi serves as the headquarters of the national carrier."
                     },
                     {
-                        "q": "What is the meaning of the word \u0027Pakistan\u0027?",
+                        "q": "What is the meaning of the word 'Pakistan'?",
                         "options": [
                             "Land of Pure",
                             "Land of Muslims",
@@ -38026,13 +39930,13 @@
                     {
                         "q": "Who served as the first woman Governor of a Pakistani province?",
                         "options": [
-                            "Begum Ra\u0027ana Liaquat",
+                            "Begum Ra'ana Liaquat",
                             "Fatima Jinnah",
                             "Benazir Bhutto",
                             "Begum Nusrat Bhutto"
                         ],
                         "answer": 0,
-                        "explanation": "Begum Ra\u0027ana Liaquat Ali Khan was Governor of Sindh in 1973."
+                        "explanation": "Begum Ra'ana Liaquat Ali Khan was Governor of Sindh in 1973."
                     },
                     {
                         "q": "Which mountain range is located in the south of Pakistan?",
@@ -38057,7 +39961,7 @@
                         "explanation": "Balochistan recently updated its administrative divisions to 34+ districts."
                     },
                     {
-                        "q": "The \u0027Minar-e-Pakistan\u0027 was built on the site of which event?",
+                        "q": "The 'Minar-e-Pakistan' was built on the site of which event?",
                         "options": [
                             "Birth of Jinnah",
                             "Passing of Resolution",
@@ -38068,7 +39972,7 @@
                         "explanation": "It stands where the Pakistan Resolution was passed in 1940."
                     },
                     {
-                        "q": "Who was the leader of the \u0027Silk Letter Movement\u0027?",
+                        "q": "Who was the leader of the 'Silk Letter Movement'?",
                         "options": [
                             "Maulana Mahmud-ul-Hasan",
                             "Sir Syed",
@@ -38090,7 +39994,7 @@
                         "explanation": "Lahore is the cultural capital and second most populous."
                     },
                     {
-                        "q": "When was the \u0027Zakat and Ushr Ordinance\u0027 promulgated?",
+                        "q": "When was the 'Zakat and Ushr Ordinance' promulgated?",
                         "options": [
                             "1973",
                             "1977",
@@ -38101,7 +40005,7 @@
                         "explanation": "Zia-ul-Haq introduced it in 1980."
                     },
                     {
-                        "q": "The \u0027Hiran Minar\u0027 was built by which emperor?",
+                        "q": "The 'Hiran Minar' was built by which emperor?",
                         "options": [
                             "Akbar",
                             "Jahangir",
@@ -38145,7 +40049,7 @@
                         "explanation": "Ahmed G. Chagla composed the tune in 1949."
                     },
                     {
-                        "q": "Which lake is known as the \u0027Lake of Fairies\u0027?",
+                        "q": "Which lake is known as the 'Lake of Fairies'?",
                         "options": [
                             "Saiful Muluk",
                             "Lulusar",
@@ -38156,7 +40060,7 @@
                         "explanation": "Saiful Muluk is famously associated with the fairy tale."
                     },
                     {
-                        "q": "The \u0027Bolan Pass\u0027 is located in which province?",
+                        "q": "The 'Bolan Pass' is located in which province?",
                         "options": [
                             "KPK",
                             "Punjab",
@@ -38211,7 +40115,7 @@
                         "explanation": "Islamabad is known for its greenery and cleanliness."
                     },
                     {
-                        "q": "The \u0027Faisal Mosque\u0027 was gifted to Pakistan by which country?",
+                        "q": "The 'Faisal Mosque' was gifted to Pakistan by which country?",
                         "options": [
                             "Turkey",
                             "Iran",
@@ -38233,7 +40137,7 @@
                         "explanation": "Namira Salim is recognized as the first Pakistani astronaut/polar explorer."
                     },
                     {
-                        "q": "When was the \u0027Lahore Declaration\u0027 signed between India and Pakistan?",
+                        "q": "When was the 'Lahore Declaration' signed between India and Pakistan?",
                         "options": [
                             "1998",
                             "1999",
@@ -38277,7 +40181,7 @@
                         "explanation": "Lieutenant General Nigar Johar was the first 3-star general."
                     },
                     {
-                        "q": "The \u0027Kharan Desert\u0027 is located in which province?",
+                        "q": "The 'Kharan Desert' is located in which province?",
                         "options": [
                             "Sindh",
                             "Punjab",
@@ -38288,7 +40192,7 @@
                         "explanation": "It is a mountainous desert in western Balochistan."
                     },
                     {
-                        "q": "Which city is famous for the \u0027Khyber Pass\u0027?",
+                        "q": "Which city is famous for the 'Khyber Pass'?",
                         "options": [
                             "Quetta",
                             "Peshawar",
@@ -38299,7 +40203,7 @@
                         "explanation": "Peshawar is the city nearest to the Khyber Pass."
                     },
                     {
-                        "q": "When was the name \u0027Islamabad\u0027 officially approved for the new capital?",
+                        "q": "When was the name 'Islamabad' officially approved for the new capital?",
                         "options": [
                             "1947",
                             "1959",
@@ -38354,7 +40258,7 @@
                         "explanation": "Karambar is one of the highest and deepest alpine lakes."
                     },
                     {
-                        "q": "When did Pakistan officially become an \u0027Atomic Power\u0027?",
+                        "q": "When did Pakistan officially become an 'Atomic Power'?",
                         "options": [
                             "1971",
                             "1984",
@@ -38561,10 +40465,10 @@
                             "Georgia-Russia conflict"
                         ],
                         "answer": 0,
-                        "explanation": "Russia\u0027s invasion of Ukraine remains a defining global conflict."
+                        "explanation": "Russia's invasion of Ukraine remains a defining global conflict."
                     },
                     {
-                        "q": "Which nation landed a spacecraft near the moon\u0027s south pole in 2023 (Chandrayaan-3)?",
+                        "q": "Which nation landed a spacecraft near the moon's south pole in 2023 (Chandrayaan-3)?",
                         "options": [
                             "USA",
                             "China",
@@ -38597,7 +40501,7 @@
                         "explanation": "Australia won by defeating India in the final."
                     },
                     {
-                        "q": "What is the name of Pakistan\u0027s recently tested indigenous armed drone?",
+                        "q": "What is the name of Pakistan's recently tested indigenous armed drone?",
                         "options": [
                             "Shahpar-II",
                             "Burq",
@@ -38619,7 +40523,7 @@
                         "explanation": "OpenAI launched ChatGPT in late 2022, causing a boom in generative AI."
                     },
                     {
-                        "q": "Who bought Twitter and rebranded it as \u0027X\u0027?",
+                        "q": "Who bought Twitter and rebranded it as 'X'?",
                         "options": [
                             "Mark Zuckerberg",
                             "Jeff Bezos",
@@ -38674,18 +40578,18 @@
                         "explanation": "The PKR dropped to historic lows amid economic crises."
                     },
                     {
-                        "q": "What is the \u0027SIFC\u0027 established in Pakistan in 2023?",
+                        "q": "What is the 'SIFC' established in Pakistan in 2023?",
                         "options": [
                             "State Investment Finance Corporation",
                             "Special Investment Facilitation Council",
-                            "Security \u0026 Intelligence Federation Committee",
+                            "Security & Intelligence Federation Committee",
                             "Sindh Industrial Factory Council"
                         ],
                         "answer": 1,
                         "explanation": "SIFC aims to attract foreign investment, particularly from GCC countries."
                     },
                     {
-                        "q": "Who won the ICC Men\u0027s Cricketer of the Year 2023 (Sir Garfield Sobers Trophy)?",
+                        "q": "Who won the ICC Men's Cricketer of the Year 2023 (Sir Garfield Sobers Trophy)?",
                         "options": [
                             "Virat Kohli",
                             "Babar Azam",
@@ -38707,7 +40611,7 @@
                         "explanation": "China brokered a historic peace agreement between Iran and Saudi Arabia in 2023."
                     },
                     {
-                        "q": "What is \u0027Artificial Intelligence\u0027 (AI) primarily focused on?",
+                        "q": "What is 'Artificial Intelligence' (AI) primarily focused on?",
                         "options": [
                             "Building better monitors",
                             "Creating machines capable of human-like cognitive functions",
@@ -38726,7 +40630,7 @@
                             "Electronics"
                         ],
                         "answer": 1,
-                        "explanation": "Textiles remain the backbone of Pakistan\u0027s export economy."
+                        "explanation": "Textiles remain the backbone of Pakistan's export economy."
                     },
                     {
                         "q": "Which prominent political leader in Pakistan faced multiple convictions and jail time leading up to the 2024 elections?",
@@ -38745,7 +40649,7 @@
                             "China-Pakistan Economic Corridor",
                             "Central Public Education Center",
                             "China Productivity Energy Commission",
-                            "Coalition for Pakistan\u0027s Economic Control"
+                            "Coalition for Pakistan's Economic Control"
                         ],
                         "answer": 0,
                         "explanation": "It is a massive bilateral infrastructure framework."
@@ -38795,7 +40699,7 @@
                         "explanation": "Sikandar Sultan Raja oversaw the 2024 general elections."
                     },
                     {
-                        "q": "Who was the Captain of the Pakistan Men\u0027s Cricket Team during the 2023 World Cup?",
+                        "q": "Who was the Captain of the Pakistan Men's Cricket Team during the 2023 World Cup?",
                         "options": [
                             "Shaheen Afridi",
                             "Babar Azam",
@@ -38825,7 +40729,7 @@
                             "Italy"
                         ],
                         "answer": 1,
-                        "explanation": "France saw massive protests over President Macron\u0027s pension reforms."
+                        "explanation": "France saw massive protests over President Macron's pension reforms."
                     },
                     {
                         "q": "What is the current official policy rate set by the State Bank of Pakistan (SBP) as of early 2024?",
@@ -38850,7 +40754,7 @@
                         "explanation": "Diamer-Bhasha is a critical mega-dam project."
                     },
                     {
-                        "q": "What is \u0027BRICS\u0027?",
+                        "q": "What is 'BRICS'?",
                         "options": [
                             "A building material",
                             "An alliance of early emerging economies (Brazil, Russia, India, China, South Africa)",
@@ -38902,7 +40806,7 @@
                             "Kenya"
                         ],
                         "answer": 1,
-                        "explanation": "Niger experienced a coup d\u0027état ousting President Bazoum."
+                        "explanation": "Niger experienced a coup d'état ousting President Bazoum."
                     },
                     {
                         "q": "Who is the Crown Prince and de facto ruler of Saudi Arabia?",
@@ -38913,7 +40817,7 @@
                             "Khalid bin Salman"
                         ],
                         "answer": 1,
-                        "explanation": "MBS is driving Saudi Arabia\u0027s Vision 2030."
+                        "explanation": "MBS is driving Saudi Arabia's Vision 2030."
                     },
                     {
                         "q": "Which tech CEO testified massively before the US Congress in recent years regarding child safety on social platforms?",
@@ -38924,7 +40828,7 @@
                             "Satya Nadella"
                         ],
                         "answer": 2,
-                        "explanation": "Mark Zuckerberg faced several hearings regarding Meta\u0027s influence."
+                        "explanation": "Mark Zuckerberg faced several hearings regarding Meta's influence."
                     },
                     {
                         "q": "Which nation announced a full exit from the Economic Community of West African States (ECOWAS) in early 2024?",
@@ -38977,7 +40881,7 @@
                         "explanation": "Iranian activist Narges Mohammadi won for her fight against the oppression of women."
                     },
                     {
-                        "q": "Which province recently launched the \u0027Chief Minister\u0027s Pink Bus\u0027 service?",
+                        "q": "Which province recently launched the 'Chief Minister's Pink Bus' service?",
                         "options": [
                             "Punjab",
                             "Sindh",
@@ -39060,7 +40964,7 @@
                         "explanation": "The NDB is headquartered in Shanghai, China."
                     },
                     {
-                        "q": "The \u0027Belt and Road Initiative\u0027 (BRI) is a global infrastructure project by which country?",
+                        "q": "The 'Belt and Road Initiative' (BRI) is a global infrastructure project by which country?",
                         "options": [
                             "USA",
                             "Japan",
@@ -39104,7 +41008,7 @@
                         "explanation": "COP28 took place in Dubai, UAE, in late 2023."
                     },
                     {
-                        "q": "Who won the ICC Men\u0027s Cricket World Cup 2023?",
+                        "q": "Who won the ICC Men's Cricket World Cup 2023?",
                         "options": [
                             "India",
                             "South Africa",
@@ -39159,7 +41063,7 @@
                         "explanation": "Brazil took over the G20 presidency from India."
                     },
                     {
-                        "q": "What is the mission name of India\u0027s successful lunar landing in 2023?",
+                        "q": "What is the mission name of India's successful lunar landing in 2023?",
                         "options": [
                             "Mangalyaan",
                             "Chandrayaan-3",
@@ -39178,7 +41082,7 @@
                             "Connect"
                         ],
                         "answer": 1,
-                        "explanation": "Musk rebranded Twitter to \u0027X\u0027 in 2023 as part of his vision for an \u0027everything app\u0027."
+                        "explanation": "Musk rebranded Twitter to 'X' in 2023 as part of his vision for an 'everything app'."
                     },
                     {
                         "q": "Who is the current Prime Minister of the UK (as of early 2024)?",
@@ -39291,7 +41195,7 @@
                         "explanation": "The conflict escalated significantly after October 7, 2023."
                     },
                     {
-                        "q": "Who won the FIFA Women\u0027s World Cup 2023?",
+                        "q": "Who won the FIFA Women's World Cup 2023?",
                         "options": [
                             "England",
                             "USA",
@@ -39313,12 +41217,12 @@
                         "explanation": "Elon Musk acquired the platform in October 2022."
                     },
                     {
-                        "q": "What is the main focus of the \u0027Vision 2030\u0027 plan?",
+                        "q": "What is the main focus of the 'Vision 2030' plan?",
                         "options": [
-                            "India\u0027s growth",
-                            "Saudi Arabia\u0027s diversification",
-                            "China\u0027s trade",
-                            "USA\u0027s climate goal"
+                            "India's growth",
+                            "Saudi Arabia's diversification",
+                            "China's trade",
+                            "USA's climate goal"
                         ],
                         "answer": 1,
                         "explanation": "Crown Prince Mohammed bin Salman launched it to reduce oil dependence."
@@ -39357,7 +41261,7 @@
                         "explanation": "WHO declared the end of COVID-19 as a public health emergency of international concern in May 2023."
                     },
                     {
-                        "q": "What is the \u0027BRICS Plus\u0027?",
+                        "q": "What is the 'BRICS Plus'?",
                         "options": [
                             "A new currency",
                             "An expansion of the BRICS group",
@@ -39398,7 +41302,7 @@
                             "AlphaGo"
                         ],
                         "answer": 1,
-                        "explanation": "Gemini is Google\u0027s most capable AI model to date."
+                        "explanation": "Gemini is Google's most capable AI model to date."
                     },
                     {
                         "q": "Who is the current President of Turkey?",
@@ -39412,7 +41316,7 @@
                         "explanation": "Erdogan won the election in 2023 to extend his rule."
                     },
                     {
-                        "q": "In which year will the next ICC Men\u0027s T20 World Cup be held (after 2022)?",
+                        "q": "In which year will the next ICC Men's T20 World Cup be held (after 2022)?",
                         "options": [
                             "2023",
                             "2024",
@@ -39420,7 +41324,7 @@
                             "2026"
                         ],
                         "answer": 1,
-                        "explanation": "The 2024 ICC Men\u0027s T20 World Cup is hosted by the West Indies and USA."
+                        "explanation": "The 2024 ICC Men's T20 World Cup is hosted by the West Indies and USA."
                     },
                     {
                         "q": "Which city is hosting the 2024 Summer Olympics?",
@@ -39445,7 +41349,7 @@
                         "explanation": "Linda Yaccarino was appointed by Elon Musk as CEO."
                     },
                     {
-                        "q": "Which country launched the \u0027Aditya-L1\u0027 solar mission in 2023?",
+                        "q": "Which country launched the 'Aditya-L1' solar mission in 2023?",
                         "options": [
                             "China",
                             "Japan",
@@ -39453,7 +41357,7 @@
                             "USA"
                         ],
                         "answer": 2,
-                        "explanation": "Aditya-L1 is India\u0027s first solar observatory."
+                        "explanation": "Aditya-L1 is India's first solar observatory."
                     },
                     {
                         "q": "Who is the current Chancellor of Germany?",
@@ -39533,7 +41437,7 @@
                         "explanation": "Putin has been the dominant figure in Russian politics since 1999."
                     },
                     {
-                        "q": "Which film won \u0027Best Picture\u0027 at the Oscars 2024?",
+                        "q": "Which film won 'Best Picture' at the Oscars 2024?",
                         "options": [
                             "Oppenheimer",
                             "Barbie",
@@ -39541,7 +41445,7 @@
                             "The Holdovers"
                         ],
                         "answer": 0,
-                        "explanation": "Christopher Nolan\u0027s Oppenheimer swept the major categories."
+                        "explanation": "Christopher Nolan's Oppenheimer swept the major categories."
                     },
                     {
                         "q": "Who is the current President of China?",
@@ -39585,7 +41489,7 @@
                             "Switzerland"
                         ],
                         "answer": 2,
-                        "explanation": "China consistently holds the world\u0027s largest reserves."
+                        "explanation": "China consistently holds the world's largest reserves."
                     },
                     {
                         "q": "What is the currency of Croatia as of January 1, 2023?",
@@ -39621,7 +41525,7 @@
                         "explanation": "Zelenskyy has led Ukraine through the ongoing conflict with Russia."
                     },
                     {
-                        "q": "Which country\u0027s economy became the third largest in the world in 2024 (overtaking Japan)?",
+                        "q": "Which country's economy became the third largest in the world in 2024 (overtaking Japan)?",
                         "options": [
                             "India",
                             "Germany",
@@ -39629,7 +41533,7 @@
                             "France"
                         ],
                         "answer": 1,
-                        "explanation": "Germany\u0027s GDP surpassed Japan\u0027s in dollar terms."
+                        "explanation": "Germany's GDP surpassed Japan's in dollar terms."
                     },
                     {
                         "q": "Who is the current CEO of Alphabet (Google)?",
@@ -39643,7 +41547,7 @@
                         "explanation": "Sundar Pichai has been CEO of Google since 2015 and Alphabet since 2019."
                     },
                     {
-                        "q": "Which country recently launched \u0027Lunar Gateway\u0027 project collaboration?",
+                        "q": "Which country recently launched 'Lunar Gateway' project collaboration?",
                         "options": [
                             "China",
                             "Russia",
@@ -39698,7 +41602,7 @@
                         "explanation": "Lula da Silva returned to office in January 2023."
                     },
                     {
-                        "q": "Which tennis player won the Australian Open 2024 (Men\u0027s)?",
+                        "q": "Which tennis player won the Australian Open 2024 (Men's)?",
                         "options": [
                             "Novak Djokovic",
                             "Jannik Sinner",
@@ -39717,7 +41621,7 @@
                             "Hakuto-R"
                         ],
                         "answer": 1,
-                        "explanation": "Intuitive Machines\u0027 Odysseus became the first private spacecraft to land softly on the moon."
+                        "explanation": "Intuitive Machines' Odysseus became the first private spacecraft to land softly on the moon."
                     },
                     {
                         "q": "Who is the current President of the European Commission?",
@@ -39742,7 +41646,7 @@
                         "explanation": "The United States remains the largest financial contributor."
                     },
                     {
-                        "q": "Which city has been named the \u0027World Capital of Architecture\u0027 for 2026 by UNESCO?",
+                        "q": "Which city has been named the 'World Capital of Architecture' for 2026 by UNESCO?",
                         "options": [
                             "Rio de Janeiro",
                             "Barcelona",
@@ -39764,7 +41668,7 @@
                         "explanation": "Trudeau has been in office since 2015."
                     },
                     {
-                        "q": "Which country successfully tested the \u0027Hypersonic\u0027 missile \u0027Zircon\u0027?",
+                        "q": "Which country successfully tested the 'Hypersonic' missile 'Zircon'?",
                         "options": [
                             "USA",
                             "China",
@@ -39808,15 +41712,15 @@
                         "explanation": "China is the largest producer, followed by India and Russia."
                     },
                     {
-                        "q": "What is \u0027Project Kuiper\u0027?",
+                        "q": "What is 'Project Kuiper'?",
                         "options": [
                             "Mars mission",
-                            "Amazon\u0027s satellite internet project",
+                            "Amazon's satellite internet project",
                             "New telescope",
                             "Deep sea exploration"
                         ],
                         "answer": 1,
-                        "explanation": "Amazon\u0027s initiative to provide fast, affordable satellite broadband."
+                        "explanation": "Amazon's initiative to provide fast, affordable satellite broadband."
                     },
                     {
                         "q": "Who is the current head of the Roman Catholic Church?",
@@ -39841,7 +41745,7 @@
                         "explanation": "Monaco often tops the rankings due to its high standard of living."
                     },
                     {
-                        "q": "What is the \u0027Tallinn Manual\u0027 related to?",
+                        "q": "What is the 'Tallinn Manual' related to?",
                         "options": [
                             "Deep sea law",
                             "International law applicable to cyber warfare",
@@ -39874,7 +41778,7 @@
                         "explanation": "The summit was held in New Delhi, India."
                     },
                     {
-                        "q": "What is the focus of the \u0027Artemis Accords\u0027?",
+                        "q": "What is the focus of the 'Artemis Accords'?",
                         "options": [
                             "Ocean protection",
                             "Deep space exploration and lunar cooperation",
@@ -39962,7 +41866,7 @@
                         "explanation": "Argentina defeated France in the final."
                     },
                     {
-                        "q": "According to UN estimates, which country surpassed China as the world\u0027s most populous in 2023?",
+                        "q": "According to UN estimates, which country surpassed China as the world's most populous in 2023?",
                         "options": [
                             "USA",
                             "Indonesia",
@@ -39973,7 +41877,7 @@
                         "explanation": "India became the most populous country."
                     },
                     {
-                        "q": "What is the name of Indonesia\u0027s newly planned capital city?",
+                        "q": "What is the name of Indonesia's newly planned capital city?",
                         "options": [
                             "Jakarta",
                             "Nusantara",
@@ -39995,7 +41899,7 @@
                         "explanation": "She won for her fight against the oppression of women in Iran."
                     },
                     {
-                        "q": "Which space agency successfully landed a rover near the Moon\u0027s south pole in 2023?",
+                        "q": "Which space agency successfully landed a rover near the Moon's south pole in 2023?",
                         "options": [
                             "NASA",
                             "ESA",
@@ -40003,7 +41907,7 @@
                             "ISRO"
                         ],
                         "answer": 3,
-                        "explanation": "India\u0027s ISRO achieved this with the Chandrayaan-3 mission."
+                        "explanation": "India's ISRO achieved this with the Chandrayaan-3 mission."
                     },
                     {
                         "q": "Where was the UN Climate Change Conference (COP28) held in late 2023?",
@@ -40017,7 +41921,7 @@
                         "explanation": "The UAE hosted the critical climate summit."
                     },
                     {
-                        "q": "Which country hosted the ICC Men\u0027s Cricket World Cup in 2023?",
+                        "q": "Which country hosted the ICC Men's Cricket World Cup in 2023?",
                         "options": [
                             "Australia",
                             "England",
@@ -40039,7 +41943,7 @@
                         "explanation": "Artemis aims to establish a sustainable presence on the Moon."
                     },
                     {
-                        "q": "Which country is the European Union\u0027s largest economy?",
+                        "q": "Which country is the European Union's largest economy?",
                         "options": [
                             "France",
                             "Germany",
@@ -40146,10 +42050,10 @@
                             "Copilot"
                         ],
                         "answer": 2,
-                        "explanation": "ChatGPT\u0027s release in late 2022 revolutionized public AI usage."
+                        "explanation": "ChatGPT's release in late 2022 revolutionized public AI usage."
                     },
                     {
-                        "q": "Which country is the world\u0027s largest producer of crude oil (as of recent data)?",
+                        "q": "Which country is the world's largest producer of crude oil (as of recent data)?",
                         "options": [
                             "Saudi Arabia",
                             "Russia",
@@ -40179,10 +42083,10 @@
                             "World Bank"
                         ],
                         "answer": 1,
-                        "explanation": "The \u0027Fed\u0027 is the central banking system of the US."
+                        "explanation": "The 'Fed' is the central banking system of the US."
                     },
                     {
-                        "q": "What is the name of the European Union\u0027s border-free zone?",
+                        "q": "What is the name of the European Union's border-free zone?",
                         "options": [
                             "Eurozone",
                             "Schengen Area",
@@ -40193,7 +42097,7 @@
                         "explanation": "The Schengen area allows unrestricted movement between member states."
                     },
                     {
-                        "q": "Which country is constructing the \u0027Neom\u0027 megacity project?",
+                        "q": "Which country is constructing the 'Neom' megacity project?",
                         "options": [
                             "UAE",
                             "Oman",
@@ -40201,7 +42105,7 @@
                             "Qatar"
                         ],
                         "answer": 2,
-                        "explanation": "Neom is part of Saudi Arabia\u0027s Vision 2030."
+                        "explanation": "Neom is part of Saudi Arabia's Vision 2030."
                     },
                     {
                         "q": "Who won the Best Picture Oscar at the 2024 Academy Awards?",
@@ -40212,7 +42116,7 @@
                             "Killers of the Flower Moon"
                         ],
                         "answer": 2,
-                        "explanation": "Christopher Nolan\u0027s Oppenheimer swept the major awards."
+                        "explanation": "Christopher Nolan's Oppenheimer swept the major awards."
                     },
                     {
                         "q": "Which organization comprises 55 member states from the African continent?",
@@ -40237,7 +42141,7 @@
                         "explanation": "The WHO ended the global emergency status for COVID-19."
                     },
                     {
-                        "q": "Which country\u0027s parliamentary building is called the \u0027Diet\u0027?",
+                        "q": "Which country's parliamentary building is called the 'Diet'?",
                         "options": [
                             "South Korea",
                             "Japan",
@@ -40245,7 +42149,7 @@
                             "Taiwan"
                         ],
                         "answer": 1,
-                        "explanation": "The National Diet is Japan\u0027s bicameral legislature."
+                        "explanation": "The National Diet is Japan's bicameral legislature."
                     },
                     {
                         "q": "Who is the longest-serving current Prime Minister of Israel?",
@@ -40259,7 +42163,7 @@
                         "explanation": "Netanyahu has served multiple terms spanning decades."
                     },
                     {
-                        "q": "Which strait is one of the world\u0027s most important oil transit chokepoints, located between the Persian Gulf and the Gulf of Oman?",
+                        "q": "Which strait is one of the world's most important oil transit chokepoints, located between the Persian Gulf and the Gulf of Oman?",
                         "options": [
                             "Strait of Hormuz",
                             "Strait of Malacca",
@@ -40267,7 +42171,7 @@
                             "Bab el-Mandeb"
                         ],
                         "answer": 0,
-                        "explanation": "A significant percentage of the world\u0027s petroleum passes through it."
+                        "explanation": "A significant percentage of the world's petroleum passes through it."
                     },
                     {
                         "q": "What is the capital of Ukraine?",
@@ -40303,7 +42207,7 @@
                         "explanation": "It is awarded by the President of the United States."
                     },
                     {
-                        "q": "Which country has the world\u0027s largest proven oil reserves?",
+                        "q": "Which country has the world's largest proven oil reserves?",
                         "options": [
                             "Saudi Arabia",
                             "Venezuela",
@@ -40362,7 +42266,7 @@
                         "options": [
                             "Stephen Harper",
                             "Justin Trudeau",
-                            "Erin O\u0027Toole",
+                            "Erin O'Toole",
                             "Jagmeet Singh"
                         ],
                         "answer": 1,
@@ -40377,10 +42281,10 @@
                             "Japan"
                         ],
                         "answer": 2,
-                        "explanation": "China\u0027s massive manufacturing sector leads global exports."
+                        "explanation": "China's massive manufacturing sector leads global exports."
                     },
                     {
-                        "q": "What does the \u0027O\u0027 in OPEC stand for?",
+                        "q": "What does the 'O' in OPEC stand for?",
                         "options": [
                             "Oil",
                             "Organization",
@@ -40421,7 +42325,7 @@
                             "Soyuz"
                         ],
                         "answer": 2,
-                        "explanation": "Tiangong translates to \u0027Heavenly Palace\u0027."
+                        "explanation": "Tiangong translates to 'Heavenly Palace'."
                     },
                     {
                         "q": "Which sport was newly added to the 2024 Paris Olympics?",
@@ -40485,7 +42389,7 @@
                         "explanation": "Mohsin Naqvi was recently appointed to head the PCB."
                     },
                     {
-                        "q": "According to the 2023 Digital Census, what is Pakistan\u0027s approximate population?",
+                        "q": "According to the 2023 Digital Census, what is Pakistan's approximate population?",
                         "options": [
                             "220 million",
                             "241 million",
@@ -40496,7 +42400,7 @@
                         "explanation": "The 2023 census recorded a population of about 241.49 million."
                     },
                     {
-                        "q": "Which city is known as the \u0027Electronic City\u0027 of Pakistan for its IT potential?",
+                        "q": "Which city is known as the 'Electronic City' of Pakistan for its IT potential?",
                         "options": [
                             "Lahore",
                             "Islamabad",
@@ -40574,7 +42478,7 @@
                 "icon": "fa-language",
                 "questions": [
                     {
-                        "q": "What is the synonym of \u0027Abundant\u0027?",
+                        "q": "What is the synonym of 'Abundant'?",
                         "options": [
                             "Scarce",
                             "Plentiful",
@@ -40582,10 +42486,10 @@
                             "Thin"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Abundant\u0027 means existing or available in large quantities; plentiful."
+                        "explanation": "'Abundant' means existing or available in large quantities; plentiful."
                     },
                     {
-                        "q": "What is the antonym of \u0027Diligent\u0027?",
+                        "q": "What is the antonym of 'Diligent'?",
                         "options": [
                             "Hardworking",
                             "Lazy",
@@ -40593,10 +42497,10 @@
                             "Attentive"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Diligent\u0027 means showing steady and earnest care and effort; the opposite is lazy."
+                        "explanation": "'Diligent' means showing steady and earnest care and effort; the opposite is lazy."
                     },
                     {
-                        "q": "Choose the correct synonym for \u0027Lucid\u0027.",
+                        "q": "Choose the correct synonym for 'Lucid'.",
                         "options": [
                             "Confusing",
                             "Clear",
@@ -40604,10 +42508,10 @@
                             "Dark"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Lucid\u0027 means expressed clearly; easy to understand."
+                        "explanation": "'Lucid' means expressed clearly; easy to understand."
                     },
                     {
-                        "q": "What is the antonym of \u0027Optimistic\u0027?",
+                        "q": "What is the antonym of 'Optimistic'?",
                         "options": [
                             "Hopeful",
                             "Pessimistic",
@@ -40618,7 +42522,7 @@
                         "explanation": "An optimistic person expects good things; a pessimistic person expects bad things."
                     },
                     {
-                        "q": "Find the synonym for \u0027Candid\u0027.",
+                        "q": "Find the synonym for 'Candid'.",
                         "options": [
                             "Deceitful",
                             "Frank",
@@ -40626,10 +42530,10 @@
                             "Secretive"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Candid\u0027 means truthful and straightforward; frank."
+                        "explanation": "'Candid' means truthful and straightforward; frank."
                     },
                     {
-                        "q": "What is the antonym of \u0027Barren\u0027?",
+                        "q": "What is the antonym of 'Barren'?",
                         "options": [
                             "Empty",
                             "Fertile",
@@ -40637,10 +42541,10 @@
                             "Desolate"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Barren\u0027 means too poor to produce much vegetation; \u0027fertile\u0027 is the opposite."
+                        "explanation": "'Barren' means too poor to produce much vegetation; 'fertile' is the opposite."
                     },
                     {
-                        "q": "Choose the synonym for \u0027Ephemeral\u0027.",
+                        "q": "Choose the synonym for 'Ephemeral'.",
                         "options": [
                             "Permanent",
                             "Long-lasting",
@@ -40648,10 +42552,10 @@
                             "Eternal"
                         ],
                         "answer": 2,
-                        "explanation": "\u0027Ephemeral\u0027 means lasting for a very short time."
+                        "explanation": "'Ephemeral' means lasting for a very short time."
                     },
                     {
-                        "q": "What is the antonym of \u0027Benevolent\u0027?",
+                        "q": "What is the antonym of 'Benevolent'?",
                         "options": [
                             "Kind",
                             "Generous",
@@ -40662,7 +42566,7 @@
                         "explanation": "Benevolent means well-meaning and kindly; malevolent means having a wish to do evil to others."
                     },
                     {
-                        "q": "Find the synonym for \u0027Mitigate\u0027.",
+                        "q": "Find the synonym for 'Mitigate'.",
                         "options": [
                             "Aggravate",
                             "Worsen",
@@ -40670,10 +42574,10 @@
                             "Increase"
                         ],
                         "answer": 2,
-                        "explanation": "\u0027Mitigate\u0027 means make (something bad) less severe, serious, or painful."
+                        "explanation": "'Mitigate' means make (something bad) less severe, serious, or painful."
                     },
                     {
-                        "q": "What is the antonym of \u0027Obscure\u0027?",
+                        "q": "What is the antonym of 'Obscure'?",
                         "options": [
                             "Hidden",
                             "Clear",
@@ -40681,12 +42585,12 @@
                             "Uncertain"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Obscure\u0027 means not discovered or known about; uncertain. The opposite is clear."
+                        "explanation": "'Obscure' means not discovered or known about; uncertain. The opposite is clear."
                     }
                 ]
             },
             {
-                "category": "Grammar \u0026 Prepositions",
+                "category": "Grammar & Prepositions",
                 "icon": "fa-font",
                 "questions": [
                     {
@@ -40698,7 +42602,7 @@
                             "for"
                         ],
                         "answer": 1,
-                        "explanation": "The correct preposition after \u0027good\u0027 to indicate skill or ability is \u0027at\u0027."
+                        "explanation": "The correct preposition after 'good' to indicate skill or ability is 'at'."
                     },
                     {
                         "q": "I am looking forward ___ seeing you.",
@@ -40709,7 +42613,7 @@
                             "about"
                         ],
                         "answer": 0,
-                        "explanation": "\u0027Look forward to\u0027 is a phrasal verb meaning to await eagerly."
+                        "explanation": "'Look forward to' is a phrasal verb meaning to await eagerly."
                     },
                     {
                         "q": "She has been living here ___ 2015.",
@@ -40720,7 +42624,7 @@
                             "until"
                         ],
                         "answer": 2,
-                        "explanation": "\u0027Since\u0027 is used to refer to a specific point in time in the past when the action began."
+                        "explanation": "'Since' is used to refer to a specific point in time in the past when the action began."
                     },
                     {
                         "q": "He prefers tea ___ coffee.",
@@ -40731,7 +42635,7 @@
                             "against"
                         ],
                         "answer": 2,
-                        "explanation": "The verb \u0027prefer\u0027 takes the preposition \u0027to\u0027 (prefer X to Y)."
+                        "explanation": "The verb 'prefer' takes the preposition 'to' (prefer X to Y)."
                     },
                     {
                         "q": "They congratulated him ___ his success.",
@@ -40742,7 +42646,7 @@
                             "with"
                         ],
                         "answer": 1,
-                        "explanation": "You congratulate someone \u0027on\u0027 their achievement."
+                        "explanation": "You congratulate someone 'on' their achievement."
                     },
                     {
                         "q": "I agree ___ you on this matter.",
@@ -40753,7 +42657,7 @@
                             "for"
                         ],
                         "answer": 0,
-                        "explanation": "You agree \u0027with\u0027 a person, and agree \u0027to\u0027 a proposal."
+                        "explanation": "You agree 'with' a person, and agree 'to' a proposal."
                     },
                     {
                         "q": "She was accused ___ theft.",
@@ -40764,7 +42668,7 @@
                             "about"
                         ],
                         "answer": 1,
-                        "explanation": "The correct preposition after \u0027accused\u0027 is \u0027of\u0027."
+                        "explanation": "The correct preposition after 'accused' is 'of'."
                     },
                     {
                         "q": "He died ___ cholera.",
@@ -40775,7 +42679,7 @@
                             "with"
                         ],
                         "answer": 1,
-                        "explanation": "You die \u0027of\u0027 a disease, and \u0027from\u0027 an external cause (like an accident)."
+                        "explanation": "You die 'of' a disease, and 'from' an external cause (like an accident)."
                     },
                     {
                         "q": "You should abide ___ the rules.",
@@ -40786,7 +42690,7 @@
                             "for"
                         ],
                         "answer": 0,
-                        "explanation": "\u0027Abide by\u0027 means to accept or act in accordance with a rule or decision."
+                        "explanation": "'Abide by' means to accept or act in accordance with a rule or decision."
                     },
                     {
                         "q": "He is addicted ___ smoking.",
@@ -40797,7 +42701,7 @@
                             "in"
                         ],
                         "answer": 1,
-                        "explanation": "The correct preposition after \u0027addicted\u0027 is \u0027to\u0027."
+                        "explanation": "The correct preposition after 'addicted' is 'to'."
                     }
                 ]
             }
@@ -40842,7 +42746,7 @@
                             "Produce antibodies"
                         ],
                         "answer": 1,
-                        "explanation": "Red blood cells are responsible for carrying oxygen from the lungs to the body\u0027s tissues."
+                        "explanation": "Red blood cells are responsible for carrying oxygen from the lungs to the body's tissues."
                     },
                     {
                         "q": "Which vitamin is synthesized by the human body upon exposure to sunlight?",
@@ -40911,7 +42815,7 @@
                         "explanation": "The nephron is the microscopic structural and functional unit of the kidney."
                     },
                     {
-                        "q": "Which gas is most abundant in the Earth\u0027s atmosphere?",
+                        "q": "Which gas is most abundant in the Earth's atmosphere?",
                         "options": [
                             "Oxygen",
                             "Carbon dioxide",
@@ -40919,7 +42823,7 @@
                             "Hydrogen"
                         ],
                         "answer": 2,
-                        "explanation": "Nitrogen constitutes about 78% of the Earth\u0027s atmosphere."
+                        "explanation": "Nitrogen constitutes about 78% of the Earth's atmosphere."
                     }
                 ]
             },
@@ -40950,15 +42854,15 @@
                         "explanation": "The speed of light is exactly 299,792,458 meters per second (approx 300,000 km/s)."
                     },
                     {
-                        "q": "Which law states that \u0027for every action, there is an equal and opposite reaction\u0027?",
+                        "q": "Which law states that 'for every action, there is an equal and opposite reaction'?",
                         "options": [
-                            "Newton\u0027s First Law",
-                            "Newton\u0027s Second Law",
-                            "Newton\u0027s Third Law",
+                            "Newton's First Law",
+                            "Newton's Second Law",
+                            "Newton's Third Law",
                             "Law of Gravity"
                         ],
                         "answer": 2,
-                        "explanation": "This is Newton\u0027s third law of motion."
+                        "explanation": "This is Newton's third law of motion."
                     },
                     {
                         "q": "What type of lens is used to correct myopia (short-sightedness)?",
@@ -41072,7 +42976,7 @@
                         "explanation": "The current official area including Gilgit-Baltistan and AJK is approximately 881,913 sq km."
                     },
                     {
-                        "q": "Which gas is most abundant in the Earth\u0027s atmosphere?",
+                        "q": "Which gas is most abundant in the Earth's atmosphere?",
                         "options": [
                             "Oxygen",
                             "Carbon dioxide",
@@ -41080,7 +42984,7 @@
                             "Hydrogen"
                         ],
                         "answer": 2,
-                        "explanation": "Nitrogen constitutes about 78% of the Earth\u0027s atmosphere. (Everyday Science)"
+                        "explanation": "Nitrogen constitutes about 78% of the Earth's atmosphere. (Everyday Science)"
                     },
                     {
                         "q": "When did Pakistan conduct its first public nuclear tests?",
@@ -41102,10 +43006,10 @@
                             "Punjab"
                         ],
                         "answer": 3,
-                        "explanation": "Punjab houses over 50% of the country\u0027s entire population."
+                        "explanation": "Punjab houses over 50% of the country's entire population."
                     },
                     {
-                        "q": "What is the synonym of \u0027Abundant\u0027?",
+                        "q": "What is the synonym of 'Abundant'?",
                         "options": [
                             "Scarce",
                             "Plentiful",
@@ -41113,7 +43017,7 @@
                             "Thin"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Abundant\u0027 means existing or available in large quantities; plentiful. (English)"
+                        "explanation": "'Abundant' means existing or available in large quantities; plentiful. (English)"
                     },
                     {
                         "q": "When was the capital of Pakistan shifted from Karachi to Islamabad?",
@@ -41190,10 +43094,10 @@
                             "for"
                         ],
                         "answer": 1,
-                        "explanation": "The correct preposition after \u0027good\u0027 to indicate skill or ability is \u0027at\u0027."
+                        "explanation": "The correct preposition after 'good' to indicate skill or ability is 'at'."
                     },
                     {
-                        "q": "Which city is the industrial hub of Pakistan, often called \u0027Manchester of Pakistan\u0027?",
+                        "q": "Which city is the industrial hub of Pakistan, often called 'Manchester of Pakistan'?",
                         "options": [
                             "Sialkot",
                             "Faisalabad",
@@ -41226,7 +43130,7 @@
                         "explanation": "Urdu is the declared national language (Lingua Franca) of Pakistan."
                     },
                     {
-                        "q": "Which country is constructing the \u0027Neom\u0027 megacity project?",
+                        "q": "Which country is constructing the 'Neom' megacity project?",
                         "options": [
                             "UAE",
                             "Oman",
@@ -41234,7 +43138,7 @@
                             "Qatar"
                         ],
                         "answer": 2,
-                        "explanation": "Neom is part of Saudi Arabia\u0027s Vision 2030."
+                        "explanation": "Neom is part of Saudi Arabia's Vision 2030."
                     },
                     {
                         "q": "The process by which plants make their own food is called?",
@@ -41267,7 +43171,7 @@
                             "KPK"
                         ],
                         "answer": 2,
-                        "explanation": "Balochistan covers nearly 44% of Pakistan\u0027s landmass."
+                        "explanation": "Balochistan covers nearly 44% of Pakistan's landmass."
                     },
                     {
                         "q": "What is the capital of Australia?",
@@ -41300,7 +43204,7 @@
                             "Ahmad Faraz"
                         ],
                         "answer": 1,
-                        "explanation": "Hafeez Jalandhari wrote the lyrics for the \u0027Qaumi Taranah\u0027."
+                        "explanation": "Hafeez Jalandhari wrote the lyrics for the 'Qaumi Taranah'."
                     },
                     {
                         "q": "What is the chemical symbol for Gold?",
@@ -41391,7 +43295,7 @@
                         "explanation": "The 2024 Summer Olympics are scheduled to take place in Paris, France."
                     },
                     {
-                        "q": "What is the synonym for \u0027Meticulous\u0027?",
+                        "q": "What is the synonym for 'Meticulous'?",
                         "options": [
                             "Careless",
                             "Sloppy",
@@ -41435,7 +43339,7 @@
                         "explanation": "Bahadur Shah Zafar II was the twentieth and last Mughal Emperor of India."
                     },
                     {
-                        "q": "Identify the antonym of \u0027Transparent\u0027.",
+                        "q": "Identify the antonym of 'Transparent'.",
                         "options": [
                             "Clear",
                             "Lucid",
@@ -41465,10 +43369,10 @@
                             "South America"
                         ],
                         "answer": 2,
-                        "explanation": "Australia is the smallest of the world\u0027s continents."
+                        "explanation": "Australia is the smallest of the world's continents."
                     },
                     {
-                        "q": "The \u0027Rohtas Fort\u0027 in Pakistan was built by?",
+                        "q": "The 'Rohtas Fort' in Pakistan was built by?",
                         "options": [
                             "Akbar",
                             "Sher Shah Suri",
@@ -41586,7 +43490,7 @@
                             "gone"
                         ],
                         "answer": 1,
-                        "explanation": "Singular third-person present tense requires \u0027s\u0027 or \u0027es\u0027."
+                        "explanation": "Singular third-person present tense requires 's' or 'es'."
                     },
                     {
                         "q": "He is fond ___ sweets.",
@@ -41597,7 +43501,7 @@
                             "with"
                         ],
                         "answer": 2,
-                        "explanation": "The correct preposition is \u0027of\u0027."
+                        "explanation": "The correct preposition is 'of'."
                     },
                     {
                         "q": "Identify the correct spelling.",
@@ -41608,7 +43512,7 @@
                             "Occassion"
                         ],
                         "answer": 0,
-                        "explanation": "\u0027Occasion\u0027 is the correct spelling."
+                        "explanation": "'Occasion' is the correct spelling."
                     },
                     {
                         "q": "The train had left before we ___ the station.",
@@ -41630,7 +43534,7 @@
                             "Pacific"
                         ],
                         "answer": 3,
-                        "explanation": "The Pacific Ocean covers more than 30% of the Earth\u0027s surface."
+                        "explanation": "The Pacific Ocean covers more than 30% of the Earth's surface."
                     },
                     {
                         "q": "Who discovered penicillin?",
@@ -41652,7 +43556,7 @@
                             "Central Processor Unit"
                         ],
                         "answer": 2,
-                        "explanation": "CPU is the primary component of a computer that acts as its \u0027brain\u0027."
+                        "explanation": "CPU is the primary component of a computer that acts as its 'brain'."
                     },
                     {
                         "q": "Which planet is closest to the Sun?",
@@ -41712,13 +43616,13 @@
                     {
                         "q": "Who was the first female Governor of a province in Pakistan?",
                         "options": [
-                            "Begum Ra\u0027ana Liaquat Ali",
+                            "Begum Ra'ana Liaquat Ali",
                             "Benazir Bhutto",
                             "Begum Shaista Ikramullah",
                             "Fatima Jinnah"
                         ],
                         "answer": 0,
-                        "explanation": "Begum Ra\u0027ana Liaquat Ali Khan was the Governor of Sindh from 1973 to 1976."
+                        "explanation": "Begum Ra'ana Liaquat Ali Khan was the Governor of Sindh from 1973 to 1976."
                     },
                     {
                         "q": "What is the square root of 225?",
@@ -41743,7 +43647,7 @@
                         "explanation": "Freon (Chlorofluorocarbons) or modern alternatives are used as refrigerants."
                     },
                     {
-                        "q": "Find the antonym of \u0027Fragile\u0027.",
+                        "q": "Find the antonym of 'Fragile'.",
                         "options": [
                             "Weak",
                             "Delicate",
@@ -41773,7 +43677,7 @@
                             "against"
                         ],
                         "answer": 2,
-                        "explanation": "The correct preposition after \u0027prefer\u0027 when comparing two nouns is \u0027to\u0027."
+                        "explanation": "The correct preposition after 'prefer' when comparing two nouns is 'to'."
                     },
                     {
                         "q": "What is the capital of Turkey?",
@@ -41828,7 +43732,7 @@
                             "1999"
                         ],
                         "answer": 1,
-                        "explanation": "Pakistan won the ICC Cricket World Cup in 1992 under Imran Khan\u0027s captaincy."
+                        "explanation": "Pakistan won the ICC Cricket World Cup in 1992 under Imran Khan's captaincy."
                     }
                 ]
             },
@@ -41845,7 +43749,7 @@
                             "Copilot"
                         ],
                         "answer": 2,
-                        "explanation": "ChatGPT\u0027s release in late 2022 revolutionized public AI usage."
+                        "explanation": "ChatGPT's release in late 2022 revolutionized public AI usage."
                     },
                     {
                         "q": "Which ocean is the deepest in the world?",
@@ -41881,7 +43785,7 @@
                         "explanation": "The pop megastar was recognized for her massive cultural impact."
                     },
                     {
-                        "q": "Choose the correct synonym for \u0027Lucid\u0027.",
+                        "q": "Choose the correct synonym for 'Lucid'.",
                         "options": [
                             "Confusing",
                             "Clear",
@@ -41889,7 +43793,7 @@
                             "Dark"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Lucid\u0027 means expressed clearly; easy to understand."
+                        "explanation": "'Lucid' means expressed clearly; easy to understand."
                     },
                     {
                         "q": "Which protocol or agreement is currently the main global treaty to combat climate change?",
@@ -41903,7 +43807,7 @@
                         "explanation": "The Paris Agreement was adopted in 2015."
                     },
                     {
-                        "q": "Which country has the world\u0027s largest proven oil reserves?",
+                        "q": "Which country has the world's largest proven oil reserves?",
                         "options": [
                             "Saudi Arabia",
                             "Venezuela",
@@ -41922,7 +43826,7 @@
                             "about"
                         ],
                         "answer": 0,
-                        "explanation": "\u0027Look forward to\u0027 is a phrasal verb meaning to await eagerly."
+                        "explanation": "'Look forward to' is a phrasal verb meaning to await eagerly."
                     },
                     {
                         "q": "Which alliance was formed in 2021 by Australia, the UK, and the US?",
@@ -41955,10 +43859,10 @@
                             "World Bank"
                         ],
                         "answer": 1,
-                        "explanation": "The \u0027Fed\u0027 is the central banking system of the US."
+                        "explanation": "The 'Fed' is the central banking system of the US."
                     },
                     {
-                        "q": "What is the antonym of \u0027Diligent\u0027?",
+                        "q": "What is the antonym of 'Diligent'?",
                         "options": [
                             "Hardworking",
                             "Lazy",
@@ -41966,7 +43870,7 @@
                             "Attentive"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Diligent\u0027 means showing steady and earnest care and effort; the opposite is lazy."
+                        "explanation": "'Diligent' means showing steady and earnest care and effort; the opposite is lazy."
                     },
                     {
                         "q": "Who discovered the law of planetary motion?",
@@ -41988,10 +43892,10 @@
                             "Japan"
                         ],
                         "answer": 2,
-                        "explanation": "China\u0027s massive manufacturing sector leads global exports."
+                        "explanation": "China's massive manufacturing sector leads global exports."
                     },
                     {
-                        "q": "What does the \u0027O\u0027 in OPEC stand for?",
+                        "q": "What does the 'O' in OPEC stand for?",
                         "options": [
                             "Oil",
                             "Organization",
@@ -42010,7 +43914,7 @@
                             "until"
                         ],
                         "answer": 2,
-                        "explanation": "\u0027Since\u0027 is used to refer to a specific point in time in the past when the action began."
+                        "explanation": "'Since' is used to refer to a specific point in time in the past when the action began."
                     },
                     {
                         "q": "The energy possessed by a body due to its position is called?",
@@ -42068,7 +43972,7 @@
                         "explanation": "An OS manages computer hardware and provides common services for computer programs."
                     },
                     {
-                        "q": "What is the synonym for \u0027Eminent\u0027?",
+                        "q": "What is the synonym for 'Eminent'?",
                         "options": [
                             "Unknown",
                             "Famous",
@@ -42079,7 +43983,7 @@
                         "explanation": "Eminent means famous and respected within a particular sphere or profession."
                     },
                     {
-                        "q": "The \u0027Durand Line\u0027 is the border between Pakistan and?",
+                        "q": "The 'Durand Line' is the border between Pakistan and?",
                         "options": [
                             "India",
                             "Iran",
@@ -42112,7 +44016,7 @@
                         "explanation": "Lord Mountbatten was the last Viceroy of India."
                     },
                     {
-                        "q": "What is the antonym of \u0027Abstain\u0027?",
+                        "q": "What is the antonym of 'Abstain'?",
                         "options": [
                             "Refrain",
                             "Indulge",
@@ -42123,7 +44027,7 @@
                         "explanation": "Abstain means restrain oneself from doing or enjoying something; indulge is the opposite."
                     },
                     {
-                        "q": "Which country is known as the \u0027Land of the Rising Sun\u0027?",
+                        "q": "Which country is known as the 'Land of the Rising Sun'?",
                         "options": [
                             "China",
                             "South Korea",
@@ -42131,7 +44035,7 @@
                             "Thailand"
                         ],
                         "answer": 2,
-                        "explanation": "Japan is often called the \u0027Land of the Rising Sun\u0027 due to its position east of the Asian continent."
+                        "explanation": "Japan is often called the 'Land of the Rising Sun' due to its position east of the Asian continent."
                     },
                     {
                         "q": "In Microsoft Excel, what does a formula always begin with?",
@@ -42222,7 +44126,7 @@
                         "explanation": "The Pound Sterling (آ£) is the official currency."
                     },
                     {
-                        "q": "Which component is considered the \u0027brain\u0027 of the computer?",
+                        "q": "Which component is considered the 'brain' of the computer?",
                         "options": [
                             "RAM",
                             "Hard Drive",
@@ -42351,7 +44255,7 @@
                             "1/4"
                         ],
                         "answer": 2,
-                        "explanation": "There is one \u00273\u0027 out of 6 possible outcomes."
+                        "explanation": "There is one '3' out of 6 possible outcomes."
                     },
                     {
                         "q": "3/4 expressed as a percentage is?",
@@ -42373,10 +44277,10 @@
                             "He go."
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Is\u0027 is the correct auxiliary verb for third-person singular present continuous."
+                        "explanation": "'Is' is the correct auxiliary verb for third-person singular present continuous."
                     },
                     {
-                        "q": "Choose the synonym for \u0027Abundant\u0027.",
+                        "q": "Choose the synonym for 'Abundant'.",
                         "options": [
                             "Scarce",
                             "Plentiful",
@@ -42384,7 +44288,7 @@
                             "Thin"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Plentiful\u0027 is the synonym for abundant."
+                        "explanation": "'Plentiful' is the synonym for abundant."
                     },
                     {
                         "q": "He jumped ___ the river.",
@@ -42395,10 +44299,10 @@
                             "at"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Into\u0027 signifies movement toward the inside of something."
+                        "explanation": "'Into' signifies movement toward the inside of something."
                     },
                     {
-                        "q": "The antonym of \u0027Expand\u0027 is?",
+                        "q": "The antonym of 'Expand' is?",
                         "options": [
                             "Increase",
                             "Grow",
@@ -42406,10 +44310,10 @@
                             "Swaken"
                         ],
                         "answer": 2,
-                        "explanation": "\u0027Contract\u0027 means to decrease in size, number, or range."
+                        "explanation": "'Contract' means to decrease in size, number, or range."
                     },
                     {
-                        "q": "What is the plural of \u0027Child\u0027?",
+                        "q": "What is the plural of 'Child'?",
                         "options": [
                             "Childs",
                             "Children",
@@ -42439,7 +44343,7 @@
                             "Acomodate"
                         ],
                         "answer": 2,
-                        "explanation": "\u0027Accommodate\u0027 has two c\u0027s and two m\u0027s."
+                        "explanation": "'Accommodate' has two c's and two m's."
                     },
                     {
                         "q": "What is the capital of Japan?",
@@ -42475,7 +44379,7 @@
                         "explanation": "France uses the Euro as its currency."
                     },
                     {
-                        "q": "Who is the author of \u0027Romeo and Juliet\u0027?",
+                        "q": "Who is the author of 'Romeo and Juliet'?",
                         "options": [
                             "Charles Dickens",
                             "William Shakespeare",
@@ -42530,7 +44434,7 @@
                         "explanation": "Alexander Graham Bell is credited with patenting the first practical telephone."
                     },
                     {
-                        "q": "Which continent is known as the \u0027Dark Continent\u0027?",
+                        "q": "Which continent is known as the 'Dark Continent'?",
                         "options": [
                             "Asia",
                             "Africa",
@@ -42563,7 +44467,7 @@
                         "explanation": "The primary colors of light are red, green, and blue (RGB)."
                     },
                     {
-                        "q": "Who is the \u0027Father of Modern Computer\u0027?",
+                        "q": "Who is the 'Father of Modern Computer'?",
                         "options": [
                             "Charles Babbage",
                             "Alan Turing",
@@ -42596,7 +44500,7 @@
                         "explanation": "Kidneys filter blood to produce urine, removing waste."
                     },
                     {
-                        "q": "What does the abbreviation \u0027WWW\u0027 stand for?",
+                        "q": "What does the abbreviation 'WWW' stand for?",
                         "options": [
                             "World Wide Web",
                             "World Web Wide",
@@ -42607,7 +44511,7 @@
                         "explanation": "WWW stands for World Wide Web."
                     },
                     {
-                        "q": "Choose the synonym for \u0027Obstinate\u0027.",
+                        "q": "Choose the synonym for 'Obstinate'.",
                         "options": [
                             "Flexible",
                             "Stubborn",
@@ -42615,7 +44519,7 @@
                             "Weak"
                         ],
                         "answer": 1,
-                        "explanation": "Obstinate means stubbornly refusing to change one\u0027s opinion."
+                        "explanation": "Obstinate means stubbornly refusing to change one's opinion."
                     },
                     {
                         "q": "What is the unit of power?",
@@ -42648,10 +44552,10 @@
                             "on"
                         ],
                         "answer": 1,
-                        "explanation": "The correct preposition is \u0027at\u0027 (good at something)."
+                        "explanation": "The correct preposition is 'at' (good at something)."
                     },
                     {
-                        "q": "Which planet is known as the \u0027Morning Star\u0027 or \u0027Evening Star\u0027?",
+                        "q": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
                         "options": [
                             "Mars",
                             "Jupiter",
@@ -42695,7 +44599,7 @@
                         "explanation": "Russia is the largest country in the world by surface area."
                     },
                     {
-                        "q": "What is the antonym of \u0027Barren\u0027?",
+                        "q": "What is the antonym of 'Barren'?",
                         "options": [
                             "Empty",
                             "Fertile",
@@ -42703,7 +44607,7 @@
                             "Desolate"
                         ],
                         "answer": 1,
-                        "explanation": "\u0027Barren\u0027 means too poor to produce much vegetation; \u0027fertile\u0027 is the opposite."
+                        "explanation": "'Barren' means too poor to produce much vegetation; 'fertile' is the opposite."
                     },
                     {
                         "q": "What is the powerhouse of the cell?",
@@ -42714,10 +44618,10 @@
                             "Golgi Body"
                         ],
                         "answer": 2,
-                        "explanation": "Mitochondria generate most of the chemical energy needed to power the cell\u0027s biochemical reactions."
+                        "explanation": "Mitochondria generate most of the chemical energy needed to power the cell's biochemical reactions."
                     },
                     {
-                        "q": "Who is the author of \u0027War and Peace\u0027?",
+                        "q": "Who is the author of 'War and Peace'?",
                         "options": [
                             "Charles Dickens",
                             "Leo Tolstoy",
@@ -42736,7 +44640,7 @@
                             "Argon"
                         ],
                         "answer": 1,
-                        "explanation": "Carbon dioxide acts as a greenhouse gas, trapping heat in the Earth\u0027s atmosphere."
+                        "explanation": "Carbon dioxide acts as a greenhouse gas, trapping heat in the Earth's atmosphere."
                     },
                     {
                         "q": "What is the capital of Egypt?",

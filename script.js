@@ -57,11 +57,146 @@ document.addEventListener('DOMContentLoaded', () => {
     const timePerQuestion = 60;
     let timeLeft = timePerQuestion;
 
+    // --- Dynamic SEO & URL Handling ---
+    function updateMetaTags(title, parentCategory, isQuizView) {
+        const baseTitle = "MCQs Master | Competitive Exam Preparation";
+        const newTitle = `${title} MCQs | ${baseTitle}`;
+        const newDesc = `Prepare for ${title} under ${parentCategory}. Master top-quality MCQs online for free on MCQs Master.`;
+        const newUrl = window.location.origin + window.location.pathname + "#" + encodeURIComponent(title.replace(/\s+/g, '-').toLowerCase());
+
+        // Update Document Title
+        document.title = isQuizView ? newTitle : baseTitle;
+
+        // Update Standard Meta
+        const metaTitle = document.getElementById('seo-meta-title');
+        const metaDesc = document.getElementById('seo-description');
+        if (metaTitle) metaTitle.content = newTitle;
+        if (metaDesc) metaDesc.content = newDesc;
+
+        // Update Open Graph (OG)
+        const ogTitle = document.getElementById('og-title');
+        const ogDesc = document.getElementById('og-description');
+        const ogUrl = document.getElementById('og-url');
+        if (ogTitle) ogTitle.content = newTitle;
+        if (ogDesc) ogDesc.content = newDesc;
+        if (ogUrl) ogUrl.content = newUrl;
+
+        // Update Twitter Cards
+        const twTitle = document.getElementById('twitter-title');
+        const twDesc = document.getElementById('twitter-description');
+        const twUrl = document.getElementById('twitter-url');
+        if (twTitle) twTitle.content = newTitle;
+        if (twDesc) twDesc.content = newDesc;
+        if (twUrl) twUrl.content = newUrl;
+
+        // Update URL Hash without triggering scroll
+        if (isQuizView && history.replaceState) {
+            history.replaceState(null, null, "#" + encodeURIComponent(title.replace(/\s+/g, '-').toLowerCase()));
+        } else if (!isQuizView && history.replaceState) {
+            history.replaceState(null, null, window.location.pathname);
+        }
+    }
+
+    function checkHashForDeepLink() {
+        if (!window.location.hash || window.location.hash.length <= 1) return;
+
+        const hashTarget = decodeURIComponent(window.location.hash.substring(1)).replace(/-/g, ' ').toLowerCase();
+
+        // Try to find matching subcategory and auto-open it
+        let found = false;
+        mainQuizData.forEach(mainCat => {
+            mainCat.subcategories.forEach(subCat => {
+                if (subCat.category.toLowerCase() === hashTarget) {
+                    selectedMainCategory = mainCat.category;
+                    startSubcategory(subCat);
+                    found = true;
+                }
+            });
+        });
+
+        if (found) {
+            console.log(`Deep linked to: ${hashTarget}`);
+        }
+    }
+
+    // Call deep link check on load
+    window.addEventListener('load', checkHashForDeepLink);
+
     let isExamMode = false;
     let examTimeLeft = 0;
+
+    // --- Dynamic SEO & URL Handling ---
+    function updateMetaTags(title, parentCategory, isQuizView) {
+        const baseTitle = "MCQs Master | Competitive Exam Preparation";
+        const newTitle = `${title} MCQs | ${baseTitle}`;
+        const newDesc = `Prepare for ${title} under ${parentCategory}. Master top-quality MCQs online for free on MCQs Master.`;
+        const newUrl = window.location.origin + window.location.pathname + "#" + encodeURIComponent(title.replace(/\s+/g, '-').toLowerCase());
+
+        // Update Document Title
+        document.title = isQuizView ? newTitle : baseTitle;
+
+        // Update Standard Meta
+        const metaTitle = document.getElementById('seo-meta-title');
+        const metaDesc = document.getElementById('seo-description');
+        if (metaTitle) metaTitle.content = newTitle;
+        if (metaDesc) metaDesc.content = newDesc;
+
+        // Update Open Graph (OG)
+        const ogTitle = document.getElementById('og-title');
+        const ogDesc = document.getElementById('og-description');
+        const ogUrl = document.getElementById('og-url');
+        if (ogTitle) ogTitle.content = newTitle;
+        if (ogDesc) ogDesc.content = newDesc;
+        if (ogUrl) ogUrl.content = newUrl;
+
+        // Update Twitter Cards
+        const twTitle = document.getElementById('twitter-title');
+        const twDesc = document.getElementById('twitter-description');
+        const twUrl = document.getElementById('twitter-url');
+        if (twTitle) twTitle.content = newTitle;
+        if (twDesc) twDesc.content = newDesc;
+        if (twUrl) twUrl.content = newUrl;
+
+        // Update URL Hash without triggering scroll
+        if (isQuizView && history.replaceState) {
+            history.replaceState(null, null, "#" + encodeURIComponent(title.replace(/\s+/g, '-').toLowerCase()));
+        } else if (!isQuizView && history.replaceState) {
+            history.replaceState(null, null, window.location.pathname);
+        }
+    }
+
+    function checkHashForDeepLink() {
+        if (!window.location.hash || window.location.hash.length <= 1) return;
+
+        const hashTarget = decodeURIComponent(window.location.hash.substring(1)).replace(/-/g, ' ').toLowerCase();
+
+        // Try to find matching subcategory and auto-open it
+        let found = false;
+        mainQuizData.forEach(mainCat => {
+            mainCat.subcategories.forEach(subCat => {
+                if (subCat.category.toLowerCase() === hashTarget) {
+                    selectedMainCategory = mainCat.category;
+                    startQuiz(subCat.category);
+                    found = true;
+                }
+            });
+        });
+
+        if (found) {
+            console.log(`Deep linked to: ${hashTarget}`);
+        }
+    }
+
+    // Call deep link check on load
+    window.addEventListener('load', checkHashForDeepLink);
     let examTimerInterval = null;
     let totalExamQuestions = 0;
     let examSelectedSubjects = [];
+
+    // Analytics state
+    let quizStartTime = 0;
+    let weakTopicsSession = {}; // Tracks mistakes by specific subject/category in this session
+    let chartInstance = null;
 
     // Audio Elements
     const soundCorrect = document.getElementById('sound-correct');
@@ -139,6 +274,9 @@ document.addEventListener('DOMContentLoaded', () => {
         const printBtn = document.getElementById('print-btn');
         if (printBtn) printBtn.addEventListener('click', () => window.print());
 
+        const shareBtn = document.getElementById('share-score-btn');
+        if (shareBtn) shareBtn.addEventListener('click', shareScore);
+
         if (bookmarkBtn) bookmarkBtn.addEventListener('click', toggleBookmark);
 
         const navHome = document.getElementById('nav-home');
@@ -147,6 +285,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const navBookmarks = document.getElementById('nav-bookmarks');
 
         const navMistakes = document.getElementById('nav-mistakes');
+        const navLeaderboard = document.getElementById('nav-leaderboard');
 
         if (navHome) navHome.addEventListener('click', (e) => { e.preventDefault(); showMainCategories(); });
         if (navDaily) navDaily.addEventListener('click', (e) => { e.preventDefault(); startDailyMCQs(); });
@@ -154,6 +293,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (navExam) navExam.addEventListener('click', (e) => { e.preventDefault(); openExamModal(); });
         if (navBookmarks) navBookmarks.addEventListener('click', (e) => { e.preventDefault(); startBookmarksQuiz(); });
         if (navMistakes) navMistakes.addEventListener('click', (e) => { e.preventDefault(); startMistakesQuiz(); });
+        if (navLeaderboard) navLeaderboard.addEventListener('click', (e) => { e.preventDefault(); openLeaderboard(); });
 
         if (closeExamModalBtn) closeExamModalBtn.addEventListener('click', closeExamModal);
         if (startExamBtn) startExamBtn.addEventListener('click', startTimedExam);
@@ -167,9 +307,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Close modal on outside click
         window.addEventListener('click', (e) => {
+            const leaderboardModal = document.getElementById('leaderboard-modal');
             if (e.target === dashboardModal) closeDashboard();
             if (e.target === examModal) closeExamModal();
+            if (e.target === leaderboardModal) closeLeaderboard();
         });
+
+        const closeLeaderboardBtn = document.getElementById('close-leaderboard');
+        if (closeLeaderboardBtn) closeLeaderboardBtn.addEventListener('click', closeLeaderboard);
 
         // Handle native back button navigation
         window.addEventListener('popstate', (e) => {
@@ -439,8 +584,28 @@ document.addEventListener('DOMContentLoaded', () => {
     let bookmarks = JSON.parse(localStorage.getItem('bookmarks')) || [];
     let mistakesBank = JSON.parse(localStorage.getItem('mistakesBank')) || [];
 
+    // --- Firebase Sync Integration ---
+    window.addEventListener('cloudDataLoaded', (e) => {
+        const data = e.detail;
+        if (data.userStats) userStats = data.userStats;
+        if (data.bookmarks) bookmarks = data.bookmarks;
+        if (data.mistakesBank) mistakesBank = data.mistakesBank;
+
+        // Persist cloud data to local storage
+        localStorage.setItem('userStats', JSON.stringify(userStats));
+        localStorage.setItem('bookmarks', JSON.stringify(bookmarks));
+        localStorage.setItem('mistakesBank', JSON.stringify(mistakesBank));
+
+        // Refresh UI if open
+        if (!dashboardModal.classList.contains('hidden')) {
+            renderDashboard();
+        }
+        console.log('Firebase Cloud data successfully synced and merged into local state.');
+    });
+
     function saveStats() {
         localStorage.setItem('userStats', JSON.stringify(userStats));
+        window.dispatchEvent(new CustomEvent('saveToCloud', { detail: { type: 'stats', data: userStats } }));
     }
 
     function updateStats(subjectName, questionsCount, correctCount) {
@@ -496,6 +661,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         localStorage.setItem('bookmarks', JSON.stringify(bookmarks));
+        window.dispatchEvent(new CustomEvent('saveToCloud', { detail: { type: 'bookmarks', data: bookmarks } }));
         // Update home screen visibility if needed
     }
 
@@ -529,6 +695,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function saveMistakes() {
         localStorage.setItem('mistakesBank', JSON.stringify(mistakesBank));
+        window.dispatchEvent(new CustomEvent('saveToCloud', { detail: { type: 'mistakes', data: mistakesBank } }));
     }
 
     function startMistakesQuiz() {
@@ -556,6 +723,88 @@ document.addEventListener('DOMContentLoaded', () => {
     function closeDashboard() {
         dashboardModal.classList.add('hidden');
     }
+
+    // --- Share Logic ---
+    async function shareScore() {
+        if (!navigator.share) {
+            alert("Sharing is not supported on this browser/device. You can take a screenshot!");
+            return;
+        }
+
+        const catName = currentSubcategoryData ? currentSubcategoryData.category : "a Quiz";
+        const shareScoreVal = document.getElementById('final-score').innerText;
+        const totalQ = document.getElementById('total-questions').innerText;
+
+        const shareData = {
+            title: 'MCQs Master Score!',
+            text: `I just scored ${shareScoreVal}/${totalQ} inside the '${catName}' quiz on MCQs Master! Can you beat my score? 🏆`,
+            url: window.location.href
+        };
+
+        try {
+            await navigator.share(shareData);
+            console.log('Successfully shared');
+        } catch (err) {
+            console.error('Error sharing:', err);
+        }
+    }
+
+    // --- Leaderboard Logic ---
+    function openLeaderboard() {
+        const modal = document.getElementById('leaderboard-modal');
+        if (!modal) return;
+        modal.classList.remove('hidden');
+        fetchLeaderboardData();
+    }
+
+    function closeLeaderboard() {
+        const modal = document.getElementById('leaderboard-modal');
+        if (modal) modal.classList.add('hidden');
+    }
+
+    function fetchLeaderboardData() {
+        const tbody = document.getElementById('leaderboard-tbody');
+        tbody.innerHTML = '<tr><td colspan="5" style="text-align:center;">Loading...<i class="fa-solid fa-spinner fa-spin"></i></td></tr>';
+
+        // Dispatch custom event to let Firebase handle fetching
+        window.dispatchEvent(new CustomEvent('requestLeaderboard'));
+    }
+
+    window.addEventListener('leaderboardDataLoaded', (e) => {
+        const data = e.detail;
+        const tbody = document.getElementById('leaderboard-tbody');
+        tbody.innerHTML = '';
+
+        if (!data || data.length === 0) {
+            tbody.innerHTML = '<tr><td colspan="5" style="text-align:center;">No data available yet. Be the first to take a quiz!</td></tr>';
+            return;
+        }
+
+        data.forEach((user, index) => {
+            const rank = index + 1;
+            let rankClass = '';
+            let rankIcon = rank;
+            if (rank === 1) { rankClass = 'rank-1'; rankIcon = '<i class="fa-solid fa-trophy"></i>'; }
+            else if (rank === 2) { rankClass = 'rank-2'; rankIcon = '<i class="fa-solid fa-medal"></i>'; }
+            else if (rank === 3) { rankClass = 'rank-3'; rankIcon = '<i class="fa-solid fa-medal"></i>'; }
+
+            const totalQ = user.userStats?.totalQuestions || 0;
+            const totalC = user.userStats?.totalCorrect || 0;
+            const avgScore = totalQ > 0 ? Math.round((totalC / totalQ) * 100) : 0;
+            const quizzes = user.userStats?.totalQuizzes || 0;
+            const name = user.displayName || "Anonymous Scholar";
+
+            const tr = document.createElement('tr');
+            tr.innerHTML = `
+                <td class="${rankClass}">${rankIcon}</td>
+                <td style="font-weight: 500;">${name}</td>
+                <td>${quizzes}</td>
+                <td>${totalC}</td>
+                <td><span style="background: rgba(16, 185, 129, 0.1); color: var(--success); padding: 0.2rem 0.6rem; border-radius: 20px; font-weight: bold;">${avgScore}%</span></td>
+            `;
+            tbody.appendChild(tr);
+        });
+    });
 
     function resetStats() {
         if (confirm("Are you sure you want to reset all your progress? This cannot be undone.")) {
@@ -716,6 +965,7 @@ document.addEventListener('DOMContentLoaded', () => {
         currentMainCategory = null;
         currentSubcategoryData = null;
         if (sectionTitle) sectionTitle.textContent = "Select Main Subject";
+        updateMetaTags("Home", "All Topics", false);
 
         renderCategories();
         switchScreen('categories', isPopState);
@@ -744,6 +994,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const sectionTitleElement = document.querySelector('#category-screen h2');
         if (sectionTitleElement) sectionTitleElement.textContent = mainCat.name;
 
+        updateMetaTags(mainCat.name, "Various Subjects", false);
         switchScreen('categories', isPopState, { mainCategory: mainCat });
     }
 
@@ -753,11 +1004,16 @@ document.addEventListener('DOMContentLoaded', () => {
         // Deep copy and shuffle questions for this subcategory
         allCategoryQuestions = shuffleArray(JSON.parse(JSON.stringify(subData.questions)));
 
+        // Inject original category into each question for analytics
+        allCategoryQuestions.forEach(q => q.originalCategory = subData.category);
+
         // Calculate total sets (10 questions per set)
         const setSize = 10;
         totalSets = Math.ceil(allCategoryQuestions.length / setSize);
 
         setCategoryTitle.textContent = subData.category;
+        updateMetaTags(subData.category, currentMainCategory?.name || "Topic", true);
+
         renderSets();
         switchScreen('set', isPopState, { subcategoryData: subData });
     }
@@ -965,6 +1221,10 @@ document.addEventListener('DOMContentLoaded', () => {
         // Pick top 100 or max available
         const testSize = Math.min(100, allQs.length);
         currentSetQuestions = allQs.slice(0, testSize);
+        // Ensure source category is tracked
+        currentSetQuestions.forEach(q => {
+            if (!q.originalCategory) q.originalCategory = "Mock Test";
+        });
         currentQuestionIndex = 0;
         score = 0;
 
@@ -999,6 +1259,11 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function renderQuestion() {
+        if (currentQuestionIndex === 0) {
+            quizStartTime = Date.now();
+            weakTopicsSession = {}; // Reset session mistakes for analytics
+        }
+
         stopSpeech(); // Stop audio when moving to new question
         hasAnswered = false;
         selectedOptionIndex = null;
@@ -1163,6 +1428,11 @@ document.addEventListener('DOMContentLoaded', () => {
             feedbackContainer.style.borderLeftColor = 'var(--danger)';
             feedbackIconHTML = '<i class="fa-solid fa-circle-xmark" style="color: var(--danger);"></i> Incorrect or Time Out. Explanation:';
             addToMistakesBank(question);
+
+            // Track weak topics
+            const t = question.originalCategory || currentSubcategoryData?.category || "Unknown Topic";
+            if (!weakTopicsSession[t]) weakTopicsSession[t] = 0;
+            weakTopicsSession[t]++;
         }
 
         // Show Explanation
@@ -1237,6 +1507,9 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         }
 
+        // Show Analytics Report Card
+        renderReportCard(total, score);
+
         // Confetti Celebration
         if (percent >= 80 && typeof confetti === 'function') {
             confetti({
@@ -1263,6 +1536,105 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         switchScreen('result');
+    }
+
+    function renderReportCard(totalQuestions, correctAnswers) {
+        const reportCard = document.getElementById('quiz-report-card');
+        if (!reportCard) return;
+
+        // Populate basic stats
+        const timeTakenMs = Date.now() - quizStartTime;
+        const totalSecs = Math.floor(timeTakenMs / 1000);
+        const mins = Math.floor(totalSecs / 60);
+        const secs = totalSecs % 60;
+        document.getElementById('report-time').textContent = `${mins}m ${secs}s`;
+
+        const accuracy = Math.round((correctAnswers / totalQuestions) * 100);
+        document.getElementById('report-accuracy').textContent = `${accuracy}%`;
+
+        // Populate Weak Topics
+        const weakList = document.getElementById('weak-topics-list');
+        weakList.innerHTML = '';
+        const weakKeys = Object.keys(weakTopicsSession);
+
+        if (weakKeys.length > 0) {
+            weakKeys.sort((a, b) => weakTopicsSession[b] - weakTopicsSession[a]).forEach(topic => {
+                const li = document.createElement('li');
+                li.innerHTML = `<i class="fa-solid fa-xmark"></i> ${topic} (${weakTopicsSession[topic]} mistakes)`;
+                weakList.appendChild(li);
+            });
+        } else {
+            const li = document.createElement('li');
+            li.style.background = 'rgba(16, 185, 129, 0.1)';
+            li.style.color = 'var(--success)';
+            li.innerHTML = `<i class="fa-solid fa-check-double"></i> Perfect! No weak areas identified in this session.`;
+            weakList.appendChild(li);
+        }
+
+        // Render Chart using userStats history
+        renderImprovementChart();
+
+        reportCard.classList.remove('hidden');
+    }
+
+    function renderImprovementChart() {
+        const ctx = document.getElementById('improvement-chart');
+        if (!ctx) return;
+
+        if (chartInstance) {
+            chartInstance.destroy();
+        }
+
+        const history = userStats.scoreHistory || [];
+        const labels = history.map((_, i) => `Q ${i + 1}`);
+        const data = history;
+
+        // If history is empty, show just the current
+        if (data.length === 0) {
+            const currentAcc = Math.round((score / currentSetQuestions.length) * 100);
+            labels.push('Now');
+            data.push(currentAcc);
+        }
+
+        const isDark = document.body.getAttribute('data-theme') === 'dark';
+        const gridColor = isDark ? '#374151' : '#E5E7EB';
+        const textColor = isDark ? '#9CA3AF' : '#6B7280';
+
+        chartInstance = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: labels,
+                datasets: [{
+                    label: 'Score %',
+                    data: data,
+                    borderColor: '#10B981',
+                    backgroundColor: 'rgba(16, 185, 129, 0.2)',
+                    borderWidth: 2,
+                    fill: true,
+                    tension: 0.3,
+                    pointBackgroundColor: '#10B981'
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { display: false }
+                },
+                scales: {
+                    y: {
+                        beginAtZero: true,
+                        max: 100,
+                        grid: { color: gridColor },
+                        ticks: { color: textColor }
+                    },
+                    x: {
+                        grid: { color: gridColor },
+                        ticks: { color: textColor }
+                    }
+                }
+            }
+        });
     }
 
     // Start App
