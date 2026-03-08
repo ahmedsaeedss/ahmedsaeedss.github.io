@@ -39988,8 +39988,8 @@ const mainQuizData =
         "icon": "fa-flask",
         "subcategories": [
             {
-                "category": "Biological Sciences",
-                "icon": "fa-dna",
+                "category": "Human Anatomy & Physiology (انسانی جسم کے افعال)",
+                "icon": "fa-lungs",
                 "questions": [
                     {
                         "q": "Which part of the cell is known as the powerhouse?",
@@ -40001,17 +40001,6 @@ const mainQuizData =
                         ],
                         "answer": 2,
                         "explanation": "Mitochondria generate most of the chemical energy needed to power the cell."
-                    },
-                    {
-                        "q": "The process by which plants make their own food is called?",
-                        "options": [
-                            "Respiration",
-                            "Photosynthesis",
-                            "Digestion",
-                            "Transpiration"
-                        ],
-                        "answer": 1,
-                        "explanation": "Photosynthesis is the process used by plants to convert light energy into chemical energy."
                     },
                     {
                         "q": "What is the main function of red blood cells?",
@@ -40091,17 +40080,6 @@ const mainQuizData =
                         "explanation": "The nephron is the microscopic structural and functional unit of the kidney."
                     },
                     {
-                        "q": "Which gas is most abundant in the Earth's atmosphere?",
-                        "options": [
-                            "Oxygen",
-                            "Carbon dioxide",
-                            "Nitrogen",
-                            "Hydrogen"
-                        ],
-                        "answer": 2,
-                        "explanation": "Nitrogen constitutes about 78% of the Earth's atmosphere."
-                    },
-                    {
                         "q": "What is the powerhouse of the cell?",
                         "options": [
                             "Nucleus",
@@ -40144,17 +40122,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "The cell is the smallest unit that can live on its own and that makes up all living organisms."
-                    },
-                    {
-                        "q": "Who is known as the Father of Genetics?",
-                        "options": [
-                            "Charles Darwin",
-                            "Louis Pasteur",
-                            "Gregor Mendel",
-                            "James Watson"
-                        ],
-                        "answer": 2,
-                        "explanation": "Gregor Mendel discovered the fundamental laws of inheritance through his work on pea plants."
                     },
                     {
                         "q": "Which protein in red blood cells carries oxygen?",
@@ -40223,17 +40190,6 @@ const mainQuizData =
                         "explanation": "The nephron is responsible for filtering blood and producing urine."
                     },
                     {
-                        "q": "Which Vitamin deficiency causes Scurvy?",
-                        "options": [
-                            "Vitamin A",
-                            "Vitamin B",
-                            "Vitamin C",
-                            "Vitamin D"
-                        ],
-                        "answer": 2,
-                        "explanation": "Scurvy is caused by a severe lack of Vitamin C (ascorbic acid)."
-                    },
-                    {
                         "q": "What is the most abundant protein in the human body?",
                         "options": [
                             "Hemoglobin",
@@ -40254,17 +40210,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "White blood cells (leukocytes) are part of the immune system."
-                    },
-                    {
-                        "q": "Who discovered Penicillin?",
-                        "options": [
-                            "Alexander Fleming",
-                            "Louis Pasteur",
-                            "Edward Jenner",
-                            "Robert Koch"
-                        ],
-                        "answer": 0,
-                        "explanation": "Fleming discovered the first antibiotic, penicillin, in 1928."
                     },
                     {
                         "q": "What is the life span of a Red Blood Cell?",
@@ -40410,28 +40355,6 @@ const mainQuizData =
                         "explanation": "Most adult brains weigh between 1.3 and 1.5 kilograms."
                     },
                     {
-                        "q": "Which Vitamin is known as 'Calciferol'?",
-                        "options": [
-                            "Vitamin A",
-                            "Vitamin C",
-                            "Vitamin D",
-                            "Vitamin E"
-                        ],
-                        "answer": 2,
-                        "explanation": "Vitamin D refers to a group of fat-soluble secosteroids, mainly Vitamin D3 (cholecalciferol)."
-                    },
-                    {
-                        "q": "The plants which grow in dry habitats are called?",
-                        "options": [
-                            "Hydrophytes",
-                            "Xerophytes",
-                            "Mesophytes",
-                            "Heliophytes"
-                        ],
-                        "answer": 1,
-                        "explanation": "Xerophytes (like cactus) are adapted to survive in environments with little liquid water."
-                    },
-                    {
                         "q": "What is the largest part of the human brain?",
                         "options": [
                             "Cerebellum",
@@ -40487,17 +40410,6 @@ const mainQuizData =
                         "explanation": "Humans and bears are examples of omnivores."
                     },
                     {
-                        "q": "Which part of the plant absorbs water and minerals?",
-                        "options": [
-                            "Leaves",
-                            "Stem",
-                            "Roots",
-                            "Flowers"
-                        ],
-                        "answer": 2,
-                        "explanation": "Roots anchor the plant and draw nutrients from the soil."
-                    },
-                    {
                         "q": "How many bones are in an adult human body?",
                         "options": [
                             "206",
@@ -40507,17 +40419,6 @@ const mainQuizData =
                         ],
                         "answer": 0,
                         "explanation": "Adults have 206 bones; infants have around 270-300."
-                    },
-                    {
-                        "q": "What is the smallest unit of heredity?",
-                        "options": [
-                            "Cell",
-                            "Gene",
-                            "Chromosome",
-                            "Nucleus"
-                        ],
-                        "answer": 1,
-                        "explanation": "Genes are segments of DNA that contain instructions."
                     },
                     {
                         "q": "Which organ stores bile?",
@@ -40606,17 +40507,6 @@ const mainQuizData =
                         ],
                         "answer": 0,
                         "explanation": "Mitosis results in two identical daughter cells."
-                    },
-                    {
-                        "q": "Which Vitamin prevents Night Blindness?",
-                        "options": [
-                            "Vitamin A",
-                            "Vitamin B",
-                            "Vitamin C",
-                            "Vitamin D"
-                        ],
-                        "answer": 0,
-                        "explanation": "Vitamin A is essential for the retina's health."
                     },
                     {
                         "q": "What is the study of plants called?",
@@ -40751,17 +40641,6 @@ const mainQuizData =
                         "explanation": "Lungs exchange oxygen and carbon dioxide."
                     },
                     {
-                        "q": "What is the name of the liquid that flows through plants?",
-                        "options": [
-                            "Blood",
-                            "Sap",
-                            "Water",
-                            "Milk"
-                        ],
-                        "answer": 1,
-                        "explanation": "Sap transports sugar and minerals."
-                    },
-                    {
                         "q": "Which part of the cell contains the genetic material?",
                         "options": [
                             "Mitochondria",
@@ -40828,17 +40707,6 @@ const mainQuizData =
                         "explanation": "Kidneys produce urine as a waste product."
                     },
                     {
-                        "q": "Which vitamin is found in abundance in carrots?",
-                        "options": [
-                            "Vitamin A",
-                            "Vitamin C",
-                            "Vitamin D",
-                            "Vitamin E"
-                        ],
-                        "answer": 0,
-                        "explanation": "Carrots are rich in beta-carotene, which becomes Vitamin A."
-                    },
-                    {
                         "q": "What is the largest land animal currently alive?",
                         "options": [
                             "Blue Whale",
@@ -40859,17 +40727,6 @@ const mainQuizData =
                         ],
                         "answer": 2,
                         "explanation": "The cortex is the outer layer of the cerebrum."
-                    },
-                    {
-                        "q": "What is the process of seeds growing into plants called?",
-                        "options": [
-                            "Pollination",
-                            "Germination",
-                            "Fertilization",
-                            "Dispersion"
-                        ],
-                        "answer": 1,
-                        "explanation": "Germination is the start of growth."
                     },
                     {
                         "q": "Which type of blood vessel is the thinnest?",
@@ -40969,23 +40826,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "Melatonin is produced by the pineal gland."
-                    }
-                ]
-            },
-            {
-                "category": "Physical Sciences",
-                "icon": "fa-atom",
-                "questions": [
-                    {
-                        "q": "What is the SI unit of Force?",
-                        "options": [
-                            "Joule",
-                            "Watt",
-                            "Newton",
-                            "Pascal"
-                        ],
-                        "answer": 2,
-                        "explanation": "The SI unit of force is the newton (N)."
                     },
                     {
                         "q": "The speed of light in a vacuum is approximately?",
@@ -40997,17 +40837,6 @@ const mainQuizData =
                         ],
                         "answer": 0,
                         "explanation": "The speed of light is exactly 299,792,458 meters per second (approx 300,000 km/s)."
-                    },
-                    {
-                        "q": "Which law states that 'for every action, there is an equal and opposite reaction'?",
-                        "options": [
-                            "Newton's First Law",
-                            "Newton's Second Law",
-                            "Newton's Third Law",
-                            "Law of Gravity"
-                        ],
-                        "answer": 2,
-                        "explanation": "This is Newton's third law of motion."
                     },
                     {
                         "q": "What type of lens is used to correct myopia (short-sightedness)?",
@@ -41032,17 +40861,6 @@ const mainQuizData =
                         "explanation": "Sound travels faster in solids because the molecules are closer together."
                     },
                     {
-                        "q": "What is the SI unit of electric current?",
-                        "options": [
-                            "Volt",
-                            "Ohm",
-                            "Ampere",
-                            "Coulomb"
-                        ],
-                        "answer": 2,
-                        "explanation": "The SI base unit of electric current is the ampere (A)."
-                    },
-                    {
                         "q": "The property of matter by which it continues in its existing state of rest or uniform motion is called?",
                         "options": [
                             "Momentum",
@@ -41054,28 +40872,6 @@ const mainQuizData =
                         "explanation": "Inertia is the resistance of any physical object to any change in its velocity."
                     },
                     {
-                        "q": "Which instrument is used to measure atmospheric pressure?",
-                        "options": [
-                            "Thermometer",
-                            "Barometer",
-                            "Hygrometer",
-                            "Anemometer"
-                        ],
-                        "answer": 1,
-                        "explanation": "A barometer is a scientific instrument used to measure atmospheric pressure."
-                    },
-                    {
-                        "q": "Who discovered the law of planetary motion?",
-                        "options": [
-                            "Galileo",
-                            "Newton",
-                            "Kepler",
-                            "Einstein"
-                        ],
-                        "answer": 2,
-                        "explanation": "Johannes Kepler published his three laws of planetary motion between 1609 and 1619."
-                    },
-                    {
                         "q": "The energy possessed by a body due to its position is called?",
                         "options": [
                             "Kinetic Energy",
@@ -41085,13 +40881,7 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "Potential energy is the hidden energy in an object because of its position or state."
-                    }
-                ]
-            },
-            {
-                "category": "Food Sciences & Nutrition",
-                "icon": "fa-apple-whole",
-                "questions": [
+                    },
                     {
                         "q": "Which vitamin is obtained from Sunlight?",
                         "options": [
@@ -41115,17 +40905,6 @@ const mainQuizData =
                         "explanation": "The skin is the body's largest organ, covering the entire external surface."
                     },
                     {
-                        "q": "Which gas is most abundant in the Earth's atmosphere?",
-                        "options": [
-                            "Oxygen",
-                            "Carbon Dioxide",
-                            "Nitrogen",
-                            "Hydrogen"
-                        ],
-                        "answer": 2,
-                        "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere."
-                    },
-                    {
                         "q": "What is the chemical name for common table salt?",
                         "options": [
                             "Sodium Carbonate",
@@ -41137,17 +40916,6 @@ const mainQuizData =
                         "explanation": "Table salt is Sodium Chloride (NaCl)."
                     },
                     {
-                        "q": "Which planet is known as the Red Planet?",
-                        "options": [
-                            "Venus",
-                            "Mars",
-                            "Jupiter",
-                            "Saturn"
-                        ],
-                        "answer": 1,
-                        "explanation": "Mars is known as the Red Planet due to the iron oxide (rust) on its surface."
-                    },
-                    {
                         "q": "What is the speed of light in a vacuum?",
                         "options": [
                             "150,000 km/s",
@@ -41157,17 +40925,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "Light travels at approximately 300,000 km/s in a vacuum."
-                    },
-                    {
-                        "q": "Which instrument is used to measure earthquake intensity?",
-                        "options": [
-                            "Barometer",
-                            "Hygrometer",
-                            "Seismograph",
-                            "Anemometer"
-                        ],
-                        "answer": 2,
-                        "explanation": "A seismograph records the shaking of the Earth's surface caused by seismic waves."
                     },
                     {
                         "q": "What is the boiling point of water at sea level?",
@@ -41203,17 +40960,6 @@ const mainQuizData =
                         "explanation": "Dry ice is solid Carbon Dioxide (CO2)."
                     },
                     {
-                        "q": "What is the hardest natural substance on Earth?",
-                        "options": [
-                            "Gold",
-                            "Iron",
-                            "Diamond",
-                            "Graphite"
-                        ],
-                        "answer": 2,
-                        "explanation": "Diamond is the hardest known natural material."
-                    },
-                    {
                         "q": "Which part of the plant conducts photosynthesis?",
                         "options": [
                             "Root",
@@ -41223,28 +40969,6 @@ const mainQuizData =
                         ],
                         "answer": 2,
                         "explanation": "Leaves contain chlorophyll and are the primary site for photosynthesis."
-                    },
-                    {
-                        "q": "What is the power source for the solar system?",
-                        "options": [
-                            "Earth",
-                            "Jupiter",
-                            "Sun",
-                            "Mars"
-                        ],
-                        "answer": 2,
-                        "explanation": "The Sun provides energy to all planets in the solar system."
-                    },
-                    {
-                        "q": "Which gas do plants absorb from the atmosphere?",
-                        "options": [
-                            "Oxygen",
-                            "Carbon Dioxide",
-                            "Nitrogen",
-                            "Hydrogen"
-                        ],
-                        "answer": 1,
-                        "explanation": "Plants take in CO2 for photosynthesis and release oxygen."
                     },
                     {
                         "q": "What is the normal human body temperature in Celsius?",
@@ -41302,50 +41026,6 @@ const mainQuizData =
                         "explanation": "Fe comes from the Latin word for iron, 'Ferrum'."
                     },
                     {
-                        "q": "Which instrument is used to measure atmospheric pressure?",
-                        "options": [
-                            "Thermometer",
-                            "Barometer",
-                            "Seismograph",
-                            "Hydrometer"
-                        ],
-                        "answer": 1,
-                        "explanation": "A barometer measures the pressure exerted by the atmosphere."
-                    },
-                    {
-                        "q": "What is the percentage of water on Earth's surface?",
-                        "options": [
-                            "50%",
-                            "60%",
-                            "71%",
-                            "85%"
-                        ],
-                        "answer": 2,
-                        "explanation": "Water covers approximately 71% of the Earth's surface."
-                    },
-                    {
-                        "q": "Which layer of the atmosphere contains the clouds?",
-                        "options": [
-                            "Troposphere",
-                            "Stratosphere",
-                            "Mesosphere",
-                            "Thermosphere"
-                        ],
-                        "answer": 0,
-                        "explanation": "Most weather phenomena, including clouds, occur in the troposphere."
-                    },
-                    {
-                        "q": "Who is credited with the invention of the light bulb?",
-                        "options": [
-                            "Alexander Graham Bell",
-                            "Thomas Edison",
-                            "Nikola Tesla",
-                            "Albert Einstein"
-                        ],
-                        "answer": 1,
-                        "explanation": "Thomas Edison developed the first commercially practical incandescent light."
-                    },
-                    {
                         "q": "What is the process of water changing into water vapor called?",
                         "options": [
                             "Condensation",
@@ -41368,28 +41048,6 @@ const mainQuizData =
                         "explanation": "Silver has the highest electrical conductivity of all metals."
                     },
                     {
-                        "q": "What is the primary gas found in the Sun?",
-                        "options": [
-                            "Helium",
-                            "Hydrogen",
-                            "Oxygen",
-                            "Nitrogen"
-                        ],
-                        "answer": 1,
-                        "explanation": "The Sun is composed of roughly 73% hydrogen and 25% helium."
-                    },
-                    {
-                        "q": "What is the smallest unit of an element?",
-                        "options": [
-                            "Cell",
-                            "Atom",
-                            "Molecule",
-                            "Electron"
-                        ],
-                        "answer": 1,
-                        "explanation": "An atom is the smallest particle of an element that retains its chemical properties."
-                    },
-                    {
                         "q": "Which part of the human eye is responsible for color vision?",
                         "options": [
                             "Cornea",
@@ -41399,17 +41057,6 @@ const mainQuizData =
                         ],
                         "answer": 2,
                         "explanation": "Cones are photoreceptor cells in the retina that perceive color."
-                    },
-                    {
-                        "q": "What causes the change of seasons on Earth?",
-                        "options": [
-                            "Earth's rotation",
-                            "Earth's tilt and orbit",
-                            "Distance from Sun",
-                            "Moon's phase"
-                        ],
-                        "answer": 1,
-                        "explanation": "The tilt of the Earth's axis as it revolves around the sun causes seasonal variations."
                     },
                     {
                         "q": "Which acid is found in the human stomach?",
@@ -41432,17 +41079,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "WBCs are a key part of the immune system."
-                    },
-                    {
-                        "q": "Which planet is the closest to the Sun?",
-                        "options": [
-                            "Venus",
-                            "Mars",
-                            "Mercury",
-                            "Earth"
-                        ],
-                        "answer": 2,
-                        "explanation": "Mercury is the innermost planet in the solar system."
                     },
                     {
                         "q": "What is the main source of vitamin C?",
@@ -41500,17 +41136,6 @@ const mainQuizData =
                         "explanation": "The nucleus contains protons and neutrons."
                     },
                     {
-                        "q": "Which instrument measures humidity?",
-                        "options": [
-                            "Barometer",
-                            "Thermometer",
-                            "Hygrometer",
-                            "Anemometer"
-                        ],
-                        "answer": 2,
-                        "explanation": "A hygrometer is used to measure the moisture content in the air."
-                    },
-                    {
                         "q": "What is the chemical symbol for Gold?",
                         "options": [
                             "Gd",
@@ -41555,39 +41180,6 @@ const mainQuizData =
                         "explanation": "The iris is the colored part of the eye."
                     },
                     {
-                        "q": "What is the gravitational pull of the Moon compared to Earth?",
-                        "options": [
-                            "Same",
-                            "1/2",
-                            "1/6",
-                            "1/10"
-                        ],
-                        "answer": 2,
-                        "explanation": "The Moon's gravity is about 16.6% of Earth's."
-                    },
-                    {
-                        "q": "Which planet is nicknamed the 'Blue Planet'?",
-                        "options": [
-                            "Earth",
-                            "Neptune",
-                            "Uranus",
-                            "Venus"
-                        ],
-                        "answer": 0,
-                        "explanation": "Earth looks blue from space due to its oceans."
-                    },
-                    {
-                        "q": "What is the primary function of the large intestine?",
-                        "options": [
-                            "Digestion",
-                            "Absorption of water",
-                            "Pumping blood",
-                            "Breathing"
-                        ],
-                        "answer": 1,
-                        "explanation": "The large intestine absorbs water and forms solid waste."
-                    },
-                    {
                         "q": "Which gas is known as 'Laughing Gas'?",
                         "options": [
                             "Nitrogen",
@@ -41597,17 +41189,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "Nitrous oxide has anesthetic and euphoric effects."
-                    },
-                    {
-                        "q": "What is the SI unit of power?",
-                        "options": [
-                            "Joule",
-                            "Newton",
-                            "Watt",
-                            "Pascal"
-                        ],
-                        "answer": 2,
-                        "explanation": "One watt is equal to one joule per second."
                     },
                     {
                         "q": "Which vitamin is also known as Retinol?",
@@ -41665,17 +41246,6 @@ const mainQuizData =
                         "explanation": "Oxy-acetylene welding is a common industrial technique."
                     },
                     {
-                        "q": "What is the distance between the Earth and the Sun called?",
-                        "options": [
-                            "Light year",
-                            "Astronomical Unit (AU)",
-                            "Parsec",
-                            "Kilometer"
-                        ],
-                        "answer": 1,
-                        "explanation": "1 AU is approximately 150 million km."
-                    },
-                    {
                         "q": "Which organ produces bile?",
                         "options": [
                             "Stomach",
@@ -41696,17 +41266,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "WBCs have a much shorter lifespan than RBCs."
-                    },
-                    {
-                        "q": "Which planet has the most moons?",
-                        "options": [
-                            "Jupiter",
-                            "Saturn",
-                            "Uranus",
-                            "Neptune"
-                        ],
-                        "answer": 1,
-                        "explanation": "Saturn currently holds the record for most discovered moons."
                     },
                     {
                         "q": "What is the process of a liquid turning into a solid called?",
@@ -41740,17 +41299,6 @@ const mainQuizData =
                         ],
                         "answer": 2,
                         "explanation": "Silicon is a semiconductor perfect for microchips."
-                    },
-                    {
-                        "q": "Which force pulls everything towards the center of the Earth?",
-                        "options": [
-                            "Friction",
-                            "Magnetism",
-                            "Gravity",
-                            "Elasticity"
-                        ],
-                        "answer": 2,
-                        "explanation": "Gravity is a universal force of attraction."
                     },
                     {
                         "q": "What is the pH level of a neutral substance?",
@@ -41797,28 +41345,6 @@ const mainQuizData =
                         "explanation": "Hydrogen sulfide (H2S) is known for its foul odor."
                     },
                     {
-                        "q": "What is the unit of frequency?",
-                        "options": [
-                            "Hertz",
-                            "Newton",
-                            "Watt",
-                            "Ohm"
-                        ],
-                        "answer": 0,
-                        "explanation": "One hertz is one cycle per second."
-                    },
-                    {
-                        "q": "Which vitamin is good for eyesight?",
-                        "options": [
-                            "Vitamin A",
-                            "Vitamin B",
-                            "Vitamin C",
-                            "Vitamin K"
-                        ],
-                        "answer": 0,
-                        "explanation": "Vitamin A deficiency can lead to night blindness."
-                    },
-                    {
                         "q": "What is the scientific name for the collarbone?",
                         "options": [
                             "Femur",
@@ -41861,39 +41387,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "CO2 creates the fizz in carbonated beverages."
-                    },
-                    {
-                        "q": "What is the study of the Earth's physical structure called?",
-                        "options": [
-                            "Biology",
-                            "Chemistry",
-                            "Geology",
-                            "Physics"
-                        ],
-                        "answer": 2,
-                        "explanation": "Geology explores the materials and processes of Earth."
-                    },
-                    {
-                        "q": "Which instrument is used to measure sound?",
-                        "options": [
-                            "Barometer",
-                            "Decibel meter",
-                            "Thermometer",
-                            "Spectrometer"
-                        ],
-                        "answer": 1,
-                        "explanation": "It measures the intensity of sound in decibels."
-                    },
-                    {
-                        "q": "What is the primary gas in the atmosphere of Venus?",
-                        "options": [
-                            "Oxygen",
-                            "Nitrogen",
-                            "Carbon Dioxide",
-                            "Methane"
-                        ],
-                        "answer": 2,
-                        "explanation": "Venus has a thick, toxic atmosphere of CO2."
                     },
                     {
                         "q": "Which bone is the smallest in the human body?",
@@ -41951,89 +41444,6 @@ const mainQuizData =
                         "explanation": "Plants respire and release CO2, especially in the absence of light."
                     },
                     {
-                        "q": "What is the study of stars and planets called?",
-                        "options": [
-                            "Geology",
-                            "Astrology",
-                            "Astronomy",
-                            "Ecology"
-                        ],
-                        "answer": 2,
-                        "explanation": "Astronomy is the scientific study of celestial objects."
-                    }
-                ]
-            },
-            {
-                "category": "Environmental Sciences",
-                "icon": "fa-leaf",
-                "questions": [
-                    {
-                        "q": "Which gas is primarily responsible for the Greenhouse Effect?",
-                        "options": [
-                            "Nitrogen",
-                            "Oxygen",
-                            "Carbon Dioxide",
-                            "Helium"
-                        ],
-                        "answer": 2,
-                        "explanation": "CO2 is the most significant long-lived greenhouse gas in Earth's atmosphere."
-                    },
-                    {
-                        "q": "What is the protective layer in the atmosphere that blocks UV rays?",
-                        "options": [
-                            "Ionosphere",
-                            "Mesosphere",
-                            "Ozone Layer",
-                            "Exosphere"
-                        ],
-                        "answer": 2,
-                        "explanation": "The ozone layer (within the stratosphere) absorbs 97-99% of the Sun's high-frequency ultraviolet light."
-                    },
-                    {
-                        "q": "World Environment Day is celebrated on?",
-                        "options": [
-                            "April 22",
-                            "June 5",
-                            "September 16",
-                            "December 1"
-                        ],
-                        "answer": 1,
-                        "explanation": "June 5 is celebrated globally to raise awareness for the protection of our environment."
-                    },
-                    {
-                        "q": "The process of cutting down forests is called?",
-                        "options": [
-                            "Afforestation",
-                            "Deforestation",
-                            "Reforestation",
-                            "Desertification"
-                        ],
-                        "answer": 1,
-                        "explanation": "Deforestation involves the permanent removal of trees to make room for something besides forest."
-                    },
-                    {
-                        "q": "Which of the following is a renewable source of energy?",
-                        "options": [
-                            "Coal",
-                            "Natural Gas",
-                            "Solar Energy",
-                            "Petroleum"
-                        ],
-                        "answer": 2,
-                        "explanation": "Solar energy is inexhaustible and naturally replenished."
-                    },
-                    {
-                        "q": "What is the primary cause of acid rain?",
-                        "options": [
-                            "CO2 buildup",
-                            "SO2 and NOx emissions",
-                            "CFCs",
-                            "Particulate matter"
-                        ],
-                        "answer": 1,
-                        "explanation": "Sulfur dioxide and nitrogen oxides react with water molecules in the atmosphere to produce acids."
-                    },
-                    {
                         "q": "Which animal is the symbol of WWF?",
                         "options": [
                             "Panda",
@@ -42067,28 +41477,6 @@ const mainQuizData =
                         "explanation": "Ecology focuses on how biotic and abiotic factors interact."
                     },
                     {
-                        "q": "Which protocol aims to protect the ozone layer?",
-                        "options": [
-                            "Kyoto Protocol",
-                            "Montreal Protocol",
-                            "Paris Agreement",
-                            "Cartagena Protocol"
-                        ],
-                        "answer": 1,
-                        "explanation": "The Montreal Protocol (1987) phased out the production of ozone-depleting substances like CFCs."
-                    },
-                    {
-                        "q": "What is the term for the variety of life on Earth?",
-                        "options": [
-                            "Ecology",
-                            "Biodiversity",
-                            "Biomass",
-                            "Ethology"
-                        ],
-                        "answer": 1,
-                        "explanation": "Biodiversity covers genetic, species, and ecosystem diversity."
-                    },
-                    {
                         "q": "Which toxic gas is produced from incomplete combustion of fuel?",
                         "options": [
                             "CO2",
@@ -42111,72 +41499,6 @@ const mainQuizData =
                         "explanation": "Sir Arthur Tansley introduced the term in 1935."
                     },
                     {
-                        "q": "Minamata disease is caused by which pollutant?",
-                        "options": [
-                            "Lead",
-                            "Mercury",
-                            "Cadmium",
-                            "Arsenic"
-                        ],
-                        "answer": 1,
-                        "explanation": "It was first discovered in Japan due to mercury poisoning in fish."
-                    },
-                    {
-                        "q": "What is the main source of CFCs (Chlorofluorocarbons)?",
-                        "options": [
-                            "Cars",
-                            "Industrial plants",
-                            "Refrigerators and ACs",
-                            "Deforestation"
-                        ],
-                        "answer": 2,
-                        "explanation": "CFCs were widely used as refrigerants."
-                    },
-                    {
-                        "q": "Which of the following is a bio-fertilizer?",
-                        "options": [
-                            "Urea",
-                            "Phosphate",
-                            "Rhizobium",
-                            "Nitrate"
-                        ],
-                        "answer": 2,
-                        "explanation": "Rhizobium bacteria fix nitrogen in legume roots."
-                    },
-                    {
-                        "q": "What is 'Global Warming Potential' measured against?",
-                        "options": [
-                            "Oxygen",
-                            "Carbon Dioxide",
-                            "Methane",
-                            "Water vapor"
-                        ],
-                        "answer": 1,
-                        "explanation": "CO2 is the baseline with a GWP of 1."
-                    },
-                    {
-                        "q": "The Chipko Movement was started to protect?",
-                        "options": [
-                            "Wildlife",
-                            "Rivers",
-                            "Trees",
-                            "Air"
-                        ],
-                        "answer": 2,
-                        "explanation": "It was a forest conservation movement in India where people hugged trees."
-                    },
-                    {
-                        "q": "Which layer of the atmosphere is closest to Earth?",
-                        "options": [
-                            "Stratosphere",
-                            "Exosphere",
-                            "Troposphere",
-                            "Mesosphere"
-                        ],
-                        "answer": 2,
-                        "explanation": "The troposphere contains 75% of the atmosphere's mass."
-                    },
-                    {
                         "q": "The place where an organism lives is its?",
                         "options": [
                             "Niche",
@@ -42197,28 +41519,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "Excessive richness of nutrients in a lake causes dense growth of plant life."
-                    },
-                    {
-                        "q": "Which fuel is cleanest for the environment?",
-                        "options": [
-                            "Coal",
-                            "Diesel",
-                            "CNG",
-                            "Hydrogen"
-                        ],
-                        "answer": 3,
-                        "explanation": "Hydrogen produces only water when burned."
-                    },
-                    {
-                        "q": "Kyoto Protocol is focused on?",
-                        "options": [
-                            "Climate Change",
-                            "Ozone Layer",
-                            "Forests",
-                            "Endangered species"
-                        ],
-                        "answer": 0,
-                        "explanation": "It aimed to reduce greenhouse gas emissions."
                     },
                     {
                         "q": "Rainwater is considered acidic when its pH falls below?",
@@ -42265,17 +41565,6 @@ const mainQuizData =
                         "explanation": "Excessive nutrients trigger algae blooms that deplete oxygen."
                     },
                     {
-                        "q": "Which of these is a non-biodegradable waste?",
-                        "options": [
-                            "Paper",
-                            "Plastic",
-                            "Food scraps",
-                            "Wood"
-                        ],
-                        "answer": 1,
-                        "explanation": "Plastic can take hundreds of years to decompose."
-                    },
-                    {
                         "q": "World Water Day is observed on?",
                         "options": [
                             "March 22",
@@ -42298,17 +41587,6 @@ const mainQuizData =
                         "explanation": "The IUCN Red List tracks threatened and endangered species."
                     },
                     {
-                        "q": "What is the main cause of air pollution in cities?",
-                        "options": [
-                            "Agriculture",
-                            "Vehicle emissions",
-                            "Natural dust",
-                            "Volcanoes"
-                        ],
-                        "answer": 1,
-                        "explanation": "Car and bus exhausts release NOx, CO, and particulate matter."
-                    },
-                    {
                         "q": "Which gas is known as the 'silent killer'?",
                         "options": [
                             "Oxygen",
@@ -42318,28 +41596,6 @@ const mainQuizData =
                         ],
                         "answer": 2,
                         "explanation": "CO is colorless, odorless, and highly toxic."
-                    },
-                    {
-                        "q": "What is the term for the accumulation of toxins in a food chain?",
-                        "options": [
-                            "Bioaccumulation",
-                            "Eutrophication",
-                            "Photosynthesis",
-                            "Nitrogen Fixation"
-                        ],
-                        "answer": 0,
-                        "explanation": "Toxins like mercury increase in concentration as they move up the chain."
-                    },
-                    {
-                        "q": "Which of the following is an example of a non-renewable resource?",
-                        "options": [
-                            "Wind",
-                            "Solar",
-                            "Coal",
-                            "Tidal"
-                        ],
-                        "answer": 2,
-                        "explanation": "Fossil fuels like coal take millions of years to form."
                     },
                     {
                         "q": "What is the primary cause of soil erosion?",
@@ -42353,28 +41609,6 @@ const mainQuizData =
                         "explanation": "Removal of vegetation leaves soil exposed to wind and water."
                     },
                     {
-                        "q": "Which layer of the atmosphere contains the ozone layer?",
-                        "options": [
-                            "Troposphere",
-                            "Stratosphere",
-                            "Mesosphere",
-                            "Thermosphere"
-                        ],
-                        "answer": 1,
-                        "explanation": "The stratosphere extends from approx 10km to 50km."
-                    },
-                    {
-                        "q": "What is the main source of mercury pollution in oceans?",
-                        "options": [
-                            "Plastic waste",
-                            "Coal power plants",
-                            "Agriculture",
-                            "Oil spills"
-                        ],
-                        "answer": 1,
-                        "explanation": "Mercury is released into the air and eventually settles in water."
-                    },
-                    {
                         "q": "Which gas is released from rice fields and landfills?",
                         "options": [
                             "Oxygen",
@@ -42384,39 +41618,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "Anaerobic decomposition produces methane (CH4)."
-                    },
-                    {
-                        "q": "What is the term for an ecosystem dominated by trees and shrubs?",
-                        "options": [
-                            "Tundra",
-                            "Desert",
-                            "Forest",
-                            "Grassland"
-                        ],
-                        "answer": 2,
-                        "explanation": "Forests cover about 31% of Earth's land area."
-                    },
-                    {
-                        "q": "Which protocol was signed in 1997 to reduce greenhouse gas emissions?",
-                        "options": [
-                            "Montreal Protocol",
-                            "Kyoto Protocol",
-                            "Basel Convention",
-                            "Vienna Convention"
-                        ],
-                        "answer": 1,
-                        "explanation": "The Kyoto Protocol focused on industrialized nations' emissions."
-                    },
-                    {
-                        "q": "What is the name for the process of converting waste into new materials?",
-                        "options": [
-                            "Reusing",
-                            "Reducing",
-                            "Recycling",
-                            "Refusing"
-                        ],
-                        "answer": 2,
-                        "explanation": "Recycling saves energy and raw materials."
                     },
                     {
                         "q": "Which nutrient causes excessive algae growth in water bodies?",
@@ -42463,39 +41664,6 @@ const mainQuizData =
                         "explanation": "WHO recommends 55 dB as a healthy limit."
                     },
                     {
-                        "q": "Which gas is primarily responsible for the cooling of the atmosphere after a volcanic eruption?",
-                        "options": [
-                            "CO2",
-                            "Sulfur Dioxide",
-                            "Oxygen",
-                            "Neon"
-                        ],
-                        "answer": 1,
-                        "explanation": "SO2 forms aerosols that reflect sunlight away from Earth."
-                    },
-                    {
-                        "q": "What is the term for the conversion of fertile land into desert?",
-                        "options": [
-                            "Erosion",
-                            "Desertification",
-                            "Salinization",
-                            "Irrigation"
-                        ],
-                        "answer": 1,
-                        "explanation": "Often caused by drought, deforestation, or inappropriate agriculture."
-                    },
-                    {
-                        "q": "Which of the following is a bio-indicator of air pollution?",
-                        "options": [
-                            "Mosses",
-                            "Lichens",
-                            "Liverworts",
-                            "Ferns"
-                        ],
-                        "answer": 1,
-                        "explanation": "Lichens are very sensitive to sulfur dioxide levels."
-                    },
-                    {
                         "q": "What is the primary goal of the 'Paris Agreement'?",
                         "options": [
                             "Protect whales",
@@ -42518,17 +41686,6 @@ const mainQuizData =
                         "explanation": "IUCN is the world's largest environmental network."
                     },
                     {
-                        "q": "What is the main source of noise pollution in domestic areas?",
-                        "options": [
-                            "Loudspeakers",
-                            "AC units",
-                            "Washing machines",
-                            "All of these"
-                        ],
-                        "answer": 3,
-                        "explanation": "Various household appliances contribute to noise levels."
-                    },
-                    {
                         "q": "Which heavy metal is associated with 'Itai-itai' disease?",
                         "options": [
                             "Lead",
@@ -42540,17 +41697,6 @@ const mainQuizData =
                         "explanation": "Cadmium poisoning causes softening of bones and kidney failure."
                     },
                     {
-                        "q": "What is the percentage of Oxygen in the Earth's atmosphere?",
-                        "options": [
-                            "21%",
-                            "78%",
-                            "1%",
-                            "0.03%"
-                        ],
-                        "answer": 0,
-                        "explanation": "Nitrogen is 78%, Oxygen is 21%, and other gases comprise 1%."
-                    },
-                    {
                         "q": "Which layer of soil contains the most organic matter?",
                         "options": [
                             "A-horizon (Topsoil)",
@@ -42560,17 +41706,6 @@ const mainQuizData =
                         ],
                         "answer": 0,
                         "explanation": "Topsoil is rich in humus and minerals."
-                    },
-                    {
-                        "q": "What is 'Smog' a combination of?",
-                        "options": [
-                            "Smoke and Fog",
-                            "Snow and Fog",
-                            "Smoke and Gas",
-                            "Dust and Rain"
-                        ],
-                        "answer": 0,
-                        "explanation": "Smog is a type of intense air pollution."
                     },
                     {
                         "q": "Which fuel is obtained from biological materials like corn or sugarcane?",
@@ -42617,50 +41752,6 @@ const mainQuizData =
                         "explanation": "Earthworms are used to turn organic waste into high-quality compost."
                     },
                     {
-                        "q": "Which gas is used in the treatment of drinking water to kill bacteria?",
-                        "options": [
-                            "Oxygen",
-                            "Nitrogen",
-                            "Chlorine",
-                            "Fluorine"
-                        ],
-                        "answer": 2,
-                        "explanation": "Chlorination is a common and effective disinfection method."
-                    },
-                    {
-                        "q": "What is the term for the maximum population an environment can support?",
-                        "options": [
-                            "Growth curve",
-                            "Carrying capacity",
-                            "Biomass",
-                            "Niche"
-                        ],
-                        "answer": 1,
-                        "explanation": "Limited resources define the carrying capacity."
-                    },
-                    {
-                        "q": "Which international day is observed on September 16?",
-                        "options": [
-                            "Earth Day",
-                            "Water Day",
-                            "Ozone Day",
-                            "Health Day"
-                        ],
-                        "answer": 2,
-                        "explanation": "International Day for the Preservation of the Ozone Layer."
-                    },
-                    {
-                        "q": "What is the main environmental problem associated with large dams?",
-                        "options": [
-                            "Habitat loss",
-                            "Earthquakes",
-                            "Displacement of people",
-                            "All of these"
-                        ],
-                        "answer": 3,
-                        "explanation": "Dams have significant social and ecological impacts."
-                    },
-                    {
                         "q": "Which state in India was the first to implement rainwater harvesting in all houses?",
                         "options": [
                             "Kerala",
@@ -42670,17 +41761,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "Tamil Nadu made it mandatory in 2001."
-                    },
-                    {
-                        "q": "What is 'Integrated Pest Management' (IPM)?",
-                        "options": [
-                            "Using only pesticides",
-                            "Using only organic methods",
-                            "Combining different methods to control pests",
-                            "Removing all insects"
-                        ],
-                        "answer": 2,
-                        "explanation": "IPM aims for sustainable and economical pest control."
                     },
                     {
                         "q": "Which gas is the byproduct of aerobic decomposition?",
@@ -42716,6 +41796,508 @@ const mainQuizData =
                         "explanation": "Sewage can be broken down by microorganisms."
                     },
                     {
+                        "q": "What is the primary cause of coral bleaching?",
+                        "options": [
+                            "Overfishing",
+                            "Plastic pollution",
+                            "Rising ocean temperatures",
+                            "Oil spills"
+                        ],
+                        "answer": 2,
+                        "explanation": "Warmer water causes corals to expel their symbiotic algae."
+                    }
+                ]
+            },
+            {
+                "category": "Food Science & Nutrition (وٹامنز اور متوازن غذا)",
+                "icon": "fa-apple-whole",
+                "questions": [
+                    {
+                        "q": "The process by which plants make their own food is called?",
+                        "options": [
+                            "Respiration",
+                            "Photosynthesis",
+                            "Digestion",
+                            "Transpiration"
+                        ],
+                        "answer": 1,
+                        "explanation": "Photosynthesis is the process used by plants to convert light energy into chemical energy."
+                    },
+                    {
+                        "q": "Who is known as the Father of Genetics?",
+                        "options": [
+                            "Charles Darwin",
+                            "Louis Pasteur",
+                            "Gregor Mendel",
+                            "James Watson"
+                        ],
+                        "answer": 2,
+                        "explanation": "Gregor Mendel discovered the fundamental laws of inheritance through his work on pea plants."
+                    },
+                    {
+                        "q": "Which Vitamin deficiency causes Scurvy?",
+                        "options": [
+                            "Vitamin A",
+                            "Vitamin B",
+                            "Vitamin C",
+                            "Vitamin D"
+                        ],
+                        "answer": 2,
+                        "explanation": "Scurvy is caused by a severe lack of Vitamin C (ascorbic acid)."
+                    },
+                    {
+                        "q": "Which Vitamin is known as 'Calciferol'?",
+                        "options": [
+                            "Vitamin A",
+                            "Vitamin C",
+                            "Vitamin D",
+                            "Vitamin E"
+                        ],
+                        "answer": 2,
+                        "explanation": "Vitamin D refers to a group of fat-soluble secosteroids, mainly Vitamin D3 (cholecalciferol)."
+                    },
+                    {
+                        "q": "Which part of the plant absorbs water and minerals?",
+                        "options": [
+                            "Leaves",
+                            "Stem",
+                            "Roots",
+                            "Flowers"
+                        ],
+                        "answer": 2,
+                        "explanation": "Roots anchor the plant and draw nutrients from the soil."
+                    },
+                    {
+                        "q": "Which Vitamin prevents Night Blindness?",
+                        "options": [
+                            "Vitamin A",
+                            "Vitamin B",
+                            "Vitamin C",
+                            "Vitamin D"
+                        ],
+                        "answer": 0,
+                        "explanation": "Vitamin A is essential for the retina's health."
+                    },
+                    {
+                        "q": "What is the name of the liquid that flows through plants?",
+                        "options": [
+                            "Blood",
+                            "Sap",
+                            "Water",
+                            "Milk"
+                        ],
+                        "answer": 1,
+                        "explanation": "Sap transports sugar and minerals."
+                    },
+                    {
+                        "q": "Which vitamin is found in abundance in carrots?",
+                        "options": [
+                            "Vitamin A",
+                            "Vitamin C",
+                            "Vitamin D",
+                            "Vitamin E"
+                        ],
+                        "answer": 0,
+                        "explanation": "Carrots are rich in beta-carotene, which becomes Vitamin A."
+                    },
+                    {
+                        "q": "Which vitamin is good for eyesight?",
+                        "options": [
+                            "Vitamin A",
+                            "Vitamin B",
+                            "Vitamin C",
+                            "Vitamin K"
+                        ],
+                        "answer": 0,
+                        "explanation": "Vitamin A deficiency can lead to night blindness."
+                    },
+                    {
+                        "q": "What is the term for the accumulation of toxins in a food chain?",
+                        "options": [
+                            "Bioaccumulation",
+                            "Eutrophication",
+                            "Photosynthesis",
+                            "Nitrogen Fixation"
+                        ],
+                        "answer": 0,
+                        "explanation": "Toxins like mercury increase in concentration as they move up the chain."
+                    }
+                ]
+            },
+            {
+                "category": "Diseases & Preventions (بیماریاں اور بچاؤ)",
+                "icon": "fa-shield-virus",
+                "questions": [
+                    {
+                        "q": "Who discovered Penicillin?",
+                        "options": [
+                            "Alexander Fleming",
+                            "Louis Pasteur",
+                            "Edward Jenner",
+                            "Robert Koch"
+                        ],
+                        "answer": 0,
+                        "explanation": "Fleming discovered the first antibiotic, penicillin, in 1928."
+                    },
+                    {
+                        "q": "Minamata disease is caused by which pollutant?",
+                        "options": [
+                            "Lead",
+                            "Mercury",
+                            "Cadmium",
+                            "Arsenic"
+                        ],
+                        "answer": 1,
+                        "explanation": "It was first discovered in Japan due to mercury poisoning in fish."
+                    },
+                    {
+                        "q": "What is the main source of CFCs (Chlorofluorocarbons)?",
+                        "options": [
+                            "Cars",
+                            "Industrial plants",
+                            "Refrigerators and ACs",
+                            "Deforestation"
+                        ],
+                        "answer": 2,
+                        "explanation": "CFCs were widely used as refrigerants."
+                    },
+                    {
+                        "q": "Which of the following is a bio-fertilizer?",
+                        "options": [
+                            "Urea",
+                            "Phosphate",
+                            "Rhizobium",
+                            "Nitrate"
+                        ],
+                        "answer": 2,
+                        "explanation": "Rhizobium bacteria fix nitrogen in legume roots."
+                    },
+                    {
+                        "q": "Which gas is used in the treatment of drinking water to kill bacteria?",
+                        "options": [
+                            "Oxygen",
+                            "Nitrogen",
+                            "Chlorine",
+                            "Fluorine"
+                        ],
+                        "answer": 2,
+                        "explanation": "Chlorination is a common and effective disinfection method."
+                    }
+                ]
+            },
+            {
+                "category": "Solar System & Universe (نظامِ شمسی اور کائنات)",
+                "icon": "fa-sun",
+                "questions": [
+                    {
+                        "q": "Which gas is most abundant in the Earth's atmosphere?",
+                        "options": [
+                            "Oxygen",
+                            "Carbon dioxide",
+                            "Nitrogen",
+                            "Hydrogen"
+                        ],
+                        "answer": 2,
+                        "explanation": "Nitrogen constitutes about 78% of the Earth's atmosphere."
+                    },
+                    {
+                        "q": "What is the process of seeds growing into plants called?",
+                        "options": [
+                            "Pollination",
+                            "Germination",
+                            "Fertilization",
+                            "Dispersion"
+                        ],
+                        "answer": 1,
+                        "explanation": "Germination is the start of growth."
+                    },
+                    {
+                        "q": "Who discovered the law of planetary motion?",
+                        "options": [
+                            "Galileo",
+                            "Newton",
+                            "Kepler",
+                            "Einstein"
+                        ],
+                        "answer": 2,
+                        "explanation": "Johannes Kepler published his three laws of planetary motion between 1609 and 1619."
+                    },
+                    {
+                        "q": "Which gas is most abundant in the Earth's atmosphere?",
+                        "options": [
+                            "Oxygen",
+                            "Carbon Dioxide",
+                            "Nitrogen",
+                            "Hydrogen"
+                        ],
+                        "answer": 2,
+                        "explanation": "Nitrogen makes up about 78% of the Earth's atmosphere."
+                    },
+                    {
+                        "q": "Which planet is known as the Red Planet?",
+                        "options": [
+                            "Venus",
+                            "Mars",
+                            "Jupiter",
+                            "Saturn"
+                        ],
+                        "answer": 1,
+                        "explanation": "Mars is known as the Red Planet due to the iron oxide (rust) on its surface."
+                    },
+                    {
+                        "q": "Which instrument is used to measure earthquake intensity?",
+                        "options": [
+                            "Barometer",
+                            "Hygrometer",
+                            "Seismograph",
+                            "Anemometer"
+                        ],
+                        "answer": 2,
+                        "explanation": "A seismograph records the shaking of the Earth's surface caused by seismic waves."
+                    },
+                    {
+                        "q": "What is the hardest natural substance on Earth?",
+                        "options": [
+                            "Gold",
+                            "Iron",
+                            "Diamond",
+                            "Graphite"
+                        ],
+                        "answer": 2,
+                        "explanation": "Diamond is the hardest known natural material."
+                    },
+                    {
+                        "q": "What is the power source for the solar system?",
+                        "options": [
+                            "Earth",
+                            "Jupiter",
+                            "Sun",
+                            "Mars"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Sun provides energy to all planets in the solar system."
+                    },
+                    {
+                        "q": "What is the percentage of water on Earth's surface?",
+                        "options": [
+                            "50%",
+                            "60%",
+                            "71%",
+                            "85%"
+                        ],
+                        "answer": 2,
+                        "explanation": "Water covers approximately 71% of the Earth's surface."
+                    },
+                    {
+                        "q": "What is the primary gas found in the Sun?",
+                        "options": [
+                            "Helium",
+                            "Hydrogen",
+                            "Oxygen",
+                            "Nitrogen"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Sun is composed of roughly 73% hydrogen and 25% helium."
+                    },
+                    {
+                        "q": "What causes the change of seasons on Earth?",
+                        "options": [
+                            "Earth's rotation",
+                            "Earth's tilt and orbit",
+                            "Distance from Sun",
+                            "Moon's phase"
+                        ],
+                        "answer": 1,
+                        "explanation": "The tilt of the Earth's axis as it revolves around the sun causes seasonal variations."
+                    },
+                    {
+                        "q": "Which planet is the closest to the Sun?",
+                        "options": [
+                            "Venus",
+                            "Mars",
+                            "Mercury",
+                            "Earth"
+                        ],
+                        "answer": 2,
+                        "explanation": "Mercury is the innermost planet in the solar system."
+                    },
+                    {
+                        "q": "What is the gravitational pull of the Moon compared to Earth?",
+                        "options": [
+                            "Same",
+                            "1/2",
+                            "1/6",
+                            "1/10"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Moon's gravity is about 16.6% of Earth's."
+                    },
+                    {
+                        "q": "Which planet is nicknamed the 'Blue Planet'?",
+                        "options": [
+                            "Earth",
+                            "Neptune",
+                            "Uranus",
+                            "Venus"
+                        ],
+                        "answer": 0,
+                        "explanation": "Earth looks blue from space due to its oceans."
+                    },
+                    {
+                        "q": "What is the distance between the Earth and the Sun called?",
+                        "options": [
+                            "Light year",
+                            "Astronomical Unit (AU)",
+                            "Parsec",
+                            "Kilometer"
+                        ],
+                        "answer": 1,
+                        "explanation": "1 AU is approximately 150 million km."
+                    },
+                    {
+                        "q": "Which planet has the most moons?",
+                        "options": [
+                            "Jupiter",
+                            "Saturn",
+                            "Uranus",
+                            "Neptune"
+                        ],
+                        "answer": 1,
+                        "explanation": "Saturn currently holds the record for most discovered moons."
+                    },
+                    {
+                        "q": "Which force pulls everything towards the center of the Earth?",
+                        "options": [
+                            "Friction",
+                            "Magnetism",
+                            "Gravity",
+                            "Elasticity"
+                        ],
+                        "answer": 2,
+                        "explanation": "Gravity is a universal force of attraction."
+                    },
+                    {
+                        "q": "What is the study of the Earth's physical structure called?",
+                        "options": [
+                            "Biology",
+                            "Chemistry",
+                            "Geology",
+                            "Physics"
+                        ],
+                        "answer": 2,
+                        "explanation": "Geology explores the materials and processes of Earth."
+                    },
+                    {
+                        "q": "What is the primary gas in the atmosphere of Venus?",
+                        "options": [
+                            "Oxygen",
+                            "Nitrogen",
+                            "Carbon Dioxide",
+                            "Methane"
+                        ],
+                        "answer": 2,
+                        "explanation": "Venus has a thick, toxic atmosphere of CO2."
+                    },
+                    {
+                        "q": "What is the study of stars and planets called?",
+                        "options": [
+                            "Geology",
+                            "Astrology",
+                            "Astronomy",
+                            "Ecology"
+                        ],
+                        "answer": 2,
+                        "explanation": "Astronomy is the scientific study of celestial objects."
+                    },
+                    {
+                        "q": "Which gas is primarily responsible for the Greenhouse Effect?",
+                        "options": [
+                            "Nitrogen",
+                            "Oxygen",
+                            "Carbon Dioxide",
+                            "Helium"
+                        ],
+                        "answer": 2,
+                        "explanation": "CO2 is the most significant long-lived greenhouse gas in Earth's atmosphere."
+                    },
+                    {
+                        "q": "What is the protective layer in the atmosphere that blocks UV rays?",
+                        "options": [
+                            "Ionosphere",
+                            "Mesosphere",
+                            "Ozone Layer",
+                            "Exosphere"
+                        ],
+                        "answer": 2,
+                        "explanation": "The ozone layer (within the stratosphere) absorbs 97-99% of the Sun's high-frequency ultraviolet light."
+                    },
+                    {
+                        "q": "What is the term for the variety of life on Earth?",
+                        "options": [
+                            "Ecology",
+                            "Biodiversity",
+                            "Biomass",
+                            "Ethology"
+                        ],
+                        "answer": 1,
+                        "explanation": "Biodiversity covers genetic, species, and ecosystem diversity."
+                    },
+                    {
+                        "q": "The Chipko Movement was started to protect?",
+                        "options": [
+                            "Wildlife",
+                            "Rivers",
+                            "Trees",
+                            "Air"
+                        ],
+                        "answer": 2,
+                        "explanation": "It was a forest conservation movement in India where people hugged trees."
+                    },
+                    {
+                        "q": "Which layer of the atmosphere is closest to Earth?",
+                        "options": [
+                            "Stratosphere",
+                            "Exosphere",
+                            "Troposphere",
+                            "Mesosphere"
+                        ],
+                        "answer": 2,
+                        "explanation": "The troposphere contains 75% of the atmosphere's mass."
+                    },
+                    {
+                        "q": "What is the term for an ecosystem dominated by trees and shrubs?",
+                        "options": [
+                            "Tundra",
+                            "Desert",
+                            "Forest",
+                            "Grassland"
+                        ],
+                        "answer": 2,
+                        "explanation": "Forests cover about 31% of Earth's land area."
+                    },
+                    {
+                        "q": "Which gas is primarily responsible for the cooling of the atmosphere after a volcanic eruption?",
+                        "options": [
+                            "CO2",
+                            "Sulfur Dioxide",
+                            "Oxygen",
+                            "Neon"
+                        ],
+                        "answer": 1,
+                        "explanation": "SO2 forms aerosols that reflect sunlight away from Earth."
+                    },
+                    {
+                        "q": "What is the percentage of Oxygen in the Earth's atmosphere?",
+                        "options": [
+                            "21%",
+                            "78%",
+                            "1%",
+                            "0.03%"
+                        ],
+                        "answer": 0,
+                        "explanation": "Nitrogen is 78%, Oxygen is 21%, and other gases comprise 1%."
+                    },
+                    {
                         "q": "What is the term for light pollution caused by excessive artificial light?",
                         "options": [
                             "Glare",
@@ -42738,17 +42320,6 @@ const mainQuizData =
                         "explanation": "The mesopause is the coldest place in Earth's atmosphere."
                     },
                     {
-                        "q": "What is the primary goal of sustainable development?",
-                        "options": [
-                            "Meet current needs only",
-                            "Economic growth at any cost",
-                            "Meet needs without compromising future generations",
-                            "Stop all development"
-                        ],
-                        "answer": 2,
-                        "explanation": "It balances social, economic, and environmental factors."
-                    },
-                    {
                         "q": "Which of these is a global environmental issue?",
                         "options": [
                             "Climate change",
@@ -42769,6 +42340,342 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "He was a prominent leader of the Chipko movement."
+                    },
+                    {
+                        "q": "What is the term for the study of the Earth's atmosphere?",
+                        "options": [
+                            "Geology",
+                            "Meteorology",
+                            "Oceanography",
+                            "Astronomy"
+                        ],
+                        "answer": 1,
+                        "explanation": "Meteorology focuses on weather and climate."
+                    }
+                ]
+            },
+            {
+                "category": "Environmental Issues (آلودگی اور گلوبل وارمنگ)",
+                "icon": "fa-cloud-showers-heavy",
+                "questions": [
+                    {
+                        "q": "The plants which grow in dry habitats are called?",
+                        "options": [
+                            "Hydrophytes",
+                            "Xerophytes",
+                            "Mesophytes",
+                            "Heliophytes"
+                        ],
+                        "answer": 1,
+                        "explanation": "Xerophytes (like cactus) are adapted to survive in environments with little liquid water."
+                    },
+                    {
+                        "q": "Which gas do plants absorb from the atmosphere?",
+                        "options": [
+                            "Oxygen",
+                            "Carbon Dioxide",
+                            "Nitrogen",
+                            "Hydrogen"
+                        ],
+                        "answer": 1,
+                        "explanation": "Plants take in CO2 for photosynthesis and release oxygen."
+                    },
+                    {
+                        "q": "Which instrument is used to measure atmospheric pressure?",
+                        "options": [
+                            "Thermometer",
+                            "Barometer",
+                            "Seismograph",
+                            "Hydrometer"
+                        ],
+                        "answer": 1,
+                        "explanation": "A barometer measures the pressure exerted by the atmosphere."
+                    },
+                    {
+                        "q": "Which layer of the atmosphere contains the clouds?",
+                        "options": [
+                            "Troposphere",
+                            "Stratosphere",
+                            "Mesosphere",
+                            "Thermosphere"
+                        ],
+                        "answer": 0,
+                        "explanation": "Most weather phenomena, including clouds, occur in the troposphere."
+                    },
+                    {
+                        "q": "What is the primary function of the large intestine?",
+                        "options": [
+                            "Digestion",
+                            "Absorption of water",
+                            "Pumping blood",
+                            "Breathing"
+                        ],
+                        "answer": 1,
+                        "explanation": "The large intestine absorbs water and forms solid waste."
+                    },
+                    {
+                        "q": "World Environment Day is celebrated on?",
+                        "options": [
+                            "April 22",
+                            "June 5",
+                            "September 16",
+                            "December 1"
+                        ],
+                        "answer": 1,
+                        "explanation": "June 5 is celebrated globally to raise awareness for the protection of our environment."
+                    },
+                    {
+                        "q": "The process of cutting down forests is called?",
+                        "options": [
+                            "Afforestation",
+                            "Deforestation",
+                            "Reforestation",
+                            "Desertification"
+                        ],
+                        "answer": 1,
+                        "explanation": "Deforestation involves the permanent removal of trees to make room for something besides forest."
+                    },
+                    {
+                        "q": "Which of the following is a renewable source of energy?",
+                        "options": [
+                            "Coal",
+                            "Natural Gas",
+                            "Solar Energy",
+                            "Petroleum"
+                        ],
+                        "answer": 2,
+                        "explanation": "Solar energy is inexhaustible and naturally replenished."
+                    },
+                    {
+                        "q": "What is the primary cause of acid rain?",
+                        "options": [
+                            "CO2 buildup",
+                            "SO2 and NOx emissions",
+                            "CFCs",
+                            "Particulate matter"
+                        ],
+                        "answer": 1,
+                        "explanation": "Sulfur dioxide and nitrogen oxides react with water molecules in the atmosphere to produce acids."
+                    },
+                    {
+                        "q": "Which protocol aims to protect the ozone layer?",
+                        "options": [
+                            "Kyoto Protocol",
+                            "Montreal Protocol",
+                            "Paris Agreement",
+                            "Cartagena Protocol"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Montreal Protocol (1987) phased out the production of ozone-depleting substances like CFCs."
+                    },
+                    {
+                        "q": "What is 'Global Warming Potential' measured against?",
+                        "options": [
+                            "Oxygen",
+                            "Carbon Dioxide",
+                            "Methane",
+                            "Water vapor"
+                        ],
+                        "answer": 1,
+                        "explanation": "CO2 is the baseline with a GWP of 1."
+                    },
+                    {
+                        "q": "Which fuel is cleanest for the environment?",
+                        "options": [
+                            "Coal",
+                            "Diesel",
+                            "CNG",
+                            "Hydrogen"
+                        ],
+                        "answer": 3,
+                        "explanation": "Hydrogen produces only water when burned."
+                    },
+                    {
+                        "q": "Kyoto Protocol is focused on?",
+                        "options": [
+                            "Climate Change",
+                            "Ozone Layer",
+                            "Forests",
+                            "Endangered species"
+                        ],
+                        "answer": 0,
+                        "explanation": "It aimed to reduce greenhouse gas emissions."
+                    },
+                    {
+                        "q": "Which of these is a non-biodegradable waste?",
+                        "options": [
+                            "Paper",
+                            "Plastic",
+                            "Food scraps",
+                            "Wood"
+                        ],
+                        "answer": 1,
+                        "explanation": "Plastic can take hundreds of years to decompose."
+                    },
+                    {
+                        "q": "What is the main cause of air pollution in cities?",
+                        "options": [
+                            "Agriculture",
+                            "Vehicle emissions",
+                            "Natural dust",
+                            "Volcanoes"
+                        ],
+                        "answer": 1,
+                        "explanation": "Car and bus exhausts release NOx, CO, and particulate matter."
+                    },
+                    {
+                        "q": "Which of the following is an example of a non-renewable resource?",
+                        "options": [
+                            "Wind",
+                            "Solar",
+                            "Coal",
+                            "Tidal"
+                        ],
+                        "answer": 2,
+                        "explanation": "Fossil fuels like coal take millions of years to form."
+                    },
+                    {
+                        "q": "Which layer of the atmosphere contains the ozone layer?",
+                        "options": [
+                            "Troposphere",
+                            "Stratosphere",
+                            "Mesosphere",
+                            "Thermosphere"
+                        ],
+                        "answer": 1,
+                        "explanation": "The stratosphere extends from approx 10km to 50km."
+                    },
+                    {
+                        "q": "What is the main source of mercury pollution in oceans?",
+                        "options": [
+                            "Plastic waste",
+                            "Coal power plants",
+                            "Agriculture",
+                            "Oil spills"
+                        ],
+                        "answer": 1,
+                        "explanation": "Mercury is released into the air and eventually settles in water."
+                    },
+                    {
+                        "q": "Which protocol was signed in 1997 to reduce greenhouse gas emissions?",
+                        "options": [
+                            "Montreal Protocol",
+                            "Kyoto Protocol",
+                            "Basel Convention",
+                            "Vienna Convention"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Kyoto Protocol focused on industrialized nations' emissions."
+                    },
+                    {
+                        "q": "What is the name for the process of converting waste into new materials?",
+                        "options": [
+                            "Reusing",
+                            "Reducing",
+                            "Recycling",
+                            "Refusing"
+                        ],
+                        "answer": 2,
+                        "explanation": "Recycling saves energy and raw materials."
+                    },
+                    {
+                        "q": "What is the term for the conversion of fertile land into desert?",
+                        "options": [
+                            "Erosion",
+                            "Desertification",
+                            "Salinization",
+                            "Irrigation"
+                        ],
+                        "answer": 1,
+                        "explanation": "Often caused by drought, deforestation, or inappropriate agriculture."
+                    },
+                    {
+                        "q": "Which of the following is a bio-indicator of air pollution?",
+                        "options": [
+                            "Mosses",
+                            "Lichens",
+                            "Liverworts",
+                            "Ferns"
+                        ],
+                        "answer": 1,
+                        "explanation": "Lichens are very sensitive to sulfur dioxide levels."
+                    },
+                    {
+                        "q": "What is the main source of noise pollution in domestic areas?",
+                        "options": [
+                            "Loudspeakers",
+                            "AC units",
+                            "Washing machines",
+                            "All of these"
+                        ],
+                        "answer": 3,
+                        "explanation": "Various household appliances contribute to noise levels."
+                    },
+                    {
+                        "q": "What is 'Smog' a combination of?",
+                        "options": [
+                            "Smoke and Fog",
+                            "Snow and Fog",
+                            "Smoke and Gas",
+                            "Dust and Rain"
+                        ],
+                        "answer": 0,
+                        "explanation": "Smog is a type of intense air pollution."
+                    },
+                    {
+                        "q": "What is the term for the maximum population an environment can support?",
+                        "options": [
+                            "Growth curve",
+                            "Carrying capacity",
+                            "Biomass",
+                            "Niche"
+                        ],
+                        "answer": 1,
+                        "explanation": "Limited resources define the carrying capacity."
+                    },
+                    {
+                        "q": "Which international day is observed on September 16?",
+                        "options": [
+                            "Earth Day",
+                            "Water Day",
+                            "Ozone Day",
+                            "Health Day"
+                        ],
+                        "answer": 2,
+                        "explanation": "International Day for the Preservation of the Ozone Layer."
+                    },
+                    {
+                        "q": "What is the main environmental problem associated with large dams?",
+                        "options": [
+                            "Habitat loss",
+                            "Earthquakes",
+                            "Displacement of people",
+                            "All of these"
+                        ],
+                        "answer": 3,
+                        "explanation": "Dams have significant social and ecological impacts."
+                    },
+                    {
+                        "q": "What is 'Integrated Pest Management' (IPM)?",
+                        "options": [
+                            "Using only pesticides",
+                            "Using only organic methods",
+                            "Combining different methods to control pests",
+                            "Removing all insects"
+                        ],
+                        "answer": 2,
+                        "explanation": "IPM aims for sustainable and economical pest control."
+                    },
+                    {
+                        "q": "What is the primary goal of sustainable development?",
+                        "options": [
+                            "Meet current needs only",
+                            "Economic growth at any cost",
+                            "Meet needs without compromising future generations",
+                            "Stop all development"
+                        ],
+                        "answer": 2,
+                        "explanation": "It balances social, economic, and environmental factors."
                     },
                     {
                         "q": "Which gas is used as a coolant in refrigerators today (replacing CFCs)?",
@@ -42804,17 +42711,6 @@ const mainQuizData =
                         "explanation": "The Amazon rainforest covers much of South America."
                     },
                     {
-                        "q": "What is the term for the study of the Earth's atmosphere?",
-                        "options": [
-                            "Geology",
-                            "Meteorology",
-                            "Oceanography",
-                            "Astronomy"
-                        ],
-                        "answer": 1,
-                        "explanation": "Meteorology focuses on weather and climate."
-                    },
-                    {
                         "q": "Which of these is a point source of water pollution?",
                         "options": [
                             "Agricultural runoff",
@@ -42824,17 +42720,133 @@ const mainQuizData =
                         ],
                         "answer": 2,
                         "explanation": "Point sources come from a single, identifiable location."
+                    }
+                ]
+            },
+            {
+                "category": "Scientific Instruments & Discoveries (ایجادات)",
+                "icon": "fa-telescope",
+                "questions": [
+                    {
+                        "q": "What is the smallest unit of heredity?",
+                        "options": [
+                            "Cell",
+                            "Gene",
+                            "Chromosome",
+                            "Nucleus"
+                        ],
+                        "answer": 1,
+                        "explanation": "Genes are segments of DNA that contain instructions."
                     },
                     {
-                        "q": "What is the primary cause of coral bleaching?",
+                        "q": "What is the SI unit of Force?",
                         "options": [
-                            "Overfishing",
-                            "Plastic pollution",
-                            "Rising ocean temperatures",
-                            "Oil spills"
+                            "Joule",
+                            "Watt",
+                            "Newton",
+                            "Pascal"
                         ],
                         "answer": 2,
-                        "explanation": "Warmer water causes corals to expel their symbiotic algae."
+                        "explanation": "The SI unit of force is the newton (N)."
+                    },
+                    {
+                        "q": "Which law states that 'for every action, there is an equal and opposite reaction'?",
+                        "options": [
+                            "Newton's First Law",
+                            "Newton's Second Law",
+                            "Newton's Third Law",
+                            "Law of Gravity"
+                        ],
+                        "answer": 2,
+                        "explanation": "This is Newton's third law of motion."
+                    },
+                    {
+                        "q": "What is the SI unit of electric current?",
+                        "options": [
+                            "Volt",
+                            "Ohm",
+                            "Ampere",
+                            "Coulomb"
+                        ],
+                        "answer": 2,
+                        "explanation": "The SI base unit of electric current is the ampere (A)."
+                    },
+                    {
+                        "q": "Which instrument is used to measure atmospheric pressure?",
+                        "options": [
+                            "Thermometer",
+                            "Barometer",
+                            "Hygrometer",
+                            "Anemometer"
+                        ],
+                        "answer": 1,
+                        "explanation": "A barometer is a scientific instrument used to measure atmospheric pressure."
+                    },
+                    {
+                        "q": "Who is credited with the invention of the light bulb?",
+                        "options": [
+                            "Alexander Graham Bell",
+                            "Thomas Edison",
+                            "Nikola Tesla",
+                            "Albert Einstein"
+                        ],
+                        "answer": 1,
+                        "explanation": "Thomas Edison developed the first commercially practical incandescent light."
+                    },
+                    {
+                        "q": "What is the smallest unit of an element?",
+                        "options": [
+                            "Cell",
+                            "Atom",
+                            "Molecule",
+                            "Electron"
+                        ],
+                        "answer": 1,
+                        "explanation": "An atom is the smallest particle of an element that retains its chemical properties."
+                    },
+                    {
+                        "q": "Which instrument measures humidity?",
+                        "options": [
+                            "Barometer",
+                            "Thermometer",
+                            "Hygrometer",
+                            "Anemometer"
+                        ],
+                        "answer": 2,
+                        "explanation": "A hygrometer is used to measure the moisture content in the air."
+                    },
+                    {
+                        "q": "What is the SI unit of power?",
+                        "options": [
+                            "Joule",
+                            "Newton",
+                            "Watt",
+                            "Pascal"
+                        ],
+                        "answer": 2,
+                        "explanation": "One watt is equal to one joule per second."
+                    },
+                    {
+                        "q": "What is the unit of frequency?",
+                        "options": [
+                            "Hertz",
+                            "Newton",
+                            "Watt",
+                            "Ohm"
+                        ],
+                        "answer": 0,
+                        "explanation": "One hertz is one cycle per second."
+                    },
+                    {
+                        "q": "Which instrument is used to measure sound?",
+                        "options": [
+                            "Barometer",
+                            "Decibel meter",
+                            "Thermometer",
+                            "Spectrometer"
+                        ],
+                        "answer": 1,
+                        "explanation": "It measures the intensity of sound in decibels."
                     }
                 ]
             }
@@ -42845,251 +42857,9 @@ const mainQuizData =
         "icon": "fa-leaf",
         "subcategories": [
             {
-                "category": "General Botany",
-                "icon": "fa-book",
+                "category": "Botany (نباتیات - پودوں کا علم)",
+                "icon": "fa-leaf",
                 "questions": [
-                    {
-                        "q": "The branch of botany that studies algae is:",
-                        "options": [
-                            "Phycology",
-                            "Mycology",
-                            "Bryology",
-                            "Pteridology"
-                        ],
-                        "answer": 0,
-                        "explanation": "Phycology is the scientific study of algae."
-                    },
-                    {
-                        "q": "Which part of the plant conducts water and dissolved minerals?",
-                        "options": [
-                            "Phloem",
-                            "Xylem",
-                            "Cambium",
-                            "Epidermis"
-                        ],
-                        "answer": 1,
-                        "explanation": "Xylem transports water and minerals from roots to stems and leaves."
-                    },
-                    {
-                        "q": "The process by which plants make their food is called:",
-                        "options": [
-                            "Respiration",
-                            "Transpiration",
-                            "Photosynthesis",
-                            "Digestion"
-                        ],
-                        "answer": 2,
-                        "explanation": "Photosynthesis is the process used by plants to convert light energy into chemical energy."
-                    },
-                    {
-                        "q": "In plants, the male reproductive organ is:",
-                        "options": [
-                            "Pistil",
-                            "Stamen",
-                            "Carpel",
-                            "Sepal"
-                        ],
-                        "answer": 1,
-                        "explanation": "The stamen is the pollen-producing reproductive organ of a flower."
-                    },
-                    {
-                        "q": "The loss of water in the form of vapor from the aerial parts of a plant is:",
-                        "options": [
-                            "Evaporation",
-                            "Transpiration",
-                            "Guttation",
-                            "Exudation"
-                        ],
-                        "answer": 1,
-                        "explanation": "Transpiration is the process of water movement through a plant and its evaporation from aerial parts."
-                    },
-                    {
-                        "q": "Which gas is released during photosynthesis?",
-                        "options": [
-                            "Carbon dioxide",
-                            "Oxygen",
-                            "Nitrogen",
-                            "Methane"
-                        ],
-                        "answer": 1,
-                        "explanation": "Oxygen is released as a byproduct during photosynthesis."
-                    },
-                    {
-                        "q": "The green pigment in plants responsible for photosynthesis is:",
-                        "options": [
-                            "Carotene",
-                            "Xanthophyll",
-                            "Chlorophyll",
-                            "Anthocyanin"
-                        ],
-                        "answer": 2,
-                        "explanation": "Chlorophyll absorbs energy from light for photosynthesis."
-                    },
-                    {
-                        "q": "Which of the following is considered a 'living fossil'?",
-                        "options": [
-                            "Neem",
-                            "Ginkgo biloba",
-                            "Banyan",
-                            "Peepal"
-                        ],
-                        "answer": 1,
-                        "explanation": "Ginkgo biloba is an ancient species of tree with no close living relatives."
-                    },
-                    {
-                        "q": "The study of relationships between plants and their environment is called:",
-                        "options": [
-                            "Plant Taxonomy",
-                            "Plant Physiology",
-                            "Plant Anatomy",
-                            "Plant Ecology"
-                        ],
-                        "answer": 3,
-                        "explanation": "Plant ecology studies the interaction between plants and their environment."
-                    },
-                    {
-                        "q": "What is the study of fungi called?",
-                        "options": [
-                            "Mycology",
-                            "Phycology",
-                            "Cytology",
-                            "Histology"
-                        ],
-                        "answer": 0,
-                        "explanation": "Mycology is the branch of biology concerned with the study of fungi."
-                    },
-                    {
-                        "q": "Fungi belong to which kingdom?",
-                        "options": [
-                            "Plantae",
-                            "Animalia",
-                            "Fungi",
-                            "Monera"
-                        ],
-                        "answer": 2,
-                        "explanation": "Fungi have their own kingdom, separate from plants and animals."
-                    },
-                    {
-                        "q": "The outer protective covering of a plant stem is the:",
-                        "options": [
-                            "Cortex",
-                            "Epidermis",
-                            "Pith",
-                            "Pericycle"
-                        ],
-                        "answer": 1,
-                        "explanation": "The epidermis is the outermost layer of cells covering the stem, root, leaf, options: flower."
-                    },
-                    {
-                        "q": "Which part of the seed stores food for the developing embryo?",
-                        "options": [
-                            "Seed coat",
-                            "Cotyledon",
-                            "Radicle",
-                            "Plumule"
-                        ],
-                        "answer": 1,
-                        "explanation": "Cotyledons (seed leaves) often store food for the seedling."
-                    },
-                    {
-                        "q": "The shedding of leaves, flowers, or fruits is called:",
-                        "options": [
-                            "Abscission",
-                            "Transpiration",
-                            "Guttation",
-                            "Vernalization"
-                        ],
-                        "answer": 0,
-                        "explanation": "Abscission is the shedding of various parts of an organism."
-                    },
-                    {
-                        "q": "Which plant hormone promotes fruit ripening?",
-                        "options": [
-                            "Auxin",
-                            "Gibberellin",
-                            "Cytokinin",
-                            "Ethylene"
-                        ],
-                        "answer": 3,
-                        "explanation": "Ethylene is a gaseous plant hormone famous for promoting fruit ripening."
-                    },
-                    {
-                        "q": "The first formed primary xylem elements are called:",
-                        "options": [
-                            "Metaxylem",
-                            "Protoxylem",
-                            "Cambium",
-                            "Phloem"
-                        ],
-                        "answer": 1,
-                        "explanation": "Protoxylem is the first formed primary xylem."
-                    },
-                    {
-                        "q": "Plants growing in dry regions are called:",
-                        "options": [
-                            "Hydrophytes",
-                            "Mesophytes",
-                            "Xerophytes",
-                            "Halophytes"
-                        ],
-                        "answer": 2,
-                        "explanation": "Xerophytes are adapted to survive in environments with little liquid water."
-                    },
-                    {
-                        "q": "Plants growing in saline soil are known as:",
-                        "options": [
-                            "Halophytes",
-                            "Xerophytes",
-                            "Hydrophytes",
-                            "Mesophytes"
-                        ],
-                        "answer": 0,
-                        "explanation": "Halophytes are plants adapted to grow in high salinity environments."
-                    },
-                    {
-                        "q": "The primary function of the root is:",
-                        "options": [
-                            "Photosynthesis",
-                            "Anchorage and absorption",
-                            "Reproduction",
-                            "Transpiration"
-                        ],
-                        "answer": 1,
-                        "explanation": "Roots anchor the plant and absorb water and dissolved minerals from the soil."
-                    },
-                    {
-                        "q": "The reproductive part of an angiosperm is the:",
-                        "options": [
-                            "Leaf",
-                            "Stem",
-                            "Root",
-                            "Flower"
-                        ],
-                        "answer": 3,
-                        "explanation": "Flowers are the reproductive organs of angiosperms (flowering plants)."
-                    },
-                    {
-                        "q": "Seedless vascular plants are called:",
-                        "options": [
-                            "Bryophytes",
-                            "Gymnosperms",
-                            "Pteridophytes",
-                            "Angiosperms"
-                        ],
-                        "answer": 2,
-                        "explanation": "Pteridophytes, like ferns, have vascular tissue but reproduce via spores, not seeds."
-                    },
-                    {
-                        "q": "Which is the largest flower in the world?",
-                        "options": [
-                            "Lotus",
-                            "Rafflesia",
-                            "Sunflower",
-                            "Titan Arum"
-                        ],
-                        "answer": 1,
-                        "explanation": "Rafflesia arnoldii produces the largest individual flower on Earth."
-                    },
                     {
                         "q": "The edible part of an apple is the:",
                         "options": [
@@ -43102,37 +42872,197 @@ const mainQuizData =
                         "explanation": "In an apple, the fleshy, edible part is the swollen thalamus (receptacle)."
                     },
                     {
-                        "q": "Pollen grains are produced in:",
+                        "q": "A plant that grows on another plant for support but is not parasitic is an:",
                         "options": [
-                            "Ovary",
-                            "Anther",
-                            "Stigma",
-                            "Style"
+                            "Epiphyte",
+                            "Endophyte",
+                            "Saprophyte",
+                            "Halophyte"
                         ],
-                        "answer": 1,
-                        "explanation": "The anther, a part of the stamen, contains pollen sacs where pollen grains develop."
+                        "answer": 0,
+                        "explanation": "Epiphytes derive their moisture and nutrients from the air and rain."
                     },
                     {
-                        "q": "The movement of plants towards light is termed:",
+                        "q": "Plants use nitrates from the soil primarily to synthesize:",
                         "options": [
-                            "Geotropism",
-                            "Phototropism",
-                            "Hydrotropism",
-                            "Chemotropism"
-                        ],
-                        "answer": 1,
-                        "explanation": "Phototropism is the directional growth of an organism in response to light."
-                    },
-                    {
-                        "q": "Nitrogen fixation is performed primarily by:",
-                        "options": [
-                            "Algae",
-                            "Fungi",
-                            "Bacteria",
-                            "Viruses"
+                            "Carbohydrates",
+                            "Lipids",
+                            "Proteins",
+                            "Vitamins"
                         ],
                         "answer": 2,
-                        "explanation": "Certain bacteria (like Rhizobium) can convert atmospheric nitrogen into usable forms."
+                        "explanation": "Nitrogen is a key component of amino acids, which form proteins."
+                    },
+                    {
+                        "q": "Resin and turpentine are obtained primarily from:",
+                        "options": [
+                            "Angiosperms",
+                            "Pinus (Gymnosperms)",
+                            "Ferns",
+                            "Mosses"
+                        ],
+                        "answer": 1,
+                        "explanation": "Pine trees (Pinus) secrete resin which is refined into turpentine."
+                    },
+                    {
+                        "q": "Which layer of the atmosphere contains the ozone layer that protects plants from UV rays?",
+                        "options": [
+                            "Troposphere",
+                            "Stratosphere",
+                            "Mesosphere",
+                            "Thermosphere"
+                        ],
+                        "answer": 1,
+                        "explanation": "The ozone layer is mainly situated in the lower portion of the stratosphere."
+                    },
+                    {
+                        "q": "The process of transformation of atmospheric nitrogen into usable nitrogenous compounds is called:",
+                        "options": [
+                            "Nitrification",
+                            "Nitrogen fixation",
+                            "Denitrification",
+                            "Ammonification"
+                        ],
+                        "answer": 1,
+                        "explanation": "Nitrogen fixation makes inert atmospheric nitrogen biologically available."
+                    },
+                    {
+                        "q": "Plants synthesize protein from:",
+                        "options": [
+                            "Starch",
+                            "Sugar",
+                            "Amino acids",
+                            "Fatty acids"
+                        ],
+                        "answer": 2,
+                        "explanation": "Amino acids are the building blocks of proteins."
+                    },
+                    {
+                        "q": "An example of an insectivorous plant is:",
+                        "options": [
+                            "Cuscuta",
+                            "Pitcher plant",
+                            "Sandalwood",
+                            "Mistletoe"
+                        ],
+                        "answer": 1,
+                        "explanation": "The pitcher plant traps and digests insects to obtain nutrients like nitrogen."
+                    },
+                    {
+                        "q": "What causes the green color in plants?",
+                        "options": [
+                            "Phycoerythrin",
+                            "Chlorophyll",
+                            "Xanthophyll",
+                            "Carotene"
+                        ],
+                        "answer": 1,
+                        "explanation": "Chlorophyll reflects green light and dominates in leaves."
+                    },
+                    {
+                        "q": "Which of the following elements is a constituent of chlorophyll?",
+                        "options": [
+                            "Iron",
+                            "Magnesium",
+                            "Calcium",
+                            "Potassium"
+                        ],
+                        "answer": 1,
+                        "explanation": "Magnesium sits at the central core of the chlorophyll molecule."
+                    },
+                    {
+                        "q": "The female reproductive part of a plant is collectively called:",
+                        "options": [
+                            "Calyx",
+                            "Corolla",
+                            "Androecium",
+                            "Gynoecium"
+                        ],
+                        "answer": 3,
+                        "explanation": "Gynoecium consists of the carpels (pistils)."
+                    },
+                    {
+                        "q": "The outer waxy layer on the surface of leaves that reduces water loss is the:",
+                        "options": [
+                            "Epidermis",
+                            "Cuticle",
+                            "Cortex",
+                            "Endodermis"
+                        ],
+                        "answer": 1,
+                        "explanation": "The cuticle acts as a water-impermeable barrier."
+                    },
+                    {
+                        "q": "Penicillin is obtained from a:",
+                        "options": [
+                            "Bacterium",
+                            "Fungus",
+                            "Alga",
+                            "Virus"
+                        ],
+                        "answer": 1,
+                        "explanation": "Penicillin was originally derived from the fungus Penicillium."
+                    },
+                    {
+                        "q": "Which of these is a macronutrient for plants?",
+                        "options": [
+                            "Zinc",
+                            "Copper",
+                            "Nitrogen",
+                            "Boron"
+                        ],
+                        "answer": 2,
+                        "explanation": "Nitrogen, Phosphorus, and Potassium are the primary macronutrients."
+                    },
+                    {
+                        "q": "An example of a C4 plant is:",
+                        "options": [
+                            "Rice",
+                            "Wheat",
+                            "Maize (Corn)",
+                            "Potato"
+                        ],
+                        "answer": 2,
+                        "explanation": "Maize is adapted (via the C4 pathway) to efficiently fix carbon under high light and heat."
+                    },
+                    {
+                        "q": "A characteristic of ferns is the presence of coiled young leaves known as:",
+                        "options": [
+                            "Cones",
+                            "Crozisers (Fiddleheads)",
+                            "Sori",
+                            "Strobili"
+                        ],
+                        "answer": 1,
+                        "explanation": "Fiddleheads are the furled fronds of a young fern."
+                    },
+                    {
+                        "q": "Growing plants without soil, using mineral nutrient solutions in water is called:",
+                        "options": [
+                            "Aeroponics",
+                            "Hydroponics",
+                            "Aquaponics",
+                            "Geoponics"
+                        ],
+                        "answer": 1,
+                        "explanation": "Hydroponics uses water-based nutrient solutions instead of soil."
+                    }
+                ]
+            },
+            {
+                "category": "Plant Cell Biology (سیل بائیولوجی)",
+                "icon": "fa-microscope",
+                "questions": [
+                    {
+                        "q": "The outer protective covering of a plant stem is the:",
+                        "options": [
+                            "Cortex",
+                            "Epidermis",
+                            "Pith",
+                            "Pericycle"
+                        ],
+                        "answer": 1,
+                        "explanation": "The epidermis is the outermost layer of cells covering the stem, root, leaf, options: flower."
                     },
                     {
                         "q": "The study of internal structure of plants is called:",
@@ -43144,17 +43074,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "Plant anatomy is the study of the internal tissues and cells of plants."
-                    },
-                    {
-                        "q": "Gymnosperms literally means:",
-                        "options": [
-                            "Covered seeds",
-                            "Naked seeds",
-                            "Fruit bearers",
-                            "Flower bearers"
-                        ],
-                        "answer": 1,
-                        "explanation": "Originates from Greek 'gymnos' (naked) and 'sperma' (seed)."
                     },
                     {
                         "q": "Which cell organelle is known as the powerhouse of the cell?",
@@ -43179,59 +43098,131 @@ const mainQuizData =
                         "explanation": "A granum is a coin-like stack of thylakoid membranes in the chloroplast."
                     },
                     {
-                        "q": "Mosses belong to the group:",
+                        "q": "In binary fission, a cell divides into how many daughter cells?",
                         "options": [
-                            "Thallophyta",
-                            "Bryophyta",
-                            "Pteridophyta",
-                            "Gymnospermae"
-                        ],
-                        "answer": 1,
-                        "explanation": "Bryophytes include mosses, hornworts, and liverworts."
-                    },
-                    {
-                        "q": "The basic unit of classification is:",
-                        "options": [
-                            "Genus",
-                            "Species",
-                            "Family",
-                            "Order"
-                        ],
-                        "answer": 1,
-                        "explanation": "Species is the most basic rank in the taxonomic hierarchy."
-                    },
-                    {
-                        "q": "Which pigment gives yellow/orange color to fruits and flowers?",
-                        "options": [
-                            "Anthocyanin",
-                            "Carotenoids",
-                            "Chlorophyll",
-                            "Melanin"
-                        ],
-                        "answer": 1,
-                        "explanation": "Carotenoids are red, orange, or yellow pigments."
-                    },
-                    {
-                        "q": "A symbiotic association between fungi and algae is called a:",
-                        "options": [
-                            "Mycorrhiza",
-                            "Lichen",
-                            "Parasite",
-                            "Epiphyte"
-                        ],
-                        "answer": 1,
-                        "explanation": "A lichen is a composite organism arising from algae or cyanobacteria living among fungi."
-                    },
-                    {
-                        "q": "A plant that grows on another plant for support but is not parasitic is an:",
-                        "options": [
-                            "Epiphyte",
-                            "Endophyte",
-                            "Saprophyte",
-                            "Halophyte"
+                            "Two",
+                            "Four",
+                            "Eight",
+                            "Sixteen"
                         ],
                         "answer": 0,
-                        "explanation": "Epiphytes derive their moisture and nutrients from the air and rain."
+                        "explanation": "Binary meaning 'two', indicating division into two identical cells."
+                    },
+                    {
+                        "q": "Which organelle is responsible for protein synthesis?",
+                        "options": [
+                            "Lysosome",
+                            "Golgi apparatus",
+                            "Ribosome",
+                            "Endoplasmic reticulum"
+                        ],
+                        "answer": 2,
+                        "explanation": "Ribosomes translate mRNA into protein chains."
+                    },
+                    {
+                        "q": "Which part of the cell controls the entry and exit of molecules?",
+                        "options": [
+                            "Cell wall",
+                            "Plasma membrane",
+                            "Nucleus",
+                            "Ribosome"
+                        ],
+                        "answer": 1,
+                        "explanation": "The plasma membrane is semi-permeable and regulates molecular traffic."
+                    },
+                    {
+                        "q": "Which tissue provides mechanical strength to mature plant parts and contains dead cells?",
+                        "options": [
+                            "Parenchyma",
+                            "Collenchyma",
+                            "Sclerenchyma",
+                            "Chlorenchyma"
+                        ],
+                        "answer": 2,
+                        "explanation": "Sclerenchyma cells have thick, lignified walls and are mostly dead at maturity."
+                    },
+                    {
+                        "q": "Yeast represents which kingdom?",
+                        "options": [
+                            "Monera",
+                            "Protista",
+                            "Fungi",
+                            "Plantae"
+                        ],
+                        "answer": 2,
+                        "explanation": "Yeasts are single-celled microorganisms classified as fungi."
+                    },
+                    {
+                        "q": "Respiration in plants occurs:",
+                        "options": [
+                            "Only during the day",
+                            "Only during the night",
+                            "Continuously, day and night",
+                            "Only in leaves"
+                        ],
+                        "answer": 2,
+                        "explanation": "Cellular respiration occurs continuously in all living cells."
+                    },
+                    {
+                        "q": "Agar-agar, used in labs, is extracted from:",
+                        "options": [
+                            "Brown algae",
+                            "Red algae",
+                            "Green algae",
+                            "Fungi"
+                        ],
+                        "answer": 1,
+                        "explanation": "It is obtained from the cell walls of some species of red algae."
+                    },
+                    {
+                        "q": "Endosperm in angiosperms is typically:",
+                        "options": [
+                            "Haploid (n)",
+                            "Diploid (2n)",
+                            "Triploid (3n)",
+                            "Tetraploid (4n)"
+                        ],
+                        "answer": 2,
+                        "explanation": "It forms from the fusion of a sperm cell with two polar nuclei, resulting in a triploid cell."
+                    }
+                ]
+            },
+            {
+                "category": "Plant Anatomy & Morphology (پودوں کی بناوٹ)",
+                "icon": "fa-seedling",
+                "questions": [
+                    {
+                        "q": "Which part of the plant conducts water and dissolved minerals?",
+                        "options": [
+                            "Phloem",
+                            "Xylem",
+                            "Cambium",
+                            "Epidermis"
+                        ],
+                        "answer": 1,
+                        "explanation": "Xylem transports water and minerals from roots to stems and leaves."
+                    },
+                    {
+                        "q": "The first formed primary xylem elements are called:",
+                        "options": [
+                            "Metaxylem",
+                            "Protoxylem",
+                            "Cambium",
+                            "Phloem"
+                        ],
+                        "answer": 1,
+                        "explanation": "Protoxylem is the first formed primary xylem."
+                    },
+                    {
+                        "q": "The primary function of the root is:",
+                        "options": [
+                            "Photosynthesis",
+                            "Anchorage and absorption",
+                            "Reproduction",
+                            "Transpiration"
+                        ],
+                        "answer": 1,
+                        "explanation": "Roots anchor the plant and absorb water and dissolved minerals from the soil."
                     },
                     {
                         "q": "Wood is essentially composed of secondary:",
@@ -43243,28 +43234,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "Wood is legally defined as secondary xylem."
-                    },
-                    {
-                        "q": "Bamboo is a type of:",
-                        "options": [
-                            "Tree",
-                            "Shrub",
-                            "Herb",
-                            "Grass"
-                        ],
-                        "answer": 3,
-                        "explanation": "Bamboos are a group of woody perennial evergreen plants in the true grass family."
-                    },
-                    {
-                        "q": "The age of a tree can be determined by counting its:",
-                        "options": [
-                            "Leaves",
-                            "Branches",
-                            "Annual rings",
-                            "Roots"
-                        ],
-                        "answer": 2,
-                        "explanation": "Dendrochronology uses annual growth rings in wood to date physiological events."
                     },
                     {
                         "q": "Cuscuta (Dodder) is an example of a:",
@@ -43311,116 +43280,6 @@ const mainQuizData =
                         "explanation": "Without xylem and phloem, they cannot efficiently transport water/nutrients vertically."
                     },
                     {
-                        "q": "Which part of a flower becomes the fruit?",
-                        "options": [
-                            "Stigma",
-                            "Style",
-                            "Ovary",
-                            "Ovule"
-                        ],
-                        "answer": 2,
-                        "explanation": "After fertilization, the ovary swells and develops into a fruit."
-                    },
-                    {
-                        "q": "Which part of a flower becomes the seed?",
-                        "options": [
-                            "Ovary",
-                            "Ovule",
-                            "Pollen",
-                            "Sepal"
-                        ],
-                        "answer": 1,
-                        "explanation": "The fertilized ovule develops into a seed."
-                    },
-                    {
-                        "q": "The term 'flora' refers to:",
-                        "options": [
-                            "Animals of a region",
-                            "Plants of a region",
-                            "Microbes of a region",
-                            "Fossils of a region"
-                        ],
-                        "answer": 1,
-                        "explanation": "Flora is the naturally occurring plant life of a specific region."
-                    },
-                    {
-                        "q": "Plants use nitrates from the soil primarily to synthesize:",
-                        "options": [
-                            "Carbohydrates",
-                            "Lipids",
-                            "Proteins",
-                            "Vitamins"
-                        ],
-                        "answer": 2,
-                        "explanation": "Nitrogen is a key component of amino acids, which form proteins."
-                    },
-                    {
-                        "q": "Resin and turpentine are obtained primarily from:",
-                        "options": [
-                            "Angiosperms",
-                            "Pinus (Gymnosperms)",
-                            "Ferns",
-                            "Mosses"
-                        ],
-                        "answer": 1,
-                        "explanation": "Pine trees (Pinus) secrete resin which is refined into turpentine."
-                    },
-                    {
-                        "q": "Which layer of the atmosphere contains the ozone layer that protects plants from UV rays?",
-                        "options": [
-                            "Troposphere",
-                            "Stratosphere",
-                            "Mesosphere",
-                            "Thermosphere"
-                        ],
-                        "answer": 1,
-                        "explanation": "The ozone layer is mainly situated in the lower portion of the stratosphere."
-                    },
-                    {
-                        "q": "In binary fission, a cell divides into how many daughter cells?",
-                        "options": [
-                            "Two",
-                            "Four",
-                            "Eight",
-                            "Sixteen"
-                        ],
-                        "answer": 0,
-                        "explanation": "Binary meaning 'two', indicating division into two identical cells."
-                    },
-                    {
-                        "q": "Which organelle is responsible for protein synthesis?",
-                        "options": [
-                            "Lysosome",
-                            "Golgi apparatus",
-                            "Ribosome",
-                            "Endoplasmic reticulum"
-                        ],
-                        "answer": 2,
-                        "explanation": "Ribosomes translate mRNA into protein chains."
-                    },
-                    {
-                        "q": "The process of transformation of atmospheric nitrogen into usable nitrogenous compounds is called:",
-                        "options": [
-                            "Nitrification",
-                            "Nitrogen fixation",
-                            "Denitrification",
-                            "Ammonification"
-                        ],
-                        "answer": 1,
-                        "explanation": "Nitrogen fixation makes inert atmospheric nitrogen biologically available."
-                    },
-                    {
-                        "q": "Plants synthesize protein from:",
-                        "options": [
-                            "Starch",
-                            "Sugar",
-                            "Amino acids",
-                            "Fatty acids"
-                        ],
-                        "answer": 2,
-                        "explanation": "Amino acids are the building blocks of proteins."
-                    },
-                    {
                         "q": "What is the primary function of phloem?",
                         "options": [
                             "Transport of water",
@@ -43430,28 +43289,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "Phloem translocates soluble organic compounds made during photosynthesis."
-                    },
-                    {
-                        "q": "Which part of the cell controls the entry and exit of molecules?",
-                        "options": [
-                            "Cell wall",
-                            "Plasma membrane",
-                            "Nucleus",
-                            "Ribosome"
-                        ],
-                        "answer": 1,
-                        "explanation": "The plasma membrane is semi-permeable and regulates molecular traffic."
-                    },
-                    {
-                        "q": "A characteristic of gymnosperms is:",
-                        "options": [
-                            "They have flowers",
-                            "They produce naked seeds",
-                            "They have no vascular tissue",
-                            "They produce fruits"
-                        ],
-                        "answer": 1,
-                        "explanation": "Gymnosperms like pines produce seeds without enclosing them in a fruit."
                     },
                     {
                         "q": "The root system that develops from regions other than the radicle is called:",
@@ -43498,28 +43335,6 @@ const mainQuizData =
                         "explanation": "Roots extract water from the soil; leaves do not."
                     },
                     {
-                        "q": "An example of an insectivorous plant is:",
-                        "options": [
-                            "Cuscuta",
-                            "Pitcher plant",
-                            "Sandalwood",
-                            "Mistletoe"
-                        ],
-                        "answer": 1,
-                        "explanation": "The pitcher plant traps and digests insects to obtain nutrients like nitrogen."
-                    },
-                    {
-                        "q": "Which plant hormone is responsible for apical dominance?",
-                        "options": [
-                            "Auxin",
-                            "Cytokinin",
-                            "Gibberellin",
-                            "Abscisic acid"
-                        ],
-                        "answer": 0,
-                        "explanation": "Auxins maintain apical dominance by inhibiting the growth of lateral buds."
-                    },
-                    {
                         "q": "Which hormone is associated with stomatal closure under water stress?",
                         "options": [
                             "Indole acetic acid",
@@ -43531,37 +43346,452 @@ const mainQuizData =
                         "explanation": "ABA regulates plant water balance and prompts stomata to close during droughts."
                     },
                     {
-                        "q": "What causes the green color in plants?",
+                        "q": "Monocot plants have:",
                         "options": [
-                            "Phycoerythrin",
-                            "Chlorophyll",
+                            "Two seed leaves",
+                            "One seed leaf",
+                            "No seed leaves",
+                            "Three seed leaves"
+                        ],
+                        "answer": 1,
+                        "explanation": "Monocotyledons (monocots) contain a single embryonic leaf."
+                    },
+                    {
+                        "q": "Which plant part is responsible for the secondary growth (increase in girth)?",
+                        "options": [
+                            "Apical meristem",
+                            "Lateral meristem (Cambium)",
+                            "Intercalary meristem",
+                            "Permanent tissue"
+                        ],
+                        "answer": 1,
+                        "explanation": "The vascular cambium and cork cambium (lateral meristems) cause radial growth."
+                    },
+                    {
+                        "q": "Plants wilt due to lack of:",
+                        "options": [
+                            "Respiration",
+                            "Water (Turgor pressure)",
+                            "Photosynthesis",
+                            "Nutrients"
+                        ],
+                        "answer": 1,
+                        "explanation": "Loss of turgor pressure causes the leaves and stems to wilt."
+                    },
+                    {
+                        "q": "The symbiotic nitrogen fixation in legume root nodules is facilitated by:",
+                        "options": [
+                            "Azotobacter",
+                            "Rhizobium",
+                            "Clostridium",
+                            "Nostoc"
+                        ],
+                        "answer": 1,
+                        "explanation": "Rhizobium bacteria fix nitrogen in a symbiotic relationship with legumes."
+                    },
+                    {
+                        "q": "The evaporation of water from the stoma is called:",
+                        "options": [
+                            "Guttation",
+                            "Transpiration",
+                            "Respiration",
+                            "Perspiration"
+                        ],
+                        "answer": 1,
+                        "explanation": "Transpiration pulls water up from the roots via the xylem."
+                    }
+                ]
+            },
+            {
+                "category": "Plant Physiology (پودوں کے افعال)",
+                "icon": "fa-clover",
+                "questions": [
+                    {
+                        "q": "The process by which plants make their food is called:",
+                        "options": [
+                            "Respiration",
+                            "Transpiration",
+                            "Photosynthesis",
+                            "Digestion"
+                        ],
+                        "answer": 2,
+                        "explanation": "Photosynthesis is the process used by plants to convert light energy into chemical energy."
+                    },
+                    {
+                        "q": "The loss of water in the form of vapor from the aerial parts of a plant is:",
+                        "options": [
+                            "Evaporation",
+                            "Transpiration",
+                            "Guttation",
+                            "Exudation"
+                        ],
+                        "answer": 1,
+                        "explanation": "Transpiration is the process of water movement through a plant and its evaporation from aerial parts."
+                    },
+                    {
+                        "q": "Which gas is released during photosynthesis?",
+                        "options": [
+                            "Carbon dioxide",
+                            "Oxygen",
+                            "Nitrogen",
+                            "Methane"
+                        ],
+                        "answer": 1,
+                        "explanation": "Oxygen is released as a byproduct during photosynthesis."
+                    },
+                    {
+                        "q": "The green pigment in plants responsible for photosynthesis is:",
+                        "options": [
+                            "Carotene",
                             "Xanthophyll",
-                            "Carotene"
+                            "Chlorophyll",
+                            "Anthocyanin"
                         ],
-                        "answer": 1,
-                        "explanation": "Chlorophyll reflects green light and dominates in leaves."
+                        "answer": 2,
+                        "explanation": "Chlorophyll absorbs energy from light for photosynthesis."
                     },
                     {
-                        "q": "Which of the following elements is a constituent of chlorophyll?",
+                        "q": "Which plant hormone promotes fruit ripening?",
                         "options": [
-                            "Iron",
-                            "Magnesium",
-                            "Calcium",
-                            "Potassium"
-                        ],
-                        "answer": 1,
-                        "explanation": "Magnesium sits at the central core of the chlorophyll molecule."
-                    },
-                    {
-                        "q": "The female reproductive part of a plant is collectively called:",
-                        "options": [
-                            "Calyx",
-                            "Corolla",
-                            "Androecium",
-                            "Gynoecium"
+                            "Auxin",
+                            "Gibberellin",
+                            "Cytokinin",
+                            "Ethylene"
                         ],
                         "answer": 3,
-                        "explanation": "Gynoecium consists of the carpels (pistils)."
+                        "explanation": "Ethylene is a gaseous plant hormone famous for promoting fruit ripening."
+                    },
+                    {
+                        "q": "The movement of plants towards light is termed:",
+                        "options": [
+                            "Geotropism",
+                            "Phototropism",
+                            "Hydrotropism",
+                            "Chemotropism"
+                        ],
+                        "answer": 1,
+                        "explanation": "Phototropism is the directional growth of an organism in response to light."
+                    },
+                    {
+                        "q": "The age of a tree can be determined by counting its:",
+                        "options": [
+                            "Leaves",
+                            "Branches",
+                            "Annual rings",
+                            "Roots"
+                        ],
+                        "answer": 2,
+                        "explanation": "Dendrochronology uses annual growth rings in wood to date physiological events."
+                    },
+                    {
+                        "q": "Which plant hormone is responsible for apical dominance?",
+                        "options": [
+                            "Auxin",
+                            "Cytokinin",
+                            "Gibberellin",
+                            "Abscisic acid"
+                        ],
+                        "answer": 0,
+                        "explanation": "Auxins maintain apical dominance by inhibiting the growth of lateral buds."
+                    }
+                ]
+            },
+            {
+                "category": "Plant Taxonomy & Systematics (درجہ بندی)",
+                "icon": "fa-diagram-project",
+                "questions": [
+                    {
+                        "q": "Which of the following is considered a 'living fossil'?",
+                        "options": [
+                            "Neem",
+                            "Ginkgo biloba",
+                            "Banyan",
+                            "Peepal"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ginkgo biloba is an ancient species of tree with no close living relatives."
+                    },
+                    {
+                        "q": "The reproductive part of an angiosperm is the:",
+                        "options": [
+                            "Leaf",
+                            "Stem",
+                            "Root",
+                            "Flower"
+                        ],
+                        "answer": 3,
+                        "explanation": "Flowers are the reproductive organs of angiosperms (flowering plants)."
+                    },
+                    {
+                        "q": "Seedless vascular plants are called:",
+                        "options": [
+                            "Bryophytes",
+                            "Gymnosperms",
+                            "Pteridophytes",
+                            "Angiosperms"
+                        ],
+                        "answer": 2,
+                        "explanation": "Pteridophytes, like ferns, have vascular tissue but reproduce via spores, not seeds."
+                    },
+                    {
+                        "q": "Gymnosperms literally means:",
+                        "options": [
+                            "Covered seeds",
+                            "Naked seeds",
+                            "Fruit bearers",
+                            "Flower bearers"
+                        ],
+                        "answer": 1,
+                        "explanation": "Originates from Greek 'gymnos' (naked) and 'sperma' (seed)."
+                    },
+                    {
+                        "q": "Mosses belong to the group:",
+                        "options": [
+                            "Thallophyta",
+                            "Bryophyta",
+                            "Pteridophyta",
+                            "Gymnospermae"
+                        ],
+                        "answer": 1,
+                        "explanation": "Bryophytes include mosses, hornworts, and liverworts."
+                    },
+                    {
+                        "q": "The basic unit of classification is:",
+                        "options": [
+                            "Genus",
+                            "Species",
+                            "Family",
+                            "Order"
+                        ],
+                        "answer": 1,
+                        "explanation": "Species is the most basic rank in the taxonomic hierarchy."
+                    },
+                    {
+                        "q": "Bamboo is a type of:",
+                        "options": [
+                            "Tree",
+                            "Shrub",
+                            "Herb",
+                            "Grass"
+                        ],
+                        "answer": 3,
+                        "explanation": "Bamboos are a group of woody perennial evergreen plants in the true grass family."
+                    },
+                    {
+                        "q": "A characteristic of gymnosperms is:",
+                        "options": [
+                            "They have flowers",
+                            "They produce naked seeds",
+                            "They have no vascular tissue",
+                            "They produce fruits"
+                        ],
+                        "answer": 1,
+                        "explanation": "Gymnosperms like pines produce seeds without enclosing them in a fruit."
+                    },
+                    {
+                        "q": "Angiosperms are divided into:",
+                        "options": [
+                            "Monocots and Dicots",
+                            "Bryophytes and Pteridophytes",
+                            "Algae and Fungi",
+                            "Ferns and Mosses"
+                        ],
+                        "answer": 0,
+                        "explanation": "They are divided based on possessing one or two cotyledons."
+                    },
+                    {
+                        "q": "The plant kingdom's equivalent to amphibians are the:",
+                        "options": [
+                            "Bryophytes",
+                            "Algae",
+                            "Gymnosperms",
+                            "Angiosperms"
+                        ],
+                        "answer": 0,
+                        "explanation": "Bryophytes need water to reproduce, linking aquatic and terrestrial life."
+                    },
+                    {
+                        "q": "The male gametophyte of an angiosperm is the:",
+                        "options": [
+                            "Embryo sac",
+                            "Pollen grain",
+                            "Seed",
+                            "Ovule"
+                        ],
+                        "answer": 1,
+                        "explanation": "The pollen grain houses the male gametes."
+                    }
+                ]
+            },
+            {
+                "category": "Plant Genetics & Evolution (جینیات اور ارتقاء)",
+                "icon": "fa-dna",
+                "questions": [
+                    {
+                        "q": "Golden rice is a genetically modified crop enhanced with:",
+                        "options": [
+                            "Vitamin C",
+                            "Vitamin A (beta-carotene)",
+                            "Iron",
+                            "Calcium"
+                        ],
+                        "answer": 1,
+                        "explanation": "It is engineered to biosynthesize beta-carotene."
+                    }
+                ]
+            },
+            {
+                "category": "Plant Ecology (ماحولیاتی تعلق)",
+                "icon": "fa-tree",
+                "questions": [
+                    {
+                        "q": "The study of relationships between plants and their environment is called:",
+                        "options": [
+                            "Plant Taxonomy",
+                            "Plant Physiology",
+                            "Plant Anatomy",
+                            "Plant Ecology"
+                        ],
+                        "answer": 3,
+                        "explanation": "Plant ecology studies the interaction between plants and their environment."
+                    },
+                    {
+                        "q": "Plants growing in dry regions are called:",
+                        "options": [
+                            "Hydrophytes",
+                            "Mesophytes",
+                            "Xerophytes",
+                            "Halophytes"
+                        ],
+                        "answer": 2,
+                        "explanation": "Xerophytes are adapted to survive in environments with little liquid water."
+                    },
+                    {
+                        "q": "Plants growing in saline soil are known as:",
+                        "options": [
+                            "Halophytes",
+                            "Xerophytes",
+                            "Hydrophytes",
+                            "Mesophytes"
+                        ],
+                        "answer": 0,
+                        "explanation": "Halophytes are plants adapted to grow in high salinity environments."
+                    },
+                    {
+                        "q": "The term 'flora' refers to:",
+                        "options": [
+                            "Animals of a region",
+                            "Plants of a region",
+                            "Microbes of a region",
+                            "Fossils of a region"
+                        ],
+                        "answer": 1,
+                        "explanation": "Flora is the naturally occurring plant life of a specific region."
+                    },
+                    {
+                        "q": "What is tissue culture?",
+                        "options": [
+                            "Growing tissues in vivo",
+                            "Growing plant cells/tissues in an artificial nutrient medium",
+                            "Farming of woven linen",
+                            "Grafting two stems"
+                        ],
+                        "answer": 1,
+                        "explanation": "It involves cultivating exact plant clones in sterile environments."
+                    }
+                ]
+            },
+            {
+                "category": "Plant Reproduction (تولید اور افزائش)",
+                "icon": "fa-spa",
+                "questions": [
+                    {
+                        "q": "In plants, the male reproductive organ is:",
+                        "options": [
+                            "Pistil",
+                            "Stamen",
+                            "Carpel",
+                            "Sepal"
+                        ],
+                        "answer": 1,
+                        "explanation": "The stamen is the pollen-producing reproductive organ of a flower."
+                    },
+                    {
+                        "q": "Which part of the seed stores food for the developing embryo?",
+                        "options": [
+                            "Seed coat",
+                            "Cotyledon",
+                            "Radicle",
+                            "Plumule"
+                        ],
+                        "answer": 1,
+                        "explanation": "Cotyledons (seed leaves) often store food for the seedling."
+                    },
+                    {
+                        "q": "The shedding of leaves, flowers, or fruits is called:",
+                        "options": [
+                            "Abscission",
+                            "Transpiration",
+                            "Guttation",
+                            "Vernalization"
+                        ],
+                        "answer": 0,
+                        "explanation": "Abscission is the shedding of various parts of an organism."
+                    },
+                    {
+                        "q": "Which is the largest flower in the world?",
+                        "options": [
+                            "Lotus",
+                            "Rafflesia",
+                            "Sunflower",
+                            "Titan Arum"
+                        ],
+                        "answer": 1,
+                        "explanation": "Rafflesia arnoldii produces the largest individual flower on Earth."
+                    },
+                    {
+                        "q": "Pollen grains are produced in:",
+                        "options": [
+                            "Ovary",
+                            "Anther",
+                            "Stigma",
+                            "Style"
+                        ],
+                        "answer": 1,
+                        "explanation": "The anther, a part of the stamen, contains pollen sacs where pollen grains develop."
+                    },
+                    {
+                        "q": "Which pigment gives yellow/orange color to fruits and flowers?",
+                        "options": [
+                            "Anthocyanin",
+                            "Carotenoids",
+                            "Chlorophyll",
+                            "Melanin"
+                        ],
+                        "answer": 1,
+                        "explanation": "Carotenoids are red, orange, or yellow pigments."
+                    },
+                    {
+                        "q": "Which part of a flower becomes the fruit?",
+                        "options": [
+                            "Stigma",
+                            "Style",
+                            "Ovary",
+                            "Ovule"
+                        ],
+                        "answer": 2,
+                        "explanation": "After fertilization, the ovary swells and develops into a fruit."
+                    },
+                    {
+                        "q": "Which part of a flower becomes the seed?",
+                        "options": [
+                            "Ovary",
+                            "Ovule",
+                            "Pollen",
+                            "Sepal"
+                        ],
+                        "answer": 1,
+                        "explanation": "The fertilized ovule develops into a seed."
                     },
                     {
                         "q": "The transfer of pollen grains from anther to stigma is termed:",
@@ -43619,72 +43849,6 @@ const mainQuizData =
                         "explanation": "Germination is the process of a seed developing into a seedling."
                     },
                     {
-                        "q": "Angiosperms are divided into:",
-                        "options": [
-                            "Monocots and Dicots",
-                            "Bryophytes and Pteridophytes",
-                            "Algae and Fungi",
-                            "Ferns and Mosses"
-                        ],
-                        "answer": 0,
-                        "explanation": "They are divided based on possessing one or two cotyledons."
-                    },
-                    {
-                        "q": "Monocot plants have:",
-                        "options": [
-                            "Two seed leaves",
-                            "One seed leaf",
-                            "No seed leaves",
-                            "Three seed leaves"
-                        ],
-                        "answer": 1,
-                        "explanation": "Monocotyledons (monocots) contain a single embryonic leaf."
-                    },
-                    {
-                        "q": "Which tissue provides mechanical strength to mature plant parts and contains dead cells?",
-                        "options": [
-                            "Parenchyma",
-                            "Collenchyma",
-                            "Sclerenchyma",
-                            "Chlorenchyma"
-                        ],
-                        "answer": 2,
-                        "explanation": "Sclerenchyma cells have thick, lignified walls and are mostly dead at maturity."
-                    },
-                    {
-                        "q": "The outer waxy layer on the surface of leaves that reduces water loss is the:",
-                        "options": [
-                            "Epidermis",
-                            "Cuticle",
-                            "Cortex",
-                            "Endodermis"
-                        ],
-                        "answer": 1,
-                        "explanation": "The cuticle acts as a water-impermeable barrier."
-                    },
-                    {
-                        "q": "Yeast represents which kingdom?",
-                        "options": [
-                            "Monera",
-                            "Protista",
-                            "Fungi",
-                            "Plantae"
-                        ],
-                        "answer": 2,
-                        "explanation": "Yeasts are single-celled microorganisms classified as fungi."
-                    },
-                    {
-                        "q": "Penicillin is obtained from a:",
-                        "options": [
-                            "Bacterium",
-                            "Fungus",
-                            "Alga",
-                            "Virus"
-                        ],
-                        "answer": 1,
-                        "explanation": "Penicillin was originally derived from the fungus Penicillium."
-                    },
-                    {
                         "q": "Mushroom is an example of:",
                         "options": [
                             "Algae",
@@ -43696,28 +43860,6 @@ const mainQuizData =
                         "explanation": "A mushroom is the fleshy, spore-bearing fruiting body of a fungus."
                     },
                     {
-                        "q": "The plant kingdom's equivalent to amphibians are the:",
-                        "options": [
-                            "Bryophytes",
-                            "Algae",
-                            "Gymnosperms",
-                            "Angiosperms"
-                        ],
-                        "answer": 0,
-                        "explanation": "Bryophytes need water to reproduce, linking aquatic and terrestrial life."
-                    },
-                    {
-                        "q": "Which plant part is responsible for the secondary growth (increase in girth)?",
-                        "options": [
-                            "Apical meristem",
-                            "Lateral meristem (Cambium)",
-                            "Intercalary meristem",
-                            "Permanent tissue"
-                        ],
-                        "answer": 1,
-                        "explanation": "The vascular cambium and cork cambium (lateral meristems) cause radial growth."
-                    },
-                    {
                         "q": "Plants that complete their life cycle in one season are:",
                         "options": [
                             "Annuals",
@@ -43727,39 +43869,6 @@ const mainQuizData =
                         ],
                         "answer": 0,
                         "explanation": "Annuals go from seed to seed in one growing season."
-                    },
-                    {
-                        "q": "Lactic acid fermentation of cabbage yields:",
-                        "options": [
-                            "Vinegar",
-                            "Sauerkraut",
-                            "Cheese",
-                            "Ethanol"
-                        ],
-                        "answer": 1,
-                        "explanation": "Cabbage is fermented by lactic acid bacteria to produce sauerkraut."
-                    },
-                    {
-                        "q": "Which of these is a macronutrient for plants?",
-                        "options": [
-                            "Zinc",
-                            "Copper",
-                            "Nitrogen",
-                            "Boron"
-                        ],
-                        "answer": 2,
-                        "explanation": "Nitrogen, Phosphorus, and Potassium are the primary macronutrients."
-                    },
-                    {
-                        "q": "Plants wilt due to lack of:",
-                        "options": [
-                            "Respiration",
-                            "Water (Turgor pressure)",
-                            "Photosynthesis",
-                            "Nutrients"
-                        ],
-                        "answer": 1,
-                        "explanation": "Loss of turgor pressure causes the leaves and stems to wilt."
                     },
                     {
                         "q": "What is photoperiodism?",
@@ -43784,61 +43893,6 @@ const mainQuizData =
                         "explanation": "They require long periods of uninterrupted darkness to flower."
                     },
                     {
-                        "q": "An example of a C4 plant is:",
-                        "options": [
-                            "Rice",
-                            "Wheat",
-                            "Maize (Corn)",
-                            "Potato"
-                        ],
-                        "answer": 2,
-                        "explanation": "Maize is adapted (via the C4 pathway) to efficiently fix carbon under high light and heat."
-                    },
-                    {
-                        "q": "Respiration in plants occurs:",
-                        "options": [
-                            "Only during the day",
-                            "Only during the night",
-                            "Continuously, day and night",
-                            "Only in leaves"
-                        ],
-                        "answer": 2,
-                        "explanation": "Cellular respiration occurs continuously in all living cells."
-                    },
-                    {
-                        "q": "The symbiotic nitrogen fixation in legume root nodules is facilitated by:",
-                        "options": [
-                            "Azotobacter",
-                            "Rhizobium",
-                            "Clostridium",
-                            "Nostoc"
-                        ],
-                        "answer": 1,
-                        "explanation": "Rhizobium bacteria fix nitrogen in a symbiotic relationship with legumes."
-                    },
-                    {
-                        "q": "Golden rice is a genetically modified crop enhanced with:",
-                        "options": [
-                            "Vitamin C",
-                            "Vitamin A (beta-carotene)",
-                            "Iron",
-                            "Calcium"
-                        ],
-                        "answer": 1,
-                        "explanation": "It is engineered to biosynthesize beta-carotene."
-                    },
-                    {
-                        "q": "What is tissue culture?",
-                        "options": [
-                            "Growing tissues in vivo",
-                            "Growing plant cells/tissues in an artificial nutrient medium",
-                            "Farming of woven linen",
-                            "Grafting two stems"
-                        ],
-                        "answer": 1,
-                        "explanation": "It involves cultivating exact plant clones in sterile environments."
-                    },
-                    {
                         "q": "The edible part of a strawberry is the fleshy:",
                         "options": [
                             "Ovary",
@@ -43850,15 +43904,98 @@ const mainQuizData =
                         "explanation": "The receptacle enlarges and becomes fleshy, holding the true fruits (the tiny 'seeds')."
                     },
                     {
-                        "q": "The evaporation of water from the stoma is called:",
+                        "q": "The branch of science dealing with the study of fruits is called:",
                         "options": [
-                            "Guttation",
-                            "Transpiration",
-                            "Respiration",
-                            "Perspiration"
+                            "Pomology",
+                            "Olericulture",
+                            "Floriculture",
+                            "Silviculture"
+                        ],
+                        "answer": 0,
+                        "explanation": "Pomology focuses on the cultivation of fruit."
+                    }
+                ]
+            },
+            {
+                "category": "Plant Pathology (پودوں کی بیماریاں)",
+                "icon": "fa-virus",
+                "questions": [
+                    {
+                        "q": "What is the study of fungi called?",
+                        "options": [
+                            "Mycology",
+                            "Phycology",
+                            "Cytology",
+                            "Histology"
+                        ],
+                        "answer": 0,
+                        "explanation": "Mycology is the branch of biology concerned with the study of fungi."
+                    },
+                    {
+                        "q": "Fungi belong to which kingdom?",
+                        "options": [
+                            "Plantae",
+                            "Animalia",
+                            "Fungi",
+                            "Monera"
+                        ],
+                        "answer": 2,
+                        "explanation": "Fungi have their own kingdom, separate from plants and animals."
+                    },
+                    {
+                        "q": "Nitrogen fixation is performed primarily by:",
+                        "options": [
+                            "Algae",
+                            "Fungi",
+                            "Bacteria",
+                            "Viruses"
+                        ],
+                        "answer": 2,
+                        "explanation": "Certain bacteria (like Rhizobium) can convert atmospheric nitrogen into usable forms."
+                    },
+                    {
+                        "q": "A symbiotic association between fungi and algae is called a:",
+                        "options": [
+                            "Mycorrhiza",
+                            "Lichen",
+                            "Parasite",
+                            "Epiphyte"
                         ],
                         "answer": 1,
-                        "explanation": "Transpiration pulls water up from the roots via the xylem."
+                        "explanation": "A lichen is a composite organism arising from algae or cyanobacteria living among fungi."
+                    },
+                    {
+                        "q": "Lactic acid fermentation of cabbage yields:",
+                        "options": [
+                            "Vinegar",
+                            "Sauerkraut",
+                            "Cheese",
+                            "Ethanol"
+                        ],
+                        "answer": 1,
+                        "explanation": "Cabbage is fermented by lactic acid bacteria to produce sauerkraut."
+                    }
+                ]
+            },
+            {
+                "category": "Economic Botany (معاشی نباتیات)",
+                "icon": "fa-cash-register",
+                "questions": []
+            },
+            {
+                "category": "Phycology & Mycology (کائی اور فنگس)",
+                "icon": "fa-mushroom",
+                "questions": [
+                    {
+                        "q": "The branch of botany that studies algae is:",
+                        "options": [
+                            "Phycology",
+                            "Mycology",
+                            "Bryology",
+                            "Pteridology"
+                        ],
+                        "answer": 0,
+                        "explanation": "Phycology is the scientific study of algae."
                     },
                     {
                         "q": "Kelps belong to the group of:",
@@ -43881,74 +44018,13 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "Phycoerythrin gives red algae its distinctive color."
-                    },
-                    {
-                        "q": "Agar-agar, used in labs, is extracted from:",
-                        "options": [
-                            "Brown algae",
-                            "Red algae",
-                            "Green algae",
-                            "Fungi"
-                        ],
-                        "answer": 1,
-                        "explanation": "It is obtained from the cell walls of some species of red algae."
-                    },
-                    {
-                        "q": "A characteristic of ferns is the presence of coiled young leaves known as:",
-                        "options": [
-                            "Cones",
-                            "Crozisers (Fiddleheads)",
-                            "Sori",
-                            "Strobili"
-                        ],
-                        "answer": 1,
-                        "explanation": "Fiddleheads are the furled fronds of a young fern."
-                    },
-                    {
-                        "q": "The male gametophyte of an angiosperm is the:",
-                        "options": [
-                            "Embryo sac",
-                            "Pollen grain",
-                            "Seed",
-                            "Ovule"
-                        ],
-                        "answer": 1,
-                        "explanation": "The pollen grain houses the male gametes."
-                    },
-                    {
-                        "q": "Endosperm in angiosperms is typically:",
-                        "options": [
-                            "Haploid (n)",
-                            "Diploid (2n)",
-                            "Triploid (3n)",
-                            "Tetraploid (4n)"
-                        ],
-                        "answer": 2,
-                        "explanation": "It forms from the fusion of a sperm cell with two polar nuclei, resulting in a triploid cell."
-                    },
-                    {
-                        "q": "The branch of science dealing with the study of fruits is called:",
-                        "options": [
-                            "Pomology",
-                            "Olericulture",
-                            "Floriculture",
-                            "Silviculture"
-                        ],
-                        "answer": 0,
-                        "explanation": "Pomology focuses on the cultivation of fruit."
-                    },
-                    {
-                        "q": "Growing plants without soil, using mineral nutrient solutions in water is called:",
-                        "options": [
-                            "Aeroponics",
-                            "Hydroponics",
-                            "Aquaponics",
-                            "Geoponics"
-                        ],
-                        "answer": 1,
-                        "explanation": "Hydroponics uses water-based nutrient solutions instead of soil."
                     }
                 ]
+            },
+            {
+                "category": "Plant Biotechnology (بایوٹیکنالوجی)",
+                "icon": "fa-flask-vial",
+                "questions": []
             }
         ]
     },
@@ -43957,8 +44033,8 @@ const mainQuizData =
         "icon": "fa-hippo",
         "subcategories": [
             {
-                "category": "General Zoology",
-                "icon": "fa-book",
+                "category": "Zoology (حیاتیات - جانوروں کا علم)",
+                "icon": "fa-hippo",
                 "questions": [
                     {
                         "q": "Zoology is primarily the study of:",
@@ -43972,83 +44048,6 @@ const mainQuizData =
                         "explanation": "Zoology is the branch of biology that relates to the animal kingdom."
                     },
                     {
-                        "q": "The basic unit of structure and function in animals is the:",
-                        "options": [
-                            "Organ",
-                            "Tissue",
-                            "Cell",
-                            "System"
-                        ],
-                        "answer": 2,
-                        "explanation": "The cell is the smallest unit of life."
-                    },
-                    {
-                        "q": "Animals without a backbone are called:",
-                        "options": [
-                            "Vertebrates",
-                            "Invertebrates",
-                            "Mammals",
-                            "Amphibians"
-                        ],
-                        "answer": 1,
-                        "explanation": "Invertebrates are animals that neither possess nor develop a vertebral column."
-                    },
-                    {
-                        "q": "Which of the following belongs to the Phylum Arthropoda?",
-                        "options": [
-                            "Starfish",
-                            "Earthworm",
-                            "Spider",
-                            "Snail"
-                        ],
-                        "answer": 2,
-                        "explanation": "Arthropods have jointed appendages and exoskeletons (e.g., insects, spiders)."
-                    },
-                    {
-                        "q": "The study of insects is called:",
-                        "options": [
-                            "Ornithology",
-                            "Entomology",
-                            "Ichthyology",
-                            "Herpetology"
-                        ],
-                        "answer": 1,
-                        "explanation": "Entomology comes from the Greek 'entomon', meaning 'notched' or 'insect'."
-                    },
-                    {
-                        "q": "The study of birds is termed:",
-                        "options": [
-                            "Ornithology",
-                            "Herpetology",
-                            "Malacology",
-                            "Mammalogy"
-                        ],
-                        "answer": 0,
-                        "explanation": "Ornithology is a branch of zoology that concerns the 'methodological study and consequent knowledge of birds'."
-                    },
-                    {
-                        "q": "Amphibians have a heart with how many chambers?",
-                        "options": [
-                            "Two",
-                            "Three",
-                            "Four",
-                            "Five"
-                        ],
-                        "answer": 1,
-                        "explanation": "Amphibian hearts have two atria and one ventricle."
-                    },
-                    {
-                        "q": "Mammals have a heart with how many chambers?",
-                        "options": [
-                            "Two",
-                            "Three",
-                            "Four",
-                            "Five"
-                        ],
-                        "answer": 2,
-                        "explanation": "Mammals and birds have a four-chambered heart (two atria, two ventricles)."
-                    },
-                    {
                         "q": "Which animal is a marsupial?",
                         "options": [
                             "Platypus",
@@ -44060,17 +44059,6 @@ const mainQuizData =
                         "explanation": "Marsupials carry their young in a pouch, like kangaroos and koalas."
                     },
                     {
-                        "q": "Which of the following is an egg-laying mammal (monotreme)?",
-                        "options": [
-                            "Opossum",
-                            "Platypus",
-                            "Bat",
-                            "Dolphin"
-                        ],
-                        "answer": 1,
-                        "explanation": "The platypus and echidnas are the only living monotremes."
-                    },
-                    {
                         "q": "The process by which a caterpillar transforms into a butterfly is called:",
                         "options": [
                             "Moulting",
@@ -44080,50 +44068,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "Metamorphosis represents profound physical changes after birth or hatching."
-                    },
-                    {
-                        "q": "Which blood cells are responsible for carrying oxygen in vertebrates?",
-                        "options": [
-                            "Leukocytes",
-                            "Thrombocytes",
-                            "Erythrocytes",
-                            "Lymphocytes"
-                        ],
-                        "answer": 2,
-                        "explanation": "Erythrocytes (Red Blood Cells) contain hemoglobin which binds to oxygen."
-                    },
-                    {
-                        "q": "Which is the largest organ in the human body?",
-                        "options": [
-                            "Heart",
-                            "Liver",
-                            "Skin",
-                            "Brain"
-                        ],
-                        "answer": 2,
-                        "explanation": "The skin is the body's largest organ by surface area and weight."
-                    },
-                    {
-                        "q": "What is the largest internal organ in humans?",
-                        "options": [
-                            "Lungs",
-                            "Liver",
-                            "Kidney",
-                            "Stomach"
-                        ],
-                        "answer": 1,
-                        "explanation": "The liver is the heaviest internal organ and the largest gland."
-                    },
-                    {
-                        "q": "The structural and functional unit of the nervous system is the:",
-                        "options": [
-                            "Nephron",
-                            "Neuron",
-                            "Alveolus",
-                            "Sarcomere"
-                        ],
-                        "answer": 1,
-                        "explanation": "Neurons are cells responsible for receiving sensory input and sending commands."
                     },
                     {
                         "q": "Which part of the brain controls balance and coordination?",
@@ -44146,138 +44090,6 @@ const mainQuizData =
                         ],
                         "answer": 2,
                         "explanation": "Warm-blooded animals (Endotherms) maintain strict body temperature."
-                    },
-                    {
-                        "q": "Which Phylum includes animals with a water vascular system and tube feet?",
-                        "options": [
-                            "Mollusca",
-                            "Arthropoda",
-                            "Echinodermata",
-                            "Annelida"
-                        ],
-                        "answer": 2,
-                        "explanation": "Echinoderms (like starfish) utilize a unique water vascular system."
-                    },
-                    {
-                        "q": "The excretory organs of insects are called:",
-                        "options": [
-                            "Nephridia",
-                            "Malpighian tubules",
-                            "Kidneys",
-                            "Flame cells"
-                        ],
-                        "answer": 1,
-                        "explanation": "Malpighian tubules remove nitrogenous wastes from the insect's hemolymph."
-                    },
-                    {
-                        "q": "A characteristic feature of birds is the presence of:",
-                        "options": [
-                            "Hair",
-                            "Scales all over",
-                            "Feathers",
-                            "Mammary glands"
-                        ],
-                        "answer": 2,
-                        "explanation": "Feathers are unique epidermal growths that define birds."
-                    },
-                    {
-                        "q": "Which group of animals possesses mammary glands?",
-                        "options": [
-                            "Reptiles",
-                            "Birds",
-                            "Mammals",
-                            "Amphibians"
-                        ],
-                        "answer": 2,
-                        "explanation": "Mammals are distinguished by females possessing mammary glands to feed young."
-                    },
-                    {
-                        "q": "The primary organ of gaseous exchange in fishes is:",
-                        "options": [
-                            "Lungs",
-                            "Skin",
-                            "Gills",
-                            "Trachea"
-                        ],
-                        "answer": 2,
-                        "explanation": "Gills extract dissolved oxygen from water and excrete carbon dioxide."
-                    },
-                    {
-                        "q": "What covers the body of reptiles?",
-                        "options": [
-                            "Feathers",
-                            "Hair",
-                            "Dry scales",
-                            "Moist skin"
-                        ],
-                        "answer": 2,
-                        "explanation": "Reptiles have skin covered in scales or scutes."
-                    },
-                    {
-                        "q": "Which is the longest bone in the human body?",
-                        "options": [
-                            "Tibia",
-                            "Humerus",
-                            "Femur",
-                            "Fibula"
-                        ],
-                        "answer": 2,
-                        "explanation": "The femur (thigh bone) is the longest and strongest bone."
-                    },
-                    {
-                        "q": "Where does digestion primarily begin in the human digestive system?",
-                        "options": [
-                            "Stomach",
-                            "Small intestine",
-                            "Mouth",
-                            "Esophagus"
-                        ],
-                        "answer": 2,
-                        "explanation": "Digestion starts in the mouth where salivary amylase breaks down starches."
-                    },
-                    {
-                        "q": "Which organ produces bile?",
-                        "options": [
-                            "Gallbladder",
-                            "Liver",
-                            "Pancreas",
-                            "Stomach"
-                        ],
-                        "answer": 1,
-                        "explanation": "The liver secretes bile which helps in digesting fats."
-                    },
-                    {
-                        "q": "In humans, the normal number of chromosomes in a somatic cell is:",
-                        "options": [
-                            "23",
-                            "46",
-                            "22",
-                            "44"
-                        ],
-                        "answer": 1,
-                        "explanation": "Humans have 23 pairs, giving a total of 46 chromosomes."
-                    },
-                    {
-                        "q": "What limits the size of arthropods on land?",
-                        "options": [
-                            "Their heavy skeleton",
-                            "The need to molt a rigid exoskeleton",
-                            "Lack of lungs",
-                            "Poor vision"
-                        ],
-                        "answer": 1,
-                        "explanation": "To grow, they must molt their heavy exoskeleton, rendering them temporarily vulnerable and physically unsupported."
-                    },
-                    {
-                        "q": "The study of animal behavior is called:",
-                        "options": [
-                            "Ecology",
-                            "Ethology",
-                            "Evolution",
-                            "Embryology"
-                        ],
-                        "answer": 1,
-                        "explanation": "Ethology is the scientific study of animal behavior, usually with a focus on behavior under natural conditions."
                     },
                     {
                         "q": "What is an animal called that eats both plants and meat?",
@@ -44324,149 +44136,6 @@ const mainQuizData =
                         "explanation": "The Blue Whale can reach nearly 30 meters in length and weigh over 170 tonnes."
                     },
                     {
-                        "q": "What is the group of mammals called that have a pouch?",
-                        "options": [
-                            "Placentals",
-                            "Monotremes",
-                            "Marsupials",
-                            "Primates"
-                        ],
-                        "answer": 2,
-                        "explanation": "Marsupials carry and nurse their young in a pouch."
-                    },
-                    {
-                        "q": "What is the main function of white blood cells?",
-                        "options": [
-                            "Transport oxygen",
-                            "Clot blood",
-                            "Fight infection",
-                            "Transport nutrients"
-                        ],
-                        "answer": 2,
-                        "explanation": "White blood cells or leukocytes are part of the immune system."
-                    },
-                    {
-                        "q": "A characteristic shared by all chordates at some stage in life is a:",
-                        "options": [
-                            "Vertebral column",
-                            "Notochord",
-                            "Hair",
-                            "Four-chambered heart"
-                        ],
-                        "answer": 1,
-                        "explanation": "All chordates feature a notochord during embryonic development."
-                    },
-                    {
-                        "q": "The scientific name for the human species is:",
-                        "options": [
-                            "Homo erectus",
-                            "Homo habilis",
-                            "Homo sapiens",
-                            "Australopithecus afarensis"
-                        ],
-                        "answer": 2,
-                        "explanation": "Sapiens translates to 'wise'."
-                    },
-                    {
-                        "q": "Which phylum is characterized by a segmented body like an earthworm?",
-                        "options": [
-                            "Nematoda",
-                            "Platyhelminthes",
-                            "Annelida",
-                            "Mollusca"
-                        ],
-                        "answer": 2,
-                        "explanation": "Annelids are formally called ringed or segmented worms."
-                    },
-                    {
-                        "q": "Tapeworms belong to which phylum?",
-                        "options": [
-                            "Annelida",
-                            "Platyhelminthes",
-                            "Nematoda",
-                            "Arthropoda"
-                        ],
-                        "answer": 1,
-                        "explanation": "Platyhelminthes consists of flatworms."
-                    },
-                    {
-                        "q": "Which is a characteristic of amphibians?",
-                        "options": [
-                            "Dry, scaly skin",
-                            "Amniotic eggs",
-                            "Moist, glandular skin",
-                            "Endothermy"
-                        ],
-                        "answer": 2,
-                        "explanation": "Amphibians generally rely on their moist skin for partial gas exchange."
-                    },
-                    {
-                        "q": "In the mammalian eye, the light-sensitive inner surface is the:",
-                        "options": [
-                            "Cornea",
-                            "Lens",
-                            "Retina",
-                            "Iris"
-                        ],
-                        "answer": 2,
-                        "explanation": "The retina transforms light into neural signals via photoreceptors."
-                    },
-                    {
-                        "q": "Which of these is a function of the lymphatic system?",
-                        "options": [
-                            "Pumping blood",
-                            "Immune defense and fluid balance",
-                            "Digesting fats entirely",
-                            "Excreting urea"
-                        ],
-                        "answer": 1,
-                        "explanation": "It returns fluid to the bloodstream and houses immune cells."
-                    },
-                    {
-                        "q": "The process of shedding an exoskeleton is called:",
-                        "options": [
-                            "Guttation",
-                            "Moulting (Ecdysis)",
-                            "Metamorphosis",
-                            "Pupation"
-                        ],
-                        "answer": 1,
-                        "explanation": "Ecdysis allows arthropods to grow."
-                    },
-                    {
-                        "q": "Bivalves (like clams) belong to which Phylum?",
-                        "options": [
-                            "Arthropoda",
-                            "Echinodermata",
-                            "Mollusca",
-                            "Annelida"
-                        ],
-                        "answer": 2,
-                        "explanation": "Mollusca includes bivalves, gastropods, and cephalopods."
-                    },
-                    {
-                        "q": "What is the primary function of insulin in mammals?",
-                        "options": [
-                            "Increase heart rate",
-                            "Lower blood glucose",
-                            "Raise blood glucose",
-                            "Digest proteins"
-                        ],
-                        "answer": 1,
-                        "explanation": "Insulin promotes the absorption of glucose into cells."
-                    },
-                    {
-                        "q": "What is the name of the pigment responsible for oxygen storage in muscle tissue?",
-                        "options": [
-                            "Hemoglobin",
-                            "Myoglobin",
-                            "Melanin",
-                            "Chlorophyll"
-                        ],
-                        "answer": 1,
-                        "explanation": "Myoglobin binds oxygen in muscle cells."
-                    },
-                    {
                         "q": "Which group includes octopuses and squids?",
                         "options": [
                             "Gastropods",
@@ -44489,39 +44158,6 @@ const mainQuizData =
                         "explanation": "Under modern systems, Domain is above Kingdom (Eukarya contains the Animal Kingdom)."
                     },
                     {
-                        "q": "A specialized stomach compartment used by ruminants to ferment plant matter is the:",
-                        "options": [
-                            "Crop",
-                            "Gizzard",
-                            "Rumen",
-                            "Caecum"
-                        ],
-                        "answer": 2,
-                        "explanation": "The rumen contains microbes that break down cellulose."
-                    },
-                    {
-                        "q": "Which of these animals exhibits radial symmetry?",
-                        "options": [
-                            "Human",
-                            "Frog",
-                            "Starfish",
-                            "Earthworm"
-                        ],
-                        "answer": 2,
-                        "explanation": "Adult echinoderms like starfish exhibit secondary radial symmetry."
-                    },
-                    {
-                        "q": "What is the study of tissues called?",
-                        "options": [
-                            "Cytology",
-                            "Histology",
-                            "Morphology",
-                            "Anatomy"
-                        ],
-                        "answer": 1,
-                        "explanation": "Histology is the microscopic study of plant and animal tissues."
-                    },
-                    {
                         "q": "Which animal has the heaviest brain?",
                         "options": [
                             "Human",
@@ -44533,17 +44169,6 @@ const mainQuizData =
                         "explanation": "The sperm whale has the largest and heaviest brain of any animal, weighing up to 9 kg."
                     },
                     {
-                        "q": "Which is the only mammal that can truly fly?",
-                        "options": [
-                            "Flying squirrel",
-                            "Bat",
-                            "Lemur",
-                            "Colugo"
-                        ],
-                        "answer": 1,
-                        "explanation": "Bats are the only mammals naturally capable of true and sustained flight."
-                    },
-                    {
                         "q": "Animals that are active during the night are known as:",
                         "options": [
                             "Diurnal",
@@ -44553,39 +44178,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "Nocturnal animals are active primarily during the night."
-                    },
-                    {
-                        "q": "What is the process by which birds lose their feathers?",
-                        "options": [
-                            "Moulting",
-                            "Preening",
-                            "Shedding",
-                            "Fledging"
-                        ],
-                        "answer": 0,
-                        "explanation": "Moulting in birds replaces worn feathers with new ones."
-                    },
-                    {
-                        "q": "Which of the following has a three-chambered heart?",
-                        "options": [
-                            "Crocodile",
-                            "Fish",
-                            "Frog",
-                            "Pigeon"
-                        ],
-                        "answer": 2,
-                        "explanation": "Amphibians like frogs have two atria and one ventricle."
-                    },
-                    {
-                        "q": "The skeleton of sharks is made entirely of:",
-                        "options": [
-                            "Bone",
-                            "Cartilage",
-                            "Chitin",
-                            "Keratin"
-                        ],
-                        "answer": 1,
-                        "explanation": "Sharks are cartilaginous fish (Chondrichthyes)."
                     },
                     {
                         "q": "What do we call the young of a frog?",
@@ -44610,83 +44202,6 @@ const mainQuizData =
                         "explanation": "Oysters and some other molluscs produce pearls as a defense mechanism against irritants."
                     },
                     {
-                        "q": "What is the largest living bird?",
-                        "options": [
-                            "Emu",
-                            "Ostrich",
-                            "Albatross",
-                            "Penguin"
-                        ],
-                        "answer": 1,
-                        "explanation": "The ostrich is the largest and heaviest living bird species."
-                    },
-                    {
-                        "q": "The respiratory organ of an earthworm is its:",
-                        "options": [
-                            "Gills",
-                            "Lungs",
-                            "Skin",
-                            "Trachea"
-                        ],
-                        "answer": 2,
-                        "explanation": "Earthworms breathe through their moist skin."
-                    },
-                    {
-                        "q": "Which group of animals is known for having a radially symmetrical body plan as adults?",
-                        "options": [
-                            "Arthropods",
-                            "Annelids",
-                            "Echinoderms",
-                            "Chordates"
-                        ],
-                        "answer": 2,
-                        "explanation": "Echinoderms (like starfish) have five-point radial symmetry."
-                    },
-                    {
-                        "q": "In human males, the sex chromosomes are:",
-                        "options": [
-                            "XX",
-                            "XY",
-                            "YY",
-                            "XO"
-                        ],
-                        "answer": 1,
-                        "explanation": "Males have one X and one Y chromosome."
-                    },
-                    {
-                        "q": "The study of fossils to determine the structure and evolution of extinct animals is:",
-                        "options": [
-                            "Phylogeny",
-                            "Ontogeny",
-                            "Paleontology",
-                            "Ecology"
-                        ],
-                        "answer": 2,
-                        "explanation": "Paleontology studies life that existed prior to the Holocene Epoch."
-                    },
-                    {
-                        "q": "Which disease is caused by the Plasmodium parasite?",
-                        "options": [
-                            "Dengue",
-                            "Malaria",
-                            "Typhoid",
-                            "Cholera"
-                        ],
-                        "answer": 1,
-                        "explanation": "Malaria is a mosquito-borne infectious disease caused by Plasmodium."
-                    },
-                    {
-                        "q": "The organ that stores urine before it is excreted is the:",
-                        "options": [
-                            "Kidney",
-                            "Ureter",
-                            "Urinary Bladder",
-                            "Urethra"
-                        ],
-                        "answer": 2,
-                        "explanation": "The bladder stores urine from the kidneys."
-                    },
-                    {
                         "q": "Which of the following animals does not have red blood?",
                         "options": [
                             "Snail",
@@ -44709,28 +44224,6 @@ const mainQuizData =
                         "explanation": "Enamel on the teeth is the hardest and most mineralized substance in the body."
                     },
                     {
-                        "q": "An animal that lives on or in another organism and harms it is a:",
-                        "options": [
-                            "Symbiont",
-                            "Parasite",
-                            "Commensal",
-                            "Saprophyte"
-                        ],
-                        "answer": 1,
-                        "explanation": "A parasite benefits at the expense of the host."
-                    },
-                    {
-                        "q": "Which part of the cell is known as the 'suicide bag'?",
-                        "options": [
-                            "Ribosome",
-                            "Lysosome",
-                            "Golgi body",
-                            "Nucleus"
-                        ],
-                        "answer": 1,
-                        "explanation": "Lysosomes contain digestive enzymes that can break down the cell itself if released."
-                    },
-                    {
                         "q": "How many chambers does a cockroach's heart have?",
                         "options": [
                             "3",
@@ -44742,17 +44235,6 @@ const mainQuizData =
                         "explanation": "Cockroaches possess an elongated tube-like heart with 13 chambers."
                     },
                     {
-                        "q": "Which of these is NOT a mammal?",
-                        "options": [
-                            "Dolphin",
-                            "Whale",
-                            "Shark",
-                            "Bat"
-                        ],
-                        "answer": 2,
-                        "explanation": "Sharks are cartilaginous fish."
-                    },
-                    {
                         "q": "The venom of a cobra primarily attacks the:",
                         "options": [
                             "Digestive system",
@@ -44762,17 +44244,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "Cobra venom is highly neurotoxic, causing paralysis."
-                    },
-                    {
-                        "q": "Insects have how many pairs of legs?",
-                        "options": [
-                            "Two",
-                            "Three",
-                            "Four",
-                            "Five"
-                        ],
-                        "answer": 1,
-                        "explanation": "All true insects have six legs (three pairs)."
                     },
                     {
                         "q": "Which is the fastest land animal?",
@@ -44830,39 +44301,6 @@ const mainQuizData =
                         "explanation": "Vitamin C is chemically known as L-ascorbic acid."
                     },
                     {
-                        "q": "Which is the smallest bone in the human body?",
-                        "options": [
-                            "Incus",
-                            "Malleus",
-                            "Stapes",
-                            "Phalanx"
-                        ],
-                        "answer": 2,
-                        "explanation": "The stapes (stirrup bone) in the middle ear is the smallest bone."
-                    },
-                    {
-                        "q": "Animals that lay eggs are called:",
-                        "options": [
-                            "Viviparous",
-                            "Oviparous",
-                            "Marsupials",
-                            "Placentals"
-                        ],
-                        "answer": 1,
-                        "explanation": "Oviparous animals lay eggs, with little or no other embryonic development within the mother."
-                    },
-                    {
-                        "q": "Which bird can fly backwards?",
-                        "options": [
-                            "Hummingbird",
-                            "Swift",
-                            "Kingfisher",
-                            "Woodpecker"
-                        ],
-                        "answer": 0,
-                        "explanation": "Hummingbirds have a unique wing structure allowing them to hover and fly backwards."
-                    },
-                    {
                         "q": "How many teeth does an adult human typically have?",
                         "options": [
                             "28",
@@ -44896,17 +44334,6 @@ const mainQuizData =
                         "explanation": "The skin synthesizes Vitamin D when exposed to UVB rays."
                     },
                     {
-                        "q": "Where are red blood cells produced in an adult human?",
-                        "options": [
-                            "Liver",
-                            "Bone marrow",
-                            "Spleen",
-                            "Heart"
-                        ],
-                        "answer": 1,
-                        "explanation": "Hematopoiesis primarily occurs in the red bone marrow."
-                    },
-                    {
                         "q": "Which animal has the best hearing?",
                         "options": [
                             "Dog",
@@ -44916,28 +44343,6 @@ const mainQuizData =
                         ],
                         "answer": 2,
                         "explanation": "Certain moths (like the greater wax moth) have the highest recorded frequency hearing, evolved to evade bats."
-                    },
-                    {
-                        "q": "The term 'Endemic' in biology implies a species is:",
-                        "options": [
-                            "Extinct globally",
-                            "Found everywhere",
-                            "Native to and restricted to a certain area",
-                            "Migratory"
-                        ],
-                        "answer": 2,
-                        "explanation": "Endemic species are unique to a defined geographic location."
-                    },
-                    {
-                        "q": "A symbiotic relationship where both species benefit is called:",
-                        "options": [
-                            "Commensalism",
-                            "Parasitism",
-                            "Mutualism",
-                            "Amensalism"
-                        ],
-                        "answer": 2,
-                        "explanation": "Mutualism yields an interspecific cooperation benefiting both."
                     },
                     {
                         "q": "What is the primary function of platelets?",
@@ -44962,39 +44367,6 @@ const mainQuizData =
                         "explanation": "The pituitary gland controls the functions of many other endocrine glands."
                     },
                     {
-                        "q": "What connects muscle to bone?",
-                        "options": [
-                            "Ligament",
-                            "Tendon",
-                            "Cartilage",
-                            "Fascia"
-                        ],
-                        "answer": 1,
-                        "explanation": "Tendons are tough bands of fibrous connective tissue connecting muscle to bone."
-                    },
-                    {
-                        "q": "What connects bone to bone?",
-                        "options": [
-                            "Tendon",
-                            "Ligament",
-                            "Nerve",
-                            "Skin"
-                        ],
-                        "answer": 1,
-                        "explanation": "Ligaments connect bones to other bones in joints."
-                    },
-                    {
-                        "q": "Sponges belong to which animal phylum?",
-                        "options": [
-                            "Cnidaria",
-                            "Porifera",
-                            "Annelida",
-                            "Mollusca"
-                        ],
-                        "answer": 1,
-                        "explanation": "Porifera means 'pore bearing'."
-                    },
-                    {
                         "q": "What type of vision do humans have?",
                         "options": [
                             "Monocular vision",
@@ -45006,15 +44378,142 @@ const mainQuizData =
                         "explanation": "Binocular vision allows for depth perception by using both eyes together."
                     },
                     {
-                        "q": "A change in DNA sequence is known as a:",
+                        "q": "The protein that makes up hair, nails, and horns is:",
                         "options": [
-                            "Transcription",
-                            "Translation",
-                            "Mutation",
-                            "Replication"
+                            "Collagen",
+                            "Elastin",
+                            "Keratin",
+                            "Actin"
                         ],
                         "answer": 2,
-                        "explanation": "Mutation is a permanent alteration in the DNA sequence."
+                        "explanation": "Keratin is the structural material making up the outer layer of human skin and nails/hair."
+                    }
+                ]
+            },
+            {
+                "category": "Animal Cell Biology (سیل بائیولوجی)",
+                "icon": "fa-microscope",
+                "questions": [
+                    {
+                        "q": "The basic unit of structure and function in animals is the:",
+                        "options": [
+                            "Organ",
+                            "Tissue",
+                            "Cell",
+                            "System"
+                        ],
+                        "answer": 2,
+                        "explanation": "The cell is the smallest unit of life."
+                    },
+                    {
+                        "q": "Which blood cells are responsible for carrying oxygen in vertebrates?",
+                        "options": [
+                            "Leukocytes",
+                            "Thrombocytes",
+                            "Erythrocytes",
+                            "Lymphocytes"
+                        ],
+                        "answer": 2,
+                        "explanation": "Erythrocytes (Red Blood Cells) contain hemoglobin which binds to oxygen."
+                    },
+                    {
+                        "q": "The structural and functional unit of the nervous system is the:",
+                        "options": [
+                            "Nephron",
+                            "Neuron",
+                            "Alveolus",
+                            "Sarcomere"
+                        ],
+                        "answer": 1,
+                        "explanation": "Neurons are cells responsible for receiving sensory input and sending commands."
+                    },
+                    {
+                        "q": "In humans, the normal number of chromosomes in a somatic cell is:",
+                        "options": [
+                            "23",
+                            "46",
+                            "22",
+                            "44"
+                        ],
+                        "answer": 1,
+                        "explanation": "Humans have 23 pairs, giving a total of 46 chromosomes."
+                    },
+                    {
+                        "q": "What is the main function of white blood cells?",
+                        "options": [
+                            "Transport oxygen",
+                            "Clot blood",
+                            "Fight infection",
+                            "Transport nutrients"
+                        ],
+                        "answer": 2,
+                        "explanation": "White blood cells or leukocytes are part of the immune system."
+                    },
+                    {
+                        "q": "Which of these is a function of the lymphatic system?",
+                        "options": [
+                            "Pumping blood",
+                            "Immune defense and fluid balance",
+                            "Digesting fats entirely",
+                            "Excreting urea"
+                        ],
+                        "answer": 1,
+                        "explanation": "It returns fluid to the bloodstream and houses immune cells."
+                    },
+                    {
+                        "q": "What is the primary function of insulin in mammals?",
+                        "options": [
+                            "Increase heart rate",
+                            "Lower blood glucose",
+                            "Raise blood glucose",
+                            "Digest proteins"
+                        ],
+                        "answer": 1,
+                        "explanation": "Insulin promotes the absorption of glucose into cells."
+                    },
+                    {
+                        "q": "What is the name of the pigment responsible for oxygen storage in muscle tissue?",
+                        "options": [
+                            "Hemoglobin",
+                            "Myoglobin",
+                            "Melanin",
+                            "Chlorophyll"
+                        ],
+                        "answer": 1,
+                        "explanation": "Myoglobin binds oxygen in muscle cells."
+                    },
+                    {
+                        "q": "A specialized stomach compartment used by ruminants to ferment plant matter is the:",
+                        "options": [
+                            "Crop",
+                            "Gizzard",
+                            "Rumen",
+                            "Caecum"
+                        ],
+                        "answer": 2,
+                        "explanation": "The rumen contains microbes that break down cellulose."
+                    },
+                    {
+                        "q": "Which part of the cell is known as the 'suicide bag'?",
+                        "options": [
+                            "Ribosome",
+                            "Lysosome",
+                            "Golgi body",
+                            "Nucleus"
+                        ],
+                        "answer": 1,
+                        "explanation": "Lysosomes contain digestive enzymes that can break down the cell itself if released."
+                    },
+                    {
+                        "q": "Where are red blood cells produced in an adult human?",
+                        "options": [
+                            "Liver",
+                            "Bone marrow",
+                            "Spleen",
+                            "Heart"
+                        ],
+                        "answer": 1,
+                        "explanation": "Hematopoiesis primarily occurs in the red bone marrow."
                     },
                     {
                         "q": "Which cell division process results in gametes (sperm/egg)?",
@@ -45026,17 +44525,553 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "Meiosis reduces the chromosome number by half to create haploid gametes."
-                    },
+                    }
+                ]
+            },
+            {
+                "category": "Animal Physiology (اعضاء کے افعال)",
+                "icon": "fa-bone",
+                "questions": [
                     {
-                        "q": "The protein that makes up hair, nails, and horns is:",
+                        "q": "Where does digestion primarily begin in the human digestive system?",
                         "options": [
-                            "Collagen",
-                            "Elastin",
-                            "Keratin",
-                            "Actin"
+                            "Stomach",
+                            "Small intestine",
+                            "Mouth",
+                            "Esophagus"
                         ],
                         "answer": 2,
-                        "explanation": "Keratin is the structural material making up the outer layer of human skin and nails/hair."
+                        "explanation": "Digestion starts in the mouth where salivary amylase breaks down starches."
+                    },
+                    {
+                        "q": "What connects muscle to bone?",
+                        "options": [
+                            "Ligament",
+                            "Tendon",
+                            "Cartilage",
+                            "Fascia"
+                        ],
+                        "answer": 1,
+                        "explanation": "Tendons are tough bands of fibrous connective tissue connecting muscle to bone."
+                    }
+                ]
+            },
+            {
+                "category": "Animal Anatomy & Histology (ساخت اور بافتیں)",
+                "icon": "fa-locust",
+                "questions": [
+                    {
+                        "q": "Animals without a backbone are called:",
+                        "options": [
+                            "Vertebrates",
+                            "Invertebrates",
+                            "Mammals",
+                            "Amphibians"
+                        ],
+                        "answer": 1,
+                        "explanation": "Invertebrates are animals that neither possess nor develop a vertebral column."
+                    },
+                    {
+                        "q": "Which of the following belongs to the Phylum Arthropoda?",
+                        "options": [
+                            "Starfish",
+                            "Earthworm",
+                            "Spider",
+                            "Snail"
+                        ],
+                        "answer": 2,
+                        "explanation": "Arthropods have jointed appendages and exoskeletons (e.g., insects, spiders)."
+                    },
+                    {
+                        "q": "Which is the largest organ in the human body?",
+                        "options": [
+                            "Heart",
+                            "Liver",
+                            "Skin",
+                            "Brain"
+                        ],
+                        "answer": 2,
+                        "explanation": "The skin is the body's largest organ by surface area and weight."
+                    },
+                    {
+                        "q": "What is the largest internal organ in humans?",
+                        "options": [
+                            "Lungs",
+                            "Liver",
+                            "Kidney",
+                            "Stomach"
+                        ],
+                        "answer": 1,
+                        "explanation": "The liver is the heaviest internal organ and the largest gland."
+                    },
+                    {
+                        "q": "The excretory organs of insects are called:",
+                        "options": [
+                            "Nephridia",
+                            "Malpighian tubules",
+                            "Kidneys",
+                            "Flame cells"
+                        ],
+                        "answer": 1,
+                        "explanation": "Malpighian tubules remove nitrogenous wastes from the insect's hemolymph."
+                    },
+                    {
+                        "q": "The primary organ of gaseous exchange in fishes is:",
+                        "options": [
+                            "Lungs",
+                            "Skin",
+                            "Gills",
+                            "Trachea"
+                        ],
+                        "answer": 2,
+                        "explanation": "Gills extract dissolved oxygen from water and excrete carbon dioxide."
+                    },
+                    {
+                        "q": "Which is the longest bone in the human body?",
+                        "options": [
+                            "Tibia",
+                            "Humerus",
+                            "Femur",
+                            "Fibula"
+                        ],
+                        "answer": 2,
+                        "explanation": "The femur (thigh bone) is the longest and strongest bone."
+                    },
+                    {
+                        "q": "Which organ produces bile?",
+                        "options": [
+                            "Gallbladder",
+                            "Liver",
+                            "Pancreas",
+                            "Stomach"
+                        ],
+                        "answer": 1,
+                        "explanation": "The liver secretes bile which helps in digesting fats."
+                    },
+                    {
+                        "q": "What limits the size of arthropods on land?",
+                        "options": [
+                            "Their heavy skeleton",
+                            "The need to molt a rigid exoskeleton",
+                            "Lack of lungs",
+                            "Poor vision"
+                        ],
+                        "answer": 1,
+                        "explanation": "To grow, they must molt their heavy exoskeleton, rendering them temporarily vulnerable and physically unsupported."
+                    },
+                    {
+                        "q": "The process of shedding an exoskeleton is called:",
+                        "options": [
+                            "Guttation",
+                            "Moulting (Ecdysis)",
+                            "Metamorphosis",
+                            "Pupation"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ecdysis allows arthropods to grow."
+                    },
+                    {
+                        "q": "What is the study of tissues called?",
+                        "options": [
+                            "Cytology",
+                            "Histology",
+                            "Morphology",
+                            "Anatomy"
+                        ],
+                        "answer": 1,
+                        "explanation": "Histology is the microscopic study of plant and animal tissues."
+                    },
+                    {
+                        "q": "The skeleton of sharks is made entirely of:",
+                        "options": [
+                            "Bone",
+                            "Cartilage",
+                            "Chitin",
+                            "Keratin"
+                        ],
+                        "answer": 1,
+                        "explanation": "Sharks are cartilaginous fish (Chondrichthyes)."
+                    },
+                    {
+                        "q": "The respiratory organ of an earthworm is its:",
+                        "options": [
+                            "Gills",
+                            "Lungs",
+                            "Skin",
+                            "Trachea"
+                        ],
+                        "answer": 2,
+                        "explanation": "Earthworms breathe through their moist skin."
+                    },
+                    {
+                        "q": "The organ that stores urine before it is excreted is the:",
+                        "options": [
+                            "Kidney",
+                            "Ureter",
+                            "Urinary Bladder",
+                            "Urethra"
+                        ],
+                        "answer": 2,
+                        "explanation": "The bladder stores urine from the kidneys."
+                    },
+                    {
+                        "q": "An animal that lives on or in another organism and harms it is a:",
+                        "options": [
+                            "Symbiont",
+                            "Parasite",
+                            "Commensal",
+                            "Saprophyte"
+                        ],
+                        "answer": 1,
+                        "explanation": "A parasite benefits at the expense of the host."
+                    },
+                    {
+                        "q": "Which is the smallest bone in the human body?",
+                        "options": [
+                            "Incus",
+                            "Malleus",
+                            "Stapes",
+                            "Phalanx"
+                        ],
+                        "answer": 2,
+                        "explanation": "The stapes (stirrup bone) in the middle ear is the smallest bone."
+                    },
+                    {
+                        "q": "What connects bone to bone?",
+                        "options": [
+                            "Tendon",
+                            "Ligament",
+                            "Nerve",
+                            "Skin"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ligaments connect bones to other bones in joints."
+                    }
+                ]
+            },
+            {
+                "category": "Genetics & Heredity (جینیات اور وراثت)",
+                "icon": "fa-dna",
+                "questions": [
+                    {
+                        "q": "Which of the following is an egg-laying mammal (monotreme)?",
+                        "options": [
+                            "Opossum",
+                            "Platypus",
+                            "Bat",
+                            "Dolphin"
+                        ],
+                        "answer": 1,
+                        "explanation": "The platypus and echidnas are the only living monotremes."
+                    },
+                    {
+                        "q": "Which is a characteristic of amphibians?",
+                        "options": [
+                            "Dry, scaly skin",
+                            "Amniotic eggs",
+                            "Moist, glandular skin",
+                            "Endothermy"
+                        ],
+                        "answer": 2,
+                        "explanation": "Amphibians generally rely on their moist skin for partial gas exchange."
+                    },
+                    {
+                        "q": "In human males, the sex chromosomes are:",
+                        "options": [
+                            "XX",
+                            "XY",
+                            "YY",
+                            "XO"
+                        ],
+                        "answer": 1,
+                        "explanation": "Males have one X and one Y chromosome."
+                    },
+                    {
+                        "q": "A change in DNA sequence is known as a:",
+                        "options": [
+                            "Transcription",
+                            "Translation",
+                            "Mutation",
+                            "Replication"
+                        ],
+                        "answer": 2,
+                        "explanation": "Mutation is a permanent alteration in the DNA sequence."
+                    }
+                ]
+            },
+            {
+                "category": "Animal Taxonomy (Classification) (درجہ بندی)",
+                "icon": "fa-folder-tree",
+                "questions": [
+                    {
+                        "q": "Which Phylum includes animals with a water vascular system and tube feet?",
+                        "options": [
+                            "Mollusca",
+                            "Arthropoda",
+                            "Echinodermata",
+                            "Annelida"
+                        ],
+                        "answer": 2,
+                        "explanation": "Echinoderms (like starfish) utilize a unique water vascular system."
+                    },
+                    {
+                        "q": "Which phylum is characterized by a segmented body like an earthworm?",
+                        "options": [
+                            "Nematoda",
+                            "Platyhelminthes",
+                            "Annelida",
+                            "Mollusca"
+                        ],
+                        "answer": 2,
+                        "explanation": "Annelids are formally called ringed or segmented worms."
+                    },
+                    {
+                        "q": "Tapeworms belong to which phylum?",
+                        "options": [
+                            "Annelida",
+                            "Platyhelminthes",
+                            "Nematoda",
+                            "Arthropoda"
+                        ],
+                        "answer": 1,
+                        "explanation": "Platyhelminthes consists of flatworms."
+                    },
+                    {
+                        "q": "Bivalves (like clams) belong to which Phylum?",
+                        "options": [
+                            "Arthropoda",
+                            "Echinodermata",
+                            "Mollusca",
+                            "Annelida"
+                        ],
+                        "answer": 2,
+                        "explanation": "Mollusca includes bivalves, gastropods, and cephalopods."
+                    },
+                    {
+                        "q": "Sponges belong to which animal phylum?",
+                        "options": [
+                            "Cnidaria",
+                            "Porifera",
+                            "Annelida",
+                            "Mollusca"
+                        ],
+                        "answer": 1,
+                        "explanation": "Porifera means 'pore bearing'."
+                    }
+                ]
+            },
+            {
+                "category": "Invertebrates & Vertebrates (فقاریہ اور غیر فقاریہ)",
+                "icon": "fa-fish",
+                "questions": [
+                    {
+                        "q": "The study of insects is called:",
+                        "options": [
+                            "Ornithology",
+                            "Entomology",
+                            "Ichthyology",
+                            "Herpetology"
+                        ],
+                        "answer": 1,
+                        "explanation": "Entomology comes from the Greek 'entomon', meaning 'notched' or 'insect'."
+                    },
+                    {
+                        "q": "The study of birds is termed:",
+                        "options": [
+                            "Ornithology",
+                            "Herpetology",
+                            "Malacology",
+                            "Mammalogy"
+                        ],
+                        "answer": 0,
+                        "explanation": "Ornithology is a branch of zoology that concerns the 'methodological study and consequent knowledge of birds'."
+                    },
+                    {
+                        "q": "Amphibians have a heart with how many chambers?",
+                        "options": [
+                            "Two",
+                            "Three",
+                            "Four",
+                            "Five"
+                        ],
+                        "answer": 1,
+                        "explanation": "Amphibian hearts have two atria and one ventricle."
+                    },
+                    {
+                        "q": "Mammals have a heart with how many chambers?",
+                        "options": [
+                            "Two",
+                            "Three",
+                            "Four",
+                            "Five"
+                        ],
+                        "answer": 2,
+                        "explanation": "Mammals and birds have a four-chambered heart (two atria, two ventricles)."
+                    },
+                    {
+                        "q": "A characteristic feature of birds is the presence of:",
+                        "options": [
+                            "Hair",
+                            "Scales all over",
+                            "Feathers",
+                            "Mammary glands"
+                        ],
+                        "answer": 2,
+                        "explanation": "Feathers are unique epidermal growths that define birds."
+                    },
+                    {
+                        "q": "Which group of animals possesses mammary glands?",
+                        "options": [
+                            "Reptiles",
+                            "Birds",
+                            "Mammals",
+                            "Amphibians"
+                        ],
+                        "answer": 2,
+                        "explanation": "Mammals are distinguished by females possessing mammary glands to feed young."
+                    },
+                    {
+                        "q": "What covers the body of reptiles?",
+                        "options": [
+                            "Feathers",
+                            "Hair",
+                            "Dry scales",
+                            "Moist skin"
+                        ],
+                        "answer": 2,
+                        "explanation": "Reptiles have skin covered in scales or scutes."
+                    },
+                    {
+                        "q": "What is the group of mammals called that have a pouch?",
+                        "options": [
+                            "Placentals",
+                            "Monotremes",
+                            "Marsupials",
+                            "Primates"
+                        ],
+                        "answer": 2,
+                        "explanation": "Marsupials carry and nurse their young in a pouch."
+                    },
+                    {
+                        "q": "A characteristic shared by all chordates at some stage in life is a:",
+                        "options": [
+                            "Vertebral column",
+                            "Notochord",
+                            "Hair",
+                            "Four-chambered heart"
+                        ],
+                        "answer": 1,
+                        "explanation": "All chordates feature a notochord during embryonic development."
+                    },
+                    {
+                        "q": "In the mammalian eye, the light-sensitive inner surface is the:",
+                        "options": [
+                            "Cornea",
+                            "Lens",
+                            "Retina",
+                            "Iris"
+                        ],
+                        "answer": 2,
+                        "explanation": "The retina transforms light into neural signals via photoreceptors."
+                    },
+                    {
+                        "q": "Which of these animals exhibits radial symmetry?",
+                        "options": [
+                            "Human",
+                            "Frog",
+                            "Starfish",
+                            "Earthworm"
+                        ],
+                        "answer": 2,
+                        "explanation": "Adult echinoderms like starfish exhibit secondary radial symmetry."
+                    },
+                    {
+                        "q": "Which is the only mammal that can truly fly?",
+                        "options": [
+                            "Flying squirrel",
+                            "Bat",
+                            "Lemur",
+                            "Colugo"
+                        ],
+                        "answer": 1,
+                        "explanation": "Bats are the only mammals naturally capable of true and sustained flight."
+                    },
+                    {
+                        "q": "What is the process by which birds lose their feathers?",
+                        "options": [
+                            "Moulting",
+                            "Preening",
+                            "Shedding",
+                            "Fledging"
+                        ],
+                        "answer": 0,
+                        "explanation": "Moulting in birds replaces worn feathers with new ones."
+                    },
+                    {
+                        "q": "Which of the following has a three-chambered heart?",
+                        "options": [
+                            "Crocodile",
+                            "Fish",
+                            "Frog",
+                            "Pigeon"
+                        ],
+                        "answer": 2,
+                        "explanation": "Amphibians like frogs have two atria and one ventricle."
+                    },
+                    {
+                        "q": "What is the largest living bird?",
+                        "options": [
+                            "Emu",
+                            "Ostrich",
+                            "Albatross",
+                            "Penguin"
+                        ],
+                        "answer": 1,
+                        "explanation": "The ostrich is the largest and heaviest living bird species."
+                    },
+                    {
+                        "q": "Which group of animals is known for having a radially symmetrical body plan as adults?",
+                        "options": [
+                            "Arthropods",
+                            "Annelids",
+                            "Echinoderms",
+                            "Chordates"
+                        ],
+                        "answer": 2,
+                        "explanation": "Echinoderms (like starfish) have five-point radial symmetry."
+                    },
+                    {
+                        "q": "Which of these is NOT a mammal?",
+                        "options": [
+                            "Dolphin",
+                            "Whale",
+                            "Shark",
+                            "Bat"
+                        ],
+                        "answer": 2,
+                        "explanation": "Sharks are cartilaginous fish."
+                    },
+                    {
+                        "q": "Insects have how many pairs of legs?",
+                        "options": [
+                            "Two",
+                            "Three",
+                            "Four",
+                            "Five"
+                        ],
+                        "answer": 1,
+                        "explanation": "All true insects have six legs (three pairs)."
+                    },
+                    {
+                        "q": "Which bird can fly backwards?",
+                        "options": [
+                            "Hummingbird",
+                            "Swift",
+                            "Kingfisher",
+                            "Woodpecker"
+                        ],
+                        "answer": 0,
+                        "explanation": "Hummingbirds have a unique wing structure allowing them to hover and fly backwards."
                     },
                     {
                         "q": "What is the largest living reptile?",
@@ -45061,6 +45096,112 @@ const mainQuizData =
                         "explanation": "The 'immortal jellyfish' can revert to its polyp stage after reaching sexual maturity."
                     }
                 ]
+            },
+            {
+                "category": "Embryology (جنینیات - جنین کی نشوونما)",
+                "icon": "fa-egg",
+                "questions": [
+                    {
+                        "q": "Animals that lay eggs are called:",
+                        "options": [
+                            "Viviparous",
+                            "Oviparous",
+                            "Marsupials",
+                            "Placentals"
+                        ],
+                        "answer": 1,
+                        "explanation": "Oviparous animals lay eggs, with little or no other embryonic development within the mother."
+                    }
+                ]
+            },
+            {
+                "category": "Animal Ecology & Evolution (ماحولیات اور ارتقاء)",
+                "icon": "fa-mountain-sun",
+                "questions": [
+                    {
+                        "q": "The scientific name for the human species is:",
+                        "options": [
+                            "Homo erectus",
+                            "Homo habilis",
+                            "Homo sapiens",
+                            "Australopithecus afarensis"
+                        ],
+                        "answer": 2,
+                        "explanation": "Sapiens translates to 'wise'."
+                    },
+                    {
+                        "q": "The study of fossils to determine the structure and evolution of extinct animals is:",
+                        "options": [
+                            "Phylogeny",
+                            "Ontogeny",
+                            "Paleontology",
+                            "Ecology"
+                        ],
+                        "answer": 2,
+                        "explanation": "Paleontology studies life that existed prior to the Holocene Epoch."
+                    },
+                    {
+                        "q": "The term 'Endemic' in biology implies a species is:",
+                        "options": [
+                            "Extinct globally",
+                            "Found everywhere",
+                            "Native to and restricted to a certain area",
+                            "Migratory"
+                        ],
+                        "answer": 2,
+                        "explanation": "Endemic species are unique to a defined geographic location."
+                    },
+                    {
+                        "q": "A symbiotic relationship where both species benefit is called:",
+                        "options": [
+                            "Commensalism",
+                            "Parasitism",
+                            "Mutualism",
+                            "Amensalism"
+                        ],
+                        "answer": 2,
+                        "explanation": "Mutualism yields an interspecific cooperation benefiting both."
+                    }
+                ]
+            },
+            {
+                "category": "Parasitology (طفیلیات)",
+                "icon": "fa-bug",
+                "questions": [
+                    {
+                        "q": "Which disease is caused by the Plasmodium parasite?",
+                        "options": [
+                            "Dengue",
+                            "Malaria",
+                            "Typhoid",
+                            "Cholera"
+                        ],
+                        "answer": 1,
+                        "explanation": "Malaria is a mosquito-borne infectious disease caused by Plasmodium."
+                    }
+                ]
+            },
+            {
+                "category": "Ethology & Wildlife (رویے اور جنگلی حیات)",
+                "icon": "fa-paw",
+                "questions": [
+                    {
+                        "q": "The study of animal behavior is called:",
+                        "options": [
+                            "Ecology",
+                            "Ethology",
+                            "Evolution",
+                            "Embryology"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ethology is the scientific study of animal behavior, usually with a focus on behavior under natural conditions."
+                    }
+                ]
+            },
+            {
+                "category": "Zoogeography (دنیا میں تقسیم)",
+                "icon": "fa-earth-africa",
+                "questions": []
             }
         ]
     },
@@ -45069,8 +45210,8 @@ const mainQuizData =
         "icon": "fa-vial",
         "subcategories": [
             {
-                "category": "General Chemistry",
-                "icon": "fa-book",
+                "category": "Physical Chemistry (طبیعی کیمیا)",
+                "icon": "fa-flask",
                 "questions": [
                     {
                         "q": "What is the chemical symbol for Gold?",
@@ -45082,17 +45223,6 @@ const mainQuizData =
                         ],
                         "answer": 2,
                         "explanation": "Au (from Latin 'Aurum') is the chemical symbol for Gold."
-                    },
-                    {
-                        "q": "Which element has the atomic number 1?",
-                        "options": [
-                            "Helium",
-                            "Hydrogen",
-                            "Lithium",
-                            "Carbon"
-                        ],
-                        "answer": 1,
-                        "explanation": "Hydrogen is the first element in the periodic table."
                     },
                     {
                         "q": "What is the pH of pure water?",
@@ -45117,39 +45247,6 @@ const mainQuizData =
                         "explanation": "CO2 is commonly used to displace oxygen and smother fires."
                     },
                     {
-                        "q": "Acid turns blue litmus paper into which color?",
-                        "options": [
-                            "Green",
-                            "Yellow",
-                            "Red",
-                            "Purple"
-                        ],
-                        "answer": 2,
-                        "explanation": "Acids turn blue litmus red; bases turn red litmus blue."
-                    },
-                    {
-                        "q": "What is the chemical formula for Methane?",
-                        "options": [
-                            "CH4",
-                            "C2H6",
-                            "CO2",
-                            "H2O"
-                        ],
-                        "answer": 0,
-                        "explanation": "Methane is the simplest alkane with the formula CH4."
-                    },
-                    {
-                        "q": "Which metal is liquid at room temperature?",
-                        "options": [
-                            "Silver",
-                            "Mercury",
-                            "Copper",
-                            "Aluminum"
-                        ],
-                        "answer": 1,
-                        "explanation": "Mercury is the only metal that is liquid under standard conditions for temperature and pressure."
-                    },
-                    {
                         "q": "What is the process of a solid turning directly into gas?",
                         "options": [
                             "Evaporation",
@@ -45159,17 +45256,6 @@ const mainQuizData =
                         ],
                         "answer": 2,
                         "explanation": "Sublimation is the transition of a substance directly from the solid to the gas state."
-                    },
-                    {
-                        "q": "Who developed the first periodic table?",
-                        "options": [
-                            "Newton",
-                            "Dalton",
-                            "Mendeleev",
-                            "Lavoisier"
-                        ],
-                        "answer": 2,
-                        "explanation": "Dmitri Mendeleev published the first widely recognized periodic table in 1869."
                     },
                     {
                         "q": "What are the three main states of matter?",
@@ -45183,17 +45269,6 @@ const mainQuizData =
                         "explanation": "Matter typically exists in solid, liquid, or gas phases."
                     },
                     {
-                        "q": "What is the chemical name for Baking Soda?",
-                        "options": [
-                            "Sodium Carbonate",
-                            "Sodium Bicarbonate",
-                            "Calcium Carbonate",
-                            "Sodium Chloride"
-                        ],
-                        "answer": 1,
-                        "explanation": "Sodium bicarbonate (NaHCO3) is commonly known as baking soda."
-                    },
-                    {
                         "q": "Which gas is used to ripen fruits artificially?",
                         "options": [
                             "Ethylene",
@@ -45203,28 +45278,6 @@ const mainQuizData =
                         ],
                         "answer": 0,
                         "explanation": "Ethylene is a natural plant hormone that triggers ripening."
-                    },
-                    {
-                        "q": "What is the purest form of Carbon found in nature?",
-                        "options": [
-                            "Coal",
-                            "Graphite",
-                            "Diamond",
-                            "Fullerene"
-                        ],
-                        "answer": 2,
-                        "explanation": "Diamond is the purest crystalline form of carbon."
-                    },
-                    {
-                        "q": "Which acid is present in Lemons?",
-                        "options": [
-                            "Acetic Acid",
-                            "Citric Acid",
-                            "Lactic Acid",
-                            "Oxalic Acid"
-                        ],
-                        "answer": 1,
-                        "explanation": "Citrus fruits are rich in citric acid."
                     },
                     {
                         "q": "The chemical used in nail polish remover is?",
@@ -45238,17 +45291,6 @@ const mainQuizData =
                         "explanation": "Acetone is a powerful solvent used in nail polish removers."
                     },
                     {
-                        "q": "What is the main metal in Hemoglobin?",
-                        "options": [
-                            "Magnesium",
-                            "Iron",
-                            "Copper",
-                            "Zinc"
-                        ],
-                        "answer": 1,
-                        "explanation": "Iron (Fe) binds with oxygen in the blood."
-                    },
-                    {
                         "q": "Which element is common to all acids?",
                         "options": [
                             "Oxygen",
@@ -45258,17 +45300,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "Acids release hydrogen ions in aqueous solutions."
-                    },
-                    {
-                        "q": "What is the chemical name of Vitamin C?",
-                        "options": [
-                            "Citric Acid",
-                            "Ascorbic Acid",
-                            "Oxalic Acid",
-                            "Nitric Acid"
-                        ],
-                        "answer": 1,
-                        "explanation": "Ascorbic acid is the chemical name for Vitamin C."
                     },
                     {
                         "q": "Which gas is used to fill balloons for decoration?",
@@ -45293,15 +45324,230 @@ const mainQuizData =
                         "explanation": "Ag comes from the Latin word 'Argentum'."
                     },
                     {
-                        "q": "Which non-metal remains liquid at room temperature?",
+                        "q": "Which isotope of Hydrogen is used in Nuclear reactors?",
                         "options": [
-                            "Bromine",
-                            "Iodine",
-                            "Chlorine",
-                            "Phosphorus"
+                            "Protium",
+                            "Deuterium",
+                            "Tritium",
+                            "None of these"
+                        ],
+                        "answer": 1,
+                        "explanation": "Deuterium (heavy hydrogen) is used as a moderator in reactors."
+                    },
+                    {
+                        "q": "Vinegar is a solution of which acid?",
+                        "options": [
+                            "Formic Acid",
+                            "Acetic Acid",
+                            "Malic Acid",
+                            "Tartaric Acid"
+                        ],
+                        "answer": 1,
+                        "explanation": "Vinegar contains roughly 5-8% acetic acid."
+                    },
+                    {
+                        "q": "Which gas is used in the manufacture of Ammonia?",
+                        "options": [
+                            "Nitrogen",
+                            "Oxygen",
+                            "Helium",
+                            "Neon"
                         ],
                         "answer": 0,
-                        "explanation": "Bromine is the only non-metallic element that is liquid at standard conditions."
+                        "explanation": "The Haber process combines nitrogen and hydrogen to make ammonia."
+                    },
+                    {
+                        "q": "What is the main component of LPG (Liquefied Petroleum Gas)?",
+                        "options": [
+                            "Methane",
+                            "Ethane",
+                            "Propane and Butane",
+                            "Hydrogen"
+                        ],
+                        "answer": 2,
+                        "explanation": "LPG is primarily a mixture of propane and butane."
+                    },
+                    {
+                        "q": "Which gas is known as 'Dry Ice' in its solid state?",
+                        "options": [
+                            "Nitrogen",
+                            "Oxygen",
+                            "Carbon Dioxide",
+                            "Hydrogen"
+                        ],
+                        "answer": 2,
+                        "explanation": "Solid CO2 is called dry ice."
+                    },
+                    {
+                        "q": "What is the study of matter and its changes called?",
+                        "options": [
+                            "Physics",
+                            "Chemistry",
+                            "Biology",
+                            "Geology"
+                        ],
+                        "answer": 1,
+                        "explanation": "Chemistry is the science of substances and their interactions."
+                    },
+                    {
+                        "q": "Which gas is used in fluorescent tubes?",
+                        "options": [
+                            "Neon",
+                            "Argon and Mercury vapor",
+                            "Helium",
+                            "Oxygen"
+                        ],
+                        "answer": 1,
+                        "explanation": "The gas emits UV light which strikes the phosphor coating."
+                    },
+                    {
+                        "q": "What is the chemical formula for glucose?",
+                        "options": [
+                            "C6H12O6",
+                            "C12H22O11",
+                            "CH4",
+                            "CO2"
+                        ],
+                        "answer": 0,
+                        "explanation": "Glucose is a simple sugar (monosaccharide)."
+                    },
+                    {
+                        "q": "What is the chemical name for Bleaching Powder?",
+                        "options": [
+                            "Sodium Carbonate",
+                            "Calcium Hypochlorite",
+                            "Calcium Carbonate",
+                            "Sodium Chloride"
+                        ],
+                        "answer": 1,
+                        "explanation": "Calcium hypochlorite is the active ingredient."
+                    },
+                    {
+                        "q": "Which gas has the odor of rotten eggs?",
+                        "options": [
+                            "CO2",
+                            "SO2",
+                            "H2S",
+                            "NH3"
+                        ],
+                        "answer": 2,
+                        "explanation": "Hydrogen Sulfide is produced in volcanoes and sewers."
+                    },
+                    {
+                        "q": "What is the chemical symbol for Potassium?",
+                        "options": [
+                            "P",
+                            "Po",
+                            "K",
+                            "Pt"
+                        ],
+                        "answer": 2,
+                        "explanation": "K comes from the Latin 'Kalium'."
+                    },
+                    {
+                        "q": "What is the chemical symbol for Silver?",
+                        "options": [
+                            "Si",
+                            "Ag",
+                            "Au",
+                            "Sl"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ag is from 'Argentum'."
+                    },
+                    {
+                        "q": "What is the chemical name for Plaster of Paris?",
+                        "options": [
+                            "Calcium Sulfate Hemihydrate",
+                            "Calcium Carbonate",
+                            "Sodium Carbonate",
+                            "Gypsum"
+                        ],
+                        "answer": 0,
+                        "explanation": "It is made by heating gypsum."
+                    },
+                    {
+                        "q": "What is the molecular formula of water?",
+                        "options": [
+                            "HO",
+                            "H2O",
+                            "H2O2",
+                            "OH"
+                        ],
+                        "answer": 1,
+                        "explanation": "Two hydrogen atoms and one oxygen atom."
+                    },
+                    {
+                        "q": "Which gas is used in electric arc welding?",
+                        "options": [
+                            "Helium",
+                            "Argon",
+                            "CO2",
+                            "All of these"
+                        ],
+                        "answer": 3,
+                        "explanation": "Inert gases protect the weld from oxidation."
+                    },
+                    {
+                        "q": "What is the process of converting a liquid into gas called?",
+                        "options": [
+                            "Condensation",
+                            "Evaporation",
+                            "Freezing",
+                            "Melting"
+                        ],
+                        "answer": 1,
+                        "explanation": "Evaporation happens at the surface of a liquid."
+                    },
+                    {
+                        "q": "Which gas is used in the treatment of cancer?",
+                        "options": [
+                            "Helium",
+                            "Radon",
+                            "Xenon",
+                            "Neon"
+                        ],
+                        "answer": 1,
+                        "explanation": "Radon has been used in radiotherapy."
+                    }
+                ]
+            },
+            {
+                "category": "Organic Chemistry (نامیاتی کیمیا)",
+                "icon": "fa-molecule",
+                "questions": [
+                    {
+                        "q": "What is the chemical formula for Methane?",
+                        "options": [
+                            "CH4",
+                            "C2H6",
+                            "CO2",
+                            "H2O"
+                        ],
+                        "answer": 0,
+                        "explanation": "Methane is the simplest alkane with the formula CH4."
+                    },
+                    {
+                        "q": "What is the chemical name for Baking Soda?",
+                        "options": [
+                            "Sodium Carbonate",
+                            "Sodium Bicarbonate",
+                            "Calcium Carbonate",
+                            "Sodium Chloride"
+                        ],
+                        "answer": 1,
+                        "explanation": "Sodium bicarbonate (NaHCO3) is commonly known as baking soda."
+                    },
+                    {
+                        "q": "What is the purest form of Carbon found in nature?",
+                        "options": [
+                            "Coal",
+                            "Graphite",
+                            "Diamond",
+                            "Fullerene"
+                        ],
+                        "answer": 2,
+                        "explanation": "Diamond is the purest crystalline form of carbon."
                     },
                     {
                         "q": "What is the primary constituent of Pearls?",
@@ -45313,6 +45559,155 @@ const mainQuizData =
                         ],
                         "answer": 0,
                         "explanation": "Pearls are made of aragonite, a form of calcium carbonate."
+                    },
+                    {
+                        "q": "Water gas is a mixture of?",
+                        "options": [
+                            "CO and H2",
+                            "CO and N2",
+                            "CO2 and H2",
+                            "CH4 and O2"
+                        ],
+                        "answer": 0,
+                        "explanation": "Water gas is a synthesis gas containing carbon monoxide and hydrogen."
+                    },
+                    {
+                        "q": "What is the common name for Calcium Carbonate?",
+                        "options": [
+                            "Salt",
+                            "Chalk / Limestone",
+                            "Baking Soda",
+                            "Bleach"
+                        ],
+                        "answer": 1,
+                        "explanation": "Calcium carbonate is the main component of shells, snails, and chalk."
+                    },
+                    {
+                        "q": "What is the atomic number of Carbon?",
+                        "options": [
+                            "1",
+                            "6",
+                            "12",
+                            "14"
+                        ],
+                        "answer": 1,
+                        "explanation": "Carbon has 6 protons in its nucleus."
+                    },
+                    {
+                        "q": "What is the hardest form of carbon?",
+                        "options": [
+                            "Graphite",
+                            "Coal",
+                            "Diamond",
+                            "Fullerene"
+                        ],
+                        "answer": 2,
+                        "explanation": "Diamond's rigid crystal structure makes it the hardest known natural substance."
+                    },
+                    {
+                        "q": "What is the main component of biogas?",
+                        "options": [
+                            "Methane",
+                            "Propane",
+                            "Butane",
+                            "Ethane"
+                        ],
+                        "answer": 0,
+                        "explanation": "Biogas is mostly methane and carbon dioxide."
+                    }
+                ]
+            },
+            {
+                "category": "Inorganic Chemistry (غیر نامیاتی کیمیا)",
+                "icon": "fa-vial-circle-check",
+                "questions": [
+                    {
+                        "q": "Which element has the atomic number 1?",
+                        "options": [
+                            "Helium",
+                            "Hydrogen",
+                            "Lithium",
+                            "Carbon"
+                        ],
+                        "answer": 1,
+                        "explanation": "Hydrogen is the first element in the periodic table."
+                    },
+                    {
+                        "q": "Acid turns blue litmus paper into which color?",
+                        "options": [
+                            "Green",
+                            "Yellow",
+                            "Red",
+                            "Purple"
+                        ],
+                        "answer": 2,
+                        "explanation": "Acids turn blue litmus red; bases turn red litmus blue."
+                    },
+                    {
+                        "q": "Which metal is liquid at room temperature?",
+                        "options": [
+                            "Silver",
+                            "Mercury",
+                            "Copper",
+                            "Aluminum"
+                        ],
+                        "answer": 1,
+                        "explanation": "Mercury is the only metal that is liquid under standard conditions for temperature and pressure."
+                    },
+                    {
+                        "q": "Who developed the first periodic table?",
+                        "options": [
+                            "Newton",
+                            "Dalton",
+                            "Mendeleev",
+                            "Lavoisier"
+                        ],
+                        "answer": 2,
+                        "explanation": "Dmitri Mendeleev published the first widely recognized periodic table in 1869."
+                    },
+                    {
+                        "q": "Which acid is present in Lemons?",
+                        "options": [
+                            "Acetic Acid",
+                            "Citric Acid",
+                            "Lactic Acid",
+                            "Oxalic Acid"
+                        ],
+                        "answer": 1,
+                        "explanation": "Citrus fruits are rich in citric acid."
+                    },
+                    {
+                        "q": "What is the main metal in Hemoglobin?",
+                        "options": [
+                            "Magnesium",
+                            "Iron",
+                            "Copper",
+                            "Zinc"
+                        ],
+                        "answer": 1,
+                        "explanation": "Iron (Fe) binds with oxygen in the blood."
+                    },
+                    {
+                        "q": "What is the chemical name of Vitamin C?",
+                        "options": [
+                            "Citric Acid",
+                            "Ascorbic Acid",
+                            "Oxalic Acid",
+                            "Nitric Acid"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ascorbic acid is the chemical name for Vitamin C."
+                    },
+                    {
+                        "q": "Which non-metal remains liquid at room temperature?",
+                        "options": [
+                            "Bromine",
+                            "Iodine",
+                            "Chlorine",
+                            "Phosphorus"
+                        ],
+                        "answer": 0,
+                        "explanation": "Bromine is the only non-metallic element that is liquid at standard conditions."
                     },
                     {
                         "q": "Laughing gas is chemically known as?",
@@ -45348,28 +45743,6 @@ const mainQuizData =
                         "explanation": "Uranium is the heaviest element found in nature."
                     },
                     {
-                        "q": "Which isotope of Hydrogen is used in Nuclear reactors?",
-                        "options": [
-                            "Protium",
-                            "Deuterium",
-                            "Tritium",
-                            "None of these"
-                        ],
-                        "answer": 1,
-                        "explanation": "Deuterium (heavy hydrogen) is used as a moderator in reactors."
-                    },
-                    {
-                        "q": "Water gas is a mixture of?",
-                        "options": [
-                            "CO and H2",
-                            "CO and N2",
-                            "CO2 and H2",
-                            "CH4 and O2"
-                        ],
-                        "answer": 0,
-                        "explanation": "Water gas is a synthesis gas containing carbon monoxide and hydrogen."
-                    },
-                    {
                         "q": "Which element is used in the tips of safety matches?",
                         "options": [
                             "White Phosphorus",
@@ -45379,61 +45752,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "Red phosphorus is used because it is less toxic and more stable than white phosphorus."
-                    },
-                    {
-                        "q": "What is the chemical formula for Ozone?",
-                        "options": [
-                            "O2",
-                            "O3",
-                            "O4",
-                            "O"
-                        ],
-                        "answer": 1,
-                        "explanation": "Ozone is triatomic oxygen."
-                    },
-                    {
-                        "q": "Vinegar is a solution of which acid?",
-                        "options": [
-                            "Formic Acid",
-                            "Acetic Acid",
-                            "Malic Acid",
-                            "Tartaric Acid"
-                        ],
-                        "answer": 1,
-                        "explanation": "Vinegar contains roughly 5-8% acetic acid."
-                    },
-                    {
-                        "q": "What is the common name for Calcium Carbonate?",
-                        "options": [
-                            "Salt",
-                            "Chalk / Limestone",
-                            "Baking Soda",
-                            "Bleach"
-                        ],
-                        "answer": 1,
-                        "explanation": "Calcium carbonate is the main component of shells, snails, and chalk."
-                    },
-                    {
-                        "q": "Which gas is used in the manufacture of Ammonia?",
-                        "options": [
-                            "Nitrogen",
-                            "Oxygen",
-                            "Helium",
-                            "Neon"
-                        ],
-                        "answer": 0,
-                        "explanation": "The Haber process combines nitrogen and hydrogen to make ammonia."
-                    },
-                    {
-                        "q": "What is the atomic number of Carbon?",
-                        "options": [
-                            "1",
-                            "6",
-                            "12",
-                            "14"
-                        ],
-                        "answer": 1,
-                        "explanation": "Carbon has 6 protons in its nucleus."
                     },
                     {
                         "q": "Which element is used as a fuel in nuclear power plants?",
@@ -45447,17 +45765,6 @@ const mainQuizData =
                         "explanation": "Uranium-235 is the most common fuel for nuclear fission."
                     },
                     {
-                        "q": "What is the main component of LPG (Liquefied Petroleum Gas)?",
-                        "options": [
-                            "Methane",
-                            "Ethane",
-                            "Propane and Butane",
-                            "Hydrogen"
-                        ],
-                        "answer": 2,
-                        "explanation": "LPG is primarily a mixture of propane and butane."
-                    },
-                    {
                         "q": "Which acid is found in tamarind?",
                         "options": [
                             "Citric Acid",
@@ -45467,28 +45774,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "Tartaric acid gives tamarind its sour taste."
-                    },
-                    {
-                        "q": "What is the hardest form of carbon?",
-                        "options": [
-                            "Graphite",
-                            "Coal",
-                            "Diamond",
-                            "Fullerene"
-                        ],
-                        "answer": 2,
-                        "explanation": "Diamond's rigid crystal structure makes it the hardest known natural substance."
-                    },
-                    {
-                        "q": "Which gas is known as 'Dry Ice' in its solid state?",
-                        "options": [
-                            "Nitrogen",
-                            "Oxygen",
-                            "Carbon Dioxide",
-                            "Hydrogen"
-                        ],
-                        "answer": 2,
-                        "explanation": "Solid CO2 is called dry ice."
                     },
                     {
                         "q": "What is the chemical formula for salt?",
@@ -45511,17 +45796,6 @@ const mainQuizData =
                         ],
                         "answer": 0,
                         "explanation": "Zinc coating prevents iron from rusting."
-                    },
-                    {
-                        "q": "What is the study of matter and its changes called?",
-                        "options": [
-                            "Physics",
-                            "Chemistry",
-                            "Biology",
-                            "Geology"
-                        ],
-                        "answer": 1,
-                        "explanation": "Chemistry is the science of substances and their interactions."
                     },
                     {
                         "q": "Which gas is produced when an acid reacts with a metal?",
@@ -45590,28 +45864,6 @@ const mainQuizData =
                         "explanation": "Electroplating is used for protection or decoration."
                     },
                     {
-                        "q": "Which gas is used in fluorescent tubes?",
-                        "options": [
-                            "Neon",
-                            "Argon and Mercury vapor",
-                            "Helium",
-                            "Oxygen"
-                        ],
-                        "answer": 1,
-                        "explanation": "The gas emits UV light which strikes the phosphor coating."
-                    },
-                    {
-                        "q": "What is the chemical formula for glucose?",
-                        "options": [
-                            "C6H12O6",
-                            "C12H22O11",
-                            "CH4",
-                            "CO2"
-                        ],
-                        "answer": 0,
-                        "explanation": "Glucose is a simple sugar (monosaccharide)."
-                    },
-                    {
                         "q": "Which acid is responsible for the sting of a bee?",
                         "options": [
                             "Acetic acid",
@@ -45645,39 +45897,6 @@ const mainQuizData =
                         "explanation": "Aluminum is lightweight and strong when alloyed."
                     },
                     {
-                        "q": "What is the chemical name for Bleaching Powder?",
-                        "options": [
-                            "Sodium Carbonate",
-                            "Calcium Hypochlorite",
-                            "Calcium Carbonate",
-                            "Sodium Chloride"
-                        ],
-                        "answer": 1,
-                        "explanation": "Calcium hypochlorite is the active ingredient."
-                    },
-                    {
-                        "q": "Which gas has the odor of rotten eggs?",
-                        "options": [
-                            "CO2",
-                            "SO2",
-                            "H2S",
-                            "NH3"
-                        ],
-                        "answer": 2,
-                        "explanation": "Hydrogen Sulfide is produced in volcanoes and sewers."
-                    },
-                    {
-                        "q": "What is the main component of biogas?",
-                        "options": [
-                            "Methane",
-                            "Propane",
-                            "Butane",
-                            "Ethane"
-                        ],
-                        "answer": 0,
-                        "explanation": "Biogas is mostly methane and carbon dioxide."
-                    },
-                    {
                         "q": "Which non-metal is a good conductor of electricity?",
                         "options": [
                             "Sulfur",
@@ -45687,17 +45906,6 @@ const mainQuizData =
                         ],
                         "answer": 2,
                         "explanation": "Graphite has delocalized electrons that can carry current."
-                    },
-                    {
-                        "q": "What is the chemical symbol for Potassium?",
-                        "options": [
-                            "P",
-                            "Po",
-                            "K",
-                            "Pt"
-                        ],
-                        "answer": 2,
-                        "explanation": "K comes from the Latin 'Kalium'."
                     },
                     {
                         "q": "Which acid is used in car batteries?",
@@ -45722,28 +45930,6 @@ const mainQuizData =
                         "explanation": "Saponification is the reaction of fats with a strong base."
                     },
                     {
-                        "q": "Which gas is responsible for global warming?",
-                        "options": [
-                            "Oxygen",
-                            "Nitrogen",
-                            "Carbon Dioxide",
-                            "Argon"
-                        ],
-                        "answer": 2,
-                        "explanation": "CO2 traps heat in the atmosphere."
-                    },
-                    {
-                        "q": "What is the chemical symbol for Silver?",
-                        "options": [
-                            "Si",
-                            "Ag",
-                            "Au",
-                            "Sl"
-                        ],
-                        "answer": 1,
-                        "explanation": "Ag is from 'Argentum'."
-                    },
-                    {
                         "q": "Which element is used to vulcanize rubber?",
                         "options": [
                             "Iron",
@@ -45755,39 +45941,6 @@ const mainQuizData =
                         "explanation": "Sulfur makes rubber more durable and heat-resistant."
                     },
                     {
-                        "q": "What is the chemical name for Plaster of Paris?",
-                        "options": [
-                            "Calcium Sulfate Hemihydrate",
-                            "Calcium Carbonate",
-                            "Sodium Carbonate",
-                            "Gypsum"
-                        ],
-                        "answer": 0,
-                        "explanation": "It is made by heating gypsum."
-                    },
-                    {
-                        "q": "Which gas is found in the stratosphere and protects us from UV rays?",
-                        "options": [
-                            "Oxygen",
-                            "Nitrogen",
-                            "Ozone",
-                            "Helium"
-                        ],
-                        "answer": 2,
-                        "explanation": "Ozone (O3) absorbs harmful ultraviolet radiation."
-                    },
-                    {
-                        "q": "What is the molecular formula of water?",
-                        "options": [
-                            "HO",
-                            "H2O",
-                            "H2O2",
-                            "OH"
-                        ],
-                        "answer": 1,
-                        "explanation": "Two hydrogen atoms and one oxygen atom."
-                    },
-                    {
                         "q": "Which metal is used to make bronze?",
                         "options": [
                             "Copper and Tin",
@@ -45797,17 +45950,6 @@ const mainQuizData =
                         ],
                         "answer": 0,
                         "explanation": "Bronze is a copper-based alloy."
-                    },
-                    {
-                        "q": "What is the chemical name for Vitamin D?",
-                        "options": [
-                            "Retinol",
-                            "Calciferol",
-                            "Tocopherol",
-                            "Thiamine"
-                        ],
-                        "answer": 1,
-                        "explanation": "Calciferol is essential for calcium absorption."
                     },
                     {
                         "q": "Which element is required for bones and teeth?",
@@ -45854,28 +45996,6 @@ const mainQuizData =
                         "explanation": "NaCl is used as a seasoning."
                     },
                     {
-                        "q": "Which gas is used in electric arc welding?",
-                        "options": [
-                            "Helium",
-                            "Argon",
-                            "CO2",
-                            "All of these"
-                        ],
-                        "answer": 3,
-                        "explanation": "Inert gases protect the weld from oxidation."
-                    },
-                    {
-                        "q": "What is the process of converting a liquid into gas called?",
-                        "options": [
-                            "Condensation",
-                            "Evaporation",
-                            "Freezing",
-                            "Melting"
-                        ],
-                        "answer": 1,
-                        "explanation": "Evaporation happens at the surface of a liquid."
-                    },
-                    {
                         "q": "Which acid is found in vinegar?",
                         "options": [
                             "Acetic acid",
@@ -45920,17 +46040,6 @@ const mainQuizData =
                         "explanation": "It is often called the 'King of Chemicals'."
                     },
                     {
-                        "q": "Which gas is used in the treatment of cancer?",
-                        "options": [
-                            "Helium",
-                            "Radon",
-                            "Xenon",
-                            "Neon"
-                        ],
-                        "answer": 1,
-                        "explanation": "Radon has been used in radiotherapy."
-                    },
-                    {
                         "q": "What is the most electronegative element?",
                         "options": [
                             "Oxygen",
@@ -45942,6 +46051,82 @@ const mainQuizData =
                         "explanation": "Fluorine has the highest affinity for electrons."
                     }
                 ]
+            },
+            {
+                "category": "Analytical Chemistry (تجزیاتی کیمیا)",
+                "icon": "fa-vials",
+                "questions": []
+            },
+            {
+                "category": "Biochemistry (حیاتیاتی کیمیا)",
+                "icon": "fa-vial-virus",
+                "questions": [
+                    {
+                        "q": "What is the chemical name for Vitamin D?",
+                        "options": [
+                            "Retinol",
+                            "Calciferol",
+                            "Tocopherol",
+                            "Thiamine"
+                        ],
+                        "answer": 1,
+                        "explanation": "Calciferol is essential for calcium absorption."
+                    }
+                ]
+            },
+            {
+                "category": "Environmental Chemistry (ماحولیاتی کیمیا)",
+                "icon": "fa-globe",
+                "questions": [
+                    {
+                        "q": "What is the chemical formula for Ozone?",
+                        "options": [
+                            "O2",
+                            "O3",
+                            "O4",
+                            "O"
+                        ],
+                        "answer": 1,
+                        "explanation": "Ozone is triatomic oxygen."
+                    },
+                    {
+                        "q": "Which gas is responsible for global warming?",
+                        "options": [
+                            "Oxygen",
+                            "Nitrogen",
+                            "Carbon Dioxide",
+                            "Argon"
+                        ],
+                        "answer": 2,
+                        "explanation": "CO2 traps heat in the atmosphere."
+                    },
+                    {
+                        "q": "Which gas is found in the stratosphere and protects us from UV rays?",
+                        "options": [
+                            "Oxygen",
+                            "Nitrogen",
+                            "Ozone",
+                            "Helium"
+                        ],
+                        "answer": 2,
+                        "explanation": "Ozone (O3) absorbs harmful ultraviolet radiation."
+                    }
+                ]
+            },
+            {
+                "category": "Industrial Chemistry (صنعتی کیمیا)",
+                "icon": "fa-industry",
+                "questions": []
+            },
+            {
+                "category": "Nuclear & Polymer Chemistry (ایٹمی اور پولیمر)",
+                "icon": "fa-circle-dot",
+                "questions": []
+            },
+            {
+                "category": "Medicinal Chemistry (ادویاتی کیمیا)",
+                "icon": "fa-pills",
+                "questions": []
             }
         ]
     },
@@ -45950,8 +46135,8 @@ const mainQuizData =
         "icon": "fa-atom",
         "subcategories": [
             {
-                "category": "General Physics",
-                "icon": "fa-book",
+                "category": "Measurements & Units (پیمائش اور اکائیاں)",
+                "icon": "fa-ruler-combined",
                 "questions": [
                     {
                         "q": "What is the SI unit of Force?",
@@ -45963,17 +46148,6 @@ const mainQuizData =
                         ],
                         "answer": 2,
                         "explanation": "The Newton (N) is the SI derived unit of force."
-                    },
-                    {
-                        "q": "Who formulated the Laws of Motion?",
-                        "options": [
-                            "Albert Einstein",
-                            "Isaac Newton",
-                            "Galileo Galilei",
-                            "Nikola Tesla"
-                        ],
-                        "answer": 1,
-                        "explanation": "Sir Isaac Newton formulated the three laws of motion in his work 'Principia Mathematica'."
                     },
                     {
                         "q": "What is the unit of electric current?",
@@ -45998,50 +46172,6 @@ const mainQuizData =
                         "explanation": "Ohm (?) is the SI unit of electrical resistance."
                     },
                     {
-                        "q": "Which law states that energy cannot be created or destroyed?",
-                        "options": [
-                            "Law of Inertia",
-                            "Law of Gravity",
-                            "Law of Conservation of Energy",
-                            "Ohm's Law"
-                        ],
-                        "answer": 2,
-                        "explanation": "Energy can only be transformed or transferred from one form to another."
-                    },
-                    {
-                        "q": "What is the primary source of energy for the Earth?",
-                        "options": [
-                            "Moon",
-                            "Wind",
-                            "Sun",
-                            "Geothermal"
-                        ],
-                        "answer": 2,
-                        "explanation": "The Sun provides the solar energy that drives most biological and climatic processes."
-                    },
-                    {
-                        "q": "Newton's First Law is also known as?",
-                        "options": [
-                            "Law of Acceleration",
-                            "Law of Action-Reaction",
-                            "Law of Inertia",
-                            "Law of Gravitation"
-                        ],
-                        "answer": 2,
-                        "explanation": "The Law of Inertia states that an object at rest stays at rest unless acted upon by a force."
-                    },
-                    {
-                        "q": "What is the value of acceleration due to gravity on Earth?",
-                        "options": [
-                            "5.8 m/s²",
-                            "7.8 m/s²",
-                            "9.8 m/s²",
-                            "11.8 m/s²"
-                        ],
-                        "answer": 2,
-                        "explanation": "Standard gravity is approximately 9.80665 m/s²."
-                    },
-                    {
                         "q": "Light year is a unit of?",
                         "options": [
                             "Time",
@@ -46051,39 +46181,6 @@ const mainQuizData =
                         ],
                         "answer": 2,
                         "explanation": "A light year is the distance light travels in a vacuum in one year (approx. 9.46 trillion km)."
-                    },
-                    {
-                        "q": "Which mirror is used in car headlights?",
-                        "options": [
-                            "Convex",
-                            "Concave",
-                            "Plane",
-                            "Cylindrical"
-                        ],
-                        "answer": 1,
-                        "explanation": "Concave mirrors are used to create a powerful, parallel beam of light."
-                    },
-                    {
-                        "q": "The bending of light when it enters another medium is called?",
-                        "options": [
-                            "Reflection",
-                            "Refraction",
-                            "Diffraction",
-                            "Dispersion"
-                        ],
-                        "answer": 1,
-                        "explanation": "Refraction occurs due to the change in the speed of light in different media."
-                    },
-                    {
-                        "q": "What is the frequency of AC (Alternating Current) in most countries?",
-                        "options": [
-                            "30 Hz",
-                            "50-60 Hz",
-                            "100 Hz",
-                            "220 Hz"
-                        ],
-                        "answer": 1,
-                        "explanation": "Most power grids operate at either 50 Hz or 60 Hz."
                     },
                     {
                         "q": "Which instrument measures high temperature?",
@@ -46108,17 +46205,6 @@ const mainQuizData =
                         "explanation": "At 20°C, the speed of sound is about 343 meters per second."
                     },
                     {
-                        "q": "Which type of wave is sound?",
-                        "options": [
-                            "Transverse",
-                            "Longitudinal",
-                            "Electromagnetic",
-                            "Surface"
-                        ],
-                        "answer": 1,
-                        "explanation": "Sound waves are mechanical longitudinal waves."
-                    },
-                    {
                         "q": "What is the unit of power of a lens?",
                         "options": [
                             "Meter",
@@ -46128,28 +46214,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "The power of a lens is measured in diopters (D)."
-                    },
-                    {
-                        "q": "Who discovered the Electron?",
-                        "options": [
-                            "Ernest Rutherford",
-                            "J.J. Thomson",
-                            "John Dalton",
-                            "James Chadwick"
-                        ],
-                        "answer": 1,
-                        "explanation": "J.J. Thomson discovered the electron in 1897."
-                    },
-                    {
-                        "q": "The Dynamo converts?",
-                        "options": [
-                            "Heat to Light",
-                            "Mechanical to Electrical",
-                            "Electrical to Mechanical",
-                            "Chemical to Heat"
-                        ],
-                        "answer": 1,
-                        "explanation": "A dynamo (generator) uses electromagnetic induction."
                     },
                     {
                         "q": "What is the boiling point of water in Fahrenheit?",
@@ -46163,39 +46227,6 @@ const mainQuizData =
                         "explanation": "Standard boiling point is 100°C or 212°F."
                     },
                     {
-                        "q": "Which color of light deviates the most through a prism?",
-                        "options": [
-                            "Red",
-                            "Green",
-                            "Yellow",
-                            "Violet"
-                        ],
-                        "answer": 3,
-                        "explanation": "Violet has the shortest wavelength and deviates the most."
-                    },
-                    {
-                        "q": "What is the escape velocity from Earth?",
-                        "options": [
-                            "8.2 km/s",
-                            "9.8 km/s",
-                            "11.2 km/s",
-                            "15.5 km/s"
-                        ],
-                        "answer": 2,
-                        "explanation": "The minimum speed required to escape Earth's gravity is 11.2 km/s."
-                    },
-                    {
-                        "q": "Which mirror is used as a rear-view mirror in vehicles?",
-                        "options": [
-                            "Concave",
-                            "Convex",
-                            "Plane",
-                            "Bifocal"
-                        ],
-                        "answer": 1,
-                        "explanation": "Convex mirrors provide a wider field of view."
-                    },
-                    {
                         "q": "Density is defined as?",
                         "options": [
                             "Mass / Area",
@@ -46205,50 +46236,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "Density (?) = m / V."
-                    },
-                    {
-                        "q": "The value of 'g' (gravity) is maximum at?",
-                        "options": [
-                            "Center of Earth",
-                            "Equator",
-                            "Poles",
-                            "Mountain Top"
-                        ],
-                        "answer": 2,
-                        "explanation": "Gravity is slightly stronger at the poles due to the Earth's geoid shape."
-                    },
-                    {
-                        "q": "Which electromagnetic wave has the highest frequency?",
-                        "options": [
-                            "Radio waves",
-                            "Microwaves",
-                            "X-rays",
-                            "Gamma rays"
-                        ],
-                        "answer": 3,
-                        "explanation": "Gamma rays carry the highest energy and frequency."
-                    },
-                    {
-                        "q": "Einstein's E=mc² relates energy with?",
-                        "options": [
-                            "Speed",
-                            "Color",
-                            "Mass",
-                            "Momentum"
-                        ],
-                        "answer": 2,
-                        "explanation": "Mass-energy equivalence states mass can be converted to energy."
-                    },
-                    {
-                        "q": "Short-sightedness is corrected by using?",
-                        "options": [
-                            "Concave lens",
-                            "Convex lens",
-                            "Cylindrical lens",
-                            "Plane mirror"
-                        ],
-                        "answer": 0,
-                        "explanation": "Myopia is corrected by diverging lenses."
                     },
                     {
                         "q": "What is the unit of pressure?",
@@ -46262,28 +46249,6 @@ const mainQuizData =
                         "explanation": "1 Pascal (Pa) = 1 Newton per square meter."
                     },
                     {
-                        "q": "Who discovered radioactivity?",
-                        "options": [
-                            "Marie Curie",
-                            "Henri Becquerel",
-                            "Rutherford",
-                            "Chadwick"
-                        ],
-                        "answer": 1,
-                        "explanation": "Becquerel discovered it while experimenting with uranium."
-                    },
-                    {
-                        "q": "Absolute zero temperature is?",
-                        "options": [
-                            "0°C",
-                            "-273.15°C",
-                            "273.15°C",
-                            "-32°F"
-                        ],
-                        "answer": 1,
-                        "explanation": "0 Kelvin (K) equals -273.15 degrees Celsius."
-                    },
-                    {
                         "q": "What is the unit of work and energy?",
                         "options": [
                             "Watt",
@@ -46293,39 +46258,6 @@ const mainQuizData =
                         ],
                         "answer": 2,
                         "explanation": "Joule (J) is the SI unit of energy."
-                    },
-                    {
-                        "q": "Which lens is used to correct far-sightedness (hyperopia)?",
-                        "options": [
-                            "Concave",
-                            "Convex",
-                            "Cylindrical",
-                            "Bifocal"
-                        ],
-                        "answer": 1,
-                        "explanation": "Convex (converging) lenses help focus light on the retina."
-                    },
-                    {
-                        "q": "What is the rate of change of velocity called?",
-                        "options": [
-                            "Speed",
-                            "Acceleration",
-                            "Momentum",
-                            "Inertia"
-                        ],
-                        "answer": 1,
-                        "explanation": "Acceleration = (Change in Velocity) / Time."
-                    },
-                    {
-                        "q": "Which law explains the phenomenon of buoyancy?",
-                        "options": [
-                            "Newton's Law",
-                            "Ohm's Law",
-                            "Archimedes' Principle",
-                            "Pascal's Law"
-                        ],
-                        "answer": 2,
-                        "explanation": "Archimedes' principle states the buoyant force equals the weight of displaced fluid."
                     },
                     {
                         "q": "What is the speed of light in kilometers per second (approx)?",
@@ -46350,28 +46282,6 @@ const mainQuizData =
                         "explanation": "A voltmeter is connected in parallel to measure voltage."
                     },
                     {
-                        "q": "What is the force that opposes motion between two surfaces?",
-                        "options": [
-                            "Gravity",
-                            "Friction",
-                            "Magnetism",
-                            "Tension"
-                        ],
-                        "answer": 1,
-                        "explanation": "Friction acts in the opposite direction of movement."
-                    },
-                    {
-                        "q": "Which type of mirror is used as a shaving mirror?",
-                        "options": [
-                            "Convex",
-                            "Concave",
-                            "Plane",
-                            "Cylindrical"
-                        ],
-                        "answer": 1,
-                        "explanation": "Concave mirrors provide a magnified upright image when close."
-                    },
-                    {
                         "q": "What is the SI unit of frequency?",
                         "options": [
                             "Hertz",
@@ -46383,39 +46293,6 @@ const mainQuizData =
                         "explanation": "Hertz (Hz) measures cycles per second."
                     },
                     {
-                        "q": "Which particle in an atom has no electric charge?",
-                        "options": [
-                            "Proton",
-                            "Electron",
-                            "Neutron",
-                            "Positron"
-                        ],
-                        "answer": 2,
-                        "explanation": "Neutrons are neutral particles in the nucleus."
-                    },
-                    {
-                        "q": "What is the escape velocity from the Moon?",
-                        "options": [
-                            "1.2 km/s",
-                            "2.4 km/s",
-                            "5.0 km/s",
-                            "11.2 km/s"
-                        ],
-                        "answer": 1,
-                        "explanation": "The Moon's gravity is much weaker than Earth's."
-                    },
-                    {
-                        "q": "Which physical quantity remains constant in a uniform circular motion?",
-                        "options": [
-                            "Velocity",
-                            "Acceleration",
-                            "Speed",
-                            "Displacement"
-                        ],
-                        "answer": 2,
-                        "explanation": "While direction changes (so velocity changes), the speed (magnitude) is constant."
-                    },
-                    {
                         "q": "What is the unit of luminous intensity?",
                         "options": [
                             "Mole",
@@ -46425,61 +46302,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "Candela (cd) is one of the seven SI base units."
-                    },
-                    {
-                        "q": "Which colors are the primary colors of light?",
-                        "options": [
-                            "Red, Blue, Yellow",
-                            "Red, Green, Blue",
-                            "Yellow, Cyan, Magenta",
-                            "Red, White, Black"
-                        ],
-                        "answer": 1,
-                        "explanation": "RGB are the additive primary colors."
-                    },
-                    {
-                        "q": "What is the product of mass and velocity called?",
-                        "options": [
-                            "Work",
-                            "Power",
-                            "Momentum",
-                            "Force"
-                        ],
-                        "answer": 2,
-                        "explanation": "p = mv."
-                    },
-                    {
-                        "q": "Which electromagnetic radiation has the longest wavelength?",
-                        "options": [
-                            "Gamma rays",
-                            "X-rays",
-                            "Radio waves",
-                            "Infrared"
-                        ],
-                        "answer": 2,
-                        "explanation": "Radio waves have the lowest frequency and longest wavelength."
-                    },
-                    {
-                        "q": "What is the value of one horsepower in watts?",
-                        "options": [
-                            "500 W",
-                            "746 W",
-                            "1000 W",
-                            "1200 W"
-                        ],
-                        "answer": 1,
-                        "explanation": "1 hp = 746 Watts."
-                    },
-                    {
-                        "q": "Which state of matter has the highest kinetic energy?",
-                        "options": [
-                            "Solid",
-                            "Liquid",
-                            "Gas",
-                            "Plasma"
-                        ],
-                        "answer": 3,
-                        "explanation": "Plasma consists of highly energized ions and electrons."
                     },
                     {
                         "q": "What is the refractive index of a vacuum?",
@@ -46526,28 +46348,6 @@ const mainQuizData =
                         "explanation": "Pascal's principle is the basis of hydraulic systems."
                     },
                     {
-                        "q": "What is the heat required to change the state of a substance without temperature change?",
-                        "options": [
-                            "Specific heat",
-                            "Latent heat",
-                            "Thermal capacity",
-                            "Conduction"
-                        ],
-                        "answer": 1,
-                        "explanation": "Latent heat is absorbed or released during phase changes."
-                    },
-                    {
-                        "q": "Which type of lens is a magnifying glass?",
-                        "options": [
-                            "Concave",
-                            "Convex",
-                            "Plano-concave",
-                            "Cylindrical"
-                        ],
-                        "answer": 1,
-                        "explanation": "A biconvex lens produces a virtual magnified image."
-                    },
-                    {
                         "q": "What is the unit of magnetic flux density?",
                         "options": [
                             "Weber",
@@ -46559,39 +46359,6 @@ const mainQuizData =
                         "explanation": "One Tesla (T) is one Weber per square meter."
                     },
                     {
-                        "q": "Which force holds the planets in their orbits around the Sun?",
-                        "options": [
-                            "Magnetic force",
-                            "Electric force",
-                            "Gravitational force",
-                            "Nuclear force"
-                        ],
-                        "answer": 2,
-                        "explanation": "Gravity provides the centripetal force for orbit."
-                    },
-                    {
-                        "q": "What is the process of heat transfer through direct contact?",
-                        "options": [
-                            "Convection",
-                            "Radiation",
-                            "Conduction",
-                            "Insulation"
-                        ],
-                        "answer": 2,
-                        "explanation": "Conduction occurs primarily in solids."
-                    },
-                    {
-                        "q": "Which mirror is used in solar cookers to focus sunlight?",
-                        "options": [
-                            "Convex",
-                            "Concave",
-                            "Plane",
-                            "Parabolic"
-                        ],
-                        "answer": 1,
-                        "explanation": "Concave (or parabolic) mirrors converge light at a point."
-                    },
-                    {
                         "q": "What is the unit of capacitance?",
                         "options": [
                             "Coulomb",
@@ -46601,17 +46368,6 @@ const mainQuizData =
                         ],
                         "answer": 1,
                         "explanation": "Farad (F) is the capacity to store charge."
-                    },
-                    {
-                        "q": "Which effect explains why the pitch of a siren changes as it moves past you?",
-                        "options": [
-                            "Tyndall Effect",
-                            "Doppler Effect",
-                            "Photoelectric Effect",
-                            "Compton Effect"
-                        ],
-                        "answer": 1,
-                        "explanation": "The Doppler effect is the change in frequency due to motion."
                     },
                     {
                         "q": "What is the smallest known particle of matter (according to Standard Model)?",
@@ -46647,50 +46403,6 @@ const mainQuizData =
                         "explanation": "Kelvin is the absolute temperature scale."
                     },
                     {
-                        "q": "Which device converts electrical energy into mechanical energy?",
-                        "options": [
-                            "Generator",
-                            "Motor",
-                            "Transformer",
-                            "Rectifier"
-                        ],
-                        "answer": 1,
-                        "explanation": "An electric motor uses magnetic fields to create rotation."
-                    },
-                    {
-                        "q": "What is the name for the property of an object to resist changes in its motion?",
-                        "options": [
-                            "Momentum",
-                            "Inertia",
-                            "Gravity",
-                            "Friction"
-                        ],
-                        "answer": 1,
-                        "explanation": "Mass is a measure of inertia."
-                    },
-                    {
-                        "q": "Which light has the longest wavelength in the visible spectrum?",
-                        "options": [
-                            "Violet",
-                            "Blue",
-                            "Green",
-                            "Red"
-                        ],
-                        "answer": 3,
-                        "explanation": "Red light has the lowest frequency and longest wavelength."
-                    },
-                    {
-                        "q": "What is the phenomenon of splitting white light into its component colors?",
-                        "options": [
-                            "Reflection",
-                            "Refraction",
-                            "Dispersion",
-                            "Total internal reflection"
-                        ],
-                        "answer": 2,
-                        "explanation": "A prism causes dispersion because different colors refract at different angles."
-                    },
-                    {
                         "q": "Which law states that for every action, there is an equal and opposite reaction?",
                         "options": [
                             "Newton's First Law",
@@ -46713,17 +46425,6 @@ const mainQuizData =
                         "explanation": "Becquerel is the SI unit; Curie is a traditional unit."
                     },
                     {
-                        "q": "Which instrument is used to see very small objects?",
-                        "options": [
-                            "Telescope",
-                            "Microscope",
-                            "Periscope",
-                            "Endoscope"
-                        ],
-                        "answer": 1,
-                        "explanation": "Microscopes use lenses or electrons for magnification."
-                    },
-                    {
                         "q": "What is the value of atmospheric pressure at sea level (approx)?",
                         "options": [
                             "101.3 kPa",
@@ -46733,39 +46434,6 @@ const mainQuizData =
                         ],
                         "answer": 0,
                         "explanation": "1 atmosphere is about 101,325 Pascals."
-                    },
-                    {
-                        "q": "Which radioactive particle is identical to a helium nucleus?",
-                        "options": [
-                            "Alpha particle",
-                            "Beta particle",
-                            "Gamma ray",
-                            "Neutron"
-                        ],
-                        "answer": 0,
-                        "explanation": "An alpha particle consists of 2 protons and 2 neutrons."
-                    },
-                    {
-                        "q": "What is the primary function of a transformer?",
-                        "options": [
-                            "Change DC to AC",
-                            "Change voltage levels",
-                            "Store energy",
-                            "Measure current"
-                        ],
-                        "answer": 1,
-                        "explanation": "Transformers step up or step down AC voltage."
-                    },
-                    {
-                        "q": "Which mirror provides a wide field of view and is used in parking lots?",
-                        "options": [
-                            "Concave",
-                            "Convex",
-                            "Plane",
-                            "Cylindrical"
-                        ],
-                        "answer": 1,
-                        "explanation": "Convex mirrors produce virtual, diminished, and upright images."
                     },
                     {
                         "q": "What is the term for the amount of matter in an object?",
@@ -46779,39 +46447,6 @@ const mainQuizData =
                         "explanation": "Mass is constant regardless of location."
                     },
                     {
-                        "q": "Which law relates the current flow to voltage and resistance?",
-                        "options": [
-                            "Faraday's Law",
-                            "Ohm's Law",
-                            "Lenz's Law",
-                            "Coulomb's Law"
-                        ],
-                        "answer": 1,
-                        "explanation": "V = IR."
-                    },
-                    {
-                        "q": "What is the energy of motion called?",
-                        "options": [
-                            "Potential Energy",
-                            "Kinetic Energy",
-                            "Chemical Energy",
-                            "Thermal Energy"
-                        ],
-                        "answer": 1,
-                        "explanation": "K.E. = 1/2 mv2."
-                    },
-                    {
-                        "q": "Which color of light is least scattered by fog or smoke?",
-                        "options": [
-                            "Blue",
-                            "Green",
-                            "Yellow",
-                            "Red"
-                        ],
-                        "answer": 3,
-                        "explanation": "Red has the longest wavelength, making it ideal for danger signals."
-                    },
-                    {
                         "q": "What is the time taken for one complete oscillation called?",
                         "options": [
                             "Frequency",
@@ -46823,6 +46458,614 @@ const mainQuizData =
                         "explanation": "T = 1 / f."
                     }
                 ]
+            },
+            {
+                "category": "Mechanics (حرکیات - فورس، حرکت، رفتار)",
+                "icon": "fa-gears",
+                "questions": [
+                    {
+                        "q": "Who formulated the Laws of Motion?",
+                        "options": [
+                            "Albert Einstein",
+                            "Isaac Newton",
+                            "Galileo Galilei",
+                            "Nikola Tesla"
+                        ],
+                        "answer": 1,
+                        "explanation": "Sir Isaac Newton formulated the three laws of motion in his work 'Principia Mathematica'."
+                    },
+                    {
+                        "q": "Which law states that energy cannot be created or destroyed?",
+                        "options": [
+                            "Law of Inertia",
+                            "Law of Gravity",
+                            "Law of Conservation of Energy",
+                            "Ohm's Law"
+                        ],
+                        "answer": 2,
+                        "explanation": "Energy can only be transformed or transferred from one form to another."
+                    },
+                    {
+                        "q": "What is the primary source of energy for the Earth?",
+                        "options": [
+                            "Moon",
+                            "Wind",
+                            "Sun",
+                            "Geothermal"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Sun provides the solar energy that drives most biological and climatic processes."
+                    },
+                    {
+                        "q": "Newton's First Law is also known as?",
+                        "options": [
+                            "Law of Acceleration",
+                            "Law of Action-Reaction",
+                            "Law of Inertia",
+                            "Law of Gravitation"
+                        ],
+                        "answer": 2,
+                        "explanation": "The Law of Inertia states that an object at rest stays at rest unless acted upon by a force."
+                    },
+                    {
+                        "q": "What is the value of acceleration due to gravity on Earth?",
+                        "options": [
+                            "5.8 m/s²",
+                            "7.8 m/s²",
+                            "9.8 m/s²",
+                            "11.8 m/s²"
+                        ],
+                        "answer": 2,
+                        "explanation": "Standard gravity is approximately 9.80665 m/s²."
+                    },
+                    {
+                        "q": "Which mirror is used in car headlights?",
+                        "options": [
+                            "Convex",
+                            "Concave",
+                            "Plane",
+                            "Cylindrical"
+                        ],
+                        "answer": 1,
+                        "explanation": "Concave mirrors are used to create a powerful, parallel beam of light."
+                    },
+                    {
+                        "q": "What is the frequency of AC (Alternating Current) in most countries?",
+                        "options": [
+                            "30 Hz",
+                            "50-60 Hz",
+                            "100 Hz",
+                            "220 Hz"
+                        ],
+                        "answer": 1,
+                        "explanation": "Most power grids operate at either 50 Hz or 60 Hz."
+                    },
+                    {
+                        "q": "What is the escape velocity from Earth?",
+                        "options": [
+                            "8.2 km/s",
+                            "9.8 km/s",
+                            "11.2 km/s",
+                            "15.5 km/s"
+                        ],
+                        "answer": 2,
+                        "explanation": "The minimum speed required to escape Earth's gravity is 11.2 km/s."
+                    },
+                    {
+                        "q": "The value of 'g' (gravity) is maximum at?",
+                        "options": [
+                            "Center of Earth",
+                            "Equator",
+                            "Poles",
+                            "Mountain Top"
+                        ],
+                        "answer": 2,
+                        "explanation": "Gravity is slightly stronger at the poles due to the Earth's geoid shape."
+                    },
+                    {
+                        "q": "Which electromagnetic wave has the highest frequency?",
+                        "options": [
+                            "Radio waves",
+                            "Microwaves",
+                            "X-rays",
+                            "Gamma rays"
+                        ],
+                        "answer": 3,
+                        "explanation": "Gamma rays carry the highest energy and frequency."
+                    },
+                    {
+                        "q": "Einstein's E=mc² relates energy with?",
+                        "options": [
+                            "Speed",
+                            "Color",
+                            "Mass",
+                            "Momentum"
+                        ],
+                        "answer": 2,
+                        "explanation": "Mass-energy equivalence states mass can be converted to energy."
+                    },
+                    {
+                        "q": "What is the rate of change of velocity called?",
+                        "options": [
+                            "Speed",
+                            "Acceleration",
+                            "Momentum",
+                            "Inertia"
+                        ],
+                        "answer": 1,
+                        "explanation": "Acceleration = (Change in Velocity) / Time."
+                    },
+                    {
+                        "q": "Which law explains the phenomenon of buoyancy?",
+                        "options": [
+                            "Newton's Law",
+                            "Ohm's Law",
+                            "Archimedes' Principle",
+                            "Pascal's Law"
+                        ],
+                        "answer": 2,
+                        "explanation": "Archimedes' principle states the buoyant force equals the weight of displaced fluid."
+                    },
+                    {
+                        "q": "What is the force that opposes motion between two surfaces?",
+                        "options": [
+                            "Gravity",
+                            "Friction",
+                            "Magnetism",
+                            "Tension"
+                        ],
+                        "answer": 1,
+                        "explanation": "Friction acts in the opposite direction of movement."
+                    },
+                    {
+                        "q": "What is the escape velocity from the Moon?",
+                        "options": [
+                            "1.2 km/s",
+                            "2.4 km/s",
+                            "5.0 km/s",
+                            "11.2 km/s"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Moon's gravity is much weaker than Earth's."
+                    },
+                    {
+                        "q": "Which physical quantity remains constant in a uniform circular motion?",
+                        "options": [
+                            "Velocity",
+                            "Acceleration",
+                            "Speed",
+                            "Displacement"
+                        ],
+                        "answer": 2,
+                        "explanation": "While direction changes (so velocity changes), the speed (magnitude) is constant."
+                    },
+                    {
+                        "q": "What is the product of mass and velocity called?",
+                        "options": [
+                            "Work",
+                            "Power",
+                            "Momentum",
+                            "Force"
+                        ],
+                        "answer": 2,
+                        "explanation": "p = mv."
+                    },
+                    {
+                        "q": "What is the value of one horsepower in watts?",
+                        "options": [
+                            "500 W",
+                            "746 W",
+                            "1000 W",
+                            "1200 W"
+                        ],
+                        "answer": 1,
+                        "explanation": "1 hp = 746 Watts."
+                    },
+                    {
+                        "q": "Which state of matter has the highest kinetic energy?",
+                        "options": [
+                            "Solid",
+                            "Liquid",
+                            "Gas",
+                            "Plasma"
+                        ],
+                        "answer": 3,
+                        "explanation": "Plasma consists of highly energized ions and electrons."
+                    },
+                    {
+                        "q": "Which force holds the planets in their orbits around the Sun?",
+                        "options": [
+                            "Magnetic force",
+                            "Electric force",
+                            "Gravitational force",
+                            "Nuclear force"
+                        ],
+                        "answer": 2,
+                        "explanation": "Gravity provides the centripetal force for orbit."
+                    },
+                    {
+                        "q": "Which effect explains why the pitch of a siren changes as it moves past you?",
+                        "options": [
+                            "Tyndall Effect",
+                            "Doppler Effect",
+                            "Photoelectric Effect",
+                            "Compton Effect"
+                        ],
+                        "answer": 1,
+                        "explanation": "The Doppler effect is the change in frequency due to motion."
+                    },
+                    {
+                        "q": "Which device converts electrical energy into mechanical energy?",
+                        "options": [
+                            "Generator",
+                            "Motor",
+                            "Transformer",
+                            "Rectifier"
+                        ],
+                        "answer": 1,
+                        "explanation": "An electric motor uses magnetic fields to create rotation."
+                    },
+                    {
+                        "q": "What is the name for the property of an object to resist changes in its motion?",
+                        "options": [
+                            "Momentum",
+                            "Inertia",
+                            "Gravity",
+                            "Friction"
+                        ],
+                        "answer": 1,
+                        "explanation": "Mass is a measure of inertia."
+                    },
+                    {
+                        "q": "What is the energy of motion called?",
+                        "options": [
+                            "Potential Energy",
+                            "Kinetic Energy",
+                            "Chemical Energy",
+                            "Thermal Energy"
+                        ],
+                        "answer": 1,
+                        "explanation": "K.E. = 1/2 mv2."
+                    }
+                ]
+            },
+            {
+                "category": "Thermodynamics & Heat (حرارت)",
+                "icon": "fa-temperature-high",
+                "questions": [
+                    {
+                        "q": "Absolute zero temperature is?",
+                        "options": [
+                            "0°C",
+                            "-273.15°C",
+                            "273.15°C",
+                            "-32°F"
+                        ],
+                        "answer": 1,
+                        "explanation": "0 Kelvin (K) equals -273.15 degrees Celsius."
+                    },
+                    {
+                        "q": "Which electromagnetic radiation has the longest wavelength?",
+                        "options": [
+                            "Gamma rays",
+                            "X-rays",
+                            "Radio waves",
+                            "Infrared"
+                        ],
+                        "answer": 2,
+                        "explanation": "Radio waves have the lowest frequency and longest wavelength."
+                    },
+                    {
+                        "q": "What is the heat required to change the state of a substance without temperature change?",
+                        "options": [
+                            "Specific heat",
+                            "Latent heat",
+                            "Thermal capacity",
+                            "Conduction"
+                        ],
+                        "answer": 1,
+                        "explanation": "Latent heat is absorbed or released during phase changes."
+                    },
+                    {
+                        "q": "What is the process of heat transfer through direct contact?",
+                        "options": [
+                            "Convection",
+                            "Radiation",
+                            "Conduction",
+                            "Insulation"
+                        ],
+                        "answer": 2,
+                        "explanation": "Conduction occurs primarily in solids."
+                    }
+                ]
+            },
+            {
+                "category": "Waves and Oscillations (لہریں اور تھرتھراہٹ)",
+                "icon": "fa-wave-square",
+                "questions": [
+                    {
+                        "q": "Which type of wave is sound?",
+                        "options": [
+                            "Transverse",
+                            "Longitudinal",
+                            "Electromagnetic",
+                            "Surface"
+                        ],
+                        "answer": 1,
+                        "explanation": "Sound waves are mechanical longitudinal waves."
+                    },
+                    {
+                        "q": "Which color of light deviates the most through a prism?",
+                        "options": [
+                            "Red",
+                            "Green",
+                            "Yellow",
+                            "Violet"
+                        ],
+                        "answer": 3,
+                        "explanation": "Violet has the shortest wavelength and deviates the most."
+                    },
+                    {
+                        "q": "Which light has the longest wavelength in the visible spectrum?",
+                        "options": [
+                            "Violet",
+                            "Blue",
+                            "Green",
+                            "Red"
+                        ],
+                        "answer": 3,
+                        "explanation": "Red light has the lowest frequency and longest wavelength."
+                    },
+                    {
+                        "q": "Which color of light is least scattered by fog or smoke?",
+                        "options": [
+                            "Blue",
+                            "Green",
+                            "Yellow",
+                            "Red"
+                        ],
+                        "answer": 3,
+                        "explanation": "Red has the longest wavelength, making it ideal for danger signals."
+                    }
+                ]
+            },
+            {
+                "category": "Optics (بصریات - روشنی، آئینے، لینس)",
+                "icon": "fa-eye",
+                "questions": [
+                    {
+                        "q": "The bending of light when it enters another medium is called?",
+                        "options": [
+                            "Reflection",
+                            "Refraction",
+                            "Diffraction",
+                            "Dispersion"
+                        ],
+                        "answer": 1,
+                        "explanation": "Refraction occurs due to the change in the speed of light in different media."
+                    },
+                    {
+                        "q": "Which mirror is used as a rear-view mirror in vehicles?",
+                        "options": [
+                            "Concave",
+                            "Convex",
+                            "Plane",
+                            "Bifocal"
+                        ],
+                        "answer": 1,
+                        "explanation": "Convex mirrors provide a wider field of view."
+                    },
+                    {
+                        "q": "Short-sightedness is corrected by using?",
+                        "options": [
+                            "Concave lens",
+                            "Convex lens",
+                            "Cylindrical lens",
+                            "Plane mirror"
+                        ],
+                        "answer": 0,
+                        "explanation": "Myopia is corrected by diverging lenses."
+                    },
+                    {
+                        "q": "Which lens is used to correct far-sightedness (hyperopia)?",
+                        "options": [
+                            "Concave",
+                            "Convex",
+                            "Cylindrical",
+                            "Bifocal"
+                        ],
+                        "answer": 1,
+                        "explanation": "Convex (converging) lenses help focus light on the retina."
+                    },
+                    {
+                        "q": "Which type of mirror is used as a shaving mirror?",
+                        "options": [
+                            "Convex",
+                            "Concave",
+                            "Plane",
+                            "Cylindrical"
+                        ],
+                        "answer": 1,
+                        "explanation": "Concave mirrors provide a magnified upright image when close."
+                    },
+                    {
+                        "q": "Which colors are the primary colors of light?",
+                        "options": [
+                            "Red, Blue, Yellow",
+                            "Red, Green, Blue",
+                            "Yellow, Cyan, Magenta",
+                            "Red, White, Black"
+                        ],
+                        "answer": 1,
+                        "explanation": "RGB are the additive primary colors."
+                    },
+                    {
+                        "q": "Which type of lens is a magnifying glass?",
+                        "options": [
+                            "Concave",
+                            "Convex",
+                            "Plano-concave",
+                            "Cylindrical"
+                        ],
+                        "answer": 1,
+                        "explanation": "A biconvex lens produces a virtual magnified image."
+                    },
+                    {
+                        "q": "Which mirror is used in solar cookers to focus sunlight?",
+                        "options": [
+                            "Convex",
+                            "Concave",
+                            "Plane",
+                            "Parabolic"
+                        ],
+                        "answer": 1,
+                        "explanation": "Concave (or parabolic) mirrors converge light at a point."
+                    },
+                    {
+                        "q": "What is the phenomenon of splitting white light into its component colors?",
+                        "options": [
+                            "Reflection",
+                            "Refraction",
+                            "Dispersion",
+                            "Total internal reflection"
+                        ],
+                        "answer": 2,
+                        "explanation": "A prism causes dispersion because different colors refract at different angles."
+                    },
+                    {
+                        "q": "Which instrument is used to see very small objects?",
+                        "options": [
+                            "Telescope",
+                            "Microscope",
+                            "Periscope",
+                            "Endoscope"
+                        ],
+                        "answer": 1,
+                        "explanation": "Microscopes use lenses or electrons for magnification."
+                    },
+                    {
+                        "q": "Which mirror provides a wide field of view and is used in parking lots?",
+                        "options": [
+                            "Concave",
+                            "Convex",
+                            "Plane",
+                            "Cylindrical"
+                        ],
+                        "answer": 1,
+                        "explanation": "Convex mirrors produce virtual, diminished, and upright images."
+                    }
+                ]
+            },
+            {
+                "category": "Electricity & Magnetism (بجلی اور مقناطیسیت)",
+                "icon": "fa-bolt",
+                "questions": [
+                    {
+                        "q": "Which particle in an atom has no electric charge?",
+                        "options": [
+                            "Proton",
+                            "Electron",
+                            "Neutron",
+                            "Positron"
+                        ],
+                        "answer": 2,
+                        "explanation": "Neutrons are neutral particles in the nucleus."
+                    },
+                    {
+                        "q": "What is the primary function of a transformer?",
+                        "options": [
+                            "Change DC to AC",
+                            "Change voltage levels",
+                            "Store energy",
+                            "Measure current"
+                        ],
+                        "answer": 1,
+                        "explanation": "Transformers step up or step down AC voltage."
+                    },
+                    {
+                        "q": "Which law relates the current flow to voltage and resistance?",
+                        "options": [
+                            "Faraday's Law",
+                            "Ohm's Law",
+                            "Lenz's Law",
+                            "Coulomb's Law"
+                        ],
+                        "answer": 1,
+                        "explanation": "V = IR."
+                    }
+                ]
+            },
+            {
+                "category": "Electromagnetism (برقی مقناطیسیت)",
+                "icon": "fa-magnet",
+                "questions": [
+                    {
+                        "q": "The Dynamo converts?",
+                        "options": [
+                            "Heat to Light",
+                            "Mechanical to Electrical",
+                            "Electrical to Mechanical",
+                            "Chemical to Heat"
+                        ],
+                        "answer": 1,
+                        "explanation": "A dynamo (generator) uses electromagnetic induction."
+                    }
+                ]
+            },
+            {
+                "category": "Modern & Atomic Physics (جدید اور ایٹمی طبیعیات)",
+                "icon": "fa-atom",
+                "questions": [
+                    {
+                        "q": "Who discovered the Electron?",
+                        "options": [
+                            "Ernest Rutherford",
+                            "J.J. Thomson",
+                            "John Dalton",
+                            "James Chadwick"
+                        ],
+                        "answer": 1,
+                        "explanation": "J.J. Thomson discovered the electron in 1897."
+                    },
+                    {
+                        "q": "Which radioactive particle is identical to a helium nucleus?",
+                        "options": [
+                            "Alpha particle",
+                            "Beta particle",
+                            "Gamma ray",
+                            "Neutron"
+                        ],
+                        "answer": 0,
+                        "explanation": "An alpha particle consists of 2 protons and 2 neutrons."
+                    }
+                ]
+            },
+            {
+                "category": "Nuclear Physics (تابکاری)",
+                "icon": "fa-radiation",
+                "questions": [
+                    {
+                        "q": "Who discovered radioactivity?",
+                        "options": [
+                            "Marie Curie",
+                            "Henri Becquerel",
+                            "Rutherford",
+                            "Chadwick"
+                        ],
+                        "answer": 1,
+                        "explanation": "Becquerel discovered it while experimenting with uranium."
+                    }
+                ]
+            },
+            {
+                "category": "Electronics (سیمی کنڈکٹرز، سرکٹس)",
+                "icon": "fa-microchip",
+                "questions": []
+            },
+            {
+                "category": "Astrophysics & Space Science (خلائی علم)",
+                "icon": "fa-user-astronaut",
+                "questions": []
             }
         ]
     },
