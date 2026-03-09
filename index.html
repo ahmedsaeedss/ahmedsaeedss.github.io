@@ -3,6 +3,12 @@
 
 <head>
     <meta charset="UTF-8">
+    <script>
+        // Dynamically set base path for GitHub Pages, but don't break local file:/// testing
+        if (window.location.protocol !== 'file:') {
+            document.write('<base href="/">');
+        }
+    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script type="text/javascript">
         // GitHub Pages SPA Hero

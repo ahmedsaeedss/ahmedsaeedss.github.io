@@ -305,7 +305,64 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
 
-        // Initialize with a push to ensure a "back" doesn't immediately exit
+        // Parse initial URL
+        handleInitialRoute();
+    }
+
+    function handleInitialRoute() {
+        let path = '';
+        if (window.location.protocol === 'file:') {
+            path = window.location.hash.replace('#', '');
+        } else {
+            // For GitHub Pages, the path after the repo name
+            const fullPath = window.location.pathname;
+            // Get the last segments if it's deeply nested
+            const matches = fullPath.match(/\/(topics|practice|quiz)\/.+$/);
+            if (matches) {
+                path = matches[0].substring(1); // remove leading slash
+            }
+        }
+
+        if (!path || path === 'home') {
+            const homePath = window.location.protocol === 'file:' ? '#home' : '/home';
+            history.replaceState({ screen: 'categories' }, '', homePath);
+            history.pushState({ screen: 'categories' }, '', homePath);
+            return; // renderCategories is already called in init()
+        }
+
+        if (path.startsWith('topics/')) {
+            const topicSlug = path.replace('topics/', '');
+            const mainCat = mainQuizData.find(c => (c.name || "").toLowerCase().replace(/ /g, '-') === topicSlug);
+
+            if (mainCat) {
+                const state = { screen: 'categories', mainCategory: mainCat };
+                const formattedPath = window.location.protocol === 'file:' ? '#' + path : '/' + path;
+                history.replaceState(state, '', formattedPath);
+                history.pushState(state, '', formattedPath);
+
+                // hide categories grid and show subcategories
+                showSubcategories(mainCat, true);
+                return;
+            }
+        } else if (path.startsWith('practice/')) {
+            const practiceSlug = path.replace('practice/', '');
+            let foundSub = null;
+            for (const mc of mainQuizData) {
+                foundSub = mc.subcategories.find(s => (s.category || "").toLowerCase().replace(/ /g, '-') === practiceSlug);
+                if (foundSub) break;
+            }
+            if (foundSub) {
+                const state = { screen: 'set', subcategoryData: foundSub };
+                const formattedPath = window.location.protocol === 'file:' ? '#' + path : '/' + path;
+                history.replaceState(state, '', formattedPath);
+                history.pushState(state, '', formattedPath);
+
+                startSubcategory(foundSub, true);
+                return;
+            }
+        }
+
+        // Fallback
         const homePath = window.location.protocol === 'file:' ? '#home' : '/home';
         history.replaceState({ screen: 'categories' }, '', homePath);
         history.pushState({ screen: 'categories' }, '', homePath);
