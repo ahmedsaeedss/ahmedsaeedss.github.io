@@ -92,55 +92,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Hashing logic is handled exclusively by switchScreen to prevent conflicts
     }
 
-    function checkPathForDeepLink() {
-        console.log("Checking path for deep link:", window.location.pathname, window.location.hash);
-
-        let target = "";
-        const path = window.location.pathname;
-        const hash = window.location.hash;
-
-        // Priority 1: Check Hash (Fallback/Local)
-        if (hash.length > 1) {
-            target = decodeURIComponent(hash.substring(1)).replace(/-/g, ' ').toLowerCase();
-            console.log("Found hash target:", target);
-        }
-        // Priority 2: Check Path (Server/SEO)
-        else if (path !== '/' && !path.includes('index.html')) {
-            if (path.startsWith('/practice/')) {
-                target = decodeURIComponent(path.substring(10)).replace(/-/g, ' ').toLowerCase();
-            } else if (path.startsWith('/topics/')) {
-                target = decodeURIComponent(path.substring(8)).replace(/-/g, ' ').toLowerCase();
-            } else if (path.length > 1) {
-                target = decodeURIComponent(path.substring(1)).replace(/-/g, ' ').toLowerCase();
-            }
-            console.log("Found path target:", target);
-        }
-
-        if (!target || target === 'home') return;
-
-        // Try to find matching subcategory and auto-open it
-        let found = false;
-        mainQuizData.forEach(mainCat => {
-            mainCat.subcategories.forEach(subCat => {
-                if (subCat.category.toLowerCase() === target || (subCat.isFolder && subCat.category.toLowerCase() === target)) {
-                    selectedMainCategory = mainCat.category;
-                    if (subCat.isFolder) {
-                        showNestedSubcategories(mainCat, subCat);
-                    } else {
-                        startSubcategory(subCat);
-                    }
-                    found = true;
-                }
-            });
-        });
-
-        if (found) {
-            console.log(`Deep linked successfully to: ${target}`);
-        }
-    }
-
-    // Call deep link check on load
-    window.addEventListener('load', checkPathForDeepLink);
+    // Call deep link check on load removed as handleInitialRoute handles initialization now
 
     let isExamMode = false;
     let examTimeLeft = 0;
