@@ -49,6 +49,7 @@ body {
     flex-direction: column;
     min-height: 100vh;
     transition: background-color 0.3s ease, color 0.3s ease;
+    overflow-x: hidden;
 }
 
 .background-pattern {
@@ -869,6 +870,29 @@ body {
         flex-direction: column;
         text-align: center;
         gap: 1.5rem;
+    }
+
+    .modal-content {
+        padding: 1.5rem;
+        width: 95%;
+    }
+    
+    .question-container {
+        padding: 1.5rem;
+    }
+    
+    .result-card {
+        padding: 2rem 1.5rem;
+    }
+
+    .options-grid-mobile {
+        grid-template-columns: 1fr !important;
+    }
+
+    .stats-grid-vertical .stat-card {
+        flex-direction: column;
+        text-align: center;
+        padding: 1rem;
     }
 }
 
