@@ -628,7 +628,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const reviewsHeader = reviewsSidebar.querySelector('.reviews-header');
             if (reviewsHeader) {
                 reviewsHeader.addEventListener('click', () => {
-                    if (window.innerWidth <= 900) {
+                    if (window.innerWidth <= 1360) {
                         toggleReviews();
                     }
                 });
