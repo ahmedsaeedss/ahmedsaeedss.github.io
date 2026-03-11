@@ -56,6 +56,10 @@ document.addEventListener('DOMContentLoaded', () => {
     let timerInterval;
     const timePerQuestion = 60;
     let timeLeft = timePerQuestion;
+    
+    // Auth State
+    let isLoggedIn = localStorage.getItem('isLoggedIn') === 'true';
+    let userRole = localStorage.getItem('userRole') || 'user';
 
     // --- Dynamic SEO & URL Handling ---
     function updateMetaTags(title, parentCategory, isQuizView) {
@@ -142,8 +146,42 @@ document.addEventListener('DOMContentLoaded', () => {
             document.body.setAttribute('data-theme', 'dark');
             themeToggleBtn.innerHTML = '<i class="fa-solid fa-sun"></i>';
         }
+        updateAuthUI();
         renderCategories();
         bindEvents();
+    }
+
+    function updateAuthUI() {
+        const authBtn = document.getElementById('auth-btn');
+        const navItemAdmin = document.getElementById('nav-item-admin');
+        
+        if (!authBtn) return;
+        
+        // Ensure the label exists inside authBtn
+        let authBtnLabel = authBtn.querySelector('.btn-label');
+        let authBtnIcon = authBtn.querySelector('i');
+        
+        if (!authBtnLabel || !authBtnIcon) return;
+        
+        if (isLoggedIn) {
+            authBtnLabel.textContent = "Logout";
+            authBtnIcon.className = "fa-solid fa-user-check";
+            authBtn.classList.remove('auth-btn-unlogged');
+            authBtn.classList.add('auth-btn-logged');
+            if (navItemAdmin) {
+                if (userRole === 'admin') {
+                    navItemAdmin.classList.remove('hidden');
+                } else {
+                    navItemAdmin.classList.add('hidden');
+                }
+            }
+        } else {
+            authBtnLabel.textContent = "Login";
+            authBtnIcon.className = "fa-solid fa-right-to-bracket";
+            authBtn.classList.remove('auth-btn-logged');
+            authBtn.classList.add('auth-btn-unlogged');
+            if (navItemAdmin) navItemAdmin.classList.add('hidden');
+        }
     }
 
     function bindEvents() {
@@ -185,6 +223,14 @@ document.addEventListener('DOMContentLoaded', () => {
         const shareBtn = document.getElementById('share-score-btn');
         if (shareBtn) shareBtn.addEventListener('click', shareScore);
 
+        // Initialize general share buttons
+        document.querySelectorAll('.side-share-bar .share-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                const platform = Array.from(btn.classList).find(c => ['whatsapp', 'facebook', 'twitter', 'telegram', 'copy'].includes(c));
+                handleGeneralShare(platform);
+            });
+        });
+
         if (bookmarkBtn) bookmarkBtn.addEventListener('click', toggleBookmark);
 
         const navHome = document.getElementById('nav-home');
@@ -194,6 +240,183 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const navMistakes = document.getElementById('nav-mistakes');
         const navLeaderboard = document.getElementById('nav-leaderboard');
+        const navAddMcq = document.getElementById('nav-add-mcq');
+        const navAdmin = document.getElementById('nav-admin');
+        const authBtn = document.getElementById('auth-btn'); // Add this back here
+        
+        // --- Auth & Login Logic ---
+        const loginModal = document.getElementById('login-modal');
+        const closeLoginModalBtn = document.getElementById('close-login-modal');
+        const submitLoginBtn = document.getElementById('submit-login-btn');
+        const loginUsernameInput = document.getElementById('login-username');
+        const loginPasswordInput = document.getElementById('login-password');
+
+        if (authBtn) {
+            authBtn.addEventListener('click', () => {
+                if (isLoggedIn) {
+                    // Perform Logout
+                    isLoggedIn = false;
+                    userRole = 'user';
+                    localStorage.setItem('isLoggedIn', false);
+                    localStorage.setItem('userRole', 'user');
+                    updateAuthUI();
+                    showToast("Logged out successfully!");
+                } else if (loginModal) {
+                    // Open Login Modal
+                    loginModal.classList.remove('hidden');
+                }
+            });
+        }
+
+        if (closeLoginModalBtn && loginModal) {
+            closeLoginModalBtn.addEventListener('click', () => {
+                loginModal.classList.add('hidden');
+            });
+        }
+
+        if (submitLoginBtn && loginUsernameInput && loginPasswordInput && loginModal) {
+            submitLoginBtn.addEventListener('click', () => {
+                const username = loginUsernameInput.value.trim();
+                const password = loginPasswordInput.value.trim();
+                
+                if (!username || !password) {
+                    alert("Please enter both username and password.");
+                    return;
+                }
+
+                // Hardcoded Admin Check
+                if (username === 'admin' && password === 'admin123') {
+                    isLoggedIn = true;
+                    userRole = 'admin';
+                    showToast("Logged in as Admin successfully!");
+                } else {
+                    isLoggedIn = true;
+                    userRole = 'user';
+                    showToast(`Logged in as ${username}.`);
+                }
+
+                localStorage.setItem('isLoggedIn', true);
+                localStorage.setItem('userRole', userRole);
+                updateAuthUI();
+                
+                loginUsernameInput.value = '';
+                loginPasswordInput.value = '';
+                loginModal.classList.add('hidden');
+            });
+        }
+
+        // --- Admin Panel Logic ---
+        const adminModal = document.getElementById('admin-modal');
+        const closeAdminModalBtn = document.getElementById('close-admin-modal');
+        const adminPendingList = document.getElementById('admin-pending-list');
+
+        function renderAdminPending() {
+            if (!adminPendingList) return;
+            const pendingMcqs = JSON.parse(localStorage.getItem('user_submitted_mcqs') || '[]');
+            adminPendingList.innerHTML = '';
+
+            if (pendingMcqs.length === 0) {
+                adminPendingList.innerHTML = '<p style="text-align: center; color: var(--text-muted); padding: 2rem;">No pending MCQs to review.</p>';
+                return;
+            }
+
+            pendingMcqs.forEach((mcq, index) => {
+                const card = document.createElement('div');
+                card.className = 'admin-mcq-card';
+                
+                const optLabels = ['A', 'B', 'C', 'D'];
+                let optionsHtml = '';
+                mcq.options.forEach((opt, oIdx) => {
+                    optionsHtml += `<li><strong>${optLabels[oIdx]}:</strong> ${opt}</li>`;
+                });
+
+                card.innerHTML = `
+                    <h4><i class="fa-solid fa-folder-open"></i> Category: ${mcq.category}</h4>
+                    <p><strong>Q:</strong> ${mcq.q}</p>
+                    <ul>${optionsHtml}</ul>
+                    <div class="correct-opt"><i class="fa-solid fa-check"></i> Correct Answer: Option ${optLabels[mcq.answer]}</div>
+                    <div class="admin-actions">
+                        <button class="approve-btn" data-index="${index}"><i class="fa-solid fa-check-double"></i> Approve</button>
+                        <button class="reject-btn" data-index="${index}"><i class="fa-solid fa-trash-can"></i> Reject</button>
+                    </div>
+                `;
+                adminPendingList.appendChild(card);
+            });
+
+            // Bind Action Buttons
+            document.querySelectorAll('.approve-btn').forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    const idx = parseInt(e.target.closest('button').getAttribute('data-index'));
+                    approveMcq(idx);
+                });
+            });
+
+            document.querySelectorAll('.reject-btn').forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    const idx = parseInt(e.target.closest('button').getAttribute('data-index'));
+                    rejectMcq(idx);
+                });
+            });
+        }
+
+        function approveMcq(index) {
+            let pendingMcqs = JSON.parse(localStorage.getItem('user_submitted_mcqs') || '[]');
+            if (index < 0 || index >= pendingMcqs.length) return;
+            
+            const mcq = pendingMcqs[index];
+            
+            // Find target subcategory to add the question
+            let found = false;
+            for (let main of mainQuizData) {
+                for (let sub of main.subcategories) {
+                    if (sub.category === mcq.category) {
+                        sub.questions.push({
+                            q: mcq.q,
+                            options: mcq.options,
+                            answer: mcq.answer
+                        });
+                        found = true;
+                        break;
+                    }
+                }
+                if (found) break;
+            }
+            
+            if (found) {
+                // Remove from pending
+                pendingMcqs.splice(index, 1);
+                localStorage.setItem('user_submitted_mcqs', JSON.stringify(pendingMcqs));
+                showToast("MCQ Approved and added to the Quiz Bank!");
+                renderAdminPending();
+            } else {
+                alert("Error: Target category not found in the dataset.");
+            }
+        }
+
+        function rejectMcq(index) {
+            if (!confirm("Are you sure you want to reject and delete this submitted MCQ?")) return;
+            let pendingMcqs = JSON.parse(localStorage.getItem('user_submitted_mcqs') || '[]');
+            if (index < 0 || index >= pendingMcqs.length) return;
+            
+            pendingMcqs.splice(index, 1);
+            localStorage.setItem('user_submitted_mcqs', JSON.stringify(pendingMcqs));
+            showToast("MCQ Rejected and removed from queue.", true);
+            renderAdminPending();
+        }
+
+        if (navAdmin && adminModal) {
+            navAdmin.addEventListener('click', (e) => {
+                e.preventDefault();
+                renderAdminPending();
+                adminModal.classList.remove('hidden');
+            });
+        }
+
+        if (closeAdminModalBtn && adminModal) {
+            closeAdminModalBtn.addEventListener('click', () => {
+                adminModal.classList.add('hidden');
+            });
+        }
 
         if (navHome) navHome.addEventListener('click', (e) => { e.preventDefault(); showMainCategories(); });
         if (navDaily) navDaily.addEventListener('click', (e) => { e.preventDefault(); startDailyMCQs(); });
@@ -202,6 +425,94 @@ document.addEventListener('DOMContentLoaded', () => {
         if (navBookmarks) navBookmarks.addEventListener('click', (e) => { e.preventDefault(); startBookmarksQuiz(); });
         if (navMistakes) navMistakes.addEventListener('click', (e) => { e.preventDefault(); startMistakesQuiz(); });
         if (navLeaderboard) navLeaderboard.addEventListener('click', (e) => { e.preventDefault(); openLeaderboard(); });
+        
+        // --- Add MCQs Logic ---
+        const addMcqModal = document.getElementById('add-mcq-modal');
+        const closeAddMcqBtn = document.getElementById('close-add-mcq-modal');
+        const submitMcqBtn = document.getElementById('submit-mcq-btn');
+        const mcqCategorySelect = document.getElementById('mcq-category');
+
+        if (navAddMcq && mcqCategorySelect && addMcqModal) {
+            navAddMcq.addEventListener('click', (e) => { 
+                e.preventDefault(); 
+                if (!isLoggedIn) {
+                    showToast("Please login top right to add your own MCQs.");
+                    return;
+                }
+                
+                // Populate categories dropdown
+                mcqCategorySelect.innerHTML = '<option value="">-- Choose Category --</option>';
+                mainQuizData.forEach(mainCat => {
+                    const optgroup = document.createElement('optgroup');
+                    optgroup.label = mainCat.name;
+                    mainCat.subcategories.forEach(sub => {
+                        const opt = document.createElement('option');
+                        opt.value = sub.category;
+                        opt.textContent = sub.category;
+                        optgroup.appendChild(opt);
+                    });
+                    mcqCategorySelect.appendChild(optgroup);
+                });
+
+                addMcqModal.classList.remove('hidden');
+            });
+        }
+
+        if (closeAddMcqBtn && addMcqModal) {
+            closeAddMcqBtn.addEventListener('click', () => {
+                addMcqModal.classList.add('hidden');
+            });
+        }
+
+        if (submitMcqBtn && mcqCategorySelect) {
+            submitMcqBtn.addEventListener('click', () => {
+                const category = mcqCategorySelect.value;
+                const questionText = document.getElementById('mcq-question').value;
+                const optA = document.getElementById('mcq-opt-a').value;
+                const optB = document.getElementById('mcq-opt-b').value;
+                const optC = document.getElementById('mcq-opt-c').value;
+                const optD = document.getElementById('mcq-opt-d').value;
+                const correctOpt = document.getElementById('mcq-correct').value;
+
+            if (!category || !questionText.trim() || !optA.trim() || !optB.trim() || !optC.trim() || !optD.trim() || !correctOpt) {
+                alert("Please fill in all fields.");
+                return;
+            }
+
+            submitMcqBtn.disabled = true;
+            submitMcqBtn.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Submitting...';
+
+            const userQ = {
+                category,
+                q: questionText,
+                options: [optA, optB, optC, optD],
+                answer: parseInt(correctOpt),
+                timestamp: new Date().toISOString()
+            };
+
+            // Simulate sending to backend; save locally for now
+            setTimeout(() => {
+                let userMcqs = JSON.parse(localStorage.getItem('user_submitted_mcqs') || '[]');
+                userMcqs.push(userQ);
+                localStorage.setItem('user_submitted_mcqs', JSON.stringify(userMcqs));
+                
+                showToast("Question submitted successfully! It will be reviewed by admin.");
+                addMcqModal.classList.add('hidden');
+                
+                // Form reset
+                mcqCategorySelect.value = '';
+                document.getElementById('mcq-question').value = '';
+                document.getElementById('mcq-opt-a').value = '';
+                document.getElementById('mcq-opt-b').value = '';
+                document.getElementById('mcq-opt-c').value = '';
+                document.getElementById('mcq-opt-d').value = '';
+                document.getElementById('mcq-correct').value = '';
+                
+                submitMcqBtn.disabled = false;
+                submitMcqBtn.textContent = 'Submit Question';
+            }, 1000);
+        });
+        }
 
         if (closeExamModalBtn) closeExamModalBtn.addEventListener('click', closeExamModal);
         if (startExamBtn) startExamBtn.addEventListener('click', startTimedExam);
@@ -219,10 +530,148 @@ document.addEventListener('DOMContentLoaded', () => {
             if (e.target === dashboardModal) closeDashboard();
             if (e.target === examModal) closeExamModal();
             if (e.target === leaderboardModal) closeLeaderboard();
+            if (addMcqModal && e.target === addMcqModal) addMcqModal.classList.add('hidden');
+            if (adminModal && e.target === adminModal) adminModal.classList.add('hidden');
+            if (loginModal && e.target === loginModal) loginModal.classList.add('hidden');
         });
 
         const closeLeaderboardBtn = document.getElementById('close-leaderboard');
         if (closeLeaderboardBtn) closeLeaderboardBtn.addEventListener('click', closeLeaderboard);
+
+        // --- Review Modal Logic ---
+        const reviewModal = document.getElementById('review-modal');
+        const openReviewModalBtn = document.querySelector('.leave-review-btn');
+        const closeReviewModalBtn = document.getElementById('close-review-modal');
+        const starRatingContainer = document.querySelector('.star-rating');
+        const stars = document.querySelectorAll('.star-rating i');
+        const submitReviewBtn = document.getElementById('submit-review-btn');
+        let selectedRating = 0;
+
+        if (openReviewModalBtn) {
+            openReviewModalBtn.addEventListener('click', () => {
+                reviewModal.classList.remove('hidden');
+                resetReviewForm();
+            });
+        }
+
+        if (closeReviewModalBtn) {
+            closeReviewModalBtn.addEventListener('click', () => {
+                reviewModal.classList.add('hidden');
+            });
+        }
+
+        stars.forEach(star => {
+            star.addEventListener('mouseover', () => {
+                const rating = parseInt(star.getAttribute('data-rating'));
+                updateStars(rating, true);
+            });
+
+            star.addEventListener('mouseout', () => {
+                updateStars(selectedRating);
+            });
+
+            star.addEventListener('click', () => {
+                selectedRating = parseInt(star.getAttribute('data-rating'));
+                updateStars(selectedRating);
+            });
+        });
+
+        function updateStars(rating, isHover = false) {
+            stars.forEach(s => {
+                const sRating = parseInt(s.getAttribute('data-rating'));
+                if (sRating <= rating) {
+                    s.classList.add(isHover ? 'hover' : 'active');
+                    s.classList.replace('fa-regular', 'fa-solid');
+                } else {
+                    s.classList.remove('hover', 'active');
+                    s.classList.replace('fa-solid', 'fa-regular');
+                }
+            });
+        }
+
+        function resetReviewForm() {
+            selectedRating = 0;
+            updateStars(0);
+            document.getElementById('review-name').value = '';
+            document.getElementById('review-text').value = '';
+        }
+
+        if (submitReviewBtn) {
+            submitReviewBtn.addEventListener('click', () => {
+                const name = document.getElementById('review-name').value;
+                const text = document.getElementById('review-text').value;
+
+                if (selectedRating === 0) {
+                    alert("Please select a rating!");
+                    return;
+                }
+                if (!name.trim()) {
+                    alert("Please enter your name!");
+                    return;
+                }
+
+                submitReviewBtn.disabled = true;
+                submitReviewBtn.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Submitting...';
+
+                const newReview = {
+                    name,
+                    text,
+                    rating,
+                    timestamp: new Date().toISOString()
+                };
+
+                // Function to handle successful submission (UI feedback)
+                const handleSuccess = (message) => {
+                    setTimeout(() => {
+                        showToast(message);
+                        reviewModal.classList.add('hidden');
+                        submitReviewBtn.disabled = false;
+                        submitReviewBtn.textContent = 'Submit Review';
+                        document.getElementById('review-name').value = '';
+                        document.getElementById('review-text').value = '';
+                    }, 800);
+                };
+
+                // Offline Support Logic
+                if (!navigator.onLine) {
+                    let offlineReviews = JSON.parse(localStorage.getItem('offline_reviews') || '[]');
+                    offlineReviews.push(newReview);
+                    localStorage.setItem('offline_reviews', JSON.stringify(offlineReviews));
+                    
+                    handleSuccess("Saved offline! Your review will be submitted when you reconnect.");
+                } else {
+                    // Simulate online submission - replace with actual API/Firebase logic later
+                    setTimeout(() => {
+                        handleSuccess("Thank you for your review! It will be visible after moderation.");
+                    }, 1000);
+                }
+            });
+
+            // Listen for network reconnection to sync offline reviews
+            window.addEventListener('online', () => {
+                const offlineReviews = JSON.parse(localStorage.getItem('offline_reviews') || '[]');
+                if (offlineReviews.length > 0) {
+                    showToast(`Syncing ${offlineReviews.length} offline review(s)...`);
+                    
+                    // Simulate syncing to server
+                    setTimeout(() => {
+                        localStorage.removeItem('offline_reviews');
+                        showToast("Offline reviews synced successfully!");
+                    }, 2000);
+                }
+            });
+        }
+
+        // Close review modal on outside click
+        window.addEventListener('click', (e) => {
+            if (e.target === reviewModal) reviewModal.classList.add('hidden');
+            const examModal = document.getElementById('exam-modal');
+            const leaderboardModal = document.getElementById('leaderboard-modal');
+            const dashboardModal = document.getElementById('dashboard-modal');
+            if (e.target === dashboardModal) closeDashboard();
+            if (e.target === examModal) closeExamModal();
+            if (e.target === leaderboardModal) closeLeaderboard();
+        });
 
         // Handle native back button navigation
         window.addEventListener('popstate', (e) => {
@@ -694,6 +1143,74 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // --- Share Logic ---
+    function getGeneralShareData() {
+        const url = window.location.href;
+        let text = "Check out this amazing MCQs preparation website! 🚀";
+        
+        if (currentSubcategoryData && screens.set.classList.contains('active')) {
+            text = `Master ${currentSubcategoryData.category} MCQs on MCQs Master! 📚`;
+        } else if (currentMainCategory && screens.categories.classList.contains('active')) {
+            text = `Practice ${currentMainCategory.name} MCQs online for free! 🎯`;
+        }
+        
+        return { url, text };
+    }
+
+    function handleGeneralShare(platform) {
+        const { url, text } = getGeneralShareData();
+        const encodedUrl = encodeURIComponent(url);
+        const encodedText = encodeURIComponent(text);
+
+        let shareUrl = '';
+        switch (platform) {
+            case 'whatsapp':
+                shareUrl = `https://api.whatsapp.com/send?text=${encodedText}%20${encodedUrl}`;
+                break;
+            case 'facebook':
+                shareUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}&quote=${encodedText}`;
+                break;
+            case 'twitter':
+                shareUrl = `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedText}`;
+                break;
+            case 'telegram':
+                shareUrl = `https://t.me/share/url?url=${encodedUrl}&text=${encodedText}`;
+                break;
+            case 'copy':
+                copyToClipboard(url);
+                return;
+        }
+
+        if (shareUrl) {
+            window.open(shareUrl, '_blank');
+        }
+    }
+
+    function copyToClipboard(text) {
+        navigator.clipboard.writeText(text).then(() => {
+            showToast("Link copied to clipboard!");
+        }).catch(err => {
+            console.error('Failed to copy: ', err);
+            // Fallback
+            const textarea = document.createElement('textarea');
+            textarea.value = text;
+            document.body.appendChild(textarea);
+            textarea.select();
+            document.execCommand('copy');
+            document.body.removeChild(textarea);
+            showToast("Link copied to clipboard!");
+        });
+    }
+
+    function showToast(message) {
+        const toast = document.getElementById('copy-toast');
+        if (!toast) return;
+        toast.textContent = message;
+        toast.classList.add('show');
+        setTimeout(() => {
+            toast.classList.remove('show');
+        }, 3000);
+    }
+
     async function shareScore() {
         if (!navigator.share) {
             alert("Sharing is not supported on this browser/device. You can take a screenshot!");
@@ -971,11 +1488,23 @@ document.addEventListener('DOMContentLoaded', () => {
         if (sectionTitle) sectionTitle.textContent = "Select Main Subject";
         updateMetaTags("Home", "All Topics", false);
 
+        // Show reviews sidebar on home
+        const reviewsSidebar = document.getElementById('reviews-sidebar');
+        if (reviewsSidebar) reviewsSidebar.style.display = 'block';
+        const shareBar = document.getElementById('main-share-bar');
+        if (shareBar) shareBar.style.display = 'flex';
+
         renderCategories();
         switchScreen('categories', isPopState);
     }
 
     function showSubcategories(mainCat, isPopState = false) {
+        // Hide reviews sidebar on subcategories
+        const reviewsSidebar = document.getElementById('reviews-sidebar');
+        if (reviewsSidebar) reviewsSidebar.style.display = 'none';
+        const shareBar = document.getElementById('main-share-bar');
+        if (shareBar) shareBar.style.display = 'none';
+
         currentMainCategory = mainCat;
         currentFolderData = null;
 
@@ -1082,7 +1611,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="category-icon" style="background: var(--primary); color: white; width: 60px; height: 60px; font-size: 1.5rem; margin-bottom: 0;">
                     <i class="fa-solid fa-layer-group"></i>
                 </div>
-                <h3 style="margin-top: 0.5rem;">${setName}</h3>
+                <h3>${setName}</h3>
                 <p style="color: #6B7280; font-size: 0.9rem;">${setQuestionsCount} Questions</p>
             `;
             card.addEventListener('click', () => startSet(i));

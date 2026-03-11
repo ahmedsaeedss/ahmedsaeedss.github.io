@@ -49,7 +49,7 @@
         rel="stylesheet">
 
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="styles.css">
@@ -99,10 +99,14 @@
                 <li><a href="#" id="nav-mistakes" class="nav-item"><i class="fa-solid fa-triangle-exclamation"></i>
                         Mistake Bank</a>
                 </li>
+                <li><a href="#" id="nav-add-mcq" class="nav-item"><i class="fa-solid fa-circle-plus"></i>
+                        Add MCQs</a>
+                </li>
                 <li><a href="#" id="nav-leaderboard" class="nav-item"
                         style="background: rgba(212, 175, 55, 0.2); border-color: var(--accent); color: var(--accent);"><i
                             class="fa-solid fa-ranking-star"></i> Global Leaderboard</a>
                 </li>
+                <li id="nav-item-admin" class="hidden"><a href="#" id="nav-admin" class="nav-item" style="color: #ef4444;"><i class="fa-solid fa-lock"></i> Admin</a></li>
             </ul>
         </nav>
     </header>
@@ -116,7 +120,7 @@
                 <p>Choose a category to start practicing.</p>
             </div>
 
-            <div class="categories-grid" id="categories-grid">
+            <div id="categories-grid" class="categories-grid">
                 <!-- Categories/Subcategories will be injected here by JS -->
             </div>
         </section>
@@ -392,6 +396,197 @@
         </div>
     </div>
 
+    <!-- Review Modal -->
+    <div id="review-modal" class="modal-overlay hidden">
+        <div class="modal-content review-modal-content">
+            <div class="modal-header">
+                <h2><i class="fa-solid fa-pen-to-square"></i> Leave a Review</h2>
+                <button id="close-review-modal" class="icon-btn"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="rating-input">
+                    <p>How would you rate your experience?</p>
+                    <div class="star-rating">
+                        <i class="fa-regular fa-star" data-rating="1"></i>
+                        <i class="fa-regular fa-star" data-rating="2"></i>
+                        <i class="fa-regular fa-star" data-rating="3"></i>
+                        <i class="fa-regular fa-star" data-rating="4"></i>
+                        <i class="fa-regular fa-star" data-rating="5"></i>
+                    </div>
+                </div>
+                <div class="review-form-group">
+                    <label for="review-name">Your Name</label>
+                    <input type="text" id="review-name" placeholder="Enter your name">
+                </div>
+                <div class="review-form-group">
+                    <label for="review-text">Your Feedback</label>
+                    <textarea id="review-text" rows="4" placeholder="Tell us what you like or what we can improve..."></textarea>
+                </div>
+                <button id="submit-review-btn" class="primary-btn full-width">Submit Review</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Login Modal -->
+    <div id="login-modal" class="modal-overlay hidden">
+        <div class="modal-content" style="max-width: 400px;">
+            <div class="modal-header">
+                <h2><i class="fa-solid fa-right-to-bracket"></i> User Login</h2>
+                <button id="close-login-modal" class="icon-btn"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            <div class="modal-body" style="text-align: left;">
+                <p style="margin-bottom: 1.5rem; color: var(--text-muted); font-size: 0.9rem;">
+                    Sign in to access your dashboard, save progress, or access the admin panel.
+                </p>
+                
+                <div class="review-form-group">
+                    <label for="login-username">Username <span style="color:red">*</span></label>
+                    <input type="text" id="login-username" class="form-control" placeholder="Enter username (e.g., admin)" required>
+                </div>
+
+                <div class="review-form-group">
+                    <label for="login-password">Password <span style="color:red">*</span></label>
+                    <input type="password" id="login-password" class="form-control" placeholder="Enter password (e.g., admin123)" required>
+                </div>
+                
+                <button id="submit-login-btn" class="primary-btn full-width" style="margin-top: 1rem;">Login <i class="fa-solid fa-arrow-right-to-bracket"></i></button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Add MCQ Modal -->
+    <div id="add-mcq-modal" class="modal-overlay hidden">
+        <div class="modal-content add-mcq-modal-content" style="max-width: 600px;">
+            <div class="modal-header">
+                <h2><i class="fa-solid fa-circle-plus"></i> Add Your MCQs</h2>
+                <button id="close-add-mcq-modal" class="icon-btn"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            <div class="modal-body" style="text-align: left;">
+                <p style="margin-bottom: 1.5rem; color: var(--text-muted); font-size: 0.9rem;">
+                    Contribute to the community! Provide a clear question, 4 options, and select the correct answer.
+                </p>
+                
+                <div class="review-form-group">
+                    <label for="mcq-category">Select Subject/Category <span style="color:red">*</span></label>
+                    <select id="mcq-category" class="form-control" required>
+                        <option value="">-- Choose Category --</option>
+                        <!-- Options injected by JS -->
+                    </select>
+                </div>
+
+                <div class="review-form-group">
+                    <label for="mcq-question">Question Text <span style="color:red">*</span></label>
+                    <textarea id="mcq-question" rows="3" placeholder="Type your question here..." required></textarea>
+                </div>
+
+                <div class="options-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-bottom: 1.5rem;">
+                    <div class="review-form-group" style="margin-bottom: 0;">
+                        <label for="mcq-opt-a">Option A <span style="color:red">*</span></label>
+                        <input type="text" id="mcq-opt-a" placeholder="Enter option A" required>
+                    </div>
+                    <div class="review-form-group" style="margin-bottom: 0;">
+                        <label for="mcq-opt-b">Option B <span style="color:red">*</span></label>
+                        <input type="text" id="mcq-opt-b" placeholder="Enter option B" required>
+                    </div>
+                    <div class="review-form-group" style="margin-bottom: 0;">
+                        <label for="mcq-opt-c">Option C <span style="color:red">*</span></label>
+                        <input type="text" id="mcq-opt-c" placeholder="Enter option C" required>
+                    </div>
+                    <div class="review-form-group" style="margin-bottom: 0;">
+                        <label for="mcq-opt-d">Option D <span style="color:red">*</span></label>
+                        <input type="text" id="mcq-opt-d" placeholder="Enter option D" required>
+                    </div>
+                </div>
+
+                <div class="review-form-group">
+                    <label for="mcq-correct">Correct Answer <span style="color:red">*</span></label>
+                    <select id="mcq-correct" class="form-control" required>
+                        <option value="">-- Select Correct Option --</option>
+                        <option value="0">Option A</option>
+                        <option value="1">Option B</option>
+                        <option value="2">Option C</option>
+                        <option value="3">Option D</option>
+                    </select>
+                </div>
+
+                <button id="submit-mcq-btn" class="primary-btn full-width" style="margin-top: 1rem;">Submit Question <i class="fa-solid fa-paper-plane"></i></button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Admin Panel Modal -->
+    <div id="admin-modal" class="modal-overlay hidden">
+        <div class="modal-content" style="max-width: 800px; max-height: 90vh; overflow-y: auto;">
+            <div class="modal-header" style="border-bottom: 2px solid #ef4444;">
+                <h2 style="color: #ef4444;"><i class="fa-solid fa-user-shield"></i> Admin Panel - Review MCQs</h2>
+                <button id="close-admin-modal" class="icon-btn"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+            <div class="modal-body admin-body" style="text-align: left;">
+                <p style="margin-bottom: 1.5rem; color: var(--text-muted); font-size: 0.95rem;">
+                    Pending MCQs submitted by users waiting for approval.
+                </p>
+                
+                <div id="admin-pending-list" style="display: flex; flex-direction: column; gap: 1rem;">
+                    <!-- Pending questions will be injected here by JS -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Floating Reviews Sidebar (Left) -->
+    <div id="reviews-sidebar" class="reviews-sidebar">
+        <div class="reviews-header">
+            <h3><i class="fa-solid fa-star"></i> Reviews</h3>
+        </div>
+        <div class="reviews-list">
+            <div class="review-card">
+                <div class="review-stars">
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                </div>
+                <p>"Best platform for PPSC preparation! The quiz interface is very smooth."</p>
+                <span class="review-author">- Ahmed Ali</span>
+            </div>
+            <div class="review-card">
+                <div class="review-stars">
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star-half-stroke"></i>
+                </div>
+                <p>"Excellent collection of FPSC past papers. Highly recommended."</p>
+                <span class="review-author">- Sarah Khan</span>
+            </div>
+            <div class="review-card">
+                <div class="review-stars">
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                    <i class="fa-solid fa-star"></i>
+                </div>
+                <p>"The Urdu typography is just amazing. Great work!"</p>
+                <span class="review-author">- Muhammad Usman</span>
+            </div>
+        </div>
+        <button class="leave-review-btn">
+            <i class="fa-solid fa-pen-to-square"></i> Rate Us
+        </button>
+    </div>
+
+    <!-- Floating Side Share Bar - Vibrant & Interactive -->
+    <div id="main-share-bar" class="side-share-bar">
+        <button class="share-btn whatsapp" title="Share on WhatsApp"><i class="fa-brands fa-whatsapp"></i></button>
+        <button class="share-btn facebook" title="Share on Facebook"><i class="fa-brands fa-facebook-f"></i></button>
+        <button class="share-btn twitter" title="Share on X (Twitter)"><i class="fa-brands fa-x-twitter"></i></button>
+        <button class="share-btn telegram" title="Share on Telegram"><i class="fa-brands fa-telegram"></i></button>
+        <button class="share-btn copy" title="Copy Link"><i class="fa-solid fa-link"></i></button>
+    </div>
+
     <script src="data.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -403,6 +598,10 @@
 
     <!-- Firebase Sync Logic (Must be loaded before script.js) -->
     <script src="firebase-sync.js"></script>
+
+    <div id="copy-toast" class="copy-success-toast">
+        <i class="fa-solid fa-circle-check"></i> Link copied to clipboard!
+    </div>
 
     <script src="script.js"></script>
 </body>
