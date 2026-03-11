@@ -596,6 +596,45 @@ document.addEventListener('DOMContentLoaded', () => {
             document.getElementById('review-text').value = '';
         }
 
+        // Mobile Reviews Toggle Logic
+        const reviewsSidebar = document.getElementById('reviews-sidebar');
+        let overlayBackdrop = document.querySelector('.reviews-backdrop');
+        
+        // Ensure backdrop exists
+        if (!overlayBackdrop && reviewsSidebar) {
+            overlayBackdrop = document.createElement('div');
+            overlayBackdrop.className = 'reviews-backdrop';
+            document.body.appendChild(overlayBackdrop);
+            
+            // Create Mobile Floating Toggle Button for Reviews
+            const mobileReviewsToggle = document.createElement('button');
+            mobileReviewsToggle.className = 'mobile-reviews-toggle';
+            mobileReviewsToggle.innerHTML = '<i class="fa-solid fa-star"></i>';
+            document.body.appendChild(mobileReviewsToggle);
+
+            const toggleReviews = () => {
+                reviewsSidebar.classList.toggle('show-mobile');
+                overlayBackdrop.classList.toggle('show');
+            };
+
+            mobileReviewsToggle.addEventListener('click', toggleReviews);
+            
+            overlayBackdrop.addEventListener('click', () => {
+                reviewsSidebar.classList.remove('show-mobile');
+                overlayBackdrop.classList.remove('show');
+            });
+            
+            // Allow opening by clicking header if hidden on mobile
+            const reviewsHeader = reviewsSidebar.querySelector('.reviews-header');
+            if (reviewsHeader) {
+                reviewsHeader.addEventListener('click', () => {
+                    if (window.innerWidth <= 900) {
+                        toggleReviews();
+                    }
+                });
+            }
+        }
+
         if (submitReviewBtn) {
             submitReviewBtn.addEventListener('click', () => {
                 const name = document.getElementById('review-name').value;
