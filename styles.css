@@ -2031,4 +2031,161 @@ body {
 
 .copy-success-toast.show {
     transform: translateX(-50%) translateY(0);
+}
+
+/* --- Authentication Modal Styles --- */
+.auth-tabs {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+    border-bottom: 2px solid var(--bg-color);
+    padding-bottom: 0.5rem;
+}
+
+.auth-tab {
+    background: none;
+    border: none;
+    font-size: 1.1rem;
+    font-family: inherit;
+    font-weight: 600;
+    color: var(--text-muted);
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    transition: var(--transition);
+    border-bottom: 3px solid transparent;
+    margin-bottom: -11px;
+}
+
+.auth-tab:hover {
+    color: var(--primary);
+}
+
+.auth-tab.active {
+    color: var(--primary);
+    border-bottom-color: var(--primary);
+}
+
+.auth-divider {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 1.5rem 0;
+    color: var(--text-muted);
+    font-size: 0.9rem;
+}
+
+.auth-divider::before, .auth-divider::after {
+    content: '';
+    flex: 1;
+    border-bottom: 2px solid var(--bg-color);
+}
+
+.auth-divider span {
+    padding: 0 1rem;
+    font-weight: 600;
+}
+
+.social-login-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.social-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    width: 100%;
+    padding: 0.8rem;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 600;
+    font-family: inherit;
+    cursor: pointer;
+    transition: var(--transition);
+    background: var(--card-bg);
+    border: 2px solid #E5E7EB;
+    color: var(--text-main);
+}
+
+.social-btn img {
+    width: 24px;
+    height: 24px;
+}
+
+.social-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-sm);
+    background: #F9FAFB;
+    border-color: #D1D5DB;
+}
+
+[data-theme="dark"] .social-btn {
+    background: var(--card-bg);
+    border-color: #374151;
+}
+
+[data-theme="dark"] .social-btn:hover {
+    background: #4B5563;
+    border-color: #6B7280;
+}
+
+/* Admin Outline Buttons renamed to Pill Style structurally */
+.admin-btn-outline {
+    background: #f8fafc;
+    color: #475569;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 0.8rem 1rem;
+    font-size: 0.95rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    width: 100%;
+    text-align: left;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.02);
+}
+
+.admin-btn-outline i {
+    width: 22px;
+    text-align: center;
+    font-size: 1.1em;
+    color: inherit;
+}
+
+.admin-btn-outline:hover {
+    background: #f1f5f9;
+    color: #0f172a;
+    border-color: #cbd5e1;
+}
+
+/* Active State */
+.admin-btn-outline.active {
+    background: #4f46e5;
+    color: #ffffff;
+    border-color: #4f46e5;
+    box-shadow: 0 4px 6px -1px rgba(79, 70, 229, 0.3), 0 2px 4px -1px rgba(79, 70, 229, 0.2);
+}
+
+[data-theme="dark"] .admin-btn-outline {
+    background: #1e293b;
+    color: #cbd5e1;
+    border-color: #334155;
+}
+
+[data-theme="dark"] .admin-btn-outline:hover {
+    background: #334155;
+    color: #f8fafc;
+    border-color: #475569;
+}
+
+[data-theme="dark"] .admin-btn-outline.active {
+    background: #4f46e5;
+    color: #ffffff;
+    border-color: #4f46e5;
 }

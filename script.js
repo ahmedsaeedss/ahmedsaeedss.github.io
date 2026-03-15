@@ -250,11 +250,81 @@ document.addEventListener('DOMContentLoaded', () => {
         const submitLoginBtn = document.getElementById('submit-login-btn');
         const loginUsernameInput = document.getElementById('login-username');
         const loginPasswordInput = document.getElementById('login-password');
+        
+        // New Modal Elements
+        const tabLogin = document.getElementById('tab-login');
+        const tabSignup = document.getElementById('tab-signup');
+        const emailGroup = document.getElementById('email-group');
+        const loginEmailInput = document.getElementById('login-email');
+        const authModalTitle = document.getElementById('auth-modal-title');
+        const authSubtitle = document.getElementById('auth-subtitle');
+        const authActionText = document.getElementById('auth-action-text');
+        const authActionIcon = document.getElementById('auth-action-icon');
+        const usernameAsterisk = document.getElementById('username-asterisk');
+        const googleLoginBtn = document.getElementById('google-login-btn');
+        const facebookLoginBtn = document.getElementById('facebook-login-btn');
+        const roleTabs = document.querySelectorAll('input[name="auth-role"]');
+        const adminSecretGroup = document.getElementById('admin-secret-group');
+        const adminSecretInput = document.getElementById('admin-secret');
+        const socialLoginDivider = document.getElementById('social-login-divider');
+        const socialLoginGroup = document.getElementById('social-login-group');
+        
+        let isSignUpMode = false;
+        let selectedRole = 'user';
+
+        if (roleTabs) {
+            roleTabs.forEach(radio => {
+                radio.addEventListener('change', (e) => {
+                    selectedRole = e.target.value;
+                    if (selectedRole === 'admin') {
+                        if (isSignUpMode && adminSecretGroup) adminSecretGroup.classList.remove('hidden');
+                        if (socialLoginDivider) socialLoginDivider.classList.add('hidden');
+                        if (socialLoginGroup) socialLoginGroup.classList.add('hidden');
+                    } else {
+                        if (adminSecretGroup) adminSecretGroup.classList.add('hidden');
+                        if (socialLoginDivider) socialLoginDivider.classList.remove('hidden');
+                        if (socialLoginGroup) socialLoginGroup.classList.remove('hidden');
+                    }
+                });
+            });
+        }
+
+        if (tabLogin && tabSignup) {
+            tabLogin.addEventListener('click', () => {
+                isSignUpMode = false;
+                tabLogin.classList.add('active');
+                tabSignup.classList.remove('active');
+                if (emailGroup) emailGroup.classList.add('hidden');
+                if (adminSecretGroup) adminSecretGroup.classList.add('hidden');
+                if (authModalTitle) authModalTitle.textContent = "Sign In";
+                if (authSubtitle) authSubtitle.textContent = "Welcome back! Please enter your details.";
+                if (authActionText) authActionText.textContent = "Log In";
+                if (authActionIcon) authActionIcon.className = "fa-solid fa-arrow-right-to-bracket";
+                if (usernameAsterisk) usernameAsterisk.style.display = "inline"; // Keep inline for consistency even if not strict requirement
+                if (loginUsernameInput) loginUsernameInput.placeholder = "Enter username (e.g., admin)";
+            });
+
+            tabSignup.addEventListener('click', () => {
+                isSignUpMode = true;
+                tabSignup.classList.add('active');
+                tabLogin.classList.remove('active');
+                if (emailGroup) emailGroup.classList.remove('hidden');
+                if (selectedRole === 'admin' && adminSecretGroup) adminSecretGroup.classList.remove('hidden');
+                if (authModalTitle) authModalTitle.textContent = "Sign Up";
+                if (authSubtitle) authSubtitle.textContent = "Create an account to track your progress.";
+                if (authActionText) authActionText.textContent = "Sign Up";
+                if (authActionIcon) authActionIcon.className = "fa-solid fa-user-plus";
+                if (usernameAsterisk) usernameAsterisk.style.display = "inline";
+                if (loginUsernameInput) loginUsernameInput.placeholder = "Choose a username";
+            });
+        }
 
         if (authBtn) {
             authBtn.addEventListener('click', () => {
                 if (isLoggedIn) {
                     // Perform Logout
+                    window.dispatchEvent(new CustomEvent('authLogout'));
+                    
                     isLoggedIn = false;
                     userRole = 'user';
                     localStorage.setItem('isLoggedIn', false);
@@ -278,103 +348,277 @@ document.addEventListener('DOMContentLoaded', () => {
             submitLoginBtn.addEventListener('click', () => {
                 const username = loginUsernameInput.value.trim();
                 const password = loginPasswordInput.value.trim();
+                const email = loginEmailInput ? loginEmailInput.value.trim() : '';
+                const secret = adminSecretInput ? adminSecretInput.value.trim() : '';
                 
-                if (!username || !password) {
-                    alert("Please enter both username and password.");
+                if (!username || !password || (isSignUpMode && !email)) {
+                    alert("Please fill in all required fields.");
                     return;
                 }
 
-                // Hardcoded Admin Check
-                if (username === 'admin' && password === 'admin123') {
-                    isLoggedIn = true;
-                    userRole = 'admin';
-                    showToast("Logged in as Admin successfully!");
-                } else {
-                    isLoggedIn = true;
-                    userRole = 'user';
-                    showToast(`Logged in as ${username}.`);
+                if (isSignUpMode && selectedRole === 'admin' && secret !== 'admin@123') {
+                    alert("Invalid Admin Secret Code.");
+                    return;
                 }
 
-                localStorage.setItem('isLoggedIn', true);
-                localStorage.setItem('userRole', userRole);
-                updateAuthUI();
-                
-                loginUsernameInput.value = '';
-                loginPasswordInput.value = '';
-                loginModal.classList.add('hidden');
+                // Dispatch event for firebase-sync.js
+                window.dispatchEvent(new CustomEvent('authSubmit', {
+                    detail: { isSignUpMode, email, username, password, role: selectedRole }
+                }));
+
+                // Fallback / Hardcoded Auth Check
+                if (!isSignUpMode) {
+                    if (selectedRole === 'admin' && username === 'admin' && password === 'admin123') {
+                        isLoggedIn = true;
+                        userRole = 'admin';
+                        showToast("Logged in as Admin successfully!");
+                        localStorage.setItem('isLoggedIn', true);
+                        localStorage.setItem('userRole', userRole);
+                        updateAuthUI();
+                        
+                        loginUsernameInput.value = '';
+                        loginPasswordInput.value = '';
+                        if (loginEmailInput) loginEmailInput.value = '';
+                        if (adminSecretInput) adminSecretInput.value = '';
+                        loginModal.classList.add('hidden');
+                    } else if (selectedRole === 'user' && username && password) {
+                        isLoggedIn = true;
+                        userRole = 'user';
+                        showToast("Logged in successfully!");
+                        localStorage.setItem('isLoggedIn', true);
+                        localStorage.setItem('userRole', userRole);
+                        updateAuthUI();
+                        
+                        loginUsernameInput.value = '';
+                        loginPasswordInput.value = '';
+                        if (loginEmailInput) loginEmailInput.value = '';
+                        if (adminSecretInput) adminSecretInput.value = '';
+                        loginModal.classList.add('hidden');
+                    } else {
+                        alert("Invalid credentials.");
+                    }
+                } else {
+                    // Sign Up Fallback Logic (if Firebase fails)
+                    isLoggedIn = true;
+                    userRole = selectedRole;
+                    showToast(`Signed up as ${selectedRole.toUpperCase()} successfully!`);
+                    localStorage.setItem('isLoggedIn', true);
+                    localStorage.setItem('userRole', userRole);
+                    updateAuthUI();
+                    
+                    loginUsernameInput.value = '';
+                    loginPasswordInput.value = '';
+                    if (loginEmailInput) loginEmailInput.value = '';
+                    if (adminSecretInput) adminSecretInput.value = '';
+                    loginModal.classList.add('hidden');
+                }
             });
         }
+
+        // Listeners for Social Logins
+        if (googleLoginBtn) {
+            googleLoginBtn.addEventListener('click', () => {
+                window.dispatchEvent(new CustomEvent('socialLogin', { detail: 'google' }));
+            });
+        }
+        
+        if (facebookLoginBtn) {
+            facebookLoginBtn.addEventListener('click', () => {
+                window.dispatchEvent(new CustomEvent('socialLogin', { detail: 'facebook' }));
+            });
+        }
+
+        // --- Visitor Geography Tracking ---
+        function trackVisitorGeography() {
+            // Only track once per session to avoid spamming the API
+            if (sessionStorage.getItem('geoTracked')) return;
+
+            fetch('https://ipapi.co/json/')
+                .then(response => response.json())
+                .then(data => {
+                    const country = data.country_name || "Unknown Region";
+                    
+                    // Simple Local Storage based stats for demo. 
+                    // To share across users, you would dispatch event to firebase-sync.js here.
+                    let visitorStats = JSON.parse(localStorage.getItem('visitor_stats') || '{}');
+                    visitorStats[country] = (visitorStats[country] || 0) + 1;
+                    localStorage.setItem('visitor_stats', JSON.stringify(visitorStats));
+                    
+                    // Mark session is tracked
+                    sessionStorage.setItem('geoTracked', 'true');
+                    
+                    // Dispatch to Firebase (if you have the backend logic set up)
+                    window.dispatchEvent(new CustomEvent('logVisitorGeo', { detail: country }));
+                })
+                .catch(err => console.error('Geo Tracking Error:', err));
+        }
+
+        // Call the tracker when the site loads
+        trackVisitorGeography();
 
         // --- Admin Panel Logic ---
         const adminModal = document.getElementById('admin-modal');
         const closeAdminModalBtn = document.getElementById('close-admin-modal');
         const adminPendingList = document.getElementById('admin-pending-list');
-
-        function renderAdminPending() {
-            if (!adminPendingList) return;
-            const pendingMcqs = JSON.parse(localStorage.getItem('user_submitted_mcqs') || '[]');
-            adminPendingList.innerHTML = '';
-
-            if (pendingMcqs.length === 0) {
-                adminPendingList.innerHTML = '<p style="text-align: center; color: var(--text-muted); padding: 2rem;">No pending MCQs to review.</p>';
-                return;
-            }
-
-            pendingMcqs.forEach((mcq, index) => {
-                const card = document.createElement('div');
-                card.className = 'admin-mcq-card';
-                
-                const optLabels = ['A', 'B', 'C', 'D'];
-                let optionsHtml = '';
-                mcq.options.forEach((opt, oIdx) => {
-                    optionsHtml += `<li><strong>${optLabels[oIdx]}:</strong> ${opt}</li>`;
-                });
-
-                card.innerHTML = `
-                    <h4><i class="fa-solid fa-folder-open"></i> Category: ${mcq.category}</h4>
-                    <p><strong>Q:</strong> ${mcq.q}</p>
-                    <ul>${optionsHtml}</ul>
-                    <div class="correct-opt"><i class="fa-solid fa-check"></i> Correct Answer: Option ${optLabels[mcq.answer]}</div>
-                    <div class="admin-actions">
-                        <button class="approve-btn" data-index="${index}"><i class="fa-solid fa-check-double"></i> Approve</button>
-                        <button class="reject-btn" data-index="${index}"><i class="fa-solid fa-trash-can"></i> Reject</button>
-                    </div>
-                `;
-                adminPendingList.appendChild(card);
-            });
-
-            // Bind Action Buttons
-            document.querySelectorAll('.approve-btn').forEach(btn => {
-                btn.addEventListener('click', (e) => {
-                    const idx = parseInt(e.target.closest('button').getAttribute('data-index'));
-                    approveMcq(idx);
-                });
-            });
-
-            document.querySelectorAll('.reject-btn').forEach(btn => {
-                btn.addEventListener('click', (e) => {
-                    const idx = parseInt(e.target.closest('button').getAttribute('data-index'));
-                    rejectMcq(idx);
+        
+        // Admin New Tabs Logic
+        const adminTabBtns = document.querySelectorAll('.admin-tab-btn');
+        const adminTabContents = document.querySelectorAll('.admin-tab-content');
+        
+        if (adminTabBtns.length > 0) {
+            adminTabBtns.forEach(btn => {
+                btn.addEventListener('click', () => {
+                    adminTabBtns.forEach(b => b.classList.remove('active'));
+                    adminTabContents.forEach(c => c.classList.add('hidden'));
+                    
+                    btn.classList.add('active');
+                    const targetTab = document.getElementById(btn.getAttribute('data-tab'));
+                    if (targetTab) targetTab.classList.remove('hidden');
+                    
+                    // Refresh data based on tab selected
+                    const tabName = btn.getAttribute('data-tab');
+                    if (tabName === 'admin-dashboard') renderAdminDashboard();
+                    if (tabName === 'admin-pending') renderAdminPending();
+                    if (tabName === 'admin-users') renderAdminUsers();
+                    if (tabName === 'admin-edit-mcqs') renderAdminEditCategorySelect();
+                    if (tabName === 'admin-export') renderAdminExportCategorySelect();
                 });
             });
         }
 
+        // --- 1. Admin Dashboard Logic ---
+        function renderAdminDashboard() {
+            const totalUsersEl = document.getElementById('admin-total-users');
+            const totalMcqsEl = document.getElementById('admin-total-mcqs');
+            const pendingCountEl = document.getElementById('admin-pending-count');
+            const visitorStatsTbody = document.getElementById('admin-visitor-stats');
+
+            // Get Total Pending
+            const pendingMcqs = JSON.parse(localStorage.getItem('user_submitted_mcqs') || '[]');
+            if (pendingCountEl) pendingCountEl.textContent = pendingMcqs.length;
+
+            // Get Total MCQs across all categories
+            let totalQ = 0;
+            if (mainQuizData && mainQuizData.length > 0) {
+                mainQuizData.forEach(main => {
+                    if (main.subcategories) {
+                        main.subcategories.forEach(sub => {
+                            if (sub.questions) totalQ += sub.questions.length;
+                        });
+                    }
+                });
+            }
+            if (totalMcqsEl) totalMcqsEl.textContent = totalQ;
+
+            // Get Mock Total Users (Or fetch from firebase if configured)
+            // Let's mock a simple local active user count if real DB isn't fully returning users yet
+            if (totalUsersEl) {
+                // If we get an event from firebase loaded users, we can update it, else default fallback
+                totalUsersEl.textContent = window.adminFetchedUsers ? window.adminFetchedUsers.length : "1";
+            }
+
+            // Render Visitor Demographics
+            if (visitorStatsTbody) {
+                const visitorStats = JSON.parse(localStorage.getItem('visitor_stats') || '{}');
+                visitorStatsTbody.innerHTML = '';
+                
+                const countries = Object.keys(visitorStats);
+                
+                if (countries.length === 0) {
+                    visitorStatsTbody.innerHTML = '<tr><td colspan="2" style="text-align:center;">No data available yet.</td></tr>';
+                } else {
+                    countries.sort((a,b) => visitorStats[b] - visitorStats[a]).forEach(country => {
+                        const tr = document.createElement('tr');
+                        tr.innerHTML = `
+                            <td><i class="fa-solid fa-location-dot" style="color:var(--primary-color); margin-right:8px;"></i> ${country}</td>
+                            <td><span class="badge badge-primary">${visitorStats[country]}</span></td>
+                        `;
+                        visitorStatsTbody.appendChild(tr);
+                    });
+                }
+            }
+        }
+
+        // --- 2. Admin Pending Logic ---
+
+        function renderAdminPending() {
+            if (!adminPendingList) return;
+            adminPendingList.innerHTML = '<p style="text-align: center; padding: 2rem;">Loading pending MCQs from cloud <i class="fa-solid fa-circle-notch fa-spin"></i></p>';
+
+            window.dispatchEvent(new CustomEvent('fetchPendingQuestions', {
+                detail: {
+                    onSuccess: (pendingMcqs) => {
+                        window._currentPendingMcqs = pendingMcqs; // Save locally for easy reference
+                        adminPendingList.innerHTML = '';
+                        if (pendingMcqs.length === 0) {
+                            adminPendingList.innerHTML = '<p style="text-align: center; color: var(--text-muted); padding: 2rem;">No pending MCQs to review.</p>';
+                            return;
+                        }
+
+                        pendingMcqs.forEach((mcq, index) => {
+                            const card = document.createElement('div');
+                            card.className = 'admin-mcq-card';
+                            
+                            const optLabels = ['A', 'B', 'C', 'D'];
+                            let optionsHtml = '';
+                            mcq.options.forEach((opt, oIdx) => {
+                                optionsHtml += `<li><strong>${optLabels[oIdx]}:</strong> ${opt}</li>`;
+                            });
+
+                            card.innerHTML = `
+                                <h4><i class="fa-solid fa-folder-open"></i> Category: ${mcq.category}</h4>
+                                <p><strong>Q:</strong> ${mcq.q}</p>
+                                <ul>${optionsHtml}</ul>
+                                <div class="correct-opt"><i class="fa-solid fa-check"></i> Correct Answer: Option ${optLabels[mcq.answer]}</div>
+                                <div class="admin-actions">
+                                    <button class="approve-btn" data-index="${index}"><i class="fa-solid fa-check-double"></i> Approve</button>
+                                    <button class="reject-btn" data-index="${index}"><i class="fa-solid fa-trash-can"></i> Reject</button>
+                                </div>
+                            `;
+                            adminPendingList.appendChild(card);
+                        });
+
+                        // Bind Action Buttons
+                        document.querySelectorAll('.approve-btn').forEach(btn => {
+                            btn.addEventListener('click', (e) => {
+                                const idx = parseInt(e.target.closest('button').getAttribute('data-index'));
+                                approveMcq(idx);
+                            });
+                        });
+
+                        document.querySelectorAll('.reject-btn').forEach(btn => {
+                            btn.addEventListener('click', (e) => {
+                                const idx = parseInt(e.target.closest('button').getAttribute('data-index'));
+                                rejectMcq(idx);
+                            });
+                        });
+                    },
+                    onError: (err) => {
+                        adminPendingList.innerHTML = `<p style="text-align: center; color: red; padding: 2rem;">Error loading pending MCQs: ${err}</p>`;
+                    }
+                }
+            }));
+        }
+
         function approveMcq(index) {
-            let pendingMcqs = JSON.parse(localStorage.getItem('user_submitted_mcqs') || '[]');
+            const pendingMcqs = window._currentPendingMcqs || [];
             if (index < 0 || index >= pendingMcqs.length) return;
             
             const mcq = pendingMcqs[index];
             
             // Find target subcategory to add the question
             let found = false;
+            let targetMainObj = null;
             for (let main of mainQuizData) {
                 for (let sub of main.subcategories) {
                     if (sub.category === mcq.category) {
+                        // Temporarily push to local array
                         sub.questions.push({
                             q: mcq.q,
                             options: mcq.options,
                             answer: mcq.answer
                         });
+                        targetMainObj = main;
                         found = true;
                         break;
                     }
@@ -383,11 +627,22 @@ document.addEventListener('DOMContentLoaded', () => {
             }
             
             if (found) {
-                // Remove from pending
-                pendingMcqs.splice(index, 1);
-                localStorage.setItem('user_submitted_mcqs', JSON.stringify(pendingMcqs));
-                showToast("MCQ Approved and added to the Quiz Bank!");
-                renderAdminPending();
+                // Dispatch event to update Firebase
+                window.dispatchEvent(new CustomEvent('resolvePendingQuestion', {
+                    detail: {
+                        action: 'approve',
+                        docId: mcq.id,
+                        targetMainObj: targetMainObj,
+                        onSuccess: () => {
+                            showToast("MCQ Approved and added to the Cloud Quiz Bank!");
+                            renderAdminPending(); // Refresh UI
+                        },
+                        onError: (err) => {
+                            alert("Failed to approve MCQ in Cloud: " + err);
+                            // Potentially rollback the local array update here if needed
+                        }
+                    }
+                }));
             } else {
                 alert("Error: Target category not found in the dataset.");
             }
@@ -395,19 +650,513 @@ document.addEventListener('DOMContentLoaded', () => {
 
         function rejectMcq(index) {
             if (!confirm("Are you sure you want to reject and delete this submitted MCQ?")) return;
-            let pendingMcqs = JSON.parse(localStorage.getItem('user_submitted_mcqs') || '[]');
+            const pendingMcqs = window._currentPendingMcqs || [];
             if (index < 0 || index >= pendingMcqs.length) return;
             
-            pendingMcqs.splice(index, 1);
-            localStorage.setItem('user_submitted_mcqs', JSON.stringify(pendingMcqs));
-            showToast("MCQ Rejected and removed from queue.", true);
-            renderAdminPending();
+            const mcq = pendingMcqs[index];
+            
+            window.dispatchEvent(new CustomEvent('resolvePendingQuestion', {
+                detail: {
+                    action: 'reject',
+                    docId: mcq.id,
+                    onSuccess: () => {
+                        showToast("MCQ Rejected and removed from cloud queue.", true);
+                        renderAdminPending();
+                        renderAdminDashboard(); // Update stats if needed
+                    },
+                    onError: (err) => {
+                        alert("Failed to reject MCQ in Cloud: " + err);
+                    }
+                }
+            }));
+        }
+
+        // --- 3. Manage Users Logic ---
+        function renderAdminUsers() {
+            const usersListTbody = document.getElementById('admin-users-list');
+            if (!usersListTbody) return;
+            
+            // Dispatch event to Firebase to fetch users, or use mock if none
+            window.dispatchEvent(new CustomEvent('adminFetchUsers'));
+            
+            // If Firebase hasn't returned anything yet, show mock data
+            // In a real scenario, this would wait for 'adminUsersLoaded' event
+            setTimeout(() => {
+                const users = window.adminFetchedUsers || [
+                    { displayName: 'Admin Main', role: 'admin', joined: '2026-01-01' },
+                    { displayName: 'Test User', role: 'user', joined: '2026-03-15' }
+                ];
+                window.adminFetchedUsers = users; // Store for dashboard
+                
+                usersListTbody.innerHTML = '';
+                users.forEach(user => {
+                    const row = document.createElement('tr');
+                    const isAd = user.role === 'admin';
+                    row.innerHTML = `
+                        <td><span class="badge ${isAd ? 'badge-danger' : 'badge-primary'}">${user.role.toUpperCase()}</span></td>
+                        <td>${user.displayName || 'Unknown'}</td>
+                        <td>${user.joined || 'N/A'}</td>
+                        <td>
+                            <button class="icon-btn text-danger" title="Delete User" onclick="alert('Delete user logic would trigger here.')"><i class="fa-solid fa-trash"></i></button>
+                        </td>
+                    `;
+                    usersListTbody.appendChild(row);
+                });
+                renderAdminDashboard(); // Update stats now that users are loaded
+            }, 500);
+        }
+
+        // --- 4. Edit MCQs Logic ---
+        const adminCategorySelect = document.getElementById('admin-category-select');
+        const adminEditMcqList = document.getElementById('admin-edit-mcq-list');
+
+        function renderAdminEditCategorySelect() {
+            if (!adminCategorySelect) return;
+            adminCategorySelect.innerHTML = '<option value="">-- Choose Category --</option>';
+            mainQuizData.forEach(mainCat => {
+                const optgroup = document.createElement('optgroup');
+                optgroup.label = mainCat.name;
+                mainCat.subcategories.forEach(sub => {
+                    const opt = document.createElement('option');
+                    opt.value = sub.category;
+                    opt.textContent = sub.category;
+                    optgroup.appendChild(opt);
+                });
+                adminCategorySelect.appendChild(optgroup);
+            });
+        }
+
+        if (adminCategorySelect) {
+            adminCategorySelect.addEventListener('change', (e) => {
+                const selectedCat = e.target.value;
+                if (!selectedCat) {
+                    if (adminEditMcqList) adminEditMcqList.innerHTML = '<p style="text-align: center; color: var(--text-muted);">Select a category above to load questions.</p>';
+                    return;
+                }
+                loadCategoryForEditing(selectedCat);
+            });
+        }
+
+        function loadCategoryForEditing(catName) {
+            if (!adminEditMcqList) return;
+            adminEditMcqList.innerHTML = '<p style="text-align:center;">Loading questions...</p>';
+            
+            let targetSub = null;
+            let targetMainObj = null;
+            
+            for (let main of mainQuizData) {
+                for (let sub of main.subcategories) {
+                    if (sub.category === catName) {
+                        targetSub = sub;
+                        targetMainObj = main;
+                        break;
+                    }
+                }
+                if (targetSub) break;
+            }
+
+            if (!targetSub) {
+                adminEditMcqList.innerHTML = '<p style="text-align:center; color:red;">Category not found.</p>';
+                return;
+            }
+
+            if (!targetSub.questions || targetSub.questions.length === 0) {
+                adminEditMcqList.innerHTML = '<p style="text-align:center;">No questions found in this category.</p>';
+                return;
+            }
+
+            adminEditMcqList.innerHTML = '';
+            targetSub.questions.forEach((q, idx) => {
+                const card = document.createElement('div');
+                card.className = 'admin-mcq-card';
+                card.style.position = 'relative';
+                
+                // Normal View HTML
+                const normalViewHtml = `
+                    <div class="mcq-view">
+                        <p style="font-weight:600; margin-bottom: 0.5rem; padding-right: 4.5rem;">Q${idx + 1}: ${q.q}</p>
+                        <div style="position:absolute; top: 1rem; right: 1rem; display: flex; gap: 0.5rem;">
+                            <button class="edit-db-btn" data-cat="${catName}" data-idx="${idx}" title="Edit MCQ" style="background:#3b82f6; color:white; border:none; padding:0.4rem 0.6rem; border-radius:4px; cursor:pointer;"><i class="fa-solid fa-pen"></i></button>
+                            <button class="delete-db-btn" data-cat="${catName}" data-idx="${idx}" title="Delete MCQ" style="background:#ef4444; color:white; border:none; padding:0.4rem 0.6rem; border-radius:4px; cursor:pointer;"><i class="fa-solid fa-trash"></i></button>
+                        </div>
+                        <ul style="margin-top:0.5rem; font-size:0.9rem;">
+                            <li><strong>A:</strong> ${q.options[0]}</li>
+                            <li><strong>B:</strong> ${q.options[1]}</li>
+                            <li><strong>C:</strong> ${q.options[2]}</li>
+                            <li><strong>D:</strong> ${q.options[3]}</li>
+                        </ul>
+                        <div class="correct-opt" style="margin-top:0.5rem; font-size:0.85rem;"><i class="fa-solid fa-check"></i> Answer: Opt ${['A','B','C','D'][q.answer]}</div>
+                    </div>
+                `;
+                
+                // Edit Form HTML (Hidden initially)
+                const editFormHtml = `
+                    <div class="mcq-edit-form hidden" style="background:#f9fafb; padding:1rem; border-radius:8px; border:1px solid #d1d5db;">
+                        <h4 style="margin-bottom:0.8rem; color:var(--primary-dark);">Edit Question ${idx + 1}</h4>
+                        <div style="margin-bottom:0.8rem;">
+                            <label style="display:block; font-size:0.85rem; margin-bottom:0.2rem;">Question</label>
+                            <textarea id="edit-q-${idx}" style="width:100%; border:1px solid #d1d5db; border-radius:4px; padding:0.5rem;" rows="2">${q.q}</textarea>
+                        </div>
+                        <div style="display:grid; grid-template-columns: 1fr 1fr; gap:0.5rem; margin-bottom:0.8rem;">
+                            <div><label style="font-size:0.8rem;">Opt A</label><input type="text" id="edit-opt0-${idx}" value="${q.options[0]}" style="width:100%; padding:0.4rem; border:1px solid #d1d5db; border-radius:4px;"></div>
+                            <div><label style="font-size:0.8rem;">Opt B</label><input type="text" id="edit-opt1-${idx}" value="${q.options[1]}" style="width:100%; padding:0.4rem; border:1px solid #d1d5db; border-radius:4px;"></div>
+                            <div><label style="font-size:0.8rem;">Opt C</label><input type="text" id="edit-opt2-${idx}" value="${q.options[2]}" style="width:100%; padding:0.4rem; border:1px solid #d1d5db; border-radius:4px;"></div>
+                            <div><label style="font-size:0.8rem;">Opt D</label><input type="text" id="edit-opt3-${idx}" value="${q.options[3]}" style="width:100%; padding:0.4rem; border:1px solid #d1d5db; border-radius:4px;"></div>
+                        </div>
+                        <div style="margin-bottom:1rem;">
+                            <label style="display:block; font-size:0.85rem; margin-bottom:0.2rem;">Correct Answer</label>
+                            <select id="edit-ans-${idx}" style="padding:0.4rem; border-radius:4px; border:1px solid #d1d5db; width:100%;">
+                                <option value="0" ${q.answer === 0 ? 'selected' : ''}>Option A</option>
+                                <option value="1" ${q.answer === 1 ? 'selected' : ''}>Option B</option>
+                                <option value="2" ${q.answer === 2 ? 'selected' : ''}>Option C</option>
+                                <option value="3" ${q.answer === 3 ? 'selected' : ''}>Option D</option>
+                            </select>
+                        </div>
+                        <div style="display:flex; justify-content:flex-end; gap:0.5rem;">
+                            <button class="cancel-edit-btn" data-idx="${idx}" style="background:#e5e7eb; border:none; padding:0.4rem 0.8rem; border-radius:4px; cursor:pointer;">Cancel</button>
+                            <button class="save-edit-btn" data-idx="${idx}" style="background:var(--primary); color:white; border:none; padding:0.4rem 0.8rem; border-radius:4px; cursor:pointer;">Save</button>
+                        </div>
+                    </div>
+                `;
+
+                card.innerHTML = normalViewHtml + editFormHtml;
+                adminEditMcqList.appendChild(card);
+            });
+
+            // Bind Delete events
+            document.querySelectorAll('.delete-db-btn').forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    const btnEl = e.target.closest('button');
+                    const cName = btnEl.getAttribute('data-cat');
+                    const qIdx = parseInt(btnEl.getAttribute('data-idx'));
+                    
+                    if (confirm(`Are you sure you want to permanently delete Question ${qIdx + 1}?`)) {
+                        // Store deleted question temporarily in case of rollback
+                        const deletedQuestion = targetSub.questions[qIdx];
+                        targetSub.questions.splice(qIdx, 1);
+                        
+                        window.dispatchEvent(new CustomEvent('updateCategoryInFirestore', {
+                            detail: {
+                                mainCat: targetMainObj,
+                                onSuccess: () => {
+                                    showToast("Question deleted from cloud database.");
+                                    loadCategoryForEditing(catName); // Refresh list
+                                    renderAdminDashboard(); // Refresh stats
+                                },
+                                onError: (err) => {
+                                    alert("Failed to delete question from cloud: " + err);
+                                    // Rollback local change
+                                    targetSub.questions.splice(qIdx, 0, deletedQuestion);
+                                }
+                            }
+                        }));
+                    }
+                });
+            });
+
+            // Bind Edit form toggles
+            document.querySelectorAll('.edit-db-btn').forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    const card = e.target.closest('.admin-mcq-card');
+                    card.querySelector('.mcq-view').classList.add('hidden');
+                    card.querySelector('.mcq-edit-form').classList.remove('hidden');
+                });
+            });
+
+            document.querySelectorAll('.cancel-edit-btn').forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    const card = e.target.closest('.admin-mcq-card');
+                    card.querySelector('.mcq-edit-form').classList.add('hidden');
+                    card.querySelector('.mcq-view').classList.remove('hidden');
+                });
+            });
+
+            document.querySelectorAll('.save-edit-btn').forEach(btn => {
+                btn.addEventListener('click', (e) => {
+                    const qIdx = parseInt(e.target.getAttribute('data-idx'));
+                    
+                    // Extract values from form
+                    const newQ = document.getElementById(`edit-q-${qIdx}`).value.trim();
+                    const newOpt0 = document.getElementById(`edit-opt0-${qIdx}`).value.trim();
+                    const newOpt1 = document.getElementById(`edit-opt1-${qIdx}`).value.trim();
+                    const newOpt2 = document.getElementById(`edit-opt2-${qIdx}`).value.trim();
+                    const newOpt3 = document.getElementById(`edit-opt3-${qIdx}`).value.trim();
+                    const newAns = parseInt(document.getElementById(`edit-ans-${qIdx}`).value);
+
+                    if (!newQ || !newOpt0 || !newOpt1 || !newOpt2 || !newOpt3) {
+                        alert("Please fill out all fields before saving.");
+                        return;
+                    }
+
+                    // Store old question for rollback
+                    const oldQuestion = { ...targetSub.questions[qIdx] };
+                    
+                    // Update the array object locally first (Optimistic update)
+                    targetSub.questions[qIdx] = {
+                        q: newQ,
+                        options: [newOpt0, newOpt1, newOpt2, newOpt3],
+                        answer: newAns
+                    };
+
+                    // Send to Firebase
+                    window.dispatchEvent(new CustomEvent('updateCategoryInFirestore', {
+                        detail: {
+                            mainCat: targetMainObj,
+                            onSuccess: () => {
+                                showToast("Question updated successfully locally and on the cloud!");
+                                loadCategoryForEditing(catName); // Re-render the list immediately
+                            },
+                            onError: (err) => {
+                                alert("Failed to update question in the cloud: " + err);
+                                // Rollback local change
+                                targetSub.questions[qIdx] = oldQuestion;
+                            }
+                        }
+                    }));
+                });
+            });
+        }
+
+        // --- 5. Export Data Logic ---
+        const exportJsonBtn = document.getElementById('admin-export-json-btn');
+        const exportPdfBtn = document.getElementById('admin-export-pdf-btn');
+        const migrateFirebaseBtn = document.getElementById('admin-migrate-firebase-btn');
+        
+        if (migrateFirebaseBtn) {
+            migrateFirebaseBtn.addEventListener('click', () => {
+                if(confirm("Are you sure you want to upload all offline data to Firebase? This will overwrite the database.")) {
+                    if (typeof window.migrateDataToFirestore === 'function') {
+                        window.migrateDataToFirestore();
+                    } else {
+                        alert("Firebase sync script not loaded or initialized yet.");
+                    }
+                }
+            });
+        }
+        
+        const adminExportCategorySelect = document.getElementById('admin-export-category-select');
+        
+        function renderAdminExportCategorySelect() {
+            if (!adminExportCategorySelect) return;
+            // Preserve the 'All Categories' option
+            adminExportCategorySelect.innerHTML = '<option value="all">All Categories (Complete Database)</option>';
+            
+            mainQuizData.forEach(mainCat => {
+                const optgroup = document.createElement('optgroup');
+                optgroup.label = mainCat.name;
+                mainCat.subcategories.forEach(sub => {
+                    const opt = document.createElement('option');
+                    opt.value = sub.category; // using sub.category name as the value identifier
+                    opt.textContent = sub.category;
+                    optgroup.appendChild(opt);
+                });
+                adminExportCategorySelect.appendChild(optgroup);
+            });
+        }
+
+        const exportDataJsBtn = document.getElementById('admin-save-data-js-btn');
+        if (exportDataJsBtn) {
+            exportDataJsBtn.addEventListener('click', () => {
+                // Generate a valid JavaScript file content that defines the const mainQuizData array
+                const jsContent = `const mainQuizData = ${JSON.stringify(mainQuizData, null, 4)};\n`;
+                
+                // Create a Blob from the content
+                const blob = new Blob([jsContent], { type: "text/javascript;charset=utf-8" });
+                const url = URL.createObjectURL(blob);
+                
+                // Create an invisible anchor to trigger the download
+                const anchor = document.createElement('a');
+                anchor.setAttribute("href", url);
+                anchor.setAttribute("download", "data.js");
+                document.body.appendChild(anchor);
+                anchor.click();
+                anchor.remove();
+                
+                // Clean up the URL object
+                setTimeout(() => URL.revokeObjectURL(url), 100);
+                
+                showToast("Database (data.js) saved and downloaded successfully!");
+            });
+        }
+
+        if (exportJsonBtn) {
+            exportJsonBtn.addEventListener('click', () => {
+                const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(mainQuizData, null, 2));
+                const anchor = document.createElement('a');
+                anchor.setAttribute("href", dataStr);
+                anchor.setAttribute("download", "mcqs_database_backup.json");
+                document.body.appendChild(anchor);
+                anchor.click();
+                anchor.remove();
+                showToast("JSON Database exported successfully!");
+            });
+        }
+
+        if (exportPdfBtn) {
+            exportPdfBtn.addEventListener('click', async () => {
+                const selectedCategory = adminExportCategorySelect ? adminExportCategorySelect.value : 'all';
+                
+                if (!window.jspdf || !window.jspdf.jsPDF) {
+                    alert("PDF Library is still loading or failed to load. Please try again in a moment.");
+                    return;
+                }
+                
+                showToast("Generating PDF... Please wait.");
+                exportPdfBtn.disabled = true;
+                exportPdfBtn.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Generating...';
+
+                // Use jsPDF
+                const { jsPDF } = window.jspdf;
+                const doc = new jsPDF();
+                
+                const pageWidth = doc.internal.pageSize.getWidth();
+                const pageHeight = doc.internal.pageSize.getHeight();
+                let yPos = 20;
+
+                // Function to add Watermark
+                const addWatermark = () => {
+                    doc.setTextColor(200, 200, 200); // Light Gray
+                    doc.setFontSize(50);
+                    // Save current angle and translate to center
+                    doc.text("MCQs Master", pageWidth / 2, pageHeight / 2, { angle: 45, align: "center", opacity: 0.3 });
+                    
+                    // Reset font settings so subsequent text isn't drawn massive and gray
+                    doc.setTextColor(0, 0, 0);
+                    doc.setFontSize(11);
+                    doc.setFont("helvetica", "normal");
+                };
+
+                // Add Title and initial watermark
+                doc.setFont("helvetica", "bold");
+                doc.setFontSize(22);
+                doc.setTextColor(0, 0, 0); // Black
+                
+                let titleText = "MCQs Master - Complete Database";
+                if (selectedCategory !== 'all') {
+                    titleText = `MCQs Master - Category: ${selectedCategory}`;
+                }
+                doc.text(titleText, pageWidth / 2, yPos, { align: "center" });
+                
+                addWatermark();
+                yPos += 20;
+
+                doc.setFontSize(12);
+                
+                // Keep track of if we added anything
+                let hasDataToPrint = false;
+                
+                // Iterate through the database
+                mainQuizData.forEach((mainCat) => {
+                    let mainHeaderPrinted = false;
+                    
+                    if (mainCat.subcategories) {
+                        mainCat.subcategories.forEach((subCat) => {
+                            // Filter logic
+                            if (selectedCategory !== 'all' && subCat.category !== selectedCategory) {
+                                return; // Skip this subcategory if it is not selected
+                            }
+                            
+                            hasDataToPrint = true; // We found something to print!
+
+                            if (yPos > pageHeight - 40) {
+                                doc.addPage();
+                                addWatermark();
+                                yPos = 20;
+                            }
+                            
+                            // Print Main Category header ONLY if we haven't printed it yet AND we are actually printing a subcategory belonging to it
+                            if (!mainHeaderPrinted && selectedCategory === 'all') {
+                                doc.setFont("helvetica", "bold");
+                                doc.setFontSize(16);
+                                doc.setTextColor(5, 150, 105); // Primary Color (Greenish)
+                                doc.text(`Category: ${mainCat.name}`, 15, yPos);
+                                yPos += 10;
+                                doc.setTextColor(0, 0, 0); // Reset text color
+                                mainHeaderPrinted = true;
+                            }
+                            
+                            // Sub Category Header
+                            doc.setFont("helvetica", "bold");
+                            doc.setFontSize(14);
+                            doc.text(`Topic: ${subCat.category}`, 20, yPos);
+                            yPos += 8;
+                            
+                            // Questions
+                            doc.setFont("helvetica", "normal");
+                            doc.setFontSize(11);
+                            
+                            if (subCat.questions) {
+                                subCat.questions.forEach((q, qIdx) => {
+                                    // Make sure entire question block stays on a page nicely instead of cutting off randomly
+                                    // A big question block could take 60 units of space. Give it a large threshold.
+                                    if (yPos > pageHeight - 65) {
+                                        doc.addPage();
+                                        addWatermark();
+                                        yPos = 20;
+                                    }
+                                    
+                                    // Split long text
+                                    const questionLines = doc.splitTextToSize(`Q${qIdx + 1}: ${q.q}`, pageWidth - 30);
+                                    doc.setFont("helvetica", "bold");
+                                    doc.text(questionLines, 20, yPos);
+                                    yPos += (questionLines.length * 6) + 2;
+                                    
+                                    doc.setFont("helvetica", "normal");
+                                    const labels = ['A)', 'B)', 'C)', 'D)'];
+                                    
+                                    q.options.forEach((opt, oIdx) => {
+                                        const optText = `${labels[oIdx]} ${opt}`;
+                                        const optLines = doc.splitTextToSize(optText, pageWidth - 40);
+                                        
+                                        // Highlight the correct answer
+                                        if (oIdx === q.answer) {
+                                            doc.setFont("helvetica", "bold");
+                                            doc.setTextColor(0, 128, 0); // Green
+                                        } else {
+                                            doc.setFont("helvetica", "normal");
+                                            doc.setTextColor(50, 50, 50); // Dark gray
+                                        }
+                                        
+                                        doc.text(optLines, 25, yPos);
+                                        yPos += (optLines.length * 5) + 1;
+                                    });
+                                    
+                                    // Reset color and add padding
+                                    doc.setTextColor(0, 0, 0);
+                                    yPos += 4;
+                                });
+                            }
+                            yPos += 5; // Extra padding between topics
+                        });
+                    }
+                    if (mainHeaderPrinted) {
+                        yPos += 10; // Extra padding between main categories
+                    }
+                });
+
+                if (!hasDataToPrint) {
+                     doc.setFont("helvetica", "italic");
+                     doc.setFontSize(12);
+                     doc.text("No data found for this category.", pageWidth / 2, yPos, { align: "center" });
+                }
+
+                // Download
+                const fileName = selectedCategory === 'all' ? "MCQs_Master_Book.pdf" : `MCQs_Master_${selectedCategory.replace(/\\s+/g, '_')}.pdf`;
+                doc.save(fileName);
+                showToast("PDF Generated Successfully!");
+                
+                exportPdfBtn.disabled = false;
+                exportPdfBtn.innerHTML = '<i class="fa-solid fa-file-pdf"></i> Export as PDF (Printable)';
+            });
         }
 
         if (navAdmin && adminModal) {
             navAdmin.addEventListener('click', (e) => {
                 e.preventDefault();
-                renderAdminPending();
+                // Select default tab
+                const firstTabBtn = document.querySelector('.admin-tab-btn[data-tab="admin-dashboard"]');
+                if (firstTabBtn) firstTabBtn.click();
+                
                 adminModal.classList.remove('hidden');
             });
         }
@@ -490,27 +1239,33 @@ document.addEventListener('DOMContentLoaded', () => {
                 timestamp: new Date().toISOString()
             };
 
-            // Simulate sending to backend; save locally for now
-            setTimeout(() => {
-                let userMcqs = JSON.parse(localStorage.getItem('user_submitted_mcqs') || '[]');
-                userMcqs.push(userQ);
-                localStorage.setItem('user_submitted_mcqs', JSON.stringify(userMcqs));
-                
-                showToast("Question submitted successfully! It will be reviewed by admin.");
-                addMcqModal.classList.add('hidden');
-                
-                // Form reset
-                mcqCategorySelect.value = '';
-                document.getElementById('mcq-question').value = '';
-                document.getElementById('mcq-opt-a').value = '';
-                document.getElementById('mcq-opt-b').value = '';
-                document.getElementById('mcq-opt-c').value = '';
-                document.getElementById('mcq-opt-d').value = '';
-                document.getElementById('mcq-correct').value = '';
-                
-                submitMcqBtn.disabled = false;
-                submitMcqBtn.textContent = 'Submit Question';
-            }, 1000);
+            // Send to backend (Firebase)
+            window.dispatchEvent(new CustomEvent('submitPendingQuestion', { 
+                detail: { 
+                    userQ, 
+                    onSuccess: () => {
+                        showToast("Question submitted successfully! It will be reviewed by admin.");
+                        addMcqModal.classList.add('hidden');
+                        
+                        // Form reset
+                        mcqCategorySelect.value = '';
+                        document.getElementById('mcq-question').value = '';
+                        document.getElementById('mcq-opt-a').value = '';
+                        document.getElementById('mcq-opt-b').value = '';
+                        document.getElementById('mcq-opt-c').value = '';
+                        document.getElementById('mcq-opt-d').value = '';
+                        document.getElementById('mcq-correct').value = '';
+                        
+                        submitMcqBtn.disabled = false;
+                        submitMcqBtn.textContent = 'Submit Question';
+                    },
+                    onError: (err) => {
+                        alert("Submission failed: " + err);
+                        submitMcqBtn.disabled = false;
+                        submitMcqBtn.innerHTML = 'Submit Question <i class="fa-solid fa-paper-plane"></i>';
+                    }
+                } 
+            }));
         });
         }
 
@@ -2258,6 +3013,46 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // Start App
-    init();
+    // Start App - Wait for Firebase or fallback to local after 3s
+    let isAppInitialized = false;
+    
+    function startApp() {
+        if (isAppInitialized) return;
+        isAppInitialized = true;
+        init();
+    }
+    
+    window.addEventListener('firebaseDataLoaded', () => {
+        if (isAppInitialized) {
+            // Hot reload the UI if data changes from Firebase post-initialization
+            console.log("Hot reloading UI with fresh Firebase data...");
+            if (document.getElementById('category-screen').classList.contains('active')) {
+                showMainCategories();
+            } else if (document.getElementById('set-screen').classList.contains('active')) {
+                // If they are on the sets screen, re-render it
+                // We'd need the current category, but showMainCategories is safer a reset
+                showMainCategories();
+            }
+            
+            // Re-render admin if open
+            if (!document.getElementById('admin-modal').classList.contains('hidden')) {
+                // Check which tab is active
+                const activeTab = document.querySelector('.admin-tab-btn.active');
+                if (activeTab && typeof window[activeTab.getAttribute('data-tab').replace(/-/g, '') + 'Render'] === 'function') {
+                    // Try to re-render specific tab, or just re-render dashboard
+                }
+                renderAdminDashboard(); 
+            }
+        } else {
+            startApp();
+        }
+    });
+
+    // Fallback if Firebase fails to load or offline
+    setTimeout(() => {
+        if (!isAppInitialized) {
+            console.warn("Firebase sync timed out. Starting app with local offline data.js.");
+            startApp();
+        }
+    }, 2500);
 });

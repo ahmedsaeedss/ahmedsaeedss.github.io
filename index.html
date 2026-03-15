@@ -52,11 +52,11 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.css">    <!-- jsPDF Library for PDF Export -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
 </head>
 
 <body>
-
     <div class="background-pattern"></div>
 
     <header class="app-header">
@@ -427,29 +427,70 @@
         </div>
     </div>
 
-    <!-- Login Modal -->
+    <!-- Login/Signup Modal -->
     <div id="login-modal" class="modal-overlay hidden">
-        <div class="modal-content" style="max-width: 400px;">
+        <div class="modal-content" style="max-width: 350px;">
             <div class="modal-header">
-                <h2><i class="fa-solid fa-right-to-bracket"></i> User Login</h2>
+                <h2><i class="fa-solid fa-user-circle"></i> <span id="auth-modal-title">Sign In</span></h2>
                 <button id="close-login-modal" class="icon-btn"><i class="fa-solid fa-xmark"></i></button>
             </div>
             <div class="modal-body" style="text-align: left;">
-                <p style="margin-bottom: 1.5rem; color: var(--text-muted); font-size: 0.9rem;">
-                    Sign in to access your dashboard, save progress, or access the admin panel.
+                
+                <div class="auth-tabs">
+                    <button id="tab-login" class="auth-tab active">Log In</button>
+                    <button id="tab-signup" class="auth-tab">Sign Up</button>
+                </div>
+                
+                <div class="role-tabs" style="display: flex; gap: 1rem; margin-top: 1rem; margin-bottom: 1rem; justify-content: center;">
+                    <label style="cursor: pointer; display: flex; align-items: center; gap: 0.5rem;">
+                        <input type="radio" name="auth-role" value="user" checked> User
+                    </label>
+                    <label style="cursor: pointer; display: flex; align-items: center; gap: 0.5rem;">
+                        <input type="radio" name="auth-role" value="admin"> Admin
+                    </label>
+                </div>
+
+                <p id="auth-subtitle" style="margin-bottom: 1.5rem; color: var(--text-muted); font-size: 0.9rem; text-align: center;">
+                    Welcome back! Please enter your details.
                 </p>
                 
+                <div id="email-group" class="review-form-group hidden">
+                    <label for="login-email">Email <span style="color:red">*</span></label>
+                    <input type="email" id="login-email" class="form-control" placeholder="Enter your email">
+                </div>
+
                 <div class="review-form-group">
-                    <label for="login-username">Username <span style="color:red">*</span></label>
+                    <label for="login-username">Username <span id="username-asterisk" style="color:red; display:inline;">*</span></label>
                     <input type="text" id="login-username" class="form-control" placeholder="Enter username (e.g., admin)" required>
                 </div>
 
                 <div class="review-form-group">
                     <label for="login-password">Password <span style="color:red">*</span></label>
-                    <input type="password" id="login-password" class="form-control" placeholder="Enter password (e.g., admin123)" required>
+                    <input type="password" id="login-password" class="form-control" placeholder="Enter password" required>
+                </div>
+
+                <div id="admin-secret-group" class="review-form-group hidden">
+                    <label for="admin-secret">Admin Secret Code <span style="color:red">*</span></label>
+                    <input type="password" id="admin-secret" class="form-control" placeholder="Enter strictly confidential code">
                 </div>
                 
-                <button id="submit-login-btn" class="primary-btn full-width" style="margin-top: 1rem;">Login <i class="fa-solid fa-arrow-right-to-bracket"></i></button>
+                <button id="submit-login-btn" class="primary-btn full-width" style="margin-top: 1rem;"><span id="auth-action-text">Log In</span> <i id="auth-action-icon" class="fa-solid fa-arrow-right-to-bracket"></i></button>
+
+                <div class="auth-divider" id="social-login-divider">
+                    <span>OR</span>
+                </div>
+
+                <div class="social-login-group" id="social-login-group">
+                    <button id="google-login-btn" class="social-btn google-btn">
+                        <img src="https://www.svgrepo.com/show/475656/google-color.svg" alt="Google" width="20">
+                        Continue with Google
+                    </button>
+                    <button id="facebook-login-btn" class="social-btn facebook-btn">
+                        <img src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="Facebook" width="20">
+                        Continue with Facebook
+                    </button>
+                </div>
+
             </div>
         </div>
     </div>
@@ -516,18 +557,201 @@
 
     <!-- Admin Panel Modal -->
     <div id="admin-modal" class="modal-overlay hidden">
-        <div class="modal-content" style="max-width: 800px; max-height: 90vh; overflow-y: auto;">
+        <div class="modal-content admin-panel-modal" style="max-width: 1000px; max-height: 90vh; display: flex; flex-direction: column;">
             <div class="modal-header" style="border-bottom: 2px solid #ef4444;">
-                <h2 style="color: #ef4444;"><i class="fa-solid fa-user-shield"></i> Admin Panel - Review MCQs</h2>
+                <h2 style="color: #ef4444;"><i class="fa-solid fa-user-shield"></i> Admin Control Panel</h2>
                 <button id="close-admin-modal" class="icon-btn"><i class="fa-solid fa-xmark"></i></button>
             </div>
-            <div class="modal-body admin-body" style="text-align: left;">
-                <p style="margin-bottom: 1.5rem; color: var(--text-muted); font-size: 0.95rem;">
-                    Pending MCQs submitted by users waiting for approval.
-                </p>
-                
-                <div id="admin-pending-list" style="display: flex; flex-direction: column; gap: 1rem;">
-                    <!-- Pending questions will be injected here by JS -->
+            
+            <div class="admin-layout" style="display: flex; flex: 1; overflow: hidden;">
+                <!-- Admin Sidebar -->
+                <div class="admin-sidebar" style="width: 260px; background: var(--bg-secondary); border-right: 1px solid var(--border-color); padding: 1.5rem 1.2rem; overflow-y: auto; display: flex; flex-direction: column; gap: 2rem;">
+                    
+                    <!-- Admin Sidebar Header Area -->
+                    <div style="display: flex; align-items: center; gap: 0.8rem; padding-left: 0.5rem;">
+                        <div style="width: 38px; height: 38px; background: #e0e7ff; color: #4f46e5; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 1.2rem;">
+                            A
+                        </div>
+                        <div style="line-height: 1.2;">
+                            <div style="font-weight: 700; font-size: 0.95rem; color: var(--text-main);">ADMIN PANEL</div>
+                            <div style="font-size: 0.8rem; color: var(--text-muted);">MCQ Platform</div>
+                        </div>
+                    </div>
+
+                    <ul class="admin-nav-list" style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 0.8rem; align-items: flex-start;">
+                        <li>
+                            <button class="admin-tab-btn admin-btn-outline active" data-tab="admin-dashboard">
+                                <i class="fa-solid fa-border-all"></i> Dashboard
+                            </button>
+                        </li>
+                        <li>
+                            <button class="admin-tab-btn admin-btn-outline" data-tab="admin-users">
+                                <i class="fa-solid fa-users"></i> Manage Users
+                            </button>
+                        </li>
+                        <li>
+                            <button class="admin-tab-btn admin-btn-outline" data-tab="admin-pending">
+                                <i class="fa-regular fa-square-check"></i> Pending Approvals
+                            </button>
+                        </li>
+                        <li>
+                            <button class="admin-tab-btn admin-btn-outline" data-tab="admin-edit-mcqs">
+                                <i class="fa-solid fa-pen-to-square"></i> Edit/Delete MCQs
+                            </button>
+                        </li>
+                        <li>
+                            <button class="admin-tab-btn admin-btn-outline" data-tab="admin-export">
+                                <i class="fa-solid fa-download"></i> Export Data
+                            </button>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Admin Main Content Area -->
+                <div class="admin-main-content" style="flex: 1; padding: 1.5rem; overflow-y: auto; background: var(--bg-primary);">
+                    
+                    <!-- Tab 1: Dashboard -->
+                    <div id="admin-dashboard" class="admin-tab-content active">
+                        <h3><i class="fa-solid fa-chart-pie"></i> Platform Overview</h3>
+                        <div class="stats-grid-vertical" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-top: 1.5rem;">
+                            <div class="stat-card">
+                                <i class="fa-solid fa-users" style="color: #3b82f6;"></i>
+                                <div class="stat-info">
+                                    <div class="stat-value" id="admin-total-users">0</div>
+                                    <div class="stat-label">Total Users</div>
+                                </div>
+                            </div>
+                            <div class="stat-card">
+                                <i class="fa-solid fa-database" style="color: #10b981;"></i>
+                                <div class="stat-info">
+                                    <div class="stat-value" id="admin-total-mcqs">0</div>
+                                    <div class="stat-label">Total MCQs</div>
+                                </div>
+                            </div>
+                            <div class="stat-card">
+                                <i class="fa-solid fa-list-check" style="color: #f59e0b;"></i>
+                                <div class="stat-info">
+                                    <div class="stat-value" id="admin-pending-count">0</div>
+                                    <div class="stat-label">Pending Reviews</div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Visitor Demographics Section -->
+                        <div style="margin-top: 2rem;">
+                            <h3><i class="fa-solid fa-earth-americas"></i> Visitor Demographics</h3>
+                            <p style="margin-bottom: 1rem; color: var(--text-muted); font-size: 0.95rem;">
+                                Geographic location of your audience.
+                            </p>
+                            <div class="table-container" style="overflow-x: auto; max-height: 250px;">
+                                <table class="leaderboard-table" style="width: 100%;">
+                                    <thead>
+                                        <tr>
+                                            <th>Country</th>
+                                            <th>Visitors Count</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="admin-visitor-stats">
+                                        <tr>
+                                            <td colspan="2" style="text-align:center;">Loading analytics...</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Tab 2: Pending Approvals -->
+                    <div id="admin-pending" class="admin-tab-content hidden">
+                        <h3><i class="fa-solid fa-list-check"></i> Pending Approvals</h3>
+                        <p style="margin-bottom: 1.5rem; color: var(--text-muted); font-size: 0.95rem;">
+                            Review and approve MCQs submitted by users.
+                        </p>
+                        <div id="admin-pending-list" style="display: flex; flex-direction: column; gap: 1rem;">
+                            <!-- Pending questions injected here -->
+                        </div>
+                    </div>
+
+                    <!-- Tab 3: Manage Users -->
+                    <div id="admin-users" class="admin-tab-content hidden">
+                        <h3><i class="fa-solid fa-users-gear"></i> Manage Users</h3>
+                        <p style="margin-bottom: 1.5rem; color: var(--text-muted); font-size: 0.95rem;">
+                            View registered users and their roles (Admin / User).
+                        </p>
+                        <div class="table-container" style="overflow-x: auto;">
+                            <table class="leaderboard-table" style="width: 100%;">
+                                <thead>
+                                    <tr>
+                                        <th>Role</th>
+                                        <th>Name</th>
+                                        <th>Joined</th>
+                                        <th>Actions</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="admin-users-list">
+                                    <tr>
+                                        <td colspan="4" style="text-align:center;">Loading users...</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <!-- Tab 4: Edit/Delete MCQs -->
+                    <div id="admin-edit-mcqs" class="admin-tab-content hidden">
+                        <h3><i class="fa-solid fa-pen-to-square"></i> Edit Database</h3>
+                        <div class="review-form-group" style="margin-top: 1rem;">
+                            <label for="admin-category-select">Select Category to Edit</label>
+                            <select id="admin-category-select" class="form-control">
+                                <option value="">-- Choose Category --</option>
+                                <!-- Categories injected by JS -->
+                            </select>
+                        </div>
+                        <div id="admin-edit-mcq-list" style="display: flex; flex-direction: column; gap: 1rem; margin-top: 1.5rem;">
+                            <p style="text-align: center; color: var(--text-muted);">Select a category above to load questions.</p>
+                        </div>
+                    </div>
+
+                    <!-- Tab 5: Export Data -->
+                    <div id="admin-export" class="admin-tab-content hidden">
+                        <h3><i class="fa-solid fa-download"></i> Export Options</h3>
+                        <p style="margin-bottom: 1.5rem; color: var(--text-muted); font-size: 0.95rem;">
+                            Download the entire MCQ database for backup or offline reading.
+                        </p>
+                        
+                        <div style="margin-bottom: 1.5rem;">
+                            <label for="admin-export-category-select" style="display: block; margin-bottom: 0.5rem; font-weight: 500;">Select Category for PDF:</label>
+                            <select id="admin-export-category-select" style="width: 100%; padding: 0.8rem; border-radius: 8px; border: 1px solid var(--border-color); background: var(--bg-color); color: var(--text-main); font-family: inherit; font-size: 1rem;">
+                                <option value="all">All Categories (Complete Database)</option>
+                                <!-- Categories injected by JS -->
+                            </select>
+                        </div>
+                        
+                        <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
+                            <button id="admin-save-data-js-btn" class="primary-btn" style="background: #3b82f6; border-color: #3b82f6;">
+                                <i class="fa-solid fa-floppy-disk"></i> Save & Download (data.js)
+                            </button>
+                            
+                            <button id="admin-export-json-btn" class="primary-btn" style="background: #10b981; border-color: #10b981;">
+                                <i class="fa-solid fa-file-code"></i> Export as JSON (Data Backup)
+                            </button>
+                            
+                            <button id="admin-export-pdf-btn" class="primary-btn" style="background: #ef4444; border-color: #ef4444;">
+                                <i class="fa-solid fa-file-pdf"></i> Export as PDF (Printable)
+                            </button>
+                        </div>
+                        
+                        <div style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px dashed var(--border-color);">
+                            <h4 style="margin-bottom: 0.8rem; color: #f59e0b;"><i class="fa-solid fa-cloud-arrow-up"></i> Live Cloud Sync</h4>
+                            <p style="margin-bottom: 1rem; color: var(--text-muted); font-size: 0.9rem;">
+                                Upload the entire offline data.js database into Firebase Cloud Firestore. Do this only once to initialize the live database.
+                            </p>
+                            <button id="admin-migrate-firebase-btn" class="primary-btn" style="background: #f59e0b; border-color: #f59e0b; color: white;">
+                                <i class="fa-solid fa-cloud-arrow-up"></i> Migrate Offline Data to Firebase
+                            </button>
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
