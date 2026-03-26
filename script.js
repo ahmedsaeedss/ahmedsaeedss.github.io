@@ -175,6 +175,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     navItemAdmin.classList.add('hidden');
                 }
             }
+            // Fetch jobs globally to allow admin edits to sync instantly
+            fetchAndRenderJobs();
         } else {
             authBtnLabel.textContent = "Login";
             authBtnIcon.className = "fa-solid fa-right-to-bracket";
@@ -300,8 +302,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (authSubtitle) authSubtitle.textContent = "Welcome back! Please enter your details.";
                 if (authActionText) authActionText.textContent = "Log In";
                 if (authActionIcon) authActionIcon.className = "fa-solid fa-arrow-right-to-bracket";
-                if (usernameAsterisk) usernameAsterisk.style.display = "inline"; // Keep inline for consistency even if not strict requirement
-                if (loginUsernameInput) loginUsernameInput.placeholder = "Enter username (e.g., admin)";
+                
+                const loginUsernameLabel = document.getElementById('login-username-label');
+                if (loginUsernameLabel) loginUsernameLabel.innerHTML = 'Email / Username <span id="username-asterisk" style="color:red; display:inline;">*</span>';
+                if (loginUsernameInput) loginUsernameInput.placeholder = "Enter email or username";
+                
+                const forgotLink = document.getElementById('forgot-password-link');
+                if (forgotLink) forgotLink.style.display = 'block';
             });
 
             tabSignup.addEventListener('click', () => {
@@ -314,8 +321,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (authSubtitle) authSubtitle.textContent = "Create an account to track your progress.";
                 if (authActionText) authActionText.textContent = "Sign Up";
                 if (authActionIcon) authActionIcon.className = "fa-solid fa-user-plus";
-                if (usernameAsterisk) usernameAsterisk.style.display = "inline";
-                if (loginUsernameInput) loginUsernameInput.placeholder = "Choose a username";
+                
+                const loginUsernameLabel = document.getElementById('login-username-label');
+                if (loginUsernameLabel) loginUsernameLabel.innerHTML = 'Username <span id="username-asterisk" style="color:red; display:inline;">*</span>';
+                if (loginUsernameInput) loginUsernameInput.placeholder = "Choose a display username";
+                
+                const forgotLink = document.getElementById('forgot-password-link');
+                if (forgotLink) forgotLink.style.display = 'none';
             });
         }
 
@@ -361,17 +373,34 @@ document.addEventListener('DOMContentLoaded', () => {
                     return;
                 }
 
-                // Dispatch event for firebase-sync.js
+                // 1. Check Hardcoded Admin FIRST (Bypasses Firebase)
+                if (!isSignUpMode && selectedRole === 'admin' && username === 'admin' && password === 'admin123') {
+                    isLoggedIn = true;
+                    userRole = 'admin';
+                    showToast("Logged in as Admin successfully!");
+                    localStorage.setItem('isLoggedIn', true);
+                    localStorage.setItem('userRole', userRole);
+                    updateAuthUI();
+                    
+                    loginUsernameInput.value = '';
+                    loginPasswordInput.value = '';
+                    if (loginEmailInput) loginEmailInput.value = '';
+                    if (adminSecretInput) adminSecretInput.value = '';
+                    loginModal.classList.add('hidden');
+                    return; // Stop here, do NOT call Firebase
+                }
+
+                // 2. Dispatch event for firebase-sync.js
                 window.dispatchEvent(new CustomEvent('authSubmit', {
                     detail: { isSignUpMode, email, username, password, role: selectedRole }
                 }));
 
-                // Fallback / Hardcoded Auth Check
-                if (!isSignUpMode) {
-                    if (selectedRole === 'admin' && username === 'admin' && password === 'admin123') {
+                // 3. Optional Offline Fallback (Only if Firebase is completely disconnected/missing)
+                if (typeof firebase === 'undefined') {
+                    if (!isSignUpMode && selectedRole === 'user' && username && password) {
                         isLoggedIn = true;
-                        userRole = 'admin';
-                        showToast("Logged in as Admin successfully!");
+                        userRole = 'user';
+                        showToast("Logged in successfully (Offline Mode)!");
                         localStorage.setItem('isLoggedIn', true);
                         localStorage.setItem('userRole', userRole);
                         updateAuthUI();
@@ -381,10 +410,10 @@ document.addEventListener('DOMContentLoaded', () => {
                         if (loginEmailInput) loginEmailInput.value = '';
                         if (adminSecretInput) adminSecretInput.value = '';
                         loginModal.classList.add('hidden');
-                    } else if (selectedRole === 'user' && username && password) {
+                    } else if (isSignUpMode) {
                         isLoggedIn = true;
-                        userRole = 'user';
-                        showToast("Logged in successfully!");
+                        userRole = selectedRole;
+                        showToast(`Signed up as ${selectedRole.toUpperCase()} successfully (Offline Mode)!`);
                         localStorage.setItem('isLoggedIn', true);
                         localStorage.setItem('userRole', userRole);
                         updateAuthUI();
@@ -397,23 +426,40 @@ document.addEventListener('DOMContentLoaded', () => {
                     } else {
                         alert("Invalid credentials.");
                     }
-                } else {
-                    // Sign Up Fallback Logic (if Firebase fails)
-                    isLoggedIn = true;
-                    userRole = selectedRole;
-                    showToast(`Signed up as ${selectedRole.toUpperCase()} successfully!`);
-                    localStorage.setItem('isLoggedIn', true);
-                    localStorage.setItem('userRole', userRole);
-                    updateAuthUI();
-                    
-                    loginUsernameInput.value = '';
-                    loginPasswordInput.value = '';
-                    if (loginEmailInput) loginEmailInput.value = '';
-                    if (adminSecretInput) adminSecretInput.value = '';
-                    loginModal.classList.add('hidden');
                 }
+                // If Firebase IS defined, script.js does nothing more here. 
+                // It waits for 'authSuccess' event or the Error alert from firebase-sync.js
             });
         }
+        // Listener: Firebase Auth Success (Sign Up or Login via Firebase)
+        window.addEventListener('authSuccess', (e) => {
+            const { username, role, silent } = e.detail;
+            isLoggedIn = true;
+            userRole = role || 'user';
+            localStorage.setItem('isLoggedIn', true);
+            localStorage.setItem('userRole', userRole);
+            updateAuthUI();
+            
+            if (!silent) {
+                showToast(`Welcome back, ${username}!`);
+            }
+            
+            
+            // Clear form fields
+            if (loginUsernameInput) loginUsernameInput.value = '';
+            if (loginPasswordInput) loginPasswordInput.value = '';
+            if (loginEmailInput) loginEmailInput.value = '';
+            if (adminSecretInput) adminSecretInput.value = '';
+        });
+
+        // Listener: Firebase Auth Logout (Triggered by session restore logic if logged out)
+        window.addEventListener('authLogout', () => {
+            isLoggedIn = false;
+            userRole = null;
+            localStorage.removeItem('isLoggedIn');
+            localStorage.removeItem('userRole');
+            updateAuthUI();
+        });
 
         // Listeners for Social Logins
         if (googleLoginBtn) {
@@ -425,6 +471,40 @@ document.addEventListener('DOMContentLoaded', () => {
         if (facebookLoginBtn) {
             facebookLoginBtn.addEventListener('click', () => {
                 window.dispatchEvent(new CustomEvent('socialLogin', { detail: 'facebook' }));
+            });
+        }
+
+        // Forgot Password Handler
+        const forgotPasswordBtn = document.getElementById('forgot-password-btn');
+        if (forgotPasswordBtn) {
+            forgotPasswordBtn.addEventListener('click', (e) => {
+                e.preventDefault();
+                const emailInput = loginEmailInput ? loginEmailInput.value.trim() : '';
+                const usernameInput = loginUsernameInput ? loginUsernameInput.value.trim() : '';
+                
+                // Try email field first, then username field (if it looks like email)
+                const resetEmail = emailInput || (usernameInput.includes('@') ? usernameInput : '');
+                
+                if (!resetEmail) {
+                    // Show email field if hidden
+                    const emailGroup = document.getElementById('email-group');
+                    if (emailGroup) emailGroup.classList.remove('hidden');
+                    alert("Please enter your email address in the Email field, then click 'Forgot Password?' again.");
+                    return;
+                }
+
+                // Dispatch to firebase-sync.js
+                window.dispatchEvent(new CustomEvent('resetPassword', { 
+                    detail: { 
+                        email: resetEmail,
+                        onSuccess: () => {
+                            alert("✅ Password reset email sent!\n\nPlease check your inbox at:\n" + resetEmail);
+                        },
+                        onError: (err) => {
+                            alert("❌ Failed to send reset email:\n" + err);
+                        }
+                    }
+                }));
             });
         }
 
@@ -480,6 +560,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     if (tabName === 'admin-dashboard') renderAdminDashboard();
                     if (tabName === 'admin-pending') renderAdminPending();
                     if (tabName === 'admin-users') renderAdminUsers();
+                    if (tabName === 'admin-jobs') renderAdminJobs();
                     if (tabName === 'admin-edit-mcqs') renderAdminEditCategorySelect();
                     if (tabName === 'admin-export') renderAdminExportCategorySelect();
                 });
@@ -706,7 +787,76 @@ document.addEventListener('DOMContentLoaded', () => {
             }, 500);
         }
 
-        // --- 4. Edit MCQs Logic ---
+        // --- 4. Admin Manage Jobs Logic ---
+        function renderAdminJobs() {
+            fetchAndRenderJobs(true);
+        }
+
+        const adminAddJobBtn = document.getElementById('admin-add-job-btn');
+        if (adminAddJobBtn) {
+            adminAddJobBtn.addEventListener('click', () => {
+                const title = document.getElementById('admin-job-title').value.trim();
+                const dept = document.getElementById('admin-job-dept').value.trim();
+                const deadline = document.getElementById('admin-job-deadline').value;
+                const link = document.getElementById('admin-job-link').value.trim();
+                const imageUrl = document.getElementById('admin-job-image') ? document.getElementById('admin-job-image').value.trim() : '';
+                const fileInput = document.getElementById('admin-job-image-file');
+                const editingId = adminAddJobBtn.dataset.editingId;
+
+                if (!title || !deadline) {
+                    alert("Please fill out Job Title and Deadline Date");
+                    return;
+                }
+
+                adminAddJobBtn.disabled = true;
+                const btnText = document.getElementById('admin-add-job-btn-text');
+                const previousText = btnText ? btnText.innerText : (editingId ? 'Update Alert' : 'Publish Alert');
+                adminAddJobBtn.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> <span id="admin-add-job-btn-text">' + (editingId ? 'Updating...' : 'Publishing...') + '</span>';
+
+                const jobData = {
+                    title: title,
+                    dept: dept,
+                    deadline: deadline,
+                    link: link || '#',
+                    image: imageUrl || ''
+                };
+
+                const eventName = editingId ? 'editJob' : 'addJob';
+                const payload = editingId ? { jobId: editingId, jobData: jobData } : { jobData: jobData };
+
+                window.dispatchEvent(new CustomEvent(eventName, {
+                    detail: {
+                        ...payload,
+                        onSuccess: (id) => {
+                            showToast(editingId ? "Job alert updated!" : "Job alert published!");
+                            adminAddJobBtn.disabled = false;
+                            adminAddJobBtn.innerHTML = '<i class="fa-solid fa-paper-plane"></i> <span id="admin-add-job-btn-text">Publish Alert</span>';
+                            delete adminAddJobBtn.dataset.editingId;
+                            
+                            // Reset form
+                            document.getElementById('admin-job-title').value = '';
+                            document.getElementById('admin-job-dept').value = '';
+                            document.getElementById('admin-job-deadline').value = '';
+                            document.getElementById('admin-job-link').value = '';
+                            if(document.getElementById('admin-job-image')) document.getElementById('admin-job-image').value = '';
+                            if(fileInput) fileInput.value = '';
+                            const previewDiv = document.getElementById('admin-job-image-preview');
+                            if(previewDiv) previewDiv.style.display = 'none';
+
+                            // Refresh lists
+                            fetchAndRenderJobs();
+                        },
+                        onError: (err) => {
+                            alert("Failed to " + (editingId ? "update" : "publish") + " job: " + err);
+                            adminAddJobBtn.disabled = false;
+                            adminAddJobBtn.innerHTML = '<i class="fa-solid fa-paper-plane"></i> <span id="admin-add-job-btn-text">' + previousText + '</span>';
+                        }
+                    }
+                }));
+            });
+        }
+
+        // --- 5. Edit MCQs Logic ---
         const adminCategorySelect = document.getElementById('admin-category-select');
         const adminEditMcqList = document.getElementById('admin-edit-mcq-list');
 
@@ -1158,12 +1308,15 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (firstTabBtn) firstTabBtn.click();
                 
                 adminModal.classList.remove('hidden');
+                document.body.classList.add('admin-premium-mode');
             });
         }
 
         if (closeAdminModalBtn && adminModal) {
             closeAdminModalBtn.addEventListener('click', () => {
                 adminModal.classList.add('hidden');
+                document.body.classList.remove('admin-premium-mode');
+                document.body.classList.remove('contributor-active');
             });
         }
 
@@ -1174,6 +1327,29 @@ document.addEventListener('DOMContentLoaded', () => {
         if (navBookmarks) navBookmarks.addEventListener('click', (e) => { e.preventDefault(); startBookmarksQuiz(); });
         if (navMistakes) navMistakes.addEventListener('click', (e) => { e.preventDefault(); startMistakesQuiz(); });
         if (navLeaderboard) navLeaderboard.addEventListener('click', (e) => { e.preventDefault(); openLeaderboard(); });
+        
+        // --- Admin Premium Mode Dual-State Toggle Logic ---
+        const adminModeToggleBtns = document.querySelectorAll('.admin-mode-toggle-btn');
+        adminModeToggleBtns.forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                // Remove active class from all
+                adminModeToggleBtns.forEach(b => b.classList.remove('active'));
+                // Add active class to clicked
+                btn.classList.add('active');
+                
+                const mode = btn.getAttribute('data-mode');
+                if (mode === 'contributor') {
+                    // Navigate to 'Add MCQ' tab disguised as Contributor mode
+                    document.body.classList.add('contributor-active');
+                    const addMcqTabBtn = document.querySelector('.admin-tab-btn[data-tab="admin-pending"]'); // Or dedicated tab if needed. Actually we want a specific form. Let's redirect to an injected form or create a dedicated tab for it.
+                    // Wait, earlier design didn't specify where Add MCQ form inside Admin is. Let's just create a new hidden tab for it if it doesn't exist, or reuse the global 'Add MCQ' modal. 
+                    // To keep it simple, we can trigger the Add MCQ nav click.
+                    if (navAddMcq) navAddMcq.click();
+                } else {
+                    document.body.classList.remove('contributor-active');
+                }
+            });
+        });
         
         // --- Add MCQs Logic ---
         const addMcqModal = document.getElementById('add-mcq-modal');
@@ -1502,6 +1678,255 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Parse initial URL
         handleInitialRoute();
+        
+        // Fetch jobs for the home screen
+        fetchAndRenderJobs();
+    }
+    
+    // Global Job Modal Functions
+    window.openJobModal = function(encodedJobStr) {
+        const job = JSON.parse(decodeURIComponent(encodedJobStr));
+        document.getElementById('job-modal-title').innerText = job.title;
+        
+        const detailsContainer = document.getElementById('job-modal-details');
+        detailsContainer.innerHTML = '';
+        if (job.dept) {
+            detailsContainer.innerHTML += `<p><strong>Department:</strong> ${job.dept}</p>`;
+        }
+        
+        // Use formatPakDate if available
+        let formattedDate = job.deadline;
+        if(job.deadline && job.deadline.includes('-')) {
+            const [y, m, d] = job.deadline.split('-');
+            formattedDate = `${d}-${m}-${y}`;
+        }
+        detailsContainer.innerHTML += `<p><strong>Deadline:</strong> ${formattedDate}</p>`;
+        
+        const imgEl = document.getElementById('job-modal-image');
+        if (job.image) {
+            imgEl.src = job.image;
+            imgEl.style.display = 'block';
+        } else {
+            imgEl.src = '';
+            imgEl.style.display = 'none';
+        }
+        
+        const linkBtn = document.getElementById('job-modal-link');
+        if (job.link && job.link !== '#') {
+            linkBtn.href = job.link;
+            linkBtn.style.display = 'inline-block';
+        } else {
+            linkBtn.style.display = 'none';
+        }
+        
+        document.getElementById('job-image-modal').classList.remove('hidden');
+        
+        // Attach close listeners every time modal opens
+        const closeBtn = document.getElementById('close-job-modal');
+        if (closeBtn) {
+            closeBtn.onclick = () => {
+                document.getElementById('job-image-modal').classList.add('hidden');
+            };
+        }
+    };
+    
+    // Click outside modal to close
+    document.addEventListener('click', (e) => {
+        const modal = document.getElementById('job-image-modal');
+        if (modal && e.target === modal) {
+            modal.classList.add('hidden');
+        }
+    });
+
+    // --- Date Formatter ---
+    function formatPakDate(dateString) {
+        if(!dateString) return 'N/A';
+        if(dateString.includes('-')) {
+            const [y, m, d] = dateString.split('-');
+            return `${d}-${m}-${y}`;
+        }
+        return new Date(dateString).toLocaleDateString('en-GB');
+    }
+
+    // --- Image Upload Handler ---
+    (function setupImageUpload() {
+        const fileInput = document.getElementById('admin-job-image-file');
+        const hiddenInput = document.getElementById('admin-job-image');
+        const previewDiv = document.getElementById('admin-job-image-preview');
+        if (!fileInput) return;
+
+        fileInput.addEventListener('change', (e) => {
+            const file = e.target.files[0];
+            if (!file) return;
+            
+            // Compress and convert to base64
+            const reader = new FileReader();
+            reader.onload = (ev) => {
+                const img = new Image();
+                img.onload = () => {
+                    // Compress: max 600px width, JPEG quality 0.6
+                    const canvas = document.createElement('canvas');
+                    let w = img.width, h = img.height;
+                    const maxW = 600;
+                    if (w > maxW) { h = Math.round(h * maxW / w); w = maxW; }
+                    canvas.width = w;
+                    canvas.height = h;
+                    canvas.getContext('2d').drawImage(img, 0, 0, w, h);
+                    const base64 = canvas.toDataURL('image/jpeg', 0.6);
+                    
+                    // Store in hidden input
+                    if (hiddenInput) hiddenInput.value = base64;
+                    
+                    // Show preview
+                    if (previewDiv) {
+                        previewDiv.querySelector('img').src = base64;
+                        previewDiv.style.display = 'block';
+                    }
+                };
+                img.src = ev.target.result;
+            };
+            reader.readAsDataURL(file);
+        });
+    })();
+
+    // --- Instant Display: Render from cache first ---
+    function renderJobsFromCache() {
+        try {
+            const cached = localStorage.getItem('cachedJobs');
+            if (cached) {
+                const jobs = JSON.parse(cached);
+                if (jobs.length > 0) {
+                    renderJobCards(jobs);
+                }
+            }
+        } catch(e) { /* ignore parse errors */ }
+    }
+    // Show cached jobs immediately on page load
+    renderJobsFromCache();
+
+    function renderJobCards(jobs) {
+        const jobsSection = document.getElementById('job-alerts-section');
+        const jobsList = document.getElementById('jobs-list');
+
+        if (jobs.length > 0) {
+            if (jobsSection) jobsSection.classList.remove('hidden');
+            if (jobsList) {
+                jobsList.innerHTML = '';
+                jobs.forEach(job => {
+                    const card = document.createElement('div');
+                    card.className = 'job-alert-card';
+                    card.innerHTML = `
+                        <div class="job-alert-info" style="cursor: pointer;" onclick="openJobModal('${encodeURIComponent(JSON.stringify(job))}')"> 
+                            <div class="job-alert-title">${job.title}</div>
+                            <div class="job-alert-meta">
+                                ${job.dept ? `<span class="job-alert-dept"><i class="fa-solid fa-building"></i> ${job.dept}</span>` : ''}
+                                <span class="job-alert-date"><i class="fa-regular fa-clock"></i> ${formatPakDate(job.deadline)}</span>
+                            </div>
+                        </div>
+                        ${job.link && job.link !== '#' ? `<a href="${job.link}" target="_blank" class="job-alert-link"><i class="fa-solid fa-up-right-from-square"></i> Apply</a>` : ''}
+                    `;
+                    jobsList.appendChild(card);
+                });
+            }
+        } else {
+            if (jobsSection) jobsSection.classList.add('hidden');
+        }
+    }    // --- Jobs Fetching & Rendering Logic ---
+    function fetchAndRenderJobs(isAdminView = false) {
+        window.dispatchEvent(new CustomEvent('fetchJobs', {
+            detail: {
+                onSuccess: (jobs) => {
+                    // Cache jobs to localStorage for instant display next time
+                    try { localStorage.setItem('cachedJobs', JSON.stringify(jobs)); } catch(e) {}
+
+                    // Render Home Screen Cards
+                    renderJobCards(jobs);
+                    
+                    // Render Admin Table
+                    const adminJobsList = document.getElementById('admin-jobs-list');
+                    if (adminJobsList) {
+                        if (jobs.length > 0) {
+                            adminJobsList.innerHTML = '';
+                            jobs.forEach(job => {
+                                const tr = document.createElement('tr');
+                                tr.innerHTML = `
+                                    <td><strong>${job.title}</strong></td>
+                                    <td>${job.dept || 'N/A'}</td>
+                                    <td>${formatPakDate(job.deadline)}</td>
+                                    <td>
+                                        <button class="icon-btn text-primary edit-job-btn" data-job='${JSON.stringify(job).replace(/'/g, "&apos;")}' title="Edit"><i class="fa-solid fa-pen-to-square"></i></button>
+                                        <button class="icon-btn text-danger delete-job-btn" data-id="${job.id}" title="Delete"><i class="fa-solid fa-trash"></i></button>
+                                    </td>
+                                `;
+                                adminJobsList.appendChild(tr);
+                            });
+                            
+                            // Attach edit events
+                            document.querySelectorAll('.edit-job-btn').forEach(btn => {
+                                btn.addEventListener('click', (e) => {
+                                    const button = e.target.closest('.edit-job-btn');
+                                    if(!button) return;
+                                    const job = JSON.parse(button.dataset.job.replace(/&apos;/g, "'"));
+                                    
+                                    document.getElementById('admin-job-title').value = job.title || '';
+                                    document.getElementById('admin-job-dept').value = job.dept || '';
+                                    document.getElementById('admin-job-deadline').value = job.deadline || '';
+                                    document.getElementById('admin-job-link').value = job.link !== '#' ? job.link : '';
+                                    if(document.getElementById('admin-job-image')) document.getElementById('admin-job-image').value = job.image || '';
+                                    
+                                    // Show image preview if available
+                                    const previewDiv = document.getElementById('admin-job-image-preview');
+                                    if (previewDiv && job.image) {
+                                        previewDiv.querySelector('img').src = job.image;
+                                        previewDiv.style.display = 'block';
+                                    }
+                                    
+                                    const submitBtn = document.getElementById('admin-add-job-btn');
+                                    submitBtn.dataset.editingId = job.id;
+                                    document.getElementById('admin-add-job-btn-text').innerText = 'Update Alert';
+                                    
+                                    document.getElementById('admin-jobs').scrollIntoView({ behavior: 'smooth' });
+                                });
+                            });
+
+                            // Attach delete events
+                            document.querySelectorAll('.delete-job-btn').forEach(btn => {
+                                btn.addEventListener('click', (e) => {
+                                    const button = e.target.closest('.delete-job-btn');
+                                    if(!button) return;
+                                    
+                                    if(!confirm("Are you sure you want to delete this job alert?")) return;
+                                    const id = button.dataset.id;
+                                    
+                                    button.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i>';
+                                    button.disabled = true;
+
+                                    window.dispatchEvent(new CustomEvent('deleteJob', {
+                                        detail: {
+                                            jobId: id,
+                                            onSuccess: () => {
+                                                fetchAndRenderJobs(true);
+                                                showToast("Job alert deleted.", true);
+                                            },
+                                            onError: (err) => {
+                                                alert("Failed to delete: " + err);
+                                                button.innerHTML = '<i class="fa-solid fa-trash"></i>';
+                                                button.disabled = false;
+                                            }
+                                        }
+                                    }));
+                                });
+                            });
+                        } else {
+                            adminJobsList.innerHTML = '<tr><td colspan="4" style="text-align:center;">No active job alerts.</td></tr>';
+                        }
+                    }
+                },
+                onError: (err) => {
+                    console.log("Could not load jobs: " + err);
+                }
+            }
+        }));
     }
 
     function handleInitialRoute() {
@@ -3048,11 +3473,11 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     });
 
-    // Fallback if Firebase fails to load or offline
+    // Start immediately with local data.js, Firebase updates UI in background if it loads
     setTimeout(() => {
         if (!isAppInitialized) {
-            console.warn("Firebase sync timed out. Starting app with local offline data.js.");
+            console.log("Starting app with local offline data.js (Firebase will update if available).");
             startApp();
         }
-    }, 2500);
+    }, 50);
 });
