@@ -587,7 +587,8 @@ body {
     transition: var(--transition);
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: flex-start;
+    gap: 1rem;
     color: var(--text-main);
 }
 
