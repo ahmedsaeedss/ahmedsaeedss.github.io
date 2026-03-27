@@ -357,6 +357,8 @@ window.addEventListener('saveToCloud', (e) => {
         updatePayload.bookmarks = data;
     } else if (type === 'mistakes') {
         updatePayload.mistakesBank = data;
+    } else if (type === 'completedQuizzes') {
+        updatePayload.completedQuizzes = data;
     }
 
     docRef.set(updatePayload, { merge: true })

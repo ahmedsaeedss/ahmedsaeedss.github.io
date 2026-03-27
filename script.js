@@ -2220,6 +2220,22 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let bookmarks = JSON.parse(localStorage.getItem('bookmarks')) || [];
     let mistakesBank = JSON.parse(localStorage.getItem('mistakesBank')) || [];
+    let completedQuizzes = JSON.parse(localStorage.getItem('completedQuizzes')) || [];
+
+    // --- Quiz Completion Helpers ---
+    function markQuizCompleted(subject, subcategory, setIndex) {
+        const quizId = `${subject}|${subcategory}|${setIndex}`;
+        if (!completedQuizzes.includes(quizId)) {
+            completedQuizzes.push(quizId);
+            localStorage.setItem('completedQuizzes', JSON.stringify(completedQuizzes));
+            window.dispatchEvent(new CustomEvent('saveToCloud', { detail: { type: 'completedQuizzes', data: completedQuizzes } }));
+        }
+    }
+
+    function isQuizCompleted(subject, subcategory, setIndex) {
+        const quizId = `${subject}|${subcategory}|${setIndex}`;
+        return completedQuizzes.includes(quizId);
+    }
 
     // --- Firebase Sync Integration ---
     window.addEventListener('cloudDataLoaded', (e) => {
@@ -2227,11 +2243,13 @@ document.addEventListener('DOMContentLoaded', () => {
         if (data.userStats) userStats = data.userStats;
         if (data.bookmarks) bookmarks = data.bookmarks;
         if (data.mistakesBank) mistakesBank = data.mistakesBank;
+        if (data.completedQuizzes) completedQuizzes = data.completedQuizzes;
 
         // Persist cloud data to local storage
         localStorage.setItem('userStats', JSON.stringify(userStats));
         localStorage.setItem('bookmarks', JSON.stringify(bookmarks));
         localStorage.setItem('mistakesBank', JSON.stringify(mistakesBank));
+        localStorage.setItem('completedQuizzes', JSON.stringify(completedQuizzes));
 
         // Refresh UI if open
         if (!dashboardModal.classList.contains('hidden')) {
@@ -2822,11 +2840,15 @@ document.addEventListener('DOMContentLoaded', () => {
             const endIdx = Math.min((i + 1) * setSize, allCategoryQuestions.length);
             const setQuestionsCount = endIdx - startIdx;
             const setName = `Quiz ${i + 1}`;
+            
+            const mainCatName = findMainCategoryBySub(currentSubcategoryData.category);
+            const isCompleted = isQuizCompleted(mainCatName, currentSubcategoryData.category, i);
 
             const card = document.createElement('div');
-            card.className = 'category-card';
+            card.className = `category-card ${isCompleted ? 'completed' : ''}`;
             card.style.padding = '1.5rem 1rem';
             card.innerHTML = `
+                ${isCompleted ? '<div class="completed-badge"><i class="fa-solid fa-check"></i> Completed</div>' : ''}
                 <div class="category-icon" style="background: var(--primary); color: white; width: 60px; height: 60px; font-size: 1.5rem; margin-bottom: 0;">
                     <i class="fa-solid fa-layer-group"></i>
                 </div>
@@ -3291,6 +3313,12 @@ document.addEventListener('DOMContentLoaded', () => {
             // Update User Stats
             const mainCatName = findMainCategoryBySub(currentSubcategoryData.category);
             updateStats(mainCatName, total, score);
+
+            // Mark Quiz as Completed
+            if (currentSubcategoryData && currentSubcategoryData.category !== 'Bookmarked Questions' && 
+                currentSubcategoryData.category !== 'Daily MCQs' && currentSubcategoryData.category !== 'Full Mock Test') {
+                markQuizCompleted(mainCatName, currentSubcategoryData.category, currentSetIndex);
+            }
 
             if (score === total) {
                 resultMessage.textContent = 'Excellent! You mastered this set.';
