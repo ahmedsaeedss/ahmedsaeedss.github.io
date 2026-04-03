@@ -4,7 +4,10 @@ document.addEventListener('DOMContentLoaded', () => {
         categories: document.getElementById('category-screen'),
         set: document.getElementById('set-screen'),
         quiz: document.getElementById('quiz-screen'),
-        result: document.getElementById('result-screen')
+        result: document.getElementById('result-screen'),
+        'about-screen': document.getElementById('about-screen'),
+        'contact-screen': document.getElementById('contact-screen'),
+        'privacy-screen': document.getElementById('privacy-screen')
     };
 
     const categoriesGrid = document.getElementById('categories-grid');
@@ -1776,12 +1779,25 @@ document.addEventListener('DOMContentLoaded', () => {
         }));
     }
 
+    function handleInfoRoute(page) {
+        updateMetaTags(page.charAt(0).toUpperCase() + page.slice(1) + " Us", "Learn more about MCQs Master", false);
+        switchScreen(`${page}-screen`, true, {}, true);
+    }
+
     function handleInitialRoute() {
         let path = new URLSearchParams(window.location.search).get('p');
         
         // Fallback for old hash links if they still exist
         if (!path && window.location.hash) {
             path = window.location.hash.replace('#', '');
+        }
+
+        if (['about', 'contact', 'privacy'].includes(path)) {
+            const pathUrl = '?p=' + path;
+            history.replaceState({ screen: path }, '', pathUrl);
+            history.pushState({ screen: path }, '', pathUrl);
+            handleInfoRoute(path);
+            return;
         }
 
         if (!path || path === 'home') {
