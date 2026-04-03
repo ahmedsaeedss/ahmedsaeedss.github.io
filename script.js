@@ -1789,16 +1789,29 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         if (path.startsWith('topics/')) {
-            const topicSlug = path.replace('topics/', '');
+            const topicParts = path.replace('topics/', '').split('/');
+            const topicSlug = topicParts[0];
+            const folderSlug = topicParts[1];
+            
             const mainCat = mainQuizData.find(c => (c.name || "").toLowerCase().replace(/ /g, '-') === topicSlug);
 
             if (mainCat) {
+                if (folderSlug) {
+                    const folderObj = mainCat.subcategories.find(s => s.isFolder && (s.category || "").toLowerCase().replace(/ /g, '-') === folderSlug);
+                    if (folderObj) {
+                        const state = { screen: 'categories', mainCategory: mainCat, folderData: folderObj };
+                        const formattedPath = '?p=' + path;
+                        history.replaceState(state, '', formattedPath);
+                        history.pushState(state, '', formattedPath);
+                        showNestedSubcategories(mainCat, folderObj, true);
+                        return;
+                    }
+                }
+                
                 const state = { screen: 'categories', mainCategory: mainCat };
-                const formattedPath = window.location.protocol === 'file:' ? '#' + path : '/' + path;
+                const formattedPath = '?p=' + path;
                 history.replaceState(state, '', formattedPath);
                 history.pushState(state, '', formattedPath);
-
-                // hide categories grid and show subcategories
                 showSubcategories(mainCat, true);
                 return;
             }
@@ -1808,13 +1821,21 @@ document.addEventListener('DOMContentLoaded', () => {
             for (const mc of mainQuizData) {
                 foundSub = mc.subcategories.find(s => (s.category || "").toLowerCase().replace(/ /g, '-') === practiceSlug);
                 if (foundSub) break;
+                // Check inside folders as well
+                for (const sub of mc.subcategories) {
+                    if (sub.isFolder && sub.subcategories) {
+                        foundSub = sub.subcategories.find(s => (s.category || "").toLowerCase().replace(/ /g, '-') === practiceSlug);
+                        if (foundSub) break;
+                    }
+                }
+                if (foundSub) break;
             }
+            
             if (foundSub) {
                 const state = { screen: 'set', subcategoryData: foundSub };
-                const formattedPath = window.location.protocol === 'file:' ? '#' + path : '/' + path;
+                const formattedPath = '?p=' + path;
                 history.replaceState(state, '', formattedPath);
                 history.pushState(state, '', formattedPath);
-
                 startSubcategory(foundSub, true);
                 return;
             }
@@ -2510,7 +2531,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 pathName = 'home';
             } else if (screenName === 'categories' && additionalState.mainCategory) {
                 const name = (additionalState.mainCategory.name || "").toLowerCase().replace(/ /g, '-');
-                pathName = 'topics/' + name;
+                if (additionalState.folderData) {
+                    const folderName = (additionalState.folderData.category || "").toLowerCase().replace(/ /g, '-');
+                    pathName = 'topics/' + name + '/' + folderName;
+                } else {
+                    pathName = 'topics/' + name;
+                }
             } else if (screenName === 'set' && additionalState.subcategoryData) {
                 const name = (additionalState.subcategoryData.category || "").toLowerCase().replace(/ /g, '-');
                 pathName = 'practice/' + name;
@@ -2563,7 +2589,7 @@ document.addEventListener('DOMContentLoaded', () => {
         switchScreen('categories', isPopState, {}, skipScroll);
     }
 
-    function showSubcategories(mainCat, isPopState = false) {
+    function showSubcategories(mainCat, isPopState = false, skipScroll = false) {
         // Hide reviews sidebar on subcategories
         const shareBar = document.getElementById('main-share-bar');
         if (shareBar) shareBar.style.display = 'flex';
@@ -2608,7 +2634,7 @@ document.addEventListener('DOMContentLoaded', () => {
         switchScreen('categories', isPopState, { mainCategory: mainCat }, skipScroll);
     }
 
-    function showNestedSubcategories(mainCat, folderData, isPopState = false) {
+    function showNestedSubcategories(mainCat, folderData, isPopState = false, skipScroll = false) {
         currentMainCategory = mainCat;
         currentFolderData = folderData;
 
@@ -2634,7 +2660,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (sectionTitleElement) sectionTitleElement.textContent = `${mainCat.name} - ${folderData.category}`;
 
         updateMetaTags(folderData.category, mainCat.name, false);
-        switchScreen('categories', isPopState, { mainCategory: mainCat, folderData: folderData });
+        switchScreen('categories', isPopState, { mainCategory: mainCat, folderData: folderData }, skipScroll);
     }
 
     function startSubcategory(subData, isPopState = false) {
