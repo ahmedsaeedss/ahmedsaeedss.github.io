@@ -1,11 +1,13 @@
-const CACHE_NAME = 'mcqs-master-v1';
+const CACHE_NAME = 'mcqs-master-v1.1';
 const ASSETS_TO_CACHE = [
-  '/',
-  '/index.html',
-  '/styles.css',
-  '/script.js',
-  '/data.js',
-  '/manifest.json'
+  './',
+  'index.html',
+  'styles.css',
+  'script.js',
+  'data.js',
+  'manifest.json',
+  'icon-192x192.png',
+  'icon-512x512.png'
 ];
 
 // Install event: cache assets

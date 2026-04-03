@@ -2360,6 +2360,41 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    // --- PWA Manual Install Logic ---
+    let deferredPrompt;
+    const installAppBtn = document.getElementById('install-app-btn');
+
+    window.addEventListener('beforeinstallprompt', (e) => {
+        // Prevent Chrome 67 and earlier from automatically showing the prompt
+        e.preventDefault();
+        // Stash the event so it can be triggered later
+        deferredPrompt = e;
+        // Show the install button in the header
+        if (installAppBtn) installAppBtn.classList.remove('hidden');
+    });
+
+    if (installAppBtn) {
+        installAppBtn.addEventListener('click', async () => {
+            if (deferredPrompt) {
+                // Show the prompt
+                deferredPrompt.prompt();
+                // Wait for the user to respond to the prompt
+                const { outcome } = await deferredPrompt.userChoice;
+                console.log(`User response to the install prompt: ${outcome}`);
+                // We've used the prompt, and can't use it again, throw it away
+                deferredPrompt = null;
+                installAppBtn.classList.add('hidden');
+            }
+        });
+    }
+
+    // Check if app is successfully installed
+    window.addEventListener('appinstalled', () => {
+        if (installAppBtn) installAppBtn.classList.add('hidden');
+        showToast("App installed successfully! Check your home screen.");
+        deferredPrompt = null;
+    });
+
     async function shareScore() {
         if (!navigator.share) {
             alert("Sharing is not supported on this browser/device. You can take a screenshot!");

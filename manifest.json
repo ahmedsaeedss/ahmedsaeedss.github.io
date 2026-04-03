@@ -2,7 +2,7 @@
   "name": "MCQs Master",
   "short_name": "MCQs Master",
   "description": "Master top-quality MCQs for competitive exam preparation. Available offline.",
-  "start_url": "/?source=pwa",
+  "start_url": "./?source=pwa",
   "display": "standalone",
   "background_color": "#F9FAFB",
   "theme_color": "#059669",
