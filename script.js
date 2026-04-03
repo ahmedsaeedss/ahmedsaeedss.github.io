@@ -584,7 +584,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 mainQuizData.forEach(main => {
                     if (main.subcategories) {
                         main.subcategories.forEach(sub => {
-                            if (sub.questions) totalQ += sub.questions.length;
+                            if (sub.isFolder && sub.subcategories) {
+                                sub.subcategories.forEach(nested => {
+                                    if (nested.questions) totalQ += nested.questions.length;
+                                });
+                            } else if (sub.questions) {
+                                totalQ += sub.questions.length;
+                            }
                         });
                     }
                 });
