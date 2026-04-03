@@ -66,7 +66,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const baseTitle = "MCQs Master | Competitive Exam Preparation";
         const newTitle = `${title} MCQs | ${baseTitle}`;
         const newDesc = `Prepare for ${title} under ${parentCategory}. Master top-quality MCQs online for free on MCQs Master.`;
-        const newUrl = window.location.origin + window.location.pathname + "#" + encodeURIComponent(title.replace(/\s+/g, '-').toLowerCase());
+        const newUrl = window.location.href;
 
         // Update Document Title
         document.title = isQuizView ? newTitle : baseTitle;
@@ -1475,168 +1475,6 @@ document.addEventListener('DOMContentLoaded', () => {
         const closeLeaderboardBtn = document.getElementById('close-leaderboard');
         if (closeLeaderboardBtn) closeLeaderboardBtn.addEventListener('click', closeLeaderboard);
 
-        // --- Review Modal Logic ---
-        const reviewModal = document.getElementById('review-modal');
-        const openReviewModalBtn = document.querySelector('.leave-review-btn');
-        const closeReviewModalBtn = document.getElementById('close-review-modal');
-        const starRatingContainer = document.querySelector('.star-rating');
-        const stars = document.querySelectorAll('.star-rating i');
-        const submitReviewBtn = document.getElementById('submit-review-btn');
-        let selectedRating = 0;
-
-        if (openReviewModalBtn) {
-            openReviewModalBtn.addEventListener('click', () => {
-                reviewModal.classList.remove('hidden');
-                resetReviewForm();
-            });
-        }
-
-        if (closeReviewModalBtn) {
-            closeReviewModalBtn.addEventListener('click', () => {
-                reviewModal.classList.add('hidden');
-            });
-        }
-
-        stars.forEach(star => {
-            star.addEventListener('mouseover', () => {
-                const rating = parseInt(star.getAttribute('data-rating'));
-                updateStars(rating, true);
-            });
-
-            star.addEventListener('mouseout', () => {
-                updateStars(selectedRating);
-            });
-
-            star.addEventListener('click', () => {
-                selectedRating = parseInt(star.getAttribute('data-rating'));
-                updateStars(selectedRating);
-            });
-        });
-
-        function updateStars(rating, isHover = false) {
-            stars.forEach(s => {
-                const sRating = parseInt(s.getAttribute('data-rating'));
-                if (sRating <= rating) {
-                    s.classList.add(isHover ? 'hover' : 'active');
-                    s.classList.replace('fa-regular', 'fa-solid');
-                } else {
-                    s.classList.remove('hover', 'active');
-                    s.classList.replace('fa-solid', 'fa-regular');
-                }
-            });
-        }
-
-        function resetReviewForm() {
-            selectedRating = 0;
-            updateStars(0);
-            document.getElementById('review-name').value = '';
-            document.getElementById('review-text').value = '';
-        }
-
-        // Mobile Reviews Toggle Logic
-        const reviewsSidebar = document.getElementById('reviews-sidebar');
-        let overlayBackdrop = document.querySelector('.reviews-backdrop');
-        
-        // Ensure backdrop exists
-        if (!overlayBackdrop && reviewsSidebar) {
-            overlayBackdrop = document.createElement('div');
-            overlayBackdrop.className = 'reviews-backdrop';
-            document.body.appendChild(overlayBackdrop);
-            
-            // Create Mobile Floating Toggle Button for Reviews
-            const mobileReviewsToggle = document.createElement('button');
-            mobileReviewsToggle.className = 'mobile-reviews-toggle';
-            mobileReviewsToggle.innerHTML = '<i class="fa-solid fa-star"></i>';
-            document.body.appendChild(mobileReviewsToggle);
-
-            const toggleReviews = () => {
-                reviewsSidebar.classList.toggle('show-mobile');
-                overlayBackdrop.classList.toggle('show');
-            };
-
-            mobileReviewsToggle.addEventListener('click', toggleReviews);
-            
-            overlayBackdrop.addEventListener('click', () => {
-                reviewsSidebar.classList.remove('show-mobile');
-                overlayBackdrop.classList.remove('show');
-            });
-            
-            // Allow opening by clicking header if hidden on mobile
-            const reviewsHeader = reviewsSidebar.querySelector('.reviews-header');
-            if (reviewsHeader) {
-                reviewsHeader.addEventListener('click', () => {
-                    if (window.innerWidth <= 1360) {
-                        toggleReviews();
-                    }
-                });
-            }
-        }
-
-        if (submitReviewBtn) {
-            submitReviewBtn.addEventListener('click', () => {
-                const name = document.getElementById('review-name').value;
-                const text = document.getElementById('review-text').value;
-
-                if (selectedRating === 0) {
-                    alert("Please select a rating!");
-                    return;
-                }
-                if (!name.trim()) {
-                    alert("Please enter your name!");
-                    return;
-                }
-
-                submitReviewBtn.disabled = true;
-                submitReviewBtn.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Submitting...';
-
-                const newReview = {
-                    name,
-                    text,
-                    rating,
-                    timestamp: new Date().toISOString()
-                };
-
-                // Function to handle successful submission (UI feedback)
-                const handleSuccess = (message) => {
-                    setTimeout(() => {
-                        showToast(message);
-                        reviewModal.classList.add('hidden');
-                        submitReviewBtn.disabled = false;
-                        submitReviewBtn.textContent = 'Submit Review';
-                        document.getElementById('review-name').value = '';
-                        document.getElementById('review-text').value = '';
-                    }, 800);
-                };
-
-                // Offline Support Logic
-                if (!navigator.onLine) {
-                    let offlineReviews = JSON.parse(localStorage.getItem('offline_reviews') || '[]');
-                    offlineReviews.push(newReview);
-                    localStorage.setItem('offline_reviews', JSON.stringify(offlineReviews));
-                    
-                    handleSuccess("Saved offline! Your review will be submitted when you reconnect.");
-                } else {
-                    // Simulate online submission - replace with actual API/Firebase logic later
-                    setTimeout(() => {
-                        handleSuccess("Thank you for your review! It will be visible after moderation.");
-                    }, 1000);
-                }
-            });
-
-            // Listen for network reconnection to sync offline reviews
-            window.addEventListener('online', () => {
-                const offlineReviews = JSON.parse(localStorage.getItem('offline_reviews') || '[]');
-                if (offlineReviews.length > 0) {
-                    showToast(`Syncing ${offlineReviews.length} offline review(s)...`);
-                    
-                    // Simulate syncing to server
-                    setTimeout(() => {
-                        localStorage.removeItem('offline_reviews');
-                        showToast("Offline reviews synced successfully!");
-                    }, 2000);
-                }
-            });
-        }
 
         // Close review modal on outside click
         window.addEventListener('click', (e) => {
@@ -1656,7 +1494,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 // We reached the very first entry (landing). 
                 // Stay on main categories and re-push state to "trap" the back button.
                 showMainCategories(true);
-                const homePath = window.location.protocol === 'file:' ? '#home' : '/home';
+                const homePath = '?p=home';
                 history.pushState({ screen: 'categories' }, '', homePath);
                 return;
             }
@@ -1936,21 +1774,15 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function handleInitialRoute() {
-        let path = '';
-        if (window.location.protocol === 'file:') {
+        let path = new URLSearchParams(window.location.search).get('p');
+        
+        // Fallback for old hash links if they still exist
+        if (!path && window.location.hash) {
             path = window.location.hash.replace('#', '');
-        } else {
-            // For GitHub Pages, the path after the repo name
-            const fullPath = window.location.pathname;
-            // Get the last segments if it's deeply nested
-            const matches = fullPath.match(/\/(topics|practice|quiz)\/.+$/);
-            if (matches) {
-                path = matches[0].substring(1); // remove leading slash
-            }
         }
 
         if (!path || path === 'home') {
-            const homePath = window.location.protocol === 'file:' ? '#home' : '/home';
+            const homePath = '?p=home';
             history.replaceState({ screen: 'categories' }, '', homePath);
             history.pushState({ screen: 'categories' }, '', homePath);
             return; // renderCategories is already called in init()
@@ -2660,11 +2492,14 @@ document.addEventListener('DOMContentLoaded', () => {
         return "Others";
     }
 
-    function switchScreen(screenName, isPopState = false, additionalState = {}) {
+    function switchScreen(screenName, isPopState = false, additionalState = {}, skipScroll = false) {
         stopSpeech(); // Stop audio when leaving screen
         Object.values(screens).forEach(screen => screen.classList.remove('active'));
         if (screens[screenName]) screens[screenName].classList.add('active');
-        window.scrollTo(0, 0);
+        
+        if (!skipScroll) {
+            window.scrollTo(0, 0);
+        }
 
         if (!isPopState) {
             const state = { screen: screenName, ...additionalState };
@@ -2683,18 +2518,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 pathName = 'quiz/set-' + (additionalState.setIndex + 1);
             }
 
-            console.log("Attempting to switch URL to:", pathName);
-
-            // Fallback for local testing (file:// protocol)
-            if (window.location.protocol === 'file:') {
-                console.log("Local file detected. Using Hash.");
-                history.pushState(state, '', '#' + pathName);
-                return;
-            }
-
-            // For servers, use cleaner routing
-            // We prepend '/' to ensure it's from the root
-            const finalPath = '/' + pathName;
+            // Use query parameters for all environments to guarantee SEO visibility and fix GitHub Pages 404s
+            const finalPath = '?p=' + pathName;
             try {
                 history.pushState(state, '', finalPath);
                 console.log("URL pushed successfully:", finalPath);
@@ -2723,30 +2548,25 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    function showMainCategories(isPopState = false) {
+    function showMainCategories(isPopState = false, skipScroll = false) {
         updateNavActiveState('nav-home');
         currentMainCategory = null;
         currentSubcategoryData = null;
         currentFolderData = null;
-        if (sectionTitle) sectionTitle.textContent = "Select Main Subject";
+        if (sectionTitle) sectionTitle.textContent = "Select a Subject";
         updateMetaTags("Home", "All Topics", false);
 
-        // Show reviews sidebar on home
-        const reviewsSidebar = document.getElementById('reviews-sidebar');
-        if (reviewsSidebar) reviewsSidebar.style.display = 'block';
         const shareBar = document.getElementById('main-share-bar');
         if (shareBar) shareBar.style.display = 'flex';
 
         renderCategories();
-        switchScreen('categories', isPopState);
+        switchScreen('categories', isPopState, {}, skipScroll);
     }
 
     function showSubcategories(mainCat, isPopState = false) {
         // Hide reviews sidebar on subcategories
-        const reviewsSidebar = document.getElementById('reviews-sidebar');
-        if (reviewsSidebar) reviewsSidebar.style.display = 'none';
         const shareBar = document.getElementById('main-share-bar');
-        if (shareBar) shareBar.style.display = 'none';
+        if (shareBar) shareBar.style.display = 'flex';
 
         currentMainCategory = mainCat;
         currentFolderData = null;
@@ -2785,7 +2605,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (sectionTitleElement) sectionTitleElement.textContent = mainCat.name;
 
         updateMetaTags(mainCat.name, "Various Subjects", false);
-        switchScreen('categories', isPopState, { mainCategory: mainCat });
+        switchScreen('categories', isPopState, { mainCategory: mainCat }, skipScroll);
     }
 
     function showNestedSubcategories(mainCat, folderData, isPopState = false) {
@@ -3486,11 +3306,18 @@ document.addEventListener('DOMContentLoaded', () => {
             // Hot reload the UI if data changes from Firebase post-initialization
             console.log("Hot reloading UI with fresh Firebase data...");
             if (document.getElementById('category-screen').classList.contains('active')) {
-                showMainCategories();
+                // Only go back to main categories if they were ALREADY on the main categories screen
+                if (currentMainCategory === null) {
+                    showMainCategories(false, true);
+                } else {
+                    // Stay where we are, refresh subcategories but SKIP the scroll back to top
+                    // If they are deep in a folder, showSubcategories is not ideal, but better than a full jump to home
+                    showSubcategories(currentMainCategory, false, true); 
+                }
             } else if (document.getElementById('set-screen').classList.contains('active')) {
-                // If they are on the sets screen, re-render it
-                // We'd need the current category, but showMainCategories is safer a reset
-                showMainCategories();
+                // If they are on the sets screen, don't jump to home
+                // renderSets() doesn't scroll to top by default
+                renderSets();
             }
             
             // Re-render admin if open
