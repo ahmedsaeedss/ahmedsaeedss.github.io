@@ -225,6 +225,9 @@ document.addEventListener('DOMContentLoaded', () => {
         const shareBtn = document.getElementById('share-score-btn');
         if (shareBtn) shareBtn.addEventListener('click', shareScore);
 
+        const pdfBtn = document.getElementById('download-pdf-btn');
+        if (pdfBtn) pdfBtn.addEventListener('click', downloadResultPDF);
+
         // Initialize general share buttons
         document.querySelectorAll('.side-share-bar .share-btn').forEach(btn => {
             btn.addEventListener('click', (e) => {
@@ -2307,6 +2310,40 @@ document.addEventListener('DOMContentLoaded', () => {
         }, 3000);
     }
 
+    function downloadResultPDF() {
+        const resultCard = document.querySelector('.result-card');
+        const pdfBtn = document.getElementById('download-pdf-btn');
+        
+        // Hide UI buttons before capturing
+        const actionsDiv = document.querySelector('.result-actions');
+        if (actionsDiv) Object.assign(actionsDiv.style, { display: 'none' });
+        const homeBtn = document.getElementById('home-btn');
+        if (homeBtn) homeBtn.style.display = 'none';
+        
+        if (pdfBtn) pdfBtn.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Generating...';
+
+        const opt = {
+            margin:       0.5,
+            filename:     `${currentMainCategory?.name || 'Quiz'}_Result.pdf`,
+            image:        { type: 'jpeg', quality: 0.98 },
+            html2canvas:  { scale: 2, useCORS: true },
+            jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
+        };
+
+        html2pdf().set(opt).from(resultCard).save().then(() => {
+            // Restore UI after capturing
+            if (actionsDiv) Object.assign(actionsDiv.style, { display: 'flex' });
+            if (homeBtn) homeBtn.style.display = 'flex';
+            if (pdfBtn) pdfBtn.innerHTML = '<i class="fa-solid fa-file-pdf"></i> Download PDF';
+        }).catch(err => {
+            console.error('PDF Generation Error:', err);
+            if (actionsDiv) Object.assign(actionsDiv.style, { display: 'flex' });
+            if (homeBtn) homeBtn.style.display = 'flex';
+            if (pdfBtn) pdfBtn.innerHTML = '<i class="fa-solid fa-file-pdf"></i> Download PDF';
+            alert('Failed to generate PDF. Please try again.');
+        });
+    }
+
     async function shareScore() {
         if (!navigator.share) {
             alert("Sharing is not supported on this browser/device. You can take a screenshot!");
@@ -2542,6 +2579,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 pathName = 'practice/' + name;
             } else if (screenName === 'quiz' && additionalState.setIndex !== undefined) {
                 pathName = 'quiz/set-' + (additionalState.setIndex + 1);
+            } else if (['about', 'contact', 'privacy'].includes(screenName)) {
+                pathName = screenName;
             }
 
             // Use query parameters for all environments to guarantee SEO visibility and fix GitHub Pages 404s

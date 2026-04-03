@@ -1,4 +1,4 @@
-:root {
+﻿:root {
     --primary-color: #0d47a1;
     --primary-dark: #064E3B;
     --primary: #059669;
@@ -2417,4 +2417,45 @@ body.contributor-active .admin-main-content { max-width: 800px; margin: 0 auto; 
 .modal .close-modal:hover {
     background: #ef4444;
     color: white;
-}
+}
+
+/* Desktop Side Ad Banners */
+.side-ad-container {
+    position: fixed;
+    top: 15vh;
+    width: 160px;
+    height: 600px;
+    background: rgba(16, 185, 129, 0.05);
+    border: 2px dashed rgba(16, 185, 129, 0.3);
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-muted);
+    font-family: 'Outfit', sans-serif;
+    font-size: 0.9rem;
+    z-index: 10;
+}
+
+.side-ad-container.left-ad {
+    left: max(1rem, calc((100vw - 1100px) / 2));
+}
+
+.side-ad-container.right-ad {
+    right: max(1rem, calc((100vw - 1100px) / 2));
+}
+
+.ad-label-vert {
+    transform: rotate(-90deg);
+    letter-spacing: 2px;
+    white-space: nowrap;
+    opacity: 0.8;
+}
+
+@media (max-width: 1200px) {
+    .side-ad-container {
+        display: none !important;
+    }
+}
+
