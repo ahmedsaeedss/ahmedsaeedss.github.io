@@ -41,6 +41,19 @@ function initFirebase() {
         storage = firebase.storage();
 
         setupAuthListener();
+        
+        // Handle Social Login Redirect Result if any
+        auth.getRedirectResult().then((result) => {
+            if (result.user) {
+                console.log("Redirect login successful:", result.user);
+                window.dispatchEvent(new CustomEvent('authSuccess', { 
+                    detail: { username: result.user.displayName || result.user.email, role: 'user', silent: false }
+                }));
+            }
+        }).catch((error) => {
+            console.error("Redirect Auth Error:", error);
+        });
+
         console.log("Firebase initialized successfully.");
     } catch (e) {
         console.error("Firebase Init Error:", e);
@@ -104,6 +117,61 @@ function setupAuthListener() {
     window.addEventListener('authLogout', () => {
         if(auth) auth.signOut();
     });
+    window.addEventListener('adminCreateUser', handleAdminCreateUser);
+}
+
+async function handleAdminCreateUser(e) {
+    if (!auth || !db) return;
+    
+    const { name, email, password, role } = e.detail;
+    
+    // Show a loading indicator if possible, or just alert state
+    console.log("Admin attempting to create user:", email);
+
+    try {
+        // Step 1: Initialize a temporary secondary app to avoid logging out the current admin
+        // Use a random suffix to ensure uniqueness if multiple attempts happen (though we clean up)
+        const secondaryAppName = "AdminCreateUserApp_" + Date.now();
+        const secondaryApp = firebase.initializeApp(firebaseConfig, secondaryAppName);
+        const secondaryAuth = secondaryApp.auth();
+
+        // Step 2: Create the user in Auth
+        const userCredential = await secondaryAuth.createUserWithEmailAndPassword(email, password);
+        const newUser = userCredential.user;
+
+        // Step 3: Update Display Name in Auth Profile
+        await newUser.updateProfile({ displayName: name });
+
+        // Step 4: Create User Profile in Firestore
+        await db.collection('users').doc(newUser.uid).set({
+            displayName: name,
+            email: email,
+            role: role || 'user',
+            createdAt: firebase.firestore.FieldValue.serverTimestamp()
+        }, { merge: true });
+
+        // Step 5: Clean up - Sign out and delete secondary app instance
+        await secondaryAuth.signOut();
+        await secondaryApp.delete();
+
+        alert(`✅ User Created Successfully!\nName: ${name}\nRole: ${role.toUpperCase()}`);
+        
+        // Hide modal and clear fields
+        const modal = document.getElementById('admin-add-user-modal');
+        if (modal) modal.classList.add('hidden');
+        
+        document.getElementById('new-user-name').value = '';
+        document.getElementById('new-user-email').value = '';
+        document.getElementById('new-user-password').value = '';
+
+        // Trigger a refresh of the admin user list if the function is available
+        // We'll dispatch a custom event that script.js can listen to
+        window.dispatchEvent(new Event('adminUserListChanged'));
+
+    } catch (error) {
+        console.error("Admin user creation error:", error);
+        alert("❌ Failed to create user: " + error.message);
+    }
 }
 
 function handleAuthSubmit(e) {
@@ -213,26 +281,55 @@ function getAuthErrorMessage(errorCode) {
 
 function handleSocialLogin(e) {
     if (!auth) {
-        alert("Firebase not configured for social login.");
+        alert("Firebase not configured properly.");
         return;
     }
+
+    const isLocalFile = window.location.protocol === 'file:';
+    if (isLocalFile) {
+        alert("❌ Social Login Restricted!\n\n" + 
+              "Firebase Social Login (Google/Facebook) does not work when opening index.html directly from your folders.\n\n" +
+              "براہ کرم اس ایپ کو ایک ویب سرور (جیسے npx serve) پر چلائیں یا ای میل اور پاسورڈ کے ذریعے لاگ ان کریں۔");
+        return;
+    }
+
     const providerStr = e.detail;
     let provider;
     
     if (providerStr === 'google') {
         provider = new firebase.auth.GoogleAuthProvider();
+        provider.addScope('profile');
+        provider.addScope('email');
     } else if (providerStr === 'facebook') {
         provider = new firebase.auth.FacebookAuthProvider();
     }
 
     if (provider) {
+        // Try popup first as it is more user friendly
         auth.signInWithPopup(provider)
             .then((result) => {
                 console.log(`${providerStr} login successful`, result.user);
                 document.getElementById('login-modal').classList.add('hidden');
+                window.dispatchEvent(new CustomEvent('authSuccess', { 
+                    detail: { username: result.user.displayName || result.user.email, role: 'user', silent: false }
+                }));
             }).catch((error) => {
-                console.error(`${providerStr} Auth Error:`, error);
-                alert(`${providerStr} Login Failed: ` + error.message);
+                console.warn(`${providerStr} Popup Error, trying redirect...`, error);
+                
+                if (error.code === 'auth/operation-not-supported-in-this-environment') {
+                    alert("❌ Operation Not Supported!\n\n" + 
+                          "This environment does not support Popups. Please ensure you are using a secure browser or server environment.\n\n" +
+                          "یہ براؤزر یا ماحول سوشل لاگ ان پاپ اپ کو سپورٹ نہیں کرتا۔");
+                    return;
+                }
+
+                // Fallback to redirect for mobile devices or restrictive environments
+                try {
+                    auth.signInWithRedirect(provider);
+                } catch(err) {
+                    console.error("Redirect Auth Error:", err);
+                    alert("Social login is unavailable in this environment.");
+                }
             });
     }
 }
@@ -559,6 +656,91 @@ window.addEventListener('updateCategoryInFirestore', async (e) => {
     } catch (error) {
         console.error("Error updating category in Firestore:", error);
         if(onError) onError(error.message);
+    }
+});
+
+// Admin: Fetch All Users
+window.addEventListener('adminFetchUsers', () => {
+    if (!db) return;
+    
+    db.collection('users').orderBy('createdAt', 'desc').get()
+        .then(querySnapshot => {
+            const users = [];
+            querySnapshot.forEach(doc => {
+                users.push({ uid: doc.id, ...doc.data() });
+            });
+            window.dispatchEvent(new CustomEvent('adminUsersLoaded', { detail: users }));
+        })
+        .catch(error => console.error("Error fetching users for admin:", error));
+});
+
+// Admin: Update Specific User Credentials & Profile
+window.addEventListener('adminUpdateUser', (e) => {
+    const { uid, displayName, role, email, password, onSuccess, onError } = e.detail;
+    if (!db || !uid) return;
+    
+    const updateData = {
+        displayName: displayName,
+        role: role,
+        updatedAt: firebase.firestore.FieldValue.serverTimestamp()
+    };
+
+    // Add managed credential overrides if provided
+    if (email) updateData.email = email;
+    if (password) updateData.password = password;
+
+    db.collection('users').doc(uid).update(updateData)
+    .then(() => {
+        if (onSuccess) onSuccess();
+    })
+    .catch(error => {
+        console.error("Error updating user:", error);
+        if (onError) onError(error.message);
+    });
+});
+
+// Admin: Delete User account from Firestore
+window.addEventListener('adminDeleteUser', (e) => {
+    const { uid, onSuccess, onError } = e.detail;
+    if (!db || !uid) return;
+    
+    db.collection('users').doc(uid).delete()
+    .then(() => {
+        if (onSuccess) onSuccess();
+    })
+    .catch(error => {
+        console.error("Error deleting user:", error);
+        if (onError) onError(error.message);
+    });
+});
+
+// Auth Override: Check Firestore for Managed Credentials
+window.addEventListener('checkUserOverride', async (e) => {
+    const { email, password, onSuccess, onFail } = e.detail;
+    if (!db) {
+        if (onFail) onFail();
+        return;
+    }
+    
+    try {
+        // Search for a user in Firestore that has this email and this overridden password
+        const snapshot = await db.collection('users')
+            .where('email', '==', email)
+            .where('password', '==', password)
+            .limit(1)
+            .get();
+
+        if (!snapshot.empty) {
+            const userData = snapshot.docs[0].data();
+            // Inject UID into the profile data
+            userData.uid = snapshot.docs[0].id;
+            if (onSuccess) onSuccess(userData);
+        } else {
+            if (onFail) onFail();
+        }
+    } catch (error) {
+        console.error("Error checking user override:", error);
+        if (onFail) onFail();
     }
 });
 

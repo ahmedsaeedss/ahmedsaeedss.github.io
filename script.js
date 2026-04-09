@@ -1,3 +1,44 @@
+// --- GLOBAL UTILITIES (Always available to HTML onclick) ---
+window.switchAdminTab = function(tabName, btnEl) {
+    const adminTabContents = document.querySelectorAll('.admin-tab-content');
+    const adminTabBtns = document.querySelectorAll('.admin-tab-btn');
+
+    adminTabContents.forEach(content => content.classList.add('hidden'));
+    adminTabBtns.forEach(btn => btn.classList.remove('active'));
+
+    const targetTab = document.getElementById(tabName);
+    if (targetTab) {
+        targetTab.classList.remove('hidden');
+        if (btnEl) btnEl.classList.add('active');
+        window.renderAdminTabContent(tabName);
+    }
+};
+
+window.renderAdminTabContent = function(tabName) {
+    switch (tabName) {
+        case 'admin-dashboard': if (typeof renderAdminDashboard === 'function') renderAdminDashboard(); break;
+        case 'admin-users': if (typeof renderAdminUsers === 'function') renderAdminUsers(); break;
+        case 'admin-jobs': if (typeof renderAdminJobs === 'function') renderAdminJobs(); break;
+        case 'admin-pending': if (typeof renderAdminPending === 'function') renderAdminPending(); break;
+        case 'admin-edit-mcqs': if (typeof renderAdminEditCategorySelect === 'function') renderAdminEditCategorySelect(); break;
+        case 'admin-export': if (typeof renderAdminExportCategorySelect === 'function') renderAdminExportCategorySelect(); break;
+    }
+};
+
+window.togglePasswordVisibility = function(inputId, icon) {
+    const input = document.getElementById(inputId);
+    if (!input) return;
+    if (input.type === 'password') {
+        input.type = 'text';
+        icon.classList.remove('fa-eye-slash');
+        icon.classList.add('fa-eye');
+    } else {
+        input.type = 'password';
+        icon.classList.remove('fa-eye');
+        icon.classList.add('fa-eye-slash');
+    }
+};
+
 document.addEventListener('DOMContentLoaded', () => {
     // DOM Elements
     const screens = {
@@ -138,9 +179,27 @@ document.addEventListener('DOMContentLoaded', () => {
     const examCountRadios = document.getElementsByName('exam-count');
 
     function updateNavActiveState(activeId) {
+        // Desktop Nav
         document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active'));
         const activeEl = document.getElementById(activeId);
         if (activeEl) activeEl.classList.add('active');
+
+        // Mobile Bottom Nav Sync
+        const bottomNavMap = {
+            'nav-home': 'bottom-nav-home',
+            'nav-daily': 'bottom-nav-daily',
+            'nav-exam': 'bottom-nav-exam',
+            'nav-mock': 'bottom-nav-exam', // Map mock to exam icon
+            'nav-bookmarks': 'bottom-nav-home',
+            'auth-btn': 'bottom-nav-profile'
+        };
+
+        document.querySelectorAll('.bottom-nav-item').forEach(el => el.classList.remove('active'));
+        const mobileActiveId = bottomNavMap[activeId];
+        if (mobileActiveId) {
+            const mobileActiveEl = document.getElementById(mobileActiveId);
+            if (mobileActiveEl) mobileActiveEl.classList.add('active');
+        }
     }
 
     // Initialize Application
@@ -150,6 +209,12 @@ document.addEventListener('DOMContentLoaded', () => {
             themeToggleBtn.innerHTML = '<i class="fa-solid fa-sun"></i>';
         }
         updateAuthUI();
+        
+        // Performance: Pre-clean all subject and category names once during init
+        if (typeof mainQuizData !== 'undefined' && Array.isArray(mainQuizData)) {
+            preCleanAllData(mainQuizData);
+        }
+
         renderCategories();
         bindEvents();
     }
@@ -179,7 +244,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             }
             // Fetch jobs globally to allow admin edits to sync instantly
-            fetchAndRenderJobs();
+            if (typeof fetchAndRenderJobs === 'function') fetchAndRenderJobs();
         } else {
             authBtnLabel.textContent = "Login";
             authBtnIcon.className = "fa-solid fa-right-to-bracket";
@@ -198,9 +263,99 @@ document.addEventListener('DOMContentLoaded', () => {
         backToHomeFromSetsBtn.addEventListener('click', handleSetsBackButtonClick);
         retryBtn.addEventListener('click', () => startSet(currentSetIndex));
 
+        // Admin: Add New User Button
+        const adminOpenAddUserBtn = document.getElementById('admin-open-add-user-btn');
+        if (adminOpenAddUserBtn) {
+            adminOpenAddUserBtn.addEventListener('click', () => {
+                document.getElementById('admin-add-user-modal').classList.remove('hidden');
+            });
+        }
+        
+        const closeAdminAddUserModal = document.getElementById('close-admin-add-user-modal');
+        if (closeAdminAddUserModal) {
+            closeAdminAddUserModal.addEventListener('click', () => {
+                document.getElementById('admin-add-user-modal').classList.add('hidden');
+            });
+        }
+
+        const confirmCreateUserBtn = document.getElementById('admin-create-user-confirm-btn');
+        if (confirmCreateUserBtn) {
+            confirmCreateUserBtn.addEventListener('click', () => {
+                const name = document.getElementById('new-user-name').value;
+                const email = document.getElementById('new-user-email').value;
+                const password = document.getElementById('new-user-password').value;
+                const role = document.getElementById('new-user-role').value;
+
+                if (!name || !email || !password) {
+                    alert("⚠️ Please fill all required fields!");
+                    return;
+                }
+
+                if (password.length < 6) {
+                    alert("⚠️ Password must be at least 6 characters long!");
+                    return;
+                }
+
+                // Dispatch to firebase-sync.js
+                window.dispatchEvent(new CustomEvent('adminCreateUser', {
+                    detail: { name, email, password, role }
+                }));
+            });
+        }
+
+        // Fix: Enable "Back to Home" buttons on static screens (About, Contact, Privacy)
+        document.querySelectorAll('.back-to-home').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                e.preventDefault();
+                showMainCategories();
+            });
+        });
+
+        // Mobile Menu Toggle Logic
+        const menuToggle = document.getElementById('menu-toggle');
+        const mainNav = document.querySelector('.main-nav');
+        const menuOverlay = document.getElementById('menu-overlay');
+
+        if (menuToggle && mainNav && menuOverlay) {
+            const toggleMenu = () => {
+                mainNav.classList.toggle('active');
+                menuOverlay.classList.toggle('hidden');
+            };
+
+            menuToggle.addEventListener('click', toggleMenu);
+            menuOverlay.addEventListener('click', toggleMenu);
+
+            // Close menu when a link is clicked (Mobile Only)
+            document.querySelectorAll('.nav-item').forEach(link => {
+                link.addEventListener('click', () => {
+                    if (window.innerWidth <= 768) {
+                        mainNav.classList.remove('active');
+                        menuOverlay.classList.add('hidden');
+                    }
+                });
+            });
+        }
+
         // Toggles
         themeToggleBtn.addEventListener('click', toggleTheme);
+        const headerThemeToggle = document.getElementById('theme-toggle-header');
+        if (headerThemeToggle) headerThemeToggle.addEventListener('click', toggleTheme);
         soundToggleBtn.addEventListener('click', toggleSound);
+
+        // Mobile Bottom Nav Events
+        const bottomHome = document.getElementById('bottom-nav-home');
+        const bottomDaily = document.getElementById('bottom-nav-daily');
+        const bottomExam = document.getElementById('bottom-nav-exam');
+        const bottomProfile = document.getElementById('bottom-nav-profile');
+
+        if (bottomHome) bottomHome.addEventListener('click', (e) => { e.preventDefault(); showMainCategories(); });
+        if (bottomDaily) bottomDaily.addEventListener('click', (e) => { e.preventDefault(); startDailyMCQs(); });
+        if (bottomExam) bottomExam.addEventListener('click', (e) => { e.preventDefault(); openExamModal(); });
+        if (bottomProfile) bottomProfile.addEventListener('click', (e) => { 
+            e.preventDefault(); 
+            if (isLoggedIn) openDashboard(); 
+            else document.getElementById('auth-btn').click(); 
+        });
 
         if (nextSetBtn) {
             nextSetBtn.addEventListener('click', () => {
@@ -231,13 +386,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const pdfBtn = document.getElementById('download-pdf-btn');
         if (pdfBtn) pdfBtn.addEventListener('click', downloadResultPDF);
 
-        // Initialize general share buttons
-        document.querySelectorAll('.side-share-bar .share-btn').forEach(btn => {
-            btn.addEventListener('click', (e) => {
-                const platform = Array.from(btn.classList).find(c => ['whatsapp', 'facebook', 'twitter', 'telegram', 'copy'].includes(c));
-                handleGeneralShare(platform);
-            });
-        });
+/* Side share bar event listeners removed in favor of professional native sharing. */
 
         if (bookmarkBtn) bookmarkBtn.addEventListener('click', toggleBookmark);
 
@@ -271,69 +420,54 @@ document.addEventListener('DOMContentLoaded', () => {
         const usernameAsterisk = document.getElementById('username-asterisk');
         const googleLoginBtn = document.getElementById('google-login-btn');
         const facebookLoginBtn = document.getElementById('facebook-login-btn');
-        const roleTabs = document.querySelectorAll('input[name="auth-role"]');
-        const adminSecretGroup = document.getElementById('admin-secret-group');
-        const adminSecretInput = document.getElementById('admin-secret');
         const socialLoginDivider = document.getElementById('social-login-divider');
         const socialLoginGroup = document.getElementById('social-login-group');
         
         let isSignUpMode = false;
         let selectedRole = 'user';
 
-        if (roleTabs) {
-            roleTabs.forEach(radio => {
-                radio.addEventListener('change', (e) => {
-                    selectedRole = e.target.value;
-                    if (selectedRole === 'admin') {
-                        if (isSignUpMode && adminSecretGroup) adminSecretGroup.classList.remove('hidden');
-                        if (socialLoginDivider) socialLoginDivider.classList.add('hidden');
-                        if (socialLoginGroup) socialLoginGroup.classList.add('hidden');
-                    } else {
-                        if (adminSecretGroup) adminSecretGroup.classList.add('hidden');
-                        if (socialLoginDivider) socialLoginDivider.classList.remove('hidden');
-                        if (socialLoginGroup) socialLoginGroup.classList.remove('hidden');
-                    }
-                });
-            });
-        }
 
         if (tabLogin && tabSignup) {
             tabLogin.addEventListener('click', () => {
                 isSignUpMode = false;
                 tabLogin.classList.add('active');
                 tabSignup.classList.remove('active');
-                if (emailGroup) emailGroup.classList.add('hidden');
-                if (adminSecretGroup) adminSecretGroup.classList.add('hidden');
-                if (authModalTitle) authModalTitle.textContent = "Sign In";
-                if (authSubtitle) authSubtitle.textContent = "Welcome back! Please enter your details.";
-                if (authActionText) authActionText.textContent = "Log In";
-                if (authActionIcon) authActionIcon.className = "fa-solid fa-arrow-right-to-bracket";
                 
-                const loginUsernameLabel = document.getElementById('login-username-label');
-                if (loginUsernameLabel) loginUsernameLabel.innerHTML = 'Email / Username <span id="username-asterisk" style="color:red; display:inline;">*</span>';
-                if (loginUsernameInput) loginUsernameInput.placeholder = "Enter email or username";
+                // Hide Signup specific fields 🛠️✨🏁🛠️🚀
+                const signupGroups = ['signup-username-group', 'signup-phone-group', 'signup-confirm-group'];
+                signupGroups.forEach(id => {
+                    const el = document.getElementById(id);
+                    if (el) el.classList.add('hidden');
+                });
                 
-                const forgotLink = document.getElementById('forgot-password-link');
-                if (forgotLink) forgotLink.style.display = 'block';
+                if (authActionText) authActionText.textContent = 'Log In';
+                if (authModalTitle) authModalTitle.textContent = 'Sign In';
+                if (authSubtitle) authSubtitle.textContent = 'Welcome back! Please enter your details.';
+                
+                // Show social links in Log In mode
+                if (socialLoginDivider) socialLoginDivider.style.display = 'flex';
+                if (socialLoginGroup) socialLoginGroup.style.display = 'flex';
             });
 
             tabSignup.addEventListener('click', () => {
                 isSignUpMode = true;
                 tabSignup.classList.add('active');
                 tabLogin.classList.remove('active');
-                if (emailGroup) emailGroup.classList.remove('hidden');
-                if (selectedRole === 'admin' && adminSecretGroup) adminSecretGroup.classList.remove('hidden');
-                if (authModalTitle) authModalTitle.textContent = "Sign Up";
-                if (authSubtitle) authSubtitle.textContent = "Create an account to track your progress.";
-                if (authActionText) authActionText.textContent = "Sign Up";
-                if (authActionIcon) authActionIcon.className = "fa-solid fa-user-plus";
                 
-                const loginUsernameLabel = document.getElementById('login-username-label');
-                if (loginUsernameLabel) loginUsernameLabel.innerHTML = 'Username <span id="username-asterisk" style="color:red; display:inline;">*</span>';
-                if (loginUsernameInput) loginUsernameInput.placeholder = "Choose a display username";
+                // Show Signup specific fields 🛠️✨🏁🛠️🚀
+                const signupGroups = ['signup-username-group', 'signup-phone-group', 'signup-confirm-group'];
+                signupGroups.forEach(id => {
+                    const el = document.getElementById(id);
+                    if (el) el.classList.remove('hidden');
+                });
                 
-                const forgotLink = document.getElementById('forgot-password-link');
-                if (forgotLink) forgotLink.style.display = 'none';
+                if (authActionText) authActionText.textContent = 'Sign Up';
+                if (authModalTitle) authModalTitle.textContent = 'Create Account';
+                if (authSubtitle) authSubtitle.textContent = 'Create an account to track your progress.';
+                
+                // HIDE social links in Sign Up mode as requested
+                if (socialLoginDivider) socialLoginDivider.style.display = 'none';
+                if (socialLoginGroup) socialLoginGroup.style.display = 'none';
             });
         }
 
@@ -356,85 +490,108 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         }
 
+        const adminLogoutBtn = document.getElementById('admin-logout-btn');
+        if (adminLogoutBtn) {
+            adminLogoutBtn.addEventListener('click', () => {
+                if (isLoggedIn) {
+                    window.dispatchEvent(new CustomEvent('authLogout'));
+                    isLoggedIn = false;
+                    userRole = 'user';
+                    localStorage.setItem('isLoggedIn', false);
+                    localStorage.setItem('userRole', 'user');
+                    updateAuthUI();
+                    
+                    const adminModal = document.getElementById('admin-modal');
+                    if (adminModal) adminModal.classList.add('hidden');
+                    
+                    showToast("Logged out successfully!");
+                }
+            });
+        }
+
         if (closeLoginModalBtn && loginModal) {
             closeLoginModalBtn.addEventListener('click', () => {
                 loginModal.classList.add('hidden');
             });
         }
 
-        if (submitLoginBtn && loginUsernameInput && loginPasswordInput && loginModal) {
-            submitLoginBtn.addEventListener('click', () => {
-                const username = loginUsernameInput.value.trim();
-                const password = loginPasswordInput.value.trim();
+        if (submitLoginBtn && loginModal) {
+            submitLoginBtn.addEventListener('click', async () => {
                 const email = loginEmailInput ? loginEmailInput.value.trim() : '';
-                const secret = adminSecretInput ? adminSecretInput.value.trim() : '';
+                const password = loginPasswordInput ? loginPasswordInput.value.trim() : '';
+                const usernameInput = document.getElementById('signup-username') ? document.getElementById('signup-username').value.trim() : '';
+                const phone = document.getElementById('signup-phone') ? document.getElementById('signup-phone').value.trim() : '';
+                const confirmPassword = document.getElementById('signup-confirm-password') ? document.getElementById('signup-confirm-password').value.trim() : '';
                 
-                if (!username || !password || (isSignUpMode && !email)) {
-                    alert("Please fill in all required fields.");
+                if (!email || !password) {
+                    alert("Please fill in email and password.");
                     return;
                 }
 
-                if (isSignUpMode && selectedRole === 'admin' && secret !== 'admin@123') {
-                    alert("Invalid Admin Secret Code.");
-                    return;
-                }
-
-                // 1. Check Hardcoded Admin FIRST (Bypasses Firebase)
-                if (!isSignUpMode && selectedRole === 'admin' && username === 'admin' && password === 'admin123') {
-                    isLoggedIn = true;
-                    userRole = 'admin';
-                    showToast("Logged in as Admin successfully!");
-                    localStorage.setItem('isLoggedIn', true);
-                    localStorage.setItem('userRole', userRole);
-                    updateAuthUI();
-                    
-                    loginUsernameInput.value = '';
-                    loginPasswordInput.value = '';
-                    if (loginEmailInput) loginEmailInput.value = '';
-                    if (adminSecretInput) adminSecretInput.value = '';
-                    loginModal.classList.add('hidden');
-                    return; // Stop here, do NOT call Firebase
-                }
-
-                // 2. Dispatch event for firebase-sync.js
-                window.dispatchEvent(new CustomEvent('authSubmit', {
-                    detail: { isSignUpMode, email, username, password, role: selectedRole }
-                }));
-
-                // 3. Optional Offline Fallback (Only if Firebase is completely disconnected/missing)
-                if (typeof firebase === 'undefined') {
-                    if (!isSignUpMode && selectedRole === 'user' && username && password) {
-                        isLoggedIn = true;
-                        userRole = 'user';
-                        showToast("Logged in successfully (Offline Mode)!");
-                        localStorage.setItem('isLoggedIn', true);
-                        localStorage.setItem('userRole', userRole);
-                        updateAuthUI();
-                        
-                        loginUsernameInput.value = '';
-                        loginPasswordInput.value = '';
-                        if (loginEmailInput) loginEmailInput.value = '';
-                        if (adminSecretInput) adminSecretInput.value = '';
-                        loginModal.classList.add('hidden');
-                    } else if (isSignUpMode) {
-                        isLoggedIn = true;
-                        userRole = selectedRole;
-                        showToast(`Signed up as ${selectedRole.toUpperCase()} successfully (Offline Mode)!`);
-                        localStorage.setItem('isLoggedIn', true);
-                        localStorage.setItem('userRole', userRole);
-                        updateAuthUI();
-                        
-                        loginUsernameInput.value = '';
-                        loginPasswordInput.value = '';
-                        if (loginEmailInput) loginEmailInput.value = '';
-                        if (adminSecretInput) adminSecretInput.value = '';
-                        loginModal.classList.add('hidden');
-                    } else {
-                        alert("Invalid credentials.");
+                if (isSignUpMode) {
+                    if (!usernameInput || !phone || !confirmPassword) {
+                        alert("Please fill in all signup fields.");
+                        return;
                     }
+                    if (password !== confirmPassword) {
+                        alert("Passwords do not match.");
+                        return;
+                    }
+                    selectedRole = 'user'; // Ensure signup is always standard user
+                } else {
+                    // --- ADMIN CREDENTIAL OVERRIDE (Bypass Firebase) ---
+                    if (email === 'idealpskmcqs@admin.com' && password === 'Idealpskmcqs@4365') {
+                        isLoggedIn = true;
+                        userRole = 'admin';
+                        localStorage.setItem('isLoggedIn', true);
+                        localStorage.setItem('userRole', 'admin');
+                        updateAuthUI();
+                        
+                        alert("✅ Welcome back, MCQs Master Admin!");
+                        loginModal.classList.add('hidden');
+                        
+                        if (loginEmailInput) loginEmailInput.value = '';
+                        if (loginPasswordInput) loginPasswordInput.value = '';
+                        return;
+                    }
+
+                    // --- CHECK FOR FIRESTORE USER OVERRIDES ---
+                    try {
+                        // Dispatch to firebase-sync.js to check for managed profile override
+                        window.dispatchEvent(new CustomEvent('checkUserOverride', {
+                            detail: {
+                                email, password,
+                                onSuccess: (userProfile) => {
+                                    isLoggedIn = true;
+                                    userRole = userProfile.role || 'user';
+                                    localStorage.setItem('isLoggedIn', true);
+                                    localStorage.setItem('userRole', userRole);
+                                    updateAuthUI();
+                                    
+                                    alert(`✅ Successfully logged in as ${userProfile.displayName || 'User'} (Managed Access)!`);
+                                    loginModal.classList.add('hidden');
+                                    
+                                    if (loginEmailInput) loginEmailInput.value = '';
+                                    if (loginPasswordInput) loginPasswordInput.value = '';
+                                },
+                                onFail: () => {
+                                    // No override found, proceed with standard Firebase Auth
+                                    window.dispatchEvent(new CustomEvent('authSubmit', {
+                                        detail: { isSignUpMode, email, username: usernameInput, password, phone, role: 'user' }
+                                    }));
+                                }
+                            }
+                        }));
+                        return; // Wait for event callback
+                    } catch(e) { console.error("Override check failed:", e); }
+
+                    selectedRole = 'user';
                 }
-                // If Firebase IS defined, script.js does nothing more here. 
-                // It waits for 'authSuccess' event or the Error alert from firebase-sync.js
+
+                // Default flow if no overrides hit
+                window.dispatchEvent(new CustomEvent('authSubmit', {
+                    detail: { isSignUpMode, email, username: usernameInput, password, phone, role: selectedRole }
+                }));
             });
         }
         // Listener: Firebase Auth Success (Sign Up or Login via Firebase)
@@ -764,40 +921,6 @@ document.addEventListener('DOMContentLoaded', () => {
             }));
         }
 
-        // --- 3. Manage Users Logic ---
-        function renderAdminUsers() {
-            const usersListTbody = document.getElementById('admin-users-list');
-            if (!usersListTbody) return;
-            
-            // Dispatch event to Firebase to fetch users, or use mock if none
-            window.dispatchEvent(new CustomEvent('adminFetchUsers'));
-            
-            // If Firebase hasn't returned anything yet, show mock data
-            // In a real scenario, this would wait for 'adminUsersLoaded' event
-            setTimeout(() => {
-                const users = window.adminFetchedUsers || [
-                    { displayName: 'Admin Main', role: 'admin', joined: '2026-01-01' },
-                    { displayName: 'Test User', role: 'user', joined: '2026-03-15' }
-                ];
-                window.adminFetchedUsers = users; // Store for dashboard
-                
-                usersListTbody.innerHTML = '';
-                users.forEach(user => {
-                    const row = document.createElement('tr');
-                    const isAd = user.role === 'admin';
-                    row.innerHTML = `
-                        <td><span class="badge ${isAd ? 'badge-danger' : 'badge-primary'}">${user.role.toUpperCase()}</span></td>
-                        <td>${user.displayName || 'Unknown'}</td>
-                        <td>${user.joined || 'N/A'}</td>
-                        <td>
-                            <button class="icon-btn text-danger" title="Delete User" onclick="alert('Delete user logic would trigger here.')"><i class="fa-solid fa-trash"></i></button>
-                        </td>
-                    `;
-                    usersListTbody.appendChild(row);
-                });
-                renderAdminDashboard(); // Update stats now that users are loaded
-            }, 500);
-        }
 
         // --- 4. Admin Manage Jobs Logic ---
         function renderAdminJobs() {
@@ -2055,7 +2178,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         closeExamModal();
         switchScreen('quiz');
-        showQuestion();
+        renderQuestion();
         startExamTimer();
     }
 
@@ -2076,7 +2199,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             if (examTimeLeft <= 0) {
                 clearInterval(examTimerInterval);
-                finishQuiz();
+                showResults();
             }
         }, 1000);
     }
@@ -2258,47 +2381,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // --- Share Logic ---
-    function getGeneralShareData() {
-        const url = window.location.href;
-        let text = "Check out this amazing MCQs preparation website! 🚀";
-        
-        if (currentSubcategoryData && screens.set.classList.contains('active')) {
-            text = `Master ${currentSubcategoryData.category} MCQs on MCQs Master! 📚`;
-        } else if (currentMainCategory && screens.categories.classList.contains('active')) {
-            text = `Practice ${currentMainCategory.name} MCQs online for free! 🎯`;
-        }
-        
-        return { url, text };
-    }
-
-    function handleGeneralShare(platform) {
-        const { url, text } = getGeneralShareData();
-        const encodedUrl = encodeURIComponent(url);
-        const encodedText = encodeURIComponent(text);
-
-        let shareUrl = '';
-        switch (platform) {
-            case 'whatsapp':
-                shareUrl = `https://api.whatsapp.com/send?text=${encodedText}%20${encodedUrl}`;
-                break;
-            case 'facebook':
-                shareUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}&quote=${encodedText}`;
-                break;
-            case 'twitter':
-                shareUrl = `https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedText}`;
-                break;
-            case 'telegram':
-                shareUrl = `https://t.me/share/url?url=${encodedUrl}&text=${encodedText}`;
-                break;
-            case 'copy':
-                copyToClipboard(url);
-                return;
-        }
-
-        if (shareUrl) {
-            window.open(shareUrl, '_blank');
-        }
-    }
+/* General share functions removed. Native share API is now used for a more professional experience. */
 
     function copyToClipboard(text) {
         navigator.clipboard.writeText(text).then(() => {
@@ -2505,9 +2588,25 @@ document.addEventListener('DOMContentLoaded', () => {
         let strongestSubject = { name: "N/A", accuracy: -1 };
         let weakestSubject = { name: "N/A", accuracy: 101 };
 
+        const subjectIcons = {
+            "Islamic Studies": "fa-star-and-crescent",
+            "General Knowledge": "fa-earth-asia",
+            "Pakistan Studies": "fa-moon",
+            "English": "fa-spell-check",
+            "Mathematics": "fa-calculator",
+            "Everyday Science": "fa-microscope",
+            "Computer Science": "fa-laptop-code",
+            "Urdu": "fa-pen-nib",
+            "Current Affairs": "fa-newspaper",
+            "Pedagogy": "fa-chalkboard-user",
+            "Geography": "fa-map-location-dot",
+            "default": "fa-book-open-reader"
+        };
+
         Object.keys(userStats.subjectStats).forEach(subject => {
             const stats = userStats.subjectStats[subject];
             const percentage = Math.round((stats.correct / stats.total) * 100);
+            const iconClass = subjectIcons[subject] || subjectIcons["default"];
 
             if (percentage > strongestSubject.accuracy) {
                 strongestSubject = { name: subject, accuracy: percentage };
@@ -2531,14 +2630,23 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             const item = document.createElement('div');
-            item.className = 'progress-item';
+            item.className = 'progress-item-premium';
             item.innerHTML = `
-                <div class="progress-label-row">
-                    <span>${subject} <span class="mastery-badge ${masteryClass}">${masteryLabel}</span></span>
-                    <span>${percentage}% (${stats.correct}/${stats.total})</span>
+                <div class="progress-icon-wrapper">
+                    <i class="fa-solid ${iconClass}"></i>
                 </div>
-                <div class="progress-bar-small">
-                    <div class="progress-fill-small" style="width: ${percentage}%"></div>
+                <div class="progress-content-premium">
+                    <div class="progress-label-row">
+                        <span class="subject-name-premium">${subject}</span>
+                        <span class="subject-percent-premium">${percentage}%</span>
+                    </div>
+                    <div class="progress-bar-container-premium">
+                        <div class="progress-bar-fill-premium" style="width: ${percentage}%"></div>
+                    </div>
+                    <div class="progress-sub-row">
+                        <span class="mastery-badge-premium ${masteryClass}">${masteryLabel}</span>
+                        <span class="subject-ratio-premium">${stats.correct} / ${stats.total} correct</span>
+                    </div>
                 </div>
             `;
             list.appendChild(item);
@@ -2547,47 +2655,50 @@ document.addEventListener('DOMContentLoaded', () => {
         // Add Insights if data exists
         if (Object.keys(userStats.subjectStats).length > 0) {
             const insightsDiv = document.createElement('div');
-            insightsDiv.className = 'dashboard-insights';
+            insightsDiv.className = 'dashboard-insights-premium';
             insightsDiv.innerHTML = `
-                <div class="insight-item">
+                <div class="insight-card-premium">
                     <i class="fa-solid fa-crown" style="color: var(--accent);"></i>
-                    <span><strong>Strongest:</strong> ${strongestSubject.name} (${strongestSubject.accuracy}%)</span>
+                    <div style="display:flex; flex-direction:column;">
+                        <span style="font-size:0.7rem; color:var(--text-muted); font-weight:700; text-transform:uppercase;">Strongest Subject</span>
+                        <span style="font-size:0.9rem; font-weight:700;">${strongestSubject.name} (${strongestSubject.accuracy}%)</span>
+                    </div>
                 </div>
-                <div class="insight-item">
+                <div class="insight-card-premium">
                     <i class="fa-solid fa-arrow-trend-down" style="color: var(--danger);"></i>
-                    <span><strong>Weakest:</strong> ${weakestSubject.name} (${weakestSubject.accuracy}%)</span>
+                    <div style="display:flex; flex-direction:column;">
+                        <span style="font-size:0.7rem; color:var(--text-muted); font-weight:700; text-transform:uppercase;">Needs Focus</span>
+                        <span style="font-size:0.9rem; font-weight:700;">${weakestSubject.name} (${weakestSubject.accuracy}%)</span>
+                    </div>
                 </div>
             `;
             list.prepend(insightsDiv);
         }
 
         if (Object.keys(userStats.subjectStats).length === 0) {
-            list.innerHTML = '<p style="text-align: center; color: var(--text-light); padding: 1rem;">No data yet. Take a quiz to see your progress!</p>';
+            list.innerHTML = '<div style="text-align: center; color: var(--text-muted); padding: 2rem; background: rgba(255,255,255,0.03); border-radius: 15px; border: 1px dashed var(--border-color);"><i class="fa-solid fa-chart-simple" style="font-size: 2rem; margin-bottom: 1rem; opacity: 0.5;"></i><p>No data yet. Take a quiz to unlock your personalized dashboard!</p></div>';
         }
 
         // Render Score Trend Chart
         const trendChart = document.getElementById('score-trend-chart');
         if (trendChart && userStats.scoreHistory && userStats.scoreHistory.length > 0) {
             trendChart.innerHTML = '';
-            userStats.scoreHistory.forEach((score, index) => {
+            // Only show last 8-10 quizzes for better look
+            const historyToShow = userStats.scoreHistory.slice(-8);
+            historyToShow.forEach((score, index) => {
                 const barContainer = document.createElement('div');
                 barContainer.className = 'trend-bar-container';
 
-                // Color coding based on score
-                let bgColor = 'var(--primary)';
-                if (score < 50) bgColor = 'var(--danger)';
-                else if (score < 75) bgColor = 'var(--accent)';
-
                 barContainer.innerHTML = `
-                    <div class="trend-bar" style="height: ${score}%; background: ${bgColor}">
-                        <div class="trend-tooltip">Quiz ${index + 1}: ${score}%</div>
+                    <div class="trend-bar-premium" style="height: ${Math.max(score, 5)}%;">
+                        <div class="trend-tooltip">Quiz ${userStats.scoreHistory.length - historyToShow.length + index + 1}: ${score}%</div>
                     </div>
-                    <div class="trend-label">Q${index + 1}</div>
+                    <div class="trend-label">Q${userStats.scoreHistory.length - historyToShow.length + index + 1}</div>
                 `;
                 trendChart.appendChild(barContainer);
             });
         } else if (trendChart) {
-            trendChart.innerHTML = '<span style="color: var(--text-muted); font-size: 0.85rem; width: 100%; text-align: center;">Take a quiz to see your score trend!</span>';
+            trendChart.innerHTML = '<span style="color: var(--text-muted); font-size: 0.85rem; width: 100%; text-align: center; padding: 2rem;">Take a quiz to see your performance trend!</span>';
         }
     }
 
@@ -2647,20 +2758,80 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    const nameCache = new Map();
+    function cleanName(name) {
+        if (!name) return "";
+        if (nameCache.has(name)) return nameCache.get(name);
+
+        // 1. Remove Urdu/Arabic characters and surrounding brackets
+        let cleaned = name.replace(/\s*[\(\-]?[\u0600-\u06FF\s،۔؛؟]+\)?/g, '').trim();
+        
+        // 2. Insert spaces around symbols like '&' that appear concatenated
+        cleaned = cleaned.replace(/([^\s])&([^\s])/g, '$1 & $2');
+        
+        // 3. Insert spaces between CamelCase words (e.g., "PlantAnatomy" -> "Plant Anatomy")
+        cleaned = cleaned.replace(/([a-z])([A-Z])/g, '$1 $2');
+        
+        // 4. Final cleanup of multiple spaces
+        const result = cleaned.replace(/\s+/g, ' ').trim();
+        nameCache.set(name, result);
+        return result;
+    }
+
+    // New Pre-cleaning engine for ultra-fast performance
+    function preCleanAllData(data) {
+        data.forEach(cat => {
+            if (cat.name) cat.name = cleanName(cat.name);
+            if (cat.subcategories) {
+                cat.subcategories.forEach(sub => {
+                    if (sub.category) sub.category = cleanName(sub.category);
+                    if (sub.isFolder && sub.subcategories) {
+                        sub.subcategories.forEach(nested => {
+                            if (nested.category) nested.category = cleanName(nested.category);
+                        });
+                    }
+                });
+            }
+        });
+    }
+
     function renderCategories() {
-        categoriesGrid.innerHTML = '';
+        let html = '';
         mainQuizData.forEach((mainCat, index) => {
-            const card = document.createElement('div');
-            card.className = 'category-card';
-            card.innerHTML = `
-                <div class="category-icon">
-                    <i class="fa-solid ${mainCat.icon || 'fa-book-open'}"></i>
+            html += `
+                <div class="category-card" data-type="category" data-index="${index}">
+                    <div class="category-icon">
+                        <i class="fa-solid ${mainCat.icon || 'fa-book-open'}"></i>
+                    </div>
+                    <h3>${mainCat.name}</h3>
+                    <p>${mainCat.subcategories.length} Topics</p>
                 </div>
-                <h3>${mainCat.name}</h3>
-                <p style="color: #6B7280; font-size: 0.95rem;">${mainCat.subcategories.length} Topics</p>
             `;
-            card.addEventListener('click', () => showSubcategories(mainCat));
-            categoriesGrid.appendChild(card);
+        });
+        categoriesGrid.innerHTML = html;
+    }
+
+    // Set up a single Event Listener for the entire grid (Event Delegation)
+    if (categoriesGrid) {
+        categoriesGrid.addEventListener('click', (e) => {
+            const card = e.target.closest('.category-card');
+            if (!card) return;
+
+            const type = card.dataset.type;
+            const index = parseInt(card.dataset.index);
+
+            if (type === 'category') {
+                showSubcategories(mainQuizData[index]);
+            } else if (type === 'subcategory') {
+                const sub = currentMainCategory.subcategories[index];
+                if (card.dataset.folder === 'true') {
+                    showNestedSubcategories(currentMainCategory, sub);
+                } else {
+                    startSubcategory(sub);
+                }
+            } else if (type === 'nested') {
+                startSubcategory(currentFolderData.subcategories[index]);
+            }
         });
     }
 
@@ -2672,55 +2843,35 @@ document.addEventListener('DOMContentLoaded', () => {
         if (sectionTitle) sectionTitle.textContent = "Select a Subject";
         updateMetaTags("Home", "All Topics", false);
 
-        const shareBar = document.getElementById('main-share-bar');
-        if (shareBar) shareBar.style.display = 'flex';
 
         renderCategories();
         switchScreen('categories', isPopState, {}, skipScroll);
     }
 
     function showSubcategories(mainCat, isPopState = false, skipScroll = false) {
-        // Hide reviews sidebar on subcategories
-        const shareBar = document.getElementById('main-share-bar');
-        if (shareBar) shareBar.style.display = 'flex';
-
         currentMainCategory = mainCat;
         currentFolderData = null;
 
-        categoriesGrid.innerHTML = '';
-
+        let html = '';
         mainCat.subcategories.forEach((sub, index) => {
-            const card = document.createElement('div');
-            card.className = 'category-card';
-
-            if (sub.isFolder) {
-                card.innerHTML = `
+            const isFolder = sub.isFolder === true;
+            html += `
+                <div class="category-card" data-type="subcategory" data-index="${index}" data-folder="${isFolder}">
                     <div class="category-icon">
-                        <i class="fa-solid ${sub.icon || 'fa-folder'}"></i>
+                        <i class="fa-solid ${sub.icon || (isFolder ? 'fa-folder' : 'fa-book-open')}"></i>
                     </div>
                     <h3>${sub.category}</h3>
-                    <p style="color: #6B7280; font-size: 0.95rem;">${sub.subcategories ? sub.subcategories.length : 0} Topics</p>
-                `;
-                card.addEventListener('click', () => showNestedSubcategories(mainCat, sub));
-            } else {
-                card.innerHTML = `
-                    <div class="category-icon">
-                        <i class="fa-solid ${sub.icon || 'fa-book-open'}"></i>
-                    </div>
-                    <h3>${sub.category}</h3>
-                    <p style="color: #6B7280; font-size: 0.95rem;">${sub.questions ? sub.questions.length : 0} Questions</p>
-                `;
-                card.addEventListener('click', () => startSubcategory(sub));
-            }
-
-            categoriesGrid.appendChild(card);
+                    <p>${isFolder ? (sub.subcategories ? sub.subcategories.length : 0) + ' Topics' : (sub.questions ? sub.questions.length : 0) + ' Questions'}</p>
+                </div>
+            `;
         });
+        categoriesGrid.innerHTML = html;
 
         // Update header or title if needed
         const sectionTitleElement = document.querySelector('#category-screen h2');
-        if (sectionTitleElement) sectionTitleElement.textContent = mainCat.name;
+        if (sectionTitleElement) sectionTitleElement.textContent = cleanName(mainCat.name);
 
-        updateMetaTags(mainCat.name, "Various Subjects", false);
+        updateMetaTags(cleanName(mainCat.name), "Various Subjects", false);
         switchScreen('categories', isPopState, { mainCategory: mainCat }, skipScroll);
     }
 
@@ -2728,23 +2879,21 @@ document.addEventListener('DOMContentLoaded', () => {
         currentMainCategory = mainCat;
         currentFolderData = folderData;
 
-        categoriesGrid.innerHTML = '';
-
+        let html = '';
         if (folderData.subcategories) {
             folderData.subcategories.forEach((sub, index) => {
-                const card = document.createElement('div');
-                card.className = 'category-card';
-                card.innerHTML = `
-                    <div class="category-icon">
-                        <i class="fa-solid ${sub.icon || 'fa-book-open'}"></i>
+                html += `
+                    <div class="category-card" data-type="nested" data-index="${index}">
+                        <div class="category-icon">
+                            <i class="fa-solid ${sub.icon || 'fa-book-open'}"></i>
+                        </div>
+                        <h3>${sub.category}</h3>
+                        <p>${sub.questions ? sub.questions.length : 0} Questions</p>
                     </div>
-                    <h3>${sub.category}</h3>
-                    <p style="color: #6B7280; font-size: 0.95rem;">${sub.questions ? sub.questions.length : 0} Questions</p>
                 `;
-                card.addEventListener('click', () => startSubcategory(sub));
-                categoriesGrid.appendChild(card);
             });
         }
+        categoriesGrid.innerHTML = html;
 
         const sectionTitleElement = document.querySelector('#category-screen h2');
         if (sectionTitleElement) sectionTitleElement.textContent = `${mainCat.name} - ${folderData.category}`;
@@ -2788,14 +2937,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const card = document.createElement('div');
             card.className = `category-card ${isCompleted ? 'completed' : ''}`;
-            card.style.padding = '1.5rem 1rem';
             card.innerHTML = `
                 ${isCompleted ? '<div class="completed-badge"><i class="fa-solid fa-check"></i> Completed</div>' : ''}
-                <div class="category-icon" style="background: var(--primary); color: white; width: 60px; height: 60px; font-size: 1.5rem; margin-bottom: 0;">
+                <div class="category-icon">
                     <i class="fa-solid fa-layer-group"></i>
                 </div>
                 <h3>${setName}</h3>
-                <p style="color: #6B7280; font-size: 0.9rem;">${setQuestionsCount} Questions</p>
+                <p>${setQuestionsCount} Questions</p>
             `;
             card.addEventListener('click', () => startSet(i));
             setsGrid.appendChild(card);
@@ -3050,12 +3198,20 @@ document.addEventListener('DOMContentLoaded', () => {
         originalOptionsText = [...question.options];
 
         // Ensure English UI reset first
+        questionText.classList.remove('nastaliq');
         questionText.style.direction = "ltr";
         questionText.style.fontFamily = "inherit";
         if (translateBtn) {
             translateBtn.classList.remove('active');
             translateBtn.querySelector('i').className = 'fa-solid fa-language';
             translateBtn.querySelector('.trans-text').textContent = "اردو";
+        }
+
+        const isUrduSubject = (currentMainCategory?.name || "").toLowerCase().includes("urdu") || 
+                             (currentSubcategoryData?.category || "").toLowerCase().includes("urdu");
+
+        if (isUrduSubject) {
+            questionText.classList.add('nastaliq');
         }
 
         // Render Text
@@ -3066,8 +3222,9 @@ document.addEventListener('DOMContentLoaded', () => {
         question.options.forEach((opt, index) => {
             const btn = document.createElement('button');
             btn.className = 'option-btn';
+            if (isUrduSubject) btn.classList.add('nastaliq');
             btn.textContent = opt;
-            btn.style.direction = "ltr";
+            btn.style.direction = isUrduSubject ? "rtl" : "ltr";
             btn.style.fontFamily = "inherit";
             btn.addEventListener('click', () => selectOption(index, btn));
             optionsContainer.appendChild(btn);
@@ -3457,4 +3614,157 @@ document.addEventListener('DOMContentLoaded', () => {
             startApp();
         }
     }, 50);
+});
+
+// --- RECOVERED ADMIN FUNCTIONS (Global Scope so called from tab switcher) ---
+
+window.fetchAndRenderJobs = function() {
+    window.dispatchEvent(new CustomEvent('fetchJobs', {
+        detail: {
+            onSuccess: (jobs) => {
+                renderJobAlerts(jobs);
+                renderAdminJobsList(jobs);
+            },
+            onError: (err) => console.error(err)
+        }
+    }));
+};
+
+function renderJobAlerts(jobs) {
+    const jobAlertsContainer = document.getElementById('job-alerts-list');
+    if (!jobAlertsContainer) return;
+
+    if (jobs.length === 0) {
+        jobAlertsContainer.innerHTML = '<p style="text-align:center; padding: 1rem; color: var(--text-muted);">No active alerts.</p>';
+        return;
+    }
+
+    jobAlertsContainer.innerHTML = jobs.map(job => `
+        <div class="job-alert-item" onclick="openJobModal(${JSON.stringify(job).replace(/"/g, '&quot;')})">
+            <i class="fa-solid fa-bullhorn"></i>
+            <div class="job-alert-info">
+                <span class="job-alert-title">${job.title}</span>
+                <span class="job-alert-meta">${job.department || ''} | Deadline: ${job.deadline}</span>
+            </div>
+        </div>
+    `).join('');
+}
+
+function renderAdminJobsList(jobs) {
+    const container = document.getElementById('admin-jobs-list');
+    if (!container) return;
+
+    if (jobs.length === 0) {
+        container.innerHTML = '<tr><td colspan="4" style="text-align:center;">No jobs found.</td></tr>';
+        return;
+    }
+
+    container.innerHTML = jobs.map(job => `
+        <tr>
+            <td>${job.title}</td>
+            <td>${job.department || '-'}</td>
+            <td>${job.deadline}</td>
+            <td>
+                <button onclick="deleteJobAlert('${job.id}')" style="color:#ef4444; background:none; border:none; cursor:pointer;" title="Delete"><i class="fa-solid fa-trash"></i></button>
+            </td>
+        </tr>
+    `).join('');
+}
+
+window.deleteJobAlert = function(id) {
+    if (!confirm("Are you sure you want to delete this alert?")) return;
+    window.dispatchEvent(new CustomEvent('deleteJob', {
+        detail: { jobId: id, onSuccess: () => fetchAndRenderJobs() }
+    }));
+};
+
+window.renderAdminUsers = function() {
+    const container = document.getElementById('admin-users-list');
+    if (!container) return;
+
+    container.innerHTML = '<tr><td colspan="5" style="text-align:center;">Loading users...</td></tr>';
+    window.dispatchEvent(new Event('adminFetchUsers'));
+};
+
+window.addEventListener('adminUsersLoaded', (e) => {
+    const users = e.detail;
+    const container = document.getElementById('admin-users-list');
+    if (!container) return;
+
+    if (users.length === 0) {
+        container.innerHTML = '<tr><td colspan="5" style="text-align:center;">No users found.</td></tr>';
+        return;
+    }
+
+    container.innerHTML = users.map(user => `
+        <tr style="border-bottom: 1px solid rgba(0,0,0,0.05);">
+            <td style="padding: 0.8rem 0.4rem;"><span class="badge ${user.role === 'admin' ? 'badge-premium' : 'badge-free'}">${user.role || 'user'}</span></td>
+            <td style="padding: 0.8rem 0.4rem; font-weight: 500;">${user.displayName || 'Anonymous'}</td>
+            <td style="padding: 0.8rem 0.4rem; color: var(--text-muted); font-size: 0.85rem;">${user.createdAt ? (user.createdAt.seconds ? new Date(user.createdAt.seconds * 1000).toLocaleDateString() : 'Just now') : 'N/A'}</td>
+            <td style="padding: 0.8rem 0.4rem; display: flex; gap: 0.5rem; justify-content: flex-end;">
+                <button onclick="openEditUserModal('${user.uid}', '${user.displayName || ''}', '${user.role || 'user'}', '${user.email || ''}', '${user.password || ''}')" class="icon-btn" style="color:var(--primary);" title="Edit Credentials">
+                    <i class="fa-solid fa-user-gear"></i>
+                </button>
+                <button onclick="deleteAdminUser('${user.uid}', '${user.displayName || 'this user'}')" class="icon-btn" style="color:#ef4444;" title="Delete User">
+                    <i class="fa-solid fa-trash-can"></i>
+                </button>
+            </td>
+        </tr>
+    `).join('');
+});
+
+window.deleteAdminUser = function(uid, name) {
+    if (!confirm(`Are you sure you want to PERMANENTLY delete ${name}? This will remove them from the database.`)) return;
+    window.dispatchEvent(new CustomEvent('adminDeleteUser', {
+        detail: {
+            uid,
+            onSuccess: () => {
+                alert("User deleted successfully.");
+                renderAdminUsers();
+            },
+            onError: (msg) => alert("Error deleting user: " + msg)
+        }
+    }));
+};
+
+window.openEditUserModal = function(uid, name, role, email, password) {
+    document.getElementById('edit-user-uid').value = uid;
+    document.getElementById('edit-user-name').value = name;
+    document.getElementById('edit-user-role').value = role;
+    document.getElementById('edit-user-email').value = email || '';
+    document.getElementById('edit-user-password').value = password || '';
+    document.getElementById('edit-user-modal').classList.remove('hidden');
+};
+
+// Global listener for modal close and save (defined once at start of global functions or end)
+document.addEventListener('DOMContentLoaded', () => {
+    const closeEditUserBtn = document.getElementById('close-edit-user-modal');
+    if (closeEditUserBtn) {
+        closeEditUserBtn.addEventListener('click', () => {
+            document.getElementById('edit-user-modal').classList.add('hidden');
+        });
+    }
+
+    const saveUserChangesBtn = document.getElementById('save-user-changes-btn');
+    if (saveUserChangesBtn) {
+        saveUserChangesBtn.addEventListener('click', () => {
+            const uid = document.getElementById('edit-user-uid').value;
+            const displayName = document.getElementById('edit-user-name').value;
+            const role = document.getElementById('edit-user-role').value;
+            const email = document.getElementById('edit-user-email').value;
+            const password = document.getElementById('edit-user-password').value;
+
+            window.dispatchEvent(new CustomEvent('adminUpdateUser', {
+                detail: {
+                    uid, displayName, role, email, password,
+                    onSuccess: () => {
+                        alert("User profile and credentials updated successfully!");
+                        document.getElementById('edit-user-modal').classList.add('hidden');
+                        renderAdminUsers();
+                    },
+                    onError: (msg) => alert("Error: " + msg)
+                }
+            }));
+        });
+    }
 });
