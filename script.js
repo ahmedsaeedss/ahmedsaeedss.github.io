@@ -39,6 +39,11 @@ window.togglePasswordVisibility = function(inputId, icon) {
     }
 };
 
+// --- NATIVE CAPACITOR PLUGINS (Safe initialization) ---
+const { Share, Filesystem, TextToSpeech } = window.Capacitor ? window.Capacitor.Plugins : {};
+const Directory = window.Capacitor ? (window.Capacitor.Plugins.Filesystem ? { Cache: 'CACHE' } : {}) : {};
+const Encoding = { UTF8: 'utf8' };
+
 document.addEventListener('DOMContentLoaded', () => {
     // DOM Elements
     const screens = {
@@ -57,6 +62,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const sectionTitle = document.getElementById('main-section-title');
     const homeLogo = document.getElementById('home-logo');
     const backToHomeFromSetsBtn = document.getElementById('back-to-home-from-sets');
+    const backToPrevCategoryBtn = document.getElementById('back-to-prev-category');
     const introScreen = document.getElementById('intro-screen');
     const startQuizBtn = document.getElementById('start-quiz-btn');
 
@@ -98,6 +104,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let isDarkMode = localStorage.getItem('theme') === 'dark';
     let isSoundEnabled = true;
     let timerInterval;
+    let isNativeSpeaking = false; // Flag for Native TTS control 🛠️✨🏁🛠️🚀
     const timePerQuestion = 60;
     let timeLeft = timePerQuestion;
     
@@ -233,6 +240,8 @@ document.addEventListener('DOMContentLoaded', () => {
         
         if (isLoggedIn) {
             authBtnLabel.textContent = "Logout";
+            authBtn.title = "Logout";
+            authBtn.ariaLabel = "Logout";
             authBtnIcon.className = "fa-solid fa-user-check";
             authBtn.classList.remove('auth-btn-unlogged');
             authBtn.classList.add('auth-btn-logged');
@@ -247,7 +256,9 @@ document.addEventListener('DOMContentLoaded', () => {
             if (typeof fetchAndRenderJobs === 'function') fetchAndRenderJobs();
         } else {
             authBtnLabel.textContent = "Login";
-            authBtnIcon.className = "fa-solid fa-right-to-bracket";
+            authBtn.title = "Login with Google";
+            authBtn.ariaLabel = "Login with Google";
+            authBtnIcon.className = "fa-brands fa-google";
             authBtn.classList.remove('auth-btn-logged');
             authBtn.classList.add('auth-btn-unlogged');
             if (navItemAdmin) navItemAdmin.classList.add('hidden');
@@ -261,7 +272,13 @@ document.addEventListener('DOMContentLoaded', () => {
         homeBtn.addEventListener('click', showMainCategories);
         homeLogo.addEventListener('click', showMainCategories);
         backToHomeFromSetsBtn.addEventListener('click', handleSetsBackButtonClick);
+        if (backToPrevCategoryBtn) backToPrevCategoryBtn.addEventListener('click', handleCategoryBackButtonClick);
         retryBtn.addEventListener('click', () => startSet(currentSetIndex));
+
+        // Back to Home listener for static screens (About, Contact, Privacy)
+        document.querySelectorAll('.back-to-home-btn').forEach(btn => {
+            btn.addEventListener('click', showMainCategories);
+        });
 
         // Admin: Add New User Button
         const adminOpenAddUserBtn = document.getElementById('admin-open-add-user-btn');
@@ -299,6 +316,52 @@ document.addEventListener('DOMContentLoaded', () => {
                 // Dispatch to firebase-sync.js
                 window.dispatchEvent(new CustomEvent('adminCreateUser', {
                     detail: { name, email, password, role }
+                }));
+            });
+        }
+
+        // Contact Form Submission Handler
+        const contactForm = document.getElementById('contact-form');
+        if (contactForm) {
+            contactForm.addEventListener('submit', (e) => {
+                e.preventDefault();
+                
+                const name = document.getElementById('contact-name').value.trim();
+                const email = document.getElementById('contact-email').value.trim();
+                const subject = document.getElementById('contact-subject').value.trim();
+                const message = document.getElementById('contact-message').value.trim();
+                const submitBtn = document.getElementById('contact-submit-btn');
+                const btnText = document.getElementById('contact-btn-text');
+                const btnIcon = document.getElementById('contact-btn-icon');
+
+                if (!name || !email || !message) {
+                    alert("⚠️ Please fill in all required fields.");
+                    return;
+                }
+
+                // Show loading state
+                if (submitBtn) submitBtn.disabled = true;
+                if (btnText) btnText.textContent = "Sending...";
+                if (btnIcon) btnIcon.className = "fa-solid fa-circle-notch fa-spin";
+
+                // Dispatch to firebase-sync.js
+                window.dispatchEvent(new CustomEvent('submitContactMessage', {
+                    detail: {
+                        messageData: { name, email, subject, message },
+                        onSuccess: () => {
+                            alert("✅ Your message has been sent successfully! We will get back to you soon.");
+                            contactForm.reset();
+                            if (submitBtn) submitBtn.disabled = false;
+                            if (btnText) btnText.textContent = "Send Message";
+                            if (btnIcon) btnIcon.className = "fa-solid fa-paper-plane";
+                        },
+                        onError: (error) => {
+                            alert("❌ Failed to send message: " + error);
+                            if (submitBtn) submitBtn.disabled = false;
+                            if (btnText) btnText.textContent = "Send Message";
+                            if (btnIcon) btnIcon.className = "fa-solid fa-paper-plane";
+                        }
+                    }
                 }));
             });
         }
@@ -444,6 +507,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (authModalTitle) authModalTitle.textContent = 'Sign In';
                 if (authSubtitle) authSubtitle.textContent = 'Welcome back! Please enter your details.';
                 
+                // Show forgot password
+                const forgotPassLink = document.getElementById('forgot-password-link');
+                if (forgotPassLink) forgotPassLink.classList.remove('hidden');
+
                 // Show social links in Log In mode
                 if (socialLoginDivider) socialLoginDivider.style.display = 'flex';
                 if (socialLoginGroup) socialLoginGroup.style.display = 'flex';
@@ -465,6 +532,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 if (authModalTitle) authModalTitle.textContent = 'Create Account';
                 if (authSubtitle) authSubtitle.textContent = 'Create an account to track your progress.';
                 
+                // HIDE forgot password on signup
+                const forgotPassLink = document.getElementById('forgot-password-link');
+                if (forgotPassLink) forgotPassLink.classList.add('hidden');
+
                 // HIDE social links in Sign Up mode as requested
                 if (socialLoginDivider) socialLoginDivider.style.display = 'none';
                 if (socialLoginGroup) socialLoginGroup.style.display = 'none';
@@ -474,6 +545,9 @@ document.addEventListener('DOMContentLoaded', () => {
         if (authBtn) {
             authBtn.addEventListener('click', () => {
                 if (isLoggedIn) {
+                    // Confirmation before logout
+                    if (!confirm("Are you sure you want to logout?")) return;
+
                     // Perform Logout
                     window.dispatchEvent(new CustomEvent('authLogout'));
                     
@@ -494,6 +568,8 @@ document.addEventListener('DOMContentLoaded', () => {
         if (adminLogoutBtn) {
             adminLogoutBtn.addEventListener('click', () => {
                 if (isLoggedIn) {
+                    if (!confirm("Are you sure you want to logout from the Admin panel?")) return;
+
                     window.dispatchEvent(new CustomEvent('authLogout'));
                     isLoggedIn = false;
                     userRole = 'user';
@@ -1654,6 +1730,19 @@ document.addEventListener('DOMContentLoaded', () => {
         
         // Fetch jobs for the home screen
         fetchAndRenderJobs();
+
+        // Warm up TTS engine to eliminate first-click latency on mobile
+        if (window.Capacitor && typeof TextToSpeech !== 'undefined') {
+            try {
+                TextToSpeech.speak({
+                    text: " ",
+                    lang: 'en-US',
+                    rate: 1.0,
+                    pitch: 1.0,
+                    volume: 0.01 // Very low volume silent speak
+                }).catch(e => console.log("TTS Warmup skip:", e));
+            } catch (e) {}
+        }
     }
     
     // Global Job Modal Functions
@@ -2409,39 +2498,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }, 3000);
     }
 
-    function downloadResultPDF() {
-        const resultCard = document.querySelector('.result-card');
-        const pdfBtn = document.getElementById('download-pdf-btn');
-        
-        // Hide UI buttons before capturing
-        const actionsDiv = document.querySelector('.result-actions');
-        if (actionsDiv) Object.assign(actionsDiv.style, { display: 'none' });
-        const homeBtn = document.getElementById('home-btn');
-        if (homeBtn) homeBtn.style.display = 'none';
-        
-        if (pdfBtn) pdfBtn.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Generating...';
-
-        const opt = {
-            margin:       0.5,
-            filename:     `${currentMainCategory?.name || 'Quiz'}_Result.pdf`,
-            image:        { type: 'jpeg', quality: 0.98 },
-            html2canvas:  { scale: 2, useCORS: true },
-            jsPDF:        { unit: 'in', format: 'letter', orientation: 'portrait' }
-        };
-
-        html2pdf().set(opt).from(resultCard).save().then(() => {
-            // Restore UI after capturing
-            if (actionsDiv) Object.assign(actionsDiv.style, { display: 'flex' });
-            if (homeBtn) homeBtn.style.display = 'flex';
-            if (pdfBtn) pdfBtn.innerHTML = '<i class="fa-solid fa-file-pdf"></i> Download PDF';
-        }).catch(err => {
-            console.error('PDF Generation Error:', err);
-            if (actionsDiv) Object.assign(actionsDiv.style, { display: 'flex' });
-            if (homeBtn) homeBtn.style.display = 'flex';
-            if (pdfBtn) pdfBtn.innerHTML = '<i class="fa-solid fa-file-pdf"></i> Download PDF';
-            alert('Failed to generate PDF. Please try again.');
-        });
-    }
 
     // --- PWA Manual Install Logic ---
     let deferredPrompt;
@@ -2478,29 +2534,6 @@ document.addEventListener('DOMContentLoaded', () => {
         deferredPrompt = null;
     });
 
-    async function shareScore() {
-        if (!navigator.share) {
-            alert("Sharing is not supported on this browser/device. You can take a screenshot!");
-            return;
-        }
-
-        const catName = currentSubcategoryData ? currentSubcategoryData.category : "a Quiz";
-        const shareScoreVal = document.getElementById('final-score').innerText;
-        const totalQ = document.getElementById('total-questions').innerText;
-
-        const shareData = {
-            title: 'MCQs Master Score!',
-            text: `I just scored ${shareScoreVal}/${totalQ} inside the '${catName}' quiz on MCQs Master! Can you beat my score? 🏆`,
-            url: window.location.href
-        };
-
-        try {
-            await navigator.share(shareData);
-            console.log('Successfully shared');
-        } catch (err) {
-            console.error('Error sharing:', err);
-        }
-    }
 
     // --- Leaderboard Logic ---
     function openLeaderboard() {
@@ -2844,6 +2877,7 @@ document.addEventListener('DOMContentLoaded', () => {
         updateMetaTags("Home", "All Topics", false);
 
 
+        if (backToPrevCategoryBtn) backToPrevCategoryBtn.classList.add('hidden');
         renderCategories();
         switchScreen('categories', isPopState, {}, skipScroll);
     }
@@ -2872,6 +2906,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (sectionTitleElement) sectionTitleElement.textContent = cleanName(mainCat.name);
 
         updateMetaTags(cleanName(mainCat.name), "Various Subjects", false);
+        if (backToPrevCategoryBtn) backToPrevCategoryBtn.classList.remove('hidden');
         switchScreen('categories', isPopState, { mainCategory: mainCat }, skipScroll);
     }
 
@@ -2899,6 +2934,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (sectionTitleElement) sectionTitleElement.textContent = `${mainCat.name} - ${folderData.category}`;
 
         updateMetaTags(folderData.category, mainCat.name, false);
+        if (backToPrevCategoryBtn) backToPrevCategoryBtn.classList.remove('hidden');
         switchScreen('categories', isPopState, { mainCategory: mainCat, folderData: folderData }, skipScroll);
     }
 
@@ -2974,71 +3010,95 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // --- Audio Reading (Text-to-Speech) Logic ---
-    function readAloud() {
-        if (!('speechSynthesis' in window)) {
-            alert('Sorry, your browser does not support text-to-speech.');
-            return;
+    function handleCategoryBackButtonClick() {
+        if (currentFolderData && currentMainCategory) {
+            // We were in a folder, go back to top-level subcategories of the same subject
+            showSubcategories(currentMainCategory);
+        } else {
+            // We were in subcategories, go back to main subjects
+            showMainCategories();
         }
+    }
 
-        // If currently speaking, stop it and exit (toggle functionality)
-        if (window.speechSynthesis.speaking) {
-            window.speechSynthesis.cancel();
+    // --- Audio Reading (Text-to-Speech) Logic ---
+    async function readAloud() {
+        const question = currentSetQuestions[currentQuestionIndex];
+        if (!question) return;
 
-            const readBtn = document.getElementById('read-aloud-btn');
-            if (readBtn) {
-                const icon = readBtn.querySelector('i');
-                icon.className = 'fa-solid fa-volume-high';
-                icon.classList.remove('pulse');
+        // Toggle logic for Native TTS 🛠️✨🏁🛠️🚀
+        if (window.Capacitor && TextToSpeech) {
+            if (isNativeSpeaking) {
+                try {
+                    await TextToSpeech.stop();
+                    isNativeSpeaking = false;
+                    updateReadAloudBtnUI(false);
+                } catch (e) { console.error("TTS Stop Error:", e); }
+                return;
+            }
+
+            let textToRead = `Question: ${question.q}. `;
+            const optionLabels = ['A', 'B', 'C', 'D'];
+            question.options.forEach((opt, index) => {
+                textToRead += `Option ${optionLabels[index]}: ${opt}. `;
+            });
+
+            try {
+                isNativeSpeaking = true;
+                updateReadAloudBtnUI(true);
+                await TextToSpeech.speak({
+                    text: textToRead,
+                    lang: 'en-US',
+                    rate: 1.0,
+                    pitch: 1.0,
+                    volume: 1.0
+                    // Removed category: 'ambient' to reduce system-level audio routing latency
+                });
+                isNativeSpeaking = false;
+                updateReadAloudBtnUI(false);
+            } catch (err) {
+                console.error('Native TTS Error:', err);
+                isNativeSpeaking = false;
+                updateReadAloudBtnUI(false);
+                alert('Voice speech failed.');
             }
             return;
         }
 
-        // Otherwise clear queue and start reading
-        window.speechSynthesis.cancel();
+        // Web Fallback Toggle
+        if (window.speechSynthesis.speaking) {
+            window.speechSynthesis.cancel();
+            updateReadAloudBtnUI(false);
+            return;
+        }
 
-        const question = currentSetQuestions[currentQuestionIndex];
-        if (!question) return;
-
-        // Construct the text to read
-        let textToRead = `Question: ${question.q}. `;
-
-        // Add options
-        const optionLabels = ['A', 'B', 'C', 'D'];
+        let webText = `Question: ${question.q}. `;
+        const webLabels = ['A', 'B', 'C', 'D'];
         question.options.forEach((opt, index) => {
-            textToRead += `Option ${optionLabels[index]}: ${opt}. `;
+            webText += `Option ${webLabels[index]}: ${opt}. `;
         });
 
-        const utterance = new SpeechSynthesisUtterance(textToRead);
-
-        // Try to pick a clear, English voice
+        const utterance = new SpeechSynthesisUtterance(webText);
         const voices = window.speechSynthesis.getVoices();
-        const enVoice = voices.find(v => v.lang.startsWith('en-') && v.name.includes('Google'));
-        if (enVoice) {
-            utterance.voice = enVoice;
-        }
-
-        utterance.rate = 0.9; // Slightly slower for clarity
-        utterance.pitch = 1;
-
-        // Add visual feedback to button while reading
-        const readBtn = document.getElementById('read-aloud-btn');
-        if (readBtn) {
-            const icon = readBtn.querySelector('i');
-            icon.className = 'fa-solid fa-volume-high';
-            icon.classList.add('pulse');
-
-            utterance.onend = () => {
-                icon.className = 'fa-solid fa-volume-high';
-                icon.classList.remove('pulse');
-            };
-            utterance.onerror = () => {
-                icon.className = 'fa-solid fa-volume-high';
-                icon.classList.remove('pulse');
-            };
-        }
-
+        let voice = voices.find(v => v.lang.startsWith('en') && v.name.includes('Google')) || 
+                    voices.find(v => v.lang.startsWith('en'));
+        if (voice) utterance.voice = voice;
+        utterance.rate = 0.9;
+        utterance.onstart = () => updateReadAloudBtnUI(true);
+        utterance.onend = () => updateReadAloudBtnUI(false);
         window.speechSynthesis.speak(utterance);
+    }
+
+    function updateReadAloudBtnUI(isSpeaking) {
+        const readBtn = document.getElementById('read-aloud-btn');
+        if (!readBtn) return;
+        const icon = readBtn.querySelector('i');
+        if (isSpeaking) {
+            icon.classList.add('pulse');
+            readBtn.classList.add('active');
+        } else {
+            icon.classList.remove('pulse');
+            readBtn.classList.remove('active');
+        }
     }
 
     // Stop speaking when user goes to next question or leaves screen
@@ -3714,15 +3774,16 @@ window.addEventListener('adminUsersLoaded', (e) => {
 });
 
 window.deleteAdminUser = function(uid, name) {
-    if (!confirm(`Are you sure you want to PERMANENTLY delete ${name}? This will remove them from the database.`)) return;
+    if (!confirm(`⚠️ WARNING: Are you sure you want to PERMANENTLY delete ${name}?\n\nThis will remove their Authentication account AND Database records, allowing their email to be reused.`)) return;
+    
     window.dispatchEvent(new CustomEvent('adminDeleteUser', {
         detail: {
             uid,
             onSuccess: () => {
-                alert("User deleted successfully.");
-                renderAdminUsers();
+                alert("✅ User account and data purged successfully!");
+                if (typeof renderAdminUsers === 'function') renderAdminUsers();
             },
-            onError: (msg) => alert("Error deleting user: " + msg)
+            onError: (err) => alert("❌ Purge Failed: " + err)
         }
     }));
 };
@@ -3767,4 +3828,46 @@ document.addEventListener('DOMContentLoaded', () => {
             }));
         });
     }
+
+    // Listener for real-time user list refresh
+    window.addEventListener('adminUserListChanged', () => {
+        if (typeof renderAdminUsers === 'function') renderAdminUsers();
+    });
 });
+
+/**
+ * Performance: Pre-cleans all category and subcategory names,
+ * and fixes the 'questions' property for all subcategories.
+ * This runs ONCE at load to avoid runtime overhead.
+ */
+function preCleanAllData(data) {
+    if (!Array.isArray(data)) return;
+    console.log("Performance: Pre-cleaning application data engine started...");
+    const start = performance.now();
+    
+    data.forEach(main => {
+        // Clean main categories
+        if (main.name) main.cleanName = main.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+        
+        if (Array.isArray(main.subcategories)) {
+            main.subcategories.forEach(sub => {
+                // Clean subcategories
+                if (sub.category) sub.cleanName = sub.category.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+                
+                // Ensure questions is an array
+                if (!sub.questions) {
+                    sub.questions = [];
+                } else if (typeof sub.questions === 'string') {
+                    try {
+                        sub.questions = JSON.parse(sub.questions);
+                    } catch (e) {
+                        sub.questions = [];
+                    }
+                }
+            });
+        }
+    });
+    
+    const end = performance.now();
+    console.log(`Performance: Engine completed in ${(end - start).toFixed(2)}ms.`);
+}

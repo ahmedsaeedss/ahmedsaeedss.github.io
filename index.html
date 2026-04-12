@@ -3,7 +3,8 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#1e40af">
     <script type="text/javascript">
         // GitHub Pages SPA Hero
         // https://github.com/rafgraph/spa-github-pages
@@ -140,6 +141,9 @@
 
         <!-- Screen 1: Category/Subject Selection -->
         <section id="category-screen" class="screen active">
+            <button class="back-btn hidden" id="back-to-prev-category" aria-label="Go back">
+                <i class="fa-solid fa-arrow-left"></i> Back
+            </button>
             
             <!-- Job Alerts Section -->
             <div id="job-alerts-section" class="jobs-alerts-container hidden" style="margin-bottom: 2rem;">
@@ -180,8 +184,8 @@
         <!-- Screen 3: Quiz Application -->
         <section id="quiz-screen" class="screen">
             <div class="quiz-header">
-                <button id="back-to-categories" class="icon-btn" title="Back">
-                    <i class="fa-solid fa-arrow-left"></i>
+                <button id="back-to-categories" class="back-btn" title="Back" style="margin-bottom: 0;">
+                    <i class="fa-solid fa-arrow-left"></i> Back
                 </button>
                 <div class="header-info">
                     <h2 id="current-category-title">Topic Name</h2>
@@ -277,8 +281,6 @@
                 <div class="result-actions" style="margin-top: 2rem;">
                     <button id="retry-btn" class="secondary-btn"><i class="fa-solid fa-rotate-right"></i> Retry Quiz</button>
                     <button id="next-set-btn" class="primary-btn hidden">Next Quiz <i class="fa-solid fa-forward"></i></button>
-                    <button id="download-pdf-btn" class="secondary-btn" style="border-color: #EF4444; color: #EF4444;"><i class="fa-solid fa-file-pdf"></i> Download PDF</button>
-                    <button id="share-score-btn" class="secondary-btn" style="border-color: #25D366; color: #25D366;"><i class="fa-brands fa-whatsapp"></i> Share Score</button>
                     <button id="home-btn" class="primary-btn"><i class="fa-solid fa-house"></i> Home</button>
                 </div>
             </div>
@@ -309,15 +311,38 @@
                 <h2>Contact Us</h2>
                 <p>We'd love to hear from you</p>
             </div>
-            <div class="info-content card" style="background: var(--card-bg); padding: 2rem; border-radius: 12px; margin-top: 1rem; border: 1px solid var(--border-color); box-shadow: var(--shadow);">
-                <p>If you have any questions, suggestions, or wish to report an error in any of our MCQs, please feel free to reach out to us.</p>
-                <div style="margin-top: 1.5rem; display: flex; flex-direction: column; gap: 1rem;">
-                    <div style="display: flex; align-items: center; gap: 1rem; font-size: 1.1rem;">
-                        <div style="width: 40px; height: 40px; background: rgba(5, 150, 105, 0.1); color: var(--primary); display: flex; align-items: center; justify-content: center; border-radius: 50%;">
-                            <i class="fa-solid fa-envelope"></i>
-                        </div>
-                        <a href="mailto:support@mcqsmaster.com" style="color: var(--text-main); text-decoration: none;">support@mcqsmaster.com</a>
+            <div class="info-content card" style="background: var(--card-bg); padding: 2.5rem; border-radius: 16px; margin-top: 1rem; border: 1px solid var(--border-color); box-shadow: var(--shadow); max-width: 600px; margin-left: auto; margin-right: auto;">
+                <p style="margin-bottom: 2rem; color: var(--text-muted); text-align: center;">Have a question, feedback, or found an error? Send us a message and our team will get back to you soon.</p>
+                
+                <form id="contact-form">
+                    <div class="review-form-group">
+                        <label for="contact-name"><i class="fa-solid fa-user"></i> Full Name <span style="color:red">*</span></label>
+                        <input type="text" id="contact-name" class="form-control" placeholder="e.g. Ali Khan" required>
                     </div>
+
+                    <div class="review-form-group">
+                        <label for="contact-email"><i class="fa-solid fa-envelope"></i> Email Address <span style="color:red">*</span></label>
+                        <input type="email" id="contact-email" class="form-control" placeholder="yourname@example.com" required>
+                    </div>
+
+                    <div class="review-form-group">
+                        <label for="contact-subject"><i class="fa-solid fa-tag"></i> Subject / Reason</label>
+                        <input type="text" id="contact-subject" class="form-control" placeholder="e.g. Question Correction, Feedback">
+                    </div>
+
+                    <div class="review-form-group">
+                        <label for="contact-message"><i class="fa-solid fa-comment-dots"></i> Your Message <span style="color:red">*</span></label>
+                        <textarea id="contact-message" class="form-control" rows="5" placeholder="Tell us more about your query..." required style="resize: vertical;"></textarea>
+                    </div>
+
+                    <button type="submit" id="contact-submit-btn" class="primary-btn full-width" style="justify-content: center; margin-top: 1rem; background: var(--primary);">
+                        <span id="contact-btn-text">Send Message</span> <i id="contact-btn-icon" class="fa-solid fa-paper-plane"></i>
+                    </button>
+                </form>
+
+                <div style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid var(--border-color); text-align: center;">
+                    <p style="font-size: 0.9rem; color: var(--text-muted);">Alternatively, you can still reach us at:</p>
+                    <a href="mailto:support@mcqsmaster.com" style="color: var(--primary); text-decoration: none; font-weight: 500;">support@mcqsmaster.com</a>
                 </div>
             </div>
         </section>
