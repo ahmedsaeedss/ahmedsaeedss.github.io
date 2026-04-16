@@ -141,9 +141,6 @@
 
         <!-- Screen 1: Category/Subject Selection -->
         <section id="category-screen" class="screen active">
-            <button class="back-btn hidden" id="back-to-prev-category" aria-label="Go back">
-                <i class="fa-solid fa-arrow-left"></i> Back
-            </button>
             
             <!-- Job Alerts Section -->
             <div id="job-alerts-section" class="jobs-alerts-container hidden" style="margin-bottom: 2rem;">
@@ -184,8 +181,8 @@
         <!-- Screen 3: Quiz Application -->
         <section id="quiz-screen" class="screen">
             <div class="quiz-header">
-                <button id="back-to-categories" class="back-btn" title="Back" style="margin-bottom: 0;">
-                    <i class="fa-solid fa-arrow-left"></i> Back
+                <button id="back-to-categories" class="icon-btn" title="Back">
+                    <i class="fa-solid fa-arrow-left"></i>
                 </button>
                 <div class="header-info">
                     <h2 id="current-category-title">Topic Name</h2>
@@ -371,12 +368,22 @@
     </main>
 
     <footer class="app-footer">
-        <p>Comprehensive Preparation for PPSC, SPSC, FPSC, and CSS aspirants.</p>
-        <p class="dev-credit">Developed by: Ahmed Saeed Subject Specialist</p>
-        <div class="footer-links" style="margin-top: 1rem; display: flex; justify-content: center; gap: 1.5rem; font-size: 0.9rem;">
-            <a href="?p=about" class="footer-link" style="color: var(--text-muted); text-decoration: none;">About Us</a>
-            <a href="?p=contact" class="footer-link" style="color: var(--text-muted); text-decoration: none;">Contact Us</a>
-            <a href="?p=privacy" class="footer-link" style="color: var(--text-muted); text-decoration: none;">Privacy Policy</a>
+        <div class="footer-container">
+            <!-- Stats on the Left -->
+            <div id="public-stats-container" class="footer-stats-grid">
+                <!-- Stats injected by JS -->
+            </div>
+
+            <!-- Content on the Right -->
+            <div class="footer-main-content">
+                <p>Comprehensive Preparation for PPSC, SPSC, FPSC, and CSS aspirants.</p>
+                <p class="dev-credit">Developed by: Ahmed Saeed Subject Specialist</p>
+                <div class="footer-links">
+                    <a href="?p=about" class="footer-link">About Us</a>
+                    <a href="?p=contact" class="footer-link">Contact Us</a>
+                    <a href="?p=privacy" class="footer-link">Privacy Policy</a>
+                </div>
+            </div>
         </div>
     </footer>
 
@@ -996,8 +1003,6 @@
 
 
     <script src="data.js"></script>
-
-
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 

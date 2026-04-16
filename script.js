@@ -817,24 +817,26 @@ document.addEventListener('DOMContentLoaded', () => {
             const pendingMcqs = JSON.parse(localStorage.getItem('user_submitted_mcqs') || '[]');
             if (pendingCountEl) pendingCountEl.textContent = pendingMcqs.length;
 
+            // Helper function to count questions recursively
+            function countAllQuestions(node) {
+                let count = 0;
+                if (node.questions) count += node.questions.length;
+                if (node.subcategories) {
+                    node.subcategories.forEach(sub => {
+                        count += countAllQuestions(sub);
+                    });
+                }
+                return count;
+            }
+
             // Get Total MCQs across all categories
             let totalQ = 0;
-            if (mainQuizData && mainQuizData.length > 0) {
-                mainQuizData.forEach(main => {
-                    if (main.subcategories) {
-                        main.subcategories.forEach(sub => {
-                            if (sub.isFolder && sub.subcategories) {
-                                sub.subcategories.forEach(nested => {
-                                    if (nested.questions) totalQ += nested.questions.length;
-                                });
-                            } else if (sub.questions) {
-                                totalQ += sub.questions.length;
-                            }
-                        });
-                    }
+            if (mainQuizData) {
+                mainQuizData.forEach(cat => {
+                    totalQ += countAllQuestions(cat);
                 });
             }
-            if (totalMcqsEl) totalMcqsEl.textContent = totalQ;
+            if (totalMcqsEl) totalMcqsEl.textContent = totalQ.toLocaleString();
 
             // Get Mock Total Users (Or fetch from firebase if configured)
             // Let's mock a simple local active user count if real DB isn't fully returning users yet
@@ -1735,7 +1737,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (window.Capacitor && typeof TextToSpeech !== 'undefined') {
             try {
                 TextToSpeech.speak({
-                    text: " ",
+                    text: "Active",
                     lang: 'en-US',
                     rate: 1.0,
                     pitch: 1.0,
@@ -2828,6 +2830,17 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    function countCatQuestions(cat) {
+        let count = 0;
+        if (cat.questions) count += cat.questions.length;
+        if (cat.subcategories) {
+            cat.subcategories.forEach(sub => {
+                count += countCatQuestions(sub);
+            });
+        }
+        return count;
+    }
+
     function renderCategories() {
         let html = '';
         mainQuizData.forEach((mainCat, index) => {
@@ -2837,7 +2850,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         <i class="fa-solid ${mainCat.icon || 'fa-book-open'}"></i>
                     </div>
                     <h3>${mainCat.name}</h3>
-                    <p>${mainCat.subcategories.length} Topics</p>
+                    <p>${mainCat.subcategories.length} Topics | ${countCatQuestions(mainCat).toLocaleString()} MCQs</p>
                 </div>
             `;
         });
@@ -3025,6 +3038,9 @@ document.addEventListener('DOMContentLoaded', () => {
         const question = currentSetQuestions[currentQuestionIndex];
         if (!question) return;
 
+        // Immediate UI feedback for better UX
+        updateReadAloudBtnUI(true);
+
         // Toggle logic for Native TTS 🛠️✨🏁🛠️🚀
         if (window.Capacitor && TextToSpeech) {
             if (isNativeSpeaking) {
@@ -3044,7 +3060,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
             try {
                 isNativeSpeaking = true;
-                updateReadAloudBtnUI(true);
                 await TextToSpeech.speak({
                     text: textToRead,
                     lang: 'en-US',
@@ -3083,7 +3098,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     voices.find(v => v.lang.startsWith('en'));
         if (voice) utterance.voice = voice;
         utterance.rate = 0.9;
-        utterance.onstart = () => updateReadAloudBtnUI(true);
+        updateReadAloudBtnUI(true);
         utterance.onend = () => updateReadAloudBtnUI(false);
         window.speechSynthesis.speak(utterance);
     }
@@ -3871,3 +3886,53 @@ function preCleanAllData(data) {
     const end = performance.now();
     console.log(`Performance: Engine completed in ${(end - start).toFixed(2)}ms.`);
 }
+
+function renderPublicStats() {
+    const container = document.getElementById('public-stats-container');
+    if (!container) return;
+
+    let totalSubjects = mainQuizData.length;
+    let totalTopics = 0;
+    let totalMCQs = 0;
+
+    // Correct counting logic to match home page subject cards
+    mainQuizData.forEach(cat => {
+        // Count immediate topics (categories) shown on home page
+        totalTopics += cat.subcategories.length;
+
+        // Recursive function for MCQs to catch every question
+        function countMCQs(node) {
+            if (node.questions) totalMCQs += node.questions.length;
+            if (node.subcategories) {
+                node.subcategories.forEach(sub => countMCQs(sub));
+            }
+        }
+        countMCQs(cat);
+    });
+
+    container.innerHTML = `
+        <div class="public-stat-card">
+            <i class="fa-solid fa-book" style="color: var(--primary);"></i>
+            <div class="public-stat-value">${totalSubjects}</div>
+            <div class="public-stat-label">Total Subjects</div>
+        </div>
+        <div class="public-stat-card">
+            <i class="fa-solid fa-layer-group" style="color: var(--accent);"></i>
+            <div class="public-stat-value">${totalTopics.toLocaleString()}</div>
+            <div class="public-stat-label">Total Topics</div>
+        </div>
+        <div class="public-stat-card">
+            <i class="fa-solid fa-circle-check" style="color: var(--success);"></i>
+            <div class="public-stat-value">${totalMCQs.toLocaleString()}</div>
+            <div class="public-stat-label">Total MCQs</div>
+        </div>
+    `;
+}
+
+// Call to initialize display
+document.addEventListener('DOMContentLoaded', () => {
+    // Initial load
+    if (typeof mainQuizData !== 'undefined') {
+        renderPublicStats();
+    }
+});
