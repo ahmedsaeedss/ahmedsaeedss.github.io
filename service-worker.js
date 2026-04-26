@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mcqs-master-v1.5';
+const CACHE_NAME = 'mcqs-master-v1.3';
 const ASSETS_TO_CACHE = [
   './',
   'index.html',
