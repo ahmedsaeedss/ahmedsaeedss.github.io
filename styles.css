@@ -2069,3 +2069,15 @@ input[type="file"].form-control::file-selector-button:hover {
         font-size: 0.75rem !important;
     }
 }
+
+/* Responsive Logo Text Size */
+#logo-text {
+    font-size: 1.5rem;
+    transition: font-size 0.3s ease;
+}
+
+@media (min-width: 768px) {
+    #logo-text {
+        font-size: 2.3rem; /* Larger on desktop */
+    }
+}

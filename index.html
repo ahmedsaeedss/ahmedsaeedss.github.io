@@ -20,21 +20,22 @@
         }(window.location))
     </script>
     <!-- Primary Meta Tags -->
-    <title id="seo-title">MCQs Master | Competitive Exam Preparation</title>
-    <meta name="title" id="seo-meta-title" content="MCQs Master | Competitive Exam Preparation">
+    <title id="seo-title">McqMatrix | Competitive Exam Preparation</title>
+    <meta name="title" id="seo-meta-title" content="McqMatrix | Competitive Exam Preparation">
     <meta name="description" id="seo-description"
-        content="Comprehensive Preparation for PPSC, SPSC, FPSC, IBA, NTS & CSS. Master top-quality MCQs across multiple subjects online for free.">
+        content="Comprehensive Preparation for PPSC, SPSC, FPSC, IBA, NTS & CSS. Master top-quality MCQs across multiple subjects online for free on McqMatrix.">
+
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
     <meta property="og:url" id="og-url" content="https://ahmedsaeedss.github.io/">
-    <meta property="og:title" id="og-title" content="MCQs Master | Competitive Exam Preparation">
+    <meta property="og:title" id="og-title" content="McqMatrix | Competitive Exam Preparation">
     <meta property="og:description" id="og-description"
         content="Comprehensive Preparation for PPSC, SPSC, FPSC, IBA, NTS & CSS. Master top-quality MCQs across multiple subjects online for free.">
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
     <meta property="twitter:url" id="twitter-url" content="https://ahmedsaeedss.github.io/">
-    <meta property="twitter:title" id="twitter-title" content="MCQs Master | Competitive Exam Preparation">
+    <meta property="twitter:title" id="twitter-title" content="McqMatrix | Competitive Exam Preparation">
     <meta property="twitter:description" id="twitter-description"
         content="Comprehensive Preparation for PPSC, SPSC, FPSC, IBA, NTS & CSS. Master top-quality MCQs across multiple subjects online for free.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -105,10 +106,13 @@
                 <span class="btn-label">Install</span>
             </button>
         </div>
-        <div class="logo" id="home-logo" style="cursor: pointer;">
-            <i class="fa-solid fa-graduation-cap"></i>
-            <h1><span>MCQs</span> Master</h1>
+        <div class="logo" id="home-logo" style="cursor: pointer; display: flex; align-items: center; gap: 8px;">
+            <img src="logo/mcqmatrix_logo.png" alt="McqMatrix Logo" style="height: 45px; width: 45px; border-radius: 50%; object-fit: cover; border: 2px solid var(--accent);">
+            <h1 id="logo-text" style="margin: 0;"><span>Mcq</span>Matrix</h1>
         </div>
+
+
+
         <p class="subtitle">Comprehensive Preparation for PPSC, SPSC, FPSC, IBA, NTS & CSS</p>
 
         <nav class="main-nav">
@@ -142,6 +146,17 @@
         <!-- Screen 1: Category/Subject Selection -->
         <section id="category-screen" class="screen active">
             
+            <div class="category-header-row" style="position: relative; display: flex; align-items: center; justify-content: center; margin-bottom: 2rem; min-height: 50px; width: 100%;">
+                <button class="back-btn hidden" id="back-to-prev-category" aria-label="Go back" style="position: absolute; left: 0; top: 50%; transform: translateY(-50%); margin-bottom: 0; padding: 0.5rem 1rem; white-space: nowrap; z-index: 10;">
+                    <i class="fa-solid fa-arrow-left"></i> Back
+                </button>
+                <div class="screen-header" style="text-align: center; margin-bottom: 0; width: 100%;">
+                    <h2 id="main-section-title" style="margin: 0; font-size: 1.6rem; font-weight: 800;">Select a Subject</h2>
+                </div>
+            </div>
+
+
+
             <!-- Job Alerts Section -->
             <div id="job-alerts-section" class="jobs-alerts-container hidden" style="margin-bottom: 2rem;">
                 <div class="jobs-header" style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 1rem;">
@@ -151,11 +166,6 @@
                 <div id="jobs-list" class="jobs-list" style="display: flex; flex-direction: column; gap: 0.8rem;">
                     <!-- Jobs will be injected here -->
                 </div>
-            </div>
-
-            <div class="screen-header">
-                <h2 id="main-section-title">Select a Subject</h2>
-                <p>Choose a category to start practicing.</p>
             </div>
 
             <div id="categories-grid" class="categories-grid">
@@ -180,13 +190,13 @@
 
         <!-- Screen 3: Quiz Application -->
         <section id="quiz-screen" class="screen">
-            <div class="quiz-header">
-                <button id="back-to-categories" class="icon-btn" title="Back">
-                    <i class="fa-solid fa-arrow-left"></i>
+            <div class="quiz-header" style="position: relative; display: flex; align-items: flex-start; justify-content: center; margin-bottom: 2rem; min-height: 60px; width: 100%;">
+                <button id="back-to-categories" class="back-btn" title="Back" style="position: absolute; left: 0; top: 0; margin-bottom: 0; padding: 0.5rem 1rem; z-index: 10;">
+                    <i class="fa-solid fa-arrow-left"></i> Back
                 </button>
-                <div class="header-info">
-                    <h2 id="current-category-title">Topic Name</h2>
-                    <div class="progress-info">
+                <div class="header-info" style="text-align: center; width: 100%; display: flex; flex-direction: column; align-items: center;">
+                    <h2 id="current-category-title" style="margin: 0 0 0.5rem 0; font-size: 1.5rem; font-weight: 800;">Topic Name</h2>
+                    <div class="progress-info" style="width: 100%; max-width: 300px;">
                         <span id="question-progress-text">1 / 10</span>
                         <div class="progress-bar">
                             <div class="progress-fill" id="progress-fill"></div>
@@ -194,6 +204,7 @@
                     </div>
                 </div>
             </div>
+
 
             <div class="timer-container" id="timer-container">
                 <div class="timer-bar" id="timer-bar"></div>
@@ -290,13 +301,14 @@
             </button>
             <div class="screen-header">
                 <h2>About Us</h2>
-                <p>Welcome to MCQs Master</p>
+                <p>Welcome to McqMatrix</p>
             </div>
             <div class="info-content card" style="background: var(--card-bg); padding: 2rem; border-radius: 12px; margin-top: 1rem; border: 1px solid var(--border-color); box-shadow: var(--shadow);">
-                <p><strong>MCQs Master</strong> is a leading online platform dedicated to providing high-quality, comprehensive Multiple Choice Questions (MCQs) for competitive exam preparation.</p>
+                <p><strong>McqMatrix</strong> is a leading online platform dedicated to providing high-quality, comprehensive Multiple Choice Questions (MCQs) for competitive exam preparation.</p>
                 <p>Our mission is to empower students and professionals aiming for PPSC, SPSC, FPSC, IBA, NTS, and CSS exams with the best free resources available on the internet.</p>
                 <p>Curated by <strong>Ahmed Saeed (Subject Specialist)</strong>, all data is meticulously checked for accuracy to ensure you get the reliable study material you deserve.</p>
             </div>
+
         </section>
 
         <!-- Screen: Contact Us -->
@@ -355,7 +367,8 @@
             </div>
             <div class="info-content card" style="background: var(--card-bg); padding: 2rem; border-radius: 12px; margin-top: 1rem; border: 1px solid var(--border-color); box-shadow: var(--shadow); font-size: 0.95rem; line-height: 1.6;">
                 <h3>1. Information Collection</h3>
-                <p>MCQs Master does not generally collect personally identifiable information unless you explicitly provide it (e.g., creating an admin account). We may use local storage to save your quiz progress and settings locally on your device.</p>
+                <p>McqMatrix does not generally collect personally identifiable information unless you explicitly provide it (e.g., creating an admin account). We may use local storage to save your quiz progress and settings locally on your device.</p>
+
                 
                 <h3 style="margin-top: 1.5rem;">2. Cookies & Advertising</h3>
                 <p>We use third-party advertising companies, such as Google AdSense, to serve ads when you visit our Website. These companies may use cookies to serve ads based on your prior visits to our website or other websites.</p>
@@ -398,9 +411,10 @@
     <div id="dashboard-modal" class="modal-overlay hidden">
         <div class="modal-content dashboard-modal">
             <div class="modal-header modal-header-premium">
-                <h2><i class="fa-solid fa-id-card"></i> Your Progress</h2>
+                <h2><i class="fa-solid fa-id-card"></i> McqMatrix Progress</h2>
                 <button id="close-dashboard" class="icon-btn" aria-label="Close Dashboard"><i class="fa-solid fa-xmark"></i></button>
             </div>
+
             <div class="dashboard-body">
                 <div class="dashboard-left">
                     <div class="stats-grid-horizontal-premium">
@@ -691,9 +705,10 @@
                             A
                         </div>
                         <div style="line-height: 1.2;">
-                            <div style="font-weight: 800; font-size: 0.95rem; color: #ff0000; text-shadow: 0 0 4px rgba(255,0,0,0.1);">ADMIN PANEL</div>
-                            <div style="font-size: 0.8rem; color: var(--text-muted);">MCQ Platform</div>
+                            <div style="font-weight: 800; font-size: 0.95rem; color: #ff0000; text-shadow: 0 0 4px rgba(255,0,0,0.1);">McqMatrix ADMIN</div>
+                            <div style="font-size: 0.8rem; color: var(--text-muted);">Admin Control Panel</div>
                         </div>
+
                     </div>
 
                     <ul class="admin-nav-list" style="list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 0.8rem; align-items: flex-start;">

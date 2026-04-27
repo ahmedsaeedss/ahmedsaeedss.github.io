@@ -63,6 +63,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const homeLogo = document.getElementById('home-logo');
     const backToHomeFromSetsBtn = document.getElementById('back-to-home-from-sets');
     const backToPrevCategoryBtn = document.getElementById('back-to-prev-category');
+    console.log('Back button element found:', backToPrevCategoryBtn);
+
     const introScreen = document.getElementById('intro-screen');
     const startQuizBtn = document.getElementById('start-quiz-btn');
 
@@ -114,9 +116,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- Dynamic SEO & URL Handling ---
     function updateMetaTags(title, parentCategory, isQuizView) {
-        const baseTitle = "MCQs Master | Competitive Exam Preparation";
+        const baseTitle = "McqMatrix | Competitive Exam Preparation";
         const newTitle = `${title} MCQs | ${baseTitle}`;
-        const newDesc = `Prepare for ${title} under ${parentCategory}. Master top-quality MCQs online for free on MCQs Master.`;
+        const newDesc = `Prepare for ${title} under ${parentCategory}. Master top-quality MCQs online for free on McqMatrix.`;
+
         const newUrl = window.location.href;
 
         // Update Document Title
@@ -623,7 +626,8 @@ document.addEventListener('DOMContentLoaded', () => {
                         localStorage.setItem('userRole', 'admin');
                         updateAuthUI();
                         
-                        alert("✅ Welcome back, MCQs Master Admin!");
+                        alert("✅ Welcome back, McqMatrix Admin!");
+
                         loginModal.classList.add('hidden');
                         
                         if (loginEmailInput) loginEmailInput.value = '';
@@ -1381,7 +1385,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     doc.setTextColor(200, 200, 200); // Light Gray
                     doc.setFontSize(50);
                     // Save current angle and translate to center
-                    doc.text("MCQs Master", pageWidth / 2, pageHeight / 2, { angle: 45, align: "center", opacity: 0.3 });
+                    doc.text("McqMatrix", pageWidth / 2, pageHeight / 2, { angle: 45, align: "center", opacity: 0.3 });
+
                     
                     // Reset font settings so subsequent text isn't drawn massive and gray
                     doc.setTextColor(0, 0, 0);
@@ -1394,9 +1399,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 doc.setFontSize(22);
                 doc.setTextColor(0, 0, 0); // Black
                 
-                let titleText = "MCQs Master - Complete Database";
+                let titleText = "McqMatrix - Complete Database";
                 if (selectedCategory !== 'all') {
-                    titleText = `MCQs Master - Category: ${selectedCategory}`;
+                    titleText = `McqMatrix - Category: ${selectedCategory}`;
                 }
                 doc.text(titleText, pageWidth / 2, yPos, { align: "center" });
                 
@@ -1994,7 +1999,8 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function handleInfoRoute(page) {
-        updateMetaTags(page.charAt(0).toUpperCase() + page.slice(1) + " Us", "Learn more about MCQs Master", false);
+        updateMetaTags(page.charAt(0).toUpperCase() + page.slice(1) + " Us", "Learn more about McqMatrix", false);
+
         switchScreen(`${page}-screen`, true, {}, true);
     }
 
