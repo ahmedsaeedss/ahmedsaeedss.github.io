@@ -174,6 +174,19 @@ async function handleAdminCreateUser(e) {
     }
 }
 
+async function handleAdminDeleteUser(e) {
+    if (!db) return;
+    const userId = e.detail.userId;
+    try {
+        await db.collection('users').doc(userId).delete();
+        alert("✅ User deleted successfully.");
+        window.dispatchEvent(new Event('adminUserListChanged'));
+    } catch (error) {
+        console.error("Error deleting user:", error);
+        alert("❌ Failed to delete user.");
+    }
+}
+
 function handleAuthSubmit(e) {
     if (!auth) {
         console.warn("Firebase Auth not initialized. Using local fallback.");
@@ -699,19 +712,56 @@ window.addEventListener('adminUpdateUser', (e) => {
     });
 });
 
-// Admin: Delete User account from Firestore
-window.addEventListener('adminDeleteUser', (e) => {
+// Admin: Delete User account from Auth AND Firestore
+window.addEventListener('adminDeleteUser', async (e) => {
     const { uid, onSuccess, onError } = e.detail;
-    if (!db || !uid) return;
+    if (!auth || !db || !uid) return;
     
-    db.collection('users').doc(uid).delete()
-    .then(() => {
+    try {
+        // Step 1: Fetch user's credentials from Firestore to perform Auth deletion
+        const userDoc = await db.collection('users').doc(uid).get();
+        if (!userDoc.exists) {
+            throw new Error("User record not found in database.");
+        }
+        
+        const userData = userDoc.data();
+        const email = userData.email;
+        const password = userData.password;
+
+        if (email && password) {
+            console.log("Attempting background Auth deletion for:", email);
+            
+            // Step 2: Initialize secondary app to sign-in and delete the user
+            const secondaryAppName = "DeleteUserApp_" + Date.now();
+            const secondaryApp = firebase.initializeApp(firebaseConfig, secondaryAppName);
+            const secondaryAuth = secondaryApp.auth();
+
+            try {
+                // Step 3: Sign in as the target user
+                const userCredential = await secondaryAuth.signInWithEmailAndPassword(email, password);
+                
+                // Step 4: Delete the Auth account
+                await userCredential.user.delete();
+                console.log("Auth account deleted for:", email);
+                
+                // Clean up secondary app
+                await secondaryApp.delete();
+            } catch (authError) {
+                console.warn("Auth deletion failed or user already gone. Proceeding with Firestore cleanup.", authError);
+                // If the app was initialized, delete it
+                if (secondaryApp) await secondaryApp.delete();
+            }
+        }
+
+        // Step 5: Delete from Firestore (always do this as fallback)
+        await db.collection('users').doc(uid).delete();
+        
         if (onSuccess) onSuccess();
-    })
-    .catch(error => {
-        console.error("Error deleting user:", error);
+        
+    } catch (error) {
+        console.error("Critical error during user purge:", error);
         if (onError) onError(error.message);
-    });
+    }
 });
 
 // Auth Override: Check Firestore for Managed Credentials
@@ -898,3 +948,22 @@ initFirebase = function() {
 
 // Initialize on load
 document.addEventListener('DOMContentLoaded', initFirebase);
+
+// Contact Form submission to Firestore
+window.addEventListener('submitContactMessage', async (e) => {
+    const { messageData, onSuccess, onError } = e.detail;
+    if (!db) {
+        if (onError) onError("Database not initialized.");
+        return;
+    }
+    try {
+        messageData.createdAt = firebase.firestore.FieldValue.serverTimestamp();
+        messageData.status = 'unread'; // Default status
+        
+        await db.collection('contact_messages').add(messageData);
+        if (onSuccess) onSuccess();
+    } catch (error) {
+        console.error("Error saving contact message:", error);
+        if (onError) onError(error.message);
+    }
+});

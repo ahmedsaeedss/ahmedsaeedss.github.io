@@ -619,7 +619,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     selectedRole = 'user'; // Ensure signup is always standard user
                 } else {
                     // --- ADMIN CREDENTIAL OVERRIDE (Bypass Firebase) ---
-                    if (email === 'idealpskmcqs@admin.com' && password === 'Idealpskmcqs@4365') {
+                    if (email === 'admin@mcqmatrix.com' && password === 'McqMatrix@2024') {
                         isLoggedIn = true;
                         userRole = 'admin';
                         localStorage.setItem('isLoggedIn', true);
@@ -1351,7 +1351,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(mainQuizData, null, 2));
                 const anchor = document.createElement('a');
                 anchor.setAttribute("href", dataStr);
-                anchor.setAttribute("download", "mcqs_database_backup.json");
+                anchor.setAttribute("download", "mcqmatrix_database_backup.json");
                 document.body.appendChild(anchor);
                 anchor.click();
                 anchor.remove();
@@ -1509,7 +1509,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
 
                 // Download
-                const fileName = selectedCategory === 'all' ? "MCQs_Master_Book.pdf" : `MCQs_Master_${selectedCategory.replace(/\\s+/g, '_')}.pdf`;
+                const fileName = selectedCategory === 'all' ? "McqMatrix_Book.pdf" : `McqMatrix_${selectedCategory.replace(/\\s+/g, '_')}.pdf`;
                 doc.save(fileName);
                 showToast("PDF Generated Successfully!");
                 

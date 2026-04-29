@@ -1,4 +1,4 @@
-const CACHE_NAME = 'mcqs-master-v1.3';
+const CACHE_NAME = 'mcqmatrix-v1.6';
 const ASSETS_TO_CACHE = [
   './',
   'index.html',
@@ -6,8 +6,9 @@ const ASSETS_TO_CACHE = [
   'script.js',
   'data.js',
   'manifest.json',
-  'icon-192x192.png',
-  'icon-512x512.png'
+  'logo/icon-192x192.png',
+  'logo/icon-512x512.png',
+  'logo/mcqmatrix_logo.png'
 ];
 
 

@@ -1,5 +1,5 @@
 /* ============================================================
-   MCQs MASTER PREMIUM STYLESHEET (V.4.0)
+   McqMatrix PREMIUM STYLESHEET (V.4.0)
    Designed for Mobile App & Web Accessibility
    Color Palette: Emerald Green & Gold Accents
    Features: Glassmorphism, Responsive Grid, Dark Mode Ready
@@ -242,23 +242,31 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
     margin-bottom: 0.2rem;
     color: white;
     text-decoration: none;
+    transition: transform 0.3s ease;
 }
 
-.logo i {
-    font-size: 2.5rem; /* Large logo for desktop */
-    color: white;
-    filter: drop-shadow(0 0 10px rgba(255,255,255,0.2));
+.logo:hover {
+    transform: scale(1.02);
+}
+
+.logo img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    object-fit: cover;
 }
 
 .logo h1 {
-    font-size: 2.6rem; /* Large text for desktop */
-    font-weight: 700;
+    font-size: 2.2rem;
+    font-weight: 800;
     letter-spacing: -1px;
     color: white;
+    margin: 0;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
 .logo h1 span {
-    color: #fbbf24;
+    color: #34d399; /* Emerald Light instead of Gold for consistency */
 }
 
 .subtitle {
@@ -474,7 +482,7 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
 
     /* Add a brand logo to the top of side menu if desired via JS or CSS psuedo */
     .main-nav::before {
-        content: 'MCQs Master';
+        content: 'McqMatrix';
         display: block;
         font-size: 1.5rem;
         font-weight: 800;
