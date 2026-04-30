@@ -51,6 +51,7 @@ document.addEventListener('DOMContentLoaded', () => {
         set: document.getElementById('set-screen'),
         quiz: document.getElementById('quiz-screen'),
         result: document.getElementById('result-screen'),
+        search: document.getElementById('search-results-screen'),
         'about-screen': document.getElementById('about-screen'),
         'contact-screen': document.getElementById('contact-screen'),
         'privacy-screen': document.getElementById('privacy-screen')
@@ -212,6 +213,116 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    // Initialize Global Search
+    function bindSearchEvents() {
+        const searchInput = document.getElementById('global-search-input');
+        const clearSearchBtn = document.getElementById('clear-search-btn');
+        const backFromSearchBtn = document.getElementById('back-from-search');
+        const searchScreen = document.getElementById('search-results-screen');
+        const resultsGrid = document.getElementById('search-results-grid');
+        const searchQueryDisplay = document.getElementById('search-query-display');
+
+        if (!searchInput) return;
+
+        searchInput.addEventListener('input', debounce((e) => {
+            const query = e.target.value.trim().toLowerCase();
+            if (query.length > 2) {
+                performGlobalSearch(query);
+                clearSearchBtn.classList.remove('hidden');
+            } else {
+                if (query.length === 0) {
+                    clearSearchBtn.classList.add('hidden');
+                    switchScreen('categories');
+                }
+            }
+        }, 400));
+
+        if (clearSearchBtn) {
+            clearSearchBtn.addEventListener('click', () => {
+                searchInput.value = '';
+                clearSearchBtn.classList.add('hidden');
+                switchScreen('categories');
+            });
+        }
+
+        if (backFromSearchBtn) {
+            backFromSearchBtn.addEventListener('click', () => {
+                searchInput.value = '';
+                clearSearchBtn.classList.add('hidden');
+                switchScreen('categories');
+            });
+        }
+
+        function performGlobalSearch(query) {
+            if (typeof mainQuizData === 'undefined' || !mainQuizData) {
+                renderSearchResults([], "Loading database... please wait.");
+                return;
+            }
+            const results = [];
+            
+            mainQuizData.forEach(main => {
+                main.subcategories.forEach(sub => {
+                    const subNameMatch = sub.category.toLowerCase().includes(query);
+                    const matchedQuestions = sub.questions.filter(q => 
+                        q.q.toLowerCase().includes(query) || 
+                        (q.x && q.x.toLowerCase().includes(query))
+                    );
+
+                    if (subNameMatch || matchedQuestions.length > 0) {
+                        results.push({
+                            mainCategory: main.name,
+                            subCategory: sub.category,
+                            matchCount: matchedQuestions.length,
+                            data: sub
+                        });
+                    }
+                });
+            });
+
+            renderSearchResults(results, query);
+        }
+
+        function renderSearchResults(results, query) {
+            searchQueryDisplay.textContent = `Results for "${query}" (${results.length})`;
+            resultsGrid.innerHTML = '';
+            switchScreen('search');
+            document.getElementById('search-section').classList.remove('hidden');
+
+            if (results.length === 0) {
+                resultsGrid.innerHTML = `<div style="grid-column:1/-1; text-align:center; padding:2rem; color:var(--text-muted);">No matches found for "${query}"</div>`;
+                return;
+            }
+
+            results.slice(0, 50).forEach(res => {
+                const card = document.createElement('div');
+                card.className = 'search-result-card';
+                card.innerHTML = `
+                    <span class="category-tag">${res.mainCategory}</span>
+                    <h3>${res.subCategory}</h3>
+                    <p>${res.matchCount > 0 ? `Found ${res.matchCount} matching questions` : 'Matches subject name'}</p>
+                    <div style="font-size: 0.8rem; color: var(--primary); margin-top: 0.8rem; font-weight: 600;">
+                        <i class="fa-solid fa-play"></i> Start Quiz
+                    </div>
+                `;
+                card.onclick = () => {
+                    currentMainCategory = res.mainCategory;
+                    currentSubcategoryData = res.data;
+                    startQuiz();
+                };
+                resultsGrid.appendChild(card);
+            });
+        }
+    }
+
+    // Debounce helper
+    function debounce(func, wait) {
+        let timeout;
+        return function(...args) {
+            clearTimeout(timeout);
+            timeout = setTimeout(() => func.apply(this, args), wait);
+        };
+    }
+
     // Initialize Application
     function init() {
         if (isDarkMode) {
@@ -227,6 +338,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         renderCategories();
         bindEvents();
+        bindSearchEvents();
     }
 
     function updateAuthUI() {
@@ -2757,6 +2869,16 @@ document.addEventListener('DOMContentLoaded', () => {
         stopSpeech(); // Stop audio when leaving screen
         Object.values(screens).forEach(screen => screen.classList.remove('active'));
         if (screens[screenName]) screens[screenName].classList.add('active');
+        
+        // Handle Global Search visibility
+        const searchSection = document.getElementById('search-section');
+        if (searchSection) {
+            if (['categories', 'search'].includes(screenName)) {
+                searchSection.classList.remove('hidden');
+            } else {
+                searchSection.classList.add('hidden');
+            }
+        }
         
         if (!skipScroll) {
             window.scrollTo(0, 0);

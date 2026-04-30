@@ -142,6 +142,25 @@
     </header>
 
     <main class="app-container">
+        <!-- Global Search Bar Section -->
+        <div class="search-section" id="search-section">
+            <div class="search-box">
+                <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                <input type="text" id="global-search-input" placeholder="Search MCQs (Subjects, Topics...)" autocomplete="off">
+                <button id="clear-search-btn" class="clear-btn hidden"><i class="fa-solid fa-xmark"></i></button>
+            </div>
+        </div>
+
+        <!-- Search Results View -->
+        <div id="search-results-screen" class="screen hidden">
+            <div class="screen-header">
+                <button class="back-btn" id="back-from-search" style="margin-right: 1rem;"><i class="fa-solid fa-arrow-left"></i></button>
+                <h2 id="search-query-display" style="font-size: 1.4rem;">Search Results</h2>
+            </div>
+            <div id="search-results-grid" class="results-grid" style="margin-top: 1.5rem;">
+                <!-- Results will be injected here -->
+            </div>
+        </div>
 
         <!-- Screen 1: Category/Subject Selection -->
         <section id="category-screen" class="screen active">
