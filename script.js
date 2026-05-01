@@ -887,7 +887,7 @@ async function ensureSubjectLoaded(slug) {
             // Get Total MCQs across all categories
             let totalQ = 0;
             if (window.subjectsIndex) {
-                mainQuizData.forEach(cat => {
+                window.subjectsIndex.forEach(cat => {
                     totalQ += countAllQuestions(cat);
                 });
             }
@@ -1376,7 +1376,7 @@ async function ensureSubjectLoaded(slug) {
         if (exportDataJsBtn) {
             exportDataJsBtn.addEventListener('click', () => {
                 // Generate a valid JavaScript file content that defines the const mainQuizData array
-                const jsContent = `const mainQuizData = ${JSON.stringify(mainQuizData, null, 4)};\n`;
+                const jsContent = `const mainQuizData = ${JSON.stringify(window.subjectsIndex, null, 4)};\n`;
                 
                 // Create a Blob from the content
                 const blob = new Blob([jsContent], { type: "text/javascript;charset=utf-8" });
@@ -1399,7 +1399,7 @@ async function ensureSubjectLoaded(slug) {
 
         if (exportJsonBtn) {
             exportJsonBtn.addEventListener('click', () => {
-                const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(mainQuizData, null, 2));
+                const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(window.subjectsIndex, null, 2));
                 const anchor = document.createElement('a');
                 anchor.setAttribute("href", dataStr);
                 anchor.setAttribute("download", "mcqmatrix_database_backup.json");
@@ -1480,7 +1480,7 @@ async function ensureSubjectLoaded(slug) {
                 let hasDataToPrint = false;
                 
                 // Iterate through the database
-                mainQuizData.forEach((mainCat) => {
+                window.subjectsIndex.forEach((mainCat) => {
                     let mainHeaderPrinted = false;
                     
                     if (mainCat.subcategories) {
@@ -2098,7 +2098,7 @@ async function ensureSubjectLoaded(slug) {
             const topicSlug = topicParts[0];
             const folderSlug = topicParts[1];
             
-            const mainCat = mainQuizData.find(c => (c.name || "").toLowerCase().replace(/ /g, '-') === topicSlug);
+            const mainCat = window.subjectsIndex.find(c => (c.name || "").toLowerCase().replace(/ /g, '-') === topicSlug);
 
             if (mainCat) {
                 if (folderSlug) {
@@ -2123,7 +2123,7 @@ async function ensureSubjectLoaded(slug) {
         } else if (path.startsWith('practice/')) {
             const practiceSlug = path.replace('practice/', '');
             let foundSub = null;
-            for (const mc of mainQuizData) {
+            for (const mc of window.subjectsIndex) {
                 foundSub = mc.subcategories.find(s => (s.category || "").toLowerCase().replace(/ /g, '-') === practiceSlug);
                 if (foundSub) break;
                 // Check inside folders as well
@@ -2285,7 +2285,7 @@ async function ensureSubjectLoaded(slug) {
 
         // Populate subject list with checkboxes
         examSubjectList.innerHTML = '';
-        mainQuizData.forEach(subject => {
+        window.subjectsIndex.forEach(subject => {
             const label = document.createElement('label');
             label.className = 'subject-checkbox-item';
             label.innerHTML = `
@@ -2951,7 +2951,7 @@ async function ensureSubjectLoaded(slug) {
             const index = parseInt(card.dataset.index);
 
             if (type === 'category') {
-                showSubcategories(mainQuizData[index]);
+                const subjectMeta = window.subjectsIndex[index]; ensureSubjectLoaded(subjectMeta.slug).then(subjectData => { if (subjectData) showSubcategories(subjectData); });
             } else if (type === 'subcategory') {
                 const sub = currentMainCategory.subcategories[index];
                 if (card.dataset.folder === 'true') {

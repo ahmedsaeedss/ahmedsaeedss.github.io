@@ -1,6 +1,6 @@
 // db-store.js
 const DB_NAME = 'McqMatrixDB';
-const DB_VERSION = 1;
+const DB_VERSION = 2;
 const STORE_NAME = 'SubjectCache';
 
 function initDB() {
@@ -9,9 +9,10 @@ function initDB() {
 
         request.onupgradeneeded = function(event) {
             const db = event.target.result;
-            if (!db.objectStoreNames.contains(STORE_NAME)) {
-                db.createObjectStore(STORE_NAME, { keyPath: 'slug' });
+            if (db.objectStoreNames.contains(STORE_NAME)) {
+                db.deleteObjectStore(STORE_NAME);
             }
+            db.createObjectStore(STORE_NAME, { keyPath: 'slug' });
         };
 
         request.onsuccess = function(event) {
