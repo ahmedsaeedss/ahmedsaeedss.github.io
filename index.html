@@ -142,25 +142,6 @@
     </header>
 
     <main class="app-container">
-        <!-- Global Search Bar Section -->
-        <div class="search-section" id="search-section">
-            <div class="search-box">
-                <i class="fa-solid fa-magnifying-glass search-icon"></i>
-                <input type="text" id="global-search-input" placeholder="Search MCQs (Subjects, Topics...)" autocomplete="off">
-                <button id="clear-search-btn" class="clear-btn hidden"><i class="fa-solid fa-xmark"></i></button>
-            </div>
-        </div>
-
-        <!-- Search Results View -->
-        <div id="search-results-screen" class="screen hidden">
-            <div class="screen-header">
-                <button class="back-btn" id="back-from-search" style="margin-right: 1rem;"><i class="fa-solid fa-arrow-left"></i></button>
-                <h2 id="search-query-display" style="font-size: 1.4rem;">Search Results</h2>
-            </div>
-            <div id="search-results-grid" class="results-grid" style="margin-top: 1.5rem;">
-                <!-- Results will be injected here -->
-            </div>
-        </div>
 
         <!-- Screen 1: Category/Subject Selection -->
         <section id="category-screen" class="screen active">
@@ -398,6 +379,15 @@
         </section>
 
     </main>
+
+    <!-- Loading Overlay for Lazy Loading -->
+    <div id="loading-overlay" class="modal-overlay hidden" style="z-index: 9999; flex-direction: column; align-items: center; justify-content: center;">
+        <div class="spinner" style="width: 50px; height: 50px; border: 5px solid rgba(255,255,255,0.3); border-top: 5px solid var(--primary); border-radius: 50%; animation: spin 1s linear infinite;"></div>
+        <p style="color: white; margin-top: 1rem; font-weight: 500; font-size: 1.1rem;">Downloading Subject Data...</p>
+        <style>
+            @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        </style>
+    </div>
 
     <footer class="app-footer">
         <div class="footer-container">
@@ -1036,7 +1026,8 @@
 
 
 
-    <script src="data.js"></script>
+    <script src="data_chunks/subjects_index.js"></script>
+    <script src="db-store.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 

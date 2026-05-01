@@ -45,13 +45,65 @@ const Directory = window.Capacitor ? (window.Capacitor.Plugins.Filesystem ? { Ca
 const Encoding = { UTF8: 'utf8' };
 
 document.addEventListener('DOMContentLoaded', () => {
+
+// --- LAZY LOADING SYSTEM ---
+window.loadedSubjects = {};
+
+async function ensureSubjectLoaded(slug) {
+    const varName = `QuizData_${slug.replace(/-/g, '_')}`;
+    if (window[varName]) {
+        return window[varName];
+    }
+    
+    const loadingOverlay = document.getElementById('loading-overlay');
+    if (loadingOverlay) loadingOverlay.classList.remove('hidden');
+
+    try {
+        if (window.DBStore) {
+            const cachedData = await window.DBStore.getSubject(slug);
+            if (cachedData) {
+                window[varName] = cachedData;
+                window.loadedSubjects[slug] = cachedData;
+                preCleanAllData([cachedData]); // Clean names just in case
+                if (loadingOverlay) loadingOverlay.classList.add('hidden');
+                return cachedData;
+            }
+        }
+
+        const scriptPath = `data_chunks/${slug}.js`;
+        await new Promise((resolve, reject) => {
+            const script = document.createElement('script');
+            script.src = scriptPath;
+            script.onload = resolve;
+            script.onerror = reject;
+            document.body.appendChild(script);
+        });
+
+        if (window[varName]) {
+            preCleanAllData([window[varName]]);
+            if (window.DBStore) {
+                await window.DBStore.saveSubject(slug, window[varName]);
+            }
+            window.loadedSubjects[slug] = window[varName];
+            return window[varName];
+        } else {
+            throw new Error("Subject data not found in chunk.");
+        }
+    } catch (error) {
+        console.error("Failed to load subject:", error);
+        alert("Failed to load subject data. Please check your internet connection.");
+        return null;
+    } finally {
+        if (loadingOverlay) loadingOverlay.classList.add('hidden');
+    }
+}
+
     // DOM Elements
     const screens = {
         categories: document.getElementById('category-screen'),
         set: document.getElementById('set-screen'),
         quiz: document.getElementById('quiz-screen'),
         result: document.getElementById('result-screen'),
-        search: document.getElementById('search-results-screen'),
         'about-screen': document.getElementById('about-screen'),
         'contact-screen': document.getElementById('contact-screen'),
         'privacy-screen': document.getElementById('privacy-screen')
@@ -213,116 +265,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // Initialize Global Search
-    function bindSearchEvents() {
-        const searchInput = document.getElementById('global-search-input');
-        const clearSearchBtn = document.getElementById('clear-search-btn');
-        const backFromSearchBtn = document.getElementById('back-from-search');
-        const searchScreen = document.getElementById('search-results-screen');
-        const resultsGrid = document.getElementById('search-results-grid');
-        const searchQueryDisplay = document.getElementById('search-query-display');
-
-        if (!searchInput) return;
-
-        searchInput.addEventListener('input', debounce((e) => {
-            const query = e.target.value.trim().toLowerCase();
-            if (query.length > 2) {
-                performGlobalSearch(query);
-                clearSearchBtn.classList.remove('hidden');
-            } else {
-                if (query.length === 0) {
-                    clearSearchBtn.classList.add('hidden');
-                    switchScreen('categories');
-                }
-            }
-        }, 400));
-
-        if (clearSearchBtn) {
-            clearSearchBtn.addEventListener('click', () => {
-                searchInput.value = '';
-                clearSearchBtn.classList.add('hidden');
-                switchScreen('categories');
-            });
-        }
-
-        if (backFromSearchBtn) {
-            backFromSearchBtn.addEventListener('click', () => {
-                searchInput.value = '';
-                clearSearchBtn.classList.add('hidden');
-                switchScreen('categories');
-            });
-        }
-
-        function performGlobalSearch(query) {
-            if (typeof mainQuizData === 'undefined' || !mainQuizData) {
-                renderSearchResults([], "Loading database... please wait.");
-                return;
-            }
-            const results = [];
-            
-            mainQuizData.forEach(main => {
-                main.subcategories.forEach(sub => {
-                    const subNameMatch = sub.category.toLowerCase().includes(query);
-                    const matchedQuestions = sub.questions.filter(q => 
-                        q.q.toLowerCase().includes(query) || 
-                        (q.x && q.x.toLowerCase().includes(query))
-                    );
-
-                    if (subNameMatch || matchedQuestions.length > 0) {
-                        results.push({
-                            mainCategory: main.name,
-                            subCategory: sub.category,
-                            matchCount: matchedQuestions.length,
-                            data: sub
-                        });
-                    }
-                });
-            });
-
-            renderSearchResults(results, query);
-        }
-
-        function renderSearchResults(results, query) {
-            searchQueryDisplay.textContent = `Results for "${query}" (${results.length})`;
-            resultsGrid.innerHTML = '';
-            switchScreen('search');
-            document.getElementById('search-section').classList.remove('hidden');
-
-            if (results.length === 0) {
-                resultsGrid.innerHTML = `<div style="grid-column:1/-1; text-align:center; padding:2rem; color:var(--text-muted);">No matches found for "${query}"</div>`;
-                return;
-            }
-
-            results.slice(0, 50).forEach(res => {
-                const card = document.createElement('div');
-                card.className = 'search-result-card';
-                card.innerHTML = `
-                    <span class="category-tag">${res.mainCategory}</span>
-                    <h3>${res.subCategory}</h3>
-                    <p>${res.matchCount > 0 ? `Found ${res.matchCount} matching questions` : 'Matches subject name'}</p>
-                    <div style="font-size: 0.8rem; color: var(--primary); margin-top: 0.8rem; font-weight: 600;">
-                        <i class="fa-solid fa-play"></i> Start Quiz
-                    </div>
-                `;
-                card.onclick = () => {
-                    currentMainCategory = res.mainCategory;
-                    currentSubcategoryData = res.data;
-                    startQuiz();
-                };
-                resultsGrid.appendChild(card);
-            });
-        }
-    }
-
-    // Debounce helper
-    function debounce(func, wait) {
-        let timeout;
-        return function(...args) {
-            clearTimeout(timeout);
-            timeout = setTimeout(() => func.apply(this, args), wait);
-        };
-    }
-
     // Initialize Application
     function init() {
         if (isDarkMode) {
@@ -332,13 +274,10 @@ document.addEventListener('DOMContentLoaded', () => {
         updateAuthUI();
         
         // Performance: Pre-clean all subject and category names once during init
-        if (typeof mainQuizData !== 'undefined' && Array.isArray(mainQuizData)) {
-            preCleanAllData(mainQuizData);
-        }
+        // preCleanAllData is now handled during subject lazy loading.
 
         renderCategories();
         bindEvents();
-        bindSearchEvents();
     }
 
     function updateAuthUI() {
@@ -947,7 +886,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             // Get Total MCQs across all categories
             let totalQ = 0;
-            if (mainQuizData) {
+            if (window.subjectsIndex) {
                 mainQuizData.forEach(cat => {
                     totalQ += countAllQuestions(cat);
                 });
@@ -1053,7 +992,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Find target subcategory to add the question
             let found = false;
             let targetMainObj = null;
-            for (let main of mainQuizData) {
+            for (let main of window.subjectsIndex) {
                 for (let sub of main.subcategories) {
                     if (sub.category === mcq.category) {
                         // Temporarily push to local array
@@ -1192,7 +1131,7 @@ document.addEventListener('DOMContentLoaded', () => {
         function renderAdminEditCategorySelect() {
             if (!adminCategorySelect) return;
             adminCategorySelect.innerHTML = '<option value="">-- Choose Category --</option>';
-            mainQuizData.forEach(mainCat => {
+            window.subjectsIndex.forEach(mainCat => {
                 const optgroup = document.createElement('optgroup');
                 optgroup.label = mainCat.name;
                 mainCat.subcategories.forEach(sub => {
@@ -1223,7 +1162,7 @@ document.addEventListener('DOMContentLoaded', () => {
             let targetSub = null;
             let targetMainObj = null;
             
-            for (let main of mainQuizData) {
+            for (let main of window.subjectsIndex) {
                 for (let sub of main.subcategories) {
                     if (sub.category === catName) {
                         targetSub = sub;
@@ -1420,7 +1359,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Preserve the 'All Categories' option
             adminExportCategorySelect.innerHTML = '<option value="all">All Categories (Complete Database)</option>';
             
-            mainQuizData.forEach(mainCat => {
+            window.subjectsIndex.forEach(mainCat => {
                 const optgroup = document.createElement('optgroup');
                 optgroup.label = mainCat.name;
                 mainCat.subcategories.forEach(sub => {
@@ -1483,6 +1422,21 @@ document.addEventListener('DOMContentLoaded', () => {
                 showToast("Generating PDF... Please wait.");
                 exportPdfBtn.disabled = true;
                 exportPdfBtn.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Generating...';
+
+                let dataToExport = [];
+                if (selectedCategory === 'all') {
+                    exportPdfBtn.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> Downloading database...';
+                    for (const meta of window.subjectsIndex) {
+                        const data = await ensureSubjectLoaded(meta.slug);
+                        if (data) dataToExport.push(data);
+                    }
+                } else {
+                    const meta = window.subjectsIndex.find(m => m.subcategories && m.subcategories.some(s => s.category === selectedCategory || (s.isFolder && s.subcategories && s.subcategories.some(n => n.category === selectedCategory))));
+                    if (meta) {
+                        const data = await ensureSubjectLoaded(meta.slug);
+                        if (data) dataToExport.push(data);
+                    }
+                }
 
                 // Use jsPDF
                 const { jsPDF } = window.jspdf;
@@ -1697,7 +1651,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 
                 // Populate categories dropdown
                 mcqCategorySelect.innerHTML = '<option value="">-- Choose Category --</option>';
-                mainQuizData.forEach(mainCat => {
+                window.subjectsIndex.forEach(mainCat => {
                     const optgroup = document.createElement('optgroup');
                     optgroup.label = mainCat.name;
                     mainCat.subcategories.forEach(sub => {
@@ -2348,7 +2302,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (examModal) examModal.classList.add('hidden');
     }
 
-    function startTimedExam() {
+    async function startTimedExam() {
         const selectedSubjectNames = Array.from(document.querySelectorAll('input[name="exam-subject"]:checked'))
             .map(cb => cb.value);
 
@@ -2360,22 +2314,34 @@ document.addEventListener('DOMContentLoaded', () => {
         const countRadio = document.querySelector('input[name="exam-count"]:checked');
         totalExamQuestions = parseInt(countRadio.value);
 
-        // Pool questions from selected subjects
+        const loadingOverlay = document.getElementById('loading-overlay');
+        if (loadingOverlay) loadingOverlay.classList.remove('hidden');
+
         let pool = [];
-        mainQuizData.forEach(subject => {
-            if (selectedSubjectNames.includes(subject.name)) {
-                subject.subcategories.forEach(sub => {
-                    pool = pool.concat(sub.questions);
-                });
+        for (const name of selectedSubjectNames) {
+            const meta = window.subjectsIndex.find(m => m.name === name);
+            if (meta) {
+                const subjectData = await ensureSubjectLoaded(meta.slug);
+                if (subjectData && subjectData.subcategories) {
+                    subjectData.subcategories.forEach(sub => {
+                        if (sub.questions) pool = pool.concat(sub.questions);
+                        if (sub.isFolder && sub.subcategories) {
+                            sub.subcategories.forEach(n => {
+                                if (n.questions) pool = pool.concat(n.questions);
+                            });
+                        }
+                    });
+                }
             }
-        });
+        }
+        
+        if (loadingOverlay) loadingOverlay.classList.add('hidden');
 
         if (pool.length === 0) {
             alert("No questions found in selected subjects.");
             return;
         }
 
-        // Shuffle and take required count
         currentSetQuestions = shuffleArray([...pool]).slice(0, totalExamQuestions);
         totalExamQuestions = currentSetQuestions.length; // in case pool < target
 
@@ -2857,7 +2823,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function findMainCategoryBySub(subName) {
         if (subName === 'Daily MCQs' || subName === 'Full Mock Test') return "Mixed Tests";
-        for (const mainCat of mainQuizData) {
+        for (const mainCat of window.subjectsIndex) {
             if (mainCat.subcategories.some(sub => sub.category === subName)) {
                 return mainCat.name;
             }
@@ -2869,16 +2835,6 @@ document.addEventListener('DOMContentLoaded', () => {
         stopSpeech(); // Stop audio when leaving screen
         Object.values(screens).forEach(screen => screen.classList.remove('active'));
         if (screens[screenName]) screens[screenName].classList.add('active');
-        
-        // Handle Global Search visibility
-        const searchSection = document.getElementById('search-section');
-        if (searchSection) {
-            if (['categories', 'search'].includes(screenName)) {
-                searchSection.classList.remove('hidden');
-            } else {
-                searchSection.classList.add('hidden');
-            }
-        }
         
         if (!skipScroll) {
             window.scrollTo(0, 0);
@@ -2971,14 +2927,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function renderCategories() {
         let html = '';
-        mainQuizData.forEach((mainCat, index) => {
+        window.subjectsIndex.forEach((mainCat, index) => {
             html += `
                 <div class="category-card" data-type="category" data-index="${index}">
                     <div class="category-icon">
                         <i class="fa-solid ${mainCat.icon || 'fa-book-open'}"></i>
                     </div>
                     <h3>${mainCat.name}</h3>
-                    <p>${mainCat.subcategories.length} Topics | ${countCatQuestions(mainCat).toLocaleString()} MCQs</p>
+                    <p>${mainCat.topicCount} Topics | ${mainCat.mcqCount.toLocaleString()} MCQs</p>
                 </div>
             `;
         });
@@ -3282,22 +3238,41 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    function startDailyMCQs() {
+    async function startDailyMCQs() {
         updateNavActiveState('nav-daily');
-        // Collect all questions
-        let allQs = [];
-        mainQuizData.forEach(mainCat => {
-            mainCat.subcategories.forEach(subCat => {
-                allQs = allQs.concat(subCat.questions);
-            });
-        });
-
-        // Seed RNG based on date
+        
         const today = new Date();
         const seed = parseInt(`${today.getFullYear()}${today.getMonth()}${today.getDate()}`, 10);
         const rng = mulberry32(seed);
+        
+        let shuffledIndexes = [...window.subjectsIndex];
+        for (let i = shuffledIndexes.length - 1; i > 0; i--) {
+            const j = Math.floor(rng() * (i + 1));
+            [shuffledIndexes[i], shuffledIndexes[j]] = [shuffledIndexes[j], shuffledIndexes[i]];
+        }
+        
+        const selectedMetas = shuffledIndexes.slice(0, 3);
+        let allQs = [];
+        
+        const loadingOverlay = document.getElementById('loading-overlay');
+        if (loadingOverlay) loadingOverlay.classList.remove('hidden');
+        
+        for (const meta of selectedMetas) {
+            const subjectData = await ensureSubjectLoaded(meta.slug);
+            if (subjectData && subjectData.subcategories) {
+                subjectData.subcategories.forEach(subCat => {
+                    if (subCat.questions) allQs = allQs.concat(subCat.questions);
+                    if (subCat.isFolder && subCat.subcategories) {
+                        subCat.subcategories.forEach(n => {
+                            if (n.questions) allQs = allQs.concat(n.questions);
+                        });
+                    }
+                });
+            }
+        }
+        
+        if (loadingOverlay) loadingOverlay.classList.add('hidden');
 
-        // Shuffle all questions using seeded RNG
         for (let i = allQs.length - 1; i > 0; i--) {
             const j = Math.floor(rng() * (i + 1));
             [allQs[i], allQs[j]] = [allQs[j], allQs[i]];
@@ -3322,7 +3297,7 @@ document.addEventListener('DOMContentLoaded', () => {
         updateNavActiveState('nav-mock');
         // Collect all questions
         let allQs = [];
-        mainQuizData.forEach(mainCat => {
+        window.subjectsIndex.forEach(mainCat => {
             mainCat.subcategories.forEach(subCat => {
                 allQs = allQs.concat(subCat.questions);
             });
@@ -4019,23 +3994,15 @@ function renderPublicStats() {
     const container = document.getElementById('public-stats-container');
     if (!container) return;
 
-    let totalSubjects = mainQuizData.length;
+    if (!window.subjectsIndex) return;
+
+    let totalSubjects = window.subjectsIndex.length;
     let totalTopics = 0;
     let totalMCQs = 0;
 
-    // Correct counting logic to match home page subject cards
-    mainQuizData.forEach(cat => {
-        // Count immediate topics (categories) shown on home page
-        totalTopics += cat.subcategories.length;
-
-        // Recursive function for MCQs to catch every question
-        function countMCQs(node) {
-            if (node.questions) totalMCQs += node.questions.length;
-            if (node.subcategories) {
-                node.subcategories.forEach(sub => countMCQs(sub));
-            }
-        }
-        countMCQs(cat);
+    window.subjectsIndex.forEach(cat => {
+        totalTopics += cat.topicCount || 0;
+        totalMCQs += cat.mcqCount || 0;
     });
 
     container.innerHTML = `
@@ -4060,7 +4027,7 @@ function renderPublicStats() {
 // Call to initialize display
 document.addEventListener('DOMContentLoaded', () => {
     // Initial load
-    if (typeof mainQuizData !== 'undefined') {
+    if (typeof window.subjectsIndex !== 'undefined') {
         renderPublicStats();
     }
 });
