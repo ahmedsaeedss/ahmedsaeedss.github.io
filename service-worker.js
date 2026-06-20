@@ -1,10 +1,10 @@
-const CACHE_NAME = 'mcqmatrix-v1.9';
+const CACHE_NAME = 'mcqmatrix-v1.8';
 const ASSETS_TO_CACHE = [
   './',
   'index.html',
   'styles.css',
   'script.js',
-  'data_chunks/subjects_index.js',
+  'data/subjects_index.js',
   'db-store.js',
   'manifest.json',
   'logo/icon-192x192.png',

@@ -70,7 +70,7 @@ async function ensureSubjectLoaded(slug) {
             }
         }
 
-        const scriptPath = `data_chunks/${slug}.js`;
+        const scriptPath = `data/${slug}.js`;
         await new Promise((resolve, reject) => {
             const script = document.createElement('script');
             script.src = scriptPath;
@@ -888,7 +888,7 @@ async function ensureSubjectLoaded(slug) {
             let totalQ = 0;
             if (window.subjectsIndex) {
                 window.subjectsIndex.forEach(cat => {
-                    totalQ += countAllQuestions(cat);
+                    totalQ += (cat.mcqCount || 0);
                 });
             }
             if (totalMcqsEl) totalMcqsEl.textContent = totalQ.toLocaleString();
@@ -897,7 +897,12 @@ async function ensureSubjectLoaded(slug) {
             // Let's mock a simple local active user count if real DB isn't fully returning users yet
             if (totalUsersEl) {
                 // If we get an event from firebase loaded users, we can update it, else default fallback
-                totalUsersEl.textContent = window.adminFetchedUsers ? window.adminFetchedUsers.length : "1";
+                if (window.adminFetchedUsers) {
+                    totalUsersEl.textContent = window.adminFetchedUsers.length;
+                } else {
+                    totalUsersEl.textContent = "...";
+                    window.dispatchEvent(new Event('adminFetchUsers'));
+                }
             }
 
             // Render Visitor Demographics
@@ -1947,7 +1952,7 @@ async function ensureSubjectLoaded(slug) {
             if (jobsSection) jobsSection.classList.remove('hidden');
             if (jobsList) {
                 jobsList.innerHTML = '';
-                jobs.forEach(job => {
+                jobsList.forEach(job => {
                     const card = document.createElement('div');
                     card.className = 'job-alert-card';
                     card.innerHTML = `
@@ -1966,18 +1971,14 @@ async function ensureSubjectLoaded(slug) {
         } else {
             if (jobsSection) jobsSection.classList.add('hidden');
         }
-    }    // --- Jobs Fetching & Rendering Logic ---
+    }
+
     function fetchAndRenderJobs(isAdminView = false) {
         window.dispatchEvent(new CustomEvent('fetchJobs', {
             detail: {
                 onSuccess: (jobs) => {
-                    // Cache jobs to localStorage for instant display next time
                     try { localStorage.setItem('cachedJobs', JSON.stringify(jobs)); } catch(e) {}
-
-                    // Render Home Screen Cards
                     renderJobCards(jobs);
-                    
-                    // Render Admin Table
                     const adminJobsList = document.getElementById('admin-jobs-list');
                     if (adminJobsList) {
                         if (jobs.length > 0) {
@@ -1996,46 +1997,36 @@ async function ensureSubjectLoaded(slug) {
                                 adminJobsList.appendChild(tr);
                             });
                             
-                            // Attach edit events
                             document.querySelectorAll('.edit-job-btn').forEach(btn => {
                                 btn.addEventListener('click', (e) => {
                                     const button = e.target.closest('.edit-job-btn');
                                     if(!button) return;
                                     const job = JSON.parse(button.dataset.job.replace(/&apos;/g, "'"));
-                                    
                                     document.getElementById('admin-job-title').value = job.title || '';
                                     document.getElementById('admin-job-dept').value = job.dept || '';
                                     document.getElementById('admin-job-deadline').value = job.deadline || '';
                                     document.getElementById('admin-job-link').value = job.link !== '#' ? job.link : '';
                                     if(document.getElementById('admin-job-image')) document.getElementById('admin-job-image').value = job.image || '';
-                                    
-                                    // Show image preview if available
                                     const previewDiv = document.getElementById('admin-job-image-preview');
                                     if (previewDiv && job.image) {
                                         previewDiv.querySelector('img').src = job.image;
                                         previewDiv.style.display = 'block';
                                     }
-                                    
                                     const submitBtn = document.getElementById('admin-add-job-btn');
                                     submitBtn.dataset.editingId = job.id;
                                     document.getElementById('admin-add-job-btn-text').innerText = 'Update Alert';
-                                    
                                     document.getElementById('admin-jobs').scrollIntoView({ behavior: 'smooth' });
                                 });
                             });
 
-                            // Attach delete events
                             document.querySelectorAll('.delete-job-btn').forEach(btn => {
                                 btn.addEventListener('click', (e) => {
                                     const button = e.target.closest('.delete-job-btn');
                                     if(!button) return;
-                                    
                                     if(!confirm("Are you sure you want to delete this job alert?")) return;
                                     const id = button.dataset.id;
-                                    
                                     button.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i>';
                                     button.disabled = true;
-
                                     window.dispatchEvent(new CustomEvent('deleteJob', {
                                         detail: {
                                             jobId: id,
@@ -2066,18 +2057,14 @@ async function ensureSubjectLoaded(slug) {
 
     function handleInfoRoute(page) {
         updateMetaTags(page.charAt(0).toUpperCase() + page.slice(1) + " Us", "Learn more about McqMatrix", false);
-
         switchScreen(`${page}-screen`, true, {}, true);
     }
 
     function handleInitialRoute() {
         let path = new URLSearchParams(window.location.search).get('p');
-        
-        // Fallback for old hash links if they still exist
         if (!path && window.location.hash) {
             path = window.location.hash.replace('#', '');
         }
-
         if (['about', 'contact', 'privacy'].includes(path)) {
             const pathUrl = '?p=' + path;
             history.replaceState({ screen: path }, '', pathUrl);
@@ -2085,68 +2072,70 @@ async function ensureSubjectLoaded(slug) {
             handleInfoRoute(path);
             return;
         }
-
         if (!path || path === 'home') {
             const homePath = '?p=home';
             history.replaceState({ screen: 'categories' }, '', homePath);
             history.pushState({ screen: 'categories' }, '', homePath);
-            return; // renderCategories is already called in init()
+            return;
         }
-
         if (path.startsWith('topics/')) {
             const topicParts = path.replace('topics/', '').split('/');
             const topicSlug = topicParts[0];
             const folderSlug = topicParts[1];
-            
-            const mainCat = window.subjectsIndex.find(c => (c.name || "").toLowerCase().replace(/ /g, '-') === topicSlug);
-
-            if (mainCat) {
-                if (folderSlug) {
-                    const folderObj = mainCat.subcategories.find(s => s.isFolder && (s.category || "").toLowerCase().replace(/ /g, '-') === folderSlug);
-                    if (folderObj) {
-                        const state = { screen: 'categories', mainCategory: mainCat, folderData: folderObj };
-                        const formattedPath = '?p=' + path;
-                        history.replaceState(state, '', formattedPath);
-                        history.pushState(state, '', formattedPath);
-                        showNestedSubcategories(mainCat, folderObj, true);
-                        return;
+            const subjectMeta = window.subjectsIndex.find(s => s.slug === topicSlug);
+            if (subjectMeta) {
+                ensureSubjectLoaded(subjectMeta.slug).then(subjectData => {
+                    if (!subjectData) return;
+                    if (folderSlug) {
+                        const folderObj = subjectData.subcategories.find(s => s.isFolder && (s.category || "").toLowerCase().replace(/ /g, '-') === folderSlug);
+                        if (folderObj) {
+                            const state = { screen: 'categories', mainCategory: subjectData, folderData: folderObj };
+                            const formattedPath = '?p=' + path;
+                            history.replaceState(state, '', formattedPath);
+                            history.pushState(state, '', formattedPath);
+                            showNestedSubcategories(subjectData, folderObj, true);
+                            return;
+                        }
                     }
-                }
-                
-                const state = { screen: 'categories', mainCategory: mainCat };
-                const formattedPath = '?p=' + path;
-                history.replaceState(state, '', formattedPath);
-                history.pushState(state, '', formattedPath);
-                showSubcategories(mainCat, true);
+                    const state = { screen: 'categories', mainCategory: subjectData };
+                    const formattedPath = '?p=' + path;
+                    history.replaceState(state, '', formattedPath);
+                    history.pushState(state, '', formattedPath);
+                    showSubcategories(subjectData, true);
+                });
                 return;
             }
         } else if (path.startsWith('practice/')) {
             const practiceSlug = path.replace('practice/', '');
-            let foundSub = null;
-            for (const mc of window.subjectsIndex) {
-                foundSub = mc.subcategories.find(s => (s.category || "").toLowerCase().replace(/ /g, '-') === practiceSlug);
-                if (foundSub) break;
-                // Check inside folders as well
-                for (const sub of mc.subcategories) {
-                    if (sub.isFolder && sub.subcategories) {
-                        foundSub = sub.subcategories.find(s => (s.category || "").toLowerCase().replace(/ /g, '-') === practiceSlug);
-                        if (foundSub) break;
+            async function findAndStartPractice() {
+                for (const subjectMeta of window.subjectsIndex) {
+                    const subjectData = await ensureSubjectLoaded(subjectMeta.slug);
+                    if (!subjectData) continue;
+                    let foundSub = subjectData.subcategories.find(s => (s.category || "").toLowerCase().replace(/ /g, '-') === practiceSlug);
+                    if (!foundSub) {
+                        for (const sub of subjectData.subcategories) {
+                            if (sub.isFolder && sub.subcategories) {
+                                foundSub = sub.subcategories.find(s => (s.category || "").toLowerCase().replace(/ /g, '-') === practiceSlug);
+                                if (foundSub) break;
+                            }
+                        }
+                    }
+                    if (foundSub) {
+                        const state = { screen: 'set', subcategoryData: foundSub };
+                        const formattedPath = '?p=' + path;
+                        history.replaceState(state, '', formattedPath);
+                        history.pushState(state, '', formattedPath);
+                        startSubcategory(foundSub, true);
+                        return true;
                     }
                 }
-                if (foundSub) break;
+                return false;
             }
-            
-            if (foundSub) {
-                const state = { screen: 'set', subcategoryData: foundSub };
-                const formattedPath = '?p=' + path;
-                history.replaceState(state, '', formattedPath);
-                history.pushState(state, '', formattedPath);
-                startSubcategory(foundSub, true);
-                return;
-            }
+            findAndStartPractice().then(found => {
+                if (!found) showMainCategories();
+            });
+            return;
         }
-
-        // Fallback
         const homePath = window.location.protocol === 'file:' ? '#home' : '/home';
         history.replaceState({ screen: 'categories' }, '', homePath);
         history.pushState({ screen: 'categories' }, '', homePath);
@@ -2176,7 +2165,6 @@ async function ensureSubjectLoaded(slug) {
 
     function playSound(isCorrect) {
         if (!isSoundEnabled) return;
-
         const sound = isCorrect ? soundCorrect : soundIncorrect;
         if (sound) {
             sound.currentTime = 0;
@@ -2184,7 +2172,6 @@ async function ensureSubjectLoaded(slug) {
         }
     }
 
-    // Helper: Fisher-Yates array shuffle
     function shuffleArray(array) {
         let currentIndex = array.length, randomIndex;
         while (currentIndex !== 0) {
@@ -2195,7 +2182,6 @@ async function ensureSubjectLoaded(slug) {
         return array;
     }
 
-    // Translation State and Logic
     let isTranslated = false;
     let originalQuestionText = "";
     let originalOptionsText = [];
@@ -2212,18 +2198,15 @@ async function ensureSubjectLoaded(slug) {
             return translatedText;
         } catch (error) {
             console.error("Translation Error:", error);
-            return text; // fallback to original
+            return text;
         }
     }
 
     async function toggleTranslation() {
         if (!translateBtn) return;
-
         isTranslated = !isTranslated;
         const icon = translateBtn.querySelector('i');
         const textSpan = translateBtn.querySelector('.trans-text');
-
-        // Handle Global Button State
         if (isTranslated) {
             translateBtn.classList.add('active');
             icon.className = 'fa-solid fa-language';
@@ -2233,20 +2216,14 @@ async function ensureSubjectLoaded(slug) {
             icon.className = 'fa-solid fa-language';
             textSpan.textContent = "اردو";
         }
-
-        // Apply translation only if we are currently viewing a question layout
         if (screens.quiz.classList.contains('active') && originalQuestionText) {
             if (isTranslated) {
-                icon.className = 'fa-solid fa-spinner fa-spin'; // Loading state
+                icon.className = 'fa-solid fa-spinner fa-spin';
                 textSpan.textContent = "Translating...";
-
-                // Translate Question
                 const translatedQ = await translateText(originalQuestionText);
                 questionText.textContent = translatedQ;
                 questionText.style.direction = "rtl";
                 questionText.style.fontFamily = "'Jameel Noori Nastaleeq', 'Noto Nastaliq Urdu', serif";
-
-                // Translate Options
                 const optionBtns = document.querySelectorAll('.option-btn');
                 for (let i = 0; i < optionBtns.length; i++) {
                     const translatedOpt = await translateText(originalOptionsText[i]);
@@ -2254,51 +2231,49 @@ async function ensureSubjectLoaded(slug) {
                     optionBtns[i].style.direction = "rtl";
                     optionBtns[i].style.fontFamily = "'Jameel Noori Nastaleeq', 'Noto Nastaliq Urdu', serif";
                 }
-
-                if (isTranslated) { // Check again in case it was toggled back to English rapidly
-                    icon.className = 'fa-solid fa-language';
-                    textSpan.textContent = "English";
-                }
+                icon.className = 'fa-solid fa-language';
+                textSpan.textContent = "English";
             } else {
-                // Revert to English
                 questionText.textContent = originalQuestionText;
                 questionText.style.direction = "ltr";
                 questionText.style.fontFamily = "inherit";
-
                 const optionBtns = document.querySelectorAll('.option-btn');
                 for (let i = 0; i < optionBtns.length; i++) {
-                    if (originalOptionsText[i]) {
-                        optionBtns[i].textContent = originalOptionsText[i];
-                        optionBtns[i].style.direction = "ltr";
-                        optionBtns[i].style.fontFamily = "inherit";
-                    }
+                    optionBtns[i].textContent = originalOptionsText[i];
+                    optionBtns[i].style.direction = "ltr";
+                    optionBtns[i].style.fontFamily = "inherit";
                 }
             }
         }
     }
 
-    // Dashboard State and Logic... (existing code)
+    async function readAloud() {
+        if (isNativeSpeaking) {
+            if (typeof TextToSpeech !== 'undefined') await TextToSpeech.stop();
+            isNativeSpeaking = false;
+            return;
+        }
+        const textToRead = questionText.textContent;
+        const optionsToRead = Array.from(document.querySelectorAll('.option-btn')).map(btn => btn.textContent).join('. ');
+        const fullText = `Question. ${textToRead}. Options are. ${optionsToRead}`;
+        if (typeof TextToSpeech !== 'undefined') {
+            isNativeSpeaking = true;
+            await TextToSpeech.speak({
+                text: fullText,
+                lang: isTranslated ? 'ur-PK' : 'en-US',
+                rate: 1.0, pitch: 1.0, volume: 1.0, category: 'ambient'
+            });
+            isNativeSpeaking = false;
+        } else {
+            const utterance = new SpeechSynthesisUtterance(fullText);
+            utterance.lang = isTranslated ? 'ur-PK' : 'en-US';
+            window.speechSynthesis.speak(utterance);
+        }
+    }
 
-    // --- Timed Exam Logic ---
     function openExamModal() {
         if (!examSubjectList) return;
 
-        // Populate subject list with checkboxes
-        examSubjectList.innerHTML = '';
-        window.subjectsIndex.forEach(subject => {
-            const label = document.createElement('label');
-            label.className = 'subject-checkbox-item';
-            label.innerHTML = `
-                <input type="checkbox" name="exam-subject" value="${subject.name}" checked>
-                <span>${subject.name}</span>
-            `;
-            examSubjectList.appendChild(label);
-        });
-
-        examModal.classList.remove('hidden');
-    }
-
-    function closeExamModal() {
         if (examModal) examModal.classList.add('hidden');
     }
 
@@ -3866,6 +3841,9 @@ window.renderAdminUsers = function() {
 
 window.addEventListener('adminUsersLoaded', (e) => {
     const users = e.detail;
+    window.adminFetchedUsers = users;
+    const dashboardUserCount = document.getElementById('admin-total-users');
+    if (dashboardUserCount) dashboardUserCount.textContent = users.length;
     const container = document.getElementById('admin-users-list');
     if (!container) return;
 

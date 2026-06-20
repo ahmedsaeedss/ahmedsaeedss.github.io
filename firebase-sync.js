@@ -543,8 +543,9 @@ function initFirestoreSync() {
             });
         });
 
-        window.mainQuizData = cloudQuizData;
-        console.log("Background: Real-time data synced from Firestore (Chunked).");
+        // Disconnected legacy mainQuizData sync to prioritize modular subjectsIndex
+        // window.mainQuizData = cloudQuizData; 
+        console.log("Background: Real-time data received from Firestore (Chunked). [Modular Mode: Cloud data ignored for metadata]");
         window.dispatchEvent(new CustomEvent('firebaseDataLoaded'));
     }, (error) => {
         console.error("Firestore sync error:", error);
@@ -558,55 +559,55 @@ window.migrateDataToFirestore = async function() {
         alert("Firebase is not initialized.\n\nPlease make sure you are logged in and Firebase is connected.");
         return;
     }
-    const quizDataToMigrate = window.mainQuizData || (typeof mainQuizData !== 'undefined' ? mainQuizData : null);
-
-    if (!quizDataToMigrate || quizDataToMigrate.length === 0) {
-        alert("Local data.js is not loaded or is empty.\n\nPlease make sure data.js is loaded before migrating.");
-        return;
-    }
-
-    // Flatten into chunks
-    const chunks = [];
-    quizDataToMigrate.forEach(main => {
-        main.subcategories.forEach(sub => {
-            chunks.push({
-                mainCategoryName: main.name,
-                mainCategoryIcon: main.icon || "fa-book",
-                subCategoryName: sub.category,
-                subCategoryIcon: sub.icon || "fa-file-lines",
-                questions: sub.questions || []
-            });
-        });
-    });
-
-    const total = chunks.length;
+    const totalSubjects = window.subjectsIndex.length;
     const dataRef = db.collection('mcq_data');
     let successCount = 0;
-    let failCount = 0;
-
+    
     const migrateBtn = document.getElementById('admin-migrate-firebase-btn');
     if (migrateBtn) {
         migrateBtn.disabled = true;
-        migrateBtn.innerHTML = '<i class="fa-solid fa-circle-notch fa-spin"></i> Migrating chunks... (0/' + total + ')';
+        migrateBtn.innerHTML = '<i class="fa-solid fa-circle-notch fa-spin"></i> Initializing Migration...';
     }
 
-    let firstError = null;
+    for (const subjectMeta of window.subjectsIndex) {
+        if (migrateBtn) {
+            migrateBtn.innerHTML = `<i class="fa-solid fa-circle-notch fa-spin"></i> Loading ${subjectMeta.name}...`;
+        }
+        
+        const subjectData = await window.ensureSubjectLoaded(subjectMeta.slug);
+        if (!subjectData) continue;
 
-    // Upload sequentially to avoid network overwhelming
-    for (let i = 0; i < chunks.length; i++) {
-        const chunk = chunks[i];
-        const docId = (chunk.mainCategoryName + "_" + chunk.subCategoryName).replace(/\s+/g, '_').replace(/\//g, '-');
-        try {
-            await dataRef.doc(docId).set(chunk);
+        for (const sub of subjectData.subcategories) {
+            if (sub.isFolder && sub.subcategories) {
+                // Migrate folder subcategories
+                for (const nestedSub of sub.subcategories) {
+                    const chunk = {
+                        mainCategoryName: subjectData.name,
+                        mainCategoryIcon: subjectData.icon || "fa-book",
+                        subCategoryName: nestedSub.category,
+                        subCategoryIcon: nestedSub.icon || "fa-file-lines",
+                        questions: nestedSub.questions || []
+                    };
+                    const docId = (chunk.mainCategoryName + "_" + chunk.subCategoryName).replace(/\s+/g, '_').replace(/\//g, '-');
+                    await dataRef.doc(docId).set(chunk);
+                }
+            } else {
+                const chunk = {
+                    mainCategoryName: subjectData.name,
+                    mainCategoryIcon: subjectData.icon || "fa-book",
+                    subCategoryName: sub.category,
+                    subCategoryIcon: sub.icon || "fa-file-lines",
+                    questions: sub.questions || []
+                };
+                const docId = (chunk.mainCategoryName + "_" + chunk.subCategoryName).replace(/\s+/g, '_').replace(/\//g, '-');
+                await dataRef.doc(docId).set(chunk);
+            }
             successCount++;
             if (migrateBtn) {
-                migrateBtn.innerHTML = '<i class="fa-solid fa-circle-notch fa-spin"></i> Migrating chunks... (' + successCount + '/' + total + ')';
+                migrateBtn.innerHTML = `<i class="fa-solid fa-circle-notch fa-spin"></i> Migrating ${subjectData.name}... (${successCount})`;
             }
-        } catch (err) {
-            console.error("Failed to upload chunk:", docId, err);
-            if (!firstError) firstError = err.message;
-            failCount++;
         }
+    }
     }
 
     if (migrateBtn) {
@@ -614,11 +615,7 @@ window.migrateDataToFirestore = async function() {
         migrateBtn.innerHTML = '<i class="fa-solid fa-cloud-arrow-up"></i> Migrate Offline Data to Firebase';
     }
 
-    if (failCount === 0) {
-        alert("✅ Migration Successful!\n" + successCount + " subcategory chunks uploaded to Firebase Firestore.");
-    } else {
-        alert("⚠️ Migration Partially Done.\nUploaded: " + successCount + "\nFailed: " + failCount + "\n\nFirst Error: " + (firstError || "Unknown Console Error"));
-    }
+    alert("✅ Migration Finished!\n" + successCount + " subcategory chunks processed.");
 };
 
 // Start the real-time sync after initialization
