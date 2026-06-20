@@ -517,7 +517,7 @@ window.subjectsIndex = [
     "icon": "fa-leaf",
     "slug": "botany",
     "topicCount": 22,
-    "mcqCount": 9100,
+    "mcqCount": 13200,
     "subcategories": [
       {
         "category": "Botany (نباتیات - پودوں کا علم)"
