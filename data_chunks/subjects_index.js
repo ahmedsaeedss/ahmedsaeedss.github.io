@@ -4,7 +4,7 @@ window.subjectsIndex = [
     "icon": "fa-mosque",
     "slug": "islamic-studies",
     "topicCount": 25,
-    "mcqCount": 4032,
+    "mcqCount": 14037,
     "subcategories": [
       {
         "category": "Al-Quran"
@@ -88,7 +88,7 @@ window.subjectsIndex = [
     "icon": "fa-landmark-dome",
     "slug": "muslim-history",
     "topicCount": 16,
-    "mcqCount": 1679,
+    "mcqCount": 8079,
     "subcategories": [
       {
         "category": "The Prophetic Era"
@@ -145,7 +145,7 @@ window.subjectsIndex = [
     "icon": "fa-calculator",
     "slug": "mathematics",
     "topicCount": 10,
-    "mcqCount": 2899,
+    "mcqCount": 6899,
     "subcategories": [
       {
         "category": "Arithmetic"
@@ -184,7 +184,7 @@ window.subjectsIndex = [
     "icon": "fa-pen-nib",
     "slug": "english",
     "topicCount": 9,
-    "mcqCount": 2127,
+    "mcqCount": 5733,
     "subcategories": [
       {
         "category": "Grammar"
@@ -219,8 +219,8 @@ window.subjectsIndex = [
     "name": "General Knowledge",
     "icon": "fa-globe",
     "slug": "general-knowledge",
-    "topicCount": 4,
-    "mcqCount": 428,
+    "topicCount": 14,
+    "mcqCount": 7418,
     "subcategories": [
       {
         "category": "World Geography"
@@ -233,6 +233,36 @@ window.subjectsIndex = [
       },
       {
         "category": "Famous Personalities"
+      },
+      {
+        "category": "Capitals & Currencies"
+      },
+      {
+        "category": "Famous Books & Authors"
+      },
+      {
+        "category": "World Sports & Games"
+      },
+      {
+        "category": "Important Days & Dates"
+      },
+      {
+        "category": "Landmarks & Monuments"
+      },
+      {
+        "category": "Firsts in the World"
+      },
+      {
+        "category": "Epithets & Sobriquets"
+      },
+      {
+        "category": "Straits, Canals & Gulfs"
+      },
+      {
+        "category": "Parliaments & News Agencies"
+      },
+      {
+        "category": "International Treaties & Pacts"
       }
     ]
   },
@@ -241,7 +271,7 @@ window.subjectsIndex = [
     "icon": "fa-language",
     "slug": "urdu",
     "topicCount": 10,
-    "mcqCount": 430,
+    "mcqCount": 5430,
     "subcategories": [
       {
         "category": "Grammar (قواعد)"
@@ -279,8 +309,8 @@ window.subjectsIndex = [
     "name": "Pakistan Study",
     "icon": "fa-flag",
     "slug": "pakistan-study",
-    "topicCount": 8,
-    "mcqCount": 257,
+    "topicCount": 13,
+    "mcqCount": 6757,
     "subcategories": [
       {
         "category": "History of Pakistan"
@@ -305,6 +335,21 @@ window.subjectsIndex = [
       },
       {
         "category": "Major National Challenges & Development Projects"
+      },
+      {
+        "category": "Foreign Policy & Foreign Relations"
+      },
+      {
+        "category": "Economy of Pakistan"
+      },
+      {
+        "category": "Tourism & World Heritage Sites"
+      },
+      {
+        "category": "Education & Health"
+      },
+      {
+        "category": "Administrative & Judiciary Structure"
       }
     ]
   },
@@ -313,7 +358,7 @@ window.subjectsIndex = [
     "icon": "fa-desktop",
     "slug": "computer",
     "topicCount": 16,
-    "mcqCount": 550,
+    "mcqCount": 8550,
     "subcategories": [
       {
         "category": "Basic Computer Knowledge"
@@ -370,7 +415,7 @@ window.subjectsIndex = [
     "icon": "fa-landmark",
     "slug": "pakistan-affairs",
     "topicCount": 13,
-    "mcqCount": 420,
+    "mcqCount": 6918,
     "subcategories": [
       {
         "category": "Current & Post-1947"
@@ -417,56 +462,26 @@ window.subjectsIndex = [
     "name": "Current Affairs",
     "icon": "fa-newspaper",
     "slug": "current-affairs",
-    "topicCount": 16,
-    "mcqCount": 494,
+    "topicCount": 6,
+    "mcqCount": 3375,
     "subcategories": [
       {
-        "category": "Daily Current Affairs"
-      },
-      {
-        "category": "Monthly Current Affairs"
-      },
-      {
-        "category": "International Affairs"
-      },
-      {
         "category": "Pakistan Current Affairs"
-      },
-      {
-        "category": "National Current Affairs"
       },
       {
         "category": "International Current Affairs"
       },
       {
-        "category": "Pakistan Politics"
+        "category": "Economy & Financial Updates"
       },
       {
-        "category": "Global Politics"
+        "category": "International Organizations & Summits"
       },
       {
-        "category": "Economy & Finance"
+        "category": "Science, Space & Tech Updates"
       },
       {
-        "category": "Defense & Security"
-      },
-      {
-        "category": "International Organizations"
-      },
-      {
-        "category": "Environment & Climate"
-      },
-      {
-        "category": "Science & Technology Updates"
-      },
-      {
-        "category": "Health & Medicine"
-      },
-      {
-        "category": "Education & Human Development"
-      },
-      {
-        "category": "Important Events, Summits & Social Trends"
+        "category": "Sports, Awards & Famous Personalities"
       }
     ]
   },
@@ -1904,6 +1919,330 @@ window.subjectsIndex = [
       },
       {
         "category": "Real-time & Embedded Systems"
+      }
+    ]
+  },
+  {
+    "name": "Political Science",
+    "icon": "fa-building-columns",
+    "slug": "political-science",
+    "topicCount": 10,
+    "mcqCount": 3000,
+    "subcategories": [
+      {
+        "category": "Political Theory & Philosophers"
+      },
+      {
+        "category": "State & Sovereignty"
+      },
+      {
+        "category": "Government Systems"
+      },
+      {
+        "category": "Constitutions of Major Powers"
+      },
+      {
+        "category": "Political History & Constitution of Pakistan"
+      },
+      {
+        "category": "International Relations & Foreign Policy"
+      },
+      {
+        "category": "Comparative & Development Politics"
+      },
+      {
+        "category": "Public Opinion, Parties & Pressure Groups"
+      },
+      {
+        "category": "Local Government Systems"
+      },
+      {
+        "category": "Public Administration & Governance"
+      }
+    ]
+  },
+  {
+    "name": "Economics",
+    "icon": "fa-coins",
+    "slug": "economics",
+    "topicCount": 10,
+    "mcqCount": 3000,
+    "subcategories": [
+      {
+        "category": "Introduction to Economics & Basic Concepts"
+      },
+      {
+        "category": "Microeconomics - Demand & Supply"
+      },
+      {
+        "category": "Microeconomics - Consumer & Producer Behavior"
+      },
+      {
+        "category": "Macroeconomics - National Income & Output"
+      },
+      {
+        "category": "Macroeconomics - Inflation, Unemployment & Policies"
+      },
+      {
+        "category": "Public Finance & Taxation"
+      },
+      {
+        "category": "International Economics & Trade"
+      },
+      {
+        "category": "Development Economics"
+      },
+      {
+        "category": "Economy of Pakistan"
+      },
+      {
+        "category": "Islamic Economic System"
+      }
+    ]
+  },
+  {
+    "name": "Criminology",
+    "icon": "fa-user-secret",
+    "slug": "criminology",
+    "topicCount": 10,
+    "mcqCount": 5002,
+    "subcategories": [
+      {
+        "category": "Introduction to Criminology & Crime Concepts"
+      },
+      {
+        "category": "Schools of Criminological Thought"
+      },
+      {
+        "category": "Biological & Psychological Theories of Crime"
+      },
+      {
+        "category": "Sociological Theories of Crime"
+      },
+      {
+        "category": "Types of Crime & Criminals"
+      },
+      {
+        "category": "Juvenile Delinquency"
+      },
+      {
+        "category": "Criminal Justice System"
+      },
+      {
+        "category": "Penology & Prison Reforms"
+      },
+      {
+        "category": "Criminal Investigation & Forensics"
+      },
+      {
+        "category": "Crime Prevention & Control"
+      }
+    ]
+  },
+  {
+    "name": "Public Administration",
+    "icon": "fa-tasks",
+    "slug": "public-administration",
+    "topicCount": 10,
+    "mcqCount": 5000,
+    "subcategories": [
+      {
+        "category": "Introduction & Evolution of Public Administration"
+      },
+      {
+        "category": "Administrative & Organizational Theories"
+      },
+      {
+        "category": "Personnel Administration & HR Management"
+      },
+      {
+        "category": "Financial Administration & Budgeting"
+      },
+      {
+        "category": "Public Policy Formulation & Implementation"
+      },
+      {
+        "category": "Administrative Law & Judicial Control"
+      },
+      {
+        "category": "Governance & Development Administration"
+      },
+      {
+        "category": "Accountability & Anti-Corruption Mechanisms"
+      },
+      {
+        "category": "E-Governance & Digital Administration"
+      },
+      {
+        "category": "Comparative Public Administration"
+      }
+    ]
+  },
+  {
+    "name": "Environmental Science",
+    "icon": "fa-seedling",
+    "slug": "environmental-science",
+    "topicCount": 10,
+    "mcqCount": 5000,
+    "subcategories": [
+      {
+        "category": "Introduction to Environmental Science & Ecosystems"
+      },
+      {
+        "category": "Atmosphere, Climate Change & Global Warming"
+      },
+      {
+        "category": "Environmental Pollution & Control"
+      },
+      {
+        "category": "Natural Resources & Energy Conservation"
+      },
+      {
+        "category": "Biodiversity & Wildlife Conservation"
+      },
+      {
+        "category": "Waste Management & Recycling"
+      },
+      {
+        "category": "Environmental Impact Assessment (EIA)"
+      },
+      {
+        "category": "Sustainable Development Goals (SDGs)"
+      },
+      {
+        "category": "Environmental Disasters & Management"
+      },
+      {
+        "category": "Environmental Laws, Treaties & Policies"
+      }
+    ]
+  },
+  {
+    "name": "Gender Studies",
+    "icon": "fa-venus-mars",
+    "slug": "gender-studies",
+    "topicCount": 10,
+    "mcqCount": 5000,
+    "subcategories": [
+      {
+        "category": "Introduction to Gender Studies & Basic Concepts"
+      },
+      {
+        "category": "Feminism & Feminist Movements"
+      },
+      {
+        "category": "Gender and Development (GAD) Models"
+      },
+      {
+        "category": "Gender & Education"
+      },
+      {
+        "category": "Gender, Work & Economy"
+      },
+      {
+        "category": "Gender-Based Violence (GBV)"
+      },
+      {
+        "category": "Gender & Politics"
+      },
+      {
+        "category": "Gender & Health"
+      },
+      {
+        "category": "Gender representation in Media & Literature"
+      },
+      {
+        "category": "Gender & Legal Rights in Pakistan"
+      }
+    ]
+  },
+  {
+    "name": "Analytical & Logical Reasoning",
+    "icon": "fa-brain",
+    "slug": "analytical-reasoning",
+    "topicCount": 12,
+    "mcqCount": 4800,
+    "subcategories": [
+      {
+        "category": "Analytical Reasoning - Linear Ordering"
+      },
+      {
+        "category": "Analytical Reasoning - Grouping & Selection"
+      },
+      {
+        "category": "Analytical Reasoning - Sequencing & Scheduling"
+      },
+      {
+        "category": "Verbal Reasoning - Analogy & Classification"
+      },
+      {
+        "category": "Logical Deduction - Syllogisms"
+      },
+      {
+        "category": "Logical Games & Grid Puzzles"
+      },
+      {
+        "category": "Statement & Assumptions / Arguments"
+      },
+      {
+        "category": "Coding-Decoding & Series Completion"
+      },
+      {
+        "category": "Blood Relations & Family Trees"
+      },
+      {
+        "category": "Direction Sense & Spatial Awareness"
+      },
+      {
+        "category": "Cause and Effect & Course of Action"
+      },
+      {
+        "category": "Data Sufficiency"
+      }
+    ]
+  },
+  {
+    "name": "Journalism & Mass Communication",
+    "icon": "fa-newspaper",
+    "slug": "journalism-mass-communication",
+    "topicCount": 12,
+    "mcqCount": 4800,
+    "subcategories": [
+      {
+        "category": "Introduction to Mass Communication & Theories"
+      },
+      {
+        "category": "History of Journalism & Press in Subcontinent"
+      },
+      {
+        "category": "News Writing & Reporting Techniques"
+      },
+      {
+        "category": "Sub-Editing, Copy-editing & Page Makeup"
+      },
+      {
+        "category": "Radio & Television Broadcasting"
+      },
+      {
+        "category": "Media Ethics, Laws & Censorship in Pakistan"
+      },
+      {
+        "category": "Public Relations (PR) & Corporate Communication"
+      },
+      {
+        "category": "Advertising & Consumer Psychology"
+      },
+      {
+        "category": "Digital Journalism & Social Media"
+      },
+      {
+        "category": "Development Communication & Advocacy"
+      },
+      {
+        "category": "Investigative & Opinion Journalism"
+      },
+      {
+        "category": "Photojournalism & Visual Communication"
       }
     ]
   }
