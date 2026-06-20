@@ -591,8 +591,8 @@ window.subjectsIndex = [
     "name": "Zoology",
     "icon": "fa-hippo",
     "slug": "zoology",
-    "topicCount": 12,
-    "mcqCount": 3100,
+    "topicCount": 20,
+    "mcqCount": 12000,
     "subcategories": [
       {
         "category": "Zoology (حیاتیات - جانوروں کا علم)"
@@ -629,6 +629,30 @@ window.subjectsIndex = [
       },
       {
         "category": "Zoogeography (دنیا میں تقسیم)"
+      },
+      {
+        "category": "Entomology (حشرات کا علم - حشریات)"
+      },
+      {
+        "category": "Ornithology & Mammalogy (پرندوں اور ممالیہ کا علم)"
+      },
+      {
+        "category": "Ichthyology & Herpetology (مچھلیوں اور رینگنے والے جانوروں کا علم)"
+      },
+      {
+        "category": "Animal Biotechnology & Transgenics (جانوروں کی بایوٹیکنالوجی)"
+      },
+      {
+        "category": "Endocrinology & Neurobiology (ہارمونز اور اعصابی نظام)"
+      },
+      {
+        "category": "Paleozoology & Extinctions (قدیم جانور اور فوسلز)"
+      },
+      {
+        "category": "Marine Zoology & Deep-Sea Life (سمندری حیاتیات)"
+      },
+      {
+        "category": "Vector Biology & Zoonotic Diseases (طفیلی ناقل اور وبائی امراض)"
       }
     ]
   },
