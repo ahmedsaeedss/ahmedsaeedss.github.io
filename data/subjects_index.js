@@ -729,8 +729,8 @@ window.subjectsIndex = [
     "name": "Physics",
     "icon": "fa-atom",
     "slug": "physics",
-    "topicCount": 11,
-    "mcqCount": 2829,
+    "topicCount": 20,
+    "mcqCount": 14829,
     "subcategories": [
       {
         "category": "Measurements & Units (پیمائش اور اکائیاں)"
@@ -764,6 +764,33 @@ window.subjectsIndex = [
       },
       {
         "category": "Astrophysics & Space Science (خلائی علم)"
+      },
+      {
+        "category": "Quantum Mechanics (کوانٹم مکینکس)"
+      },
+      {
+        "category": "Relativity & Gravity (nظریہ اضافیت اور کشش ثقل)"
+      },
+      {
+        "category": "Laser Physics & Photonics (لیزر فزکس اور فوٹونکس)"
+      },
+      {
+        "category": "Solid State Physics & Superconductors (ٹھوس حالت کی طبیعیات اور سپر کنڈکٹرز)"
+      },
+      {
+        "category": "Medical Physics & Biophysics (طبی فزکس اور حیاتیاتی طبیعیات)"
+      },
+      {
+        "category": "Geophysics & Meteorology (جیو فزکس اور موسمیات)"
+      },
+      {
+        "category": "Plasma Physics & Fusion Energy (پلازما فزکس اور فیوژن توانائی)"
+      },
+      {
+        "category": "Particle Physics & Cosmology (ذراتی طبیعیات اور کائناتی طبیعیات)"
+      },
+      {
+        "category": "Renewable Energy Physics (تجدید پذیر توانائی کی طبیعیات)"
       }
     ]
   },
