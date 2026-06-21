@@ -1197,8 +1197,8 @@ window.subjectsIndex = [
     "name": "Marketing",
     "icon": "fa-chart-line",
     "slug": "marketing",
-    "topicCount": 12,
-    "mcqCount": 2230,
+    "topicCount": 20,
+    "mcqCount": 12230,
     "subcategories": [
       {
         "category": "Digital Marketing"
@@ -1235,6 +1235,30 @@ window.subjectsIndex = [
       },
       {
         "category": "Strategic Marketing"
+      },
+      {
+        "category": "Search Engine Optimization (SEO) & SEM"
+      },
+      {
+        "category": "Content Marketing & Copywriting"
+      },
+      {
+        "category": "E-commerce Marketing & Social Commerce"
+      },
+      {
+        "category": "Influencer & Affiliate Marketing"
+      },
+      {
+        "category": "Marketing Analytics & Big Data"
+      },
+      {
+        "category": "Mobile & App Marketing"
+      },
+      {
+        "category": "Customer Relationship Management (CRM) & Loyalty"
+      },
+      {
+        "category": "Neuro-marketing & Behavioral Economics"
       }
     ]
   },
