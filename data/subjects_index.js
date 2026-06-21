@@ -1473,53 +1473,68 @@ window.subjectsIndex = [
     "name": "Sociology",
     "icon": "fa-users",
     "slug": "sociology",
-    "topicCount": 15,
-    "mcqCount": 478,
+    "topicCount": 20,
+    "mcqCount": 12640,
     "subcategories": [
       {
-        "category": "Introduction to Sociology"
+        "category": "Introduction to Sociology (عمرانیات کا تعارف)"
       },
       {
-        "category": "Sociological Theories"
+        "category": "Sociological Theories (عمرانیاتی نظریات)"
       },
       {
-        "category": "Social Research Methods"
+        "category": "Social Research Methods (سماجی تحقیق کے طریقے)"
       },
       {
-        "category": "Culture and Socialization"
+        "category": "Culture and Socialization (ثقافت اور سماجی تربیت)"
       },
       {
-        "category": "Social Institutions"
+        "category": "Social Institutions (سماجی ادارے)"
       },
       {
-        "category": "Social Stratification & Mobility"
+        "category": "Social Stratification & Mobility (سماجی طبقہ بندی اور نقل پذیری)"
       },
       {
-        "category": "Social Change & Development"
+        "category": "Social Change & Development (سماجی تبدیلی اور ترقی)"
       },
       {
-        "category": "Social Problems"
+        "category": "Social Problems (سماجی مسائل)"
       },
       {
-        "category": "Urban Sociology"
+        "category": "Urban Sociology (شہری عمرانیات)"
       },
       {
-        "category": "Rural Sociology"
+        "category": "Rural Sociology (دیہی عمرانیات)"
       },
       {
-        "category": "Gender Studies"
+        "category": "Gender Studies (صنفی مطالعہ)"
       },
       {
-        "category": "Globalization and Society"
+        "category": "Globalization and Society (عالمگیریت اور معاشرہ)"
       },
       {
-        "category": "Social Psychology"
+        "category": "Social Psychology (سماجی نفسیات)"
       },
       {
-        "category": "Deviance and Crime"
+        "category": "Deviance and Crime (انحراف اور جرم)"
       },
       {
-        "category": "Demography"
+        "category": "Demography (سکانیا / علمِ آبادیات)"
+      },
+      {
+        "category": "Sociology of Media & Digital Communication (سوشل میڈیا اور ڈیجیٹل مواصلات کی عمرانیات)"
+      },
+      {
+        "category": "Environmental Sociology (ماحولیاتی عمرانیات)"
+      },
+      {
+        "category": "Sociology of Health, Illness & Medicine (طبی عمرانیات)"
+      },
+      {
+        "category": "Political Sociology & Social Movements (سیاسی عمرانیات اور سماجی تحریکیں)"
+      },
+      {
+        "category": "Sociology of Religion & Belief Systems (مذاہب اور عقائد کی عمرانیات)"
       }
     ]
   },
