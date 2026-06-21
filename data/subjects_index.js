@@ -1404,53 +1404,68 @@ window.subjectsIndex = [
     "name": "Agriculture",
     "icon": "fa-seedling",
     "slug": "agriculture",
-    "topicCount": 15,
-    "mcqCount": 480,
+    "topicCount": 20,
+    "mcqCount": 12640,
     "subcategories": [
       {
-        "category": "Agronomy"
+        "category": "Agronomy (زرعی سائنس)"
       },
       {
-        "category": "Soil Science"
+        "category": "Soil Science (علمِ مٹی / مٹی کی سائنس)"
       },
       {
-        "category": "Horticulture"
+        "category": "Horticulture (باغبانی)"
       },
       {
-        "category": "Plant Pathology"
+        "category": "Plant Pathology (پودوں کی بیماریاں)"
       },
       {
-        "category": "Entomology"
+        "category": "Entomology (حشرات کا علم)"
       },
       {
-        "category": "Agricultural Extension"
+        "category": "Agricultural Extension (زرعی توسیعی خدمات)"
       },
       {
-        "category": "Agricultural Economics"
+        "category": "Agricultural Economics (زرعی معیشت)"
       },
       {
-        "category": "Genetics and Plant Breeding"
+        "category": "Genetics and Plant Breeding (جینیات اور پودوں کی افزائش)"
       },
       {
-        "category": "Agricultural Engineering"
+        "category": "Agricultural Engineering (زرعی انجینئرنگ)"
       },
       {
-        "category": "Animal Husbandry & Dairy Science"
+        "category": "Animal Husbandry & Dairy Science (مالداری اور ڈیری سائنس)"
       },
       {
-        "category": "Forestry"
+        "category": "Forestry (جنگلات کا علم)"
       },
       {
-        "category": "Fisheries"
+        "category": "Fisheries (ماہی پروری)"
       },
       {
-        "category": "Seed Science"
+        "category": "Seed Science (بیجوں کی سائنس)"
       },
       {
-        "category": "Weed Science"
+        "category": "Weed Science (جڑی بوٹیوں کی سائنس)"
       },
       {
-        "category": "Environmental Science in Agriculture"
+        "category": "Environmental Science in Agriculture (زراعت میں ماحولیاتی سائنس)"
+      },
+      {
+        "category": "Precision Agriculture & Smart Farming (جدید اور سمارٹ زراعت)"
+      },
+      {
+        "category": "Organic Farming & Sustainable Agriculture (نامیاتی اور پائیدار زراعت)"
+      },
+      {
+        "category": "Agro-Meteorology & Climate Change (زرعی موسمیات اور موسمیاتی تبدیلی)"
+      },
+      {
+        "category": "Post-Harvest Technology & Food Preservation (فصل کٹائی کے بعد کی ٹیکنالوجی اور تحفظِ خوراک)"
+      },
+      {
+        "category": "Agricultural Biotechnology & GMOs (زرعی بائیو ٹیکنالوجی)"
       }
     ]
   },
