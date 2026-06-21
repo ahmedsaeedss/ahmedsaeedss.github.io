@@ -660,8 +660,8 @@ window.subjectsIndex = [
     "name": "Chemistry",
     "icon": "fa-vial",
     "slug": "chemistry",
-    "topicCount": 13,
-    "mcqCount": 1179,
+    "topicCount": 20,
+    "mcqCount": 12000,
     "subcategories": [
       {
         "category": "Physical Chemistry (طبیعی کیمیا)"
@@ -691,16 +691,37 @@ window.subjectsIndex = [
         "category": "Medicinal Chemistry (ادویاتی کیمیا)"
       },
       {
-        "category": "States of Matter"
+        "category": "States of Matter (مادے کی حالتیں)"
       },
       {
-        "category": "Stoichiometry & Basic Concepts"
+        "category": "Stoichiometry & Basic Concepts (اسٹوکیومیٹری اور بنیادی تصورات)"
       },
       {
-        "category": "Electrochemistry & Redox Reactions"
+        "category": "Electrochemistry & Redox Reactions (برقی کیمیا)"
       },
       {
-        "category": "Thermochemistry & Thermodynamics"
+        "category": "Thermochemistry & Thermodynamics (حرکیاتی کیمیا)"
+      },
+      {
+        "category": "Green & Sustainable Chemistry (گرین اور پائیدار کیمیا)"
+      },
+      {
+        "category": "Nanochemistry & Materials Science (نینو کیمیا اور مٹیریلز سائنس)"
+      },
+      {
+        "category": "Computational & Quantum Chemistry (کمپیوٹیشنل اور کوانٹم کیمیا)"
+      },
+      {
+        "category": "Spectroscopy & Characterization (سپیکٹروسکوپی اور تجزیاتی طریقے)"
+      },
+      {
+        "category": "Food & Agricultural Chemistry (خوراک اور زرعی کیمسٹری)"
+      },
+      {
+        "category": "Surface Chemistry, Colloids & Catalysis (سطحی کیمیا اور کیٹالیسس)"
+      },
+      {
+        "category": "Forensic Chemistry & Chemical Toxicology (فارنزک کیمسٹری اور ٹاکسیکولوجی)"
       }
     ]
   },
