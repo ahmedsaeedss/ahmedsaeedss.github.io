@@ -4,7 +4,7 @@ window.subjectsIndex = [
     "icon": "fa-mosque",
     "slug": "islamic-studies",
     "topicCount": 25,
-    "mcqCount": 14037,
+    "mcqCount": 13984,
     "subcategories": [
       {
         "category": "Al-Quran"
@@ -145,7 +145,7 @@ window.subjectsIndex = [
     "icon": "fa-calculator",
     "slug": "mathematics",
     "topicCount": 10,
-    "mcqCount": 6899,
+    "mcqCount": 6870,
     "subcategories": [
       {
         "category": "Arithmetic"
@@ -490,7 +490,7 @@ window.subjectsIndex = [
     "icon": "fa-flask",
     "slug": "everyday-science",
     "topicCount": 6,
-    "mcqCount": 1757,
+    "mcqCount": 4624,
     "subcategories": [
       {
         "category": "Human Anatomy & Physiology (انسانی جسم کے افعال)"
@@ -517,7 +517,7 @@ window.subjectsIndex = [
     "icon": "fa-leaf",
     "slug": "botany",
     "topicCount": 22,
-    "mcqCount": 9100,
+    "mcqCount": 13200,
     "subcategories": [
       {
         "category": "Botany (نباتیات - پودوں کا علم)"
@@ -591,8 +591,8 @@ window.subjectsIndex = [
     "name": "Zoology",
     "icon": "fa-hippo",
     "slug": "zoology",
-    "topicCount": 12,
-    "mcqCount": 3100,
+    "topicCount": 20,
+    "mcqCount": 11879,
     "subcategories": [
       {
         "category": "Zoology (حیاتیات - جانوروں کا علم)"
@@ -629,6 +629,30 @@ window.subjectsIndex = [
       },
       {
         "category": "Zoogeography (دنیا میں تقسیم)"
+      },
+      {
+        "category": "Entomology (حشرات کا علم - حشریات)"
+      },
+      {
+        "category": "Ornithology & Mammalogy (پرندوں اور ممالیہ کا علم)"
+      },
+      {
+        "category": "Ichthyology & Herpetology (مچھلیوں اور رینگنے والے جانوروں کا علم)"
+      },
+      {
+        "category": "Animal Biotechnology & Transgenics (جانوروں کی بایوٹیکنالوجی)"
+      },
+      {
+        "category": "Endocrinology & Neurobiology (ہارمونز اور اعصابی نظام)"
+      },
+      {
+        "category": "Paleozoology & Extinctions (قدیم جانور اور فوسلز)"
+      },
+      {
+        "category": "Marine Zoology & Deep-Sea Life (سمندری حیاتیات)"
+      },
+      {
+        "category": "Vector Biology & Zoonotic Diseases (طفیلی ناقل اور وبائی امراض)"
       }
     ]
   },
@@ -636,8 +660,8 @@ window.subjectsIndex = [
     "name": "Chemistry",
     "icon": "fa-vial",
     "slug": "chemistry",
-    "topicCount": 13,
-    "mcqCount": 1179,
+    "topicCount": 20,
+    "mcqCount": 11834,
     "subcategories": [
       {
         "category": "Physical Chemistry (طبیعی کیمیا)"
@@ -667,16 +691,37 @@ window.subjectsIndex = [
         "category": "Medicinal Chemistry (ادویاتی کیمیا)"
       },
       {
-        "category": "States of Matter"
+        "category": "States of Matter (مادے کی حالتیں)"
       },
       {
-        "category": "Stoichiometry & Basic Concepts"
+        "category": "Stoichiometry & Basic Concepts (اسٹوکیومیٹری اور بنیادی تصورات)"
       },
       {
-        "category": "Electrochemistry & Redox Reactions"
+        "category": "Electrochemistry & Redox Reactions (برقی کیمیا)"
       },
       {
-        "category": "Thermochemistry & Thermodynamics"
+        "category": "Thermochemistry & Thermodynamics (حرکیاتی کیمیا)"
+      },
+      {
+        "category": "Green & Sustainable Chemistry (گرین اور پائیدار کیمیا)"
+      },
+      {
+        "category": "Nanochemistry & Materials Science (نینو کیمیا اور مٹیریلز سائنس)"
+      },
+      {
+        "category": "Computational & Quantum Chemistry (کمپیوٹیشنل اور کوانٹم کیمیا)"
+      },
+      {
+        "category": "Spectroscopy & Characterization (سپیکٹروسکوپی اور تجزیاتی طریقے)"
+      },
+      {
+        "category": "Food & Agricultural Chemistry (خوراک اور زرعی کیمسٹری)"
+      },
+      {
+        "category": "Surface Chemistry, Colloids & Catalysis (سطحی کیمیا اور کیٹالیسس)"
+      },
+      {
+        "category": "Forensic Chemistry & Chemical Toxicology (فارنزک کیمسٹری اور ٹاکسیکولوجی)"
       }
     ]
   },
@@ -684,8 +729,8 @@ window.subjectsIndex = [
     "name": "Physics",
     "icon": "fa-atom",
     "slug": "physics",
-    "topicCount": 11,
-    "mcqCount": 2829,
+    "topicCount": 20,
+    "mcqCount": 14623,
     "subcategories": [
       {
         "category": "Measurements & Units (پیمائش اور اکائیاں)"
@@ -719,6 +764,33 @@ window.subjectsIndex = [
       },
       {
         "category": "Astrophysics & Space Science (خلائی علم)"
+      },
+      {
+        "category": "Quantum Mechanics (کوانٹم مکینکس)"
+      },
+      {
+        "category": "Relativity & Gravity (nظریہ اضافیت اور کشش ثقل)"
+      },
+      {
+        "category": "Laser Physics & Photonics (لیزر فزکس اور فوٹونکس)"
+      },
+      {
+        "category": "Solid State Physics & Superconductors (ٹھوس حالت کی طبیعیات اور سپر کنڈکٹرز)"
+      },
+      {
+        "category": "Medical Physics & Biophysics (طبی فزکس اور حیاتیاتی طبیعیات)"
+      },
+      {
+        "category": "Geophysics & Meteorology (جیو فزکس اور موسمیات)"
+      },
+      {
+        "category": "Plasma Physics & Fusion Energy (پلازما فزکس اور فیوژن توانائی)"
+      },
+      {
+        "category": "Particle Physics & Cosmology (ذراتی طبیعیات اور کائناتی طبیعیات)"
+      },
+      {
+        "category": "Renewable Energy Physics (تجدید پذیر توانائی کی طبیعیات)"
       }
     ]
   },
@@ -727,7 +799,7 @@ window.subjectsIndex = [
     "icon": "fa-file-lines",
     "slug": "past-papers",
     "topicCount": 15,
-    "mcqCount": 862,
+    "mcqCount": 533,
     "subcategories": [
       {
         "category": "General Past Papers",
@@ -1056,8 +1128,8 @@ window.subjectsIndex = [
     "name": "Finance",
     "icon": "fa-money-bill-trend-up",
     "slug": "finance",
-    "topicCount": 12,
-    "mcqCount": 6000,
+    "topicCount": 20,
+    "mcqCount": 15934,
     "subcategories": [
       {
         "category": "Corporate Finance"
@@ -1094,6 +1166,30 @@ window.subjectsIndex = [
       },
       {
         "category": "Financial Markets and Institutions"
+      },
+      {
+        "category": "FinTech & Digital Banking"
+      },
+      {
+        "category": "Cryptocurrencies & Blockchain Finance"
+      },
+      {
+        "category": "Sustainable Finance & ESG Investing"
+      },
+      {
+        "category": "Islamic Finance & Banking"
+      },
+      {
+        "category": "Financial Modeling & Valuation"
+      },
+      {
+        "category": "Quantitative Finance & Algorithmic Trading"
+      },
+      {
+        "category": "Microfinance & Financial Inclusion"
+      },
+      {
+        "category": "Mergers, Acquisitions & Corporate Restructuring"
       }
     ]
   },
@@ -1101,8 +1197,8 @@ window.subjectsIndex = [
     "name": "Marketing",
     "icon": "fa-chart-line",
     "slug": "marketing",
-    "topicCount": 12,
-    "mcqCount": 6000,
+    "topicCount": 20,
+    "mcqCount": 12230,
     "subcategories": [
       {
         "category": "Digital Marketing"
@@ -1139,6 +1235,30 @@ window.subjectsIndex = [
       },
       {
         "category": "Strategic Marketing"
+      },
+      {
+        "category": "Search Engine Optimization (SEO) & SEM"
+      },
+      {
+        "category": "Content Marketing & Copywriting"
+      },
+      {
+        "category": "E-commerce Marketing & Social Commerce"
+      },
+      {
+        "category": "Influencer & Affiliate Marketing"
+      },
+      {
+        "category": "Marketing Analytics & Big Data"
+      },
+      {
+        "category": "Mobile & App Marketing"
+      },
+      {
+        "category": "Customer Relationship Management (CRM) & Loyalty"
+      },
+      {
+        "category": "Neuro-marketing & Behavioral Economics"
       }
     ]
   },
@@ -1146,8 +1266,8 @@ window.subjectsIndex = [
     "name": "Human Resource Management",
     "icon": "fa-users-gear",
     "slug": "human-resource-management",
-    "topicCount": 12,
-    "mcqCount": 6000,
+    "topicCount": 20,
+    "mcqCount": 13444,
     "subcategories": [
       {
         "category": "Recruitment and Selection"
@@ -1184,6 +1304,30 @@ window.subjectsIndex = [
       },
       {
         "category": "Conflict Management"
+      },
+      {
+        "category": "Human Resource Planning (HRP) & Job Analysis"
+      },
+      {
+        "category": "Occupational Health, Safety & Employee Well-being"
+      },
+      {
+        "category": "International HRM & Cross-Cultural Management"
+      },
+      {
+        "category": "HR Information Systems (HRIS) & Digital HR"
+      },
+      {
+        "category": "Career Planning & Succession Management"
+      },
+      {
+        "category": "Human Resource Development (HRD) & Performance Management"
+      },
+      {
+        "category": "Change Management & Organizational Development"
+      },
+      {
+        "category": "HR Ethics, Compliance & Pakistani Labor Laws"
       }
     ]
   },
@@ -1191,8 +1335,8 @@ window.subjectsIndex = [
     "name": "Accounting",
     "icon": "fa-file-invoice-dollar",
     "slug": "accounting",
-    "topicCount": 12,
-    "mcqCount": 6114,
+    "topicCount": 20,
+    "mcqCount": 11474,
     "subcategories": [
       {
         "category": "Financial Accounting"
@@ -1229,6 +1373,30 @@ window.subjectsIndex = [
       },
       {
         "category": "Corporate Reporting"
+      },
+      {
+        "category": "Partnership & Joint Venture Accounting"
+      },
+      {
+        "category": "Financial Statement Analysis & Ratio Analysis"
+      },
+      {
+        "category": "Companies Act 2017 & Corporate Law"
+      },
+      {
+        "category": "Accounting Standards (IAS & IFRS)"
+      },
+      {
+        "category": "Government Accounting & PPRA Rules"
+      },
+      {
+        "category": "Auditing Standards & Internal Control Systems"
+      },
+      {
+        "category": "Islamic Accounting & Takaful"
+      },
+      {
+        "category": "Inflation & Human Resource Accounting"
       }
     ]
   },
@@ -1236,8 +1404,8 @@ window.subjectsIndex = [
     "name": "Auditing",
     "icon": "fa-clipboard-check",
     "slug": "auditing",
-    "topicCount": 13,
-    "mcqCount": 7240,
+    "topicCount": 20,
+    "mcqCount": 12397,
     "subcategories": [
       {
         "category": "Internal Audit"
@@ -1277,6 +1445,27 @@ window.subjectsIndex = [
       },
       {
         "category": "Cost Audit"
+      },
+      {
+        "category": "Audit Planning, Materiality & Risk Assessment"
+      },
+      {
+        "category": "Audit Evidence & Documentation"
+      },
+      {
+        "category": "Auditing Standards (ISAs)"
+      },
+      {
+        "category": "Internal Control Systems & COSO Framework"
+      },
+      {
+        "category": "Government Audit & Public Accounts Committee (PAC)"
+      },
+      {
+        "category": "Audit Reporting & Opinions"
+      },
+      {
+        "category": "Professional Ethics & Auditor Independence"
       }
     ]
   },
@@ -1285,7 +1474,7 @@ window.subjectsIndex = [
     "icon": "fa-chalkboard-user",
     "slug": "pedagogy",
     "topicCount": 13,
-    "mcqCount": 5126,
+    "mcqCount": 4838,
     "subcategories": [
       {
         "category": "Teaching Methods & Strategies"
@@ -1332,53 +1521,68 @@ window.subjectsIndex = [
     "name": "Agriculture",
     "icon": "fa-seedling",
     "slug": "agriculture",
-    "topicCount": 15,
-    "mcqCount": 480,
+    "topicCount": 20,
+    "mcqCount": 12429,
     "subcategories": [
       {
-        "category": "Agronomy"
+        "category": "Agronomy (زرعی سائنس)"
       },
       {
-        "category": "Soil Science"
+        "category": "Soil Science (علمِ مٹی / مٹی کی سائنس)"
       },
       {
-        "category": "Horticulture"
+        "category": "Horticulture (باغبانی)"
       },
       {
-        "category": "Plant Pathology"
+        "category": "Plant Pathology (پودوں کی بیماریاں)"
       },
       {
-        "category": "Entomology"
+        "category": "Entomology (حشرات کا علم)"
       },
       {
-        "category": "Agricultural Extension"
+        "category": "Agricultural Extension (زرعی توسیعی خدمات)"
       },
       {
-        "category": "Agricultural Economics"
+        "category": "Agricultural Economics (زرعی معیشت)"
       },
       {
-        "category": "Genetics and Plant Breeding"
+        "category": "Genetics and Plant Breeding (جینیات اور پودوں کی افزائش)"
       },
       {
-        "category": "Agricultural Engineering"
+        "category": "Agricultural Engineering (زرعی انجینئرنگ)"
       },
       {
-        "category": "Animal Husbandry & Dairy Science"
+        "category": "Animal Husbandry & Dairy Science (مالداری اور ڈیری سائنس)"
       },
       {
-        "category": "Forestry"
+        "category": "Forestry (جنگلات کا علم)"
       },
       {
-        "category": "Fisheries"
+        "category": "Fisheries (ماہی پروری)"
       },
       {
-        "category": "Seed Science"
+        "category": "Seed Science (بیجوں کی سائنس)"
       },
       {
-        "category": "Weed Science"
+        "category": "Weed Science (جڑی بوٹیوں کی سائنس)"
       },
       {
-        "category": "Environmental Science in Agriculture"
+        "category": "Environmental Science in Agriculture (زراعت میں ماحولیاتی سائنس)"
+      },
+      {
+        "category": "Precision Agriculture & Smart Farming (جدید اور سمارٹ زراعت)"
+      },
+      {
+        "category": "Organic Farming & Sustainable Agriculture (نامیاتی اور پائیدار زراعت)"
+      },
+      {
+        "category": "Agro-Meteorology & Climate Change (زرعی موسمیات اور موسمیاتی تبدیلی)"
+      },
+      {
+        "category": "Post-Harvest Technology & Food Preservation (فصل کٹائی کے بعد کی ٹیکنالوجی اور تحفظِ خوراک)"
+      },
+      {
+        "category": "Agricultural Biotechnology & GMOs (زرعی بائیو ٹیکنالوجی)"
       }
     ]
   },
@@ -1386,53 +1590,68 @@ window.subjectsIndex = [
     "name": "Sociology",
     "icon": "fa-users",
     "slug": "sociology",
-    "topicCount": 15,
-    "mcqCount": 478,
+    "topicCount": 20,
+    "mcqCount": 12640,
     "subcategories": [
       {
-        "category": "Introduction to Sociology"
+        "category": "Introduction to Sociology (عمرانیات کا تعارف)"
       },
       {
-        "category": "Sociological Theories"
+        "category": "Sociological Theories (عمرانیاتی نظریات)"
       },
       {
-        "category": "Social Research Methods"
+        "category": "Social Research Methods (سماجی تحقیق کے طریقے)"
       },
       {
-        "category": "Culture and Socialization"
+        "category": "Culture and Socialization (ثقافت اور سماجی تربیت)"
       },
       {
-        "category": "Social Institutions"
+        "category": "Social Institutions (سماجی ادارے)"
       },
       {
-        "category": "Social Stratification & Mobility"
+        "category": "Social Stratification & Mobility (سماجی طبقہ بندی اور نقل پذیری)"
       },
       {
-        "category": "Social Change & Development"
+        "category": "Social Change & Development (سماجی تبدیلی اور ترقی)"
       },
       {
-        "category": "Social Problems"
+        "category": "Social Problems (سماجی مسائل)"
       },
       {
-        "category": "Urban Sociology"
+        "category": "Urban Sociology (شہری عمرانیات)"
       },
       {
-        "category": "Rural Sociology"
+        "category": "Rural Sociology (دیہی عمرانیات)"
       },
       {
-        "category": "Gender Studies"
+        "category": "Gender Studies (صنفی مطالعہ)"
       },
       {
-        "category": "Globalization and Society"
+        "category": "Globalization and Society (عالمگیریت اور معاشرہ)"
       },
       {
-        "category": "Social Psychology"
+        "category": "Social Psychology (سماجی نفسیات)"
       },
       {
-        "category": "Deviance and Crime"
+        "category": "Deviance and Crime (انحراف اور جرم)"
       },
       {
-        "category": "Demography"
+        "category": "Demography (سکانیا / علمِ آبادیات)"
+      },
+      {
+        "category": "Sociology of Media & Digital Communication (سوشل میڈیا اور ڈیجیٹل مواصلات کی عمرانیات)"
+      },
+      {
+        "category": "Environmental Sociology (ماحولیاتی عمرانیات)"
+      },
+      {
+        "category": "Sociology of Health, Illness & Medicine (طبی عمرانیات)"
+      },
+      {
+        "category": "Political Sociology & Social Movements (سیاسی عمرانیات اور سماجی تحریکیں)"
+      },
+      {
+        "category": "Sociology of Religion & Belief Systems (مذاہب اور عقائد کی عمرانیات)"
       }
     ]
   },
@@ -1441,7 +1660,7 @@ window.subjectsIndex = [
     "icon": "fa-gavel",
     "slug": "judiciary-and-law",
     "topicCount": 15,
-    "mcqCount": 477,
+    "mcqCount": 476,
     "subcategories": [
       {
         "category": "Civil Procedure Code (CPC)"
@@ -1495,7 +1714,7 @@ window.subjectsIndex = [
     "icon": "fa-scale-balanced",
     "slug": "international-laws",
     "topicCount": 15,
-    "mcqCount": 478,
+    "mcqCount": 476,
     "subcategories": [
       {
         "category": "Nature and Sources of Law"
@@ -1603,7 +1822,7 @@ window.subjectsIndex = [
     "icon": "fa-chart-bar",
     "slug": "stats",
     "topicCount": 15,
-    "mcqCount": 480,
+    "mcqCount": 478,
     "subcategories": [
       {
         "category": "Introduction and Data Collection"
@@ -1927,7 +2146,7 @@ window.subjectsIndex = [
     "icon": "fa-building-columns",
     "slug": "political-science",
     "topicCount": 10,
-    "mcqCount": 3000,
+    "mcqCount": 2956,
     "subcategories": [
       {
         "category": "Political Theory & Philosophers"
@@ -1966,7 +2185,7 @@ window.subjectsIndex = [
     "icon": "fa-coins",
     "slug": "economics",
     "topicCount": 10,
-    "mcqCount": 3000,
+    "mcqCount": 2865,
     "subcategories": [
       {
         "category": "Introduction to Economics & Basic Concepts"
@@ -2005,7 +2224,7 @@ window.subjectsIndex = [
     "icon": "fa-user-secret",
     "slug": "criminology",
     "topicCount": 10,
-    "mcqCount": 5002,
+    "mcqCount": 4854,
     "subcategories": [
       {
         "category": "Introduction to Criminology & Crime Concepts"
@@ -2044,7 +2263,7 @@ window.subjectsIndex = [
     "icon": "fa-tasks",
     "slug": "public-administration",
     "topicCount": 10,
-    "mcqCount": 5000,
+    "mcqCount": 4822,
     "subcategories": [
       {
         "category": "Introduction & Evolution of Public Administration"
@@ -2083,7 +2302,7 @@ window.subjectsIndex = [
     "icon": "fa-seedling",
     "slug": "environmental-science",
     "topicCount": 10,
-    "mcqCount": 5000,
+    "mcqCount": 4943,
     "subcategories": [
       {
         "category": "Introduction to Environmental Science & Ecosystems"
@@ -2122,7 +2341,7 @@ window.subjectsIndex = [
     "icon": "fa-venus-mars",
     "slug": "gender-studies",
     "topicCount": 10,
-    "mcqCount": 5000,
+    "mcqCount": 4958,
     "subcategories": [
       {
         "category": "Introduction to Gender Studies & Basic Concepts"
@@ -2161,7 +2380,7 @@ window.subjectsIndex = [
     "icon": "fa-brain",
     "slug": "analytical-reasoning",
     "topicCount": 12,
-    "mcqCount": 4800,
+    "mcqCount": 4744,
     "subcategories": [
       {
         "category": "Analytical Reasoning - Linear Ordering"
@@ -2206,7 +2425,7 @@ window.subjectsIndex = [
     "icon": "fa-newspaper",
     "slug": "journalism-mass-communication",
     "topicCount": 12,
-    "mcqCount": 4800,
+    "mcqCount": 4769,
     "subcategories": [
       {
         "category": "Introduction to Mass Communication & Theories"

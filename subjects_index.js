@@ -1404,8 +1404,8 @@ window.subjectsIndex = [
     "name": "Auditing",
     "icon": "fa-clipboard-check",
     "slug": "auditing",
-    "topicCount": 13,
-    "mcqCount": 4397,
+    "topicCount": 20,
+    "mcqCount": 12397,
     "subcategories": [
       {
         "category": "Internal Audit"
@@ -1445,6 +1445,27 @@ window.subjectsIndex = [
       },
       {
         "category": "Cost Audit"
+      },
+      {
+        "category": "Audit Planning, Materiality & Risk Assessment"
+      },
+      {
+        "category": "Audit Evidence & Documentation"
+      },
+      {
+        "category": "Auditing Standards (ISAs)"
+      },
+      {
+        "category": "Internal Control Systems & COSO Framework"
+      },
+      {
+        "category": "Government Audit & Public Accounts Committee (PAC)"
+      },
+      {
+        "category": "Audit Reporting & Opinions"
+      },
+      {
+        "category": "Professional Ethics & Auditor Independence"
       }
     ]
   },
