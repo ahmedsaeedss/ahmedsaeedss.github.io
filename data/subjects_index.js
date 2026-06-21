@@ -1335,8 +1335,8 @@ window.subjectsIndex = [
     "name": "Accounting",
     "icon": "fa-file-invoice-dollar",
     "slug": "accounting",
-    "topicCount": 12,
-    "mcqCount": 3474,
+    "topicCount": 20,
+    "mcqCount": 11474,
     "subcategories": [
       {
         "category": "Financial Accounting"
@@ -1373,6 +1373,30 @@ window.subjectsIndex = [
       },
       {
         "category": "Corporate Reporting"
+      },
+      {
+        "category": "Partnership & Joint Venture Accounting"
+      },
+      {
+        "category": "Financial Statement Analysis & Ratio Analysis"
+      },
+      {
+        "category": "Companies Act 2017 & Corporate Law"
+      },
+      {
+        "category": "Accounting Standards (IAS & IFRS)"
+      },
+      {
+        "category": "Government Accounting & PPRA Rules"
+      },
+      {
+        "category": "Auditing Standards & Internal Control Systems"
+      },
+      {
+        "category": "Islamic Accounting & Takaful"
+      },
+      {
+        "category": "Inflation & Human Resource Accounting"
       }
     ]
   },
