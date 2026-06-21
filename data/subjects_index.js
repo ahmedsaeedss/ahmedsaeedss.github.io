@@ -1266,8 +1266,8 @@ window.subjectsIndex = [
     "name": "Human Resource Management",
     "icon": "fa-users-gear",
     "slug": "human-resource-management",
-    "topicCount": 12,
-    "mcqCount": 3444,
+    "topicCount": 20,
+    "mcqCount": 13444,
     "subcategories": [
       {
         "category": "Recruitment and Selection"
@@ -1304,6 +1304,30 @@ window.subjectsIndex = [
       },
       {
         "category": "Conflict Management"
+      },
+      {
+        "category": "Human Resource Planning (HRP) & Job Analysis"
+      },
+      {
+        "category": "Occupational Health, Safety & Employee Well-being"
+      },
+      {
+        "category": "International HRM & Cross-Cultural Management"
+      },
+      {
+        "category": "HR Information Systems (HRIS) & Digital HR"
+      },
+      {
+        "category": "Career Planning & Succession Management"
+      },
+      {
+        "category": "Human Resource Development (HRD) & Performance Management"
+      },
+      {
+        "category": "Change Management & Organizational Development"
+      },
+      {
+        "category": "HR Ethics, Compliance & Pakistani Labor Laws"
       }
     ]
   },
