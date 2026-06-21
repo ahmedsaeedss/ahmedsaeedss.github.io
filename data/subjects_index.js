@@ -1128,8 +1128,8 @@ window.subjectsIndex = [
     "name": "Finance",
     "icon": "fa-money-bill-trend-up",
     "slug": "finance",
-    "topicCount": 12,
-    "mcqCount": 3934,
+    "topicCount": 20,
+    "mcqCount": 15934,
     "subcategories": [
       {
         "category": "Corporate Finance"
@@ -1166,6 +1166,30 @@ window.subjectsIndex = [
       },
       {
         "category": "Financial Markets and Institutions"
+      },
+      {
+        "category": "FinTech & Digital Banking"
+      },
+      {
+        "category": "Cryptocurrencies & Blockchain Finance"
+      },
+      {
+        "category": "Sustainable Finance & ESG Investing"
+      },
+      {
+        "category": "Islamic Finance & Banking"
+      },
+      {
+        "category": "Financial Modeling & Valuation"
+      },
+      {
+        "category": "Quantitative Finance & Algorithmic Trading"
+      },
+      {
+        "category": "Microfinance & Financial Inclusion"
+      },
+      {
+        "category": "Mergers, Acquisitions & Corporate Restructuring"
       }
     ]
   },
