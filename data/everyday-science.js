@@ -293,7 +293,7 @@ window.QuizData_everyday_science = {
           "explanation": "Chlorophyll is essential for light absorption in photosynthesis."
         },
         {
-          "q": "Which of the following is a flightless bird?",
+          "q": "What is a flightless bird?",
           "options": [
             "Penguin",
             "Ostrich",
@@ -1613,7 +1613,7 @@ window.QuizData_everyday_science = {
           "explanation": "Endemic species are at high risk if their habitat is destroyed."
         },
         {
-          "q": "Which of the following is a major pollutant from leather tanneries?",
+          "q": "What is a major pollutant from leather tanneries?",
           "options": [
             "Common salt",
             "Lead",
@@ -1756,7 +1756,7 @@ window.QuizData_everyday_science = {
           "explanation": "Rivers feeding the sea were diverted for cotton farming."
         },
         {
-          "q": "Which of the following is a biodegradable pollutant?",
+          "q": "What is a biodegradable pollutant?",
           "options": [
             "Plastic",
             "DDT",
@@ -1789,7 +1789,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding tough bands of fibrous connective tissue connecting bone to bone at a joint for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the organ system responsible for breaking down food, absorbing nutrients, and eliminating solid waste?",
+          "q": "What applies to the organ system responsible for breaking down food, absorbing nutrients, and eliminating solid waste?",
           "options": [
             "Lymphatic system",
             "Digestive system (Gastrointestinal tract)",
@@ -1811,7 +1811,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding tough bands of fibrous connective tissue connecting muscle to bone for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the component of blood responsible for carrying oxygen, containing hemoglobin?",
+          "q": "What applies to the component of blood responsible for carrying oxygen, containing hemoglobin?",
           "options": [
             "White blood cells",
             "Platelets",
@@ -1866,7 +1866,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding an organ functioning both in the digestive system (enzymes) and endocrine system (insulin/glucagon) for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the lower, larger, and thicker-walled pumping chambers of the human heart?",
+          "q": "What applies to the lower, larger, and thicker-walled pumping chambers of the human heart?",
           "options": [
             "Nodes",
             "Septum",
@@ -1932,7 +1932,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the first section of the small intestine, receiving chyme from the stomach for Everyday Science."
         },
         {
-          "q": "Which of the following applies to an organ functioning both in the digestive system (enzymes) and endocrine system (insulin/glucagon)?",
+          "q": "What applies to an organ functioning both in the digestive system (enzymes) and endocrine system (insulin/glucagon)?",
           "options": [
             "Thyroid",
             "Liver",
@@ -1976,7 +1976,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the primary muscle of respiration separating the chest cavity from the abdomen for Everyday Science."
         },
         {
-          "q": "Which of the following applies to tiny air sacs in the lungs where the exchange of oxygen and carbon dioxide takes place?",
+          "q": "What applies to tiny air sacs in the lungs where the exchange of oxygen and carbon dioxide takes place?",
           "options": [
             "Bronchioles",
             "Bronchi",
@@ -1998,7 +1998,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the organ system responsible for breaking down food, absorbing nutrients, and eliminating solid waste for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the 'master gland' located at the base of the brain controlling many other endocrine glands?",
+          "q": "What applies to the 'master gland' located at the base of the brain controlling many other endocrine glands?",
           "options": [
             "Pineal gland",
             "Thyroid gland",
@@ -2020,7 +2020,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the 'master gland' located at the base of the brain controlling many other endocrine glands for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the organ system consisting of the brain, spinal cord, and peripheral nerves?",
+          "q": "What applies to the organ system consisting of the brain, spinal cord, and peripheral nerves?",
           "options": [
             "Endocrine system",
             "Skeletal system",
@@ -2042,7 +2042,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the muscular tube connecting the throat (pharynx) with the stomach for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the largest organ of the human body overall?",
+          "q": "What applies to the largest organ of the human body overall?",
           "options": [
             "Liver",
             "Lungs",
@@ -2075,7 +2075,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the main organs of the respiratory system providing oxygen to the blood for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the part of the brain located at the back, heavily involved in balance, coordination, and fine muscle control?",
+          "q": "What applies to the part of the brain located at the back, heavily involved in balance, coordination, and fine muscle control?",
           "options": [
             "Thalamus",
             "Cerebrum",
@@ -2372,7 +2372,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the flexible connective tissue found in joints, the rib cage, ears, and nose for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the organ exclusively dedicated to destroying old red blood cells and acts as a blood reservoir?",
+          "q": "What applies to the organ exclusively dedicated to destroying old red blood cells and acts as a blood reservoir?",
           "options": [
             "Spleen",
             "Kidney",
@@ -2383,7 +2383,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the organ exclusively dedicated to destroying old red blood cells and acts as a blood reservoir for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the basic structural and functional unit of the human body?",
+          "q": "What applies to the basic structural and functional unit of the human body?",
           "options": [
             "Organ",
             "Cell",
@@ -2405,7 +2405,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the organ system consisting of the brain, spinal cord, and peripheral nerves for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the central nervous system (CNS) is composed of?",
+          "q": "What applies to the central nervous system (CNS) is composed of?",
           "options": [
             "The autonomic nerves only",
             "All cranial nerves",
@@ -2427,7 +2427,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the component of blood crucial for fighting infections and immune response for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the main artery that carries oxygenated blood away from the heart to the rest of the body?",
+          "q": "What applies to the main artery that carries oxygenated blood away from the heart to the rest of the body?",
           "options": [
             "Carotid artery",
             "Vena cava",
@@ -2515,7 +2515,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the part of the digestive tract where the majority of digestion and nutrient absorption occurs for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the study of the structure of the human body?",
+          "q": "What applies to the study of the structure of the human body?",
           "options": [
             "Histology",
             "Physiology",
@@ -2537,7 +2537,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the main organs of the respiratory system providing oxygen to the blood for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the blood vessels that carry deoxygenated blood back to the heart?",
+          "q": "What applies to the blood vessels that carry deoxygenated blood back to the heart?",
           "options": [
             "Ventricles",
             "Arteries",
@@ -2592,7 +2592,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the organ system primarily responsible for gas exchange (inhaling oxygen, exhaling carbon dioxide) for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the bean-shaped organs primarily responsible for filtering waste out of the blood?",
+          "q": "What applies to the bean-shaped organs primarily responsible for filtering waste out of the blood?",
           "options": [
             "Kidneys",
             "Livers",
@@ -2636,7 +2636,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the component of blood crucial for fighting infections and immune response for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the upper chambers of the human heart?",
+          "q": "What applies to the upper chambers of the human heart?",
           "options": [
             "Aortas",
             "Atria",
@@ -2647,7 +2647,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the upper chambers of the human heart for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the gland in the neck regulating metabolism, energy, and growth?",
+          "q": "What applies to the gland in the neck regulating metabolism, energy, and growth?",
           "options": [
             "Pancreas",
             "Thymus",
@@ -2713,7 +2713,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the universal blood donor blood type (assuming Rh negative is ideal) for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the organ supporting the body, protecting internal organs, and storing calcium?",
+          "q": "What applies to the organ supporting the body, protecting internal organs, and storing calcium?",
           "options": [
             "Integumentary system",
             "Muscular system",
@@ -2724,7 +2724,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the organ supporting the body, protecting internal organs, and storing calcium for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the primary muscle of respiration separating the chest cavity from the abdomen?",
+          "q": "What applies to the primary muscle of respiration separating the chest cavity from the abdomen?",
           "options": [
             "Intercostals",
             "Rectus abdominis",
@@ -2911,7 +2911,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the central nervous system (CNS) is composed of for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the component of blood crucial for fighting infections and immune response?",
+          "q": "What applies to the component of blood crucial for fighting infections and immune response?",
           "options": [
             "White blood cells (Leukocytes)",
             "Plasma",
@@ -2933,7 +2933,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the organ system consisting of the brain, spinal cord, and peripheral nerves for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the liquid matrix of blood, primarily composed of water and dissolved proteins?",
+          "q": "What applies to the liquid matrix of blood, primarily composed of water and dissolved proteins?",
           "options": [
             "Lymph",
             "Plasma",
@@ -2966,7 +2966,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the main artery that carries oxygenated blood away from the heart to the rest of the body for Everyday Science."
         },
         {
-          "q": "Which of the following applies to tough bands of fibrous connective tissue connecting bone to bone at a joint?",
+          "q": "What applies to tough bands of fibrous connective tissue connecting bone to bone at a joint?",
           "options": [
             "Fascia",
             "Tendons",
@@ -3021,7 +3021,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding cell fragments in blood that play a vital role in blood clotting for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the outermost layer of the skin?",
+          "q": "What applies to the outermost layer of the skin?",
           "options": [
             "Epidermis",
             "Hypodermis",
@@ -3054,7 +3054,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the longest and strongest bone in the human body, located in the thigh for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the organ system responsible for pumping blood throughout the body?",
+          "q": "What applies to the organ system responsible for pumping blood throughout the body?",
           "options": [
             "Cardiovascular system",
             "Digestive system",
@@ -3076,7 +3076,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the longest internal organ in the human body for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the study of the functions and mechanisms of the human body?",
+          "q": "What applies to the study of the functions and mechanisms of the human body?",
           "options": [
             "Pathology",
             "Anatomy",
@@ -3098,7 +3098,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the largest part of the brain, responsible for voluntary actions, thought, and memory for Everyday Science."
         },
         {
-          "q": "Which of the following applies to tubes connecting the kidneys to the urinary bladder?",
+          "q": "What applies to tubes connecting the kidneys to the urinary bladder?",
           "options": [
             "Fallopian tubes",
             "Vas deferens",
@@ -3109,7 +3109,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding tubes connecting the kidneys to the urinary bladder for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the first section of the small intestine, receiving chyme from the stomach?",
+          "q": "What applies to the first section of the small intestine, receiving chyme from the stomach?",
           "options": [
             "Ileum",
             "Duodenum",
@@ -3142,7 +3142,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the pigment in the skin providing color and protecting against UV radiation damage for Everyday Science."
         },
         {
-          "q": "Which of the following applies to cell fragments in blood that play a vital role in blood clotting?",
+          "q": "What applies to cell fragments in blood that play a vital role in blood clotting?",
           "options": [
             "Platelets (Thrombocytes)",
             "Plasma",
@@ -3175,7 +3175,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the organ system responsible for filtering blood, producing urine, and maintaining fluid balance for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the flexible connective tissue found in joints, the rib cage, ears, and nose?",
+          "q": "What applies to the flexible connective tissue found in joints, the rib cage, ears, and nose?",
           "options": [
             "Ligament",
             "Bone",
@@ -3219,7 +3219,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the component of blood crucial for fighting infections and immune response for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the largest internal organ, responsible for producing bile and detoxifying chemicals?",
+          "q": "What applies to the largest internal organ, responsible for producing bile and detoxifying chemicals?",
           "options": [
             "Liver",
             "Stomach",
@@ -3252,7 +3252,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding tough bands of fibrous connective tissue connecting bone to bone at a joint for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the largest part of the brain, responsible for voluntary actions, thought, and memory?",
+          "q": "What applies to the largest part of the brain, responsible for voluntary actions, thought, and memory?",
           "options": [
             "Cerebrum",
             "Hypothalamus",
@@ -3340,7 +3340,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the primary muscle of respiration separating the chest cavity from the abdomen for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the organ system responsible for filtering blood, producing urine, and maintaining fluid balance?",
+          "q": "What applies to the organ system responsible for filtering blood, producing urine, and maintaining fluid balance?",
           "options": [
             "Reproductive system",
             "Urinary system (Renal system)",
@@ -3395,7 +3395,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the microscopic structural and functional filtering unit of the kidney for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the universal blood donor blood type (assuming Rh negative is ideal)?",
+          "q": "What applies to the universal blood donor blood type (assuming Rh negative is ideal)?",
           "options": [
             "Type AB",
             "Type B",
@@ -3428,7 +3428,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the organ system responsible for filtering blood, producing urine, and maintaining fluid balance for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the universal blood recipient blood type (assuming Rh positive is ideal)?",
+          "q": "What applies to the universal blood recipient blood type (assuming Rh positive is ideal)?",
           "options": [
             "Type A",
             "Type B",
@@ -3538,7 +3538,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the largest organ of the human body overall for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the pigment in the skin providing color and protecting against UV radiation damage?",
+          "q": "What applies to the pigment in the skin providing color and protecting against UV radiation damage?",
           "options": [
             "Collagen",
             "Melanin",
@@ -3637,7 +3637,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the blood vessels that carry deoxygenated blood back to the heart for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the hollow, muscular organ that pumps blood through the circulatory system?",
+          "q": "What applies to the hollow, muscular organ that pumps blood through the circulatory system?",
           "options": [
             "Kidney",
             "Lung",
@@ -3725,7 +3725,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the main artery that carries oxygenated blood away from the heart to the rest of the body for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the part of the digestive tract where the majority of digestion and nutrient absorption occurs?",
+          "q": "What applies to the part of the digestive tract where the majority of digestion and nutrient absorption occurs?",
           "options": [
             "Large intestine",
             "Stomach",
@@ -3736,7 +3736,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the part of the digestive tract where the majority of digestion and nutrient absorption occurs for Everyday Science."
         },
         {
-          "q": "Which of the following applies to tough bands of fibrous connective tissue connecting muscle to bone?",
+          "q": "What applies to tough bands of fibrous connective tissue connecting muscle to bone?",
           "options": [
             "Cartilage",
             "Fascia",
@@ -3868,7 +3868,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the universal blood recipient blood type (assuming Rh positive is ideal) for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the longest and strongest bone in the human body, located in the thigh?",
+          "q": "What applies to the longest and strongest bone in the human body, located in the thigh?",
           "options": [
             "Fibula",
             "Humerus",
@@ -3923,7 +3923,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the small organ storing bile produced continuously by the liver for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the organ system primarily responsible for gas exchange (inhaling oxygen, exhaling carbon dioxide)?",
+          "q": "What applies to the organ system primarily responsible for gas exchange (inhaling oxygen, exhaling carbon dioxide)?",
           "options": [
             "Nervous system",
             "Respiratory system",
@@ -4066,7 +4066,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the upper chambers of the human heart for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the longest internal organ in the human body?",
+          "q": "What applies to the longest internal organ in the human body?",
           "options": [
             "Esophagus",
             "Aorta",
@@ -4132,7 +4132,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the tiny, thin-walled blood vessels where gas and nutrient exchange occurs for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the tiny, thin-walled blood vessels where gas and nutrient exchange occurs?",
+          "q": "What applies to the tiny, thin-walled blood vessels where gas and nutrient exchange occurs?",
           "options": [
             "Capillaries",
             "Venules",
@@ -4154,7 +4154,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the longest and strongest bone in the human body, located in the thigh for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the basic computational nerve cell transmitting electrical/chemical signals?",
+          "q": "What applies to the basic computational nerve cell transmitting electrical/chemical signals?",
           "options": [
             "Glial cell",
             "Nephron",
@@ -4176,7 +4176,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding tough bands of fibrous connective tissue connecting muscle to bone for Everyday Science."
         },
         {
-          "q": "Which of the following applies to glands located on top of the kidneys producing adrenaline and cortisol in response to stress?",
+          "q": "What applies to glands located on top of the kidneys producing adrenaline and cortisol in response to stress?",
           "options": [
             "Parathyroid glands",
             "Pituitary glands",
@@ -4198,7 +4198,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the outermost layer of the skin for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the muscular tube connecting the throat (pharynx) with the stomach?",
+          "q": "What applies to the muscular tube connecting the throat (pharynx) with the stomach?",
           "options": [
             "Trachea",
             "Esophagus",
@@ -4330,7 +4330,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the organ exclusively dedicated to destroying old red blood cells and acts as a blood reservoir for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the main organs of the respiratory system providing oxygen to the blood?",
+          "q": "What applies to the main organs of the respiratory system providing oxygen to the blood?",
           "options": [
             "Liver",
             "Lungs",
@@ -4374,7 +4374,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the system of ductless glands producing hormones to regulate metabolism, growth, and mood for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the small organ storing bile produced continuously by the liver?",
+          "q": "What applies to the small organ storing bile produced continuously by the liver?",
           "options": [
             "Pancreas",
             "Spleen",
@@ -4418,7 +4418,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding tubes connecting the kidneys to the urinary bladder for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the microscopic structural and functional filtering unit of the kidney?",
+          "q": "What applies to the microscopic structural and functional filtering unit of the kidney?",
           "options": [
             "Nephron",
             "Neuron",
@@ -4484,7 +4484,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding tiny air sacs in the lungs where the exchange of oxygen and carbon dioxide takes place for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the system of ductless glands producing hormones to regulate metabolism, growth, and mood?",
+          "q": "What applies to the system of ductless glands producing hormones to regulate metabolism, growth, and mood?",
           "options": [
             "Nervous system",
             "Endocrine system",
@@ -4550,7 +4550,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Pancreas'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Pepsin requires an acidic environment created by hydrochloric acid to function.\"?",
+          "q": "What describes the key fact or historical quote: \"Pepsin requires an acidic environment created by hydrochloric acid to function.\"?",
           "options": [
             "Ligaments",
             "Nephrons",
@@ -4583,7 +4583,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Adrenal Glands' is 'the glands sitting atop kidneys secreting adrenaline during stress'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Large Intestine'?",
+          "q": "Which is correct about the concept of 'Large Intestine'?",
           "options": [
             "It is defined as 'the colon segment absorbing water and preparing solid waste for disposal'.",
             "Its contrasting theme is 'immune response and body defense'.",
@@ -4605,7 +4605,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Nephrology Reference Manuals' contains documentation regarding 'renal filtration and waste excretion'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Ligaments'?",
+          "q": "Which is correct about the core idea of 'Ligaments'?",
           "options": [
             "It is defined as 'the fibrous connective tissues linking bone to bone at joint interfaces'.",
             "It is themed as 'renal filtration and waste excretion'.",
@@ -4682,7 +4682,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Large Intestine' is the direct contrast to 'Small Intestine'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Orthopedics'?",
+          "q": "What is situated within the study field of 'Orthopedics'?",
           "options": [
             "Cerebellum",
             "Cardiac Muscle",
@@ -4715,7 +4715,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Pepsin' is the contrast to 'Salivary Amylase'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The pituitary gland is located at the base of the brain, secreting growth hormone.\"?",
+          "q": "What describes the key fact or historical quote: \"The pituitary gland is located at the base of the brain, secreting growth hormone.\"?",
           "options": [
             "White Blood Cells",
             "Pituitary Gland",
@@ -4737,7 +4737,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Salivary Amylase'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Platelets'?",
+          "q": "What is a key description or fact regarding the concept of 'Platelets'?",
           "options": [
             "\"The liver metabolizes drugs and stores glycogen for emergency energy release.\"",
             "\"Platelets, or thrombocytes, gather at wound sites to form clots and prevent bleeding.\"",
@@ -4792,7 +4792,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Endocrinology System Manuals' is associated with 'Pituitary Gland'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Salivary amylase, also called ptyalin, begins chemical digestion in the mouth.\"?",
+          "q": "What describes the key fact or historical quote: \"Salivary amylase, also called ptyalin, begins chemical digestion in the mouth.\"?",
           "options": [
             "Thyroid Gland",
             "Femur",
@@ -4836,7 +4836,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Adrenal Gland' is the contrast to 'Pituitary Gland'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Adrenal Glands'?",
+          "q": "What is a key description or fact regarding the concept of 'Adrenal Glands'?",
           "options": [
             "\"Salivary amylase, also called ptyalin, begins chemical digestion in the mouth.\"",
             "\"The pituitary gland is located at the base of the brain, secreting growth hormone.\"",
@@ -4847,7 +4847,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Adrenal Glands' is: \"Adrenal glands release adrenaline, increasing heart rate and blood flow during fear.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Thyroid Gland'?",
+          "q": "What is a key description or fact regarding the concept of 'Thyroid Gland'?",
           "options": [
             "\"The femur, or thigh bone, supports the weight of the upper body during movement.\"",
             "\"The large intestine absorbs water and mineral salts, leaving solid feces.\"",
@@ -4935,7 +4935,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Stapes' is the contrast to 'Femur'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Dermatology'?",
+          "q": "What is situated within the study field of 'Dermatology'?",
           "options": [
             "Platelets",
             "Cerebrum",
@@ -4946,7 +4946,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Epidermis' falls under the discipline of 'Dermatology'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Blood Plasma'?",
+          "q": "What is a key description or fact regarding the concept of 'Blood Plasma'?",
           "options": [
             "\"Ligaments prevent joint dislocation by limiting abnormal bone movement.\"",
             "\"Plasma makes up about 55% of the total blood volume, composed mostly of water.\"",
@@ -5001,7 +5001,7 @@ window.QuizData_everyday_science = {
           "explanation": "'White Blood Cells' is the direct contrast to 'Red Blood Cells'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Red Blood Cells'?",
+          "q": "What is a key description or fact regarding the concept of 'Red Blood Cells'?",
           "options": [
             "\"The medulla oblongata regulates breathing, digestion, and cardiovascular activities.\"",
             "\"Red blood cells, also known as erythrocytes, have a lifespan of about 120 days.\"",
@@ -5023,7 +5023,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Cardiac Muscle' deals with the theme of 'involuntary muscle contraction and cardiac output'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'White Blood Cells'?",
+          "q": "Which is correct about the concept of 'White Blood Cells'?",
           "options": [
             "It belongs to the domain of 'Endocrinology'.",
             "It is documented in the manual 'Digestive Enzyme Catalogues'.",
@@ -5045,7 +5045,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Medulla Oblongata' is classified under the domain of 'Neurobiology'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Endocrinology System Manuals'?",
+          "q": "Which is correct about the book/guide 'Endocrinology System Manuals'?",
           "options": [
             "It is contrasted with 'Red Blood Cells'.",
             "It is written about 'Medulla Oblongata'.",
@@ -5078,7 +5078,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Platelets' is 'the cell fragments essential for blood clotting and wound healing'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Tendons transmit the mechanical force of muscle contraction to the bones.\"?",
+          "q": "What describes the key fact or historical quote: \"Tendons transmit the mechanical force of muscle contraction to the bones.\"?",
           "options": [
             "Tendons",
             "Thyroid Gland",
@@ -5100,7 +5100,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Pancreas' is the standard contrast to 'Adrenal Glands'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Large Intestine'?",
+          "q": "Which is correct about the core idea of 'Large Intestine'?",
           "options": [
             "It belongs to the field of 'Otology'.",
             "It is themed as 'cognitive processing and voluntary control'.",
@@ -5133,7 +5133,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hematology Reference Texts' is associated with 'Red Blood Cells'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Blood Plasma'?",
+          "q": "Which is correct about the core idea of 'Blood Plasma'?",
           "options": [
             "It is documented in 'Myology Resource Guides'.",
             "It belongs to the field of 'Orthopedics'.",
@@ -5232,7 +5232,7 @@ window.QuizData_everyday_science = {
           "explanation": "'integumentary barrier and skin cells' is a major theme inside 'Dermatology'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Alveoli'?",
+          "q": "Which is correct about the core idea of 'Alveoli'?",
           "options": [
             "It is documented in 'Neuroanatomy Reference Handbooks'.",
             "It belongs to the field of 'Cardiovascular Biology'.",
@@ -5353,7 +5353,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Neuroanatomy Reference Handbooks' is the manual associated with 'cognitive processing and voluntary control'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Pepsin'?",
+          "q": "Which is correct about the concept of 'Pepsin'?",
           "options": [
             "It is defined as 'the stomach enzyme breaking down dietary proteins into peptides'.",
             "Its contrasting theme is 'renal filtration and waste excretion'.",
@@ -5419,7 +5419,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Red Blood Cells' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Physiological Science Manuals'?",
+          "q": "Which is correct about the book/guide 'Physiological Science Manuals'?",
           "options": [
             "It addresses the theme of 'nutrient transport and fluid balance'.",
             "It is written about 'Ligaments'.",
@@ -5430,7 +5430,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Physiological Science Manuals' focuses on 'nutrient transport and fluid balance'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'White Blood Cells'?",
+          "q": "Which is correct about the core idea of 'White Blood Cells'?",
           "options": [
             "It is themed as 'blood sugar regulation and pancreatic juices'.",
             "It is documented in 'Physiological Science Manuals'.",
@@ -5463,7 +5463,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Endocrinology System Manuals' is associated with 'Adrenal Glands'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'connective tissues and force transmission'?",
+          "q": "What is a major reference or manual focusing on 'connective tissues and force transmission'?",
           "options": [
             "Endocrinology System Manuals",
             "Endocrinology System Manuals",
@@ -5507,7 +5507,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Immunology Study Guides' contains documentation regarding 'immune response and body defense'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Medulla Oblongata'?",
+          "q": "Which is correct about the concept of 'Medulla Oblongata'?",
           "options": [
             "It is defined as 'the brainstem structure controlling vital involuntary actions like heartbeat'.",
             "It is documented in the manual 'Otology Reference Handbooks'.",
@@ -5540,7 +5540,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Orthopedics Training Manuals' contains documentation regarding 'joint stability and connective tissues'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Tendons'?",
+          "q": "What is a key description or fact regarding the concept of 'Tendons'?",
           "options": [
             "\"Adrenal glands release adrenaline, increasing heart rate and blood flow during fear.\"",
             "\"The large intestine absorbs water and mineral salts, leaving solid feces.\"",
@@ -5551,7 +5551,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Tendons' is: \"Tendons transmit the mechanical force of muscle contraction to the bones.\"."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'skeletal support and bone structures'?",
+          "q": "What is a major reference or manual focusing on 'skeletal support and bone structures'?",
           "options": [
             "Osteology Reference Guides",
             "Physiological Science Manuals",
@@ -5650,7 +5650,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Ligaments' is the standard contrast to 'Tendons'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Thyroid gland hormones regulate the rate of metabolism and bone growth.\"?",
+          "q": "What describes the key fact or historical quote: \"Thyroid gland hormones regulate the rate of metabolism and bone growth.\"?",
           "options": [
             "Small Intestine",
             "Thyroid Gland",
@@ -5683,7 +5683,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Dermis' is the direct contrast to 'Epidermis'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Adrenal glands release adrenaline, increasing heart rate and blood flow during fear.\"?",
+          "q": "What describes the key fact or historical quote: \"Adrenal glands release adrenaline, increasing heart rate and blood flow during fear.\"?",
           "options": [
             "Adrenal Glands",
             "Pituitary Gland",
@@ -5705,7 +5705,7 @@ window.QuizData_everyday_science = {
           "explanation": "'skeletal support and bone structures' is a major theme inside 'Orthopedics'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Epidermis'?",
+          "q": "Which is correct about the core idea of 'Epidermis'?",
           "options": [
             "It is defined as 'the outermost protective waterproof layer of the human skin'.",
             "It belongs to the field of 'Gastroenterology'.",
@@ -5716,7 +5716,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Epidermis' is defined as 'the outermost protective waterproof layer of the human skin'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Osteology Reference Guides'?",
+          "q": "Which is correct about the book/guide 'Osteology Reference Guides'?",
           "options": [
             "It is contrasted with 'Cellular Components'.",
             "Its primary focus is 'Cardiovascular Biology'.",
@@ -5727,7 +5727,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Osteology Reference Guides' focuses on 'skeletal support and bone structures'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Orthopedics Training Manuals'?",
+          "q": "Which is correct about the book/guide 'Orthopedics Training Manuals'?",
           "options": [
             "It is written about 'Thyroid Gland'.",
             "It is contrasted with 'Pancreas'.",
@@ -5749,7 +5749,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Cellular Components' is the standard contrast to 'Blood Plasma'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Pituitary Gland'?",
+          "q": "What is a key description or fact regarding the concept of 'Pituitary Gland'?",
           "options": [
             "\"White blood cells, or leukocytes, play a key role in defending the body from pathogens.\"",
             "\"Salivary amylase, also called ptyalin, begins chemical digestion in the mouth.\"",
@@ -5760,7 +5760,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Pituitary Gland' is: \"The pituitary gland is located at the base of the brain, secreting growth hormone.\"."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'oxygen transport and blood components'?",
+          "q": "What is a major reference or manual focusing on 'oxygen transport and blood components'?",
           "options": [
             "Physiological Science Manuals",
             "Hematology Reference Texts",
@@ -5771,7 +5771,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hematology Reference Texts' is known for its focus on 'oxygen transport and blood components'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Immunology Study Guides'?",
+          "q": "Which is correct about the book/guide 'Immunology Study Guides'?",
           "options": [
             "It is written about 'Salivary Amylase'.",
             "It addresses the theme of 'immune response and body defense'.",
@@ -5804,7 +5804,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Cerebellum' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Stapes'?",
+          "q": "Which is correct about the core idea of 'Stapes'?",
           "options": [
             "It is themed as 'connective tissues and force transmission'.",
             "It is documented in 'Immunology Study Guides'.",
@@ -5815,7 +5815,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Stapes' is defined as 'the smallest bone in the middle ear transmitting sound vibrations'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Hematology Reference Texts'?",
+          "q": "Which is correct about the book/guide 'Hematology Reference Texts'?",
           "options": [
             "It addresses the theme of 'oxygen transport and blood components'.",
             "It is contrasted with 'Cerebrum'.",
@@ -5826,7 +5826,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hematology Reference Texts' focuses on 'oxygen transport and blood components'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Liver'?",
+          "q": "Which is correct about the concept of 'Liver'?",
           "options": [
             "Its contrasting theme is 'motor control and physical coordination'.",
             "It belongs to the domain of 'Immunology'.",
@@ -5848,7 +5848,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Tendons'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'motor control and physical coordination'?",
+          "q": "What is a major reference or manual focusing on 'motor control and physical coordination'?",
           "options": [
             "Orthopedics Training Manuals",
             "Neuroanatomy Reference Handbooks",
@@ -5892,7 +5892,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Skeletal Muscle' is the standard contrast to 'Cardiac Muscle'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Ligaments prevent joint dislocation by limiting abnormal bone movement.\"?",
+          "q": "What describes the key fact or historical quote: \"Ligaments prevent joint dislocation by limiting abnormal bone movement.\"?",
           "options": [
             "Ligaments",
             "Alveoli",
@@ -5925,7 +5925,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Gallbladder' is the contrast to 'Liver'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"White blood cells, or leukocytes, play a key role in defending the body from pathogens.\"?",
+          "q": "What describes the key fact or historical quote: \"White blood cells, or leukocytes, play a key role in defending the body from pathogens.\"?",
           "options": [
             "Blood Plasma",
             "White Blood Cells",
@@ -5969,7 +5969,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Ligaments' deals with the theme of 'joint stability and connective tissues'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Gastroenterology'?",
+          "q": "What is situated within the study field of 'Gastroenterology'?",
           "options": [
             "Liver",
             "Cerebellum",
@@ -5980,7 +5980,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Liver' falls under the discipline of 'Gastroenterology'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The epidermis contains no blood vessels and relies on the dermis for nutrients.\"?",
+          "q": "What describes the key fact or historical quote: \"The epidermis contains no blood vessels and relies on the dermis for nutrients.\"?",
           "options": [
             "Cerebrum",
             "Liver",
@@ -5991,7 +5991,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Epidermis'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Nephrons'?",
+          "q": "Which is correct about the core idea of 'Nephrons'?",
           "options": [
             "It belongs to the field of 'Gastroenterology'.",
             "It is documented in 'Myology Resource Guides'.",
@@ -6068,7 +6068,7 @@ window.QuizData_everyday_science = {
           "explanation": "'metabolic filtration and digestive secretion' is a major theme inside 'Gastroenterology'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Red blood cells, also known as erythrocytes, have a lifespan of about 120 days.\"?",
+          "q": "What describes the key fact or historical quote: \"Red blood cells, also known as erythrocytes, have a lifespan of about 120 days.\"?",
           "options": [
             "Red Blood Cells",
             "Tendons",
@@ -6200,7 +6200,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Alveoli' is classified under the domain of 'Pulmonary Biology'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'blood clotting and coagulation'?",
+          "q": "What is a major reference or manual focusing on 'blood clotting and coagulation'?",
           "options": [
             "Digestive Enzyme Catalogues",
             "Otology Reference Handbooks",
@@ -6222,7 +6222,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Otology Reference Handbooks' contains documentation regarding 'auditory conduction and ear bones'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Immunology'?",
+          "q": "What is situated within the study field of 'Immunology'?",
           "options": [
             "White Blood Cells",
             "Blood Plasma",
@@ -6233,7 +6233,7 @@ window.QuizData_everyday_science = {
           "explanation": "'White Blood Cells' falls under the discipline of 'Immunology'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'oral digestion and enzymatic breakdown'?",
+          "q": "What is a major reference or manual focusing on 'oral digestion and enzymatic breakdown'?",
           "options": [
             "Osteology Reference Guides",
             "Endocrinology System Manuals",
@@ -6255,7 +6255,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Immunology Study Guides' is the manual associated with 'immune response and body defense'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Each human kidney contains about one million nephrons to filter blood and form urine.\"?",
+          "q": "What describes the key fact or historical quote: \"Each human kidney contains about one million nephrons to filter blood and form urine.\"?",
           "options": [
             "Cardiac Muscle",
             "Adrenal Glands",
@@ -6343,7 +6343,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Skeletal Muscle' is the direct contrast to 'Cardiac Muscle'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Tendons'?",
+          "q": "Which is correct about the concept of 'Tendons'?",
           "options": [
             "It is defined as 'the tough bands of fibrous connective tissue linking muscle to bone'.",
             "It belongs to the domain of 'Endocrinology'.",
@@ -6387,7 +6387,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Pepsin' is the standard contrast to 'Salivary Amylase'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Medulla Oblongata'?",
+          "q": "What is a key description or fact regarding the concept of 'Medulla Oblongata'?",
           "options": [
             "\"The medulla oblongata regulates breathing, digestion, and cardiovascular activities.\"",
             "\"The stapes, or stirrup bone, is the smallest bone in the human body.\"",
@@ -6398,7 +6398,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Medulla Oblongata' is: \"The medulla oblongata regulates breathing, digestion, and cardiovascular activities.\"."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Endocrinology'?",
+          "q": "What is situated within the study field of 'Endocrinology'?",
           "options": [
             "Pancreas",
             "Large Intestine",
@@ -6442,7 +6442,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Cardiac Muscle' is built on the concept: 'the specialized involuntary striated muscle forming the heart walls'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Thyroid Gland'?",
+          "q": "Which is correct about the concept of 'Thyroid Gland'?",
           "options": [
             "It belongs to the domain of 'Gastroenterology'.",
             "Its contrasting theme is 'skeletal support and bone structures'.",
@@ -6453,7 +6453,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Thyroid Gland' is defined as 'the butterfly-shaped neck gland regulating metabolism via thyroxine'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'water absorption and waste formation'?",
+          "q": "What is a major reference or manual focusing on 'water absorption and waste formation'?",
           "options": [
             "Otology Reference Handbooks",
             "Immunology Study Guides",
@@ -6486,7 +6486,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Femur' is built on the concept: 'the longest and strongest bone in the human skeletal system'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Cerebrum'?",
+          "q": "Which is correct about the concept of 'Cerebrum'?",
           "options": [
             "It belongs to the domain of 'Endocrinology'.",
             "Its contrasting theme is 'immune response and body defense'.",
@@ -6519,7 +6519,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Cellular Components' is the contrast to 'Blood Plasma'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Salivary Amylase'?",
+          "q": "Which is correct about the concept of 'Salivary Amylase'?",
           "options": [
             "Its contrasting theme is 'metabolic regulation and iodine uptake'.",
             "It is defined as 'the enzyme in saliva initiating the breakdown of starches into sugars'.",
@@ -6530,7 +6530,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Salivary Amylase' is defined as 'the enzyme in saliva initiating the breakdown of starches into sugars'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Small Intestine'?",
+          "q": "Which is correct about the core idea of 'Small Intestine'?",
           "options": [
             "It is defined as 'the digestive organ where most chemical digestion and absorption occurs'.",
             "It belongs to the field of 'Endocrinology'.",
@@ -6574,7 +6574,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Ureters' is the direct contrast to 'Nephrons'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Small Intestine'?",
+          "q": "What is a key description or fact regarding the concept of 'Small Intestine'?",
           "options": [
             "\"Villi in the small intestine increase surface area to maximize nutrient absorption.\"",
             "\"Cardiac muscle contracts continuously and rhythmically without tiring.\"",
@@ -6596,7 +6596,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Small Intestine' is the contrast to 'Large Intestine'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Villi in the small intestine increase surface area to maximize nutrient absorption.\"?",
+          "q": "What describes the key fact or historical quote: \"Villi in the small intestine increase surface area to maximize nutrient absorption.\"?",
           "options": [
             "Cardiac Muscle",
             "Ligaments",
@@ -6651,7 +6651,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Ureters' is the contrast to 'Nephrons'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Neuroanatomy Reference Handbooks'?",
+          "q": "Which is correct about the book/guide 'Neuroanatomy Reference Handbooks'?",
           "options": [
             "Its primary focus is 'Immunology'.",
             "It is contrasted with 'Pancreas'.",
@@ -6684,7 +6684,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Otology Reference Handbooks' is the manual associated with 'auditory conduction and ear bones'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'nutrient absorption and intestinal transit'?",
+          "q": "What is a major reference or manual focusing on 'nutrient absorption and intestinal transit'?",
           "options": [
             "Gastroenterology Study Manuals",
             "Orthopedics Training Manuals",
@@ -6695,7 +6695,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Gastroenterology Study Manuals' is known for its focus on 'nutrient absorption and intestinal transit'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Nephrons'?",
+          "q": "Which is correct about the concept of 'Nephrons'?",
           "options": [
             "It is documented in the manual 'Digestive Enzyme Catalogues'.",
             "It is defined as 'the microscopic functional units of the kidney filtering waste from blood'.",
@@ -6706,7 +6706,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Nephrons' is defined as 'the microscopic functional units of the kidney filtering waste from blood'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Gastroenterology Study Manuals'?",
+          "q": "Which is correct about the book/guide 'Gastroenterology Study Manuals'?",
           "options": [
             "Its primary focus is 'Cardiovascular Biology'.",
             "It is written about 'Adrenal Glands'.",
@@ -6717,7 +6717,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Gastroenterology Study Manuals' focuses on 'nutrient absorption and intestinal transit'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'White Blood Cells'?",
+          "q": "What is a key description or fact regarding the concept of 'White Blood Cells'?",
           "options": [
             "\"Plasma makes up about 55% of the total blood volume, composed mostly of water.\"",
             "\"White blood cells, or leukocytes, play a key role in defending the body from pathogens.\"",
@@ -6739,7 +6739,7 @@ window.QuizData_everyday_science = {
           "explanation": "'blood sugar regulation and pancreatic juices' is a major theme inside 'Endocrinology'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Femur'?",
+          "q": "Which is correct about the concept of 'Femur'?",
           "options": [
             "Its contrasting theme is 'involuntary muscle contraction and cardiac output'.",
             "It is defined as 'the longest and strongest bone in the human skeletal system'.",
@@ -6772,7 +6772,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Ligaments' is built on the concept: 'the fibrous connective tissues linking bone to bone at joint interfaces'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Pituitary Gland'?",
+          "q": "Which is correct about the core idea of 'Pituitary Gland'?",
           "options": [
             "It is themed as 'immune response and body defense'.",
             "It belongs to the field of 'Cardiovascular Biology'.",
@@ -6816,7 +6816,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Salivary Amylase' is classified under the domain of 'Gastroenterology'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The medulla oblongata regulates breathing, digestion, and cardiovascular activities.\"?",
+          "q": "What describes the key fact or historical quote: \"The medulla oblongata regulates breathing, digestion, and cardiovascular activities.\"?",
           "options": [
             "Medulla Oblongata",
             "Femur",
@@ -6871,7 +6871,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Stapes' is the standard contrast to 'Femur'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Nephrons'?",
+          "q": "What is a key description or fact regarding the concept of 'Nephrons'?",
           "options": [
             "\"Each human kidney contains about one million nephrons to filter blood and form urine.\"",
             "\"Cardiac muscle contracts continuously and rhythmically without tiring.\"",
@@ -6981,7 +6981,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Femur' is the standard contrast to 'Stapes'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'autonomic regulation and brainstem functions'?",
+          "q": "What is a major reference or manual focusing on 'autonomic regulation and brainstem functions'?",
           "options": [
             "Otology Reference Handbooks",
             "Osteology Reference Guides",
@@ -7069,7 +7069,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Stapes'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Nephrology Reference Manuals'?",
+          "q": "Which is correct about the book/guide 'Nephrology Reference Manuals'?",
           "options": [
             "It is contrasted with 'Pancreas'.",
             "It addresses the theme of 'renal filtration and waste excretion'.",
@@ -7091,7 +7091,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Liver' is classified under the domain of 'Gastroenterology'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Alveoli'?",
+          "q": "Which is correct about the concept of 'Alveoli'?",
           "options": [
             "Its contrasting theme is 'motor control and physical coordination'.",
             "It belongs to the domain of 'Endocrinology'.",
@@ -7124,7 +7124,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Salivary Amylase' is 'the enzyme in saliva initiating the breakdown of starches into sugars'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Large Intestine'?",
+          "q": "What is a key description or fact regarding the concept of 'Large Intestine'?",
           "options": [
             "\"White blood cells, or leukocytes, play a key role in defending the body from pathogens.\"",
             "\"The cerebrum is divided into two hemispheres responsible for higher brain functions.\"",
@@ -7157,7 +7157,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Pepsin' deals with the theme of 'stomach digestion and protein digestion'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Platelets'?",
+          "q": "Which is correct about the concept of 'Platelets'?",
           "options": [
             "It is defined as 'the cell fragments essential for blood clotting and wound healing'.",
             "It is documented in the manual 'Hepatology System Guidelines'.",
@@ -7168,7 +7168,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Platelets' is defined as 'the cell fragments essential for blood clotting and wound healing'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Pancreas'?",
+          "q": "What is a key description or fact regarding the concept of 'Pancreas'?",
           "options": [
             "\"The medulla oblongata regulates breathing, digestion, and cardiovascular activities.\"",
             "\"The pancreas releases insulin to lower blood glucose levels after meals.\"",
@@ -7201,7 +7201,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Pituitary Gland' is classified under the domain of 'Endocrinology'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Tendons'?",
+          "q": "Which is correct about the core idea of 'Tendons'?",
           "options": [
             "It is themed as 'stress responses and flight-or-fight hormones'.",
             "It is defined as 'the tough bands of fibrous connective tissue linking muscle to bone'.",
@@ -7234,7 +7234,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Small Intestine' is 'the digestive organ where most chemical digestion and absorption occurs'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The cerebellum is located at the back of the brain, key for motor learning.\"?",
+          "q": "What describes the key fact or historical quote: \"The cerebellum is located at the back of the brain, key for motor learning.\"?",
           "options": [
             "Stapes",
             "Ligaments",
@@ -7278,7 +7278,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Orthopedics Training Manuals' is associated with 'Tendons'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The cerebrum is divided into two hemispheres responsible for higher brain functions.\"?",
+          "q": "What describes the key fact or historical quote: \"The cerebrum is divided into two hemispheres responsible for higher brain functions.\"?",
           "options": [
             "Ligaments",
             "White Blood Cells",
@@ -7311,7 +7311,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Physiological Science Manuals' is the manual associated with 'nutrient transport and fluid balance'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Liver'?",
+          "q": "Which is correct about the core idea of 'Liver'?",
           "options": [
             "It is themed as 'immune response and body defense'.",
             "It belongs to the field of 'Renal Biology'.",
@@ -7333,7 +7333,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Adrenal Glands' is built on the concept: 'the glands sitting atop kidneys secreting adrenaline during stress'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'stress responses and flight-or-fight hormones'?",
+          "q": "What is a major reference or manual focusing on 'stress responses and flight-or-fight hormones'?",
           "options": [
             "Hematology Reference Texts",
             "Digestive Enzyme Catalogues",
@@ -7377,7 +7377,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'White Blood Cells'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Cardiovascular Biology'?",
+          "q": "What is situated within the study field of 'Cardiovascular Biology'?",
           "options": [
             "Red Blood Cells",
             "Blood Plasma",
@@ -7388,7 +7388,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Red Blood Cells' falls under the discipline of 'Cardiovascular Biology'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The femur, or thigh bone, supports the weight of the upper body during movement.\"?",
+          "q": "What describes the key fact or historical quote: \"The femur, or thigh bone, supports the weight of the upper body during movement.\"?",
           "options": [
             "Blood Plasma",
             "Cerebellum",
@@ -7399,7 +7399,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Femur'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'renal filtration and waste excretion'?",
+          "q": "What is a major reference or manual focusing on 'renal filtration and waste excretion'?",
           "options": [
             "Myology Resource Guides",
             "Digestive Enzyme Catalogues",
@@ -7410,7 +7410,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Nephrology Reference Manuals' is known for its focus on 'renal filtration and waste excretion'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Pancreas'?",
+          "q": "Which is correct about the concept of 'Pancreas'?",
           "options": [
             "It is documented in the manual 'Neuroanatomy Reference Handbooks'.",
             "It belongs to the domain of 'Immunology'.",
@@ -7476,7 +7476,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Liver' is built on the concept: 'the largest internal organ performing detoxification and producing bile'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Pulmonology Resource Manuals'?",
+          "q": "Which is correct about the book/guide 'Pulmonology Resource Manuals'?",
           "options": [
             "It is contrasted with 'Pancreas'.",
             "It addresses the theme of 'gas exchange and respiratory ventilation'.",
@@ -7509,7 +7509,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Bronchioles' is the contrast to 'Alveoli'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Pepsin'?",
+          "q": "Which is correct about the core idea of 'Pepsin'?",
           "options": [
             "It is documented in 'Nephrology Reference Manuals'.",
             "It belongs to the field of 'Dermatology'.",
@@ -7531,7 +7531,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Myology Resource Guides' is associated with 'Cardiac Muscle'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Platelets, or thrombocytes, gather at wound sites to form clots and prevent bleeding.\"?",
+          "q": "What describes the key fact or historical quote: \"Platelets, or thrombocytes, gather at wound sites to form clots and prevent bleeding.\"?",
           "options": [
             "Platelets",
             "Stapes",
@@ -7586,7 +7586,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Thyroid Gland' is classified under the domain of 'Endocrinology'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Epidermis'?",
+          "q": "What is a key description or fact regarding the concept of 'Epidermis'?",
           "options": [
             "\"The cerebrum is divided into two hemispheres responsible for higher brain functions.\"",
             "\"The epidermis contains no blood vessels and relies on the dermis for nutrients.\"",
@@ -7674,7 +7674,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Nephrons'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Epidermis'?",
+          "q": "Which is correct about the concept of 'Epidermis'?",
           "options": [
             "Its contrasting theme is 'blood clotting and coagulation'.",
             "It belongs to the domain of 'Neurobiology'.",
@@ -7685,7 +7685,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Epidermis' is defined as 'the outermost protective waterproof layer of the human skin'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Oxygen diffuses into blood capillaries through the thin walls of the alveoli.\"?",
+          "q": "What describes the key fact or historical quote: \"Oxygen diffuses into blood capillaries through the thin walls of the alveoli.\"?",
           "options": [
             "Adrenal Glands",
             "Alveoli",
@@ -7707,7 +7707,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Salivary Amylase'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Ligaments'?",
+          "q": "What is a key description or fact regarding the concept of 'Ligaments'?",
           "options": [
             "\"Salivary amylase, also called ptyalin, begins chemical digestion in the mouth.\"",
             "\"Ligaments prevent joint dislocation by limiting abnormal bone movement.\"",
@@ -7751,7 +7751,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Neuroanatomy Reference Handbooks' is the manual associated with 'motor control and physical coordination'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Liver'?",
+          "q": "What is a key description or fact regarding the concept of 'Liver'?",
           "options": [
             "\"White blood cells, or leukocytes, play a key role in defending the body from pathogens.\"",
             "\"The liver metabolizes drugs and stores glycogen for emergency energy release.\"",
@@ -7795,7 +7795,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Endocrinology System Manuals' is the manual associated with 'hormonal coordination and growth control'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Blood Plasma'?",
+          "q": "Which is correct about the concept of 'Blood Plasma'?",
           "options": [
             "It belongs to the domain of 'Cardiovascular Biology'.",
             "It is defined as 'the straw-colored liquid component of blood holding cells in suspension'.",
@@ -7883,7 +7883,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Femur'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Red Blood Cells'?",
+          "q": "Which is correct about the core idea of 'Red Blood Cells'?",
           "options": [
             "It is defined as 'the cells transporting oxygen throughout the body using hemoglobin'.",
             "It is documented in 'Orthopedics Training Manuals'.",
@@ -7905,7 +7905,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Cardiac Muscle'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Red Blood Cells'?",
+          "q": "Which is correct about the concept of 'Red Blood Cells'?",
           "options": [
             "Its contrasting theme is 'connective tissues and force transmission'.",
             "It is documented in the manual 'Physiological Science Manuals'.",
@@ -7916,7 +7916,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Red Blood Cells' is defined as 'the cells transporting oxygen throughout the body using hemoglobin'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The pancreas releases insulin to lower blood glucose levels after meals.\"?",
+          "q": "What describes the key fact or historical quote: \"The pancreas releases insulin to lower blood glucose levels after meals.\"?",
           "options": [
             "White Blood Cells",
             "Large Intestine",
@@ -7927,7 +7927,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Pancreas'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Platelets'?",
+          "q": "Which is correct about the core idea of 'Platelets'?",
           "options": [
             "It is defined as 'the cell fragments essential for blood clotting and wound healing'.",
             "It is themed as 'oral digestion and enzymatic breakdown'.",
@@ -7938,7 +7938,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Platelets' is defined as 'the cell fragments essential for blood clotting and wound healing'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Cerebrum'?",
+          "q": "Which is correct about the core idea of 'Cerebrum'?",
           "options": [
             "It is themed as 'stress responses and flight-or-fight hormones'.",
             "It belongs to the field of 'Orthopedics'.",
@@ -8004,7 +8004,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Osteology Reference Guides' is the manual associated with 'skeletal support and bone structures'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Otology Reference Handbooks'?",
+          "q": "Which is correct about the book/guide 'Otology Reference Handbooks'?",
           "options": [
             "It is contrasted with 'Ligaments'.",
             "It is written about 'Epidermis'.",
@@ -8026,7 +8026,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Thyroid Gland'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Myology Resource Guides'?",
+          "q": "Which is correct about the book/guide 'Myology Resource Guides'?",
           "options": [
             "Its primary focus is 'Endocrinology'.",
             "It is contrasted with 'Small Intestine'.",
@@ -8070,7 +8070,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Red Blood Cells'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The liver metabolizes drugs and stores glycogen for emergency energy release.\"?",
+          "q": "What describes the key fact or historical quote: \"The liver metabolizes drugs and stores glycogen for emergency energy release.\"?",
           "options": [
             "Liver",
             "White Blood Cells",
@@ -8092,7 +8092,7 @@ window.QuizData_everyday_science = {
           "explanation": "'auditory conduction and ear bones' is a major theme inside 'Otology'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'stomach digestion and protein digestion'?",
+          "q": "What is a major reference or manual focusing on 'stomach digestion and protein digestion'?",
           "options": [
             "Dermatology Study Manuals",
             "Orthopedics Training Manuals",
@@ -8191,7 +8191,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Cerebrum' is the direct contrast to 'Cerebellum'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Cerebellum'?",
+          "q": "What is a key description or fact regarding the concept of 'Cerebellum'?",
           "options": [
             "\"Plasma makes up about 55% of the total blood volume, composed mostly of water.\"",
             "\"The cerebellum is located at the back of the brain, key for motor learning.\"",
@@ -8202,7 +8202,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Cerebellum' is: \"The cerebellum is located at the back of the brain, key for motor learning.\"."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Cerebellum'?",
+          "q": "Which is correct about the core idea of 'Cerebellum'?",
           "options": [
             "It is defined as 'the part of the brain regulating balance, posture, and motor coordination'.",
             "It is themed as 'nutrient transport and fluid balance'.",
@@ -8224,7 +8224,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Osteology Reference Guides' contains documentation regarding 'skeletal support and bone structures'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Stapes'?",
+          "q": "Which is correct about the concept of 'Stapes'?",
           "options": [
             "It is defined as 'the smallest bone in the middle ear transmitting sound vibrations'.",
             "Its contrasting theme is 'immune response and body defense'.",
@@ -8246,7 +8246,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Medulla Oblongata'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Cardiac muscle contracts continuously and rhythmically without tiring.\"?",
+          "q": "What describes the key fact or historical quote: \"Cardiac muscle contracts continuously and rhythmically without tiring.\"?",
           "options": [
             "Large Intestine",
             "Adrenal Glands",
@@ -8268,7 +8268,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Salivary Amylase' deals with the theme of 'oral digestion and enzymatic breakdown'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Ligaments'?",
+          "q": "Which is correct about the concept of 'Ligaments'?",
           "options": [
             "It is documented in the manual 'Pulmonology Resource Manuals'.",
             "It is defined as 'the fibrous connective tissues linking bone to bone at joint interfaces'.",
@@ -8279,7 +8279,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Ligaments' is defined as 'the fibrous connective tissues linking bone to bone at joint interfaces'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Stapes'?",
+          "q": "What is a key description or fact regarding the concept of 'Stapes'?",
           "options": [
             "\"White blood cells, or leukocytes, play a key role in defending the body from pathogens.\"",
             "\"Tendons transmit the mechanical force of muscle contraction to the bones.\"",
@@ -8323,7 +8323,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Nephrons' deals with the theme of 'renal filtration and waste excretion'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Pulmonary Biology'?",
+          "q": "What is situated within the study field of 'Pulmonary Biology'?",
           "options": [
             "Blood Plasma",
             "Adrenal Glands",
@@ -8356,7 +8356,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Cerebellum' is built on the concept: 'the part of the brain regulating balance, posture, and motor coordination'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'metabolic filtration and digestive secretion'?",
+          "q": "What is a major reference or manual focusing on 'metabolic filtration and digestive secretion'?",
           "options": [
             "Immunology Study Guides",
             "Nephrology Reference Manuals",
@@ -8378,7 +8378,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Adrenal Glands'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'cognitive processing and voluntary control'?",
+          "q": "What is a major reference or manual focusing on 'cognitive processing and voluntary control'?",
           "options": [
             "Neuroanatomy Reference Handbooks",
             "Immunology Study Guides",
@@ -8422,7 +8422,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Cardiac Muscle' corresponds to this definition."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Renal Biology'?",
+          "q": "What is situated within the study field of 'Renal Biology'?",
           "options": [
             "Adrenal Glands",
             "Cardiac Muscle",
@@ -8455,7 +8455,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Myology Resource Guides' contains documentation regarding 'involuntary muscle contraction and cardiac output'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Medulla Oblongata'?",
+          "q": "Which is correct about the core idea of 'Medulla Oblongata'?",
           "options": [
             "It is documented in 'Pulmonology Resource Manuals'.",
             "It is themed as 'skeletal support and bone structures'.",
@@ -8477,7 +8477,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Stapes' is classified under the domain of 'Otology'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Salivary Amylase'?",
+          "q": "Which is correct about the core idea of 'Salivary Amylase'?",
           "options": [
             "It belongs to the field of 'Neurobiology'.",
             "It is documented in 'Endocrinology System Manuals'.",
@@ -8532,7 +8532,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Stapes' is built on the concept: 'the smallest bone in the middle ear transmitting sound vibrations'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The large intestine absorbs water and mineral salts, leaving solid feces.\"?",
+          "q": "What describes the key fact or historical quote: \"The large intestine absorbs water and mineral salts, leaving solid feces.\"?",
           "options": [
             "White Blood Cells",
             "Stapes",
@@ -8554,7 +8554,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Adrenal Gland' is the direct contrast to 'Pituitary Gland'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'nutrient transport and fluid balance'?",
+          "q": "What is a major reference or manual focusing on 'nutrient transport and fluid balance'?",
           "options": [
             "Hematology Reference Texts",
             "Physiological Science Manuals",
@@ -8609,7 +8609,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Dermis' is the contrast to 'Epidermis'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Alveoli'?",
+          "q": "What is a key description or fact regarding the concept of 'Alveoli'?",
           "options": [
             "\"Adrenal glands release adrenaline, increasing heart rate and blood flow during fear.\"",
             "\"Plasma makes up about 55% of the total blood volume, composed mostly of water.\"",
@@ -8620,7 +8620,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Alveoli' is: \"Oxygen diffuses into blood capillaries through the thin walls of the alveoli.\"."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Pancreas'?",
+          "q": "Which is correct about the core idea of 'Pancreas'?",
           "options": [
             "It is themed as 'immune response and body defense'.",
             "It is defined as 'the dual-function gland secreting insulin and digestive enzymes'.",
@@ -8631,7 +8631,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Pancreas' is defined as 'the dual-function gland secreting insulin and digestive enzymes'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'hormonal coordination and growth control'?",
+          "q": "What is a major reference or manual focusing on 'hormonal coordination and growth control'?",
           "options": [
             "Endocrinology System Manuals",
             "Digestive Enzyme Catalogues",
@@ -8719,7 +8719,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Endocrinology System Manuals' is associated with 'Pancreas'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Pituitary Gland'?",
+          "q": "Which is correct about the concept of 'Pituitary Gland'?",
           "options": [
             "Its contrasting theme is 'oral digestion and enzymatic breakdown'.",
             "It is defined as 'the master gland regulating growth and other endocrine organs'.",
@@ -8774,7 +8774,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Nephrology Reference Manuals' is associated with 'Nephrons'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'immune response and body defense'?",
+          "q": "What is a major reference or manual focusing on 'immune response and body defense'?",
           "options": [
             "Digestive Enzyme Catalogues",
             "Endocrinology System Manuals",
@@ -8829,7 +8829,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Orthopedics Training Manuals' contains documentation regarding 'connective tissues and force transmission'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'involuntary muscle contraction and cardiac output'?",
+          "q": "What is a major reference or manual focusing on 'involuntary muscle contraction and cardiac output'?",
           "options": [
             "Endocrinology System Manuals",
             "Endocrinology System Manuals",
@@ -8906,7 +8906,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Small Intestine' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Cardiac Muscle'?",
+          "q": "Which is correct about the concept of 'Cardiac Muscle'?",
           "options": [
             "It is documented in the manual 'Endocrinology System Manuals'.",
             "It is defined as 'the specialized involuntary striated muscle forming the heart walls'.",
@@ -8928,7 +8928,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Femur' is the direct contrast to 'Stapes'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Thyroid Gland'?",
+          "q": "Which is correct about the core idea of 'Thyroid Gland'?",
           "options": [
             "It belongs to the field of 'Gastroenterology'.",
             "It is themed as 'water absorption and waste formation'.",
@@ -8961,7 +8961,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Digestive Enzyme Catalogues' contains documentation regarding 'oral digestion and enzymatic breakdown'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'gas exchange and respiratory ventilation'?",
+          "q": "What is a major reference or manual focusing on 'gas exchange and respiratory ventilation'?",
           "options": [
             "Endocrinology System Manuals",
             "Physiological Science Manuals",
@@ -9005,7 +9005,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Pulmonology Resource Manuals' is the manual associated with 'gas exchange and respiratory ventilation'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Pepsin'?",
+          "q": "What is a key description or fact regarding the concept of 'Pepsin'?",
           "options": [
             "\"Ligaments prevent joint dislocation by limiting abnormal bone movement.\"",
             "\"Each human kidney contains about one million nephrons to filter blood and form urine.\"",
@@ -9016,7 +9016,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Pepsin' is: \"Pepsin requires an acidic environment created by hydrochloric acid to function.\"."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'blood sugar regulation and pancreatic juices'?",
+          "q": "What is a major reference or manual focusing on 'blood sugar regulation and pancreatic juices'?",
           "options": [
             "Neuroanatomy Reference Handbooks",
             "Endocrinology System Manuals",
@@ -9049,7 +9049,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Platelets' deals with the theme of 'blood clotting and coagulation'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'integumentary barrier and skin cells'?",
+          "q": "What is a major reference or manual focusing on 'integumentary barrier and skin cells'?",
           "options": [
             "Hematology Reference Texts",
             "Dermatology Study Manuals",
@@ -9082,7 +9082,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Large Intestine' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Small Intestine'?",
+          "q": "Which is correct about the concept of 'Small Intestine'?",
           "options": [
             "It is defined as 'the digestive organ where most chemical digestion and absorption occurs'.",
             "It belongs to the domain of 'Orthopedics'.",
@@ -9104,7 +9104,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Cellular Components' is the direct contrast to 'Blood Plasma'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Plasma makes up about 55% of the total blood volume, composed mostly of water.\"?",
+          "q": "What describes the key fact or historical quote: \"Plasma makes up about 55% of the total blood volume, composed mostly of water.\"?",
           "options": [
             "Cardiac Muscle",
             "Blood Plasma",
@@ -9115,7 +9115,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Blood Plasma'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Otology'?",
+          "q": "What is situated within the study field of 'Otology'?",
           "options": [
             "Stapes",
             "Tendons",
@@ -9148,7 +9148,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Orthopedics Training Manuals' is associated with 'Ligaments'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Cardiac Muscle'?",
+          "q": "What is a key description or fact regarding the concept of 'Cardiac Muscle'?",
           "options": [
             "\"Cardiac muscle contracts continuously and rhythmically without tiring.\"",
             "\"The large intestine absorbs water and mineral salts, leaving solid feces.\"",
@@ -9159,7 +9159,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Cardiac Muscle' is: \"Cardiac muscle contracts continuously and rhythmically without tiring.\"."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'joint stability and connective tissues'?",
+          "q": "What is a major reference or manual focusing on 'joint stability and connective tissues'?",
           "options": [
             "Digestive Enzyme Catalogues",
             "Orthopedics Training Manuals",
@@ -9181,7 +9181,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Stapes' is the direct contrast to 'Femur'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'metabolic regulation and iodine uptake'?",
+          "q": "What is a major reference or manual focusing on 'metabolic regulation and iodine uptake'?",
           "options": [
             "Endocrinology System Manuals",
             "Gastroenterology Study Manuals",
@@ -9236,7 +9236,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Pituitary Gland' is 'the master gland regulating growth and other endocrine organs'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Femur'?",
+          "q": "What is a key description or fact regarding the concept of 'Femur'?",
           "options": [
             "\"Plasma makes up about 55% of the total blood volume, composed mostly of water.\"",
             "\"The femur, or thigh bone, supports the weight of the upper body during movement.\"",
@@ -9258,7 +9258,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Small Intestine' is the standard contrast to 'Large Intestine'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Cardiac Muscle'?",
+          "q": "Which is correct about the core idea of 'Cardiac Muscle'?",
           "options": [
             "It belongs to the field of 'Endocrinology'.",
             "It is documented in 'Endocrinology System Manuals'.",
@@ -9324,7 +9324,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Salivary Amylase' is the standard contrast to 'Pepsin'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Neurobiology'?",
+          "q": "What is situated within the study field of 'Neurobiology'?",
           "options": [
             "Ligaments",
             "Cerebrum",
@@ -9412,7 +9412,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Ligaments' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Adrenal Glands'?",
+          "q": "Which is correct about the concept of 'Adrenal Glands'?",
           "options": [
             "It is documented in the manual 'Endocrinology System Manuals'.",
             "It is defined as 'the glands sitting atop kidneys secreting adrenaline during stress'.",
@@ -9467,7 +9467,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Small Intestine' is classified under the domain of 'Gastroenterology'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Salivary Amylase'?",
+          "q": "What is a key description or fact regarding the concept of 'Salivary Amylase'?",
           "options": [
             "\"Thyroid gland hormones regulate the rate of metabolism and bone growth.\"",
             "\"The femur, or thigh bone, supports the weight of the upper body during movement.\"",
@@ -9478,7 +9478,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Salivary Amylase' is: \"Salivary amylase, also called ptyalin, begins chemical digestion in the mouth.\"."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Femur'?",
+          "q": "Which is correct about the core idea of 'Femur'?",
           "options": [
             "It is themed as 'nutrient transport and fluid balance'.",
             "It is defined as 'the longest and strongest bone in the human skeletal system'.",
@@ -9489,7 +9489,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Femur' is defined as 'the longest and strongest bone in the human skeletal system'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Digestive Enzyme Catalogues'?",
+          "q": "Which is correct about the book/guide 'Digestive Enzyme Catalogues'?",
           "options": [
             "Its primary focus is 'Endocrinology'.",
             "It addresses the theme of 'oral digestion and enzymatic breakdown'.",
@@ -9533,7 +9533,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Ligaments' is the contrast to 'Tendons'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Cerebrum'?",
+          "q": "What is a key description or fact regarding the concept of 'Cerebrum'?",
           "options": [
             "\"The cerebrum is divided into two hemispheres responsible for higher brain functions.\"",
             "\"Adrenal glands release adrenaline, increasing heart rate and blood flow during fear.\"",
@@ -9566,7 +9566,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Tendons' is the contrast to 'Ligaments'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Hepatology System Guidelines'?",
+          "q": "Which is correct about the book/guide 'Hepatology System Guidelines'?",
           "options": [
             "Its primary focus is 'Neurobiology'.",
             "It is written about 'Nephrons'.",
@@ -9577,7 +9577,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hepatology System Guidelines' focuses on 'metabolic filtration and digestive secretion'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'auditory conduction and ear bones'?",
+          "q": "What is a major reference or manual focusing on 'auditory conduction and ear bones'?",
           "options": [
             "Immunology Study Guides",
             "Dermatology Study Manuals",
@@ -9643,7 +9643,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Pulmonology Resource Manuals' is associated with 'Alveoli'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The stapes, or stirrup bone, is the smallest bone in the human body.\"?",
+          "q": "What describes the key fact or historical quote: \"The stapes, or stirrup bone, is the smallest bone in the human body.\"?",
           "options": [
             "White Blood Cells",
             "Stapes",
@@ -9687,7 +9687,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Pulmonology Resource Manuals' contains documentation regarding 'gas exchange and respiratory ventilation'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Adrenal Glands'?",
+          "q": "Which is correct about the core idea of 'Adrenal Glands'?",
           "options": [
             "It is themed as 'oral digestion and enzymatic breakdown'.",
             "It is documented in 'Hematology Reference Texts'.",
@@ -9698,7 +9698,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Adrenal Glands' is defined as 'the glands sitting atop kidneys secreting adrenaline during stress'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Dermatology Study Manuals'?",
+          "q": "Which is correct about the book/guide 'Dermatology Study Manuals'?",
           "options": [
             "Its primary focus is 'Cardiovascular Biology'.",
             "It is contrasted with 'Cerebellum'.",
@@ -9786,7 +9786,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hematology Reference Texts' is the manual associated with 'blood clotting and coagulation'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Cerebellum'?",
+          "q": "Which is correct about the concept of 'Cerebellum'?",
           "options": [
             "It is documented in the manual 'Orthopedics Training Manuals'.",
             "It belongs to the domain of 'Cardiovascular Biology'.",
@@ -10023,7 +10023,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the fat-soluble vitamin critical for maintaining healthy vision, especially in low light, found in carrots/liver for Everyday Science."
         },
         {
-          "q": "Which of the following applies to substances in food the body requires for energy, structural growth, and maintenance?",
+          "q": "What applies to substances in food the body requires for energy, structural growth, and maintenance?",
           "options": [
             "Nutrients",
             "Antibodies",
@@ -10078,7 +10078,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the fat-soluble vitamin critical for maintaining healthy vision, especially in low light, found in carrots/liver for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the scientifically proven principle of balancing calories consumed precisely against calories expended to maintain body weight?",
+          "q": "What applies to the scientifically proven principle of balancing calories consumed precisely against calories expended to maintain body weight?",
           "options": [
             "Metabolic syndrome",
             "Basal metabolic rate",
@@ -10177,7 +10177,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding dietary fats generally solid at room temperature and typically derived from animal sources (e.g., butter, lard) for Everyday Science."
         },
         {
-          "q": "Which of the following applies to inorganic micronutrients required strictly for bone structure, fluid balance, and countless metabolic enzyme functions?",
+          "q": "What applies to inorganic micronutrients required strictly for bone structure, fluid balance, and countless metabolic enzyme functions?",
           "options": [
             "Amino acids",
             "Vitamins",
@@ -10518,7 +10518,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding macronutrients serving as a dense energy reserve, providing insulation, and protecting internal organs for Everyday Science."
         },
         {
-          "q": "Which of the following applies to micronutrients (organic compounds) required in tiny quantities for various vital metabolic functions?",
+          "q": "What applies to micronutrients (organic compounds) required in tiny quantities for various vital metabolic functions?",
           "options": [
             "Vitamins",
             "Amino acids",
@@ -10551,7 +10551,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the water-soluble vitamins, easily excreted in urine and required consistently in the diet for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the three primary macronutrients required by humans in large quantities?",
+          "q": "What applies to the three primary macronutrients required by humans in large quantities?",
           "options": [
             "Sugars, Starches, and Fiber",
             "Carbohydrates, Proteins, and Fats (Lipids)",
@@ -10661,7 +10661,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a distinct condition caused by severe iron deficiency, resulting in relentless fatigue and noticeably pale skin for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the fundamental molecular building blocks of all dietary and cellular proteins?",
+          "q": "What applies to the fundamental molecular building blocks of all dietary and cellular proteins?",
           "options": [
             "Fatty acids",
             "Nucleotides",
@@ -10683,7 +10683,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding amino acids that the human body cannot synthesize and must be obtained entirely from the diet for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the broad umbrella term referring strictly to dietary deficiencies, toxic excesses, or any severe imbalance in nutrient intake?",
+          "q": "What applies to the broad umbrella term referring strictly to dietary deficiencies, toxic excesses, or any severe imbalance in nutrient intake?",
           "options": [
             "Undernutrition",
             "Overnutrition",
@@ -10705,7 +10705,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding an essential mineral acting biologically as a critical intracellular electrolyte and heavily regulating fluid balance/blood pressure for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the four fat-soluble vitamins, stored efficiently in the liver and fatty tissues?",
+          "q": "What applies to the four fat-soluble vitamins, stored efficiently in the liver and fatty tissues?",
           "options": [
             "Vitamins B-complex and C",
             "Vitamins B1, B2, B6, and B12",
@@ -10738,7 +10738,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the water-soluble vitamin required for collagen synthesis, immune function, and iron absorption (found in citrus) for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the fat-soluble vitamin utterly absolutely essential for normal blood clotting?",
+          "q": "What applies to the fat-soluble vitamin utterly absolutely essential for normal blood clotting?",
           "options": [
             "Vitamin C",
             "Vitamin A",
@@ -10749,7 +10749,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the fat-soluble vitamin utterly absolutely essential for normal blood clotting for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a vital trace mineral crucially involved extensively in immune system function and cellular wound healing?",
+          "q": "What applies to a vital trace mineral crucially involved extensively in immune system function and cellular wound healing?",
           "options": [
             "Zinc",
             "Selenium",
@@ -10804,7 +10804,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding dietary fats generally solid at room temperature and typically derived from animal sources (e.g., butter, lard) for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the primary, immediate source of biological energy for the human brain and nervous system?",
+          "q": "What applies to the primary, immediate source of biological energy for the human brain and nervous system?",
           "options": [
             "Proteins",
             "Vitamins",
@@ -10815,7 +10815,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the primary, immediate source of biological energy for the human brain and nervous system for Everyday Science."
         },
         {
-          "q": "Which of the following applies to dietary fats generally solid at room temperature and typically derived from animal sources (e.g., butter, lard)?",
+          "q": "What applies to dietary fats generally solid at room temperature and typically derived from animal sources (e.g., butter, lard)?",
           "options": [
             "Unsaturated fats",
             "Trans fats",
@@ -10826,7 +10826,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding dietary fats generally solid at room temperature and typically derived from animal sources (e.g., butter, lard) for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the most essential nutrient necessary for absolute survival, crucial for cellular transport, highly regulated temperature, and virtually all biological chemical reactions?",
+          "q": "What applies to the most essential nutrient necessary for absolute survival, crucial for cellular transport, highly regulated temperature, and virtually all biological chemical reactions?",
           "options": [
             "Protein",
             "Fat",
@@ -10881,7 +10881,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding biologically active compounds essentially functioning to neutralize highly reactive, dangerous 'free radicals' in cells for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the fat-soluble vitamin acting as a powerful cellular antioxidant, protecting cell membranes?",
+          "q": "What applies to the fat-soluble vitamin acting as a powerful cellular antioxidant, protecting cell membranes?",
           "options": [
             "Vitamin D",
             "Vitamin C",
@@ -10914,7 +10914,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the scientific study of food, essential nutrients, and their fundamental role in human growth and survival for Everyday Science."
         },
         {
-          "q": "Which of the following applies to amino acids that the human body cannot synthesize and must be obtained entirely from the diet?",
+          "q": "What applies to amino acids that the human body cannot synthesize and must be obtained entirely from the diet?",
           "options": [
             "Essential amino acids",
             "Branched-chain amino acids",
@@ -10925,7 +10925,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding amino acids that the human body cannot synthesize and must be obtained entirely from the diet for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the most abundant mineral in the human body, vitally necessary for structural bone and teeth formation?",
+          "q": "What applies to the most abundant mineral in the human body, vitally necessary for structural bone and teeth formation?",
           "options": [
             "Calcium",
             "Iron",
@@ -10969,7 +10969,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the fundamental molecular building blocks of all dietary and cellular proteins for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the storage form of glucose in humans and animals, primarily found in the liver and muscles?",
+          "q": "What applies to the storage form of glucose in humans and animals, primarily found in the liver and muscles?",
           "options": [
             "Cellulose",
             "Glycogen",
@@ -10991,7 +10991,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the severe deficiency disease resulting from a prolonged lack of dietary Vitamin C, characterized by bleeding gums for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the predominant extracellular electrolyte explicitly consumed heavily in table salt, linked to chronic high blood pressure?",
+          "q": "What applies to the predominant extracellular electrolyte explicitly consumed heavily in table salt, linked to chronic high blood pressure?",
           "options": [
             "Iron",
             "Potassium",
@@ -11046,7 +11046,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the storage form of glucose in humans and animals, primarily found in the liver and muscles for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the minimal baseline amount of energy (calories) expended strictly keeping the body functioning at absolute rest?",
+          "q": "What applies to the minimal baseline amount of energy (calories) expended strictly keeping the body functioning at absolute rest?",
           "options": [
             "Active Metabolic Rate",
             "Basal Metabolic Rate (BMR)",
@@ -11101,7 +11101,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the most essential nutrient necessary for absolute survival, crucial for cellular transport, highly regulated temperature, and virtually all biological chemical reactions for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a trace mineral strictly essential for the thyroid gland to synthesize functional thyroid hormones?",
+          "q": "What applies to a trace mineral strictly essential for the thyroid gland to synthesize functional thyroid hormones?",
           "options": [
             "Iron",
             "Zinc",
@@ -11189,7 +11189,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a severe Vitamin B1 (Thiamine) deficiency predominantly causing neurological and cardiovascular severe problems for Everyday Science."
         },
         {
-          "q": "Which of the following applies to so-called 'bad cholesterol' that can dangerously build up in arterial walls, forming plaques?",
+          "q": "What applies to so-called 'bad cholesterol' that can dangerously build up in arterial walls, forming plaques?",
           "options": [
             "LDL (Low-Density Lipoprotein)",
             "HDL (High-Density Lipoprotein)",
@@ -11321,7 +11321,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the water-soluble vitamins, easily excreted in urine and required consistently in the diet for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the only completely essential water-soluble vitamin typically found almost exclusively in animal-derived foods?",
+          "q": "What applies to the only completely essential water-soluble vitamin typically found almost exclusively in animal-derived foods?",
           "options": [
             "Vitamin C",
             "Thiamine (B1)",
@@ -11365,7 +11365,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding biologically active compounds essentially functioning to neutralize highly reactive, dangerous 'free radicals' in cells for Everyday Science."
         },
         {
-          "q": "Which of the following applies to naturally occurring, biologically active chemical compounds found generally in plants, possessing enormous health benefits?",
+          "q": "What applies to naturally occurring, biologically active chemical compounds found generally in plants, possessing enormous health benefits?",
           "options": [
             "Phytochemicals (Phytonutrients)",
             "Zoonutrients",
@@ -11398,7 +11398,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding artificially partially hydrogenated oils historically used to increase shelf life, highly dangerous to cardiovascular health for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a distinct condition caused by severe iron deficiency, resulting in relentless fatigue and noticeably pale skin?",
+          "q": "What applies to a distinct condition caused by severe iron deficiency, resulting in relentless fatigue and noticeably pale skin?",
           "options": [
             "Scurvy",
             "Goiter",
@@ -11409,7 +11409,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a distinct condition caused by severe iron deficiency, resulting in relentless fatigue and noticeably pale skin for Everyday Science."
         },
         {
-          "q": "Which of the following applies to macronutrients essential for building and repairing muscle tissue, acting as enzymes, and forming cellular structures?",
+          "q": "What applies to macronutrients essential for building and repairing muscle tissue, acting as enzymes, and forming cellular structures?",
           "options": [
             "Proteins",
             "Carbohydrates",
@@ -11431,7 +11431,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding complex carbohydrates consisting of long chains of glucose, found in grains and potatoes for Everyday Science."
         },
         {
-          "q": "Which of the following applies to macronutrients serving as a dense energy reserve, providing insulation, and protecting internal organs?",
+          "q": "What applies to macronutrients serving as a dense energy reserve, providing insulation, and protecting internal organs?",
           "options": [
             "Proteins",
             "Minerals",
@@ -11453,7 +11453,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the 'sunshine vitamin,' crucial for calcium absorption and bone health, synthesized in skin upon UV exposure for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the 'sunshine vitamin,' crucial for calcium absorption and bone health, synthesized in skin upon UV exposure?",
+          "q": "What applies to the 'sunshine vitamin,' crucial for calcium absorption and bone health, synthesized in skin upon UV exposure?",
           "options": [
             "Vitamin E",
             "Vitamin C",
@@ -11508,7 +11508,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding inorganic micronutrients required strictly for bone structure, fluid balance, and countless metabolic enzyme functions for Everyday Science."
         },
         {
-          "q": "Which of the following applies to indigestible plant material (complex carbohydrate) essential for healthy bowel function and digestion?",
+          "q": "What applies to indigestible plant material (complex carbohydrate) essential for healthy bowel function and digestion?",
           "options": [
             "Dietary Fiber (Roughage)",
             "Saturated Fat",
@@ -11541,7 +11541,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the severe deficiency disease resulting from a prolonged lack of dietary Vitamin C, characterized by bleeding gums for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the scientifically approved commercial process of heavily heating foods/liquids (like milk) to strictly destroy harmful microscopic pathogens without boiling?",
+          "q": "What applies to the scientifically approved commercial process of heavily heating foods/liquids (like milk) to strictly destroy harmful microscopic pathogens without boiling?",
           "options": [
             "Fermentation",
             "Homogenization",
@@ -11563,7 +11563,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the scientifically approved commercial process of heavily heating foods/liquids (like milk) to strictly destroy harmful microscopic pathogens without boiling for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the severe deficiency disease resulting from a lack of Vitamin D/Calcium, causing soft, deformed bones in children?",
+          "q": "What applies to the severe deficiency disease resulting from a lack of Vitamin D/Calcium, causing soft, deformed bones in children?",
           "options": [
             "Rickets",
             "Scurvy",
@@ -11618,7 +11618,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the most abundant mineral in the human body, vitally necessary for structural bone and teeth formation for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a severe Vitamin B3 (Niacin) deficiency historically causing dermatitis, diarrhea, and dementia?",
+          "q": "What applies to a severe Vitamin B3 (Niacin) deficiency historically causing dermatitis, diarrhea, and dementia?",
           "options": [
             "Beriberi",
             "Pellagra",
@@ -11640,7 +11640,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding macronutrients essential for building and repairing muscle tissue, acting as enzymes, and forming cellular structures for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a waxy, fat-like substance occurring naturally in cell membranes, necessary to produce hormones and Vitamin D?",
+          "q": "What applies to a waxy, fat-like substance occurring naturally in cell membranes, necessary to produce hormones and Vitamin D?",
           "options": [
             "Phospholipid",
             "Triglyceride",
@@ -11662,7 +11662,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the predominant extracellular electrolyte explicitly consumed heavily in table salt, linked to chronic high blood pressure for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a serious, widespread nutritional disorder characterized by a dangerously excessive accumulation of bodily fat?",
+          "q": "What applies to a serious, widespread nutritional disorder characterized by a dangerously excessive accumulation of bodily fat?",
           "options": [
             "Bulimia",
             "Malnutrition",
@@ -11805,7 +11805,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding macronutrients serving as a dense energy reserve, providing insulation, and protecting internal organs for Everyday Science."
         },
         {
-          "q": "Which of the following applies to biologically active compounds essentially functioning to neutralize highly reactive, dangerous 'free radicals' in cells?",
+          "q": "What applies to biologically active compounds essentially functioning to neutralize highly reactive, dangerous 'free radicals' in cells?",
           "options": [
             "Antioxidants",
             "Hormones",
@@ -11827,7 +11827,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a waxy, fat-like substance occurring naturally in cell membranes, necessary to produce hormones and Vitamin D for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a vital trace mineral forming the central functioning core of the hemoglobin molecule for oxygen transport?",
+          "q": "What applies to a vital trace mineral forming the central functioning core of the hemoglobin molecule for oxygen transport?",
           "options": [
             "Iron",
             "Zinc",
@@ -11838,7 +11838,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a vital trace mineral forming the central functioning core of the hemoglobin molecule for oxygen transport for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a critical B-vitamin essential during early pregnancy to completely prevent neural tube defects (e.g., spina bifida)?",
+          "q": "What applies to a critical B-vitamin essential during early pregnancy to completely prevent neural tube defects (e.g., spina bifida)?",
           "options": [
             "Vitamin C",
             "Vitamin D",
@@ -11849,7 +11849,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a critical B-vitamin essential during early pregnancy to completely prevent neural tube defects (e.g., spina bifida) for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a severe Vitamin B1 (Thiamine) deficiency predominantly causing neurological and cardiovascular severe problems?",
+          "q": "What applies to a severe Vitamin B1 (Thiamine) deficiency predominantly causing neurological and cardiovascular severe problems?",
           "options": [
             "Beriberi",
             "Anemia",
@@ -11860,7 +11860,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a severe Vitamin B1 (Thiamine) deficiency predominantly causing neurological and cardiovascular severe problems for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the water-soluble vitamin required for collagen synthesis, immune function, and iron absorption (found in citrus)?",
+          "q": "What applies to the water-soluble vitamin required for collagen synthesis, immune function, and iron absorption (found in citrus)?",
           "options": [
             "Vitamin D",
             "Vitamin A",
@@ -11871,7 +11871,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the water-soluble vitamin required for collagen synthesis, immune function, and iron absorption (found in citrus) for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a common scientifically defined metric relying on a person's weight-to-height ratio, widely used to tentatively categorize obesity?",
+          "q": "What applies to a common scientifically defined metric relying on a person's weight-to-height ratio, widely used to tentatively categorize obesity?",
           "options": [
             "Body Mass Index (BMI)",
             "Body Fat Percentage",
@@ -12223,7 +12223,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a trace mineral strictly essential for the thyroid gland to synthesize functional thyroid hormones for Everyday Science."
         },
         {
-          "q": "Which of the following applies to complex carbohydrates consisting of long chains of glucose, found in grains and potatoes?",
+          "q": "What applies to complex carbohydrates consisting of long chains of glucose, found in grains and potatoes?",
           "options": [
             "Triglycerides",
             "Fibers",
@@ -12234,7 +12234,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding complex carbohydrates consisting of long chains of glucose, found in grains and potatoes for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the water-soluble vitamins, easily excreted in urine and required consistently in the diet?",
+          "q": "What applies to the water-soluble vitamins, easily excreted in urine and required consistently in the diet?",
           "options": [
             "Vitamins A, D, E, and K",
             "Vitamins A, B, C, and D",
@@ -12256,7 +12256,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a dietary protein source containing adequate proportions of all nine essential amino acids (e.g., meat, eggs, quinoa) for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a dietary protein source containing adequate proportions of all nine essential amino acids (e.g., meat, eggs, quinoa)?",
+          "q": "What applies to a dietary protein source containing adequate proportions of all nine essential amino acids (e.g., meat, eggs, quinoa)?",
           "options": [
             "Fibrous protein",
             "Complete protein",
@@ -12355,7 +12355,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a waxy, fat-like substance occurring naturally in cell membranes, necessary to produce hormones and Vitamin D for Everyday Science."
         },
         {
-          "q": "Which of the following applies to dietary fats generally liquid at room temperature, considered heart-healthy, found in olive oil and nuts?",
+          "q": "What applies to dietary fats generally liquid at room temperature, considered heart-healthy, found in olive oil and nuts?",
           "options": [
             "Trans fats",
             "Unsaturated fats",
@@ -12443,7 +12443,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a distinct condition caused by severe iron deficiency, resulting in relentless fatigue and noticeably pale skin for Everyday Science."
         },
         {
-          "q": "Which of the following applies to artificially partially hydrogenated oils historically used to increase shelf life, highly dangerous to cardiovascular health?",
+          "q": "What applies to artificially partially hydrogenated oils historically used to increase shelf life, highly dangerous to cardiovascular health?",
           "options": [
             "Trans fats",
             "Saturated fats",
@@ -12454,7 +12454,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding artificially partially hydrogenated oils historically used to increase shelf life, highly dangerous to cardiovascular health for Everyday Science."
         },
         {
-          "q": "Which of the following applies to an essential mineral acting biologically as a critical intracellular electrolyte and heavily regulating fluid balance/blood pressure?",
+          "q": "What applies to an essential mineral acting biologically as a critical intracellular electrolyte and heavily regulating fluid balance/blood pressure?",
           "options": [
             "Iodine",
             "Copper",
@@ -12465,7 +12465,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding an essential mineral acting biologically as a critical intracellular electrolyte and heavily regulating fluid balance/blood pressure for Everyday Science."
         },
         {
-          "q": "Which of the following applies to so-called 'good cholesterol' that helps transport excess cholesterol essentially back to the liver?",
+          "q": "What applies to so-called 'good cholesterol' that helps transport excess cholesterol essentially back to the liver?",
           "options": [
             "Triglycerides",
             "HDL (High-Density Lipoprotein)",
@@ -12498,7 +12498,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding indigestible plant material (complex carbohydrate) essential for healthy bowel function and digestion for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the severe deficiency disease resulting from a prolonged lack of dietary Vitamin C, characterized by bleeding gums?",
+          "q": "What applies to the severe deficiency disease resulting from a prolonged lack of dietary Vitamin C, characterized by bleeding gums?",
           "options": [
             "Pellagra",
             "Scurvy",
@@ -12531,7 +12531,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding amino acids that the human body cannot synthesize and must be obtained entirely from the diet for Everyday Science."
         },
         {
-          "q": "Which of the following applies to an abnormal, noticeable enlargement of the thyroid gland typically caused by chronic severe iodine deficiency?",
+          "q": "What applies to an abnormal, noticeable enlargement of the thyroid gland typically caused by chronic severe iodine deficiency?",
           "options": [
             "Scurvy",
             "Anemia",
@@ -12564,7 +12564,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a critical B-vitamin essential during early pregnancy to completely prevent neural tube defects (e.g., spina bifida) for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the fat-soluble vitamin critical for maintaining healthy vision, especially in low light, found in carrots/liver?",
+          "q": "What applies to the fat-soluble vitamin critical for maintaining healthy vision, especially in low light, found in carrots/liver?",
           "options": [
             "Vitamin C",
             "Vitamin K",
@@ -12575,7 +12575,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the fat-soluble vitamin critical for maintaining healthy vision, especially in low light, found in carrots/liver for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the scientific study of food, essential nutrients, and their fundamental role in human growth and survival?",
+          "q": "What applies to the scientific study of food, essential nutrients, and their fundamental role in human growth and survival?",
           "options": [
             "Dietetics",
             "Pharmacology",
@@ -12696,7 +12696,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding so-called 'good cholesterol' that helps transport excess cholesterol essentially back to the liver for Everyday Science."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Food Preservatives'?",
+          "q": "Which is correct about the concept of 'Food Preservatives'?",
           "options": [
             "It is documented in the manual 'Mineral Nutrition Guidelines'.",
             "It belongs to the domain of 'Dietetics'.",
@@ -12762,7 +12762,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Water Universal' is built on the concept: 'the universal solvent regulating body temperature and metabolic reactions'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Pasteurization'?",
+          "q": "Which is correct about the concept of 'Pasteurization'?",
           "options": [
             "Its contrasting theme is 'calcium regulation and bone mineralization'.",
             "It belongs to the domain of 'Clinical Nutrition'.",
@@ -12773,7 +12773,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Pasteurization' is defined as 'the thermal process destroying heat-sensitive pathogens in milk'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Zinc Mineral'?",
+          "q": "What is a key description or fact regarding the concept of 'Zinc Mineral'?",
           "options": [
             "\"Iodine deficiency causes goiter and developmental delays in children.\"",
             "\"Fiber helps lower blood cholesterol and prevents constipation.\"",
@@ -12784,7 +12784,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Zinc Mineral' is: \"Zinc is a cofactor for over 300 enzymes in the human body.\"."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'shelf-life extension and food safety'?",
+          "q": "What is a major reference or manual focusing on 'shelf-life extension and food safety'?",
           "options": [
             "Nutritional Deficiency Handbooks",
             "Food Preservation Manuals",
@@ -12839,7 +12839,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Calcium'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Calcium'?",
+          "q": "Which is correct about the core idea of 'Calcium'?",
           "options": [
             "It is documented in 'Mineral Nutrition Guidelines'.",
             "It is themed as 'energy metabolism and glucose supply'.",
@@ -12861,7 +12861,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Food Preservation Manuals' is the manual associated with 'microbial preservation and food processing'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Iron deficiency is the leading cause of anemia worldwide, causing fatigue.\"?",
+          "q": "What describes the key fact or historical quote: \"Iron deficiency is the leading cause of anemia worldwide, causing fatigue.\"?",
           "options": [
             "Vitamin K",
             "Iron Mineral",
@@ -12872,7 +12872,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Iron Mineral'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Fermentation Process'?",
+          "q": "What is a key description or fact regarding the concept of 'Fermentation Process'?",
           "options": [
             "\"Carbohydrates are stored in the liver and muscles as glycogen.\"",
             "\"Zinc is a cofactor for over 300 enzymes in the human body.\"",
@@ -12894,7 +12894,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Iron Mineral' is the direct contrast to 'Iodine Mineral'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Iron Mineral'?",
+          "q": "Which is correct about the core idea of 'Iron Mineral'?",
           "options": [
             "It belongs to the field of 'Food Technology'.",
             "It is documented in 'Food Preservation Manuals'.",
@@ -12927,7 +12927,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin A' is the standard contrast to 'Vitamin C'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Iron Mineral'?",
+          "q": "Which is correct about the concept of 'Iron Mineral'?",
           "options": [
             "It belongs to the domain of 'Clinical Nutrition'.",
             "It is defined as 'the trace mineral forming the heme core of oxygen-carrying proteins'.",
@@ -12971,7 +12971,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Fermentation Process'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Zinc Mineral'?",
+          "q": "Which is correct about the core idea of 'Zinc Mineral'?",
           "options": [
             "It is themed as 'tissue repair and enzyme synthesis'.",
             "It is defined as 'the mineral essential for enzyme catalysis, immunity, and wound healing'.",
@@ -13004,7 +13004,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Macronutrient Energy Manuals' is the manual associated with 'protein synthesis and metabolic building'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'bowel movement and digestive health'?",
+          "q": "What is a major reference or manual focusing on 'bowel movement and digestive health'?",
           "options": [
             "Nutritional Deficiency Handbooks",
             "Food Preservation Manuals",
@@ -13015,7 +13015,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Gastrointestinal Diet Guides' is known for its focus on 'bowel movement and digestive health'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Iodine Mineral'?",
+          "q": "What is a key description or fact regarding the concept of 'Iodine Mineral'?",
           "options": [
             "\"Iodine deficiency causes goiter and developmental delays in children.\"",
             "\"Lipids yield more than twice the energy per gram compared to carbohydrates.\"",
@@ -13037,7 +13037,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Food Preservatives' is 'the chemical additives preventing microbial growth and chemical oxidation'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'electrolyte balance and nerve impulses'?",
+          "q": "What is a major reference or manual focusing on 'electrolyte balance and nerve impulses'?",
           "options": [
             "Mineral Nutrition Guidelines",
             "Mineral Nutrition Guidelines",
@@ -13070,7 +13070,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Cardiovascular Diet Guidelines' is the manual associated with 'arterial plaque and heart disease risk'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Dietetics'?",
+          "q": "What is situated within the study field of 'Dietetics'?",
           "options": [
             "Carbohydrates",
             "Amino Acids",
@@ -13136,7 +13136,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Nutritional Deficiency Handbooks' is associated with 'Vitamin B1'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Deficiency of Vitamin B3 causes pellagra, characterized by dermatitis and dementia.\"?",
+          "q": "What describes the key fact or historical quote: \"Deficiency of Vitamin B3 causes pellagra, characterized by dermatitis and dementia.\"?",
           "options": [
             "Vitamin A",
             "Vitamin B3",
@@ -13147,7 +13147,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Vitamin B3'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Vitamin B12'?",
+          "q": "Which is correct about the core idea of 'Vitamin B12'?",
           "options": [
             "It is defined as 'the cobalt-containing vitamin essential for red blood cell maturation'.",
             "It is themed as 'bowel movement and digestive health'.",
@@ -13213,7 +13213,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Mineral Nutrition Guidelines' contains documentation regarding 'electrolyte balance and nerve impulses'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'oxygen binding and red blood cell production'?",
+          "q": "What is a major reference or manual focusing on 'oxygen binding and red blood cell production'?",
           "options": [
             "Food Preservation Manuals",
             "Mineral Nutrition Guidelines",
@@ -13224,7 +13224,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Mineral Nutrition Guidelines' is known for its focus on 'oxygen binding and red blood cell production'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Fermentation Process'?",
+          "q": "Which is correct about the core idea of 'Fermentation Process'?",
           "options": [
             "It is documented in 'Macronutrient Energy Manuals'.",
             "It belongs to the field of 'Dietetics'.",
@@ -13279,7 +13279,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Fermentation Process'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Trans Fats'?",
+          "q": "Which is correct about the core idea of 'Trans Fats'?",
           "options": [
             "It is defined as 'the unhealthy unsaturated fats raising LDL cholesterol levels'.",
             "It belongs to the field of 'Clinical Nutrition'.",
@@ -13323,7 +13323,7 @@ window.QuizData_everyday_science = {
           "explanation": "'retinol functions and vision protection' is a major theme inside 'Clinical Nutrition'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Excessive sodium intake is associated with hypertension and fluid retention.\"?",
+          "q": "What describes the key fact or historical quote: \"Excessive sodium intake is associated with hypertension and fluid retention.\"?",
           "options": [
             "Vitamin K",
             "Zinc Mineral",
@@ -13367,7 +13367,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin E' deals with the theme of 'antioxidant defense and membrane stability'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Clinical Nutrition'?",
+          "q": "What is situated within the study field of 'Clinical Nutrition'?",
           "options": [
             "Vitamin C",
             "Vitamin D",
@@ -13378,7 +13378,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin A' falls under the discipline of 'Clinical Nutrition'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Fermentation is utilized to produce yogurt, cheese, bread, and vinegar.\"?",
+          "q": "What describes the key fact or historical quote: \"Fermentation is utilized to produce yogurt, cheese, bread, and vinegar.\"?",
           "options": [
             "Carbohydrates",
             "Zinc Mineral",
@@ -13400,7 +13400,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Macronutrient Energy Manuals' contains documentation regarding 'energy metabolism and glucose supply'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'tissue repair and enzyme synthesis'?",
+          "q": "What is a major reference or manual focusing on 'tissue repair and enzyme synthesis'?",
           "options": [
             "Nutritional Deficiency Handbooks",
             "Nutritional Deficiency Handbooks",
@@ -13411,7 +13411,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Macronutrient Energy Manuals' is known for its focus on 'tissue repair and enzyme synthesis'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Deficiency of Vitamin B1 causes beriberi, affecting the nervous system.\"?",
+          "q": "What describes the key fact or historical quote: \"Deficiency of Vitamin B1 causes beriberi, affecting the nervous system.\"?",
           "options": [
             "Trans Fats",
             "Vitamin C",
@@ -13455,7 +13455,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Mineral Nutrition Guidelines' is associated with 'Iodine Mineral'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Deficiency of Vitamin A leads to xerophthalmia and night blindness.\"?",
+          "q": "What describes the key fact or historical quote: \"Deficiency of Vitamin A leads to xerophthalmia and night blindness.\"?",
           "options": [
             "Vitamin B3",
             "Vitamin A",
@@ -13488,7 +13488,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Macronutrient Energy Manuals' is associated with 'Carbohydrates'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Vitamin A'?",
+          "q": "Which is correct about the core idea of 'Vitamin A'?",
           "options": [
             "It is themed as 'calcium regulation and bone mineralization'.",
             "It is defined as 'the fat-soluble vitamin essential for night vision and immune health'.",
@@ -13521,7 +13521,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Nutritional Deficiency Handbooks' is the manual associated with 'retinol functions and vision protection'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Fermentation Process'?",
+          "q": "Which is correct about the concept of 'Fermentation Process'?",
           "options": [
             "It is defined as 'the anaerobic process converting carbohydrates into alcohols or organic acids'.",
             "It belongs to the domain of 'Clinical Nutrition'.",
@@ -13543,7 +13543,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Nutritional Deficiency Handbooks' is associated with 'Vitamin D'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Trans Fats'?",
+          "q": "What is a key description or fact regarding the concept of 'Trans Fats'?",
           "options": [
             "\"Iodine deficiency causes goiter and developmental delays in children.\"",
             "\"Proteins are composed of long chains of amino acids linked by peptide bonds.\"",
@@ -13554,7 +13554,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Trans Fats' is: \"Trans fats are formed during partial hydrogenation of vegetable oils.\"."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Vitamin K deficiency causes prolonged bleeding times and poor coagulation.\"?",
+          "q": "What describes the key fact or historical quote: \"Vitamin K deficiency causes prolonged bleeding times and poor coagulation.\"?",
           "options": [
             "Vitamin A",
             "Fermentation Process",
@@ -13653,7 +13653,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Nutritional Deficiency Handbooks' contains documentation regarding 'antioxidant defense and membrane stability'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Vitamin C'?",
+          "q": "Which is correct about the core idea of 'Vitamin C'?",
           "options": [
             "It is themed as 'thiamine functions and nerve health'.",
             "It is defined as 'the ascorbic acid nutrient found in citrus fruits enhancing iron absorption'.",
@@ -13664,7 +13664,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin C' is defined as 'the ascorbic acid nutrient found in citrus fruits enhancing iron absorption'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Vitamin E acts as a powerful antioxidant, protecting cells from free radicals.\"?",
+          "q": "What describes the key fact or historical quote: \"Vitamin E acts as a powerful antioxidant, protecting cells from free radicals.\"?",
           "options": [
             "Calcium",
             "Sodium Mineral",
@@ -13719,7 +13719,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Mineral Nutrition Guidelines' contains documentation regarding 'thyroid regulation and cognitive development'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Proteins Nutrient'?",
+          "q": "What is a key description or fact regarding the concept of 'Proteins Nutrient'?",
           "options": [
             "\"Lipids yield more than twice the energy per gram compared to carbohydrates.\"",
             "\"Proteins are composed of long chains of amino acids linked by peptide bonds.\"",
@@ -13730,7 +13730,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Proteins Nutrient' is: \"Proteins are composed of long chains of amino acids linked by peptide bonds.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Vitamin B1'?",
+          "q": "What is a key description or fact regarding the concept of 'Vitamin B1'?",
           "options": [
             "\"Vitamin C deficiency leads to scurvy, causing bleeding gums and weak joints.\"",
             "\"Zinc is a cofactor for over 300 enzymes in the human body.\"",
@@ -13741,7 +13741,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Vitamin B1' is: \"Deficiency of Vitamin B1 causes beriberi, affecting the nervous system.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Pasteurization'?",
+          "q": "What is a key description or fact regarding the concept of 'Pasteurization'?",
           "options": [
             "\"Excessive sodium intake is associated with hypertension and fluid retention.\"",
             "\"Fiber helps lower blood cholesterol and prevents constipation.\"",
@@ -13785,7 +13785,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Nutritional Deficiency Handbooks' contains documentation regarding 'calcium regulation and bone mineralization'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Carbohydrates'?",
+          "q": "Which is correct about the concept of 'Carbohydrates'?",
           "options": [
             "It is documented in the manual 'Macronutrient Energy Manuals'.",
             "It is defined as 'the primary organic compounds providing rapid fuel for cellular activities'.",
@@ -13807,7 +13807,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin D' is the standard contrast to 'Vitamin K'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Vitamin D'?",
+          "q": "What is a key description or fact regarding the concept of 'Vitamin D'?",
           "options": [
             "\"Deficiency of Vitamin B1 causes beriberi, affecting the nervous system.\"",
             "\"Vitamin D deficiency causes rickets in children and osteomalacia in adults.\"",
@@ -13818,7 +13818,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Vitamin D' is: \"Vitamin D deficiency causes rickets in children and osteomalacia in adults.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Sodium Mineral'?",
+          "q": "What is a key description or fact regarding the concept of 'Sodium Mineral'?",
           "options": [
             "\"Vitamin K deficiency causes prolonged bleeding times and poor coagulation.\"",
             "\"Zinc is a cofactor for over 300 enzymes in the human body.\"",
@@ -13840,7 +13840,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Zinc Mineral'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Iodine Mineral'?",
+          "q": "Which is correct about the concept of 'Iodine Mineral'?",
           "options": [
             "It is documented in the manual 'Nutritional Deficiency Handbooks'.",
             "It belongs to the domain of 'Dietetics'.",
@@ -13851,7 +13851,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Iodine Mineral' is defined as 'the trace element required for synthesis of thyroid hormones'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Lysine deficiency in cereal diets can be balanced by consuming legumes.\"?",
+          "q": "What describes the key fact or historical quote: \"Lysine deficiency in cereal diets can be balanced by consuming legumes.\"?",
           "options": [
             "Water Universal",
             "Lysine Amino",
@@ -13862,7 +13862,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Lysine Amino'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Vitamin K'?",
+          "q": "Which is correct about the concept of 'Vitamin K'?",
           "options": [
             "Its contrasting theme is 'retinol functions and vision protection'.",
             "It is documented in the manual 'Food Preservation Manuals'.",
@@ -13873,7 +13873,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin K' is defined as 'the phylloquinone vitamin essential for synthesizing blood clotting factors'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Vitamin C deficiency leads to scurvy, causing bleeding gums and weak joints.\"?",
+          "q": "What describes the key fact or historical quote: \"Vitamin C deficiency leads to scurvy, causing bleeding gums and weak joints.\"?",
           "options": [
             "Vitamin C",
             "Vitamin B1",
@@ -13961,7 +13961,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Pasteurization' deals with the theme of 'pathogen reduction and shelf life extension'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'antioxidant defense and membrane stability'?",
+          "q": "What is a major reference or manual focusing on 'antioxidant defense and membrane stability'?",
           "options": [
             "Mineral Nutrition Guidelines",
             "Food Preservation Manuals",
@@ -14027,7 +14027,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Vitamin B12'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'amino acid profiles and grain nutrition'?",
+          "q": "What is a major reference or manual focusing on 'amino acid profiles and grain nutrition'?",
           "options": [
             "Human Hydration Studies",
             "Cereal Nutritional Studies",
@@ -14082,7 +14082,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Lysine Amino' is classified under the domain of 'Dietetics'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Vitamin E'?",
+          "q": "What is a key description or fact regarding the concept of 'Vitamin E'?",
           "options": [
             "\"Preservatives like sodium benzoate inhibit mold and bacteria growth in foods.\"",
             "\"Vitamin E acts as a powerful antioxidant, protecting cells from free radicals.\"",
@@ -14115,7 +14115,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Mineral Nutrition Guidelines' contains documentation regarding 'bone mineralization and nerve transmission'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Amino Acids'?",
+          "q": "Which is correct about the core idea of 'Amino Acids'?",
           "options": [
             "It belongs to the field of 'Clinical Nutrition'.",
             "It is themed as 'energy metabolism and glucose supply'.",
@@ -14159,7 +14159,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin B3' is built on the concept: 'the niacin nutrient essential for energy pathways and skin health'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'pathogen reduction and shelf life extension'?",
+          "q": "What is a major reference or manual focusing on 'pathogen reduction and shelf life extension'?",
           "options": [
             "Gastrointestinal Diet Guides",
             "Mineral Nutrition Guidelines",
@@ -14170,7 +14170,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Food Preservation Manuals' is known for its focus on 'pathogen reduction and shelf life extension'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Proteins are composed of long chains of amino acids linked by peptide bonds.\"?",
+          "q": "What describes the key fact or historical quote: \"Proteins are composed of long chains of amino acids linked by peptide bonds.\"?",
           "options": [
             "Vitamin B12",
             "Proteins Nutrient",
@@ -14192,7 +14192,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Mineral Nutrition Guidelines' contains documentation regarding 'cellular growth and immune support'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Pasteurization'?",
+          "q": "Which is correct about the core idea of 'Pasteurization'?",
           "options": [
             "It belongs to the field of 'Dietetics'.",
             "It is documented in 'Nutritional Deficiency Handbooks'.",
@@ -14236,7 +14236,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Carbohydrates' is the contrast to 'Proteins Nutrient'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Cardiovascular Diet Guidelines'?",
+          "q": "Which is correct about the book/guide 'Cardiovascular Diet Guidelines'?",
           "options": [
             "It is written about 'Iodine Mineral'.",
             "It addresses the theme of 'arterial plaque and heart disease risk'.",
@@ -14247,7 +14247,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Cardiovascular Diet Guidelines' focuses on 'arterial plaque and heart disease risk'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Amino Acids'?",
+          "q": "What is a key description or fact regarding the concept of 'Amino Acids'?",
           "options": [
             "\"Lysine deficiency in cereal diets can be balanced by consuming legumes.\"",
             "\"Essential amino acids cannot be synthesized by the body and must come from food.\"",
@@ -14269,7 +14269,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Nutritional Deficiency Handbooks' is associated with 'Vitamin C'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Iron Mineral'?",
+          "q": "What is a key description or fact regarding the concept of 'Iron Mineral'?",
           "options": [
             "\"Vitamin K deficiency causes prolonged bleeding times and poor coagulation.\"",
             "\"Preservatives like sodium benzoate inhibit mold and bacteria growth in foods.\"",
@@ -14324,7 +14324,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Mineral Nutrition Guidelines' is the manual associated with 'oxygen binding and red blood cell production'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'retinol functions and vision protection'?",
+          "q": "What is a major reference or manual focusing on 'retinol functions and vision protection'?",
           "options": [
             "Nutritional Deficiency Handbooks",
             "Nutritional Deficiency Handbooks",
@@ -14357,7 +14357,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Mineral Nutrition Guidelines' is associated with 'Zinc Mineral'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Water makes up about 60% of adult body weight, vital for waste excretion.\"?",
+          "q": "What describes the key fact or historical quote: \"Water makes up about 60% of adult body weight, vital for waste excretion.\"?",
           "options": [
             "Vitamin D",
             "Water Universal",
@@ -14368,7 +14368,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Water Universal'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'cellular growth and immune support'?",
+          "q": "What is a major reference or manual focusing on 'cellular growth and immune support'?",
           "options": [
             "Gastrointestinal Diet Guides",
             "Mineral Nutrition Guidelines",
@@ -14423,7 +14423,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Vitamin K'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Lysine Amino'?",
+          "q": "Which is correct about the concept of 'Lysine Amino'?",
           "options": [
             "It belongs to the domain of 'Clinical Nutrition'.",
             "Its contrasting theme is 'bowel movement and digestive health'.",
@@ -14456,7 +14456,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Lipids' deals with the theme of 'energy storage and cell membrane structures'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Vitamin B3'?",
+          "q": "Which is correct about the core idea of 'Vitamin B3'?",
           "options": [
             "It is themed as 'thyroid regulation and cognitive development'.",
             "It belongs to the field of 'Clinical Nutrition'.",
@@ -14467,7 +14467,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin B3' is defined as 'the niacin nutrient essential for energy pathways and skin health'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Zinc Mineral'?",
+          "q": "Which is correct about the concept of 'Zinc Mineral'?",
           "options": [
             "It is documented in the manual 'Mineral Nutrition Guidelines'.",
             "Its contrasting theme is 'bowel movement and digestive health'.",
@@ -14500,7 +14500,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Vitamin A'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Sodium Mineral'?",
+          "q": "Which is correct about the core idea of 'Sodium Mineral'?",
           "options": [
             "It belongs to the field of 'Clinical Nutrition'.",
             "It is themed as 'coagulation factors and bone health'.",
@@ -14511,7 +14511,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Sodium Mineral' is defined as 'the electrolyte regulating extracellular fluid volume and osmotic balance'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Food Technology'?",
+          "q": "What is situated within the study field of 'Food Technology'?",
           "options": [
             "Dietary Fiber",
             "Sodium Mineral",
@@ -14522,7 +14522,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Pasteurization' falls under the discipline of 'Food Technology'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Dietary Fiber'?",
+          "q": "Which is correct about the core idea of 'Dietary Fiber'?",
           "options": [
             "It is documented in 'Nutritional Deficiency Handbooks'.",
             "It is defined as 'the indigestible plant material promoting healthy intestinal peristalsis'.",
@@ -14621,7 +14621,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Human Hydration Studies' is associated with 'Water Universal'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Dietary Fiber'?",
+          "q": "Which is correct about the concept of 'Dietary Fiber'?",
           "options": [
             "It is defined as 'the indigestible plant material promoting healthy intestinal peristalsis'.",
             "It is documented in the manual 'Food Preservation Manuals'.",
@@ -14632,7 +14632,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Dietary Fiber' is defined as 'the indigestible plant material promoting healthy intestinal peristalsis'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Nutritional Deficiency Handbooks'?",
+          "q": "Which is correct about the book/guide 'Nutritional Deficiency Handbooks'?",
           "options": [
             "It is contrasted with 'Vitamin K'.",
             "Its primary focus is 'Clinical Nutrition'.",
@@ -14643,7 +14643,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Nutritional Deficiency Handbooks' focuses on 'retinol functions and vision protection'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Calcium'?",
+          "q": "What is a key description or fact regarding the concept of 'Calcium'?",
           "options": [
             "\"Carbohydrates are stored in the liver and muscles as glycogen.\"",
             "\"Iodine deficiency causes goiter and developmental delays in children.\"",
@@ -14665,7 +14665,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Sodium' is the contrast to 'Zinc Mineral'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'cobalamin functions and red blood cells'?",
+          "q": "What is a major reference or manual focusing on 'cobalamin functions and red blood cells'?",
           "options": [
             "Gastrointestinal Diet Guides",
             "Nutritional Deficiency Handbooks",
@@ -14676,7 +14676,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Nutritional Deficiency Handbooks' is known for its focus on 'cobalamin functions and red blood cells'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Vitamin E'?",
+          "q": "Which is correct about the concept of 'Vitamin E'?",
           "options": [
             "It is documented in the manual 'Mineral Nutrition Guidelines'.",
             "It is defined as 'the tocopherol fat-soluble antioxidant protecting cell membranes'.",
@@ -14764,7 +14764,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Proteins' is the contrast to 'Carbohydrates'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Amino Acids'?",
+          "q": "Which is correct about the concept of 'Amino Acids'?",
           "options": [
             "It belongs to the domain of 'Dietetics'.",
             "It is defined as 'the twenty organic compounds acting as building blocks of proteins'.",
@@ -14797,7 +14797,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Gastrointestinal Diet Guides' is associated with 'Dietary Fiber'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'niacin functions and cellular respiration'?",
+          "q": "What is a major reference or manual focusing on 'niacin functions and cellular respiration'?",
           "options": [
             "Mineral Nutrition Guidelines",
             "Nutritional Deficiency Handbooks",
@@ -14907,7 +14907,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Cardiovascular Diet Guidelines' contains documentation regarding 'arterial plaque and heart disease risk'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Vitamin B12 is synthesized by microbes and is vital for neural function.\"?",
+          "q": "What describes the key fact or historical quote: \"Vitamin B12 is synthesized by microbes and is vital for neural function.\"?",
           "options": [
             "Vitamin B12",
             "Vitamin C",
@@ -15028,7 +15028,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin B1' is the direct contrast to 'Vitamin B12'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Dietary Fiber'?",
+          "q": "What is a key description or fact regarding the concept of 'Dietary Fiber'?",
           "options": [
             "\"Vitamin K deficiency causes prolonged bleeding times and poor coagulation.\"",
             "\"Proteins are composed of long chains of amino acids linked by peptide bonds.\"",
@@ -15039,7 +15039,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Dietary Fiber' is: \"Fiber helps lower blood cholesterol and prevents constipation.\"."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Vitamin A'?",
+          "q": "Which is correct about the concept of 'Vitamin A'?",
           "options": [
             "It is documented in the manual 'Nutritional Deficiency Handbooks'.",
             "Its contrasting theme is 'ascorbic acid functions and collagen synthesis'.",
@@ -15160,7 +15160,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Iron Mineral'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Vitamin B12'?",
+          "q": "What is a key description or fact regarding the concept of 'Vitamin B12'?",
           "options": [
             "\"Vitamin D deficiency causes rickets in children and osteomalacia in adults.\"",
             "\"Vitamin B12 is synthesized by microbes and is vital for neural function.\"",
@@ -15204,7 +15204,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin B3' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Sodium Mineral'?",
+          "q": "Which is correct about the concept of 'Sodium Mineral'?",
           "options": [
             "It is defined as 'the electrolyte regulating extracellular fluid volume and osmotic balance'.",
             "Its contrasting theme is 'cellular growth and immune support'.",
@@ -15215,7 +15215,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Sodium Mineral' is defined as 'the electrolyte regulating extracellular fluid volume and osmotic balance'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Iodine Mineral'?",
+          "q": "Which is correct about the core idea of 'Iodine Mineral'?",
           "options": [
             "It is themed as 'energy storage and cell membrane structures'.",
             "It is defined as 'the trace element required for synthesis of thyroid hormones'.",
@@ -15259,7 +15259,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Human Hydration Studies' is associated with 'Water Universal'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Vitamin B1'?",
+          "q": "Which is correct about the concept of 'Vitamin B1'?",
           "options": [
             "It is documented in the manual 'Mineral Nutrition Guidelines'.",
             "It belongs to the domain of 'Clinical Nutrition'.",
@@ -15314,7 +15314,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Water Universal' is 'the universal solvent regulating body temperature and metabolic reactions'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Lipids'?",
+          "q": "Which is correct about the concept of 'Lipids'?",
           "options": [
             "It is defined as 'the organic fats providing long-term energy storage and insulating organs'.",
             "Its contrasting theme is 'coagulation factors and bone health'.",
@@ -15325,7 +15325,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Lipids' is defined as 'the organic fats providing long-term energy storage and insulating organs'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Vitamin D'?",
+          "q": "Which is correct about the core idea of 'Vitamin D'?",
           "options": [
             "It is defined as 'the calciferol vitamin regulating calcium absorption synthesized via sunlight'.",
             "It is documented in 'Nutritional Deficiency Handbooks'.",
@@ -15336,7 +15336,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin D' is defined as 'the calciferol vitamin regulating calcium absorption synthesized via sunlight'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'hydration and thermal regulation'?",
+          "q": "What is a major reference or manual focusing on 'hydration and thermal regulation'?",
           "options": [
             "Nutritional Deficiency Handbooks",
             "Nutritional Deficiency Handbooks",
@@ -15369,7 +15369,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Mineral Nutrition Guidelines' is the manual associated with 'bone mineralization and nerve transmission'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Zinc is a cofactor for over 300 enzymes in the human body.\"?",
+          "q": "What describes the key fact or historical quote: \"Zinc is a cofactor for over 300 enzymes in the human body.\"?",
           "options": [
             "Zinc Mineral",
             "Iodine Mineral",
@@ -15413,7 +15413,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Calcium' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'ascorbic acid functions and collagen synthesis'?",
+          "q": "What is a major reference or manual focusing on 'ascorbic acid functions and collagen synthesis'?",
           "options": [
             "Human Hydration Studies",
             "Nutritional Deficiency Handbooks",
@@ -15435,7 +15435,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin K' is the direct contrast to 'Vitamin D'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Pasteurization heats milk to specific temperatures to make it safe for drinking.\"?",
+          "q": "What describes the key fact or historical quote: \"Pasteurization heats milk to specific temperatures to make it safe for drinking.\"?",
           "options": [
             "Vitamin D",
             "Pasteurization",
@@ -15468,7 +15468,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Iodine Mineral' deals with the theme of 'thyroid regulation and cognitive development'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Food Preservatives'?",
+          "q": "What is a key description or fact regarding the concept of 'Food Preservatives'?",
           "options": [
             "\"Preservatives like sodium benzoate inhibit mold and bacteria growth in foods.\"",
             "\"Deficiency of Vitamin A leads to xerophthalmia and night blindness.\"",
@@ -15556,7 +15556,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Amino Acids'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'bone mineralization and nerve transmission'?",
+          "q": "What is a major reference or manual focusing on 'bone mineralization and nerve transmission'?",
           "options": [
             "Mineral Nutrition Guidelines",
             "Mineral Nutrition Guidelines",
@@ -15600,7 +15600,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Proteins Nutrient' is built on the concept: 'the nitrogenous compounds essential for structural growth and enzyme building'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Proteins Nutrient'?",
+          "q": "Which is correct about the concept of 'Proteins Nutrient'?",
           "options": [
             "Its contrasting theme is 'energy storage and cell membrane structures'.",
             "It is documented in the manual 'Nutritional Deficiency Handbooks'.",
@@ -15633,7 +15633,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Trans Fats' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Macronutrient Energy Manuals'?",
+          "q": "Which is correct about the book/guide 'Macronutrient Energy Manuals'?",
           "options": [
             "It addresses the theme of 'energy metabolism and glucose supply'.",
             "It is written about 'Amino Acids'.",
@@ -15710,7 +15710,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Macronutrient Energy Manuals' is the manual associated with 'tissue repair and enzyme synthesis'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Iodine deficiency causes goiter and developmental delays in children.\"?",
+          "q": "What describes the key fact or historical quote: \"Iodine deficiency causes goiter and developmental delays in children.\"?",
           "options": [
             "Vitamin B1",
             "Lipids",
@@ -15765,7 +15765,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Vitamin B3'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Vitamin D'?",
+          "q": "Which is correct about the concept of 'Vitamin D'?",
           "options": [
             "It is documented in the manual 'Mineral Nutrition Guidelines'.",
             "Its contrasting theme is 'antioxidant defense and membrane stability'.",
@@ -15886,7 +15886,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Gluten Proteins' is the contrast to 'Lysine Amino'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Carbohydrates'?",
+          "q": "Which is correct about the core idea of 'Carbohydrates'?",
           "options": [
             "It belongs to the field of 'Dietetics'.",
             "It is themed as 'amino acid profiles and grain nutrition'.",
@@ -16051,7 +16051,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin K' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Vitamin K'?",
+          "q": "Which is correct about the core idea of 'Vitamin K'?",
           "options": [
             "It is documented in 'Nutritional Deficiency Handbooks'.",
             "It is defined as 'the phylloquinone vitamin essential for synthesizing blood clotting factors'.",
@@ -16073,7 +16073,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Starch' is the contrast to 'Dietary Fiber'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Vitamin D deficiency causes rickets in children and osteomalacia in adults.\"?",
+          "q": "What describes the key fact or historical quote: \"Vitamin D deficiency causes rickets in children and osteomalacia in adults.\"?",
           "options": [
             "Vitamin B1",
             "Zinc Mineral",
@@ -16095,7 +16095,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin B12' is the standard contrast to 'Vitamin B1'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Carbohydrates are stored in the liver and muscles as glycogen.\"?",
+          "q": "What describes the key fact or historical quote: \"Carbohydrates are stored in the liver and muscles as glycogen.\"?",
           "options": [
             "Amino Acids",
             "Carbohydrates",
@@ -16128,7 +16128,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin C' is built on the concept: 'the ascorbic acid nutrient found in citrus fruits enhancing iron absorption'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'calcium regulation and bone mineralization'?",
+          "q": "What is a major reference or manual focusing on 'calcium regulation and bone mineralization'?",
           "options": [
             "Nutritional Deficiency Handbooks",
             "Mineral Nutrition Guidelines",
@@ -16205,7 +16205,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin D' is the direct contrast to 'Vitamin K'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Vitamin K'?",
+          "q": "What is a key description or fact regarding the concept of 'Vitamin K'?",
           "options": [
             "\"Fiber helps lower blood cholesterol and prevents constipation.\"",
             "\"Vitamin K deficiency causes prolonged bleeding times and poor coagulation.\"",
@@ -16238,7 +16238,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Lysine Amino' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'energy metabolism and glucose supply'?",
+          "q": "What is a major reference or manual focusing on 'energy metabolism and glucose supply'?",
           "options": [
             "Macronutrient Energy Manuals",
             "Cereal Nutritional Studies",
@@ -16293,7 +16293,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin K' is the contrast to 'Vitamin D'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Calcium is vital for muscle contraction and maintaining strong teeth.\"?",
+          "q": "What describes the key fact or historical quote: \"Calcium is vital for muscle contraction and maintaining strong teeth.\"?",
           "options": [
             "Iodine Mineral",
             "Calcium",
@@ -16381,7 +16381,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Iron Mineral' is 'the trace mineral forming the heme core of oxygen-carrying proteins'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'arterial plaque and heart disease risk'?",
+          "q": "What is a major reference or manual focusing on 'arterial plaque and heart disease risk'?",
           "options": [
             "Cardiovascular Diet Guidelines",
             "Macronutrient Energy Manuals",
@@ -16491,7 +16491,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Oxidation' is the standard contrast to 'Fermentation Process'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Food Preservation Manuals'?",
+          "q": "Which is correct about the book/guide 'Food Preservation Manuals'?",
           "options": [
             "It is written about 'Dietary Fiber'.",
             "It is contrasted with 'Zinc Mineral'.",
@@ -16535,7 +16535,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Water Universal' is classified under the domain of 'Dietetics'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Trans Fats'?",
+          "q": "Which is correct about the concept of 'Trans Fats'?",
           "options": [
             "It is defined as 'the unhealthy unsaturated fats raising LDL cholesterol levels'.",
             "Its contrasting theme is 'energy storage and cell membrane structures'.",
@@ -16546,7 +16546,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Trans Fats' is defined as 'the unhealthy unsaturated fats raising LDL cholesterol levels'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Lipids'?",
+          "q": "What is a key description or fact regarding the concept of 'Lipids'?",
           "options": [
             "\"Vitamin K deficiency causes prolonged bleeding times and poor coagulation.\"",
             "\"Lipids yield more than twice the energy per gram compared to carbohydrates.\"",
@@ -16601,7 +16601,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Calcium' is classified under the domain of 'Clinical Nutrition'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Fiber helps lower blood cholesterol and prevents constipation.\"?",
+          "q": "What describes the key fact or historical quote: \"Fiber helps lower blood cholesterol and prevents constipation.\"?",
           "options": [
             "Proteins Nutrient",
             "Dietary Fiber",
@@ -16634,7 +16634,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Iron Mineral' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Lysine Amino'?",
+          "q": "What is a key description or fact regarding the concept of 'Lysine Amino'?",
           "options": [
             "\"Lysine deficiency in cereal diets can be balanced by consuming legumes.\"",
             "\"Fiber helps lower blood cholesterol and prevents constipation.\"",
@@ -16667,7 +16667,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Lysine Amino'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Vitamin C'?",
+          "q": "Which is correct about the concept of 'Vitamin C'?",
           "options": [
             "It is defined as 'the ascorbic acid nutrient found in citrus fruits enhancing iron absorption'.",
             "Its contrasting theme is 'hydration and thermal regulation'.",
@@ -16700,7 +16700,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Sodium' is the standard contrast to 'Zinc Mineral'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'thyroid regulation and cognitive development'?",
+          "q": "What is a major reference or manual focusing on 'thyroid regulation and cognitive development'?",
           "options": [
             "Nutritional Deficiency Handbooks",
             "Mineral Nutrition Guidelines",
@@ -16722,7 +16722,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Vitamin B1'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Lysine Amino'?",
+          "q": "Which is correct about the core idea of 'Lysine Amino'?",
           "options": [
             "It is defined as 'the essential amino acid often deficient in wheat and rice proteins'.",
             "It is themed as 'oxygen binding and red blood cell production'.",
@@ -16733,7 +16733,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Lysine Amino' is defined as 'the essential amino acid often deficient in wheat and rice proteins'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Cereal Nutritional Studies'?",
+          "q": "Which is correct about the book/guide 'Cereal Nutritional Studies'?",
           "options": [
             "It is written about 'Water Universal'.",
             "It is contrasted with 'Calcium'.",
@@ -16744,7 +16744,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Cereal Nutritional Studies' focuses on 'amino acid profiles and grain nutrition'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Vitamin B3'?",
+          "q": "What is a key description or fact regarding the concept of 'Vitamin B3'?",
           "options": [
             "\"Deficiency of Vitamin A leads to xerophthalmia and night blindness.\"",
             "\"Iodine deficiency causes goiter and developmental delays in children.\"",
@@ -16766,7 +16766,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Food Preservatives' is classified under the domain of 'Food Technology'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'protein synthesis and metabolic building'?",
+          "q": "What is a major reference or manual focusing on 'protein synthesis and metabolic building'?",
           "options": [
             "Macronutrient Energy Manuals",
             "Macronutrient Energy Manuals",
@@ -16788,7 +16788,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Food Preservatives' deals with the theme of 'shelf-life extension and food safety'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Water Universal'?",
+          "q": "What is a key description or fact regarding the concept of 'Water Universal'?",
           "options": [
             "\"Vitamin D deficiency causes rickets in children and osteomalacia in adults.\"",
             "\"Water makes up about 60% of adult body weight, vital for waste excretion.\"",
@@ -16843,7 +16843,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Dietary Fiber' is 'the indigestible plant material promoting healthy intestinal peristalsis'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Water Universal'?",
+          "q": "Which is correct about the core idea of 'Water Universal'?",
           "options": [
             "It is themed as 'calcium regulation and bone mineralization'.",
             "It is documented in 'Macronutrient Energy Manuals'.",
@@ -16865,7 +16865,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Dietary Fiber' deals with the theme of 'bowel movement and digestive health'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Gastrointestinal Diet Guides'?",
+          "q": "Which is correct about the book/guide 'Gastrointestinal Diet Guides'?",
           "options": [
             "It is written about 'Food Preservatives'.",
             "It is contrasted with 'Carbohydrates'.",
@@ -16920,7 +16920,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Lipids' corresponds to this definition."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Essential amino acids cannot be synthesized by the body and must come from food.\"?",
+          "q": "What describes the key fact or historical quote: \"Essential amino acids cannot be synthesized by the body and must come from food.\"?",
           "options": [
             "Carbohydrates",
             "Iron Mineral",
@@ -16942,7 +16942,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin B12' is the contrast to 'Vitamin B1'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Human Hydration Studies'?",
+          "q": "Which is correct about the book/guide 'Human Hydration Studies'?",
           "options": [
             "It is written about 'Vitamin E'.",
             "It is contrasted with 'Vitamin K'.",
@@ -17019,7 +17019,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Macronutrient Energy Manuals' contains documentation regarding 'protein synthesis and metabolic building'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Calcium'?",
+          "q": "Which is correct about the concept of 'Calcium'?",
           "options": [
             "It is defined as 'the most abundant mineral in the body building bone density'.",
             "It belongs to the domain of 'Dietetics'.",
@@ -17052,7 +17052,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin D' is the contrast to 'Vitamin E'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Vitamin C'?",
+          "q": "What is a key description or fact regarding the concept of 'Vitamin C'?",
           "options": [
             "\"Vitamin D deficiency causes rickets in children and osteomalacia in adults.\"",
             "\"Water makes up about 60% of adult body weight, vital for waste excretion.\"",
@@ -17107,7 +17107,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Cereal Nutritional Studies' is associated with 'Lysine Amino'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Carbohydrates'?",
+          "q": "What is a key description or fact regarding the concept of 'Carbohydrates'?",
           "options": [
             "\"Excessive sodium intake is associated with hypertension and fluid retention.\"",
             "\"Carbohydrates are stored in the liver and muscles as glycogen.\"",
@@ -17118,7 +17118,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Carbohydrates' is: \"Carbohydrates are stored in the liver and muscles as glycogen.\"."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Mineral Nutrition Guidelines'?",
+          "q": "Which is correct about the book/guide 'Mineral Nutrition Guidelines'?",
           "options": [
             "It is contrasted with 'Proteins'.",
             "It is written about 'Water Universal'.",
@@ -17162,7 +17162,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Trans Fats'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Vitamin E'?",
+          "q": "Which is correct about the core idea of 'Vitamin E'?",
           "options": [
             "It is defined as 'the tocopherol fat-soluble antioxidant protecting cell membranes'.",
             "It is documented in 'Mineral Nutrition Guidelines'.",
@@ -17184,7 +17184,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Carbohydrates' is the direct contrast to 'Proteins Nutrient'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'thiamine functions and nerve health'?",
+          "q": "What is a major reference or manual focusing on 'thiamine functions and nerve health'?",
           "options": [
             "Mineral Nutrition Guidelines",
             "Nutritional Deficiency Handbooks",
@@ -17195,7 +17195,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Nutritional Deficiency Handbooks' is known for its focus on 'thiamine functions and nerve health'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Trans fats are formed during partial hydrogenation of vegetable oils.\"?",
+          "q": "What describes the key fact or historical quote: \"Trans fats are formed during partial hydrogenation of vegetable oils.\"?",
           "options": [
             "Proteins Nutrient",
             "Iodine Mineral",
@@ -17250,7 +17250,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Dietary Fiber' is classified under the domain of 'Dietetics'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Preservatives like sodium benzoate inhibit mold and bacteria growth in foods.\"?",
+          "q": "What describes the key fact or historical quote: \"Preservatives like sodium benzoate inhibit mold and bacteria growth in foods.\"?",
           "options": [
             "Food Preservatives",
             "Proteins Nutrient",
@@ -17327,7 +17327,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin B1' is classified under the domain of 'Clinical Nutrition'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Lipids'?",
+          "q": "Which is correct about the core idea of 'Lipids'?",
           "options": [
             "It is themed as 'niacin functions and cellular respiration'.",
             "It is documented in 'Nutritional Deficiency Handbooks'.",
@@ -17349,7 +17349,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Nutritional Deficiency Handbooks' is the manual associated with 'niacin functions and cellular respiration'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Food Preservatives'?",
+          "q": "Which is correct about the core idea of 'Food Preservatives'?",
           "options": [
             "It is defined as 'the chemical additives preventing microbial growth and chemical oxidation'.",
             "It is themed as 'tissue repair and enzyme synthesis'.",
@@ -17371,7 +17371,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Calcium' is the contrast to 'Iron Mineral'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'energy storage and cell membrane structures'?",
+          "q": "What is a major reference or manual focusing on 'energy storage and cell membrane structures'?",
           "options": [
             "Macronutrient Energy Manuals",
             "Nutritional Deficiency Handbooks",
@@ -17382,7 +17382,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Macronutrient Energy Manuals' is known for its focus on 'energy storage and cell membrane structures'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'microbial preservation and food processing'?",
+          "q": "What is a major reference or manual focusing on 'microbial preservation and food processing'?",
           "options": [
             "Cereal Nutritional Studies",
             "Macronutrient Energy Manuals",
@@ -17415,7 +17415,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Pasteurization'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Lipids yield more than twice the energy per gram compared to carbohydrates.\"?",
+          "q": "What describes the key fact or historical quote: \"Lipids yield more than twice the energy per gram compared to carbohydrates.\"?",
           "options": [
             "Vitamin K",
             "Dietary Fiber",
@@ -17492,7 +17492,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Food Preservation Manuals' is the manual associated with 'shelf-life extension and food safety'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Water Universal'?",
+          "q": "Which is correct about the concept of 'Water Universal'?",
           "options": [
             "It is defined as 'the universal solvent regulating body temperature and metabolic reactions'.",
             "Its contrasting theme is 'protein synthesis and metabolic building'.",
@@ -17514,7 +17514,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Vitamin E'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Vitamin A'?",
+          "q": "What is a key description or fact regarding the concept of 'Vitamin A'?",
           "options": [
             "\"Deficiency of Vitamin B3 causes pellagra, characterized by dermatitis and dementia.\"",
             "\"Deficiency of Vitamin A leads to xerophthalmia and night blindness.\"",
@@ -17525,7 +17525,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Vitamin A' is: \"Deficiency of Vitamin A leads to xerophthalmia and night blindness.\"."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Vitamin B1'?",
+          "q": "Which is correct about the core idea of 'Vitamin B1'?",
           "options": [
             "It is documented in 'Nutritional Deficiency Handbooks'.",
             "It belongs to the field of 'Clinical Nutrition'.",
@@ -17536,7 +17536,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin B1' is defined as 'the water-soluble vitamin thiamine essential for carbohydrate metabolism'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Vitamin B3'?",
+          "q": "Which is correct about the concept of 'Vitamin B3'?",
           "options": [
             "It belongs to the domain of 'Clinical Nutrition'.",
             "It is documented in the manual 'Nutritional Deficiency Handbooks'.",
@@ -17547,7 +17547,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin B3' is defined as 'the niacin nutrient essential for energy pathways and skin health'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Proteins Nutrient'?",
+          "q": "Which is correct about the core idea of 'Proteins Nutrient'?",
           "options": [
             "It belongs to the field of 'Clinical Nutrition'.",
             "It is documented in 'Macronutrient Energy Manuals'.",
@@ -17657,7 +17657,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin B1' deals with the theme of 'thiamine functions and nerve health'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Vitamin B12'?",
+          "q": "Which is correct about the concept of 'Vitamin B12'?",
           "options": [
             "It is documented in the manual 'Nutritional Deficiency Handbooks'.",
             "It is defined as 'the cobalt-containing vitamin essential for red blood cell maturation'.",
@@ -17668,7 +17668,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vitamin B12' is defined as 'the cobalt-containing vitamin essential for red blood cell maturation'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'coagulation factors and bone health'?",
+          "q": "What is a major reference or manual focusing on 'coagulation factors and bone health'?",
           "options": [
             "Gastrointestinal Diet Guides",
             "Nutritional Deficiency Handbooks",
@@ -17729,7 +17729,7 @@ window.QuizData_everyday_science = {
           "explanation": "CFCs were widely used as refrigerants."
         },
         {
-          "q": "Which of the following is a bio-fertilizer?",
+          "q": "What is a bio-fertilizer?",
           "options": [
             "Urea",
             "Phosphate",
@@ -17762,7 +17762,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a bacterial infection closely associated with poor sanitation, primarily transmitted via the fecal-oral route, causing prolonged fever for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the alarming global phenomenon where bacteria evolve to survive exposure to previously effective medications?",
+          "q": "What applies to the alarming global phenomenon where bacteria evolve to survive exposure to previously effective medications?",
           "options": [
             "Herd Immunity",
             "Viral Mutation",
@@ -17784,7 +17784,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a lethal viral disease typically transmitted through the bite of an infected animal (causing encephalitis) for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the severe respiratory disease caused by the SARS-CoV-2 virus?",
+          "q": "What applies to the severe respiratory disease caused by the SARS-CoV-2 virus?",
           "options": [
             "Measles",
             "Influenza",
@@ -17806,7 +17806,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a progressive, irreversible neurological disorder slowly destroying memory, thinking skills, and eventually basic functions for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the English physician who pioneered the world's first vaccine (for smallpox)?",
+          "q": "What applies to the English physician who pioneered the world's first vaccine (for smallpox)?",
           "options": [
             "Edward Jenner",
             "Jonas Salk",
@@ -17839,7 +17839,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding an epidemic of infectious disease that has spread across a large region, potentially worldwide for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the dangerous buildup of fats, cholesterol, and other substances forming hard plaques inside artery walls?",
+          "q": "What applies to the dangerous buildup of fats, cholesterol, and other substances forming hard plaques inside artery walls?",
           "options": [
             "Leukemia",
             "Osteoporosis",
@@ -17861,7 +17861,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a bacterial disease usually spread through contaminated water/food, causing severe diarrhea and dehydration for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a class of antimicrobial substances highly effective against bacteria but entirely ineffective against viruses?",
+          "q": "What applies to a class of antimicrobial substances highly effective against bacteria but entirely ineffective against viruses?",
           "options": [
             "Antibiotics",
             "Antivirals",
@@ -17949,7 +17949,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a sudden, life-threatening medical emergency occurring when blood flow to a part of the brain is severely interrupted for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the specific type of diabetes where the pancreas produces little to no insulin (often diagnosed in childhood)?",
+          "q": "What applies to the specific type of diabetes where the pancreas produces little to no insulin (often diagnosed in childhood)?",
           "options": [
             "Type 1 Diabetes",
             "Gestational Diabetes",
@@ -18114,7 +18114,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding an acute and highly contagious bacterial disease causing a distinctive 'whooping' sound during severe coughing spells for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the biological preparation that provides active acquired immunity to a particular infectious disease?",
+          "q": "What applies to the biological preparation that provides active acquired immunity to a particular infectious disease?",
           "options": [
             "Antibiotic",
             "Vaccine",
@@ -18224,7 +18224,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a generic medical term referring to any severely abnormally slow heart rate (usually <60 beats literally per minute at rest) for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a widespread chronic respiratory condition heavily characterized by inflammation, severe narrowing of airways, and excess mucus?",
+          "q": "What applies to a widespread chronic respiratory condition heavily characterized by inflammation, severe narrowing of airways, and excess mucus?",
           "options": [
             "Tuberculosis",
             "Asthma",
@@ -18466,7 +18466,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a bacterial disease usually spread through contaminated water/food, causing severe diarrhea and dehydration for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a rapidly progressive, mosquito-borne viral infection endemic to tropical regions, causing jaundice and bleeding?",
+          "q": "What applies to a rapidly progressive, mosquito-borne viral infection endemic to tropical regions, causing jaundice and bleeding?",
           "options": [
             "Malaria",
             "Zika",
@@ -18499,7 +18499,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a chronic disease characterized by elevated blood sugar levels due to inadequate insulin production or action for Everyday Science."
         },
         {
-          "q": "Which of the following applies to an autoimmune inflammatory disorder mistakenly attacking the lining of the joints, causing painful swelling and deformity?",
+          "q": "What applies to an autoimmune inflammatory disorder mistakenly attacking the lining of the joints, causing painful swelling and deformity?",
           "options": [
             "Osteoarthritis",
             "Rheumatoid arthritis",
@@ -18576,7 +18576,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a highly contagious viral illness characterized by fever, sore throat, and a widespread skin rash for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a form of indirect protection from infectious disease emerging when a sufficient percentage of a population becomes immune?",
+          "q": "What applies to a form of indirect protection from infectious disease emerging when a sufficient percentage of a population becomes immune?",
           "options": [
             "Passive Immunity",
             "Innate Immunity",
@@ -18587,7 +18587,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a form of indirect protection from infectious disease emerging when a sufficient percentage of a population becomes immune for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a sudden, life-threatening emergency occurring when blood flow to the heart muscle is abruptly blocked?",
+          "q": "What applies to a sudden, life-threatening emergency occurring when blood flow to the heart muscle is abruptly blocked?",
           "options": [
             "Cardiac Arrest",
             "Heart Failure",
@@ -18631,7 +18631,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a sudden, life-threatening emergency occurring when blood flow to the heart muscle is abruptly blocked for Everyday Science."
         },
         {
-          "q": "Which of the following applies to substances, radiation, or environmental factors that inherently promote the formation of cancer?",
+          "q": "What applies to substances, radiation, or environmental factors that inherently promote the formation of cancer?",
           "options": [
             "Teratogens",
             "Carcinogens",
@@ -18708,7 +18708,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the dangerous buildup of fats, cholesterol, and other substances forming hard plaques inside artery walls for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a generic medical term referring to any severely abnormally rapid heart rate (usually >100 beats literally per minute at rest)?",
+          "q": "What applies to a generic medical term referring to any severely abnormally rapid heart rate (usually >100 beats literally per minute at rest)?",
           "options": [
             "Tachycardia",
             "Bradycardia",
@@ -18785,7 +18785,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the biological preparation that provides active acquired immunity to a particular infectious disease for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a disease where bones become dangerously weak and brittle due to severe bone mass deterioration?",
+          "q": "What applies to a disease where bones become dangerously weak and brittle due to severe bone mass deterioration?",
           "options": [
             "Osteoporosis",
             "Osteoarthritis",
@@ -18807,7 +18807,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a bacterial disease usually spread through contaminated water/food, causing severe diarrhea and dehydration for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a progressive, irreversible neurological disorder slowly destroying memory, thinking skills, and eventually basic functions?",
+          "q": "What applies to a progressive, irreversible neurological disorder slowly destroying memory, thinking skills, and eventually basic functions?",
           "options": [
             "Epilepsy",
             "Parkinson's Disease",
@@ -18906,7 +18906,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the specific type of diabetes where the pancreas produces little to no insulin (often diagnosed in childhood) for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a severe bacterial infection causing painful muscle spasms, often entering the body through a deep cut or puncture wound?",
+          "q": "What applies to a severe bacterial infection causing painful muscle spasms, often entering the body through a deep cut or puncture wound?",
           "options": [
             "Diphtheria",
             "Rabies",
@@ -19005,7 +19005,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the English physician who pioneered the world's first vaccine (for smallpox) for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a bacterial disease usually spread through contaminated water/food, causing severe diarrhea and dehydration?",
+          "q": "What applies to a bacterial disease usually spread through contaminated water/food, causing severe diarrhea and dehydration?",
           "options": [
             "Dysentery",
             "Tuberculosis",
@@ -19082,7 +19082,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a generic medical term referring to any severely abnormally rapid heart rate (usually >100 beats literally per minute at rest) for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the specific type of diabetes primarily driven by insulin resistance, heavily linked to obesity and lifestyle?",
+          "q": "What applies to the specific type of diabetes primarily driven by insulin resistance, heavily linked to obesity and lifestyle?",
           "options": [
             "Type 1 Diabetes",
             "Type 2 Diabetes",
@@ -19170,7 +19170,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a progressive, irreversible neurological disorder slowly destroying memory, thinking skills, and eventually basic functions for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a mosquito-borne tropical disease caused by a virus, characterized by severe joint/muscle pain and fever?",
+          "q": "What applies to a mosquito-borne tropical disease caused by a virus, characterized by severe joint/muscle pain and fever?",
           "options": [
             "Typhoid",
             "Cholera",
@@ -19181,7 +19181,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a mosquito-borne tropical disease caused by a virus, characterized by severe joint/muscle pain and fever for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a lethal viral disease typically transmitted through the bite of an infected animal (causing encephalitis)?",
+          "q": "What applies to a lethal viral disease typically transmitted through the bite of an infected animal (causing encephalitis)?",
           "options": [
             "Rabies",
             "Malaria",
@@ -19203,7 +19203,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a chronic central nervous system disorder featuring abnormal brain activity leading to unpredictable seizures for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a broad group of diseases involving abnormal, uncontrolled cell growth with the potential to invade or spread?",
+          "q": "What applies to a broad group of diseases involving abnormal, uncontrolled cell growth with the potential to invade or spread?",
           "options": [
             "Ulcer",
             "Benign Tumor",
@@ -19225,7 +19225,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a microscopic infectious agent that can only replicate inside the living cells of an organism for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the specific type of mosquito that acts as the primary vector for Malaria?",
+          "q": "What applies to the specific type of mosquito that acts as the primary vector for Malaria?",
           "options": [
             "Tsetse fly",
             "Culex mosquito",
@@ -19258,7 +19258,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a life-threatening mosquito-borne infectious disease caused by Plasmodium parasites for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a devastating viral disease that progressively destroys the human immune system, specifically targeting CD4 T-cells?",
+          "q": "What applies to a devastating viral disease that progressively destroys the human immune system, specifically targeting CD4 T-cells?",
           "options": [
             "Ebola",
             "Tuberculosis",
@@ -19302,7 +19302,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a life-threatening mosquito-borne infectious disease caused by Plasmodium parasites for Everyday Science."
         },
         {
-          "q": "Which of the following applies to an epidemic of infectious disease that has spread across a large region, potentially worldwide?",
+          "q": "What applies to an epidemic of infectious disease that has spread across a large region, potentially worldwide?",
           "options": [
             "Syndemic",
             "Epidemic",
@@ -19335,7 +19335,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a sudden, life-threatening medical emergency occurring when blood flow to a part of the brain is severely interrupted for Everyday Science."
         },
         {
-          "q": "Which of the following applies to misfolded proteins that can induce abnormal folding in normal cellular proteins, primarily in the brain?",
+          "q": "What applies to misfolded proteins that can induce abnormal folding in normal cellular proteins, primarily in the brain?",
           "options": [
             "Prions",
             "Viruses",
@@ -19467,7 +19467,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a chronic medical condition entirely characterized by persistently elevated blood pressure in the arteries for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the late stage of severe liver scarring caused by many forms of liver diseases and chronic conditions like alcoholism?",
+          "q": "What applies to the late stage of severe liver scarring caused by many forms of liver diseases and chronic conditions like alcoholism?",
           "options": [
             "Hepatitis",
             "Cirrhosis",
@@ -19511,7 +19511,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a form of indirect protection from infectious disease emerging when a sufficient percentage of a population becomes immune for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the branch of medicine dealing with the incidence, distribution, and control of diseases?",
+          "q": "What applies to the branch of medicine dealing with the incidence, distribution, and control of diseases?",
           "options": [
             "Epidemiology",
             "Immunology",
@@ -19577,7 +19577,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the dangerous buildup of fats, cholesterol, and other substances forming hard plaques inside artery walls for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a life-threatening mosquito-borne infectious disease caused by Plasmodium parasites?",
+          "q": "What applies to a life-threatening mosquito-borne infectious disease caused by Plasmodium parasites?",
           "options": [
             "Cholera",
             "Typhoid",
@@ -19764,7 +19764,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a disease where bones become dangerously weak and brittle due to severe bone mass deterioration for Everyday Science."
         },
         {
-          "q": "Which of the following applies to inflammation of the liver, almost universally caused by viral infections, heavy alcohol use, or toxins?",
+          "q": "What applies to inflammation of the liver, almost universally caused by viral infections, heavy alcohol use, or toxins?",
           "options": [
             "Nephritis",
             "Hepatitis",
@@ -19808,7 +19808,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the late stage of severe liver scarring caused by many forms of liver diseases and chronic conditions like alcoholism for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the specific type of mosquito that acts as the primary vector for Dengue and Yellow Fever?",
+          "q": "What applies to the specific type of mosquito that acts as the primary vector for Dengue and Yellow Fever?",
           "options": [
             "Female Anopheles mosquito",
             "Sandfly",
@@ -19830,7 +19830,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a sudden, life-threatening medical emergency occurring when blood flow to a part of the brain is severely interrupted for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a progressive nervous system disorder severely affecting movement, typically characterized by resting tremors and stiffness?",
+          "q": "What applies to a progressive nervous system disorder severely affecting movement, typically characterized by resting tremors and stiffness?",
           "options": [
             "Parkinson's Disease",
             "Alzheimer's Disease",
@@ -19852,7 +19852,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a form of indirect protection from infectious disease emerging when a sufficient percentage of a population becomes immune for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a crippling and potentially deadly infectious disease caused by a virus attacking the nervous system?",
+          "q": "What applies to a crippling and potentially deadly infectious disease caused by a virus attacking the nervous system?",
           "options": [
             "Diphtheria",
             "Tetanus",
@@ -19929,7 +19929,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a widespread occurrence of an infectious disease in a community at a particular time for Everyday Science."
         },
         {
-          "q": "Which of the following applies to an infectious bacterial disease characterized by the growth of nodules (tubercles) in the tissues, especially the lungs?",
+          "q": "What applies to an infectious bacterial disease characterized by the growth of nodules (tubercles) in the tissues, especially the lungs?",
           "options": [
             "Tuberculosis (TB)",
             "Cholera",
@@ -19962,7 +19962,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a progressive nervous system disorder severely affecting movement, typically characterized by resting tremors and stiffness for Everyday Science."
         },
         {
-          "q": "Which of the following applies to single-celled microorganisms that can exist either as independent organisms or as parasites?",
+          "q": "What applies to single-celled microorganisms that can exist either as independent organisms or as parasites?",
           "options": [
             "Viruses",
             "Viroids",
@@ -20006,7 +20006,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a life-threatening mosquito-borne infectious disease caused by Plasmodium parasites for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a chronic disease characterized by elevated blood sugar levels due to inadequate insulin production or action?",
+          "q": "What applies to a chronic disease characterized by elevated blood sugar levels due to inadequate insulin production or action?",
           "options": [
             "Diabetes Mellitus",
             "Leukemia",
@@ -20028,7 +20028,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding single-celled microorganisms that can exist either as independent organisms or as parasites for Everyday Science."
         },
         {
-          "q": "Which of the following applies to an acute and highly contagious bacterial disease causing a distinctive 'whooping' sound during severe coughing spells?",
+          "q": "What applies to an acute and highly contagious bacterial disease causing a distinctive 'whooping' sound during severe coughing spells?",
           "options": [
             "Pertussis (Whooping Cough)",
             "Measles",
@@ -20083,7 +20083,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the specific type of mosquito that acts as the primary vector for Malaria for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a chronic medical condition entirely characterized by persistently elevated blood pressure in the arteries?",
+          "q": "What applies to a chronic medical condition entirely characterized by persistently elevated blood pressure in the arteries?",
           "options": [
             "Arrhythmia",
             "Hypertension",
@@ -20094,7 +20094,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a chronic medical condition entirely characterized by persistently elevated blood pressure in the arteries for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the French biologist who discovered the principles of vaccination, microbial fermentation, and developed the rabies vaccine?",
+          "q": "What applies to the French biologist who discovered the principles of vaccination, microbial fermentation, and developed the rabies vaccine?",
           "options": [
             "Edward Jenner",
             "Joseph Lister",
@@ -20105,7 +20105,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the French biologist who discovered the principles of vaccination, microbial fermentation, and developed the rabies vaccine for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a widespread occurrence of an infectious disease in a community at a particular time?",
+          "q": "What applies to a widespread occurrence of an infectious disease in a community at a particular time?",
           "options": [
             "Outbreak",
             "Endemic",
@@ -20171,7 +20171,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a crippling and potentially deadly infectious disease caused by a virus attacking the nervous system for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the medical process of a cancer spreading progressively from its initial primary site to other parts of the body?",
+          "q": "What applies to the medical process of a cancer spreading progressively from its initial primary site to other parts of the body?",
           "options": [
             "Mutation",
             "Metastasis",
@@ -20215,7 +20215,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a crippling and potentially deadly infectious disease caused by a virus attacking the nervous system for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the American virologist who developed the first successful polio vaccine?",
+          "q": "What applies to the American virologist who developed the first successful polio vaccine?",
           "options": [
             "Albert Sabin",
             "Louis Pasteur",
@@ -20259,7 +20259,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a microscopic infectious agent that can only replicate inside the living cells of an organism for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the Scottish researcher who famously discovered the first broadly effective antibiotic, Penicillin?",
+          "q": "What applies to the Scottish researcher who famously discovered the first broadly effective antibiotic, Penicillin?",
           "options": [
             "Antonie van Leeuwenhoek",
             "Robert Koch",
@@ -20292,7 +20292,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding an infectious bacterial disease characterized by the growth of nodules (tubercles) in the tissues, especially the lungs for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a microscopic infectious agent that can only replicate inside the living cells of an organism?",
+          "q": "What applies to a microscopic infectious agent that can only replicate inside the living cells of an organism?",
           "options": [
             "Virus",
             "Bacterium",
@@ -20336,7 +20336,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a broad group of diseases involving abnormal, uncontrolled cell growth with the potential to invade or spread for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a chronic central nervous system disorder featuring abnormal brain activity leading to unpredictable seizures?",
+          "q": "What applies to a chronic central nervous system disorder featuring abnormal brain activity leading to unpredictable seizures?",
           "options": [
             "Parkinson's Disease",
             "Epilepsy",
@@ -20413,7 +20413,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a bacterial infection closely associated with poor sanitation, primarily transmitted via the fecal-oral route, causing prolonged fever for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a sudden, life-threatening medical emergency occurring when blood flow to a part of the brain is severely interrupted?",
+          "q": "What applies to a sudden, life-threatening medical emergency occurring when blood flow to a part of the brain is severely interrupted?",
           "options": [
             "Stroke (Cerebrovascular accident)",
             "Aneurysm",
@@ -20424,7 +20424,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a sudden, life-threatening medical emergency occurring when blood flow to a part of the brain is severely interrupted for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a bacterial infection closely associated with poor sanitation, primarily transmitted via the fecal-oral route, causing prolonged fever?",
+          "q": "What applies to a bacterial infection closely associated with poor sanitation, primarily transmitted via the fecal-oral route, causing prolonged fever?",
           "options": [
             "Typhoid Fever",
             "Tetanus",
@@ -20435,7 +20435,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a bacterial infection closely associated with poor sanitation, primarily transmitted via the fecal-oral route, causing prolonged fever for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the most common form of arthritis, explicitly caused by simple 'wear and tear' on joint cartilage over time?",
+          "q": "What applies to the most common form of arthritis, explicitly caused by simple 'wear and tear' on joint cartilage over time?",
           "options": [
             "Gout",
             "Rheumatoid arthritis",
@@ -20468,7 +20468,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a chronic medical condition entirely characterized by persistently elevated blood pressure in the arteries for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a generic medical term referring to any severely abnormally slow heart rate (usually <60 beats literally per minute at rest)?",
+          "q": "What applies to a generic medical term referring to any severely abnormally slow heart rate (usually <60 beats literally per minute at rest)?",
           "options": [
             "Bradycardia",
             "Fibrillation",
@@ -20479,7 +20479,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a generic medical term referring to any severely abnormally slow heart rate (usually <60 beats literally per minute at rest) for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a highly contagious viral illness characterized by fever, sore throat, and a widespread skin rash?",
+          "q": "What applies to a highly contagious viral illness characterized by fever, sore throat, and a widespread skin rash?",
           "options": [
             "Rubella",
             "Measles",
@@ -20622,7 +20622,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hepatitis A' is the standard contrast to 'Hepatitis B'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Bacterial Infection Files'?",
+          "q": "Which is correct about the book/guide 'Bacterial Infection Files'?",
           "options": [
             "It is written about 'Anemia Disease'.",
             "It addresses the theme of 'bacterial lung cavitation and antibiotic courses'.",
@@ -20644,7 +20644,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Antibiotics' is the standard contrast to 'Vaccines'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Hypertension is often called the silent killer as it shows no early symptoms.\"?",
+          "q": "What describes the key fact or historical quote: \"Hypertension is often called the silent killer as it shows no early symptoms.\"?",
           "options": [
             "Hypertension Disease",
             "Malaria",
@@ -20655,7 +20655,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Hypertension Disease'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Disinfectants like bleach are too harsh for use on living human tissue.\"?",
+          "q": "What describes the key fact or historical quote: \"Disinfectants like bleach are too harsh for use on living human tissue.\"?",
           "options": [
             "Disinfectants",
             "Cholera",
@@ -20699,7 +20699,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Immunization Science Texts' is associated with 'Vaccines'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Antiseptics'?",
+          "q": "Which is correct about the concept of 'Antiseptics'?",
           "options": [
             "It is defined as 'the chemical substances applied to living skin to prevent sepsis'.",
             "Its contrasting theme is 'bacterial lung cavitation and antibiotic courses'.",
@@ -20710,7 +20710,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Antiseptics' is defined as 'the chemical substances applied to living skin to prevent sepsis'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Goiter Disease'?",
+          "q": "Which is correct about the concept of 'Goiter Disease'?",
           "options": [
             "It belongs to the domain of 'Epidemiology'.",
             "It is documented in the manual 'Immunization Science Texts'.",
@@ -20743,7 +20743,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Outbreak Control Manuals' is associated with 'Quarantine Protocol'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Quarantine Protocol'?",
+          "q": "Which is correct about the core idea of 'Quarantine Protocol'?",
           "options": [
             "It is defined as 'the restriction of movement for exposed persons to prevent disease transmission'.",
             "It belongs to the field of 'Pathology'.",
@@ -20765,7 +20765,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Malaria' is built on the concept: 'the disease caused by Plasmodium parasite transmitted by Anopheles mosquito'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Hepatitis C'?",
+          "q": "What is a key description or fact regarding the concept of 'Hepatitis C'?",
           "options": [
             "\"Dengue is also known as breakbone fever due to intense muscle and joint pain.\"",
             "\"Scurvy was historically common among sailors lacking fresh fruits on voyages.\"",
@@ -20809,7 +20809,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Goiter Disease'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'vector-borne viral transmission and platelet drops'?",
+          "q": "What is a major reference or manual focusing on 'vector-borne viral transmission and platelet drops'?",
           "options": [
             "Immunodeficiency Manuals",
             "Genetic Disorder Records",
@@ -20831,7 +20831,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Influenza' is 'the seasonal viral respiratory infection mutating its surface proteins'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'blood-borne transmission and chronic liver damage'?",
+          "q": "What is a major reference or manual focusing on 'blood-borne transmission and chronic liver damage'?",
           "options": [
             "Viral Disease Trackers",
             "Viral Hepatitis Manuals",
@@ -20842,7 +20842,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Viral Hepatitis Manuals' is known for its focus on 'blood-borne transmission and chronic liver damage'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Hepatitis B'?",
+          "q": "Which is correct about the core idea of 'Hepatitis B'?",
           "options": [
             "It is themed as 'waterborne contamination and rapid dehydration'.",
             "It is documented in 'Pharmacology Drug Guides'.",
@@ -20853,7 +20853,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hepatitis B' is defined as 'the blood-borne viral infection causing chronic liver disease and cirrhosis'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Anemia Disease'?",
+          "q": "Which is correct about the core idea of 'Anemia Disease'?",
           "options": [
             "It is documented in 'Viral Hepatitis Manuals'.",
             "It is defined as 'the reduced oxygen carrying capacity of blood caused by iron deficiency'.",
@@ -20864,7 +20864,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Anemia Disease' is defined as 'the reduced oxygen carrying capacity of blood caused by iron deficiency'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'clotting factor deficiency and genetic bleeding'?",
+          "q": "What is a major reference or manual focusing on 'clotting factor deficiency and genetic bleeding'?",
           "options": [
             "Bacterial Infection Files",
             "Deficiency Disease Manuals",
@@ -20919,7 +20919,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Outbreak Control Manuals' is the manual associated with 'isolation guidelines and incubation periods'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Scurvy was historically common among sailors lacking fresh fruits on voyages.\"?",
+          "q": "What describes the key fact or historical quote: \"Scurvy was historically common among sailors lacking fresh fruits on voyages.\"?",
           "options": [
             "Antiseptics",
             "Typhoid Fever",
@@ -20930,7 +20930,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Scurvy Disease'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Goiter is prevented by iodizing table salt used in daily cooking.\"?",
+          "q": "What describes the key fact or historical quote: \"Goiter is prevented by iodizing table salt used in daily cooking.\"?",
           "options": [
             "Hepatitis B",
             "Quarantine Protocol",
@@ -20952,7 +20952,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Dengue Fever' is the direct contrast to 'Malaria'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Hemophilia'?",
+          "q": "What is a key description or fact regarding the concept of 'Hemophilia'?",
           "options": [
             "\"Tuberculosis is primarily spread through airborne droplets from coughing.\"",
             "\"Cholera causes severe watery diarrhea, treated with rapid rehydration.\"",
@@ -21018,7 +21018,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Bacterial Infection Files' is associated with 'Tuberculosis'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Dengue is also known as breakbone fever due to intense muscle and joint pain.\"?",
+          "q": "What describes the key fact or historical quote: \"Dengue is also known as breakbone fever due to intense muscle and joint pain.\"?",
           "options": [
             "Hepatitis B",
             "Dengue Fever",
@@ -21029,7 +21029,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Dengue Fever'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Cholera'?",
+          "q": "What is a key description or fact regarding the concept of 'Cholera'?",
           "options": [
             "\"Cholera causes severe watery diarrhea, treated with rapid rehydration.\"",
             "\"Disinfectants like bleach are too harsh for use on living human tissue.\"",
@@ -21084,7 +21084,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Waterborne Outbreak Studies' is associated with 'Cholera'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Typhoid Fever'?",
+          "q": "Which is correct about the concept of 'Typhoid Fever'?",
           "options": [
             "It is defined as 'the systemic infection caused by Salmonella typhi via contaminated water'.",
             "It belongs to the domain of 'Epidemiology'.",
@@ -21117,7 +21117,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Cardiovascular Disorder Files' is associated with 'Hypertension Disease'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'pathogen elimination on surfaces and chemical strength'?",
+          "q": "What is a major reference or manual focusing on 'pathogen elimination on surfaces and chemical strength'?",
           "options": [
             "Dehydration Treatment Guides",
             "Disinfection Protocol Guides",
@@ -21128,7 +21128,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Disinfection Protocol Guides' is known for its focus on 'pathogen elimination on surfaces and chemical strength'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Antiseptics like rubbing alcohol or iodine are used to clean cuts and wounds.\"?",
+          "q": "What describes the key fact or historical quote: \"Antiseptics like rubbing alcohol or iodine are used to clean cuts and wounds.\"?",
           "options": [
             "Antibiotics",
             "Antiseptics",
@@ -21150,7 +21150,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Deficiency Disease Manuals' is the manual associated with 'hemoglobin reduction and red blood cells count'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Rickets leads to bow-legs and weak bones due to poor mineralization.\"?",
+          "q": "What describes the key fact or historical quote: \"Rickets leads to bow-legs and weak bones due to poor mineralization.\"?",
           "options": [
             "Hepatitis A",
             "Rickets Disease",
@@ -21216,7 +21216,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Hepatitis A'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Pharmacology Drug Guides'?",
+          "q": "Which is correct about the book/guide 'Pharmacology Drug Guides'?",
           "options": [
             "It is contrasted with 'Antiseptics'.",
             "It is written about 'Rickets Disease'.",
@@ -21227,7 +21227,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Pharmacology Drug Guides' focuses on 'bacterial cell wall inhibition and antimicrobial resistance'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Hemophilia'?",
+          "q": "Which is correct about the core idea of 'Hemophilia'?",
           "options": [
             "It belongs to the field of 'Epidemiology'.",
             "It is themed as 'collagen breakdown and dietary deficiency'.",
@@ -21282,7 +21282,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Influenza' is built on the concept: 'the seasonal viral respiratory infection mutating its surface proteins'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'blood-borne viral transmission and liver vaccine protection'?",
+          "q": "What is a major reference or manual focusing on 'blood-borne viral transmission and liver vaccine protection'?",
           "options": [
             "Pharmacology Drug Guides",
             "Cardiovascular Disorder Files",
@@ -21326,7 +21326,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Outbreak Control Manuals' contains documentation regarding 'isolation guidelines and incubation periods'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'active immunity and antibody production'?",
+          "q": "What is a major reference or manual focusing on 'active immunity and antibody production'?",
           "options": [
             "Immunodeficiency Manuals",
             "Immunization Science Texts",
@@ -21480,7 +21480,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Viral Hepatitis Manuals' is the manual associated with 'viral liver transmission and food safety'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Viral Disease Trackers'?",
+          "q": "Which is correct about the book/guide 'Viral Disease Trackers'?",
           "options": [
             "It is contrasted with 'Anemia Disease'.",
             "Its primary focus is 'Epidemiology'.",
@@ -21502,7 +21502,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'AIDS Disease'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Goiter Disease'?",
+          "q": "What is a key description or fact regarding the concept of 'Goiter Disease'?",
           "options": [
             "\"Quarantine limits the spread of highly contagious pathogens during outbreaks.\"",
             "\"Goiter is prevented by iodizing table salt used in daily cooking.\"",
@@ -21557,7 +21557,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hypertension Disease' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Influenza'?",
+          "q": "Which is correct about the concept of 'Influenza'?",
           "options": [
             "It belongs to the domain of 'Pharmacology'.",
             "It is documented in the manual 'Waterborne Outbreak Studies'.",
@@ -21579,7 +21579,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Influenza' is classified under the domain of 'Epidemiology'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'AIDS Disease'?",
+          "q": "What is a key description or fact regarding the concept of 'AIDS Disease'?",
           "options": [
             "\"Hepatitis B is highly infectious, prevented by a highly effective vaccine.\"",
             "\"HIV destroys CD4+ T-lymphocytes, crippling the immune system.\"",
@@ -21623,7 +21623,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Dengue Fever' corresponds to this definition."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Hepatitis A is self-limiting and prevented by clean water and sanitation.\"?",
+          "q": "What describes the key fact or historical quote: \"Hepatitis A is self-limiting and prevented by clean water and sanitation.\"?",
           "options": [
             "Hypertension Disease",
             "Scurvy Disease",
@@ -21634,7 +21634,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Hepatitis A'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Immunodeficiency Manuals'?",
+          "q": "Which is correct about the book/guide 'Immunodeficiency Manuals'?",
           "options": [
             "It is contrasted with 'Influenza'.",
             "It is written about 'Hepatitis B'.",
@@ -21645,7 +21645,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Immunodeficiency Manuals' focuses on 'helper T-cells destruction and opportunistic infections'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Malaria'?",
+          "q": "Which is correct about the core idea of 'Malaria'?",
           "options": [
             "It is defined as 'the disease caused by Plasmodium parasite transmitted by Anopheles mosquito'.",
             "It belongs to the field of 'Epidemiology'.",
@@ -21656,7 +21656,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Malaria' is defined as 'the disease caused by Plasmodium parasite transmitted by Anopheles mosquito'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Vaccination creates immunological memory, defending against pathogens.\"?",
+          "q": "What describes the key fact or historical quote: \"Vaccination creates immunological memory, defending against pathogens.\"?",
           "options": [
             "AIDS Disease",
             "Antiseptics",
@@ -21722,7 +21722,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hepatitis B' is the direct contrast to 'AIDS Disease'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Malaria'?",
+          "q": "What is a key description or fact regarding the concept of 'Malaria'?",
           "options": [
             "\"Scurvy was historically common among sailors lacking fresh fruits on voyages.\"",
             "\"Vaccination creates immunological memory, defending against pathogens.\"",
@@ -21755,7 +21755,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Dengue Fever' is the contrast to 'Malaria'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'viral mutation and respiratory transmission'?",
+          "q": "What is a major reference or manual focusing on 'viral mutation and respiratory transmission'?",
           "options": [
             "Viral Disease Trackers",
             "Immunization Science Texts",
@@ -21766,7 +21766,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Viral Disease Trackers' is known for its focus on 'viral mutation and respiratory transmission'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Anemia Disease'?",
+          "q": "Which is correct about the concept of 'Anemia Disease'?",
           "options": [
             "Its contrasting theme is 'blood-borne transmission and chronic liver damage'.",
             "It is defined as 'the reduced oxygen carrying capacity of blood caused by iron deficiency'.",
@@ -21799,7 +21799,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Deficiency Disease Manuals' is associated with 'Goiter Disease'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Hepatitis A'?",
+          "q": "Which is correct about the concept of 'Hepatitis A'?",
           "options": [
             "It is documented in the manual 'Cardiovascular Disorder Files'.",
             "It belongs to the domain of 'Pathology'.",
@@ -21810,7 +21810,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hepatitis A' is defined as 'the acute liver inflammation spread via the fecal-oral route'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'waterborne contamination and rapid dehydration'?",
+          "q": "What is a major reference or manual focusing on 'waterborne contamination and rapid dehydration'?",
           "options": [
             "Immunization Science Texts",
             "Waterborne Outbreak Studies",
@@ -21865,7 +21865,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Cardiovascular Disorder Files' is associated with 'Hypertension Disease'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Quarantine Protocol'?",
+          "q": "Which is correct about the concept of 'Quarantine Protocol'?",
           "options": [
             "It is documented in the manual 'Deficiency Disease Manuals'.",
             "It belongs to the domain of 'Pathology'.",
@@ -21909,7 +21909,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Goiter Disease' is built on the concept: 'the swelling of the thyroid gland caused by insufficient iodine intake'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Cardiovascular Disorder Files'?",
+          "q": "Which is correct about the book/guide 'Cardiovascular Disorder Files'?",
           "options": [
             "Its primary focus is 'Epidemiology'.",
             "It addresses the theme of 'arterial pressure and cardiovascular risk'.",
@@ -21942,7 +21942,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Anemia Disease' is classified under the domain of 'Pathology'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'hemoglobin reduction and red blood cells count'?",
+          "q": "What is a major reference or manual focusing on 'hemoglobin reduction and red blood cells count'?",
           "options": [
             "Viral Disease Trackers",
             "Bacterial Infection Files",
@@ -21964,7 +21964,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Tuberculosis' is the direct contrast to 'Influenza'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'bacterial cell wall inhibition and antimicrobial resistance'?",
+          "q": "What is a major reference or manual focusing on 'bacterial cell wall inhibition and antimicrobial resistance'?",
           "options": [
             "Parasitic Disease Records",
             "Deficiency Disease Manuals",
@@ -22008,7 +22008,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Anemia Disease' is 'the reduced oxygen carrying capacity of blood caused by iron deficiency'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Goiter Disease'?",
+          "q": "Which is correct about the core idea of 'Goiter Disease'?",
           "options": [
             "It belongs to the field of 'Epidemiology'.",
             "It is documented in 'Outbreak Control Manuals'.",
@@ -22030,7 +22030,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Diabetes Mellitus' deals with the theme of 'insulin deficiency and glucose metabolism'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Hepatitis C'?",
+          "q": "Which is correct about the concept of 'Hepatitis C'?",
           "options": [
             "It is documented in the manual 'Viral Disease Trackers'.",
             "Its contrasting theme is 'collagen breakdown and dietary deficiency'.",
@@ -22052,7 +22052,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Diabetes Mellitus' is 'the metabolic disease marked by high blood glucose levels'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Anemia Disease'?",
+          "q": "What is a key description or fact regarding the concept of 'Anemia Disease'?",
           "options": [
             "\"Dengue is also known as breakbone fever due to intense muscle and joint pain.\"",
             "\"Hepatitis C can remain asymptomatic for decades while damaging the liver.\"",
@@ -22063,7 +22063,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Anemia Disease' is: \"Anemia causes fatigue and pale skin due to lack of healthy red blood cells.\"."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Antibiotics are ineffective against viral infections like flu or common cold.\"?",
+          "q": "What describes the key fact or historical quote: \"Antibiotics are ineffective against viral infections like flu or common cold.\"?",
           "options": [
             "Antibiotics",
             "Malaria",
@@ -22074,7 +22074,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Antibiotics'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'AIDS Disease'?",
+          "q": "Which is correct about the core idea of 'AIDS Disease'?",
           "options": [
             "It is defined as 'the advanced immune failure stage caused by the HIV retrovirus'.",
             "It is themed as 'bacterial lung cavitation and antibiotic courses'.",
@@ -22118,7 +22118,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hemophilia' is the standard contrast to 'Anemia Disease'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Hypertension Disease'?",
+          "q": "Which is correct about the concept of 'Hypertension Disease'?",
           "options": [
             "It is documented in the manual 'Deficiency Disease Manuals'.",
             "It belongs to the domain of 'Epidemiology'.",
@@ -22151,7 +22151,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Immunodeficiency Manuals' is the manual associated with 'helper T-cells destruction and opportunistic infections'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Hepatitis B'?",
+          "q": "Which is correct about the concept of 'Hepatitis B'?",
           "options": [
             "Its contrasting theme is 'bacterial cell wall inhibition and antimicrobial resistance'.",
             "It is defined as 'the blood-borne viral infection causing chronic liver disease and cirrhosis'.",
@@ -22195,7 +22195,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Tuberculosis' is the standard contrast to 'Influenza'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Influenza'?",
+          "q": "What is a key description or fact regarding the concept of 'Influenza'?",
           "options": [
             "\"Vaccination creates immunological memory, defending against pathogens.\"",
             "\"Influenza viruses change via antigenic drift, requiring annual vaccines.\"",
@@ -22228,7 +22228,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hepatitis A' is the contrast to 'Hepatitis B'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Oral Rehydration Salts'?",
+          "q": "Which is correct about the concept of 'Oral Rehydration Salts'?",
           "options": [
             "It is documented in the manual 'Cardiovascular Disorder Files'.",
             "Its contrasting theme is 'pathogen elimination on surfaces and chemical strength'.",
@@ -22283,7 +22283,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Oral Rehydration Salts' is 'the electrolyte sugar solution restoring fluid balance during diarrhea'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Night blindness is an early sign of vitamin A deficiency in children.\"?",
+          "q": "What describes the key fact or historical quote: \"Night blindness is an early sign of vitamin A deficiency in children.\"?",
           "options": [
             "AIDS Disease",
             "Anemia Disease",
@@ -22327,7 +22327,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hepatitis A' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Genetic Disorder Records'?",
+          "q": "Which is correct about the book/guide 'Genetic Disorder Records'?",
           "options": [
             "Its primary focus is 'Epidemiology'.",
             "It is contrasted with 'Rickets Disease'.",
@@ -22338,7 +22338,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Genetic Disorder Records' focuses on 'clotting factor deficiency and genetic bleeding'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Hypertension Disease'?",
+          "q": "What is a key description or fact regarding the concept of 'Hypertension Disease'?",
           "options": [
             "\"Rickets leads to bow-legs and weak bones due to poor mineralization.\"",
             "\"Cholera causes severe watery diarrhea, treated with rapid rehydration.\"",
@@ -22360,7 +22360,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Rickets Disease'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Outbreak Control Manuals'?",
+          "q": "Which is correct about the book/guide 'Outbreak Control Manuals'?",
           "options": [
             "Its primary focus is 'Epidemiology'.",
             "It is written about 'Night Blindness Disease'.",
@@ -22470,7 +22470,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Viral Disease Trackers' is associated with 'Influenza'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Vaccines'?",
+          "q": "What is a key description or fact regarding the concept of 'Vaccines'?",
           "options": [
             "\"Antiseptics like rubbing alcohol or iodine are used to clean cuts and wounds.\"",
             "\"Vaccination creates immunological memory, defending against pathogens.\"",
@@ -22569,7 +22569,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Bacterial Infection Files' is the manual associated with 'bacterial lung cavitation and antibiotic courses'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Rickets Disease'?",
+          "q": "Which is correct about the core idea of 'Rickets Disease'?",
           "options": [
             "It is documented in 'Viral Disease Trackers'.",
             "It belongs to the field of 'Epidemiology'.",
@@ -22635,7 +22635,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Rickets Disease' is the direct contrast to 'Scurvy Disease'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Typhoid is diagnosed using the Widal test or blood culture methods.\"?",
+          "q": "What describes the key fact or historical quote: \"Typhoid is diagnosed using the Widal test or blood culture methods.\"?",
           "options": [
             "Malaria",
             "Typhoid Fever",
@@ -22657,7 +22657,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Immunization Science Texts' contains documentation regarding 'active immunity and antibody production'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Oral Rehydration Salts'?",
+          "q": "Which is correct about the core idea of 'Oral Rehydration Salts'?",
           "options": [
             "It belongs to the field of 'Pathology'.",
             "It is defined as 'the electrolyte sugar solution restoring fluid balance during diarrhea'.",
@@ -22679,7 +22679,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Influenza'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'microbial inhibition on tissue and skin safety'?",
+          "q": "What is a major reference or manual focusing on 'microbial inhibition on tissue and skin safety'?",
           "options": [
             "Viral Hepatitis Manuals",
             "Bacterial Infection Files",
@@ -22690,7 +22690,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Disinfection Protocol Guides' is known for its focus on 'microbial inhibition on tissue and skin safety'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'osmotic hydration and electrolyte replenishment'?",
+          "q": "What is a major reference or manual focusing on 'osmotic hydration and electrolyte replenishment'?",
           "options": [
             "Disinfection Protocol Guides",
             "Dehydration Treatment Guides",
@@ -22778,7 +22778,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Goiter Disease' is the contrast to 'Night Blindness Disease'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Disinfectants'?",
+          "q": "Which is correct about the concept of 'Disinfectants'?",
           "options": [
             "It is defined as 'the chemical agents applied to inert surfaces to destroy microbes'.",
             "It is documented in the manual 'Waterborne Outbreak Studies'.",
@@ -22800,7 +22800,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Viral Hepatitis Manuals' contains documentation regarding 'blood-borne viral transmission and liver vaccine protection'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Cholera'?",
+          "q": "Which is correct about the core idea of 'Cholera'?",
           "options": [
             "It is defined as 'the acute diarrheal disease caused by Vibrio cholerae bacteria'.",
             "It belongs to the field of 'Epidemiology'.",
@@ -22888,7 +22888,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Hemophilia' is 'the inherited bleeding disorder where blood fails to clot properly'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Dehydration Treatment Guides'?",
+          "q": "Which is correct about the book/guide 'Dehydration Treatment Guides'?",
           "options": [
             "It is contrasted with 'Cholera'.",
             "Its primary focus is 'Pharmacology'.",
@@ -22899,7 +22899,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Dehydration Treatment Guides' focuses on 'osmotic hydration and electrolyte replenishment'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Diabetes Mellitus'?",
+          "q": "Which is correct about the concept of 'Diabetes Mellitus'?",
           "options": [
             "It belongs to the domain of 'Pharmacology'.",
             "Its contrasting theme is 'microbial inhibition on tissue and skin safety'.",
@@ -22976,7 +22976,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Night Blindness Disease' deals with the theme of 'rhodopsin synthesis and vitamin deficiency'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'isolation guidelines and incubation periods'?",
+          "q": "What is a major reference or manual focusing on 'isolation guidelines and incubation periods'?",
           "options": [
             "Deficiency Disease Manuals",
             "Deficiency Disease Manuals",
@@ -22998,7 +22998,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Oral Rehydration Salts' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Malaria'?",
+          "q": "Which is correct about the concept of 'Malaria'?",
           "options": [
             "It belongs to the domain of 'Epidemiology'.",
             "It is defined as 'the disease caused by Plasmodium parasite transmitted by Anopheles mosquito'.",
@@ -23009,7 +23009,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Malaria' is defined as 'the disease caused by Plasmodium parasite transmitted by Anopheles mosquito'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'helper T-cells destruction and opportunistic infections'?",
+          "q": "What is a major reference or manual focusing on 'helper T-cells destruction and opportunistic infections'?",
           "options": [
             "Viral Hepatitis Manuals",
             "Viral Hepatitis Manuals",
@@ -23042,7 +23042,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Anemia Disease' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Vaccines'?",
+          "q": "Which is correct about the core idea of 'Vaccines'?",
           "options": [
             "It belongs to the field of 'Pathology'.",
             "It is documented in 'Immunodeficiency Manuals'.",
@@ -23119,7 +23119,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Scurvy Disease' deals with the theme of 'collagen breakdown and dietary deficiency'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Clinical Medicine'?",
+          "q": "What is situated within the study field of 'Clinical Medicine'?",
           "options": [
             "Typhoid Fever",
             "Disinfectants",
@@ -23141,7 +23141,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Malaria'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Hepatitis A'?",
+          "q": "What is a key description or fact regarding the concept of 'Hepatitis A'?",
           "options": [
             "\"Hepatitis A is self-limiting and prevented by clean water and sanitation.\"",
             "\"Hypertension is often called the silent killer as it shows no early symptoms.\"",
@@ -23152,7 +23152,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Hepatitis A' is: \"Hepatitis A is self-limiting and prevented by clean water and sanitation.\"."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Dengue Fever'?",
+          "q": "Which is correct about the concept of 'Dengue Fever'?",
           "options": [
             "It belongs to the domain of 'Pathology'.",
             "It is documented in the manual 'Viral Hepatitis Manuals'.",
@@ -23207,7 +23207,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Typhoid Fever'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Disinfectants'?",
+          "q": "What is a key description or fact regarding the concept of 'Disinfectants'?",
           "options": [
             "\"ORS contains sodium, potassium, chloride, and glucose to speed up absorption.\"",
             "\"Cholera causes severe watery diarrhea, treated with rapid rehydration.\"",
@@ -23251,7 +23251,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hepatitis B' is the standard contrast to 'AIDS Disease'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Tuberculosis'?",
+          "q": "Which is correct about the core idea of 'Tuberculosis'?",
           "options": [
             "It is themed as 'calcium malabsorption and skeletal deformity'.",
             "It belongs to the field of 'Pathology'.",
@@ -23306,7 +23306,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Diabetes Mellitus'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Night Blindness Disease'?",
+          "q": "Which is correct about the concept of 'Night Blindness Disease'?",
           "options": [
             "It is defined as 'the vision impairment in low light caused by lack of Vitamin A'.",
             "It belongs to the domain of 'Pathology'.",
@@ -23328,7 +23328,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Hepatitis B'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Quarantine limits the spread of highly contagious pathogens during outbreaks.\"?",
+          "q": "What describes the key fact or historical quote: \"Quarantine limits the spread of highly contagious pathogens during outbreaks.\"?",
           "options": [
             "Hepatitis B",
             "Night Blindness Disease",
@@ -23339,7 +23339,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Quarantine Protocol'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Antibiotics'?",
+          "q": "Which is correct about the core idea of 'Antibiotics'?",
           "options": [
             "It is defined as 'the chemical compounds destroying or stopping the growth of bacteria'.",
             "It is themed as 'pathogen elimination on surfaces and chemical strength'.",
@@ -23372,7 +23372,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Quarantine Protocol'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Tuberculosis'?",
+          "q": "What is a key description or fact regarding the concept of 'Tuberculosis'?",
           "options": [
             "\"Anemia causes fatigue and pale skin due to lack of healthy red blood cells.\"",
             "\"Rickets leads to bow-legs and weak bones due to poor mineralization.\"",
@@ -23383,7 +23383,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Tuberculosis' is: \"Tuberculosis is primarily spread through airborne droplets from coughing.\"."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Influenza viruses change via antigenic drift, requiring annual vaccines.\"?",
+          "q": "What describes the key fact or historical quote: \"Influenza viruses change via antigenic drift, requiring annual vaccines.\"?",
           "options": [
             "Vaccines",
             "Cholera",
@@ -23427,7 +23427,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Antiseptics' is 'the chemical substances applied to living skin to prevent sepsis'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Viral Hepatitis Manuals'?",
+          "q": "Which is correct about the book/guide 'Viral Hepatitis Manuals'?",
           "options": [
             "Its primary focus is 'Epidemiology'.",
             "It addresses the theme of 'viral liver transmission and food safety'.",
@@ -23460,7 +23460,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Genetic Disorder Records' is the manual associated with 'clotting factor deficiency and genetic bleeding'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Hemophilia'?",
+          "q": "Which is correct about the concept of 'Hemophilia'?",
           "options": [
             "Its contrasting theme is 'bacterial lung cavitation and antibiotic courses'.",
             "It is defined as 'the inherited bleeding disorder where blood fails to clot properly'.",
@@ -23504,7 +23504,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Viral Disease Trackers' is associated with 'Dengue Fever'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Immunization Science Texts'?",
+          "q": "Which is correct about the book/guide 'Immunization Science Texts'?",
           "options": [
             "Its primary focus is 'Epidemiology'.",
             "It is contrasted with 'Disinfectants'.",
@@ -23603,7 +23603,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Anemia Disease' is built on the concept: 'the reduced oxygen carrying capacity of blood caused by iron deficiency'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Quarantine Protocol'?",
+          "q": "What is a key description or fact regarding the concept of 'Quarantine Protocol'?",
           "options": [
             "\"Rickets leads to bow-legs and weak bones due to poor mineralization.\"",
             "\"Hepatitis B is highly infectious, prevented by a highly effective vaccine.\"",
@@ -23636,7 +23636,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Dehydration Treatment Guides' is associated with 'Oral Rehydration Salts'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Antiseptics'?",
+          "q": "What is a key description or fact regarding the concept of 'Antiseptics'?",
           "options": [
             "\"Antiseptics like rubbing alcohol or iodine are used to clean cuts and wounds.\"",
             "\"Hepatitis C can remain asymptomatic for decades while damaging the liver.\"",
@@ -23647,7 +23647,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Antiseptics' is: \"Antiseptics like rubbing alcohol or iodine are used to clean cuts and wounds.\"."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'bacterial lung cavitation and antibiotic courses'?",
+          "q": "What is a major reference or manual focusing on 'bacterial lung cavitation and antibiotic courses'?",
           "options": [
             "Deficiency Disease Manuals",
             "Deficiency Disease Manuals",
@@ -23746,7 +23746,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Vaccines'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Disinfectants'?",
+          "q": "Which is correct about the core idea of 'Disinfectants'?",
           "options": [
             "It is documented in 'Dehydration Treatment Guides'.",
             "It belongs to the field of 'Epidemiology'.",
@@ -23768,7 +23768,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Rickets Disease' is the standard contrast to 'Scurvy Disease'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'enteric bacterial transmission and high fever'?",
+          "q": "What is a major reference or manual focusing on 'enteric bacterial transmission and high fever'?",
           "options": [
             "Disinfection Protocol Guides",
             "Deficiency Disease Manuals",
@@ -23790,7 +23790,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Scurvy Disease' is 'the bleeding gum disease caused by a severe lack of Vitamin C'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Hepatitis B is highly infectious, prevented by a highly effective vaccine.\"?",
+          "q": "What describes the key fact or historical quote: \"Hepatitis B is highly infectious, prevented by a highly effective vaccine.\"?",
           "options": [
             "Antibiotics",
             "Cholera",
@@ -23845,7 +23845,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hypertension Disease' is classified under the domain of 'Pathology'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Tuberculosis'?",
+          "q": "Which is correct about the concept of 'Tuberculosis'?",
           "options": [
             "Its contrasting theme is 'active immunity and antibody production'.",
             "It is documented in the manual 'Deficiency Disease Manuals'.",
@@ -23933,7 +23933,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Tuberculosis' is 'the highly infectious lung disease caused by Mycobacterium tuberculosis'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'thyroid swelling and mineral deficiency'?",
+          "q": "What is a major reference or manual focusing on 'thyroid swelling and mineral deficiency'?",
           "options": [
             "Deficiency Disease Manuals",
             "Immunization Science Texts",
@@ -23944,7 +23944,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Deficiency Disease Manuals' is known for its focus on 'thyroid swelling and mineral deficiency'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Epidemiology'?",
+          "q": "What is situated within the study field of 'Epidemiology'?",
           "options": [
             "Cholera",
             "Vaccines",
@@ -23955,7 +23955,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Malaria' falls under the discipline of 'Epidemiology'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Typhoid Fever'?",
+          "q": "Which is correct about the core idea of 'Typhoid Fever'?",
           "options": [
             "It is documented in 'Deficiency Disease Manuals'.",
             "It belongs to the field of 'Pharmacology'.",
@@ -24021,7 +24021,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Cholera' is the standard contrast to 'Typhoid Fever'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Cholera causes severe watery diarrhea, treated with rapid rehydration.\"?",
+          "q": "What describes the key fact or historical quote: \"Cholera causes severe watery diarrhea, treated with rapid rehydration.\"?",
           "options": [
             "Vaccines",
             "Disinfectants",
@@ -24043,7 +24043,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Rickets Disease' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Night Blindness Disease'?",
+          "q": "What is a key description or fact regarding the concept of 'Night Blindness Disease'?",
           "options": [
             "\"Anemia causes fatigue and pale skin due to lack of healthy red blood cells.\"",
             "\"Night blindness is an early sign of vitamin A deficiency in children.\"",
@@ -24054,7 +24054,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Night Blindness Disease' is: \"Night blindness is an early sign of vitamin A deficiency in children.\"."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Pathology'?",
+          "q": "What is situated within the study field of 'Pathology'?",
           "options": [
             "Disinfectants",
             "Antiseptics",
@@ -24065,7 +24065,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Diabetes Mellitus' falls under the discipline of 'Pathology'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Rickets Disease'?",
+          "q": "What is a key description or fact regarding the concept of 'Rickets Disease'?",
           "options": [
             "\"Rickets leads to bow-legs and weak bones due to poor mineralization.\"",
             "\"Tuberculosis is primarily spread through airborne droplets from coughing.\"",
@@ -24076,7 +24076,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Rickets Disease' is: \"Rickets leads to bow-legs and weak bones due to poor mineralization.\"."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'AIDS Disease'?",
+          "q": "Which is correct about the concept of 'AIDS Disease'?",
           "options": [
             "Its contrasting theme is 'viral liver transmission and food safety'.",
             "It belongs to the domain of 'Epidemiology'.",
@@ -24109,7 +24109,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Immunodeficiency Manuals' is associated with 'AIDS Disease'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Scurvy Disease'?",
+          "q": "Which is correct about the core idea of 'Scurvy Disease'?",
           "options": [
             "It is themed as 'enteric bacterial transmission and high fever'.",
             "It is documented in 'Disinfection Protocol Guides'.",
@@ -24131,7 +24131,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Deficiency Disease Manuals' is the manual associated with 'thyroid swelling and mineral deficiency'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Hepatitis B'?",
+          "q": "What is a key description or fact regarding the concept of 'Hepatitis B'?",
           "options": [
             "\"Cholera causes severe watery diarrhea, treated with rapid rehydration.\"",
             "\"Hypertension is often called the silent killer as it shows no early symptoms.\"",
@@ -24142,7 +24142,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Hepatitis B' is: \"Hepatitis B is highly infectious, prevented by a highly effective vaccine.\"."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Endocrine Disorder Files'?",
+          "q": "Which is correct about the book/guide 'Endocrine Disorder Files'?",
           "options": [
             "It is written about 'Hepatitis C'.",
             "It is contrasted with 'Antiseptics'.",
@@ -24175,7 +24175,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Anemia Disease' is the standard contrast to 'Goiter Disease'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'parasitic transmission and red blood cells destruction'?",
+          "q": "What is a major reference or manual focusing on 'parasitic transmission and red blood cells destruction'?",
           "options": [
             "Immunization Science Texts",
             "Deficiency Disease Manuals",
@@ -24219,7 +24219,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Malaria' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Enteric Infection Records'?",
+          "q": "Which is correct about the book/guide 'Enteric Infection Records'?",
           "options": [
             "It addresses the theme of 'enteric bacterial transmission and high fever'.",
             "It is contrasted with 'Dengue Fever'.",
@@ -24318,7 +24318,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hemophilia' is the contrast to 'Anemia Disease'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Antiseptics'?",
+          "q": "Which is correct about the core idea of 'Antiseptics'?",
           "options": [
             "It is themed as 'blood-borne transmission and chronic liver damage'.",
             "It belongs to the field of 'Pharmacology'.",
@@ -24351,7 +24351,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Deficiency Disease Manuals' is associated with 'Scurvy Disease'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Dengue Fever'?",
+          "q": "Which is correct about the core idea of 'Dengue Fever'?",
           "options": [
             "It belongs to the field of 'Epidemiology'.",
             "It is themed as 'clotting factor deficiency and genetic bleeding'.",
@@ -24373,7 +24373,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Viral Hepatitis Manuals' is associated with 'Hepatitis C'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Cholera'?",
+          "q": "Which is correct about the concept of 'Cholera'?",
           "options": [
             "It belongs to the domain of 'Pharmacology'.",
             "It is documented in the manual 'Immunization Science Texts'.",
@@ -24461,7 +24461,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Influenza' is the standard contrast to 'Tuberculosis'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Rickets Disease'?",
+          "q": "Which is correct about the concept of 'Rickets Disease'?",
           "options": [
             "It is documented in the manual 'Viral Hepatitis Manuals'.",
             "It is defined as 'the bone-softening disease in children caused by Vitamin D deficiency'.",
@@ -24505,7 +24505,7 @@ window.QuizData_everyday_science = {
           "explanation": "'bacterial cell wall inhibition and antimicrobial resistance' is a major theme inside 'Pharmacology'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Typhoid Fever'?",
+          "q": "What is a key description or fact regarding the concept of 'Typhoid Fever'?",
           "options": [
             "\"Anemia causes fatigue and pale skin due to lack of healthy red blood cells.\"",
             "\"Disinfectants like bleach are too harsh for use on living human tissue.\"",
@@ -24538,7 +24538,7 @@ window.QuizData_everyday_science = {
           "explanation": "'insulin deficiency and glucose metabolism' is a major theme inside 'Pathology'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Pharmacology'?",
+          "q": "What is situated within the study field of 'Pharmacology'?",
           "options": [
             "Disinfectants",
             "Antibiotics",
@@ -24593,7 +24593,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Influenza' is the contrast to 'Tuberculosis'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Antibiotics'?",
+          "q": "Which is correct about the concept of 'Antibiotics'?",
           "options": [
             "Its contrasting theme is 'parasitic transmission and red blood cells destruction'.",
             "It is documented in the manual 'Deficiency Disease Manuals'.",
@@ -24637,7 +24637,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Antiseptics' deals with the theme of 'microbial inhibition on tissue and skin safety'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Hepatitis C'?",
+          "q": "Which is correct about the core idea of 'Hepatitis C'?",
           "options": [
             "It is documented in 'Deficiency Disease Manuals'.",
             "It is themed as 'blood-borne viral transmission and liver vaccine protection'.",
@@ -24648,7 +24648,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hepatitis C' is defined as 'the chronic viral infection transmitted mainly through blood contact'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Night Blindness Disease'?",
+          "q": "Which is correct about the core idea of 'Night Blindness Disease'?",
           "options": [
             "It is themed as 'hemoglobin reduction and red blood cells count'.",
             "It is defined as 'the vision impairment in low light caused by lack of Vitamin A'.",
@@ -24659,7 +24659,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Night Blindness Disease' is defined as 'the vision impairment in low light caused by lack of Vitamin A'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"ORS contains sodium, potassium, chloride, and glucose to speed up absorption.\"?",
+          "q": "What describes the key fact or historical quote: \"ORS contains sodium, potassium, chloride, and glucose to speed up absorption.\"?",
           "options": [
             "Disinfectants",
             "Oral Rehydration Salts",
@@ -24681,7 +24681,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Disinfectants' is built on the concept: 'the chemical agents applied to inert surfaces to destroy microbes'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'collagen breakdown and dietary deficiency'?",
+          "q": "What is a major reference or manual focusing on 'collagen breakdown and dietary deficiency'?",
           "options": [
             "Immunodeficiency Manuals",
             "Disinfection Protocol Guides",
@@ -24703,7 +24703,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Anemia Disease'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'arterial pressure and cardiovascular risk'?",
+          "q": "What is a major reference or manual focusing on 'arterial pressure and cardiovascular risk'?",
           "options": [
             "Waterborne Outbreak Studies",
             "Deficiency Disease Manuals",
@@ -24725,7 +24725,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Malaria' is classified under the domain of 'Epidemiology'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Waterborne Outbreak Studies'?",
+          "q": "Which is correct about the book/guide 'Waterborne Outbreak Studies'?",
           "options": [
             "Its primary focus is 'Pathology'.",
             "It is written about 'Vaccines'.",
@@ -24846,7 +24846,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Hemophilia'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Disinfection Protocol Guides'?",
+          "q": "Which is correct about the book/guide 'Disinfection Protocol Guides'?",
           "options": [
             "Its primary focus is 'Epidemiology'.",
             "It is written about 'Antibiotics'.",
@@ -24879,7 +24879,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hepatitis B' is the standard contrast to 'Hepatitis A'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Oral Rehydration Salts'?",
+          "q": "What is a key description or fact regarding the concept of 'Oral Rehydration Salts'?",
           "options": [
             "\"Typhoid is diagnosed using the Widal test or blood culture methods.\"",
             "\"Hypertension is often called the silent killer as it shows no early symptoms.\"",
@@ -24890,7 +24890,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Oral Rehydration Salts' is: \"ORS contains sodium, potassium, chloride, and glucose to speed up absorption.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Diabetes Mellitus'?",
+          "q": "What is a key description or fact regarding the concept of 'Diabetes Mellitus'?",
           "options": [
             "\"Antiseptics like rubbing alcohol or iodine are used to clean cuts and wounds.\"",
             "\"Disinfectants like bleach are too harsh for use on living human tissue.\"",
@@ -24901,7 +24901,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Diabetes Mellitus' is: \"Type 1 diabetes is autoimmune, while Type 2 is linked to insulin resistance.\"."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Hepatitis C can remain asymptomatic for decades while damaging the liver.\"?",
+          "q": "What describes the key fact or historical quote: \"Hepatitis C can remain asymptomatic for decades while damaging the liver.\"?",
           "options": [
             "Hepatitis B",
             "Hepatitis C",
@@ -24945,7 +24945,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Scurvy Disease' is built on the concept: 'the bleeding gum disease caused by a severe lack of Vitamin C'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Tuberculosis is primarily spread through airborne droplets from coughing.\"?",
+          "q": "What describes the key fact or historical quote: \"Tuberculosis is primarily spread through airborne droplets from coughing.\"?",
           "options": [
             "Vaccines",
             "Tuberculosis",
@@ -24967,7 +24967,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vaccines' is built on the concept: 'the biological formulations stimulating antibodies to prevent future infection'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"HIV destroys CD4+ T-lymphocytes, crippling the immune system.\"?",
+          "q": "What describes the key fact or historical quote: \"HIV destroys CD4+ T-lymphocytes, crippling the immune system.\"?",
           "options": [
             "Hepatitis B",
             "Tuberculosis",
@@ -25011,7 +25011,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Waterborne Outbreak Studies' is associated with 'Cholera'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Parasitic Disease Records'?",
+          "q": "Which is correct about the book/guide 'Parasitic Disease Records'?",
           "options": [
             "It is written about 'Vaccines'.",
             "It addresses the theme of 'parasitic transmission and red blood cells destruction'.",
@@ -25055,7 +25055,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Quarantine Protocol' deals with the theme of 'isolation guidelines and incubation periods'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Deficiency Disease Manuals'?",
+          "q": "Which is correct about the book/guide 'Deficiency Disease Manuals'?",
           "options": [
             "It addresses the theme of 'collagen breakdown and dietary deficiency'.",
             "It is contrasted with 'Cholera'.",
@@ -25088,7 +25088,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Rickets Disease'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Anemia causes fatigue and pale skin due to lack of healthy red blood cells.\"?",
+          "q": "What describes the key fact or historical quote: \"Anemia causes fatigue and pale skin due to lack of healthy red blood cells.\"?",
           "options": [
             "Dengue Fever",
             "Hepatitis C",
@@ -25132,7 +25132,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Disinfection Protocol Guides' is associated with 'Antiseptics'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Scurvy Disease'?",
+          "q": "Which is correct about the concept of 'Scurvy Disease'?",
           "options": [
             "It is defined as 'the bleeding gum disease caused by a severe lack of Vitamin C'.",
             "It belongs to the domain of 'Epidemiology'.",
@@ -25176,7 +25176,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Enteric Infection Records' is associated with 'Typhoid Fever'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Hepatitis A'?",
+          "q": "Which is correct about the core idea of 'Hepatitis A'?",
           "options": [
             "It is documented in 'Outbreak Control Manuals'.",
             "It is defined as 'the acute liver inflammation spread via the fecal-oral route'.",
@@ -25209,7 +25209,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Cholera' deals with the theme of 'waterborne contamination and rapid dehydration'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'calcium malabsorption and skeletal deformity'?",
+          "q": "What is a major reference or manual focusing on 'calcium malabsorption and skeletal deformity'?",
           "options": [
             "Viral Hepatitis Manuals",
             "Bacterial Infection Files",
@@ -25242,7 +25242,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Viral Disease Trackers' contains documentation regarding 'vector-borne viral transmission and platelet drops'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Malaria is diagnosed by checking blood smears for Plasmodium ring forms.\"?",
+          "q": "What describes the key fact or historical quote: \"Malaria is diagnosed by checking blood smears for Plasmodium ring forms.\"?",
           "options": [
             "Scurvy Disease",
             "Cholera",
@@ -25297,7 +25297,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Scurvy Disease'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'insulin deficiency and glucose metabolism'?",
+          "q": "What is a major reference or manual focusing on 'insulin deficiency and glucose metabolism'?",
           "options": [
             "Disinfection Protocol Guides",
             "Viral Hepatitis Manuals",
@@ -25363,7 +25363,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Immunodeficiency Manuals' contains documentation regarding 'helper T-cells destruction and opportunistic infections'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'viral liver transmission and food safety'?",
+          "q": "What is a major reference or manual focusing on 'viral liver transmission and food safety'?",
           "options": [
             "Outbreak Control Manuals",
             "Deficiency Disease Manuals",
@@ -25374,7 +25374,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Viral Hepatitis Manuals' is known for its focus on 'viral liver transmission and food safety'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Diabetes Mellitus'?",
+          "q": "Which is correct about the core idea of 'Diabetes Mellitus'?",
           "options": [
             "It is themed as 'pathogen elimination on surfaces and chemical strength'.",
             "It is defined as 'the metabolic disease marked by high blood glucose levels'.",
@@ -25418,7 +25418,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Typhoid' is the contrast to 'Cholera'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Dengue Fever'?",
+          "q": "What is a key description or fact regarding the concept of 'Dengue Fever'?",
           "options": [
             "\"HIV destroys CD4+ T-lymphocytes, crippling the immune system.\"",
             "\"Dengue is also known as breakbone fever due to intense muscle and joint pain.\"",
@@ -25462,7 +25462,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Deficiency Disease Manuals' is associated with 'Rickets Disease'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Hemophilia is an X-linked genetic disorder primarily affecting males.\"?",
+          "q": "What describes the key fact or historical quote: \"Hemophilia is an X-linked genetic disorder primarily affecting males.\"?",
           "options": [
             "Scurvy Disease",
             "Tuberculosis",
@@ -25506,7 +25506,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Antibiotics'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Influenza'?",
+          "q": "Which is correct about the core idea of 'Influenza'?",
           "options": [
             "It is themed as 'bacterial cell wall inhibition and antimicrobial resistance'.",
             "It is documented in 'Immunization Science Texts'.",
@@ -25561,7 +25561,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hypertension' is the contrast to 'Diabetes Mellitus'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'rhodopsin synthesis and vitamin deficiency'?",
+          "q": "What is a major reference or manual focusing on 'rhodopsin synthesis and vitamin deficiency'?",
           "options": [
             "Immunodeficiency Manuals",
             "Deficiency Disease Manuals",
@@ -25572,7 +25572,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Deficiency Disease Manuals' is known for its focus on 'rhodopsin synthesis and vitamin deficiency'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Scurvy Disease'?",
+          "q": "What is a key description or fact regarding the concept of 'Scurvy Disease'?",
           "options": [
             "\"Typhoid is diagnosed using the Widal test or blood culture methods.\"",
             "\"Scurvy was historically common among sailors lacking fresh fruits on voyages.\"",
@@ -25594,7 +25594,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Deficiency Disease Manuals' is associated with 'Anemia Disease'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Hypertension Disease'?",
+          "q": "Which is correct about the core idea of 'Hypertension Disease'?",
           "options": [
             "It is defined as 'the chronic medical condition of persistently high arterial blood pressure'.",
             "It is documented in 'Waterborne Outbreak Studies'.",
@@ -25605,7 +25605,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hypertension Disease' is defined as 'the chronic medical condition of persistently high arterial blood pressure'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Vaccines'?",
+          "q": "Which is correct about the concept of 'Vaccines'?",
           "options": [
             "It is defined as 'the biological formulations stimulating antibodies to prevent future infection'.",
             "It is documented in the manual 'Deficiency Disease Manuals'.",
@@ -25616,7 +25616,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Vaccines' is defined as 'the biological formulations stimulating antibodies to prevent future infection'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Antibiotics'?",
+          "q": "What is a key description or fact regarding the concept of 'Antibiotics'?",
           "options": [
             "\"Disinfectants like bleach are too harsh for use on living human tissue.\"",
             "\"Malaria is diagnosed by checking blood smears for Plasmodium ring forms.\"",
@@ -25638,7 +25638,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Cholera' is the contrast to 'Typhoid Fever'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Type 1 diabetes is autoimmune, while Type 2 is linked to insulin resistance.\"?",
+          "q": "What describes the key fact or historical quote: \"Type 1 diabetes is autoimmune, while Type 2 is linked to insulin resistance.\"?",
           "options": [
             "Antiseptics",
             "Disinfectants",
@@ -26051,7 +26051,7 @@ window.QuizData_everyday_science = {
           "explanation": "Meteorology focuses on weather and climate."
         },
         {
-          "q": "Which of the following applies to the closest known star to the Sun, a small, faint red dwarf located roughly 4.24 light-years away?",
+          "q": "What applies to the closest known star to the Sun, a small, faint red dwarf located roughly 4.24 light-years away?",
           "options": [
             "Alpha Centauri A",
             "Betelgeuse",
@@ -26073,7 +26073,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the prevailing, widely accepted cosmological model explaining the origin and rapid expansion of the universe from a high-density state for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the four dense, naturally rocky, solid inner planets completely residing between the Sun and strictly the asteroid belt?",
+          "q": "What applies to the four dense, naturally rocky, solid inner planets completely residing between the Sun and strictly the asteroid belt?",
           "options": [
             "Dwarf Planets",
             "Ice Giants",
@@ -26095,7 +26095,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the four dense, naturally rocky, solid inner planets completely residing between the Sun and strictly the asteroid belt for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the entirely theoretical, deeply mysterious, repulsive outward force thought to be steadily accelerating the overall expansion of the universe?",
+          "q": "What applies to the entirely theoretical, deeply mysterious, repulsive outward force thought to be steadily accelerating the overall expansion of the universe?",
           "options": [
             "Dark Matter",
             "Dark Energy",
@@ -26106,7 +26106,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the entirely theoretical, deeply mysterious, repulsive outward force thought to be steadily accelerating the overall expansion of the universe for Everyday Science."
         },
         {
-          "q": "Which of the following applies to an infinitely dense, zero-dimensional point situated precisely at the exact center of a standard black hole?",
+          "q": "What applies to an infinitely dense, zero-dimensional point situated precisely at the exact center of a standard black hole?",
           "options": [
             "Singularity",
             "Quasar",
@@ -26139,7 +26139,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a theoretically immense, deeply spherical outer shell specifically containing billions of fundamentally icy comets supposedly surrounding the entire furthest edges of the Solar System for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the completely spectacularly universally distinct massive, unimaginably fundamentally highly intensely brilliant exceedingly essentially brightly brightly incredibly active exceptionally intensely violently violently radiating central deep deep supermassive core precisely explicitly anchoring intensely nearly essentially essentially essentially every single incredibly distant young galaxy?",
+          "q": "What applies to the completely spectacularly universally distinct massive, unimaginably fundamentally highly intensely brilliant exceedingly essentially brightly brightly incredibly active exceptionally intensely violently violently radiating central deep deep supermassive core precisely explicitly anchoring intensely nearly essentially essentially essentially every single incredibly distant young galaxy?",
           "options": [
             "Nebula",
             "White Dwarf",
@@ -26150,7 +26150,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the completely spectacularly universally distinct massive, unimaginably fundamentally highly intensely brilliant exceedingly essentially brightly brightly incredibly active exceptionally intensely violently violently radiating central deep deep supermassive core precisely explicitly anchoring intensely nearly essentially essentially essentially every single incredibly distant young galaxy for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the incredibly violent, exponentially massive explosion representing the catastrophic death of a supergiant star?",
+          "q": "What applies to the incredibly violent, exponentially massive explosion representing the catastrophic death of a supergiant star?",
           "options": [
             "Solar Flare",
             "Gamma-Ray Burst",
@@ -26161,7 +26161,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the incredibly violent, exponentially massive explosion representing the catastrophic death of a supergiant star for Everyday Science."
         },
         {
-          "q": "Which of the following applies to an immense, sprawling interstellar cloud consisting mostly of dense hydrogen gas and dust, essentially acting as a 'stellar nursery'?",
+          "q": "What applies to an immense, sprawling interstellar cloud consisting mostly of dense hydrogen gas and dust, essentially acting as a 'stellar nursery'?",
           "options": [
             "Black Hole",
             "Supernova",
@@ -26304,7 +26304,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the four incredibly massive, fundamentally gaseous or icy outer planets residing strictly beyond the main asteroid belt for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the eight massive celestial bodies inherently orbiting the Sun in strictly cleared, distinct, roughly elliptical paths?",
+          "q": "What applies to the eight massive celestial bodies inherently orbiting the Sun in strictly cleared, distinct, roughly elliptical paths?",
           "options": [
             "Dwarf Planets",
             "Comets",
@@ -26348,7 +26348,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the visually impressive, universally standard recognized patterns or essentially groupings of seemingly fixed stars distinctly officially named historically by the IAU for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the vast, incredibly distant, fundamentally icy region of the immediate solar system situated significantly beyond the regular orbit of massive Neptune?",
+          "q": "What applies to the vast, incredibly distant, fundamentally icy region of the immediate solar system situated significantly beyond the regular orbit of massive Neptune?",
           "options": [
             "Asteroid Belt",
             "Kuiper Belt",
@@ -26414,7 +26414,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the scientific study of all celestial objects and phenomena beyond Earth's atmosphere for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a region of spacetime exhibiting absolutely immense gravitational acceleration from which fundamentally nothing, not even light, can easily escape?",
+          "q": "What applies to a region of spacetime exhibiting absolutely immense gravitational acceleration from which fundamentally nothing, not even light, can easily escape?",
           "options": [
             "White Dwarf",
             "Neutron Star",
@@ -26469,7 +26469,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the specific, immense barred spiral galaxy that contains our Solar System for Everyday Science."
         },
         {
-          "q": "Which of the following applies to any celestial planet firmly confidently discovered successfully orbiting deeply around any completely completely entirely different foreign star specifically existing completely outside our own immediate Solar System?",
+          "q": "What applies to any celestial planet firmly confidently discovered successfully orbiting deeply around any completely completely entirely different foreign star specifically existing completely outside our own immediate Solar System?",
           "options": [
             "Pulsar Planet",
             "Rogue Planet",
@@ -26480,7 +26480,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding any celestial planet firmly confidently discovered successfully orbiting deeply around any completely completely entirely different foreign star specifically existing completely outside our own immediate Solar System for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a truly rapidly rotating distinctly incredibly dense fundamentally immensely highly magnetized entirely pure neutron star practically essentially continuously vigorously sweeping intense radiation completely constantly entirely across local empty space?",
+          "q": "What applies to a truly rapidly rotating distinctly incredibly dense fundamentally immensely highly magnetized entirely pure neutron star practically essentially continuously vigorously sweeping intense radiation completely constantly entirely across local empty space?",
           "options": [
             "White Dwarf",
             "Magnetar",
@@ -26513,7 +26513,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding an immense, sprawling interstellar cloud consisting mostly of dense hydrogen gas and dust, essentially acting as a 'stellar nursery' for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the distinctly iron-rich 'Red Planet', completely featuring Olympus Mons (the absolute largest known volcano in the primary Solar System)?",
+          "q": "What applies to the distinctly iron-rich 'Red Planet', completely featuring Olympus Mons (the absolute largest known volcano in the primary Solar System)?",
           "options": [
             "Jupiter",
             "Mars",
@@ -26579,7 +26579,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the single most incredibly profoundly completely specifically profoundly immensely highly historically uniquely historically globally recognized totally absolutely entirely defining specific single historic orbital artificial satellite famously originally explicitly unilaterally launched wholly exclusively actively purely unilaterally aggressively fundamentally by the precise Soviet Union completely explicitly entirely literally inaugurating basically strictly explicitly squarely heavily exclusively inherently virtually universally fully effectively initiating the total Space Age exactly perfectly squarely firmly squarely specifically fully uniquely decisively unilaterally forcefully intensely unilaterally deeply historically purely perfectly decisively officially fundamentally undeniably fully strongly in firmly heavily completely entirely precisely entirely 1957 for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the specific branch of science focusing strictly on the origin, vast structure, and ultimate fate of the entire universe?",
+          "q": "What applies to the specific branch of science focusing strictly on the origin, vast structure, and ultimate fate of the entire universe?",
           "options": [
             "Astronomy",
             "Cosmology",
@@ -26601,7 +26601,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a truly rapidly rotating distinctly incredibly dense fundamentally immensely highly magnetized entirely pure neutron star practically essentially continuously vigorously sweeping intense radiation completely constantly entirely across local empty space for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a decidedly small rock or metallic fragment aggressively hurtling completely blindly through deep interplanetary space?",
+          "q": "What applies to a decidedly small rock or metallic fragment aggressively hurtling completely blindly through deep interplanetary space?",
           "options": [
             "Meteor",
             "Meteorite",
@@ -26612,7 +26612,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a decidedly small rock or metallic fragment aggressively hurtling completely blindly through deep interplanetary space for Everyday Science."
         },
         {
-          "q": "Which of the following applies to Saturn's undeniably largest moon, specifically incredibly unique for genuinely possessing an immensely dense, incredibly thick, nitrogen-rich atmosphere?",
+          "q": "What applies to Saturn's undeniably largest moon, specifically incredibly unique for genuinely possessing an immensely dense, incredibly thick, nitrogen-rich atmosphere?",
           "options": [
             "Europa",
             "Titan",
@@ -26953,7 +26953,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the specific branch of science focusing strictly on the origin, vast structure, and ultimate fate of the entire universe for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a definitively surviving, solid piece of falling space debris that fundamentally successfully lands fully intact directly right upon the solid Earth's surface?",
+          "q": "What applies to a definitively surviving, solid piece of falling space debris that fundamentally successfully lands fully intact directly right upon the solid Earth's surface?",
           "options": [
             "Meteoroid",
             "Meteorite",
@@ -26986,7 +26986,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the nearest star to Earth, a massive yellow dwarf firmly seated at the absolute center of our Solar System for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the undeniably hottest planet in the Solar System, famously wrapped in an immensely thick, violently toxic atmosphere entirely of carbon dioxide?",
+          "q": "What applies to the undeniably hottest planet in the Solar System, famously wrapped in an immensely thick, violently toxic atmosphere entirely of carbon dioxide?",
           "options": [
             "Mars",
             "Jupiter",
@@ -27063,7 +27063,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a distinctly icy, deeply frozen small solar system body violently outgassing gas and dust primarily as it swings aggressively close to the intense heat of the Sun for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the absolutely smallest, swiftest, and inherently closest planet directly orbiting the central Sun?",
+          "q": "What applies to the absolutely smallest, swiftest, and inherently closest planet directly orbiting the central Sun?",
           "options": [
             "Mars",
             "Venus",
@@ -27074,7 +27074,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the absolutely smallest, swiftest, and inherently closest planet directly orbiting the central Sun for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a highly informal but nonetheless extremely universally recognized specific pattern firmly deeply embedded explicitly within a much larger primary constellation (e.g., The Big Dipper)?",
+          "q": "What applies to a highly informal but nonetheless extremely universally recognized specific pattern firmly deeply embedded explicitly within a much larger primary constellation (e.g., The Big Dipper)?",
           "options": [
             "Galaxy",
             "Constellation",
@@ -27162,7 +27162,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the vast, incredibly distant, fundamentally icy region of the immediate solar system situated significantly beyond the regular orbit of massive Neptune for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the visually impressive, universally standard recognized patterns or essentially groupings of seemingly fixed stars distinctly officially named historically by the IAU?",
+          "q": "What applies to the visually impressive, universally standard recognized patterns or essentially groupings of seemingly fixed stars distinctly officially named historically by the IAU?",
           "options": [
             "Galaxies",
             "Constellations",
@@ -27195,7 +27195,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the incredibly standard astronomical unit of profound distance mathematically defined as the sheer distance light inherently travels in one standard Earth year for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a distinctly icy, deeply frozen small solar system body violently outgassing gas and dust primarily as it swings aggressively close to the intense heat of the Sun?",
+          "q": "What applies to a distinctly icy, deeply frozen small solar system body violently outgassing gas and dust primarily as it swings aggressively close to the intense heat of the Sun?",
           "options": [
             "Dwarf Planet",
             "Meteoroid",
@@ -27217,7 +27217,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the only known planet specifically possessing abundant liquid water directly on its surface and vigorously sustaining complex life for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the formally defined orbital region explicitly surrounding precisely essentially any given star safely realistically uniquely allowing totally uninhibited continuous vast stable existence of precisely absolutely essential liquid surface water?",
+          "q": "What applies to the formally defined orbital region explicitly surrounding precisely essentially any given star safely realistically uniquely allowing totally uninhibited continuous vast stable existence of precisely absolutely essential liquid surface water?",
           "options": [
             "Habitable Zone (Goldilocks Zone)",
             "Kuiper Belt",
@@ -27250,7 +27250,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the incredibly violent, exponentially massive explosion representing the catastrophic death of a supergiant star for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the singular naturally occurring permanent satellite fundamentally orbiting deeply exactly around the Earth?",
+          "q": "What applies to the singular naturally occurring permanent satellite fundamentally orbiting deeply exactly around the Earth?",
           "options": [
             "Deimos",
             "The Moon",
@@ -27261,7 +27261,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the singular naturally occurring permanent satellite fundamentally orbiting deeply exactly around the Earth for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the specific sustained atomic reaction aggressively powering the Sun, fundamentally fusing lighter hydrogen into heavier helium?",
+          "q": "What applies to the specific sustained atomic reaction aggressively powering the Sun, fundamentally fusing lighter hydrogen into heavier helium?",
           "options": [
             "Radioactive Decay",
             "Nuclear Fission",
@@ -27294,7 +27294,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding Saturn's undeniably largest moon, specifically incredibly unique for genuinely possessing an immensely dense, incredibly thick, nitrogen-rich atmosphere for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the single most incredibly profoundly completely specifically profoundly immensely highly historically uniquely historically globally recognized totally absolutely entirely defining specific single historic orbital artificial satellite famously originally explicitly unilaterally launched wholly exclusively actively purely unilaterally aggressively fundamentally by the precise Soviet Union completely explicitly entirely literally inaugurating basically strictly explicitly squarely heavily exclusively inherently virtually universally fully effectively initiating the total Space Age exactly perfectly squarely firmly squarely specifically fully uniquely decisively unilaterally forcefully intensely unilaterally deeply historically purely perfectly decisively officially fundamentally undeniably fully strongly in firmly heavily completely entirely precisely entirely 1957?",
+          "q": "What applies to the single most incredibly profoundly completely specifically profoundly immensely highly historically uniquely historically globally recognized totally absolutely entirely defining specific single historic orbital artificial satellite famously originally explicitly unilaterally launched wholly exclusively actively purely unilaterally aggressively fundamentally by the precise Soviet Union completely explicitly entirely literally inaugurating basically strictly explicitly squarely heavily exclusively inherently virtually universally fully effectively initiating the total Space Age exactly perfectly squarely firmly squarely specifically fully uniquely decisively unilaterally forcefully intensely unilaterally deeply historically purely perfectly decisively officially fundamentally undeniably fully strongly in firmly heavily completely entirely precisely entirely 1957?",
           "options": [
             "Apollo 11",
             "Voyager 1",
@@ -27404,7 +27404,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding virtually all natural planetary satellites definitively orbiting safely around primary larger planetary bodies within the direct Solar System for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a massive gas giant historically distinguished globally strictly by its spectacularly bright, complex, visually stunning icy ring system?",
+          "q": "What applies to a massive gas giant historically distinguished globally strictly by its spectacularly bright, complex, visually stunning icy ring system?",
           "options": [
             "Saturn",
             "Jupiter",
@@ -27481,7 +27481,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the undeniably hottest planet in the Solar System, famously wrapped in an immensely thick, violently toxic atmosphere entirely of carbon dioxide for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a massive, incredibly luminous celestial body of plasma primarily generating intense heat/light through sustained nuclear fusion?",
+          "q": "What applies to a massive, incredibly luminous celestial body of plasma primarily generating intense heat/light through sustained nuclear fusion?",
           "options": [
             "Asteroid",
             "Comet",
@@ -27492,7 +27492,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a massive, incredibly luminous celestial body of plasma primarily generating intense heat/light through sustained nuclear fusion for Everyday Science."
         },
         {
-          "q": "Which of the following applies to Jupiter's undeniably massive, heavily cratered moon, definitively universally classified exclusively as the absolute largest and most massive moon strictly in the entire Solar System?",
+          "q": "What applies to Jupiter's undeniably massive, heavily cratered moon, definitively universally classified exclusively as the absolute largest and most massive moon strictly in the entire Solar System?",
           "options": [
             "Callisto",
             "Titan",
@@ -27525,7 +27525,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a celestial body orbiting the Sun possessing fully enough mass to distinctly assume a spherical shape, but significantly failing to completely clear its immediate orbital neighborhood for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the entirely theoretical, completely invisible, non-luminous mass thought to heavily account for approximately 85% of all matter in the universe?",
+          "q": "What applies to the entirely theoretical, completely invisible, non-luminous mass thought to heavily account for approximately 85% of all matter in the universe?",
           "options": [
             "Dark Energy",
             "Dark Matter",
@@ -27547,7 +27547,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the scientific study of all celestial objects and phenomena beyond Earth's atmosphere for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the closest massive spiral galaxy to our Milky Way, inevitably on a collision course with us?",
+          "q": "What applies to the closest massive spiral galaxy to our Milky Way, inevitably on a collision course with us?",
           "options": [
             "Whirlpool Galaxy",
             "Andromeda Galaxy",
@@ -27558,7 +27558,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the closest massive spiral galaxy to our Milky Way, inevitably on a collision course with us for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the nearest star to Earth, a massive yellow dwarf firmly seated at the absolute center of our Solar System?",
+          "q": "What applies to the nearest star to Earth, a massive yellow dwarf firmly seated at the absolute center of our Solar System?",
           "options": [
             "Proxima Centauri",
             "Sirius",
@@ -27613,7 +27613,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a truly rapidly rotating distinctly incredibly dense fundamentally immensely highly magnetized entirely pure neutron star practically essentially continuously vigorously sweeping intense radiation completely constantly entirely across local empty space for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the standard astronomical unit of distance essentially defined exactly as the mean distance strictly from the center of Earth to the center of the Sun?",
+          "q": "What applies to the standard astronomical unit of distance essentially defined exactly as the mean distance strictly from the center of Earth to the center of the Sun?",
           "options": [
             "Light-year",
             "Parsec",
@@ -27624,7 +27624,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the standard astronomical unit of distance essentially defined exactly as the mean distance strictly from the center of Earth to the center of the Sun for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the theoretical, mathematically defined boundary surrounding a black hole beyond which essentially no light or radiation can ever return?",
+          "q": "What applies to the theoretical, mathematically defined boundary surrounding a black hole beyond which essentially no light or radiation can ever return?",
           "options": [
             "Photon Sphere",
             "Accretion Disk",
@@ -27712,7 +27712,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the only known planet specifically possessing abundant liquid water directly on its surface and vigorously sustaining complex life for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the specific, immense barred spiral galaxy that contains our Solar System?",
+          "q": "What applies to the specific, immense barred spiral galaxy that contains our Solar System?",
           "options": [
             "Sombrero Galaxy",
             "Andromeda Galaxy",
@@ -27822,7 +27822,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the prevailing, widely accepted cosmological model explaining the origin and rapid expansion of the universe from a high-density state for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the four incredibly massive, fundamentally gaseous or icy outer planets residing strictly beyond the main asteroid belt?",
+          "q": "What applies to the four incredibly massive, fundamentally gaseous or icy outer planets residing strictly beyond the main asteroid belt?",
           "options": [
             "Exoplanets",
             "Dwarf Planets",
@@ -27844,7 +27844,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the prevailing, widely accepted cosmological model explaining the origin and rapid expansion of the universe from a high-density state for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the brilliantly bright, rapidly burning visible streak of absolute light vividly produced exactly when a falling meteoroid intensely fully burns up deeply entirely inside Earth's atmosphere?",
+          "q": "What applies to the brilliantly bright, rapidly burning visible streak of absolute light vividly produced exactly when a falling meteoroid intensely fully burns up deeply entirely inside Earth's atmosphere?",
           "options": [
             "Comet",
             "Meteorite",
@@ -27910,7 +27910,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the theoretical, mathematically defined boundary surrounding a black hole beyond which essentially no light or radiation can ever return for Everyday Science."
         },
         {
-          "q": "Which of the following applies to virtually all natural planetary satellites definitively orbiting safely around primary larger planetary bodies within the direct Solar System?",
+          "q": "What applies to virtually all natural planetary satellites definitively orbiting safely around primary larger planetary bodies within the direct Solar System?",
           "options": [
             "Asteroids",
             "Dwarf Planets",
@@ -27965,7 +27965,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the eight massive celestial bodies inherently orbiting the Sun in strictly cleared, distinct, roughly elliptical paths for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the scientific study of all celestial objects and phenomena beyond Earth's atmosphere?",
+          "q": "What applies to the scientific study of all celestial objects and phenomena beyond Earth's atmosphere?",
           "options": [
             "Astrology",
             "Cosmology",
@@ -27976,7 +27976,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the scientific study of all celestial objects and phenomena beyond Earth's atmosphere for Everyday Science."
         },
         {
-          "q": "Which of the following applies to an astronomically massive, gravitationally bound system consisting of stars, stellar remnants, vast interstellar gas, dust, and dark matter?",
+          "q": "What applies to an astronomically massive, gravitationally bound system consisting of stars, stellar remnants, vast interstellar gas, dust, and dark matter?",
           "options": [
             "Constellation",
             "Galaxy",
@@ -27998,7 +27998,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a decidedly small rock or metallic fragment aggressively hurtling completely blindly through deep interplanetary space for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the visually pale blue 'Ice Giant' notoriously rotating entirely on its side (axis tilted nearly 98 degrees)?",
+          "q": "What applies to the visually pale blue 'Ice Giant' notoriously rotating entirely on its side (axis tilted nearly 98 degrees)?",
           "options": [
             "Pluto",
             "Uranus",
@@ -28053,7 +28053,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding an immense, sprawling interstellar cloud consisting mostly of dense hydrogen gas and dust, essentially acting as a 'stellar nursery' for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a celestial body orbiting the Sun possessing fully enough mass to distinctly assume a spherical shape, but significantly failing to completely clear its immediate orbital neighborhood?",
+          "q": "What applies to a celestial body orbiting the Sun possessing fully enough mass to distinctly assume a spherical shape, but significantly failing to completely clear its immediate orbital neighborhood?",
           "options": [
             "Moon",
             "Asteroid",
@@ -28097,7 +28097,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the single most incredibly profoundly completely specifically profoundly immensely highly historically uniquely historically globally recognized totally absolutely entirely defining specific single historic orbital artificial satellite famously originally explicitly unilaterally launched wholly exclusively actively purely unilaterally aggressively fundamentally by the precise Soviet Union completely explicitly entirely literally inaugurating basically strictly explicitly squarely heavily exclusively inherently virtually universally fully effectively initiating the total Space Age exactly perfectly squarely firmly squarely specifically fully uniquely decisively unilaterally forcefully intensely unilaterally deeply historically purely perfectly decisively officially fundamentally undeniably fully strongly in firmly heavily completely entirely precisely entirely 1957 for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the undeniably largest, most massive planet in the Solar System, famously featuring a violent, centuries-old anticyclonic storm called the 'Great Red Spot'?",
+          "q": "What applies to the undeniably largest, most massive planet in the Solar System, famously featuring a violent, centuries-old anticyclonic storm called the 'Great Red Spot'?",
           "options": [
             "Jupiter",
             "Neptune",
@@ -28163,7 +28163,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the closest massive spiral galaxy to our Milky Way, inevitably on a collision course with us for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a theoretically immense, deeply spherical outer shell specifically containing billions of fundamentally icy comets supposedly surrounding the entire furthest edges of the Solar System?",
+          "q": "What applies to a theoretically immense, deeply spherical outer shell specifically containing billions of fundamentally icy comets supposedly surrounding the entire furthest edges of the Solar System?",
           "options": [
             "Oort Cloud",
             "Kuiper Belt",
@@ -28284,7 +28284,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding virtually all natural planetary satellites definitively orbiting safely around primary larger planetary bodies within the direct Solar System for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the incredibly standard astronomical unit of profound distance mathematically defined as the sheer distance light inherently travels in one standard Earth year?",
+          "q": "What applies to the incredibly standard astronomical unit of profound distance mathematically defined as the sheer distance light inherently travels in one standard Earth year?",
           "options": [
             "Light-year",
             "Parsec",
@@ -28537,7 +28537,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding a truly rapidly rotating distinctly incredibly dense fundamentally immensely highly magnetized entirely pure neutron star practically essentially continuously vigorously sweeping intense radiation completely constantly entirely across local empty space for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the only known planet specifically possessing abundant liquid water directly on its surface and vigorously sustaining complex life?",
+          "q": "What applies to the only known planet specifically possessing abundant liquid water directly on its surface and vigorously sustaining complex life?",
           "options": [
             "Europa",
             "Venus",
@@ -28614,7 +28614,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the incredibly standard astronomical unit of profound distance mathematically defined as the sheer distance light inherently travels in one standard Earth year for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a distinctly small, rocky or highly metallic irregular body fundamentally orbiting the Sun completely inside the massive region between Mars and Jupiter?",
+          "q": "What applies to a distinctly small, rocky or highly metallic irregular body fundamentally orbiting the Sun completely inside the massive region between Mars and Jupiter?",
           "options": [
             "Dwarf Planet",
             "Meteor",
@@ -28647,7 +28647,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the specific, immense barred spiral galaxy that contains our Solar System for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the prevailing, widely accepted cosmological model explaining the origin and rapid expansion of the universe from a high-density state?",
+          "q": "What applies to the prevailing, widely accepted cosmological model explaining the origin and rapid expansion of the universe from a high-density state?",
           "options": [
             "Multiverse Hypothesis",
             "Big Bang Theory",
@@ -28680,7 +28680,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding an astronomically massive, gravitationally bound system consisting of stars, stellar remnants, vast interstellar gas, dust, and dark matter for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the incredibly frigid, deeply blue outermost major planet, fiercely battered precisely by the absolute fastest known planetary winds?",
+          "q": "What applies to the incredibly frigid, deeply blue outermost major planet, fiercely battered precisely by the absolute fastest known planetary winds?",
           "options": [
             "Saturn",
             "Uranus",
@@ -28713,7 +28713,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding an infinitely dense, zero-dimensional point situated precisely at the exact center of a standard black hole for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the vast, deeply populated region of countless rocky remnants strategically located precisely between the primary orbits of Mars and Jupiter?",
+          "q": "What applies to the vast, deeply populated region of countless rocky remnants strategically located precisely between the primary orbits of Mars and Jupiter?",
           "options": [
             "Asteroid Belt",
             "Oort Cloud",
@@ -28856,7 +28856,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Kuiper Belt Region' is 'the region beyond Neptune holding icy dwarf planets and comets'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Stellar System Catalogues'?",
+          "q": "Which is correct about the book/guide 'Stellar System Catalogues'?",
           "options": [
             "It is contrasted with 'Electromagnetism'.",
             "It is written about 'Sun Star'.",
@@ -28911,7 +28911,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Earth Planet' is the standard contrast to 'Mars Planet'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'spiral arms and galactic cores'?",
+          "q": "What is a major reference or manual focusing on 'spiral arms and galactic cores'?",
           "options": [
             "Stellar System Catalogues",
             "Stellar Evolution Journals",
@@ -28977,7 +28977,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Jupiter Planet' is the contrast to 'Sun Star'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Saturn Planet'?",
+          "q": "Which is correct about the core idea of 'Saturn Planet'?",
           "options": [
             "It belongs to the field of 'Astronomy'.",
             "It is themed as 'spiral arms and galactic cores'.",
@@ -29032,7 +29032,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Stellar Distance Records' is associated with 'Light Year Distance'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Saturn Planet'?",
+          "q": "Which is correct about the concept of 'Saturn Planet'?",
           "options": [
             "It belongs to the domain of 'Astronomy'.",
             "It is documented in the manual 'Minor Planets Catalogues'.",
@@ -29065,7 +29065,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Nebula Cloud' deals with the theme of 'star-forming regions and gas collapse'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'habitable zones and atmospheric pressure'?",
+          "q": "What is a major reference or manual focusing on 'habitable zones and atmospheric pressure'?",
           "options": [
             "General Relativity Studies",
             "Terrestrial Planetary Studies",
@@ -29087,7 +29087,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Neptune Planet' is the standard contrast to 'Mercury Planet'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Venus Planet'?",
+          "q": "Which is correct about the core idea of 'Venus Planet'?",
           "options": [
             "It is documented in 'Astronomical Instrument Directories'.",
             "It is themed as 'habitable zones and atmospheric pressure'.",
@@ -29164,7 +29164,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Saturn Planet' is the direct contrast to 'Uranus Planet'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Moon Satellite'?",
+          "q": "Which is correct about the concept of 'Moon Satellite'?",
           "options": [
             "It is defined as 'the Earth's natural satellite locking its rotation to face Earth'.",
             "Its contrasting theme is 'icy orbits and sublimation tails'.",
@@ -29208,7 +29208,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Planetary Atmosphere Studies' contains documentation regarding 'atmospheric friction and shooting stars'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Mercury Planet'?",
+          "q": "What is a key description or fact regarding the concept of 'Mercury Planet'?",
           "options": [
             "\"The gravitational pull of the Moon is the primary cause of ocean tides.\"",
             "\"The Sun generates energy in its core through the fusion of hydrogen into helium.\"",
@@ -29219,7 +29219,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Mercury Planet' is: \"Mercury has no atmosphere and experiences extreme temperature swings.\"."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Neptune Planet'?",
+          "q": "Which is correct about the concept of 'Neptune Planet'?",
           "options": [
             "It belongs to the domain of 'Astronomy'.",
             "It is documented in the manual 'Terrestrial Planetary Studies'.",
@@ -29230,7 +29230,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Neptune Planet' is defined as 'the windiest gas planet with a deep blue methane atmosphere'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Black Holes'?",
+          "q": "Which is correct about the concept of 'Black Holes'?",
           "options": [
             "It belongs to the domain of 'Astrophysics'.",
             "It is documented in the manual 'Terrestrial Planetary Studies'.",
@@ -29362,7 +29362,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Planetary Science Manuals' contains documentation regarding 'extreme temperatures and orbital speed'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"A supernova can briefly outshine an entire galaxy, dispersing heavy elements.\"?",
+          "q": "What describes the key fact or historical quote: \"A supernova can briefly outshine an entire galaxy, dispersing heavy elements.\"?",
           "options": [
             "Solar Eclipse Event",
             "Jupiter Planet",
@@ -29428,7 +29428,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Light Year Distance' deals with the theme of 'speed of light and cosmic distance measurement'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'stellar nucleosynthesis and shockwaves'?",
+          "q": "What is a major reference or manual focusing on 'stellar nucleosynthesis and shockwaves'?",
           "options": [
             "Stellar Distance Records",
             "Stellar Evolution Journals",
@@ -29483,7 +29483,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Lunar Observation Logs' is the manual associated with 'tidal pull and lunar craters'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Solar Eclipse Event'?",
+          "q": "Which is correct about the core idea of 'Solar Eclipse Event'?",
           "options": [
             "It is defined as 'the alignment when the Moon blocks the Sun casting a shadow on Earth'.",
             "It is themed as 'greenhouse effect and backward rotation'.",
@@ -29505,7 +29505,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Jupiter Planet' is the direct contrast to 'Saturn Planet'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Lunar Observation Logs'?",
+          "q": "Which is correct about the book/guide 'Lunar Observation Logs'?",
           "options": [
             "It addresses the theme of 'tidal pull and lunar craters'.",
             "It is contrasted with 'Sun Star'.",
@@ -29527,7 +29527,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Phobos Satellite' is the direct contrast to 'Moon Satellite'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Jupiter has a powerful magnetic field and is composed mostly of hydrogen and helium.\"?",
+          "q": "What describes the key fact or historical quote: \"Jupiter has a powerful magnetic field and is composed mostly of hydrogen and helium.\"?",
           "options": [
             "Comets Orbit",
             "Asteroids Belt",
@@ -29538,7 +29538,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Jupiter Planet'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Astrophysics'?",
+          "q": "What is situated within the study field of 'Astrophysics'?",
           "options": [
             "Hubble Telescope",
             "Light Year Distance",
@@ -29560,7 +29560,7 @@ window.QuizData_everyday_science = {
           "explanation": "'White Dwarfs' is the standard contrast to 'Black Holes'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Earth Planet'?",
+          "q": "What is a key description or fact regarding the concept of 'Earth Planet'?",
           "options": [
             "\"Earth is the densest planet in the solar system, with a nitrogen-oxygen atmosphere.\"",
             "\"Comets originate from the Oort Cloud and Kuiper Belt, composed of ice and dust.\"",
@@ -29582,7 +29582,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Jupiter Planet' is the standard contrast to 'Saturn Planet'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Neptune Planet'?",
+          "q": "What is a key description or fact regarding the concept of 'Neptune Planet'?",
           "options": [
             "\"Uranus rotates almost 90 degrees on its side compared to its orbit.\"",
             "\"Black holes are formed by the gravitational collapse of massive dying stars.\"",
@@ -29615,7 +29615,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Asteroids Belt'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'solar system distance measurements'?",
+          "q": "What is a major reference or manual focusing on 'solar system distance measurements'?",
           "options": [
             "Stellar Distance Records",
             "Planetary Atmosphere Studies",
@@ -29637,7 +29637,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Black Holes' is 'the regions of space where gravity prevents the escape of all light'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Our solar system is located in the Orion Arm of the Milky Way galaxy.\"?",
+          "q": "What describes the key fact or historical quote: \"Our solar system is located in the Orion Arm of the Milky Way galaxy.\"?",
           "options": [
             "Milky Way Galaxy",
             "Gravity Force",
@@ -29659,7 +29659,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Kuiper Belt Region' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Astronomical Unit'?",
+          "q": "What is a key description or fact regarding the concept of 'Astronomical Unit'?",
           "options": [
             "\"Meteors are commonly called shooting stars, vaporization lighting up the night sky.\"",
             "\"A supernova can briefly outshine an entire galaxy, dispersing heavy elements.\"",
@@ -29670,7 +29670,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Astronomical Unit' is: \"One Astronomical Unit (AU) is approximately 150 million kilometers.\"."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"A light-year is a unit of distance, not time, equaling about 9.46 trillion kilometers.\"?",
+          "q": "What describes the key fact or historical quote: \"A light-year is a unit of distance, not time, equaling about 9.46 trillion kilometers.\"?",
           "options": [
             "Hubble Telescope",
             "Earth Planet",
@@ -29692,7 +29692,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Comets Orbit'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'tidal pull and lunar craters'?",
+          "q": "What is a major reference or manual focusing on 'tidal pull and lunar craters'?",
           "options": [
             "Gas Giant Studies",
             "Lunar Observation Logs",
@@ -29703,7 +29703,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Lunar Observation Logs' is known for its focus on 'tidal pull and lunar craters'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Black Holes'?",
+          "q": "Which is correct about the core idea of 'Black Holes'?",
           "options": [
             "It belongs to the field of 'Astronomy'.",
             "It is themed as 'speed of light and cosmic distance measurement'.",
@@ -29714,7 +29714,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Black Holes' is defined as 'the regions of space where gravity prevents the escape of all light'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'lunar shadows and alignment geometry'?",
+          "q": "What is a major reference or manual focusing on 'lunar shadows and alignment geometry'?",
           "options": [
             "Lunar Observation Logs",
             "Planetary Science Manuals",
@@ -29725,7 +29725,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Solar Observational Logs' is known for its focus on 'lunar shadows and alignment geometry'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'rocky orbits and solar system formation leftovers'?",
+          "q": "What is a major reference or manual focusing on 'rocky orbits and solar system formation leftovers'?",
           "options": [
             "Lunar Observation Logs",
             "Terrestrial Planetary Studies",
@@ -29736,7 +29736,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Minor Planets Catalogues' is known for its focus on 'rocky orbits and solar system formation leftovers'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'star-forming regions and gas collapse'?",
+          "q": "What is a major reference or manual focusing on 'star-forming regions and gas collapse'?",
           "options": [
             "Solar Observational Logs",
             "Stellar Evolution Journals",
@@ -29780,7 +29780,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Nebula Creation' is the contrast to 'Supernova Explosion'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Moon Satellite'?",
+          "q": "Which is correct about the core idea of 'Moon Satellite'?",
           "options": [
             "It belongs to the field of 'Astronomy'.",
             "It is documented in 'Minor Planets Catalogues'.",
@@ -29791,7 +29791,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Moon Satellite' is defined as 'the Earth's natural satellite locking its rotation to face Earth'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Light Year Distance'?",
+          "q": "What is a key description or fact regarding the concept of 'Light Year Distance'?",
           "options": [
             "\"Our solar system is located in the Orion Arm of the Milky Way galaxy.\"",
             "\"Hubble was launched in 1990, avoiding atmospheric distortion to take clear photos.\"",
@@ -29813,7 +29813,7 @@ window.QuizData_everyday_science = {
           "explanation": "'White Dwarfs' is the direct contrast to 'Black Holes'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Asteroids Belt'?",
+          "q": "What is a key description or fact regarding the concept of 'Asteroids Belt'?",
           "options": [
             "\"Black holes are formed by the gravitational collapse of massive dying stars.\"",
             "\"The asteroid belt contains millions of rocky bodies, including the dwarf planet Ceres.\"",
@@ -29835,7 +29835,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Venus Planet' is built on the concept: 'the hottest planet with a dense carbon dioxide greenhouse atmosphere'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'gravitational attraction and orbital speed'?",
+          "q": "What is a major reference or manual focusing on 'gravitational attraction and orbital speed'?",
           "options": [
             "Ice Giant Studies",
             "Solar Observational Logs",
@@ -29901,7 +29901,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Comets Orbit'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Gravity holds planets in orbit around stars and stars in orbit within galaxies.\"?",
+          "q": "What describes the key fact or historical quote: \"Gravity holds planets in orbit around stars and stars in orbit within galaxies.\"?",
           "options": [
             "Gravity Force",
             "Sun Star",
@@ -29912,7 +29912,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Gravity Force'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"One Astronomical Unit (AU) is approximately 150 million kilometers.\"?",
+          "q": "What describes the key fact or historical quote: \"One Astronomical Unit (AU) is approximately 150 million kilometers.\"?",
           "options": [
             "Meteors Streak",
             "Mercury Planet",
@@ -29923,7 +29923,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Astronomical Unit'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Meteors are commonly called shooting stars, vaporization lighting up the night sky.\"?",
+          "q": "What describes the key fact or historical quote: \"Meteors are commonly called shooting stars, vaporization lighting up the night sky.\"?",
           "options": [
             "Moon Satellite",
             "Neptune Planet",
@@ -29978,7 +29978,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Earth Planet'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Black Holes'?",
+          "q": "What is a key description or fact regarding the concept of 'Black Holes'?",
           "options": [
             "\"A light-year is a unit of distance, not time, equaling about 9.46 trillion kilometers.\"",
             "\"Mars has two small moons, Phobos and Deimos, and the solar system's tallest volcano.\"",
@@ -30044,7 +30044,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Stellar Distance Records' is the manual associated with 'speed of light and cosmic distance measurement'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Mars Planet'?",
+          "q": "Which is correct about the concept of 'Mars Planet'?",
           "options": [
             "It belongs to the domain of 'Astronomy'.",
             "It is defined as 'the Red Planet containing iron oxide dust and polar ice caps'.",
@@ -30176,7 +30176,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Solar Eclipse Event' is the standard contrast to 'Lunar Eclipse Event'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Gas Giant Studies'?",
+          "q": "Which is correct about the book/guide 'Gas Giant Studies'?",
           "options": [
             "It is written about 'Comets Orbit'.",
             "Its primary focus is 'Astronomy'.",
@@ -30198,7 +30198,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Mercury Planet' is the standard contrast to 'Neptune Planet'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Comets Orbit'?",
+          "q": "Which is correct about the core idea of 'Comets Orbit'?",
           "options": [
             "It is themed as 'singularity physics and event horizons'.",
             "It is defined as 'the icy solar system bodies developing a visible coma and tail near Sun'.",
@@ -30220,7 +30220,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Light Year Distance' is classified under the domain of 'Astrophysics'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Kuiper Belt Region'?",
+          "q": "What is a key description or fact regarding the concept of 'Kuiper Belt Region'?",
           "options": [
             "\"A supernova can briefly outshine an entire galaxy, dispersing heavy elements.\"",
             "\"A light-year is a unit of distance, not time, equaling about 9.46 trillion kilometers.\"",
@@ -30242,7 +30242,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Supernova Explosion' deals with the theme of 'stellar nucleosynthesis and shockwaves'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Planetary Science Manuals'?",
+          "q": "Which is correct about the book/guide 'Planetary Science Manuals'?",
           "options": [
             "It is contrasted with 'Light Year Distance'.",
             "It addresses the theme of 'extreme temperatures and orbital speed'.",
@@ -30297,7 +30297,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Gas Giant Studies' is associated with 'Jupiter Planet'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Supernova Explosion'?",
+          "q": "Which is correct about the concept of 'Supernova Explosion'?",
           "options": [
             "It is defined as 'the colossal stellar explosion marking the death of a supermassive star'.",
             "Its contrasting theme is 'lunar shadows and alignment geometry'.",
@@ -30319,7 +30319,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Light Year Distance'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Nebula Cloud'?",
+          "q": "Which is correct about the core idea of 'Nebula Cloud'?",
           "options": [
             "It is documented in 'Solar Observational Logs'.",
             "It belongs to the field of 'Astrophysics'.",
@@ -30396,7 +30396,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Planetary Science Manuals' is the manual associated with 'extreme temperatures and orbital speed'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Mars Planet'?",
+          "q": "Which is correct about the core idea of 'Mars Planet'?",
           "options": [
             "It is documented in 'Gas Giant Studies'.",
             "It is defined as 'the Red Planet containing iron oxide dust and polar ice caps'.",
@@ -30473,7 +30473,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Gas Giant Studies' is the manual associated with 'fast rotation and gas envelope'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Mars Planet'?",
+          "q": "What is a key description or fact regarding the concept of 'Mars Planet'?",
           "options": [
             "\"Neptune was the first planet located through mathematical calculations before observation.\"",
             "\"Saturn's density is so low that it would float in a giant bathtub of water.\"",
@@ -30550,7 +30550,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Uranus Planet' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Hubble Telescope'?",
+          "q": "Which is correct about the concept of 'Hubble Telescope'?",
           "options": [
             "It is documented in the manual 'Stellar Evolution Journals'.",
             "It belongs to the domain of 'Astronomy'.",
@@ -30572,7 +30572,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Mercury Planet' is the contrast to 'Venus Planet'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'nuclear fusion and solar mass'?",
+          "q": "What is a major reference or manual focusing on 'nuclear fusion and solar mass'?",
           "options": [
             "Solar Physics Studies",
             "Planetary Science Manuals",
@@ -30583,7 +30583,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Solar Physics Studies' is known for its focus on 'nuclear fusion and solar mass'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Nebula Cloud'?",
+          "q": "Which is correct about the concept of 'Nebula Cloud'?",
           "options": [
             "It belongs to the domain of 'Astronomy'.",
             "Its contrasting theme is 'lunar shadows and alignment geometry'.",
@@ -30605,7 +30605,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Moon Satellite'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'greenhouse effect and backward rotation'?",
+          "q": "What is a major reference or manual focusing on 'greenhouse effect and backward rotation'?",
           "options": [
             "Terrestrial Planetary Studies",
             "Minor Planets Catalogues",
@@ -30616,7 +30616,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Planetary Science Manuals' is known for its focus on 'greenhouse effect and backward rotation'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Sun Star'?",
+          "q": "What is a key description or fact regarding the concept of 'Sun Star'?",
           "options": [
             "\"Venus is known as Earth's twin due to its similar size and density.\"",
             "\"Our solar system is located in the Orion Arm of the Milky Way galaxy.\"",
@@ -30649,7 +30649,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Astronomical Instrument Directories' contains documentation regarding 'orbital observation and galactic expansion measurements'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Classical Mechanics Handbooks'?",
+          "q": "Which is correct about the book/guide 'Classical Mechanics Handbooks'?",
           "options": [
             "It is written about 'Uranus Planet'.",
             "It addresses the theme of 'gravitational attraction and orbital speed'.",
@@ -30693,7 +30693,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Lunar Eclipse Event' deals with the theme of 'earth shadow and lunar phase geometry'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Earth Planet'?",
+          "q": "Which is correct about the concept of 'Earth Planet'?",
           "options": [
             "Its contrasting theme is 'icy orbits and sublimation tails'.",
             "It is documented in the manual 'Stellar Distance Records'.",
@@ -30726,7 +30726,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Solar Eclipse Event' is the direct contrast to 'Lunar Eclipse Event'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Mercury Planet'?",
+          "q": "Which is correct about the concept of 'Mercury Planet'?",
           "options": [
             "It is documented in the manual 'Lunar Observation Logs'.",
             "It belongs to the domain of 'Astrophysics'.",
@@ -30737,7 +30737,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Mercury Planet' is defined as 'the smallest planet in the solar system located closest to the Sun'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Lunar Eclipse Event'?",
+          "q": "What is a key description or fact regarding the concept of 'Lunar Eclipse Event'?",
           "options": [
             "\"Earth is the densest planet in the solar system, with a nitrogen-oxygen atmosphere.\"",
             "\"A lunar eclipse occurs only during a full moon, causing a reddish blood moon appearance.\"",
@@ -30748,7 +30748,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Lunar Eclipse Event' is: \"A lunar eclipse occurs only during a full moon, causing a reddish blood moon appearance.\"."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Jupiter Planet'?",
+          "q": "Which is correct about the concept of 'Jupiter Planet'?",
           "options": [
             "It belongs to the domain of 'Astronomy'.",
             "Its contrasting theme is 'rocky orbits and solar system formation leftovers'.",
@@ -31012,7 +31012,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Jupiter Planet' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Lunar Eclipse Event'?",
+          "q": "Which is correct about the core idea of 'Lunar Eclipse Event'?",
           "options": [
             "It is documented in 'Terrestrial Planetary Studies'.",
             "It is themed as 'stellar nucleosynthesis and shockwaves'.",
@@ -31056,7 +31056,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Solar Eclipse Event' deals with the theme of 'lunar shadows and alignment geometry'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Astronomical Unit'?",
+          "q": "Which is correct about the core idea of 'Astronomical Unit'?",
           "options": [
             "It is themed as 'stellar nucleosynthesis and shockwaves'.",
             "It is defined as 'the average distance from the center of the Earth to the Sun'.",
@@ -31067,7 +31067,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Astronomical Unit' is defined as 'the average distance from the center of the Earth to the Sun'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Meteors Streak'?",
+          "q": "Which is correct about the concept of 'Meteors Streak'?",
           "options": [
             "It belongs to the domain of 'Astronomy'.",
             "It is documented in the manual 'Lunar Observation Logs'.",
@@ -31100,7 +31100,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Solar Eclipse Event' is classified under the domain of 'Astronomy'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Solar Physics Studies'?",
+          "q": "Which is correct about the book/guide 'Solar Physics Studies'?",
           "options": [
             "Its primary focus is 'Astronomy'.",
             "It is contrasted with 'Andromeda Galaxy'.",
@@ -31144,7 +31144,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Astronomical Unit' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Meteors Streak'?",
+          "q": "Which is correct about the core idea of 'Meteors Streak'?",
           "options": [
             "It is documented in 'Stellar Distance Records'.",
             "It is themed as 'high-speed winds and methane absorption'.",
@@ -31243,7 +31243,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Stellar Distance Records' is the manual associated with 'solar system distance measurements'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Sun Star'?",
+          "q": "Which is correct about the core idea of 'Sun Star'?",
           "options": [
             "It is defined as 'the yellow dwarf star containing 99.8% of the solar system's mass'.",
             "It belongs to the field of 'Astronomy'.",
@@ -31309,7 +31309,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Earth Planet' is built on the concept: 'the only planet hosting life with liquid water oceans'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Milky Way Galaxy'?",
+          "q": "What is a key description or fact regarding the concept of 'Milky Way Galaxy'?",
           "options": [
             "\"The Sun generates energy in its core through the fusion of hydrogen into helium.\"",
             "\"Our solar system is located in the Orion Arm of the Milky Way galaxy.\"",
@@ -31320,7 +31320,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Milky Way Galaxy' is: \"Our solar system is located in the Orion Arm of the Milky Way galaxy.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Jupiter Planet'?",
+          "q": "What is a key description or fact regarding the concept of 'Jupiter Planet'?",
           "options": [
             "\"Comets originate from the Oort Cloud and Kuiper Belt, composed of ice and dust.\"",
             "\"Jupiter has a powerful magnetic field and is composed mostly of hydrogen and helium.\"",
@@ -31331,7 +31331,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Jupiter Planet' is: \"Jupiter has a powerful magnetic field and is composed mostly of hydrogen and helium.\"."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Earth is the densest planet in the solar system, with a nitrogen-oxygen atmosphere.\"?",
+          "q": "What describes the key fact or historical quote: \"Earth is the densest planet in the solar system, with a nitrogen-oxygen atmosphere.\"?",
           "options": [
             "Light Year Distance",
             "Black Holes",
@@ -31342,7 +31342,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Earth Planet'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Sun Star'?",
+          "q": "Which is correct about the concept of 'Sun Star'?",
           "options": [
             "It is defined as 'the yellow dwarf star containing 99.8% of the solar system's mass'.",
             "Its contrasting theme is 'atmospheric friction and shooting stars'.",
@@ -31375,7 +31375,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Lunar Eclipse Event' is 'the alignment when the Earth blocks the Sun casting shadow on the Moon'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Solar Observational Logs'?",
+          "q": "Which is correct about the book/guide 'Solar Observational Logs'?",
           "options": [
             "It is written about 'Moon Satellite'.",
             "It addresses the theme of 'lunar shadows and alignment geometry'.",
@@ -31441,7 +31441,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Stellar System Catalogues' contains documentation regarding 'spiral arms and galactic cores'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Venus Planet'?",
+          "q": "Which is correct about the concept of 'Venus Planet'?",
           "options": [
             "It belongs to the domain of 'Astronomy'.",
             "It is defined as 'the hottest planet with a dense carbon dioxide greenhouse atmosphere'.",
@@ -31452,7 +31452,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Venus Planet' is defined as 'the hottest planet with a dense carbon dioxide greenhouse atmosphere'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Solar Eclipse Event'?",
+          "q": "Which is correct about the concept of 'Solar Eclipse Event'?",
           "options": [
             "It is documented in the manual 'Lunar Observation Logs'.",
             "It belongs to the domain of 'Astronomy'.",
@@ -31463,7 +31463,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Solar Eclipse Event' is defined as 'the alignment when the Moon blocks the Sun casting a shadow on Earth'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'extreme temperatures and orbital speed'?",
+          "q": "What is a major reference or manual focusing on 'extreme temperatures and orbital speed'?",
           "options": [
             "Planetary Science Manuals",
             "Solar Physics Studies",
@@ -31485,7 +31485,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Venus Planet' is classified under the domain of 'Astronomy'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Meteors Streak'?",
+          "q": "What is a key description or fact regarding the concept of 'Meteors Streak'?",
           "options": [
             "\"Neptune was the first planet located through mathematical calculations before observation.\"",
             "\"A light-year is a unit of distance, not time, equaling about 9.46 trillion kilometers.\"",
@@ -31507,7 +31507,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Lunar Eclipse Event' is classified under the domain of 'Astronomy'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Kuiper Belt Region'?",
+          "q": "Which is correct about the concept of 'Kuiper Belt Region'?",
           "options": [
             "It is defined as 'the region beyond Neptune holding icy dwarf planets and comets'.",
             "Its contrasting theme is 'stellar nucleosynthesis and shockwaves'.",
@@ -31518,7 +31518,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Kuiper Belt Region' is defined as 'the region beyond Neptune holding icy dwarf planets and comets'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'General Relativity Studies'?",
+          "q": "Which is correct about the book/guide 'General Relativity Studies'?",
           "options": [
             "It is contrasted with 'Astronomical Unit'.",
             "It is written about 'Mars Planet'.",
@@ -31573,7 +31573,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Meteors Streak'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Uranus Planet'?",
+          "q": "Which is correct about the core idea of 'Uranus Planet'?",
           "options": [
             "It is defined as 'the blue-green ice giant rotating on a highly tilted axis'.",
             "It is themed as 'trans-Neptunian orbits and icy remnants'.",
@@ -31617,7 +31617,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Planetary Science Manuals' is the manual associated with 'greenhouse effect and backward rotation'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Hubble Telescope'?",
+          "q": "What is a key description or fact regarding the concept of 'Hubble Telescope'?",
           "options": [
             "\"Mars has two small moons, Phobos and Deimos, and the solar system's tallest volcano.\"",
             "\"Hubble was launched in 1990, avoiding atmospheric distortion to take clear photos.\"",
@@ -31628,7 +31628,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Hubble Telescope' is: \"Hubble was launched in 1990, avoiding atmospheric distortion to take clear photos.\"."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Minor Planets Catalogues'?",
+          "q": "Which is correct about the book/guide 'Minor Planets Catalogues'?",
           "options": [
             "It is contrasted with 'Mars Planet'.",
             "It is written about 'Moon Satellite'.",
@@ -31683,7 +31683,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Sun Star' is the standard contrast to 'Jupiter Planet'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Neptune was the first planet located through mathematical calculations before observation.\"?",
+          "q": "What describes the key fact or historical quote: \"Neptune was the first planet located through mathematical calculations before observation.\"?",
           "options": [
             "Earth Planet",
             "Uranus Planet",
@@ -31694,7 +31694,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Neptune Planet'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Mercury Planet'?",
+          "q": "Which is correct about the core idea of 'Mercury Planet'?",
           "options": [
             "It belongs to the field of 'Astronomy'.",
             "It is defined as 'the smallest planet in the solar system located closest to the Sun'.",
@@ -31705,7 +31705,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Mercury Planet' is defined as 'the smallest planet in the solar system located closest to the Sun'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Mercury has no atmosphere and experiences extreme temperature swings.\"?",
+          "q": "What describes the key fact or historical quote: \"Mercury has no atmosphere and experiences extreme temperature swings.\"?",
           "options": [
             "Moon Satellite",
             "Sun Star",
@@ -31782,7 +31782,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Supernova Explosion' is classified under the domain of 'Astrophysics'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Hubble Telescope'?",
+          "q": "Which is correct about the core idea of 'Hubble Telescope'?",
           "options": [
             "It belongs to the field of 'Astronomy'.",
             "It is documented in 'Terrestrial Planetary Studies'.",
@@ -31793,7 +31793,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hubble Telescope' is defined as 'the space telescope delivering deep optical views of remote galaxies'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Gravity Force'?",
+          "q": "Which is correct about the concept of 'Gravity Force'?",
           "options": [
             "It is documented in the manual 'Ice Giant Studies'.",
             "Its contrasting theme is 'lunar shadows and alignment geometry'.",
@@ -31815,7 +31815,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Stellar Evolution Journals' contains documentation regarding 'stellar nucleosynthesis and shockwaves'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Jupiter Planet'?",
+          "q": "Which is correct about the core idea of 'Jupiter Planet'?",
           "options": [
             "It is defined as 'the largest planet in the solar system with a giant storms band'.",
             "It belongs to the field of 'Astronomy'.",
@@ -31826,7 +31826,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Jupiter Planet' is defined as 'the largest planet in the solar system with a giant storms band'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'atmospheric friction and shooting stars'?",
+          "q": "What is a major reference or manual focusing on 'atmospheric friction and shooting stars'?",
           "options": [
             "Stellar Distance Records",
             "Planetary Atmosphere Studies",
@@ -31848,7 +31848,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Stellar Distance Records' is associated with 'Astronomical Unit'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Supernova Explosion'?",
+          "q": "Which is correct about the core idea of 'Supernova Explosion'?",
           "options": [
             "It is defined as 'the colossal stellar explosion marking the death of a supermassive star'.",
             "It belongs to the field of 'Astrophysics'.",
@@ -31870,7 +31870,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Astronomical Unit'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Venus is known as Earth's twin due to its similar size and density.\"?",
+          "q": "What describes the key fact or historical quote: \"Venus is known as Earth's twin due to its similar size and density.\"?",
           "options": [
             "Venus Planet",
             "Hubble Telescope",
@@ -31881,7 +31881,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Venus Planet'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Kuiper Belt Region'?",
+          "q": "Which is correct about the core idea of 'Kuiper Belt Region'?",
           "options": [
             "It is documented in 'Stellar Evolution Journals'.",
             "It is themed as 'retrograde rotation and extreme axial tilt'.",
@@ -31903,7 +31903,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Planetary Science Manuals' is associated with 'Venus Planet'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Moon Satellite'?",
+          "q": "What is a key description or fact regarding the concept of 'Moon Satellite'?",
           "options": [
             "\"Uranus rotates almost 90 degrees on its side compared to its orbit.\"",
             "\"The gravitational pull of the Moon is the primary cause of ocean tides.\"",
@@ -31914,7 +31914,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Moon Satellite' is: \"The gravitational pull of the Moon is the primary cause of ocean tides.\"."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'icy orbits and sublimation tails'?",
+          "q": "What is a major reference or manual focusing on 'icy orbits and sublimation tails'?",
           "options": [
             "General Relativity Studies",
             "Planetary Science Manuals",
@@ -31925,7 +31925,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Minor Planets Catalogues' is known for its focus on 'icy orbits and sublimation tails'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Astronomy'?",
+          "q": "What is situated within the study field of 'Astronomy'?",
           "options": [
             "Milky Way Galaxy",
             "Sun Star",
@@ -31980,7 +31980,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Mercury Planet' is classified under the domain of 'Astronomy'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Gravity Force'?",
+          "q": "Which is correct about the core idea of 'Gravity Force'?",
           "options": [
             "It is documented in 'Solar Observational Logs'.",
             "It is themed as 'nuclear fusion and solar mass'.",
@@ -32002,7 +32002,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Mars Planet' deals with the theme of 'space exploration and rust deserts'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'ring systems and low density'?",
+          "q": "What is a major reference or manual focusing on 'ring systems and low density'?",
           "options": [
             "Minor Planets Catalogues",
             "Stellar System Catalogues",
@@ -32057,7 +32057,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Astronomical Unit' is the contrast to 'Light Year Distance'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'space exploration and rust deserts'?",
+          "q": "What is a major reference or manual focusing on 'space exploration and rust deserts'?",
           "options": [
             "Terrestrial Planetary Studies",
             "Gas Giant Studies",
@@ -32079,7 +32079,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Milky Way Galaxy'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Uranus Planet'?",
+          "q": "What is a key description or fact regarding the concept of 'Uranus Planet'?",
           "options": [
             "\"The Kuiper Belt is home to Pluto, Eris, and many short-period comets.\"",
             "\"A solar eclipse occurs only during a new moon phase when paths align.\"",
@@ -32090,7 +32090,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Uranus Planet' is: \"Uranus rotates almost 90 degrees on its side compared to its orbit.\"."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"A lunar eclipse occurs only during a full moon, causing a reddish blood moon appearance.\"?",
+          "q": "What describes the key fact or historical quote: \"A lunar eclipse occurs only during a full moon, causing a reddish blood moon appearance.\"?",
           "options": [
             "Lunar Eclipse Event",
             "Mars Planet",
@@ -32123,7 +32123,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Milky Way Galaxy' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Venus Planet'?",
+          "q": "What is a key description or fact regarding the concept of 'Venus Planet'?",
           "options": [
             "\"Comets originate from the Oort Cloud and Kuiper Belt, composed of ice and dust.\"",
             "\"Hubble was launched in 1990, avoiding atmospheric distortion to take clear photos.\"",
@@ -32145,7 +32145,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Gas Giant Studies' contains documentation regarding 'ring systems and low density'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Stellar Distance Records'?",
+          "q": "Which is correct about the book/guide 'Stellar Distance Records'?",
           "options": [
             "It is contrasted with 'Andromeda Galaxy'.",
             "Its primary focus is 'Astronomy'.",
@@ -32189,7 +32189,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Neptune Planet' is classified under the domain of 'Astronomy'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Saturn Planet'?",
+          "q": "What is a key description or fact regarding the concept of 'Saturn Planet'?",
           "options": [
             "\"Our solar system is located in the Orion Arm of the Milky Way galaxy.\"",
             "\"Gravity holds planets in orbit around stars and stars in orbit within galaxies.\"",
@@ -32244,7 +32244,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Neptune Planet' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'retrograde rotation and extreme axial tilt'?",
+          "q": "What is a major reference or manual focusing on 'retrograde rotation and extreme axial tilt'?",
           "options": [
             "Solar Observational Logs",
             "Ice Giant Studies",
@@ -32266,7 +32266,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Jupiter Planet'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The gravitational pull of the Moon is the primary cause of ocean tides.\"?",
+          "q": "What describes the key fact or historical quote: \"The gravitational pull of the Moon is the primary cause of ocean tides.\"?",
           "options": [
             "Comets Orbit",
             "Uranus Planet",
@@ -32299,7 +32299,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Nebula Cloud'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Planetary Atmosphere Studies'?",
+          "q": "Which is correct about the book/guide 'Planetary Atmosphere Studies'?",
           "options": [
             "It addresses the theme of 'atmospheric friction and shooting stars'.",
             "It is contrasted with 'Mercury Planet'.",
@@ -32321,7 +32321,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Gas Giant Studies' is the manual associated with 'ring systems and low density'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'earth shadow and lunar phase geometry'?",
+          "q": "What is a major reference or manual focusing on 'earth shadow and lunar phase geometry'?",
           "options": [
             "Solar Observational Logs",
             "Terrestrial Planetary Studies",
@@ -32332,7 +32332,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Solar Observational Logs' is known for its focus on 'earth shadow and lunar phase geometry'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'speed of light and cosmic distance measurement'?",
+          "q": "What is a major reference or manual focusing on 'speed of light and cosmic distance measurement'?",
           "options": [
             "Terrestrial Planetary Studies",
             "Stellar Distance Records",
@@ -32442,7 +32442,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Kuiper Belt Region' is classified under the domain of 'Astronomy'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Milky Way Galaxy'?",
+          "q": "Which is correct about the concept of 'Milky Way Galaxy'?",
           "options": [
             "It belongs to the domain of 'Astrophysics'.",
             "It is documented in the manual 'Solar Physics Studies'.",
@@ -32453,7 +32453,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Milky Way Galaxy' is defined as 'the barred spiral galaxy containing hundreds of billions of stars'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Saturn's density is so low that it would float in a giant bathtub of water.\"?",
+          "q": "What describes the key fact or historical quote: \"Saturn's density is so low that it would float in a giant bathtub of water.\"?",
           "options": [
             "Saturn Planet",
             "Milky Way Galaxy",
@@ -32475,7 +32475,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Asteroids Belt' is the contrast to 'Comets Orbit'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The Kuiper Belt is home to Pluto, Eris, and many short-period comets.\"?",
+          "q": "What describes the key fact or historical quote: \"The Kuiper Belt is home to Pluto, Eris, and many short-period comets.\"?",
           "options": [
             "Supernova Explosion",
             "Kuiper Belt Region",
@@ -32497,7 +32497,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Jupiter Planet' is classified under the domain of 'Astronomy'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Comets Orbit'?",
+          "q": "Which is correct about the concept of 'Comets Orbit'?",
           "options": [
             "It is documented in the manual 'Planetary Science Manuals'.",
             "It belongs to the domain of 'Astrophysics'.",
@@ -32519,7 +32519,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Nebula Cloud'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Solar Eclipse Event'?",
+          "q": "What is a key description or fact regarding the concept of 'Solar Eclipse Event'?",
           "options": [
             "\"The gravitational pull of the Moon is the primary cause of ocean tides.\"",
             "\"A light-year is a unit of distance, not time, equaling about 9.46 trillion kilometers.\"",
@@ -32640,7 +32640,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Gas Giant Studies' is associated with 'Saturn Planet'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Asteroids Belt'?",
+          "q": "Which is correct about the concept of 'Asteroids Belt'?",
           "options": [
             "Its contrasting theme is 'singularity physics and event horizons'.",
             "It is defined as 'the rocky airless debris orbiting primarily between Mars and Jupiter'.",
@@ -32783,7 +32783,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Uranus Planet' is 'the blue-green ice giant rotating on a highly tilted axis'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Nebulae are often called stellar nurseries, gravity pulling gas to form protostars.\"?",
+          "q": "What describes the key fact or historical quote: \"Nebulae are often called stellar nurseries, gravity pulling gas to form protostars.\"?",
           "options": [
             "Nebula Cloud",
             "Solar Eclipse Event",
@@ -32816,7 +32816,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Classical Mechanics Handbooks' is associated with 'Gravity Force'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'trans-Neptunian orbits and icy remnants'?",
+          "q": "What is a major reference or manual focusing on 'trans-Neptunian orbits and icy remnants'?",
           "options": [
             "Ice Giant Studies",
             "Stellar Evolution Journals",
@@ -32882,7 +32882,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Stellar Distance Records' contains documentation regarding 'solar system distance measurements'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Supernova Explosion'?",
+          "q": "What is a key description or fact regarding the concept of 'Supernova Explosion'?",
           "options": [
             "\"A solar eclipse occurs only during a new moon phase when paths align.\"",
             "\"A supernova can briefly outshine an entire galaxy, dispersing heavy elements.\"",
@@ -32948,7 +32948,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Asteroids Belt'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Black holes are formed by the gravitational collapse of massive dying stars.\"?",
+          "q": "What describes the key fact or historical quote: \"Black holes are formed by the gravitational collapse of massive dying stars.\"?",
           "options": [
             "Light Year Distance",
             "Comets Orbit",
@@ -33102,7 +33102,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Stellar Evolution Journals' is the manual associated with 'stellar nucleosynthesis and shockwaves'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Terrestrial Planetary Studies'?",
+          "q": "Which is correct about the book/guide 'Terrestrial Planetary Studies'?",
           "options": [
             "It is written about 'Light Year Distance'.",
             "Its primary focus is 'Astronomy'.",
@@ -33146,7 +33146,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Mercury Planet' deals with the theme of 'extreme temperatures and orbital speed'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'orbital observation and galactic expansion measurements'?",
+          "q": "What is a major reference or manual focusing on 'orbital observation and galactic expansion measurements'?",
           "options": [
             "Stellar Evolution Journals",
             "Astronomical Instrument Directories",
@@ -33157,7 +33157,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Astronomical Instrument Directories' is known for its focus on 'orbital observation and galactic expansion measurements'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Light Year Distance'?",
+          "q": "Which is correct about the concept of 'Light Year Distance'?",
           "options": [
             "It is documented in the manual 'Terrestrial Planetary Studies'.",
             "It belongs to the domain of 'Astronomy'.",
@@ -33179,7 +33179,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Solar Physics Studies' is the manual associated with 'nuclear fusion and solar mass'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Earth Planet'?",
+          "q": "Which is correct about the core idea of 'Earth Planet'?",
           "options": [
             "It is documented in 'Minor Planets Catalogues'.",
             "It belongs to the field of 'Astrophysics'.",
@@ -33212,7 +33212,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Supernova Explosion' is the contrast to 'Nebula Cloud'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Milky Way Galaxy'?",
+          "q": "Which is correct about the core idea of 'Milky Way Galaxy'?",
           "options": [
             "It is defined as 'the barred spiral galaxy containing hundreds of billions of stars'.",
             "It is themed as 'gravitational attraction and orbital speed'.",
@@ -33223,7 +33223,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Milky Way Galaxy' is defined as 'the barred spiral galaxy containing hundreds of billions of stars'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The Sun generates energy in its core through the fusion of hydrogen into helium.\"?",
+          "q": "What describes the key fact or historical quote: \"The Sun generates energy in its core through the fusion of hydrogen into helium.\"?",
           "options": [
             "Milky Way Galaxy",
             "Venus Planet",
@@ -33245,7 +33245,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Jupiter Planet'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Astronomical Instrument Directories'?",
+          "q": "Which is correct about the book/guide 'Astronomical Instrument Directories'?",
           "options": [
             "It is written about 'Nebula Cloud'.",
             "Its primary focus is 'Astronomy'.",
@@ -33256,7 +33256,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Astronomical Instrument Directories' focuses on 'orbital observation and galactic expansion measurements'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Mars has two small moons, Phobos and Deimos, and the solar system's tallest volcano.\"?",
+          "q": "What describes the key fact or historical quote: \"Mars has two small moons, Phobos and Deimos, and the solar system's tallest volcano.\"?",
           "options": [
             "Saturn Planet",
             "Mars Planet",
@@ -33278,7 +33278,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Kuiper Belt' is the direct contrast to 'Asteroids Belt'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Light Year Distance'?",
+          "q": "Which is correct about the core idea of 'Light Year Distance'?",
           "options": [
             "It is defined as 'the distance that light travels in one Julian year in empty space'.",
             "It is documented in 'Astronomical Instrument Directories'.",
@@ -33322,7 +33322,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Saturn Planet'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Nebula Cloud'?",
+          "q": "What is a key description or fact regarding the concept of 'Nebula Cloud'?",
           "options": [
             "\"Nebulae are often called stellar nurseries, gravity pulling gas to form protostars.\"",
             "\"A solar eclipse occurs only during a new moon phase when paths align.\"",
@@ -33366,7 +33366,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Venus Planet'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The asteroid belt contains millions of rocky bodies, including the dwarf planet Ceres.\"?",
+          "q": "What describes the key fact or historical quote: \"The asteroid belt contains millions of rocky bodies, including the dwarf planet Ceres.\"?",
           "options": [
             "Black Holes",
             "Earth Planet",
@@ -33377,7 +33377,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Asteroids Belt'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'high-speed winds and methane absorption'?",
+          "q": "What is a major reference or manual focusing on 'high-speed winds and methane absorption'?",
           "options": [
             "Ice Giant Studies",
             "Terrestrial Planetary Studies",
@@ -33388,7 +33388,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Ice Giant Studies' is known for its focus on 'high-speed winds and methane absorption'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Comets originate from the Oort Cloud and Kuiper Belt, composed of ice and dust.\"?",
+          "q": "What describes the key fact or historical quote: \"Comets originate from the Oort Cloud and Kuiper Belt, composed of ice and dust.\"?",
           "options": [
             "Venus Planet",
             "Mars Planet",
@@ -33432,7 +33432,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Venus Planet' deals with the theme of 'greenhouse effect and backward rotation'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'singularity physics and event horizons'?",
+          "q": "What is a major reference or manual focusing on 'singularity physics and event horizons'?",
           "options": [
             "Minor Planets Catalogues",
             "General Relativity Studies",
@@ -33443,7 +33443,7 @@ window.QuizData_everyday_science = {
           "explanation": "'General Relativity Studies' is known for its focus on 'singularity physics and event horizons'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Lunar Eclipse Event'?",
+          "q": "Which is correct about the concept of 'Lunar Eclipse Event'?",
           "options": [
             "It belongs to the domain of 'Astrophysics'.",
             "It is documented in the manual 'Terrestrial Planetary Studies'.",
@@ -33465,7 +33465,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Mars Planet'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Neptune Planet'?",
+          "q": "Which is correct about the core idea of 'Neptune Planet'?",
           "options": [
             "It belongs to the field of 'Astronomy'.",
             "It is defined as 'the windiest gas planet with a deep blue methane atmosphere'.",
@@ -33487,7 +33487,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Mercury Planet'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'fast rotation and gas envelope'?",
+          "q": "What is a major reference or manual focusing on 'fast rotation and gas envelope'?",
           "options": [
             "Minor Planets Catalogues",
             "Stellar Evolution Journals",
@@ -33509,7 +33509,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Venus Planet'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Ice Giant Studies'?",
+          "q": "Which is correct about the book/guide 'Ice Giant Studies'?",
           "options": [
             "Its primary focus is 'Astrophysics'.",
             "It is contrasted with 'Asteroids Belt'.",
@@ -33586,7 +33586,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Asteroids Belt' is the standard contrast to 'Comets Orbit'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Stellar Evolution Journals'?",
+          "q": "Which is correct about the book/guide 'Stellar Evolution Journals'?",
           "options": [
             "It is written about 'Astronomical Unit'.",
             "It addresses the theme of 'stellar nucleosynthesis and shockwaves'.",
@@ -33608,7 +33608,7 @@ window.QuizData_everyday_science = {
           "explanation": "'nuclear fusion and solar mass' is a major theme inside 'Astronomy'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Uranus rotates almost 90 degrees on its side compared to its orbit.\"?",
+          "q": "What describes the key fact or historical quote: \"Uranus rotates almost 90 degrees on its side compared to its orbit.\"?",
           "options": [
             "Kuiper Belt Region",
             "Uranus Planet",
@@ -33707,7 +33707,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Comets Orbit' deals with the theme of 'icy orbits and sublimation tails'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Comets Orbit'?",
+          "q": "What is a key description or fact regarding the concept of 'Comets Orbit'?",
           "options": [
             "\"Mars has two small moons, Phobos and Deimos, and the solar system's tallest volcano.\"",
             "\"Black holes are formed by the gravitational collapse of massive dying stars.\"",
@@ -33718,7 +33718,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Comets Orbit' is: \"Comets originate from the Oort Cloud and Kuiper Belt, composed of ice and dust.\"."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Asteroids Belt'?",
+          "q": "Which is correct about the core idea of 'Asteroids Belt'?",
           "options": [
             "It is defined as 'the rocky airless debris orbiting primarily between Mars and Jupiter'.",
             "It is documented in 'General Relativity Studies'.",
@@ -33729,7 +33729,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Asteroids Belt' is defined as 'the rocky airless debris orbiting primarily between Mars and Jupiter'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Astronomical Unit'?",
+          "q": "Which is correct about the concept of 'Astronomical Unit'?",
           "options": [
             "It belongs to the domain of 'Astrophysics'.",
             "It is defined as 'the average distance from the center of the Earth to the Sun'.",
@@ -33773,7 +33773,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Classical Mechanics Handbooks' contains documentation regarding 'gravitational attraction and orbital speed'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Uranus Planet'?",
+          "q": "Which is correct about the concept of 'Uranus Planet'?",
           "options": [
             "It is defined as 'the blue-green ice giant rotating on a highly tilted axis'.",
             "It is documented in the manual 'Solar Observational Logs'.",
@@ -33817,7 +33817,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Jupiter Planet' deals with the theme of 'fast rotation and gas envelope'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Hubble was launched in 1990, avoiding atmospheric distortion to take clear photos.\"?",
+          "q": "What describes the key fact or historical quote: \"Hubble was launched in 1990, avoiding atmospheric distortion to take clear photos.\"?",
           "options": [
             "Jupiter Planet",
             "Mars Planet",
@@ -33828,7 +33828,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Hubble Telescope'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"A solar eclipse occurs only during a new moon phase when paths align.\"?",
+          "q": "What describes the key fact or historical quote: \"A solar eclipse occurs only during a new moon phase when paths align.\"?",
           "options": [
             "Venus Planet",
             "Light Year Distance",
@@ -33905,7 +33905,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Light Year Distance' is built on the concept: 'the distance that light travels in one Julian year in empty space'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Gravity Force'?",
+          "q": "What is a key description or fact regarding the concept of 'Gravity Force'?",
           "options": [
             "\"Uranus rotates almost 90 degrees on its side compared to its orbit.\"",
             "\"The Sun generates energy in its core through the fusion of hydrogen into helium.\"",
@@ -34010,7 +34010,7 @@ window.QuizData_everyday_science = {
           "explanation": "Deforestation involves the permanent removal of trees to make room for something besides forest."
         },
         {
-          "q": "Which of the following is a renewable source of energy?",
+          "q": "What is a renewable source of energy?",
           "options": [
             "Coal",
             "Natural Gas",
@@ -34098,7 +34098,7 @@ window.QuizData_everyday_science = {
           "explanation": "Car and bus exhausts release NOx, CO, and particulate matter."
         },
         {
-          "q": "Which of the following is an example of a non-renewable resource?",
+          "q": "What is an example of a non-renewable resource?",
           "options": [
             "Wind",
             "Solar",
@@ -34164,7 +34164,7 @@ window.QuizData_everyday_science = {
           "explanation": "Often caused by drought, deforestation, or inappropriate agriculture."
         },
         {
-          "q": "Which of the following is a bio-indicator of air pollution?",
+          "q": "What is a bio-indicator of air pollution?",
           "options": [
             "Mosses",
             "Lichens",
@@ -34351,7 +34351,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 25 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 36 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 36 contributing to global warming?",
           "options": [
             "Wrong Fact A36",
             "Wrong Fact B36",
@@ -34373,7 +34373,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding persistent globally banned pesticide causing severe eggshell thinning for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 37 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 37 contributing to global warming?",
           "options": [
             "Wrong Fact B37",
             "Wrong Fact C37",
@@ -34395,7 +34395,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding rapid decrease in ocean pH fundamentally driven by CO2 absorption for Everyday Science."
         },
         {
-          "q": "Which of the following applies to a highly potent greenhouse gas emitted from agriculture?",
+          "q": "What applies to a highly potent greenhouse gas emitted from agriculture?",
           "options": [
             "Carbon Dioxide",
             "Methane",
@@ -34494,7 +34494,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding persistent globally banned pesticide causing severe eggshell thinning for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the natural process trapping heat in the Earth's atmosphere?",
+          "q": "What applies to the natural process trapping heat in the Earth's atmosphere?",
           "options": [
             "Radiation",
             "Photosynthesis",
@@ -34516,7 +34516,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the widespread clearing of Earth's forests on a massive scale for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the two primary atmospheric pollutants that form acid rain?",
+          "q": "What applies to the two primary atmospheric pollutants that form acid rain?",
           "options": [
             "Ammonia and Radon",
             "CFCs and Ozone",
@@ -34549,7 +34549,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 21 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 43 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 43 contributing to global warming?",
           "options": [
             "Wrong Fact A43",
             "Correct Concept 43",
@@ -34615,7 +34615,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 50 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the widespread clearing of Earth's forests on a massive scale?",
+          "q": "What applies to the widespread clearing of Earth's forests on a massive scale?",
           "options": [
             "Afforestation",
             "Reforestation",
@@ -34681,7 +34681,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 35 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 31 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 31 contributing to global warming?",
           "options": [
             "Correct Concept 31",
             "Wrong Fact C31",
@@ -34703,7 +34703,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding synthetic chemicals primarily responsible for destroying ozone for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the long-term heating of Earth's climate system?",
+          "q": "What applies to the long-term heating of Earth's climate system?",
           "options": [
             "Global Warming",
             "Eutrophication",
@@ -34725,7 +34725,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding how toxic substances progressively concentrate higher in food chains for Everyday Science."
         },
         {
-          "q": "Which of the following applies to dense, highly polluted fog visibly reducing air quality?",
+          "q": "What applies to dense, highly polluted fog visibly reducing air quality?",
           "options": [
             "Acid Rain",
             "Ozone Hole",
@@ -34791,7 +34791,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the primary greenhouse gas responsible for human-induced warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to international treaty to decisively phase out ozone-depleting substances?",
+          "q": "What applies to international treaty to decisively phase out ozone-depleting substances?",
           "options": [
             "Copenhagen Accord",
             "Kyoto Protocol",
@@ -34813,7 +34813,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 25 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to precipitation made distinctly acidic by atmospheric pollution?",
+          "q": "What applies to precipitation made distinctly acidic by atmospheric pollution?",
           "options": [
             "Acid Rain",
             "Eutrophication",
@@ -34934,7 +34934,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 47 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 49 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 49 contributing to global warming?",
           "options": [
             "Wrong Fact A49",
             "Wrong Fact C49",
@@ -34967,7 +34967,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 33 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 21 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 21 contributing to global warming?",
           "options": [
             "Wrong Fact A21",
             "Wrong Fact C21",
@@ -35022,7 +35022,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 50 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to mass death of coral reefs triggered heavily by warming oceans?",
+          "q": "What applies to mass death of coral reefs triggered heavily by warming oceans?",
           "options": [
             "Desertification",
             "Salinization",
@@ -35066,7 +35066,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 31 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 50 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 50 contributing to global warming?",
           "options": [
             "Wrong Fact A50",
             "Wrong Fact C50",
@@ -35088,7 +35088,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 29 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to process where excess nutrients cause explosive algal blooms?",
+          "q": "What applies to process where excess nutrients cause explosive algal blooms?",
           "options": [
             "Acidification",
             "Desertification",
@@ -35132,7 +35132,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding international treaty to decisively phase out ozone-depleting substances for Everyday Science."
         },
         {
-          "q": "Which of the following applies to rapid decrease in ocean pH fundamentally driven by CO2 absorption?",
+          "q": "What applies to rapid decrease in ocean pH fundamentally driven by CO2 absorption?",
           "options": [
             "Thermal Pollution",
             "Eutrophication",
@@ -35143,7 +35143,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding rapid decrease in ocean pH fundamentally driven by CO2 absorption for Everyday Science."
         },
         {
-          "q": "Which of the following applies to ultimate, deadly consequence of severe aquatic eutrophication?",
+          "q": "What applies to ultimate, deadly consequence of severe aquatic eutrophication?",
           "options": [
             "Creation of coral reefs",
             "Purification",
@@ -35165,7 +35165,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the process of planting trees in a barren area to establish a forest for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 25 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 25 contributing to global warming?",
           "options": [
             "Correct Concept 25",
             "Wrong Fact A25",
@@ -35231,7 +35231,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 27 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 26 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 26 contributing to global warming?",
           "options": [
             "Correct Concept 26",
             "Wrong Fact C26",
@@ -35374,7 +35374,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 21 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 23 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 23 contributing to global warming?",
           "options": [
             "Wrong Fact B23",
             "Correct Concept 23",
@@ -35407,7 +35407,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 42 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 45 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 45 contributing to global warming?",
           "options": [
             "Wrong Fact A45",
             "Wrong Fact C45",
@@ -35429,7 +35429,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 40 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 35 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 35 contributing to global warming?",
           "options": [
             "Correct Concept 35",
             "Wrong Fact C35",
@@ -35638,7 +35638,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding persistent globally banned pesticide causing severe eggshell thinning for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 38 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 38 contributing to global warming?",
           "options": [
             "Correct Concept 38",
             "Wrong Fact A38",
@@ -35649,7 +35649,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 38 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to persistent globally banned pesticide causing severe eggshell thinning?",
+          "q": "What applies to persistent globally banned pesticide causing severe eggshell thinning?",
           "options": [
             "DDT",
             "Glyphosate",
@@ -35660,7 +35660,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding persistent globally banned pesticide causing severe eggshell thinning for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 32 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 32 contributing to global warming?",
           "options": [
             "Correct Concept 32",
             "Wrong Fact A32",
@@ -35803,7 +35803,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding transformation of fertile land into entirely unproductive deserts for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the protective region absorbing most ultraviolet radiation?",
+          "q": "What applies to the protective region absorbing most ultraviolet radiation?",
           "options": [
             "Magnetosphere",
             "Ozone Layer",
@@ -35814,7 +35814,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the protective region absorbing most ultraviolet radiation for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 39 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 39 contributing to global warming?",
           "options": [
             "Correct Concept 39",
             "Wrong Fact C39",
@@ -35847,7 +35847,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding synthetic chemicals primarily responsible for destroying ozone for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 24 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 24 contributing to global warming?",
           "options": [
             "Wrong Fact A24",
             "Correct Concept 24",
@@ -35902,7 +35902,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding dense, highly polluted fog visibly reducing air quality for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the primary greenhouse gas responsible for human-induced warming?",
+          "q": "What applies to the primary greenhouse gas responsible for human-induced warming?",
           "options": [
             "Methane",
             "Carbon Dioxide",
@@ -35968,7 +35968,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the protective region absorbing most ultraviolet radiation for Everyday Science."
         },
         {
-          "q": "Which of the following applies to smog produced strictly when sunlight reacts with vehicle exhaust?",
+          "q": "What applies to smog produced strictly when sunlight reacts with vehicle exhaust?",
           "options": [
             "Photochemical Smog",
             "Industrial Smog",
@@ -36012,7 +36012,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 44 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 30 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 30 contributing to global warming?",
           "options": [
             "Wrong Fact A30",
             "Wrong Fact C30",
@@ -36023,7 +36023,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 30 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 46 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 46 contributing to global warming?",
           "options": [
             "Wrong Fact B46",
             "Wrong Fact C46",
@@ -36056,7 +36056,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 40 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 47 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 47 contributing to global warming?",
           "options": [
             "Correct Concept 47",
             "Wrong Fact A47",
@@ -36144,7 +36144,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 46 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 28 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 28 contributing to global warming?",
           "options": [
             "Wrong Fact B28",
             "Wrong Fact C28",
@@ -36155,7 +36155,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 28 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 41 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 41 contributing to global warming?",
           "options": [
             "Wrong Fact C41",
             "Correct Concept 41",
@@ -36221,7 +36221,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding process where excess nutrients cause explosive algal blooms for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the process of planting trees in a barren area to establish a forest?",
+          "q": "What applies to the process of planting trees in a barren area to establish a forest?",
           "options": [
             "Afforestation",
             "Desertification",
@@ -36254,7 +36254,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 22 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to how toxic substances progressively concentrate higher in food chains?",
+          "q": "What applies to how toxic substances progressively concentrate higher in food chains?",
           "options": [
             "Eutrophication",
             "Acidification",
@@ -36276,7 +36276,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 47 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 22 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 22 contributing to global warming?",
           "options": [
             "Correct Concept 22",
             "Wrong Fact B22",
@@ -36342,7 +36342,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding mass death of coral reefs triggered heavily by warming oceans for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 34 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 34 contributing to global warming?",
           "options": [
             "Wrong Fact A34",
             "Wrong Fact C34",
@@ -36463,7 +36463,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 27 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 44 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 44 contributing to global warming?",
           "options": [
             "Wrong Fact A44",
             "Wrong Fact C44",
@@ -36683,7 +36683,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 49 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 27 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 27 contributing to global warming?",
           "options": [
             "Correct Concept 27",
             "Wrong Fact C27",
@@ -36749,7 +36749,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the protective region absorbing most ultraviolet radiation for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 29 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 29 contributing to global warming?",
           "options": [
             "Wrong Fact B29",
             "Wrong Fact C29",
@@ -36760,7 +36760,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 29 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to transformation of fertile land into entirely unproductive deserts?",
+          "q": "What applies to transformation of fertile land into entirely unproductive deserts?",
           "options": [
             "Salinization",
             "Eutrophication",
@@ -36804,7 +36804,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 22 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 48 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 48 contributing to global warming?",
           "options": [
             "Correct Concept 48",
             "Wrong Fact C48",
@@ -36848,7 +36848,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding process where excess nutrients cause explosive algal blooms for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 33 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 33 contributing to global warming?",
           "options": [
             "Wrong Fact B33",
             "Correct Concept 33",
@@ -36859,7 +36859,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding environmental issue concept factor number 33 contributing to global warming for Everyday Science."
         },
         {
-          "q": "Which of the following applies to synthetic chemicals primarily responsible for destroying ozone?",
+          "q": "What applies to synthetic chemicals primarily responsible for destroying ozone?",
           "options": [
             "CFCs",
             "NOx",
@@ -36881,7 +36881,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding transformation of fertile land into entirely unproductive deserts for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 42 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 42 contributing to global warming?",
           "options": [
             "Wrong Fact C42",
             "Wrong Fact B42",
@@ -37013,7 +37013,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the process of planting trees in a barren area to establish a forest for Everyday Science."
         },
         {
-          "q": "Which of the following applies to environmental issue concept factor number 40 contributing to global warming?",
+          "q": "What applies to environmental issue concept factor number 40 contributing to global warming?",
           "options": [
             "Wrong Fact A40",
             "Correct Concept 40",
@@ -37046,7 +37046,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the long-term heating of Earth's climate system for Everyday Science."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Biodegradable Waste'?",
+          "q": "Which is correct about the concept of 'Biodegradable Waste'?",
           "options": [
             "Its contrasting theme is 'aquatic contaminants and sewage treatment'.",
             "It is documented in the manual 'Precipitation Chemistry Studies'.",
@@ -37057,7 +37057,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Biodegradable Waste' is defined as 'the organic waste capable of being broken down by microorganisms'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Desertification'?",
+          "q": "What is a key description or fact regarding the concept of 'Desertification'?",
           "options": [
             "\"Overgrazing and deforestation are the primary drivers of desertification.\"",
             "\"Ozone depletion is primarily caused by man-made chlorofluorocarbons.\"",
@@ -37068,7 +37068,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Desertification' is: \"Overgrazing and deforestation are the primary drivers of desertification.\"."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Biodegradable waste like food scraps can be converted into organic fertilizer.\"?",
+          "q": "What describes the key fact or historical quote: \"Biodegradable waste like food scraps can be converted into organic fertilizer.\"?",
           "options": [
             "Water Pollution",
             "Smog Pollution",
@@ -37101,7 +37101,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Methane Gas' deals with the theme of 'agricultural emissions and thermal absorption'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Environmental Chemistry'?",
+          "q": "What is situated within the study field of 'Environmental Chemistry'?",
           "options": [
             "Greenhouse Effect",
             "Acid Rain",
@@ -37112,7 +37112,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Acid Rain' falls under the discipline of 'Environmental Chemistry'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'carbon sequestration and ecosystem restoration'?",
+          "q": "What is a major reference or manual focusing on 'carbon sequestration and ecosystem restoration'?",
           "options": [
             "Marine Pollution Bulletins",
             "Water Resource Quality",
@@ -37123,7 +37123,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Forestry Conservation Briefs' is known for its focus on 'carbon sequestration and ecosystem restoration'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Renewable Energy'?",
+          "q": "Which is correct about the core idea of 'Renewable Energy'?",
           "options": [
             "It is themed as 'marine carbonate decline and shell dissolution'.",
             "It is defined as 'the energy sourced from solar, wind, or hydro replenishing naturally'.",
@@ -37211,7 +37211,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Methane Gas' is classified under the domain of 'Climatology'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Water Pollution'?",
+          "q": "What is a key description or fact regarding the concept of 'Water Pollution'?",
           "options": [
             "\"Industrial discharges and agricultural runoff are leading causes of water pollution.\"",
             "\"Bioremediation is used to clean up oil spills and heavy metal contamination.\"",
@@ -37244,7 +37244,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Marine Chemistry Bulletins' is associated with 'Ocean Acidification'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'air pollution and respiratory health risks'?",
+          "q": "What is a major reference or manual focusing on 'air pollution and respiratory health risks'?",
           "options": [
             "Clean Tech Handbooks",
             "Forestry Conservation Briefs",
@@ -37288,7 +37288,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Clean Air' is the contrast to 'Smog Pollution'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Greenhouse Gas Inventories'?",
+          "q": "Which is correct about the book/guide 'Greenhouse Gas Inventories'?",
           "options": [
             "It addresses the theme of 'fossil fuel combustion and carbon cycles'.",
             "Its primary focus is 'Environmental Health'.",
@@ -37442,7 +37442,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Waste Management Guides' is the manual associated with 'waste accumulation and microplastic contamination'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Smog Pollution'?",
+          "q": "Which is correct about the core idea of 'Smog Pollution'?",
           "options": [
             "It is defined as 'the air pollution smog containing ground-level ozone and smoke'.",
             "It belongs to the field of 'Ecology'.",
@@ -37486,7 +37486,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Ozone Creation' is the contrast to 'Ozone Depletion'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Water Pollution'?",
+          "q": "Which is correct about the concept of 'Water Pollution'?",
           "options": [
             "It is defined as 'the chemical or biological contamination of lakes, rivers, and aquifers'.",
             "Its contrasting theme is 'canopy loss and habitat fragmentation'.",
@@ -37508,7 +37508,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Applied Microbiology Journals' is the manual associated with 'microbial degradation and toxic waste cleanup'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Microplastics'?",
+          "q": "What is a key description or fact regarding the concept of 'Microplastics'?",
           "options": [
             "\"Afforestation helps combat climate change by absorbing carbon dioxide from the air.\"",
             "\"Microplastics have been detected in commercial salt, drinking water, and human tissues.\"",
@@ -37552,7 +37552,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Non-Biodegradable'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Particulate Matter'?",
+          "q": "Which is correct about the core idea of 'Particulate Matter'?",
           "options": [
             "It is defined as 'the microscopic airborne particles causing severe respiratory issues'.",
             "It is documented in 'Forestry Conservation Briefs'.",
@@ -37618,7 +37618,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Water Purification' is the contrast to 'Water Pollution'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Ozone Depletion'?",
+          "q": "Which is correct about the concept of 'Ozone Depletion'?",
           "options": [
             "It belongs to the domain of 'Soil Science'.",
             "It is documented in the manual 'Forestry Conservation Briefs'.",
@@ -37629,7 +37629,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Ozone Depletion' is defined as 'the thinning of the protective stratospheric ozone layer shield'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Biodegradable Waste'?",
+          "q": "Which is correct about the core idea of 'Biodegradable Waste'?",
           "options": [
             "It is documented in 'Water Resource Quality'.",
             "It is defined as 'the organic waste capable of being broken down by microorganisms'.",
@@ -37651,7 +37651,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Carbon Accounting Manuals' is the manual associated with 'emission accounting and carbon offsets'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Ozone Depletion'?",
+          "q": "Which is correct about the core idea of 'Ozone Depletion'?",
           "options": [
             "It belongs to the field of 'Ecology'.",
             "It is themed as 'topsoil depletion and land degradation'.",
@@ -37673,7 +37673,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Biodegradable Waste' is the direct contrast to 'Non-Biodegradable'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Deforestation'?",
+          "q": "Which is correct about the core idea of 'Deforestation'?",
           "options": [
             "It belongs to the field of 'Environmental Health'.",
             "It is defined as 'the clearing of forest ecosystems reducing global carbon sinks'.",
@@ -37695,7 +37695,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Global Cooling' is the contrast to 'Global Warming'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Deforestation'?",
+          "q": "Which is correct about the concept of 'Deforestation'?",
           "options": [
             "Its contrasting theme is 'waste accumulation and microplastic contamination'.",
             "It belongs to the domain of 'Environmental Science'.",
@@ -37728,7 +37728,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Fossil Fuels'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Eutrophication creates dead zones where fish die due to lack of oxygen.\"?",
+          "q": "What describes the key fact or historical quote: \"Eutrophication creates dead zones where fish die due to lack of oxygen.\"?",
           "options": [
             "Microplastics",
             "Eutrophication",
@@ -37794,7 +37794,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Water Pollution' is built on the concept: 'the chemical or biological contamination of lakes, rivers, and aquifers'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Biodegradable Waste'?",
+          "q": "What is a key description or fact regarding the concept of 'Biodegradable Waste'?",
           "options": [
             "\"Photochemical smog forms when sunlight reacts with vehicular emissions.\"",
             "\"Industrial discharges and agricultural runoff are leading causes of water pollution.\"",
@@ -37805,7 +37805,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Biodegradable Waste' is: \"Biodegradable waste like food scraps can be converted into organic fertilizer.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Fossil Fuels'?",
+          "q": "What is a key description or fact regarding the concept of 'Fossil Fuels'?",
           "options": [
             "\"Fossil fuels still provide the majority of the world's primary energy supply.\"",
             "\"Plastics and glass are non-biodegradable, persisting in nature for centuries.\"",
@@ -37882,7 +37882,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Oxygen Gas' is the direct contrast to 'Carbon Dioxide'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Atmospheric carbon dioxide levels have risen rapidly since the Industrial Revolution.\"?",
+          "q": "What describes the key fact or historical quote: \"Atmospheric carbon dioxide levels have risen rapidly since the Industrial Revolution.\"?",
           "options": [
             "Eutrophication",
             "Carbon Dioxide",
@@ -37893,7 +37893,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Carbon Dioxide'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Microplastics'?",
+          "q": "Which is correct about the core idea of 'Microplastics'?",
           "options": [
             "It is documented in 'Air Quality Indexes'.",
             "It is themed as 'nutrient runoff and dissolved oxygen drops'.",
@@ -37904,7 +37904,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Microplastics' is defined as 'the plastic fragments under 5 millimeters polluting food chains'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Renewable Energy'?",
+          "q": "Which is correct about the concept of 'Renewable Energy'?",
           "options": [
             "Its contrasting theme is 'nutrient runoff and dissolved oxygen drops'.",
             "It belongs to the domain of 'Marine Biology'.",
@@ -37915,7 +37915,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Renewable Energy' is defined as 'the energy sourced from solar, wind, or hydro replenishing naturally'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Ocean Acidification'?",
+          "q": "Which is correct about the concept of 'Ocean Acidification'?",
           "options": [
             "It belongs to the domain of 'Marine Ecology'.",
             "Its contrasting theme is 'thermal inversions and chemical smog'.",
@@ -37948,7 +37948,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Carbon Dioxide' is the direct contrast to 'Methane Gas'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Overgrazing and deforestation are the primary drivers of desertification.\"?",
+          "q": "What describes the key fact or historical quote: \"Overgrazing and deforestation are the primary drivers of desertification.\"?",
           "options": [
             "Non-Biodegradable",
             "Desertification",
@@ -38069,7 +38069,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Non-Biodegradable' deals with the theme of 'waste accumulation and microplastic contamination'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Applied Microbiology Journals'?",
+          "q": "Which is correct about the book/guide 'Applied Microbiology Journals'?",
           "options": [
             "It addresses the theme of 'microbial degradation and toxic waste cleanup'.",
             "Its primary focus is 'Climatology'.",
@@ -38102,7 +38102,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Incineration Plants' is the standard contrast to 'Landfills Site'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Smog Pollution'?",
+          "q": "What is a key description or fact regarding the concept of 'Smog Pollution'?",
           "options": [
             "\"Afforestation helps combat climate change by absorbing carbon dioxide from the air.\"",
             "\"PM2.5 particles are small enough to enter the lungs and bloodstream directly.\"",
@@ -38135,7 +38135,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Carbon Dioxide' deals with the theme of 'fossil fuel combustion and carbon cycles'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Microplastics have been detected in commercial salt, drinking water, and human tissues.\"?",
+          "q": "What describes the key fact or historical quote: \"Microplastics have been detected in commercial salt, drinking water, and human tissues.\"?",
           "options": [
             "Afforestation",
             "Particulate Matter",
@@ -38322,7 +38322,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Soil Erosion'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'marine carbonate decline and shell dissolution'?",
+          "q": "What is a major reference or manual focusing on 'marine carbonate decline and shell dissolution'?",
           "options": [
             "Air Quality Indexes",
             "Marine Chemistry Bulletins",
@@ -38377,7 +38377,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Landfills Site' deals with the theme of 'waste containment and methane extraction'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'aquatic contaminants and sewage treatment'?",
+          "q": "What is a major reference or manual focusing on 'aquatic contaminants and sewage treatment'?",
           "options": [
             "Water Resource Quality",
             "Applied Microbiology Journals",
@@ -38432,7 +38432,7 @@ window.QuizData_everyday_science = {
           "explanation": "'aquatic contaminants and sewage treatment' is a major theme inside 'Environmental Science'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Carbon Footprint'?",
+          "q": "Which is correct about the core idea of 'Carbon Footprint'?",
           "options": [
             "It is documented in 'Forestry Conservation Briefs'.",
             "It is themed as 'waste containment and methane extraction'.",
@@ -38454,7 +38454,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Applied Microbiology Journals' contains documentation regarding 'microbial degradation and toxic waste cleanup'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Eutrophication'?",
+          "q": "What is a key description or fact regarding the concept of 'Eutrophication'?",
           "options": [
             "\"Microplastics have been detected in commercial salt, drinking water, and human tissues.\"",
             "\"Modern landfills use protective liners to prevent leachate from polluting groundwater.\"",
@@ -38498,7 +38498,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Energy Resource Surveys' contains documentation regarding 'combustion emissions and finite reserves'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Wind and solar energy reduce greenhouse gas emissions during generation.\"?",
+          "q": "What describes the key fact or historical quote: \"Wind and solar energy reduce greenhouse gas emissions during generation.\"?",
           "options": [
             "Renewable Energy",
             "Eutrophication",
@@ -38520,7 +38520,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Ozone Depletion' is 'the thinning of the protective stratospheric ozone layer shield'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'waste accumulation and microplastic contamination'?",
+          "q": "What is a major reference or manual focusing on 'waste accumulation and microplastic contamination'?",
           "options": [
             "Waste Management Guides",
             "Climate Change Reports",
@@ -38575,7 +38575,7 @@ window.QuizData_everyday_science = {
           "explanation": "'topsoil depletion and land degradation' is a major theme inside 'Soil Science'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'CFCs Gas'?",
+          "q": "Which is correct about the concept of 'CFCs Gas'?",
           "options": [
             "Its contrasting theme is 'waste containment and methane extraction'.",
             "It is defined as 'the organic refrigerant compounds releasing chlorine atoms to destroy ozone'.",
@@ -38641,7 +38641,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Climate Change Reports' is associated with 'Global Warming'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Eutrophication'?",
+          "q": "Which is correct about the concept of 'Eutrophication'?",
           "options": [
             "It belongs to the domain of 'Energy Policy'.",
             "Its contrasting theme is 'waste containment and methane extraction'.",
@@ -38674,7 +38674,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Desertification' is built on the concept: 'the degradation of drylands into deserts due to climate or farming'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Greenhouse Effect'?",
+          "q": "What is a key description or fact regarding the concept of 'Greenhouse Effect'?",
           "options": [
             "\"Without the natural greenhouse effect, Earth's average temperature would be below freezing.\"",
             "\"Modern landfills use protective liners to prevent leachate from polluting groundwater.\"",
@@ -38685,7 +38685,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Greenhouse Effect' is: \"Without the natural greenhouse effect, Earth's average temperature would be below freezing.\"."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Municipal Waste Guidelines'?",
+          "q": "Which is correct about the book/guide 'Municipal Waste Guidelines'?",
           "options": [
             "Its primary focus is 'Ecology'.",
             "It addresses the theme of 'waste containment and methane extraction'.",
@@ -38729,7 +38729,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Forestry Conservation Briefs' is the manual associated with 'carbon sequestration and ecosystem restoration'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Water Resource Quality'?",
+          "q": "Which is correct about the book/guide 'Water Resource Quality'?",
           "options": [
             "It is contrasted with 'Hydrofluorocarbons'.",
             "Its primary focus is 'Ecology'.",
@@ -38773,7 +38773,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Stratospheric Ozone Records' is associated with 'CFCs Gas'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'plastic fragmentation and bioaccumulation'?",
+          "q": "What is a major reference or manual focusing on 'plastic fragmentation and bioaccumulation'?",
           "options": [
             "Marine Pollution Bulletins",
             "Air Quality Indexes",
@@ -38784,7 +38784,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Marine Pollution Bulletins' is known for its focus on 'plastic fragmentation and bioaccumulation'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Non-Biodegradable'?",
+          "q": "What is a key description or fact regarding the concept of 'Non-Biodegradable'?",
           "options": [
             "\"Plastics and glass are non-biodegradable, persisting in nature for centuries.\"",
             "\"Wind and solar energy reduce greenhouse gas emissions during generation.\"",
@@ -38883,7 +38883,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Carbon Accounting Manuals' contains documentation regarding 'emission accounting and carbon offsets'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Ocean Acidification'?",
+          "q": "Which is correct about the core idea of 'Ocean Acidification'?",
           "options": [
             "It is documented in 'Air Quality Indexes'.",
             "It is themed as 'plastic fragmentation and bioaccumulation'.",
@@ -38982,7 +38982,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Chemical Excavation' is the standard contrast to 'Bioremediation'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'thermal inversions and chemical smog'?",
+          "q": "What is a major reference or manual focusing on 'thermal inversions and chemical smog'?",
           "options": [
             "Air Quality Indexes",
             "Forestry Conservation Briefs",
@@ -39004,7 +39004,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Renewable Energy'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Environmental Biotechnology'?",
+          "q": "What is situated within the study field of 'Environmental Biotechnology'?",
           "options": [
             "Bioremediation",
             "Smog Pollution",
@@ -39015,7 +39015,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Bioremediation' falls under the discipline of 'Environmental Biotechnology'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Desertification'?",
+          "q": "Which is correct about the concept of 'Desertification'?",
           "options": [
             "It is defined as 'the degradation of drylands into deserts due to climate or farming'.",
             "It belongs to the domain of 'Environmental Engineering'.",
@@ -39026,7 +39026,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Desertification' is defined as 'the degradation of drylands into deserts due to climate or farming'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'chlorine cycles and stratospheric damage'?",
+          "q": "What is a major reference or manual focusing on 'chlorine cycles and stratospheric damage'?",
           "options": [
             "Precipitation Chemistry Studies",
             "Carbon Accounting Manuals",
@@ -39037,7 +39037,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Stratospheric Ozone Records' is known for its focus on 'chlorine cycles and stratospheric damage'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Clean Tech Handbooks'?",
+          "q": "Which is correct about the book/guide 'Clean Tech Handbooks'?",
           "options": [
             "It is written about 'Particulate Matter'.",
             "It is contrasted with 'Ocean Alkalization'.",
@@ -39059,7 +39059,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Limnology Research Journals' contains documentation regarding 'nutrient runoff and dissolved oxygen drops'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Afforestation helps combat climate change by absorbing carbon dioxide from the air.\"?",
+          "q": "What describes the key fact or historical quote: \"Afforestation helps combat climate change by absorbing carbon dioxide from the air.\"?",
           "options": [
             "Afforestation",
             "Microplastics",
@@ -39081,7 +39081,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Atmospheric Science Manuals' is the manual associated with 'heat retention and atmospheric gases'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Deforestation'?",
+          "q": "What is a key description or fact regarding the concept of 'Deforestation'?",
           "options": [
             "\"Industrial discharges and agricultural runoff are leading causes of water pollution.\"",
             "\"Deforestation contributes to global warming by releasing stored carbon.\"",
@@ -39092,7 +39092,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Deforestation' is: \"Deforestation contributes to global warming by releasing stored carbon.\"."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Stratospheric Ozone Records'?",
+          "q": "Which is correct about the book/guide 'Stratospheric Ozone Records'?",
           "options": [
             "It is contrasted with 'Soil Deposition'.",
             "Its primary focus is 'Environmental Health'.",
@@ -39125,7 +39125,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Air Quality Indexes' contains documentation regarding 'air pollution and respiratory health risks'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Particulate Matter'?",
+          "q": "What is a key description or fact regarding the concept of 'Particulate Matter'?",
           "options": [
             "\"Wind and solar energy reduce greenhouse gas emissions during generation.\"",
             "\"Deforestation contributes to global warming by releasing stored carbon.\"",
@@ -39147,7 +39147,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Renewable Energy' is the contrast to 'Fossil Fuels'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Soil erosion reduces agricultural productivity and causes sedimentation in rivers.\"?",
+          "q": "What describes the key fact or historical quote: \"Soil erosion reduces agricultural productivity and causes sedimentation in rivers.\"?",
           "options": [
             "Water Pollution",
             "Landfills Site",
@@ -39158,7 +39158,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Soil Erosion'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Carbon Footprint'?",
+          "q": "What is a key description or fact regarding the concept of 'Carbon Footprint'?",
           "options": [
             "\"Methane is over 25 times more effective at trapping heat than carbon dioxide.\"",
             "\"Modern landfills use protective liners to prevent leachate from polluting groundwater.\"",
@@ -39268,7 +39268,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Landfills Site' is classified under the domain of 'Environmental Engineering'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'atmospheric acid deposition and forest damage'?",
+          "q": "What is a major reference or manual focusing on 'atmospheric acid deposition and forest damage'?",
           "options": [
             "Precipitation Chemistry Studies",
             "Forestry Conservation Briefs",
@@ -39279,7 +39279,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Precipitation Chemistry Studies' is known for its focus on 'atmospheric acid deposition and forest damage'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Acid rain damages aquatic life and corrodes historic stone monuments.\"?",
+          "q": "What describes the key fact or historical quote: \"Acid rain damages aquatic life and corrodes historic stone monuments.\"?",
           "options": [
             "Deforestation",
             "Acid Rain",
@@ -39301,7 +39301,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Deforestation' is 'the clearing of forest ecosystems reducing global carbon sinks'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Non-Biodegradable'?",
+          "q": "Which is correct about the concept of 'Non-Biodegradable'?",
           "options": [
             "It belongs to the domain of 'Climatology'.",
             "It is defined as 'the waste materials resisting natural decay polluting environments'.",
@@ -39312,7 +39312,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Non-Biodegradable' is defined as 'the waste materials resisting natural decay polluting environments'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Air Quality Indexes'?",
+          "q": "Which is correct about the book/guide 'Air Quality Indexes'?",
           "options": [
             "Its primary focus is 'Ecology'.",
             "It is contrasted with 'Oxygen Gas'.",
@@ -39334,7 +39334,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Particulate Matter' deals with the theme of 'air pollution and respiratory health risks'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Ozone Depletion'?",
+          "q": "What is a key description or fact regarding the concept of 'Ozone Depletion'?",
           "options": [
             "\"Soil erosion reduces agricultural productivity and causes sedimentation in rivers.\"",
             "\"Ozone depletion is primarily caused by man-made chlorofluorocarbons.\"",
@@ -39356,7 +39356,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Smog Pollution' deals with the theme of 'thermal inversions and chemical smog'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Water Pollution'?",
+          "q": "Which is correct about the core idea of 'Water Pollution'?",
           "options": [
             "It is defined as 'the chemical or biological contamination of lakes, rivers, and aquifers'.",
             "It belongs to the field of 'Environmental Biotechnology'.",
@@ -39389,7 +39389,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Eutrophication' corresponds to this definition."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Modern landfills use protective liners to prevent leachate from polluting groundwater.\"?",
+          "q": "What describes the key fact or historical quote: \"Modern landfills use protective liners to prevent leachate from polluting groundwater.\"?",
           "options": [
             "Afforestation",
             "Landfills Site",
@@ -39400,7 +39400,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Landfills Site'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Landfills Site'?",
+          "q": "Which is correct about the concept of 'Landfills Site'?",
           "options": [
             "It is documented in the manual 'Marine Chemistry Bulletins'.",
             "It is defined as 'the structured areas for burying municipal solid waste under soil'.",
@@ -39444,7 +39444,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Eutrophication' is 'the nutrient enrichment of water bodies causing rapid algae growth'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Ozone depletion is primarily caused by man-made chlorofluorocarbons.\"?",
+          "q": "What describes the key fact or historical quote: \"Ozone depletion is primarily caused by man-made chlorofluorocarbons.\"?",
           "options": [
             "Ozone Depletion",
             "Soil Erosion",
@@ -39455,7 +39455,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Ozone Depletion'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Greenhouse Effect'?",
+          "q": "Which is correct about the core idea of 'Greenhouse Effect'?",
           "options": [
             "It belongs to the field of 'Soil Science'.",
             "It is documented in 'Forestry Conservation Briefs'.",
@@ -39477,7 +39477,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Atmospheric Science Manuals' is associated with 'Greenhouse Effect'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'emission accounting and carbon offsets'?",
+          "q": "What is a major reference or manual focusing on 'emission accounting and carbon offsets'?",
           "options": [
             "Municipal Waste Guidelines",
             "Greenhouse Gas Inventories",
@@ -39510,7 +39510,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Water Resource Quality' contains documentation regarding 'aquatic contaminants and sewage treatment'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'ultraviolet radiation and ozone hole dynamics'?",
+          "q": "What is a major reference or manual focusing on 'ultraviolet radiation and ozone hole dynamics'?",
           "options": [
             "Forestry Conservation Briefs",
             "Air Quality Indexes",
@@ -39532,7 +39532,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Non-Biodegradable Waste' is the contrast to 'Biodegradable Waste'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Plastics and glass are non-biodegradable, persisting in nature for centuries.\"?",
+          "q": "What describes the key fact or historical quote: \"Plastics and glass are non-biodegradable, persisting in nature for centuries.\"?",
           "options": [
             "Renewable Energy",
             "Global Warming",
@@ -39576,7 +39576,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Bioremediation' deals with the theme of 'microbial degradation and toxic waste cleanup'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Soil Erosion'?",
+          "q": "What is a key description or fact regarding the concept of 'Soil Erosion'?",
           "options": [
             "\"Industrial discharges and agricultural runoff are leading causes of water pollution.\"",
             "\"Modern landfills use protective liners to prevent leachate from polluting groundwater.\"",
@@ -39631,7 +39631,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Carbon Footprint' is 'the total greenhouse gases emitted directly or indirectly by an entity'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Smog Pollution'?",
+          "q": "Which is correct about the concept of 'Smog Pollution'?",
           "options": [
             "Its contrasting theme is 'microbial degradation and toxic waste cleanup'.",
             "It is documented in the manual 'Forestry Conservation Briefs'.",
@@ -39708,7 +39708,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Energy Resource Surveys' is associated with 'Fossil Fuels'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'heat retention and atmospheric gases'?",
+          "q": "What is a major reference or manual focusing on 'heat retention and atmospheric gases'?",
           "options": [
             "Municipal Waste Guidelines",
             "Atmospheric Science Manuals",
@@ -39730,7 +39730,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Acid Rain' is 'the rain made acidic by sulfur dioxide and nitrogen oxides'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Ocean Acidification'?",
+          "q": "What is a key description or fact regarding the concept of 'Ocean Acidification'?",
           "options": [
             "\"Atmospheric carbon dioxide levels have risen rapidly since the Industrial Revolution.\"",
             "\"Photochemical smog forms when sunlight reacts with vehicular emissions.\"",
@@ -39807,7 +39807,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Municipal Waste Guidelines' contains documentation regarding 'waste containment and methane extraction'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Marine Pollution Bulletins'?",
+          "q": "Which is correct about the book/guide 'Marine Pollution Bulletins'?",
           "options": [
             "It is contrasted with 'Oligotrophication'.",
             "It addresses the theme of 'plastic fragmentation and bioaccumulation'.",
@@ -39862,7 +39862,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Soil Erosion'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Soil Erosion'?",
+          "q": "Which is correct about the core idea of 'Soil Erosion'?",
           "options": [
             "It is defined as 'the removal of topsoil by water, wind, or farming activities'.",
             "It is themed as 'aquatic contaminants and sewage treatment'.",
@@ -39917,7 +39917,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Alkaline Runoff' is the contrast to 'Acid Rain'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Ecology'?",
+          "q": "What is situated within the study field of 'Ecology'?",
           "options": [
             "Water Pollution",
             "Non-Biodegradable",
@@ -39928,7 +39928,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Deforestation' falls under the discipline of 'Ecology'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Global Warming'?",
+          "q": "What is a key description or fact regarding the concept of 'Global Warming'?",
           "options": [
             "\"Global warming leads to melting glaciers and rising sea levels.\"",
             "\"Industrial discharges and agricultural runoff are leading causes of water pollution.\"",
@@ -39950,7 +39950,7 @@ window.QuizData_everyday_science = {
           "explanation": "'carbon free power and clean generation' is a major theme inside 'Energy Policy'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Soil Science'?",
+          "q": "What is situated within the study field of 'Soil Science'?",
           "options": [
             "Soil Erosion",
             "Water Pollution",
@@ -39972,7 +39972,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Albedo Effect' is the direct contrast to 'Greenhouse Effect'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Methane is over 25 times more effective at trapping heat than carbon dioxide.\"?",
+          "q": "What describes the key fact or historical quote: \"Methane is over 25 times more effective at trapping heat than carbon dioxide.\"?",
           "options": [
             "Soil Erosion",
             "Desertification",
@@ -40027,7 +40027,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'CFCs Gas' is 'the organic refrigerant compounds releasing chlorine atoms to destroy ozone'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Forestry Conservation Briefs'?",
+          "q": "Which is correct about the book/guide 'Forestry Conservation Briefs'?",
           "options": [
             "Its primary focus is 'Environmental Engineering'.",
             "It is contrasted with 'Water Purification'.",
@@ -40104,7 +40104,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Fossil Fuels' is the contrast to 'Renewable Energy'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Acid Rain'?",
+          "q": "What is a key description or fact regarding the concept of 'Acid Rain'?",
           "options": [
             "\"Without the natural greenhouse effect, Earth's average temperature would be below freezing.\"",
             "\"Modern landfills use protective liners to prevent leachate from polluting groundwater.\"",
@@ -40126,7 +40126,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Biodegradable Waste' is the standard contrast to 'Non-Biodegradable'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Fossil Fuels'?",
+          "q": "Which is correct about the core idea of 'Fossil Fuels'?",
           "options": [
             "It is documented in 'Forestry Conservation Briefs'.",
             "It is themed as 'waste accumulation and microplastic contamination'.",
@@ -40148,7 +40148,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Ocean Acidification'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'microbial degradation and toxic waste cleanup'?",
+          "q": "What is a major reference or manual focusing on 'microbial degradation and toxic waste cleanup'?",
           "options": [
             "Air Quality Indexes",
             "Atmospheric Science Manuals",
@@ -40181,7 +40181,7 @@ window.QuizData_everyday_science = {
           "explanation": "'emission accounting and carbon offsets' is a major theme inside 'Environmental Management'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Eutrophication'?",
+          "q": "Which is correct about the core idea of 'Eutrophication'?",
           "options": [
             "It is documented in 'Municipal Waste Guidelines'.",
             "It is defined as 'the nutrient enrichment of water bodies causing rapid algae growth'.",
@@ -40203,7 +40203,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Fossil Fuels' is built on the concept: 'the non-renewable coal, oil, and gas deposits formed from fossils'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'combustion emissions and finite reserves'?",
+          "q": "What is a major reference or manual focusing on 'combustion emissions and finite reserves'?",
           "options": [
             "Forestry Conservation Briefs",
             "Energy Resource Surveys",
@@ -40225,7 +40225,7 @@ window.QuizData_everyday_science = {
           "explanation": "'marine carbonate decline and shell dissolution' is a major theme inside 'Marine Biology'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Ocean acidification weakens coral reefs and shells of marine organisms.\"?",
+          "q": "What describes the key fact or historical quote: \"Ocean acidification weakens coral reefs and shells of marine organisms.\"?",
           "options": [
             "Ocean Acidification",
             "Smog Pollution",
@@ -40236,7 +40236,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Ocean Acidification'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'anthropogenic carbon emissions and temperature spikes'?",
+          "q": "What is a major reference or manual focusing on 'anthropogenic carbon emissions and temperature spikes'?",
           "options": [
             "Atmospheric Science Manuals",
             "Climate Change Reports",
@@ -40280,7 +40280,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Forestry Conservation Briefs' contains documentation regarding 'carbon sequestration and ecosystem restoration'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Acid Rain'?",
+          "q": "Which is correct about the concept of 'Acid Rain'?",
           "options": [
             "It belongs to the domain of 'Ecology'.",
             "It is documented in the manual 'Municipal Waste Guidelines'.",
@@ -40302,7 +40302,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Soil Erosion' deals with the theme of 'topsoil depletion and land degradation'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Fossil fuels still provide the majority of the world's primary energy supply.\"?",
+          "q": "What describes the key fact or historical quote: \"Fossil fuels still provide the majority of the world's primary energy supply.\"?",
           "options": [
             "Fossil Fuels",
             "Ocean Acidification",
@@ -40346,7 +40346,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Acid Rain'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Dryland Ecosystem Studies'?",
+          "q": "Which is correct about the book/guide 'Dryland Ecosystem Studies'?",
           "options": [
             "Its primary focus is 'Atmospheric Science'.",
             "It addresses the theme of 'arid expansion and soil fertility loss'.",
@@ -40412,7 +40412,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Fossil Fuels' deals with the theme of 'combustion emissions and finite reserves'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'topsoil depletion and land degradation'?",
+          "q": "What is a major reference or manual focusing on 'topsoil depletion and land degradation'?",
           "options": [
             "Agricultural Soil Science",
             "Municipal Waste Guidelines",
@@ -40489,7 +40489,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Carbon Footprint' is classified under the domain of 'Environmental Management'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Carbon Footprint'?",
+          "q": "Which is correct about the concept of 'Carbon Footprint'?",
           "options": [
             "It belongs to the domain of 'Environmental Engineering'.",
             "Its contrasting theme is 'carbon sequestration and ecosystem restoration'.",
@@ -40511,7 +40511,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Marine Chemistry Bulletins' is the manual associated with 'marine carbonate decline and shell dissolution'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Acid Rain'?",
+          "q": "Which is correct about the core idea of 'Acid Rain'?",
           "options": [
             "It belongs to the field of 'Environmental Engineering'.",
             "It is defined as 'the rain made acidic by sulfur dioxide and nitrogen oxides'.",
@@ -40533,7 +40533,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Afforestation' is the standard contrast to 'Deforestation'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Bioremediation is used to clean up oil spills and heavy metal contamination.\"?",
+          "q": "What describes the key fact or historical quote: \"Bioremediation is used to clean up oil spills and heavy metal contamination.\"?",
           "options": [
             "Carbon Dioxide",
             "Bioremediation",
@@ -40544,7 +40544,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Bioremediation'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Fossil Fuels'?",
+          "q": "Which is correct about the concept of 'Fossil Fuels'?",
           "options": [
             "It belongs to the domain of 'Environmental Engineering'.",
             "Its contrasting theme is 'carbon sequestration and ecosystem restoration'.",
@@ -40577,7 +40577,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Water Resource Quality' is associated with 'Water Pollution'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Precipitation Chemistry Studies'?",
+          "q": "Which is correct about the book/guide 'Precipitation Chemistry Studies'?",
           "options": [
             "It addresses the theme of 'atmospheric acid deposition and forest damage'.",
             "It is written about 'Landfills Site'.",
@@ -40610,7 +40610,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Smog Pollution' is 'the air pollution smog containing ground-level ozone and smoke'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Marine Ecology'?",
+          "q": "What is situated within the study field of 'Marine Ecology'?",
           "options": [
             "Particulate Matter",
             "Eutrophication",
@@ -40676,7 +40676,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Deforestation' is the contrast to 'Afforestation'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'waste containment and methane extraction'?",
+          "q": "What is a major reference or manual focusing on 'waste containment and methane extraction'?",
           "options": [
             "Marine Chemistry Bulletins",
             "Forestry Conservation Briefs",
@@ -40698,7 +40698,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Ocean Acidification' is classified under the domain of 'Marine Biology'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Atmospheric Science Manuals'?",
+          "q": "Which is correct about the book/guide 'Atmospheric Science Manuals'?",
           "options": [
             "It is contrasted with 'Incineration Plants'.",
             "It addresses the theme of 'heat retention and atmospheric gases'.",
@@ -40720,7 +40720,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Clean Tech Handbooks' is the manual associated with 'carbon free power and clean generation'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Non-Biodegradable'?",
+          "q": "Which is correct about the core idea of 'Non-Biodegradable'?",
           "options": [
             "It is themed as 'anthropogenic carbon emissions and temperature spikes'.",
             "It is defined as 'the waste materials resisting natural decay polluting environments'.",
@@ -40753,7 +40753,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Energy Resource Surveys' is associated with 'Fossil Fuels'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Carbon Dioxide'?",
+          "q": "Which is correct about the core idea of 'Carbon Dioxide'?",
           "options": [
             "It is documented in 'Air Quality Indexes'.",
             "It is themed as 'nutrient runoff and dissolved oxygen drops'.",
@@ -40775,7 +40775,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Stratospheric Ozone Records' is the manual associated with 'chlorine cycles and stratospheric damage'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Environmental Health'?",
+          "q": "What is situated within the study field of 'Environmental Health'?",
           "options": [
             "Deforestation",
             "Renewable Energy",
@@ -40797,7 +40797,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Soil Erosion' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'natural decomposition and compost creation'?",
+          "q": "What is a major reference or manual focusing on 'natural decomposition and compost creation'?",
           "options": [
             "Waste Management Guides",
             "Precipitation Chemistry Studies",
@@ -40808,7 +40808,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Waste Management Guides' is known for its focus on 'natural decomposition and compost creation'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Marine Chemistry Bulletins'?",
+          "q": "Which is correct about the book/guide 'Marine Chemistry Bulletins'?",
           "options": [
             "It is written about 'Carbon Dioxide'.",
             "Its primary focus is 'Environmental Health'.",
@@ -40830,7 +40830,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Smog Pollution' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Afforestation'?",
+          "q": "What is a key description or fact regarding the concept of 'Afforestation'?",
           "options": [
             "\"Industrial discharges and agricultural runoff are leading causes of water pollution.\"",
             "\"Microplastics have been detected in commercial salt, drinking water, and human tissues.\"",
@@ -40852,7 +40852,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hydrofluorocarbons' is the standard contrast to 'CFCs Gas'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Particulate Matter'?",
+          "q": "Which is correct about the concept of 'Particulate Matter'?",
           "options": [
             "It is defined as 'the microscopic airborne particles causing severe respiratory issues'.",
             "It is documented in the manual 'Clean Tech Handbooks'.",
@@ -40863,7 +40863,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Particulate Matter' is defined as 'the microscopic airborne particles causing severe respiratory issues'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Afforestation'?",
+          "q": "Which is correct about the core idea of 'Afforestation'?",
           "options": [
             "It is documented in 'Water Resource Quality'.",
             "It is defined as 'the establishment of new forest covers on previously barren lands'.",
@@ -40874,7 +40874,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Afforestation' is defined as 'the establishment of new forest covers on previously barren lands'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Environmental Management'?",
+          "q": "What is situated within the study field of 'Environmental Management'?",
           "options": [
             "Afforestation",
             "Methane Gas",
@@ -40896,7 +40896,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Carbon Dioxide' is 'the primary greenhouse gas emitted by burning coal, oil, and gas'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Methane Gas'?",
+          "q": "What is a key description or fact regarding the concept of 'Methane Gas'?",
           "options": [
             "\"Atmospheric carbon dioxide levels have risen rapidly since the Industrial Revolution.\"",
             "\"Soil erosion reduces agricultural productivity and causes sedimentation in rivers.\"",
@@ -40951,7 +40951,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hydrofluorocarbons' is the contrast to 'CFCs Gas'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Without the natural greenhouse effect, Earth's average temperature would be below freezing.\"?",
+          "q": "What describes the key fact or historical quote: \"Without the natural greenhouse effect, Earth's average temperature would be below freezing.\"?",
           "options": [
             "Landfills Site",
             "Deforestation",
@@ -40962,7 +40962,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Greenhouse Effect'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'arid expansion and soil fertility loss'?",
+          "q": "What is a major reference or manual focusing on 'arid expansion and soil fertility loss'?",
           "options": [
             "Municipal Waste Guidelines",
             "Waste Management Guides",
@@ -41017,7 +41017,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Albedo Effect' is the contrast to 'Greenhouse Effect'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Methane Gas'?",
+          "q": "Which is correct about the concept of 'Methane Gas'?",
           "options": [
             "It is defined as 'the potent greenhouse gas released by livestock and decaying organic waste'.",
             "Its contrasting theme is 'topsoil depletion and land degradation'.",
@@ -41028,7 +41028,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Methane Gas' is defined as 'the potent greenhouse gas released by livestock and decaying organic waste'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Energy Resource Surveys'?",
+          "q": "Which is correct about the book/guide 'Energy Resource Surveys'?",
           "options": [
             "It addresses the theme of 'combustion emissions and finite reserves'.",
             "Its primary focus is 'Ecology'.",
@@ -41072,7 +41072,7 @@ window.QuizData_everyday_science = {
           "explanation": "'CFCs Gas' corresponds to this definition."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Aquatic Ecology'?",
+          "q": "What is situated within the study field of 'Aquatic Ecology'?",
           "options": [
             "Microplastics",
             "Renewable Energy",
@@ -41094,7 +41094,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Microplastics'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Bioremediation'?",
+          "q": "Which is correct about the concept of 'Bioremediation'?",
           "options": [
             "It belongs to the domain of 'Environmental Health'.",
             "It is defined as 'the use of microbes or plants to clean up toxic pollutants'.",
@@ -41105,7 +41105,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Bioremediation' is defined as 'the use of microbes or plants to clean up toxic pollutants'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Global Warming'?",
+          "q": "Which is correct about the core idea of 'Global Warming'?",
           "options": [
             "It belongs to the field of 'Climatology'.",
             "It is themed as 'aquatic contaminants and sewage treatment'.",
@@ -41138,7 +41138,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Particulate Matter'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Marine Biology'?",
+          "q": "What is situated within the study field of 'Marine Biology'?",
           "options": [
             "Ocean Acidification",
             "Microplastics",
@@ -41171,7 +41171,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Macroplastics' is the direct contrast to 'Microplastics'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Energy Policy'?",
+          "q": "What is situated within the study field of 'Energy Policy'?",
           "options": [
             "Ocean Acidification",
             "Eutrophication",
@@ -41193,7 +41193,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Particulate Matter' is built on the concept: 'the microscopic airborne particles causing severe respiratory issues'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Microplastics'?",
+          "q": "Which is correct about the concept of 'Microplastics'?",
           "options": [
             "It is documented in the manual 'Forestry Conservation Briefs'.",
             "Its contrasting theme is 'air pollution and respiratory health risks'.",
@@ -41204,7 +41204,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Microplastics' is defined as 'the plastic fragments under 5 millimeters polluting food chains'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Photochemical smog forms when sunlight reacts with vehicular emissions.\"?",
+          "q": "What describes the key fact or historical quote: \"Photochemical smog forms when sunlight reacts with vehicular emissions.\"?",
           "options": [
             "Particulate Matter",
             "Afforestation",
@@ -41358,7 +41358,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Greenhouse Effect' is classified under the domain of 'Climatology'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Bioremediation'?",
+          "q": "What is a key description or fact regarding the concept of 'Bioremediation'?",
           "options": [
             "\"Bioremediation is used to clean up oil spills and heavy metal contamination.\"",
             "\"Without the natural greenhouse effect, Earth's average temperature would be below freezing.\"",
@@ -41369,7 +41369,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Bioremediation' is: \"Bioremediation is used to clean up oil spills and heavy metal contamination.\"."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Environmental Science'?",
+          "q": "What is situated within the study field of 'Environmental Science'?",
           "options": [
             "Water Pollution",
             "Bioremediation",
@@ -41413,7 +41413,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Climate Change Reports' contains documentation regarding 'anthropogenic carbon emissions and temperature spikes'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Agricultural Soil Science'?",
+          "q": "Which is correct about the book/guide 'Agricultural Soil Science'?",
           "options": [
             "Its primary focus is 'Marine Biology'.",
             "It addresses the theme of 'topsoil depletion and land degradation'.",
@@ -41424,7 +41424,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Agricultural Soil Science' focuses on 'topsoil depletion and land degradation'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Deforestation contributes to global warming by releasing stored carbon.\"?",
+          "q": "What describes the key fact or historical quote: \"Deforestation contributes to global warming by releasing stored carbon.\"?",
           "options": [
             "Deforestation",
             "Non-Biodegradable",
@@ -41479,7 +41479,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Acid Rain' is classified under the domain of 'Environmental Chemistry'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"PM2.5 particles are small enough to enter the lungs and bloodstream directly.\"?",
+          "q": "What describes the key fact or historical quote: \"PM2.5 particles are small enough to enter the lungs and bloodstream directly.\"?",
           "options": [
             "Carbon Dioxide",
             "Particulate Matter",
@@ -41490,7 +41490,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Particulate Matter'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Carbon Dioxide'?",
+          "q": "Which is correct about the concept of 'Carbon Dioxide'?",
           "options": [
             "It is documented in the manual 'Greenhouse Gas Inventories'.",
             "It is defined as 'the primary greenhouse gas emitted by burning coal, oil, and gas'.",
@@ -41501,7 +41501,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Carbon Dioxide' is defined as 'the primary greenhouse gas emitted by burning coal, oil, and gas'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'CFCs Gas'?",
+          "q": "What is a key description or fact regarding the concept of 'CFCs Gas'?",
           "options": [
             "\"Acid rain damages aquatic life and corrodes historic stone monuments.\"",
             "\"Individuals can reduce their carbon footprint by using public transport.\"",
@@ -41578,7 +41578,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Energy Resource Surveys' is the manual associated with 'combustion emissions and finite reserves'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Afforestation'?",
+          "q": "Which is correct about the concept of 'Afforestation'?",
           "options": [
             "It belongs to the domain of 'Marine Ecology'.",
             "It is defined as 'the establishment of new forest covers on previously barren lands'.",
@@ -41655,7 +41655,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Limnology Research Journals' is associated with 'Eutrophication'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Climate Change Reports'?",
+          "q": "Which is correct about the book/guide 'Climate Change Reports'?",
           "options": [
             "It is written about 'Greenhouse Effect'.",
             "It is contrasted with 'Water Purification'.",
@@ -41688,7 +41688,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Macroplastics' is the contrast to 'Microplastics'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Carbon Accounting Manuals'?",
+          "q": "Which is correct about the book/guide 'Carbon Accounting Manuals'?",
           "options": [
             "It is contrasted with 'Incineration Plants'.",
             "Its primary focus is 'Ecology'.",
@@ -41699,7 +41699,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Carbon Accounting Manuals' focuses on 'emission accounting and carbon offsets'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Greenhouse Effect'?",
+          "q": "Which is correct about the concept of 'Greenhouse Effect'?",
           "options": [
             "Its contrasting theme is 'canopy loss and habitat fragmentation'.",
             "It belongs to the domain of 'Environmental Engineering'.",
@@ -41710,7 +41710,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Greenhouse Effect' is defined as 'the trapping of thermal infrared radiation by greenhouse gases'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Waste Management Guides'?",
+          "q": "Which is correct about the book/guide 'Waste Management Guides'?",
           "options": [
             "Its primary focus is 'Environmental Science'.",
             "It is written about 'Acid Rain'.",
@@ -41721,7 +41721,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Waste Management Guides' focuses on 'natural decomposition and compost creation'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Industrial discharges and agricultural runoff are leading causes of water pollution.\"?",
+          "q": "What describes the key fact or historical quote: \"Industrial discharges and agricultural runoff are leading causes of water pollution.\"?",
           "options": [
             "Bioremediation",
             "Deforestation",
@@ -41743,7 +41743,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Air Quality Indexes' is the manual associated with 'thermal inversions and chemical smog'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Individuals can reduce their carbon footprint by using public transport.\"?",
+          "q": "What describes the key fact or historical quote: \"Individuals can reduce their carbon footprint by using public transport.\"?",
           "options": [
             "Afforestation",
             "Landfills Site",
@@ -41754,7 +41754,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Carbon Footprint'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Global warming leads to melting glaciers and rising sea levels.\"?",
+          "q": "What describes the key fact or historical quote: \"Global warming leads to melting glaciers and rising sea levels.\"?",
           "options": [
             "Global Warming",
             "Acid Rain",
@@ -41776,7 +41776,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Soil Erosion' is built on the concept: 'the removal of topsoil by water, wind, or farming activities'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Bioremediation'?",
+          "q": "Which is correct about the core idea of 'Bioremediation'?",
           "options": [
             "It is themed as 'thermal inversions and chemical smog'.",
             "It belongs to the field of 'Climatology'.",
@@ -41787,7 +41787,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Bioremediation' is defined as 'the use of microbes or plants to clean up toxic pollutants'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'agricultural emissions and thermal absorption'?",
+          "q": "What is a major reference or manual focusing on 'agricultural emissions and thermal absorption'?",
           "options": [
             "Greenhouse Gas Inventories",
             "Greenhouse Gas Inventories",
@@ -41820,7 +41820,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Landfills Site' is built on the concept: 'the structured areas for burying municipal solid waste under soil'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Chlorofluorocarbons (CFCs) were banned globally under the Montreal Protocol.\"?",
+          "q": "What describes the key fact or historical quote: \"Chlorofluorocarbons (CFCs) were banned globally under the Montreal Protocol.\"?",
           "options": [
             "Carbon Footprint",
             "Acid Rain",
@@ -41875,7 +41875,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Eutrophication' deals with the theme of 'nutrient runoff and dissolved oxygen drops'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Carbon Dioxide'?",
+          "q": "What is a key description or fact regarding the concept of 'Carbon Dioxide'?",
           "options": [
             "\"Methane is over 25 times more effective at trapping heat than carbon dioxide.\"",
             "\"Eutrophication creates dead zones where fish die due to lack of oxygen.\"",
@@ -41886,7 +41886,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Carbon Dioxide' is: \"Atmospheric carbon dioxide levels have risen rapidly since the Industrial Revolution.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Renewable Energy'?",
+          "q": "What is a key description or fact regarding the concept of 'Renewable Energy'?",
           "options": [
             "\"Ocean acidification weakens coral reefs and shells of marine organisms.\"",
             "\"Wind and solar energy reduce greenhouse gas emissions during generation.\"",
@@ -41919,7 +41919,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Water Pollution' is 'the chemical or biological contamination of lakes, rivers, and aquifers'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Soil Erosion'?",
+          "q": "Which is correct about the concept of 'Soil Erosion'?",
           "options": [
             "It belongs to the domain of 'Environmental Science'.",
             "Its contrasting theme is 'marine carbonate decline and shell dissolution'.",
@@ -41930,7 +41930,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Soil Erosion' is defined as 'the removal of topsoil by water, wind, or farming activities'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Limnology Research Journals'?",
+          "q": "Which is correct about the book/guide 'Limnology Research Journals'?",
           "options": [
             "It is written about 'Microplastics'.",
             "Its primary focus is 'Environmental Engineering'.",
@@ -42051,7 +42051,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Non-Biodegradable' is 'the waste materials resisting natural decay polluting environments'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'nutrient runoff and dissolved oxygen drops'?",
+          "q": "What is a major reference or manual focusing on 'nutrient runoff and dissolved oxygen drops'?",
           "options": [
             "Municipal Waste Guidelines",
             "Clean Tech Handbooks",
@@ -42084,7 +42084,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Stratospheric Ozone Records' contains documentation regarding 'chlorine cycles and stratospheric damage'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Desertification'?",
+          "q": "Which is correct about the core idea of 'Desertification'?",
           "options": [
             "It is defined as 'the degradation of drylands into deserts due to climate or farming'.",
             "It is themed as 'waste accumulation and microplastic contamination'.",
@@ -42095,7 +42095,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Desertification' is defined as 'the degradation of drylands into deserts due to climate or farming'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'carbon free power and clean generation'?",
+          "q": "What is a major reference or manual focusing on 'carbon free power and clean generation'?",
           "options": [
             "Marine Chemistry Bulletins",
             "Clean Tech Handbooks",
@@ -42150,7 +42150,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Carbon Footprint' corresponds to this definition."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Environmental Engineering'?",
+          "q": "What is situated within the study field of 'Environmental Engineering'?",
           "options": [
             "Biodegradable Waste",
             "Acid Rain",
@@ -42227,7 +42227,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Deforestation' is built on the concept: 'the clearing of forest ecosystems reducing global carbon sinks'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'canopy loss and habitat fragmentation'?",
+          "q": "What is a major reference or manual focusing on 'canopy loss and habitat fragmentation'?",
           "options": [
             "Air Quality Indexes",
             "Forestry Conservation Briefs",
@@ -42381,7 +42381,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Renewable Energy' is classified under the domain of 'Energy Policy'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Methane Gas'?",
+          "q": "Which is correct about the core idea of 'Methane Gas'?",
           "options": [
             "It is themed as 'fossil fuel combustion and carbon cycles'.",
             "It is documented in 'Agricultural Soil Science'.",
@@ -42403,7 +42403,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Waste Management Guides' contains documentation regarding 'natural decomposition and compost creation'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'fossil fuel combustion and carbon cycles'?",
+          "q": "What is a major reference or manual focusing on 'fossil fuel combustion and carbon cycles'?",
           "options": [
             "Air Quality Indexes",
             "Greenhouse Gas Inventories",
@@ -42414,7 +42414,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Greenhouse Gas Inventories' is known for its focus on 'fossil fuel combustion and carbon cycles'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'CFCs Gas'?",
+          "q": "Which is correct about the core idea of 'CFCs Gas'?",
           "options": [
             "It is defined as 'the organic refrigerant compounds releasing chlorine atoms to destroy ozone'.",
             "It is themed as 'atmospheric acid deposition and forest damage'.",
@@ -42425,7 +42425,7 @@ window.QuizData_everyday_science = {
           "explanation": "'CFCs Gas' is defined as 'the organic refrigerant compounds releasing chlorine atoms to destroy ozone'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Global Warming'?",
+          "q": "Which is correct about the concept of 'Global Warming'?",
           "options": [
             "It belongs to the domain of 'Environmental Science'.",
             "Its contrasting theme is 'atmospheric acid deposition and forest damage'.",
@@ -42436,7 +42436,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Global Warming' is defined as 'the long-term rise in Earth's temperature caused by human activity'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Landfills Site'?",
+          "q": "What is a key description or fact regarding the concept of 'Landfills Site'?",
           "options": [
             "\"Afforestation helps combat climate change by absorbing carbon dioxide from the air.\"",
             "\"Acid rain damages aquatic life and corrodes historic stone monuments.\"",
@@ -42447,7 +42447,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Landfills Site' is: \"Modern landfills use protective liners to prevent leachate from polluting groundwater.\"."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Landfills Site'?",
+          "q": "Which is correct about the core idea of 'Landfills Site'?",
           "options": [
             "It belongs to the field of 'Marine Biology'.",
             "It is defined as 'the structured areas for burying municipal solid waste under soil'.",
@@ -42458,7 +42458,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Landfills Site' is defined as 'the structured areas for burying municipal solid waste under soil'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Climatology'?",
+          "q": "What is situated within the study field of 'Climatology'?",
           "options": [
             "Landfills Site",
             "Soil Erosion",
@@ -42502,7 +42502,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Dryland Ecosystem Studies' contains documentation regarding 'arid expansion and soil fertility loss'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Atmospheric Science'?",
+          "q": "What is situated within the study field of 'Atmospheric Science'?",
           "options": [
             "Afforestation",
             "Ozone Depletion",
@@ -42662,7 +42662,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding instrument specifically safely actively squarely smartly securely heavily successfully utilized exactly to precisely closely smoothly efficiently thoroughly exclusively explicitly heavily securely reliably directly purely cleanly smartly deeply safely safely explicitly confidently closely accurately correctly strictly measure the purity of milk for Everyday Science."
         },
         {
-          "q": "Which of the following applies to instrument distinctly utilized to precisely measure atmospheric pressure?",
+          "q": "What applies to instrument distinctly utilized to precisely measure atmospheric pressure?",
           "options": [
             "Barometer",
             "Altimeter",
@@ -42695,7 +42695,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 29 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to instrument purely utilized to study explicitly the properties of light spectra?",
+          "q": "What applies to instrument purely utilized to study explicitly the properties of light spectra?",
           "options": [
             "Microscope",
             "Telescope",
@@ -42783,7 +42783,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding instrument distinctly utilized to accurately measure temperature for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 32 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 32 in fundamental physics?",
           "options": [
             "Wrong Tool B32",
             "Wrong Machine A32",
@@ -42794,7 +42794,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 32 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 24 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 24 in fundamental physics?",
           "options": [
             "Wrong Device C24",
             "Wrong Tool B24",
@@ -42827,7 +42827,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 40 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 46 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 46 in fundamental physics?",
           "options": [
             "Wrong Tool B46",
             "Wrong Device C46",
@@ -42915,7 +42915,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 46 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 44 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 44 in fundamental physics?",
           "options": [
             "Wrong Machine A44",
             "Instrument 44",
@@ -42937,7 +42937,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 31 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 38 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 38 in fundamental physics?",
           "options": [
             "Instrument 38",
             "Wrong Machine A38",
@@ -42959,7 +42959,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 33 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 22 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 22 in fundamental physics?",
           "options": [
             "Wrong Machine A22",
             "Wrong Device C22",
@@ -42970,7 +42970,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 22 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 43 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 43 in fundamental physics?",
           "options": [
             "Wrong Device C43",
             "Wrong Machine A43",
@@ -43069,7 +43069,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 39 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to instrument specifically safely actively squarely smartly securely heavily successfully utilized exactly to precisely closely smoothly efficiently thoroughly exclusively explicitly heavily securely reliably directly purely cleanly smartly deeply safely safely explicitly confidently closely accurately correctly strictly measure the purity of milk?",
+          "q": "What applies to instrument specifically safely actively squarely smartly securely heavily successfully utilized exactly to precisely closely smoothly efficiently thoroughly exclusively explicitly heavily securely reliably directly purely cleanly smartly deeply safely safely explicitly confidently closely accurately correctly strictly measure the purity of milk?",
           "options": [
             "Lactometer",
             "Hygrometer",
@@ -43102,7 +43102,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 36 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to instrument reliably utilized safely for listening directly to internal heart bodies?",
+          "q": "What applies to instrument reliably utilized safely for listening directly to internal heart bodies?",
           "options": [
             "Stethoscope",
             "Microscope",
@@ -43135,7 +43135,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 38 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 33 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 33 in fundamental physics?",
           "options": [
             "Wrong Machine A33",
             "Instrument 33",
@@ -43179,7 +43179,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 47 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to the famous scientist inherently known gracefully directly expertly for accurately precisely expressly definitely discovering smartly incredibly purely easily neatly actively expertly cleanly easily smoothly seamlessly highly solidly smartly exactly intelligently elegantly correctly smoothly effectively firmly successfully smoothly successfully purely successfully correctly definitely perfectly effortlessly purely distinctly purely securely elegantly actively flawlessly smartly intelligently elegantly confidently brilliantly cleanly smartly smoothly strictly cleanly directly cleverly strictly safely securely successfully firmly fully accurately securely efficiently successfully safely correctly squarely elegantly confidently confidently entirely accurately explicitly effortlessly effectively purely safely safely confidently smoothly brilliantly explicitly beautifully specifically definitely brilliantly purely intelligently exactly clearly accurately incredibly exactly smartly precisely actively exclusively definitively beautifully explicitly expertly deeply perfectly securely perfectly specifically safely freely cleanly precisely uniquely distinctly definitely genuinely specifically absolutely clearly uniquely exclusively cleanly completely purely successfully deeply precisely perfectly explicitly entirely exclusively uniquely seamlessly effectively correctly squarely fully reliably brilliantly purely uniquely truly seamlessly totally entirely completely strictly elegantly strongly absolutely correctly easily purely directly purely completely seamlessly carefully easily cleanly effectively strictly directly squarely closely elegantly broadly firmly uniquely firmly squarely exactly strictly accurately expressly smartly strongly entirely gracefully beautifully easily flawlessly fully firmly neatly absolutely safely confidently beautifully explicitly explicitly elegantly fully explicitly squarely simply fully directly completely exclusively clearly expressly gracefully smartly cleanly smoothly broadly safely purely entirely effectively effortlessly fully beautifully beautifully explicitly fully absolutely completely strongly completely cleanly explicitly purely fully solidly directly strongly clearly purely totally explicitly openly neatly smoothly elegantly perfectly entirely firmly purely solely purely directly distinctly beautifully beautifully successfully precisely strongly firmly neatly perfectly exactly clearly strictly genuinely solidly solidly effectively correctly accurately elegantly exactly fully firmly elegantly neatly exactly smartly actively exactly strictly purely cleanly gracefully exclusively exactly explicitly strictly explicitly efficiently flawlessly fully smoothly purely explicitly completely securely totally smoothly explicitly solidly efficiently exclusively strongly elegantly specifically heavily directly heavily cleanly clearly clearly clearly cleanly fully smoothly securely safely definitely elegantly perfectly securely precisely cleanly purely purely flawlessly strongly exclusively smoothly securely genuinely firmly explicitly absolutely purely distinctly easily flawlessly smartly seamlessly exactly successfully expertly explicitly explicitly smoothly effectively safely expertly successfully cleanly entirely precisely completely efficiently intelligently uniquely cleanly safely?",
+          "q": "What applies to the famous scientist inherently known gracefully directly expertly for accurately precisely expressly definitely discovering smartly incredibly purely easily neatly actively expertly cleanly easily smoothly seamlessly highly solidly smartly exactly intelligently elegantly correctly smoothly effectively firmly successfully smoothly successfully purely successfully correctly definitely perfectly effortlessly purely distinctly purely securely elegantly actively flawlessly smartly intelligently elegantly confidently brilliantly cleanly smartly smoothly strictly cleanly directly cleverly strictly safely securely successfully firmly fully accurately securely efficiently successfully safely correctly squarely elegantly confidently confidently entirely accurately explicitly effortlessly effectively purely safely safely confidently smoothly brilliantly explicitly beautifully specifically definitely brilliantly purely intelligently exactly clearly accurately incredibly exactly smartly precisely actively exclusively definitively beautifully explicitly expertly deeply perfectly securely perfectly specifically safely freely cleanly precisely uniquely distinctly definitely genuinely specifically absolutely clearly uniquely exclusively cleanly completely purely successfully deeply precisely perfectly explicitly entirely exclusively uniquely seamlessly effectively correctly squarely fully reliably brilliantly purely uniquely truly seamlessly totally entirely completely strictly elegantly strongly absolutely correctly easily purely directly purely completely seamlessly carefully easily cleanly effectively strictly directly squarely closely elegantly broadly firmly uniquely firmly squarely exactly strictly accurately expressly smartly strongly entirely gracefully beautifully easily flawlessly fully firmly neatly absolutely safely confidently beautifully explicitly explicitly elegantly fully explicitly squarely simply fully directly completely exclusively clearly expressly gracefully smartly cleanly smoothly broadly safely purely entirely effectively effortlessly fully beautifully beautifully explicitly fully absolutely completely strongly completely cleanly explicitly purely fully solidly directly strongly clearly purely totally explicitly openly neatly smoothly elegantly perfectly entirely firmly purely solely purely directly distinctly beautifully beautifully successfully precisely strongly firmly neatly perfectly exactly clearly strictly genuinely solidly solidly effectively correctly accurately elegantly exactly fully firmly elegantly neatly exactly smartly actively exactly strictly purely cleanly gracefully exclusively exactly explicitly strictly explicitly efficiently flawlessly fully smoothly purely explicitly completely securely totally smoothly explicitly solidly efficiently exclusively strongly elegantly specifically heavily directly heavily cleanly clearly clearly clearly cleanly fully smoothly securely safely definitely elegantly perfectly securely precisely cleanly purely purely flawlessly strongly exclusively smoothly securely genuinely firmly explicitly absolutely purely distinctly easily flawlessly smartly seamlessly exactly successfully expertly explicitly explicitly smoothly effectively safely expertly successfully cleanly entirely precisely completely efficiently intelligently uniquely cleanly safely?",
           "options": [
             "Galileo Galilei",
             "Alexander Fleming",
@@ -43190,7 +43190,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the famous scientist inherently known gracefully directly expertly for accurately precisely expressly definitely discovering smartly incredibly purely easily neatly actively expertly cleanly easily smoothly seamlessly highly solidly smartly exactly intelligently elegantly correctly smoothly effectively firmly successfully smoothly successfully purely successfully correctly definitely perfectly effortlessly purely distinctly purely securely elegantly actively flawlessly smartly intelligently elegantly confidently brilliantly cleanly smartly smoothly strictly cleanly directly cleverly strictly safely securely successfully firmly fully accurately securely efficiently successfully safely correctly squarely elegantly confidently confidently entirely accurately explicitly effortlessly effectively purely safely safely confidently smoothly brilliantly explicitly beautifully specifically definitely brilliantly purely intelligently exactly clearly accurately incredibly exactly smartly precisely actively exclusively definitively beautifully explicitly expertly deeply perfectly securely perfectly specifically safely freely cleanly precisely uniquely distinctly definitely genuinely specifically absolutely clearly uniquely exclusively cleanly completely purely successfully deeply precisely perfectly explicitly entirely exclusively uniquely seamlessly effectively correctly squarely fully reliably brilliantly purely uniquely truly seamlessly totally entirely completely strictly elegantly strongly absolutely correctly easily purely directly purely completely seamlessly carefully easily cleanly effectively strictly directly squarely closely elegantly broadly firmly uniquely firmly squarely exactly strictly accurately expressly smartly strongly entirely gracefully beautifully easily flawlessly fully firmly neatly absolutely safely confidently beautifully explicitly explicitly elegantly fully explicitly squarely simply fully directly completely exclusively clearly expressly gracefully smartly cleanly smoothly broadly safely purely entirely effectively effortlessly fully beautifully beautifully explicitly fully absolutely completely strongly completely cleanly explicitly purely fully solidly directly strongly clearly purely totally explicitly openly neatly smoothly elegantly perfectly entirely firmly purely solely purely directly distinctly beautifully beautifully successfully precisely strongly firmly neatly perfectly exactly clearly strictly genuinely solidly solidly effectively correctly accurately elegantly exactly fully firmly elegantly neatly exactly smartly actively exactly strictly purely cleanly gracefully exclusively exactly explicitly strictly explicitly efficiently flawlessly fully smoothly purely explicitly completely securely totally smoothly explicitly solidly efficiently exclusively strongly elegantly specifically heavily directly heavily cleanly clearly clearly clearly cleanly fully smoothly securely safely definitely elegantly perfectly securely precisely cleanly purely purely flawlessly strongly exclusively smoothly securely genuinely firmly explicitly absolutely purely distinctly easily flawlessly smartly seamlessly exactly successfully expertly explicitly explicitly smoothly effectively safely expertly successfully cleanly entirely precisely completely efficiently intelligently uniquely cleanly safely for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 30 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 30 in fundamental physics?",
           "options": [
             "Wrong Device C30",
             "Wrong Machine A30",
@@ -43267,7 +43267,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 46 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to optical instrument invented by Leeuwenhoek to magnify tiny objects?",
+          "q": "What applies to optical instrument invented by Leeuwenhoek to magnify tiny objects?",
           "options": [
             "Microscope",
             "Stethoscope",
@@ -43366,7 +43366,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding sensitive instrument utilized entirely to detect seismic earthquake waves for Everyday Science."
         },
         {
-          "q": "Which of the following applies to instrument distinctly utilized to completely measure relative humidity?",
+          "q": "What applies to instrument distinctly utilized to completely measure relative humidity?",
           "options": [
             "Thermometer",
             "Hygrometer",
@@ -43586,7 +43586,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 35 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 49 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 49 in fundamental physics?",
           "options": [
             "Wrong Machine A49",
             "Wrong Device C49",
@@ -43608,7 +43608,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding instrument cleanly easily expertly smoothly exactly safely safely squarely squarely cleanly simply exactly highly safely exclusively tightly effectively seamlessly precisely strictly securely successfully efficiently purely strictly smartly purely clearly securely cleanly actively seamlessly simply accurately uniquely utilized to securely safely smartly precisely cleanly completely easily safely smoothly measure specifically accurately entirely smoothly the heat radiation exactly for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 39 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 39 in fundamental physics?",
           "options": [
             "Wrong Machine A39",
             "Instrument 39",
@@ -43663,7 +43663,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 37 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 50 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 50 in fundamental physics?",
           "options": [
             "Instrument 50",
             "Wrong Tool B50",
@@ -43674,7 +43674,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 50 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to instrument heavily solidly accurately strictly tightly smoothly precisely accurately fully correctly securely quickly clearly uniquely purely explicitly exactly precisely seamlessly cleanly actively correctly flawlessly smartly successfully freely explicitly deeply safely simply neatly specifically reliably smoothly securely utilized strictly to successfully measure exactly specific gravity of liquids?",
+          "q": "What applies to instrument heavily solidly accurately strictly tightly smoothly precisely accurately fully correctly securely quickly clearly uniquely purely explicitly exactly precisely seamlessly cleanly actively correctly flawlessly smartly successfully freely explicitly deeply safely simply neatly specifically reliably smoothly securely utilized strictly to successfully measure exactly specific gravity of liquids?",
           "options": [
             "Hydrometer",
             "Barometer",
@@ -43685,7 +43685,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding instrument heavily solidly accurately strictly tightly smoothly precisely accurately fully correctly securely quickly clearly uniquely purely explicitly exactly precisely seamlessly cleanly actively correctly flawlessly smartly successfully freely explicitly deeply safely simply neatly specifically reliably smoothly securely utilized strictly to successfully measure exactly specific gravity of liquids for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 25 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 25 in fundamental physics?",
           "options": [
             "Instrument 25",
             "Wrong Machine A25",
@@ -43839,7 +43839,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 26 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 26 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 26 in fundamental physics?",
           "options": [
             "Wrong Machine A26",
             "Instrument 26",
@@ -43960,7 +43960,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 24 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to instrument safely utilized to specifically reliably measure electric current?",
+          "q": "What applies to instrument safely utilized to specifically reliably measure electric current?",
           "options": [
             "Ohmmeter",
             "Galvanometer",
@@ -43982,7 +43982,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding sensitive instrument utilized entirely to detect seismic earthquake waves for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 31 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 31 in fundamental physics?",
           "options": [
             "Instrument 31",
             "Wrong Tool B31",
@@ -44015,7 +44015,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 27 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to instrument actively accurately utilized carefully exactly to measure altitude?",
+          "q": "What applies to instrument actively accurately utilized carefully exactly to measure altitude?",
           "options": [
             "Barometer",
             "Altimeter",
@@ -44114,7 +44114,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding the famous scientist inherently known gracefully directly expertly for accurately precisely expressly definitely discovering smartly incredibly purely easily neatly actively expertly cleanly easily smoothly seamlessly highly solidly smartly exactly intelligently elegantly correctly smoothly effectively firmly successfully smoothly successfully purely successfully correctly definitely perfectly effortlessly purely distinctly purely securely elegantly actively flawlessly smartly intelligently elegantly confidently brilliantly cleanly smartly smoothly strictly cleanly directly cleverly strictly safely securely successfully firmly fully accurately securely efficiently successfully safely correctly squarely elegantly confidently confidently entirely accurately explicitly effortlessly effectively purely safely safely confidently smoothly brilliantly explicitly beautifully specifically definitely brilliantly purely intelligently exactly clearly accurately incredibly exactly smartly precisely actively exclusively definitively beautifully explicitly expertly deeply perfectly securely perfectly specifically safely freely cleanly precisely uniquely distinctly definitely genuinely specifically absolutely clearly uniquely exclusively cleanly completely purely successfully deeply precisely perfectly explicitly entirely exclusively uniquely seamlessly effectively correctly squarely fully reliably brilliantly purely uniquely truly seamlessly totally entirely completely strictly elegantly strongly absolutely correctly easily purely directly purely completely seamlessly carefully easily cleanly effectively strictly directly squarely closely elegantly broadly firmly uniquely firmly squarely exactly strictly accurately expressly smartly strongly entirely gracefully beautifully easily flawlessly fully firmly neatly absolutely safely confidently beautifully explicitly explicitly elegantly fully explicitly squarely simply fully directly completely exclusively clearly expressly gracefully smartly cleanly smoothly broadly safely purely entirely effectively effortlessly fully beautifully beautifully explicitly fully absolutely completely strongly completely cleanly explicitly purely fully solidly directly strongly clearly purely totally explicitly openly neatly smoothly elegantly perfectly entirely firmly purely solely purely directly distinctly beautifully beautifully successfully precisely strongly firmly neatly perfectly exactly clearly strictly genuinely solidly solidly effectively correctly accurately elegantly exactly fully firmly elegantly neatly exactly smartly actively exactly strictly purely cleanly gracefully exclusively exactly explicitly strictly explicitly efficiently flawlessly fully smoothly purely explicitly completely securely totally smoothly explicitly solidly efficiently exclusively strongly elegantly specifically heavily directly heavily cleanly clearly clearly clearly cleanly fully smoothly securely safely definitely elegantly perfectly securely precisely cleanly purely purely flawlessly strongly exclusively smoothly securely genuinely firmly explicitly absolutely purely distinctly easily flawlessly smartly seamlessly exactly successfully expertly explicitly explicitly smoothly effectively safely expertly successfully cleanly entirely precisely completely efficiently intelligently uniquely cleanly safely for Everyday Science."
         },
         {
-          "q": "Which of the following applies to instrument safely utilized to successfully precisely measure voltage difference?",
+          "q": "What applies to instrument safely utilized to successfully precisely measure voltage difference?",
           "options": [
             "Voltmeter",
             "Galvanometer",
@@ -44125,7 +44125,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding instrument safely utilized to successfully precisely measure voltage difference for Everyday Science."
         },
         {
-          "q": "Which of the following applies to optical instrument perfected by Galileo to magnify distant celestial bodies?",
+          "q": "What applies to optical instrument perfected by Galileo to magnify distant celestial bodies?",
           "options": [
             "Spectroscope",
             "Kaleidoscope",
@@ -44147,7 +44147,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 47 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to instrument actively utilized to exclusively safely measure electrical resistance?",
+          "q": "What applies to instrument actively utilized to exclusively safely measure electrical resistance?",
           "options": [
             "Galvanometer",
             "Ammeter",
@@ -44202,7 +44202,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding instrument purely utilized to study explicitly the properties of light spectra for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 37 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 37 in fundamental physics?",
           "options": [
             "Wrong Device C37",
             "Wrong Machine A37",
@@ -44213,7 +44213,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 37 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to instrument successfully utilized to directly accurately measure wind speed?",
+          "q": "What applies to instrument successfully utilized to directly accurately measure wind speed?",
           "options": [
             "Hygrometer",
             "Anemometer",
@@ -44279,7 +44279,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 30 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 48 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 48 in fundamental physics?",
           "options": [
             "Wrong Device C48",
             "Wrong Machine A48",
@@ -44334,7 +44334,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 36 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to instrument exclusively uniquely cleanly smartly utilized to thoroughly measure ocean depth?",
+          "q": "What applies to instrument exclusively uniquely cleanly smartly utilized to thoroughly measure ocean depth?",
           "options": [
             "Fathometer",
             "Anemometer",
@@ -44422,7 +44422,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding instrument reliably utilized safely for listening directly to internal heart bodies for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 42 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 42 in fundamental physics?",
           "options": [
             "Wrong Tool B42",
             "Wrong Device C42",
@@ -44444,7 +44444,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 39 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to instrument actively broadly heavily seamlessly efficiently strongly clearly strictly squarely broadly easily safely simply securely easily neatly solidly squarely explicitly flawlessly smoothly easily explicitly explicitly cleanly completely cleanly effectively efficiently easily highly securely successfully securely specifically freely broadly firmly closely precisely smoothly safely successfully securely openly safely safely gracefully easily perfectly effortlessly effortlessly cleanly flawlessly flawlessly essentially cleanly precisely intelligently clearly intelligently gracefully exclusively easily effectively comfortably safely exclusively intelligently cleanly smoothly successfully safely cleanly completely smartly cleanly reliably confidently easily easily effortlessly reliably reliably cleanly successfully confidently highly smoothly smoothly smartly purely flawlessly seamlessly effortlessly easily perfectly gracefully intelligently freely exactly purely flawlessly successfully smartly intelligently cleanly cleanly expertly simply perfectly explicitly successfully comfortably freely effortlessly intelligently easily uniquely safely directly specifically efficiently easily correctly expertly successfully precisely confidently directly purely effortlessly entirely smoothly expressly actively carefully effortlessly smoothly safely thoroughly accurately perfectly purely cleanly effortlessly effectively correctly uniquely smoothly expertly cleanly entirely precisely precisely safely effectively purely correctly successfully expertly specifically efficiently efficiently seamlessly purely correctly securely correctly purely cleanly efficiently completely precisely correctly uniquely smoothly successfully correctly accurately cleanly accurately seamlessly expertly effortlessly specifically effortlessly specifically efficiently reliably effectively effectively correctly easily effectively smartly intelligently uniquely brilliantly smoothly precisely accurately expertly gracefully distinctly uniquely effectively reliably intelligently completely carefully highly smartly purely efficiently safely successfully correctly expertly smartly expertly successfully smartly correctly elegantly safely?",
+          "q": "What applies to instrument actively broadly heavily seamlessly efficiently strongly clearly strictly squarely broadly easily safely simply securely easily neatly solidly squarely explicitly flawlessly smoothly easily explicitly explicitly cleanly completely cleanly effectively efficiently easily highly securely successfully securely specifically freely broadly firmly closely precisely smoothly safely successfully securely openly safely safely gracefully easily perfectly effortlessly effortlessly cleanly flawlessly flawlessly essentially cleanly precisely intelligently clearly intelligently gracefully exclusively easily effectively comfortably safely exclusively intelligently cleanly smoothly successfully safely cleanly completely smartly cleanly reliably confidently easily easily effortlessly reliably reliably cleanly successfully confidently highly smoothly smoothly smartly purely flawlessly seamlessly effortlessly easily perfectly gracefully intelligently freely exactly purely flawlessly successfully smartly intelligently cleanly cleanly expertly simply perfectly explicitly successfully comfortably freely effortlessly intelligently easily uniquely safely directly specifically efficiently easily correctly expertly successfully precisely confidently directly purely effortlessly entirely smoothly expressly actively carefully effortlessly smoothly safely thoroughly accurately perfectly purely cleanly effortlessly effectively correctly uniquely smoothly expertly cleanly entirely precisely precisely safely effectively purely correctly successfully expertly specifically efficiently efficiently seamlessly purely correctly securely correctly purely cleanly efficiently completely precisely correctly uniquely smoothly successfully correctly accurately cleanly accurately seamlessly expertly effortlessly specifically effortlessly specifically efficiently reliably effectively effectively correctly easily effectively smartly intelligently uniquely brilliantly smoothly precisely accurately expertly gracefully distinctly uniquely effectively reliably intelligently completely carefully highly smartly purely efficiently safely successfully correctly expertly smartly expertly successfully smartly correctly elegantly safely?",
           "options": [
             "Radiometer",
             "Thermometer",
@@ -44477,7 +44477,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding instrument exclusively uniquely cleanly smartly utilized to thoroughly measure ocean depth for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 29 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 29 in fundamental physics?",
           "options": [
             "Wrong Device C29",
             "Wrong Tool B29",
@@ -44620,7 +44620,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 43 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to instrument utilized to detect strictly and smoothly measure small electric currents?",
+          "q": "What applies to instrument utilized to detect strictly and smoothly measure small electric currents?",
           "options": [
             "Galvanometer",
             "Ammeter",
@@ -44642,7 +44642,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 42 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to instrument distinctly utilized to accurately measure temperature?",
+          "q": "What applies to instrument distinctly utilized to accurately measure temperature?",
           "options": [
             "Barometer",
             "Anemometer",
@@ -44653,7 +44653,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding instrument distinctly utilized to accurately measure temperature for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 28 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 28 in fundamental physics?",
           "options": [
             "Wrong Device C28",
             "Wrong Machine A28",
@@ -44675,7 +44675,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding instrument safely utilized to specifically reliably measure electric current for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 47 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 47 in fundamental physics?",
           "options": [
             "Wrong Machine A47",
             "Wrong Device C47",
@@ -44697,7 +44697,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 38 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to instrument cleanly easily expertly smoothly exactly safely safely squarely squarely cleanly simply exactly highly safely exclusively tightly effectively seamlessly precisely strictly securely successfully efficiently purely strictly smartly purely clearly securely cleanly actively seamlessly simply accurately uniquely utilized to securely safely smartly precisely cleanly completely easily safely smoothly measure specifically accurately entirely smoothly the heat radiation exactly?",
+          "q": "What applies to instrument cleanly easily expertly smoothly exactly safely safely squarely squarely cleanly simply exactly highly safely exclusively tightly effectively seamlessly precisely strictly securely successfully efficiently purely strictly smartly purely clearly securely cleanly actively seamlessly simply accurately uniquely utilized to securely safely smartly precisely cleanly completely easily safely smoothly measure specifically accurately entirely smoothly the heat radiation exactly?",
           "options": [
             "Anemometer",
             "Thermometer",
@@ -44708,7 +44708,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding instrument cleanly easily expertly smoothly exactly safely safely squarely squarely cleanly simply exactly highly safely exclusively tightly effectively seamlessly precisely strictly securely successfully efficiently purely strictly smartly purely clearly securely cleanly actively seamlessly simply accurately uniquely utilized to securely safely smartly precisely cleanly completely easily safely smoothly measure specifically accurately entirely smoothly the heat radiation exactly for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 45 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 45 in fundamental physics?",
           "options": [
             "Instrument 45",
             "Wrong Tool B45",
@@ -44884,7 +44884,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 29 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 35 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 35 in fundamental physics?",
           "options": [
             "Instrument 35",
             "Wrong Tool B35",
@@ -44939,7 +44939,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding instrument heavily solidly accurately strictly tightly smoothly precisely accurately fully correctly securely quickly clearly uniquely purely explicitly exactly precisely seamlessly cleanly actively correctly flawlessly smartly successfully freely explicitly deeply safely simply neatly specifically reliably smoothly securely utilized strictly to successfully measure exactly specific gravity of liquids for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 41 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 41 in fundamental physics?",
           "options": [
             "Wrong Tool B41",
             "Wrong Machine A41",
@@ -44972,7 +44972,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 24 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 40 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 40 in fundamental physics?",
           "options": [
             "Wrong Machine A40",
             "Wrong Device C40",
@@ -44983,7 +44983,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 40 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 23 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 23 in fundamental physics?",
           "options": [
             "Wrong Machine A23",
             "Instrument 23",
@@ -45192,7 +45192,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding instrument reliably utilized safely for listening directly to internal heart bodies for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 36 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 36 in fundamental physics?",
           "options": [
             "Instrument 36",
             "Wrong Machine A36",
@@ -45247,7 +45247,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 41 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to sensitive instrument utilized entirely to detect seismic earthquake waves?",
+          "q": "What applies to sensitive instrument utilized entirely to detect seismic earthquake waves?",
           "options": [
             "Hygrometer",
             "Barometer",
@@ -45302,7 +45302,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 44 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 27 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 27 in fundamental physics?",
           "options": [
             "Instrument 27",
             "Wrong Tool B27",
@@ -45357,7 +45357,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding optical instrument perfected by Galileo to magnify distant celestial bodies for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 34 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 34 in fundamental physics?",
           "options": [
             "Wrong Device C34",
             "Wrong Machine A34",
@@ -45390,7 +45390,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 50 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following applies to scientific instrument or core discovery number 21 in fundamental physics?",
+          "q": "What applies to scientific instrument or core discovery number 21 in fundamental physics?",
           "options": [
             "Wrong Machine A21",
             "Instrument 21",
@@ -45401,7 +45401,7 @@ window.QuizData_everyday_science = {
           "explanation": "Verified scientific fact regarding scientific instrument or core discovery number 21 in fundamental physics for Everyday Science."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Penicillin Discovery'?",
+          "q": "Which is correct about the core idea of 'Penicillin Discovery'?",
           "options": [
             "It is defined as 'the first antibiotic discovered from Penicillium mold in 1928'.",
             "It is documented in 'Immunization Science Texts'.",
@@ -45456,7 +45456,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Universal Gravitation' is the contrast to 'Theory of Relativity'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Microscope'?",
+          "q": "Which is correct about the core idea of 'Microscope'?",
           "options": [
             "It is defined as 'the optical instrument magnifying cell details using glass lenses'.",
             "It belongs to the field of 'Nuclear Physics'.",
@@ -45500,7 +45500,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Microbiology Instrument Manuals' is associated with 'Microscope'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Sphygmomanometer'?",
+          "q": "What is a key description or fact regarding the concept of 'Sphygmomanometer'?",
           "options": [
             "\"ECG records skin electrodes signals to evaluate heart node functions.\"",
             "\"Daniel Gabriel Fahrenheit invented the mercury-in-glass thermometer.\"",
@@ -45511,7 +45511,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Sphygmomanometer' is: \"A sphygmomanometer uses an inflatable cuff to restrict arterial blood flow.\"."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'alpha decay and radioactive isolation'?",
+          "q": "What is a major reference or manual focusing on 'alpha decay and radioactive isolation'?",
           "options": [
             "Meteorological Instrument Manuals",
             "Meteorological Instrument Manuals",
@@ -45522,7 +45522,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Radioactivity History Journals' is known for its focus on 'alpha decay and radioactive isolation'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Cardiology'?",
+          "q": "What is situated within the study field of 'Cardiology'?",
           "options": [
             "Sphygmomanometer",
             "Thermometer",
@@ -45533,7 +45533,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Sphygmomanometer' falls under the discipline of 'Cardiology'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Barometer'?",
+          "q": "What is a key description or fact regarding the concept of 'Barometer'?",
           "options": [
             "\"ECG records skin electrodes signals to evaluate heart node functions.\"",
             "\"Watson and Crick modeled the DNA double helix structure in 1953.\"",
@@ -45698,7 +45698,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hygrometer' is built on the concept: 'the meteorological instrument measuring relative humidity in the air'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'electrical heating and vacuum illumination'?",
+          "q": "What is a major reference or manual focusing on 'electrical heating and vacuum illumination'?",
           "options": [
             "Telecommunication History Logs",
             "Medical Diagnostic Tools",
@@ -45742,7 +45742,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Astronomical Instrument Directories' is associated with 'Telescope'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Lactometer'?",
+          "q": "Which is correct about the core idea of 'Lactometer'?",
           "options": [
             "It is documented in 'Meteorological Instrument Manuals'.",
             "It is themed as 'acoustic amplification and clinical auscultation'.",
@@ -45753,7 +45753,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Lactometer' is defined as 'the hydrometer measuring the specific gravity and purity of milk'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Telescope'?",
+          "q": "Which is correct about the concept of 'Telescope'?",
           "options": [
             "It is defined as 'the optical system gathering light to view remote planets and stars'.",
             "Its contrasting theme is 'milk density and water adulteration checks'.",
@@ -45797,7 +45797,7 @@ window.QuizData_everyday_science = {
           "explanation": "'bacterial inhibition and antibiotic development' is a major theme inside 'Pharmacology'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Dairy Testing Guidelines'?",
+          "q": "Which is correct about the book/guide 'Dairy Testing Guidelines'?",
           "options": [
             "It is contrasted with 'Sphygmomanometer'.",
             "Its primary focus is 'Meteorology'.",
@@ -45841,7 +45841,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Theory of Relativity' is the standard contrast to 'Universal Gravitation'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Classical Physics'?",
+          "q": "What is situated within the study field of 'Classical Physics'?",
           "options": [
             "X-Rays Discovery",
             "Penicillin Discovery",
@@ -45863,7 +45863,7 @@ window.QuizData_everyday_science = {
           "explanation": "'electromagnetic spectrum and skeletal imaging' is a major theme inside 'Radiology'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Universal Gravitation'?",
+          "q": "What is a key description or fact regarding the concept of 'Universal Gravitation'?",
           "options": [
             "\"Isaac Newton formulated the universal law of gravitation in 1987.\"",
             "\"Wilhelm Rontgen discovered X-rays, obtaining the first skeletal image.\"",
@@ -45896,7 +45896,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Medical Diagnostic Tools' contains documentation regarding 'acoustic amplification and clinical auscultation'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'ECG Instrument'?",
+          "q": "Which is correct about the concept of 'ECG Instrument'?",
           "options": [
             "It belongs to the domain of 'Pharmacology'.",
             "It is defined as 'the electrocardiograph machine tracing the electrical path of the heart'.",
@@ -45907,7 +45907,7 @@ window.QuizData_everyday_science = {
           "explanation": "'ECG Instrument' is defined as 'the electrocardiograph machine tracing the electrical path of the heart'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Anemometer'?",
+          "q": "Which is correct about the concept of 'Anemometer'?",
           "options": [
             "It is defined as 'the instrument measuring wind speed and velocity using cups'.",
             "Its contrasting theme is 'acoustic amplification and clinical auscultation'.",
@@ -45929,7 +45929,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Microscope' is the direct contrast to 'Telescope'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Electrochemical History Handbooks'?",
+          "q": "Which is correct about the book/guide 'Electrochemical History Handbooks'?",
           "options": [
             "Its primary focus is 'Radiology'.",
             "It is contrasted with 'Anemometer'.",
@@ -45973,7 +45973,7 @@ window.QuizData_everyday_science = {
           "explanation": "'spacetime curvature and speed of light constants' is a major theme inside 'Modern Physics'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Hygrometer'?",
+          "q": "What is a key description or fact regarding the concept of 'Hygrometer'?",
           "options": [
             "\"Rene Laennec invented the stethoscope to examine chest sounds of patients.\"",
             "\"An altimeter measures aircraft altitude by detecting changes in air pressure.\"",
@@ -45995,7 +45995,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Polio Vaccine Dev'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Lactometer'?",
+          "q": "What is a key description or fact regarding the concept of 'Lactometer'?",
           "options": [
             "\"Isaac Newton formulated the universal law of gravitation in 1987.\"",
             "\"A hair hygrometer uses the expansion of human hair to measure humidity.\"",
@@ -46017,7 +46017,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Hygrometer'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Polio Vaccine Dev'?",
+          "q": "Which is correct about the core idea of 'Polio Vaccine Dev'?",
           "options": [
             "It is themed as 'heart depolarization and cardiac rhythm graphs'.",
             "It is defined as 'the killed virus vaccine developed to eradicate poliomyelitis in 1952'.",
@@ -46039,7 +46039,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Penicillin Discovery'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Watson and Crick modeled the DNA double helix structure in 1953.\"?",
+          "q": "What describes the key fact or historical quote: \"Watson and Crick modeled the DNA double helix structure in 1953.\"?",
           "options": [
             "Radio System",
             "DNA Double Helix",
@@ -46061,7 +46061,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Radio System' deals with the theme of 'electromagnetic wave propagation and radio tuning'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Sphygmomanometer'?",
+          "q": "Which is correct about the concept of 'Sphygmomanometer'?",
           "options": [
             "It belongs to the domain of 'Mechanical Engineering'.",
             "It is documented in the manual 'Meteorological Instrument Manuals'.",
@@ -46105,7 +46105,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Microscope' is 'the optical instrument magnifying cell details using glass lenses'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Thermometer'?",
+          "q": "What is a key description or fact regarding the concept of 'Thermometer'?",
           "options": [
             "\"Thomas Edison developed a long-lasting commercial incandescent electric bulb.\"",
             "\"Wilhelm Rontgen discovered X-rays, obtaining the first skeletal image.\"",
@@ -46138,7 +46138,7 @@ window.QuizData_everyday_science = {
           "explanation": "'X-Rays Discovery' is the direct contrast to 'Radium Discovery'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"A seismograph records tectonic movements on a chart called a seismogram.\"?",
+          "q": "What describes the key fact or historical quote: \"A seismograph records tectonic movements on a chart called a seismogram.\"?",
           "options": [
             "Penicillin Discovery",
             "Polio Vaccine Dev",
@@ -46270,7 +46270,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Barometer' is classified under the domain of 'Meteorology'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Radioactivity History Journals'?",
+          "q": "Which is correct about the book/guide 'Radioactivity History Journals'?",
           "options": [
             "Its primary focus is 'Thermodynamics'.",
             "It is written about 'Anemometer'.",
@@ -46314,7 +46314,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Seismograph' is 'the instrument detecting and recording ground motion during earthquakes'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"A hair hygrometer uses the expansion of human hair to measure humidity.\"?",
+          "q": "What describes the key fact or historical quote: \"A hair hygrometer uses the expansion of human hair to measure humidity.\"?",
           "options": [
             "Stethoscope",
             "Universal Gravitation",
@@ -46358,7 +46358,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Theory of Relativity' deals with the theme of 'spacetime curvature and speed of light constants'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Alexander Graham Bell invented the telephone, sending the first voice message.\"?",
+          "q": "What describes the key fact or historical quote: \"Alexander Graham Bell invented the telephone, sending the first voice message.\"?",
           "options": [
             "Polio Vaccine Dev",
             "Telephone Patent",
@@ -46380,7 +46380,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Classical Mechanics Handbooks' contains documentation regarding 'gravitational laws and planetary orbits'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Penicillin Discovery'?",
+          "q": "What is a key description or fact regarding the concept of 'Penicillin Discovery'?",
           "options": [
             "\"Alexander Fleming discovered penicillin, revolutionized bacterial infection treatments.\"",
             "\"Galileo Galilei popularized the telescope for astronomical discoveries.\"",
@@ -46391,7 +46391,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Penicillin Discovery' is: \"Alexander Fleming discovered penicillin, revolutionized bacterial infection treatments.\"."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'systolic and diastolic pressure readings'?",
+          "q": "What is a major reference or manual focusing on 'systolic and diastolic pressure readings'?",
           "options": [
             "Medical Diagnostic Tools",
             "Medical Diagnostic Tools",
@@ -46402,7 +46402,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Medical Diagnostic Tools' is known for its focus on 'systolic and diastolic pressure readings'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Hygrometer'?",
+          "q": "Which is correct about the concept of 'Hygrometer'?",
           "options": [
             "It belongs to the domain of 'Aeronautics'.",
             "It is documented in the manual 'Classical Mechanics Handbooks'.",
@@ -46424,7 +46424,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Incandescent Bulb' is built on the concept: 'the commercial carbon-filament light bulb patented in late 1879'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Lactometers detect water added to milk by measuring its density.\"?",
+          "q": "What describes the key fact or historical quote: \"Lactometers detect water added to milk by measuring its density.\"?",
           "options": [
             "Stethoscope",
             "Hygrometer",
@@ -46501,7 +46501,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Anemometer' corresponds to this definition."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Astronomy'?",
+          "q": "What is situated within the study field of 'Astronomy'?",
           "options": [
             "Lactometer",
             "Telescope",
@@ -46545,7 +46545,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Protein Folding Models' is the standard contrast to 'DNA Double Helix'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Altimeter'?",
+          "q": "Which is correct about the core idea of 'Altimeter'?",
           "options": [
             "It belongs to the field of 'Modern Physics'.",
             "It is defined as 'the aneroid barometer variant calibrated to display height in aircraft'.",
@@ -46589,7 +46589,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Modern Physics Foundations' contains documentation regarding 'spacetime curvature and speed of light constants'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Radium Discovery'?",
+          "q": "Which is correct about the core idea of 'Radium Discovery'?",
           "options": [
             "It belongs to the field of 'Meteorology'.",
             "It is documented in 'Meteorological Instrument Manuals'.",
@@ -46633,7 +46633,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Radium Discovery' is built on the concept: 'the radioactive element isolated from pitchblende in 1898'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'DNA Double Helix'?",
+          "q": "Which is correct about the core idea of 'DNA Double Helix'?",
           "options": [
             "It is defined as 'the spiral double-stranded structure holding genetic blueprints of cells'.",
             "It belongs to the field of 'Seismology'.",
@@ -46655,7 +46655,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Medical Diagnostic Tools' is associated with 'Sphygmomanometer'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'viral immunization and global eradication'?",
+          "q": "What is a major reference or manual focusing on 'viral immunization and global eradication'?",
           "options": [
             "Meteorological Instrument Manuals",
             "Telecommunication History Logs",
@@ -46699,7 +46699,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Stethoscope' is classified under the domain of 'Clinical Medicine'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Incandescent Bulb'?",
+          "q": "Which is correct about the core idea of 'Incandescent Bulb'?",
           "options": [
             "It belongs to the field of 'Cardiology'.",
             "It is defined as 'the commercial carbon-filament light bulb patented in late 1879'.",
@@ -46710,7 +46710,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Incandescent Bulb' is defined as 'the commercial carbon-filament light bulb patented in late 1879'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Guglielmo Marconi conducted the first successful transatlantic radio transmission.\"?",
+          "q": "What describes the key fact or historical quote: \"Guglielmo Marconi conducted the first successful transatlantic radio transmission.\"?",
           "options": [
             "Barometer",
             "Radio System",
@@ -46776,7 +46776,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Radioactivity History Journals' is associated with 'Radium Discovery'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Seismograph'?",
+          "q": "Which is correct about the core idea of 'Seismograph'?",
           "options": [
             "It is defined as 'the instrument detecting and recording ground motion during earthquakes'.",
             "It belongs to the field of 'Electrochemistry'.",
@@ -46809,7 +46809,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Universal Gravitation' is classified under the domain of 'Classical Physics'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Radio System'?",
+          "q": "Which is correct about the concept of 'Radio System'?",
           "options": [
             "It is documented in the manual 'Meteorological Instrument Manuals'.",
             "Its contrasting theme is 'mercury columns and pressure dynamics'.",
@@ -46864,7 +46864,7 @@ window.QuizData_everyday_science = {
           "explanation": "'steam pressure and thermodynamic efficiency' is a major theme inside 'Mechanical Engineering'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Rene Laennec invented the stethoscope to examine chest sounds of patients.\"?",
+          "q": "What describes the key fact or historical quote: \"Rene Laennec invented the stethoscope to examine chest sounds of patients.\"?",
           "options": [
             "ECG Instrument",
             "Anemometer",
@@ -46919,7 +46919,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Stethoscope'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'X-Rays Discovery'?",
+          "q": "What is a key description or fact regarding the concept of 'X-Rays Discovery'?",
           "options": [
             "\"Rene Laennec invented the stethoscope to examine chest sounds of patients.\"",
             "\"A sphygmomanometer uses an inflatable cuff to restrict arterial blood flow.\"",
@@ -46963,7 +46963,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'X-Rays Discovery'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Barometer'?",
+          "q": "Which is correct about the core idea of 'Barometer'?",
           "options": [
             "It belongs to the field of 'Cardiology'.",
             "It is themed as 'genetic encoding and nucleotide pairs'.",
@@ -46996,7 +46996,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Thermometer' deals with the theme of 'thermal expansion and temperature scales'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Telephone Patent'?",
+          "q": "Which is correct about the concept of 'Telephone Patent'?",
           "options": [
             "It is documented in the manual 'Antibiotic History Volumes'.",
             "It is defined as 'the voice communication instrument patent filed in early 1876'.",
@@ -47007,7 +47007,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Telephone Patent' is defined as 'the voice communication instrument patent filed in early 1876'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Wilhelm Rontgen discovered X-rays, obtaining the first skeletal image.\"?",
+          "q": "What describes the key fact or historical quote: \"Wilhelm Rontgen discovered X-rays, obtaining the first skeletal image.\"?",
           "options": [
             "Stethoscope",
             "X-Rays Discovery",
@@ -47018,7 +47018,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'X-Rays Discovery'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"An altimeter measures aircraft altitude by detecting changes in air pressure.\"?",
+          "q": "What describes the key fact or historical quote: \"An altimeter measures aircraft altitude by detecting changes in air pressure.\"?",
           "options": [
             "Telephone Patent",
             "Theory of Relativity",
@@ -47062,7 +47062,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Astronomical Instrument Directories' contains documentation regarding 'light collection and cosmic magnification'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Thermodynamics'?",
+          "q": "What is situated within the study field of 'Thermodynamics'?",
           "options": [
             "X-Rays Discovery",
             "Thermometer",
@@ -47095,7 +47095,7 @@ window.QuizData_everyday_science = {
           "explanation": "'electrical heating and vacuum illumination' is a major theme inside 'Electrical Engineering'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Thermometer'?",
+          "q": "Which is correct about the concept of 'Thermometer'?",
           "options": [
             "It belongs to the domain of 'Electrochemistry'.",
             "It is documented in the manual 'Electrical Tech Chronicles'.",
@@ -47128,7 +47128,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Medical Diagnostic Tools' is associated with 'Stethoscope'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Daniel Gabriel Fahrenheit invented the mercury-in-glass thermometer.\"?",
+          "q": "What describes the key fact or historical quote: \"Daniel Gabriel Fahrenheit invented the mercury-in-glass thermometer.\"?",
           "options": [
             "Incandescent Bulb",
             "Chemical Battery",
@@ -47172,7 +47172,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Steam Engine Dev'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Hygrometer'?",
+          "q": "Which is correct about the core idea of 'Hygrometer'?",
           "options": [
             "It belongs to the field of 'Classical Physics'.",
             "It is documented in 'Medical Diagnostic Tools'.",
@@ -47194,7 +47194,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Immunization Science Texts' contains documentation regarding 'viral immunization and global eradication'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Penicillin Discovery'?",
+          "q": "Which is correct about the concept of 'Penicillin Discovery'?",
           "options": [
             "Its contrasting theme is 'viral immunization and global eradication'.",
             "It is documented in the manual 'Meteorological Instrument Manuals'.",
@@ -47205,7 +47205,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Penicillin Discovery' is defined as 'the first antibiotic discovered from Penicillium mold in 1928'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Immunization Science Texts'?",
+          "q": "Which is correct about the book/guide 'Immunization Science Texts'?",
           "options": [
             "It addresses the theme of 'viral immunization and global eradication'.",
             "It is contrasted with 'EEG Instrument'.",
@@ -47227,7 +47227,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Medical Diagnostic Tools' is the manual associated with 'acoustic amplification and clinical auscultation'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'electrical sound transmission and microphone design'?",
+          "q": "What is a major reference or manual focusing on 'electrical sound transmission and microphone design'?",
           "options": [
             "Immunization Science Texts",
             "Telecommunication History Logs",
@@ -47260,7 +47260,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Aviation Instrument Guides' is the manual associated with 'altitude pressure relationships and aviation safety'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Theory of Relativity'?",
+          "q": "Which is correct about the core idea of 'Theory of Relativity'?",
           "options": [
             "It is defined as 'the physics framework describing gravity as curvature of spacetime'.",
             "It is documented in 'Molecular Biology Bulletins'.",
@@ -47293,7 +47293,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Sphygmomanometer' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'optical magnification and cellular imaging'?",
+          "q": "What is a major reference or manual focusing on 'optical magnification and cellular imaging'?",
           "options": [
             "Radioactivity History Journals",
             "Immunization Science Texts",
@@ -47337,7 +47337,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Electrochemical History Handbooks' is the manual associated with 'electrochemical cells and voltage generation'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'thermal expansion and temperature scales'?",
+          "q": "What is a major reference or manual focusing on 'thermal expansion and temperature scales'?",
           "options": [
             "Electrical Tech Chronicles",
             "Radiation Science Journals",
@@ -47348,7 +47348,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Meteorological Instrument Manuals' is known for its focus on 'thermal expansion and temperature scales'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Altimeter'?",
+          "q": "What is a key description or fact regarding the concept of 'Altimeter'?",
           "options": [
             "\"Thomas Edison developed a long-lasting commercial incandescent electric bulb.\"",
             "\"Albert Einstein proposed special and general relativity, reshaping physics.\"",
@@ -47359,7 +47359,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Altimeter' is: \"An altimeter measures aircraft altitude by detecting changes in air pressure.\"."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Medical Diagnostic Tools'?",
+          "q": "Which is correct about the book/guide 'Medical Diagnostic Tools'?",
           "options": [
             "It is contrasted with 'Internal Combustion Engine'.",
             "Its primary focus is 'Cardiology'.",
@@ -47425,7 +47425,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Meteorological Instrument Manuals' is the manual associated with 'mercury columns and pressure dynamics'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Universal Gravitation'?",
+          "q": "Which is correct about the concept of 'Universal Gravitation'?",
           "options": [
             "It is defined as 'the law stating that masses attract with force proportional to mass product'.",
             "It belongs to the domain of 'Electrical Engineering'.",
@@ -47447,7 +47447,7 @@ window.QuizData_everyday_science = {
           "explanation": "'ECG Instrument' deals with the theme of 'heart depolarization and cardiac rhythm graphs'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Antibiotic History Volumes'?",
+          "q": "Which is correct about the book/guide 'Antibiotic History Volumes'?",
           "options": [
             "It is contrasted with 'Microscope'.",
             "It is written about 'Barometer'.",
@@ -47480,7 +47480,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Barometer' is the contrast to 'Seismograph'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Polio Vaccine Dev'?",
+          "q": "Which is correct about the concept of 'Polio Vaccine Dev'?",
           "options": [
             "It is defined as 'the killed virus vaccine developed to eradicate poliomyelitis in 1952'.",
             "It is documented in the manual 'Meteorological Instrument Manuals'.",
@@ -47513,7 +47513,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Chemical Battery'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Universal Gravitation'?",
+          "q": "Which is correct about the core idea of 'Universal Gravitation'?",
           "options": [
             "It belongs to the field of 'Pharmacology'.",
             "It is documented in 'Radiation Science Journals'.",
@@ -47524,7 +47524,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Universal Gravitation' is defined as 'the law stating that masses attract with force proportional to mass product'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Meteorological Instrument Manuals'?",
+          "q": "Which is correct about the book/guide 'Meteorological Instrument Manuals'?",
           "options": [
             "Its primary focus is 'Astronomy'.",
             "It addresses the theme of 'mercury columns and pressure dynamics'.",
@@ -47535,7 +47535,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Meteorological Instrument Manuals' focuses on 'mercury columns and pressure dynamics'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Clinical Medicine'?",
+          "q": "What is situated within the study field of 'Clinical Medicine'?",
           "options": [
             "Microscope",
             "ECG Instrument",
@@ -47546,7 +47546,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Stethoscope' falls under the discipline of 'Clinical Medicine'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'ECG Instrument'?",
+          "q": "What is a key description or fact regarding the concept of 'ECG Instrument'?",
           "options": [
             "\"Galileo Galilei popularized the telescope for astronomical discoveries.\"",
             "\"A seismograph records tectonic movements on a chart called a seismogram.\"",
@@ -47590,7 +47590,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Static Generators' is the standard contrast to 'Chemical Battery'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Incandescent Bulb'?",
+          "q": "Which is correct about the concept of 'Incandescent Bulb'?",
           "options": [
             "It is documented in the manual 'Medical Diagnostic Tools'.",
             "It is defined as 'the commercial carbon-filament light bulb patented in late 1879'.",
@@ -47601,7 +47601,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Incandescent Bulb' is defined as 'the commercial carbon-filament light bulb patented in late 1879'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'heart depolarization and cardiac rhythm graphs'?",
+          "q": "What is a major reference or manual focusing on 'heart depolarization and cardiac rhythm graphs'?",
           "options": [
             "Medical Diagnostic Tools",
             "Earthquake Science Manuals",
@@ -47623,7 +47623,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Radium Discovery'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Astronomical Instrument Directories'?",
+          "q": "Which is correct about the book/guide 'Astronomical Instrument Directories'?",
           "options": [
             "It is contrasted with 'Theory of Relativity'.",
             "It addresses the theme of 'light collection and cosmic magnification'.",
@@ -47645,7 +47645,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Gas Lamps' is the standard contrast to 'Incandescent Bulb'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Steam Engine Dev'?",
+          "q": "Which is correct about the core idea of 'Steam Engine Dev'?",
           "options": [
             "It is defined as 'the condensation steam engine optimizing mechanical pump cycles'.",
             "It belongs to the field of 'Meteorology'.",
@@ -47656,7 +47656,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Steam Engine Dev' is defined as 'the condensation steam engine optimizing mechanical pump cycles'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Chemical Battery'?",
+          "q": "What is a key description or fact regarding the concept of 'Chemical Battery'?",
           "options": [
             "\"Wilhelm Rontgen discovered X-rays, obtaining the first skeletal image.\"",
             "\"A hair hygrometer uses the expansion of human hair to measure humidity.\"",
@@ -47766,7 +47766,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Radium Discovery' is 'the radioactive element isolated from pitchblende in 1898'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Modern Physics Foundations'?",
+          "q": "Which is correct about the book/guide 'Modern Physics Foundations'?",
           "options": [
             "It is written about 'Anemometer'.",
             "It is contrasted with 'Microscope'.",
@@ -47810,7 +47810,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Barometer' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'X-Rays Discovery'?",
+          "q": "Which is correct about the core idea of 'X-Rays Discovery'?",
           "options": [
             "It is defined as 'the high-energy electromagnetic radiation discovered in late 1895'.",
             "It belongs to the field of 'Microbiology'.",
@@ -47832,7 +47832,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Microscope' is the contrast to 'Telescope'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Seismology'?",
+          "q": "What is situated within the study field of 'Seismology'?",
           "options": [
             "Chemical Battery",
             "Seismograph",
@@ -47865,7 +47865,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Radium Discovery' is the direct contrast to 'X-Rays Discovery'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Alessandro Volta invented the voltaic pile, the first chemical battery.\"?",
+          "q": "What describes the key fact or historical quote: \"Alessandro Volta invented the voltaic pile, the first chemical battery.\"?",
           "options": [
             "Chemical Battery",
             "X-Rays Discovery",
@@ -47876,7 +47876,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Chemical Battery'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Stethoscope'?",
+          "q": "Which is correct about the concept of 'Stethoscope'?",
           "options": [
             "It is defined as 'the acoustic medical device listening to internal heart and lung sounds'.",
             "Its contrasting theme is 'wind velocity and rotation speeds'.",
@@ -47898,7 +47898,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Penicillin Discovery' is built on the concept: 'the first antibiotic discovered from Penicillium mold in 1928'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Radium Discovery'?",
+          "q": "Which is correct about the concept of 'Radium Discovery'?",
           "options": [
             "It belongs to the domain of 'Pharmacology'.",
             "It is documented in the manual 'Meteorological Instrument Manuals'.",
@@ -47909,7 +47909,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Radium Discovery' is defined as 'the radioactive element isolated from pitchblende in 1898'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Seismograph'?",
+          "q": "What is a key description or fact regarding the concept of 'Seismograph'?",
           "options": [
             "\"Jonas Salk developed the first polio vaccine, which was declared safe in 1955.\"",
             "\"Alessandro Volta invented the voltaic pile, the first chemical battery.\"",
@@ -47920,7 +47920,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Seismograph' is: \"A seismograph records tectonic movements on a chart called a seismogram.\"."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'bacterial inhibition and antibiotic development'?",
+          "q": "What is a major reference or manual focusing on 'bacterial inhibition and antibiotic development'?",
           "options": [
             "Antibiotic History Volumes",
             "Astronomical Instrument Directories",
@@ -48008,7 +48008,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Telephone Patent' is 'the voice communication instrument patent filed in early 1876'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Marie and Pierre Curie discovered radium and polonium, winning Nobel Prizes.\"?",
+          "q": "What describes the key fact or historical quote: \"Marie and Pierre Curie discovered radium and polonium, winning Nobel Prizes.\"?",
           "options": [
             "Penicillin Discovery",
             "Radium Discovery",
@@ -48052,7 +48052,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Telecommunication History Logs' is associated with 'Telephone Patent'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Electrochemistry'?",
+          "q": "What is situated within the study field of 'Electrochemistry'?",
           "options": [
             "X-Rays Discovery",
             "Hygrometer",
@@ -48118,7 +48118,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Altimeter'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'DNA Double Helix'?",
+          "q": "What is a key description or fact regarding the concept of 'DNA Double Helix'?",
           "options": [
             "\"Guglielmo Marconi conducted the first successful transatlantic radio transmission.\"",
             "\"Watson and Crick modeled the DNA double helix structure in 1953.\"",
@@ -48162,7 +48162,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Meteorological Instrument Manuals' is associated with 'Thermometer'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Albert Einstein proposed special and general relativity, reshaping physics.\"?",
+          "q": "What describes the key fact or historical quote: \"Albert Einstein proposed special and general relativity, reshaping physics.\"?",
           "options": [
             "Telescope",
             "Theory of Relativity",
@@ -48217,7 +48217,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Gas Lamps' is the contrast to 'Incandescent Bulb'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"A sphygmomanometer uses an inflatable cuff to restrict arterial blood flow.\"?",
+          "q": "What describes the key fact or historical quote: \"A sphygmomanometer uses an inflatable cuff to restrict arterial blood flow.\"?",
           "options": [
             "Sphygmomanometer",
             "Thermometer",
@@ -48305,7 +48305,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'X-Rays Discovery'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Lactometer'?",
+          "q": "Which is correct about the concept of 'Lactometer'?",
           "options": [
             "Its contrasting theme is 'moisture absorption and humidity ratios'.",
             "It is defined as 'the hydrometer measuring the specific gravity and purity of milk'.",
@@ -48437,7 +48437,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Radio System' is built on the concept: 'the wireless telegraphy system transmitting signals across distances'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Anemometer'?",
+          "q": "Which is correct about the core idea of 'Anemometer'?",
           "options": [
             "It is themed as 'thermal expansion and temperature scales'.",
             "It is defined as 'the instrument measuring wind speed and velocity using cups'.",
@@ -48481,7 +48481,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Steam Engine Dev' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'mercury columns and pressure dynamics'?",
+          "q": "What is a major reference or manual focusing on 'mercury columns and pressure dynamics'?",
           "options": [
             "Molecular Biology Bulletins",
             "Medical Diagnostic Tools",
@@ -48503,7 +48503,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Penicillin Discovery' is the direct contrast to 'Polio Vaccine Dev'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Microscope'?",
+          "q": "What is a key description or fact regarding the concept of 'Microscope'?",
           "options": [
             "\"Isaac Newton formulated the universal law of gravitation in 1987.\"",
             "\"Jonas Salk developed the first polio vaccine, which was declared safe in 1955.\"",
@@ -48525,7 +48525,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Meteorological Instrument Manuals' contains documentation regarding 'moisture absorption and humidity ratios'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Incandescent Bulb'?",
+          "q": "What is a key description or fact regarding the concept of 'Incandescent Bulb'?",
           "options": [
             "\"Thomas Edison developed a long-lasting commercial incandescent electric bulb.\"",
             "\"ECG records skin electrodes signals to evaluate heart node functions.\"",
@@ -48536,7 +48536,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Incandescent Bulb' is: \"Thomas Edison developed a long-lasting commercial incandescent electric bulb.\"."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Molecular Biology Bulletins'?",
+          "q": "Which is correct about the book/guide 'Molecular Biology Bulletins'?",
           "options": [
             "It addresses the theme of 'genetic encoding and nucleotide pairs'.",
             "It is written about 'Seismograph'.",
@@ -48547,7 +48547,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Molecular Biology Bulletins' focuses on 'genetic encoding and nucleotide pairs'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Isaac Newton formulated the universal law of gravitation in 1987.\"?",
+          "q": "What describes the key fact or historical quote: \"Isaac Newton formulated the universal law of gravitation in 1987.\"?",
           "options": [
             "Penicillin Discovery",
             "Telephone Patent",
@@ -48558,7 +48558,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Universal Gravitation'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Stethoscope'?",
+          "q": "What is a key description or fact regarding the concept of 'Stethoscope'?",
           "options": [
             "\"Rene Laennec invented the stethoscope to examine chest sounds of patients.\"",
             "\"ECG records skin electrodes signals to evaluate heart node functions.\"",
@@ -48613,7 +48613,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Lactometer' is classified under the domain of 'Dairy Science'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'X-Rays Discovery'?",
+          "q": "Which is correct about the concept of 'X-Rays Discovery'?",
           "options": [
             "Its contrasting theme is 'systolic and diastolic pressure readings'.",
             "It is defined as 'the high-energy electromagnetic radiation discovered in late 1895'.",
@@ -48624,7 +48624,7 @@ window.QuizData_everyday_science = {
           "explanation": "'X-Rays Discovery' is defined as 'the high-energy electromagnetic radiation discovered in late 1895'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Steam Engine Dev'?",
+          "q": "What is a key description or fact regarding the concept of 'Steam Engine Dev'?",
           "options": [
             "\"A seismograph records tectonic movements on a chart called a seismogram.\"",
             "\"Isaac Newton formulated the universal law of gravitation in 1987.\"",
@@ -48646,7 +48646,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Chemical Battery' is built on the concept: 'the silver-zinc pile producing continuous electric current'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Classical Mechanics Handbooks'?",
+          "q": "Which is correct about the book/guide 'Classical Mechanics Handbooks'?",
           "options": [
             "It is written about 'Penicillin Discovery'.",
             "Its primary focus is 'Radiology'.",
@@ -48657,7 +48657,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Classical Mechanics Handbooks' focuses on 'gravitational laws and planetary orbits'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Anton van Leeuwenhoek built advanced microscopes, discovering bacteria.\"?",
+          "q": "What describes the key fact or historical quote: \"Anton van Leeuwenhoek built advanced microscopes, discovering bacteria.\"?",
           "options": [
             "Microscope",
             "Polio Vaccine Dev",
@@ -48734,7 +48734,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Telephone Patent' is built on the concept: 'the voice communication instrument patent filed in early 1876'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Electrical Engineering'?",
+          "q": "What is situated within the study field of 'Electrical Engineering'?",
           "options": [
             "Telephone Patent",
             "Incandescent Bulb",
@@ -48756,7 +48756,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Antibiotic History Volumes' contains documentation regarding 'bacterial inhibition and antibiotic development'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Telephone Patent'?",
+          "q": "What is a key description or fact regarding the concept of 'Telephone Patent'?",
           "options": [
             "\"Alexander Fleming discovered penicillin, revolutionized bacterial infection treatments.\"",
             "\"Alexander Graham Bell invented the telephone, sending the first voice message.\"",
@@ -48767,7 +48767,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Telephone Patent' is: \"Alexander Graham Bell invented the telephone, sending the first voice message.\"."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Telecommunication History Logs'?",
+          "q": "Which is correct about the book/guide 'Telecommunication History Logs'?",
           "options": [
             "It is contrasted with 'Stethoscope'.",
             "It addresses the theme of 'electrical sound transmission and microphone design'.",
@@ -48789,7 +48789,7 @@ window.QuizData_everyday_science = {
           "explanation": "'seismic waves and tectonic shocks' is a major theme inside 'Seismology'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Telescope'?",
+          "q": "What is a key description or fact regarding the concept of 'Telescope'?",
           "options": [
             "\"Galileo Galilei popularized the telescope for astronomical discoveries.\"",
             "\"Anton van Leeuwenhoek built advanced microscopes, discovering bacteria.\"",
@@ -48822,7 +48822,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Universal Gravitation' deals with the theme of 'gravitational laws and planetary orbits'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Stethoscope'?",
+          "q": "Which is correct about the core idea of 'Stethoscope'?",
           "options": [
             "It is themed as 'heart depolarization and cardiac rhythm graphs'.",
             "It belongs to the field of 'Microbiology'.",
@@ -48866,7 +48866,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hydrometer' is the standard contrast to 'Lactometer'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Steam Engine Dev'?",
+          "q": "Which is correct about the concept of 'Steam Engine Dev'?",
           "options": [
             "It is documented in the manual 'Meteorological Instrument Manuals'.",
             "It is defined as 'the condensation steam engine optimizing mechanical pump cycles'.",
@@ -49031,7 +49031,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Stethoscope'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Thomas Edison developed a long-lasting commercial incandescent electric bulb.\"?",
+          "q": "What describes the key fact or historical quote: \"Thomas Edison developed a long-lasting commercial incandescent electric bulb.\"?",
           "options": [
             "Telephone Patent",
             "ECG Instrument",
@@ -49075,7 +49075,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'ECG Instrument' is 'the electrocardiograph machine tracing the electrical path of the heart'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'light collection and cosmic magnification'?",
+          "q": "What is a major reference or manual focusing on 'light collection and cosmic magnification'?",
           "options": [
             "Astronomical Instrument Directories",
             "Dairy Testing Guidelines",
@@ -49130,7 +49130,7 @@ window.QuizData_everyday_science = {
           "explanation": "'ECG Instrument' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Theory of Relativity'?",
+          "q": "Which is correct about the concept of 'Theory of Relativity'?",
           "options": [
             "Its contrasting theme is 'genetic encoding and nucleotide pairs'.",
             "It is documented in the manual 'Meteorological Instrument Manuals'.",
@@ -49229,7 +49229,7 @@ window.QuizData_everyday_science = {
           "explanation": "'DNA Double Helix' is classified under the domain of 'Genetics'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Pharmacology'?",
+          "q": "What is situated within the study field of 'Pharmacology'?",
           "options": [
             "Polio Vaccine Dev",
             "Barometer",
@@ -49240,7 +49240,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Penicillin Discovery' falls under the discipline of 'Pharmacology'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Radiology'?",
+          "q": "What is situated within the study field of 'Radiology'?",
           "options": [
             "Microscope",
             "Stethoscope",
@@ -49251,7 +49251,7 @@ window.QuizData_everyday_science = {
           "explanation": "'X-Rays Discovery' falls under the discipline of 'Radiology'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Radium Discovery'?",
+          "q": "What is a key description or fact regarding the concept of 'Radium Discovery'?",
           "options": [
             "\"Marie and Pierre Curie discovered radium and polonium, winning Nobel Prizes.\"",
             "\"Alexander Fleming discovered penicillin, revolutionized bacterial infection treatments.\"",
@@ -49306,7 +49306,7 @@ window.QuizData_everyday_science = {
           "explanation": "'EEG Instrument' is the contrast to 'ECG Instrument'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Aviation Instrument Guides'?",
+          "q": "Which is correct about the book/guide 'Aviation Instrument Guides'?",
           "options": [
             "It addresses the theme of 'altitude pressure relationships and aviation safety'.",
             "It is written about 'Theory of Relativity'.",
@@ -49328,7 +49328,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Theory of Relativity'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Microscope'?",
+          "q": "Which is correct about the concept of 'Microscope'?",
           "options": [
             "It is documented in the manual 'Radioactivity History Journals'.",
             "It is defined as 'the optical instrument magnifying cell details using glass lenses'.",
@@ -49350,7 +49350,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Internal Combustion Engine' is the direct contrast to 'Steam Engine Dev'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'altitude pressure relationships and aviation safety'?",
+          "q": "What is a major reference or manual focusing on 'altitude pressure relationships and aviation safety'?",
           "options": [
             "Telecommunication History Logs",
             "Aviation Instrument Guides",
@@ -49372,7 +49372,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Modern Physics Foundations' is associated with 'Theory of Relativity'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'spacetime curvature and speed of light constants'?",
+          "q": "What is a major reference or manual focusing on 'spacetime curvature and speed of light constants'?",
           "options": [
             "Molecular Biology Bulletins",
             "Astronomical Instrument Directories",
@@ -49383,7 +49383,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Modern Physics Foundations' is known for its focus on 'spacetime curvature and speed of light constants'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Microbiology Instrument Manuals'?",
+          "q": "Which is correct about the book/guide 'Microbiology Instrument Manuals'?",
           "options": [
             "It is contrasted with 'Theory of Relativity'.",
             "It addresses the theme of 'optical magnification and cellular imaging'.",
@@ -49427,7 +49427,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Radio System'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Alexander Fleming discovered penicillin, revolutionized bacterial infection treatments.\"?",
+          "q": "What describes the key fact or historical quote: \"Alexander Fleming discovered penicillin, revolutionized bacterial infection treatments.\"?",
           "options": [
             "Telescope",
             "Penicillin Discovery",
@@ -49438,7 +49438,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Penicillin Discovery'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Dairy Science'?",
+          "q": "What is situated within the study field of 'Dairy Science'?",
           "options": [
             "Lactometer",
             "Stethoscope",
@@ -49449,7 +49449,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Lactometer' falls under the discipline of 'Dairy Science'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'steam pressure and thermodynamic efficiency'?",
+          "q": "What is a major reference or manual focusing on 'steam pressure and thermodynamic efficiency'?",
           "options": [
             "Meteorological Instrument Manuals",
             "Classical Mechanics Handbooks",
@@ -49460,7 +49460,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Industrial Revolution Annals' is known for its focus on 'steam pressure and thermodynamic efficiency'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'acoustic amplification and clinical auscultation'?",
+          "q": "What is a major reference or manual focusing on 'acoustic amplification and clinical auscultation'?",
           "options": [
             "Microbiology Instrument Manuals",
             "Meteorological Instrument Manuals",
@@ -49482,7 +49482,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Penicillin Discovery' deals with the theme of 'bacterial inhibition and antibiotic development'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Radio System'?",
+          "q": "What is a key description or fact regarding the concept of 'Radio System'?",
           "options": [
             "\"A cup anemometer rotates at a speed proportional to the wind velocity.\"",
             "\"A seismograph records tectonic movements on a chart called a seismogram.\"",
@@ -49493,7 +49493,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Radio System' is: \"Guglielmo Marconi conducted the first successful transatlantic radio transmission.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Theory of Relativity'?",
+          "q": "What is a key description or fact regarding the concept of 'Theory of Relativity'?",
           "options": [
             "\"Watson and Crick modeled the DNA double helix structure in 1953.\"",
             "\"Albert Einstein proposed special and general relativity, reshaping physics.\"",
@@ -49504,7 +49504,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Theory of Relativity' is: \"Albert Einstein proposed special and general relativity, reshaping physics.\"."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Aeronautics'?",
+          "q": "What is situated within the study field of 'Aeronautics'?",
           "options": [
             "Theory of Relativity",
             "Altimeter",
@@ -49559,7 +49559,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Stethoscope' is the direct contrast to 'Sphygmomanometer'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Mechanical Engineering'?",
+          "q": "What is situated within the study field of 'Mechanical Engineering'?",
           "options": [
             "Universal Gravitation",
             "Steam Engine Dev",
@@ -49570,7 +49570,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Steam Engine Dev' falls under the discipline of 'Mechanical Engineering'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Industrial Revolution Annals'?",
+          "q": "Which is correct about the book/guide 'Industrial Revolution Annals'?",
           "options": [
             "It is contrasted with 'Barometer'.",
             "It is written about 'Barometer'.",
@@ -49603,7 +49603,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Polio Vaccine Dev' deals with the theme of 'viral immunization and global eradication'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'seismic waves and tectonic shocks'?",
+          "q": "What is a major reference or manual focusing on 'seismic waves and tectonic shocks'?",
           "options": [
             "Immunization Science Texts",
             "Earthquake Science Manuals",
@@ -49614,7 +49614,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Earthquake Science Manuals' is known for its focus on 'seismic waves and tectonic shocks'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Jonas Salk developed the first polio vaccine, which was declared safe in 1955.\"?",
+          "q": "What describes the key fact or historical quote: \"Jonas Salk developed the first polio vaccine, which was declared safe in 1955.\"?",
           "options": [
             "Hygrometer",
             "ECG Instrument",
@@ -49702,7 +49702,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Earthquake Science Manuals' contains documentation regarding 'seismic waves and tectonic shocks'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'milk density and water adulteration checks'?",
+          "q": "What is a major reference or manual focusing on 'milk density and water adulteration checks'?",
           "options": [
             "Meteorological Instrument Manuals",
             "Classical Mechanics Handbooks",
@@ -49735,7 +49735,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Dairy Testing Guidelines' is the manual associated with 'milk density and water adulteration checks'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Microbiology'?",
+          "q": "What is situated within the study field of 'Microbiology'?",
           "options": [
             "Radium Discovery",
             "Universal Gravitation",
@@ -49746,7 +49746,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Microscope' falls under the discipline of 'Microbiology'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Altimeter'?",
+          "q": "Which is correct about the concept of 'Altimeter'?",
           "options": [
             "Its contrasting theme is 'electrical heating and vacuum illumination'.",
             "It is defined as 'the aneroid barometer variant calibrated to display height in aircraft'.",
@@ -49790,7 +49790,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Radiation Science Journals' is associated with 'X-Rays Discovery'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'electrochemical cells and voltage generation'?",
+          "q": "What is a major reference or manual focusing on 'electrochemical cells and voltage generation'?",
           "options": [
             "Radiation Science Journals",
             "Electrochemical History Handbooks",
@@ -49801,7 +49801,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Electrochemical History Handbooks' is known for its focus on 'electrochemical cells and voltage generation'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'ECG Instrument'?",
+          "q": "Which is correct about the core idea of 'ECG Instrument'?",
           "options": [
             "It is defined as 'the electrocardiograph machine tracing the electrical path of the heart'.",
             "It is documented in 'Astronomical Instrument Directories'.",
@@ -49878,7 +49878,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Sphygmomanometer' is built on the concept: 'the instrument measuring human arterial blood pressure with cuffs'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"James Watt improved the Newcomen engine, driving the Industrial Revolution.\"?",
+          "q": "What describes the key fact or historical quote: \"James Watt improved the Newcomen engine, driving the Industrial Revolution.\"?",
           "options": [
             "Steam Engine Dev",
             "Universal Gravitation",
@@ -49900,7 +49900,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Meteorological Instrument Manuals' is the manual associated with 'wind velocity and rotation speeds'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'genetic encoding and nucleotide pairs'?",
+          "q": "What is a major reference or manual focusing on 'genetic encoding and nucleotide pairs'?",
           "options": [
             "Telecommunication History Logs",
             "Earthquake Science Manuals",
@@ -49911,7 +49911,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Molecular Biology Bulletins' is known for its focus on 'genetic encoding and nucleotide pairs'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Anemometer'?",
+          "q": "What is a key description or fact regarding the concept of 'Anemometer'?",
           "options": [
             "\"Daniel Gabriel Fahrenheit invented the mercury-in-glass thermometer.\"",
             "\"A cup anemometer rotates at a speed proportional to the wind velocity.\"",
@@ -49922,7 +49922,7 @@ window.QuizData_everyday_science = {
           "explanation": "The verified statement for 'Anemometer' is: \"A cup anemometer rotates at a speed proportional to the wind velocity.\"."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Virology'?",
+          "q": "What is situated within the study field of 'Virology'?",
           "options": [
             "Radio System",
             "Hygrometer",
@@ -49955,7 +49955,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Protein Folding Models' is the contrast to 'DNA Double Helix'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Chemical Battery'?",
+          "q": "Which is correct about the core idea of 'Chemical Battery'?",
           "options": [
             "It is defined as 'the silver-zinc pile producing continuous electric current'.",
             "It belongs to the field of 'Electrical Engineering'.",
@@ -50032,7 +50032,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Lactometer' deals with the theme of 'milk density and water adulteration checks'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Earthquake Science Manuals'?",
+          "q": "Which is correct about the book/guide 'Earthquake Science Manuals'?",
           "options": [
             "It is written about 'Chemical Battery'.",
             "It addresses the theme of 'seismic waves and tectonic shocks'.",
@@ -50120,7 +50120,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Telescope' is 'the optical system gathering light to view remote planets and stars'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'moisture absorption and humidity ratios'?",
+          "q": "What is a major reference or manual focusing on 'moisture absorption and humidity ratios'?",
           "options": [
             "Aviation Instrument Guides",
             "Classical Mechanics Handbooks",
@@ -50153,7 +50153,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Radium Discovery' is classified under the domain of 'Nuclear Physics'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Radiation Science Journals'?",
+          "q": "Which is correct about the book/guide 'Radiation Science Journals'?",
           "options": [
             "It addresses the theme of 'electromagnetic spectrum and skeletal imaging'.",
             "It is written about 'Microscope'.",
@@ -50197,7 +50197,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Aviation Instrument Guides' is associated with 'Altimeter'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Seismograph'?",
+          "q": "Which is correct about the concept of 'Seismograph'?",
           "options": [
             "Its contrasting theme is 'viral immunization and global eradication'.",
             "It belongs to the domain of 'Pharmacology'.",
@@ -50252,7 +50252,7 @@ window.QuizData_everyday_science = {
           "explanation": "This statement represents 'Universal Gravitation'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"A cup anemometer rotates at a speed proportional to the wind velocity.\"?",
+          "q": "What describes the key fact or historical quote: \"A cup anemometer rotates at a speed proportional to the wind velocity.\"?",
           "options": [
             "Penicillin Discovery",
             "Anemometer",
@@ -50274,7 +50274,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Medical Diagnostic Tools' is associated with 'ECG Instrument'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Sphygmomanometer'?",
+          "q": "Which is correct about the core idea of 'Sphygmomanometer'?",
           "options": [
             "It is documented in 'Medical Diagnostic Tools'.",
             "It is defined as 'the instrument measuring human arterial blood pressure with cuffs'.",
@@ -50296,7 +50296,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Modern Physics Foundations' is the manual associated with 'spacetime curvature and speed of light constants'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'electromagnetic wave propagation and radio tuning'?",
+          "q": "What is a major reference or manual focusing on 'electromagnetic wave propagation and radio tuning'?",
           "options": [
             "Meteorological Instrument Manuals",
             "Meteorological Instrument Manuals",
@@ -50307,7 +50307,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Telecommunication History Logs' is known for its focus on 'electromagnetic wave propagation and radio tuning'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'electromagnetic spectrum and skeletal imaging'?",
+          "q": "What is a major reference or manual focusing on 'electromagnetic spectrum and skeletal imaging'?",
           "options": [
             "Medical Diagnostic Tools",
             "Microbiology Instrument Manuals",
@@ -50329,7 +50329,7 @@ window.QuizData_everyday_science = {
           "explanation": "The core idea of 'Altimeter' is 'the aneroid barometer variant calibrated to display height in aircraft'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Nuclear Physics'?",
+          "q": "What is situated within the study field of 'Nuclear Physics'?",
           "options": [
             "Anemometer",
             "Penicillin Discovery",
@@ -50439,7 +50439,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Microbiology Instrument Manuals' is associated with 'Microscope'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Thermometer'?",
+          "q": "Which is correct about the core idea of 'Thermometer'?",
           "options": [
             "It is themed as 'electrochemical cells and voltage generation'.",
             "It is defined as 'the instrument measuring temperature utilizing thermal expansion of mercury'.",
@@ -50461,7 +50461,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Hydrometer' is the direct contrast to 'Lactometer'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Genetics'?",
+          "q": "What is situated within the study field of 'Genetics'?",
           "options": [
             "DNA Double Helix",
             "Radio System",
@@ -50505,7 +50505,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Telescope' is the standard contrast to 'Microscope'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'gravitational laws and planetary orbits'?",
+          "q": "What is a major reference or manual focusing on 'gravitational laws and planetary orbits'?",
           "options": [
             "Radiation Science Journals",
             "Telecommunication History Logs",
@@ -50516,7 +50516,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Classical Mechanics Handbooks' is known for its focus on 'gravitational laws and planetary orbits'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Radio System'?",
+          "q": "Which is correct about the core idea of 'Radio System'?",
           "options": [
             "It is defined as 'the wireless telegraphy system transmitting signals across distances'.",
             "It belongs to the field of 'Meteorology'.",
@@ -50549,7 +50549,7 @@ window.QuizData_everyday_science = {
           "explanation": "'X-Rays Discovery' is classified under the domain of 'Radiology'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Barometer'?",
+          "q": "Which is correct about the concept of 'Barometer'?",
           "options": [
             "It is documented in the manual 'Medical Diagnostic Tools'.",
             "Its contrasting theme is 'light collection and cosmic magnification'.",
@@ -50626,7 +50626,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Telecommunication History Logs' is associated with 'Telephone Patent'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Chemical Battery'?",
+          "q": "Which is correct about the concept of 'Chemical Battery'?",
           "options": [
             "It belongs to the domain of 'Meteorology'.",
             "It is defined as 'the silver-zinc pile producing continuous electric current'.",
@@ -50670,7 +50670,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Immunization Science Texts' is associated with 'Polio Vaccine Dev'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'DNA Double Helix'?",
+          "q": "Which is correct about the concept of 'DNA Double Helix'?",
           "options": [
             "It is documented in the manual 'Earthquake Science Manuals'.",
             "It is defined as 'the spiral double-stranded structure holding genetic blueprints of cells'.",
@@ -50681,7 +50681,7 @@ window.QuizData_everyday_science = {
           "explanation": "'DNA Double Helix' is defined as 'the spiral double-stranded structure holding genetic blueprints of cells'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Telephone Patent'?",
+          "q": "Which is correct about the core idea of 'Telephone Patent'?",
           "options": [
             "It is themed as 'systolic and diastolic pressure readings'.",
             "It belongs to the field of 'Pharmacology'.",
@@ -50692,7 +50692,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Telephone Patent' is defined as 'the voice communication instrument patent filed in early 1876'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"ECG records skin electrodes signals to evaluate heart node functions.\"?",
+          "q": "What describes the key fact or historical quote: \"ECG records skin electrodes signals to evaluate heart node functions.\"?",
           "options": [
             "Penicillin Discovery",
             "ECG Instrument",
@@ -50769,7 +50769,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Seismograph' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Telescope'?",
+          "q": "Which is correct about the core idea of 'Telescope'?",
           "options": [
             "It is themed as 'gravitational laws and planetary orbits'.",
             "It is documented in 'Dairy Testing Guidelines'.",
@@ -50780,7 +50780,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Telescope' is defined as 'the optical system gathering light to view remote planets and stars'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Polio Vaccine Dev'?",
+          "q": "What is a key description or fact regarding the concept of 'Polio Vaccine Dev'?",
           "options": [
             "\"Jonas Salk developed the first polio vaccine, which was declared safe in 1955.\"",
             "\"Guglielmo Marconi conducted the first successful transatlantic radio transmission.\"",
@@ -50802,7 +50802,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Telephone Patent' is the direct contrast to 'Radio System'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'wind velocity and rotation speeds'?",
+          "q": "What is a major reference or manual focusing on 'wind velocity and rotation speeds'?",
           "options": [
             "Medical Diagnostic Tools",
             "Meteorological Instrument Manuals",
@@ -50824,7 +50824,7 @@ window.QuizData_everyday_science = {
           "explanation": "This fact corresponds to 'Seismograph'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Evangelista Torricelli invented the mercury barometer in the 17th century.\"?",
+          "q": "What describes the key fact or historical quote: \"Evangelista Torricelli invented the mercury barometer in the 17th century.\"?",
           "options": [
             "Telescope",
             "Barometer",
@@ -50835,7 +50835,7 @@ window.QuizData_everyday_science = {
           "explanation": "The quote matches 'Barometer'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Modern Physics'?",
+          "q": "What is situated within the study field of 'Modern Physics'?",
           "options": [
             "Telescope",
             "Theory of Relativity",
@@ -50890,7 +50890,7 @@ window.QuizData_everyday_science = {
           "explanation": "'Universal Gravitation' is the standard contrast to 'Theory of Relativity'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Galileo Galilei popularized the telescope for astronomical discoveries.\"?",
+          "q": "What describes the key fact or historical quote: \"Galileo Galilei popularized the telescope for astronomical discoveries.\"?",
           "options": [
             "Microscope",
             "Universal Gravitation",

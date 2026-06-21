@@ -909,7 +909,7 @@ window.QuizData_current_affairs = {
           "explanation": "Investing in education and health builds human capital."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Ali Amin Gandapur'?",
+          "q": "Which is correct about the core idea of 'Ali Amin Gandapur'?",
           "options": [
             "It is documented in 'Investment Facilitation Framework'.",
             "It is themed as 'ceremonial head of state and parliamentary democracy'.",
@@ -920,7 +920,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Ali Amin Gandapur' is defined as 'the elected Chief Minister of Khyber Pakhtunkhwa province following 2024 elections'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Pakistan General Elections 2024'?",
+          "q": "Which is correct about the core idea of 'Pakistan General Elections 2024'?",
           "options": [
             "It belongs to the field of 'Information Technology Policy'.",
             "It is defined as 'the national democratic elections held across Pakistan on Feb 8, 2024'.",
@@ -931,7 +931,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Pakistan General Elections 2024' is defined as 'the national democratic elections held across Pakistan on Feb 8, 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'SIFC'?",
+          "q": "Which is correct about the core idea of 'SIFC'?",
           "options": [
             "It is defined as 'the Special Investment Facilitation Council formed to attract foreign investment'.",
             "It is themed as 'women leadership in provincial governance'.",
@@ -942,7 +942,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SIFC' is defined as 'the Special Investment Facilitation Council formed to attract foreign investment'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Maryam Nawaz'?",
+          "q": "Which is correct about the core idea of 'Maryam Nawaz'?",
           "options": [
             "It belongs to the field of 'Electoral Politics'.",
             "It is defined as 'the first female Chief Minister of Punjab elected in early 2024'.",
@@ -953,7 +953,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Maryam Nawaz' is defined as 'the first female Chief Minister of Punjab elected in early 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Sarfraz Bugti'?",
+          "q": "Which is correct about the core idea of 'Sarfraz Bugti'?",
           "options": [
             "It belongs to the field of 'National Governance'.",
             "It is defined as 'the Chief Minister of Balochistan elected unopposed in early 2024'.",
@@ -964,7 +964,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Sarfraz Bugti' is defined as 'the Chief Minister of Balochistan elected unopposed in early 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'PM Shehbaz Sharif'?",
+          "q": "Which is correct about the core idea of 'PM Shehbaz Sharif'?",
           "options": [
             "It is documented in 'Balochistan Assembly Records'.",
             "It belongs to the field of 'Public Administration'.",
@@ -975,7 +975,7 @@ window.QuizData_current_affairs = {
           "explanation": "'PM Shehbaz Sharif' is defined as 'the 24th Prime Minister of Pakistan elected to office in March 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Murad Ali Shah'?",
+          "q": "Which is correct about the core idea of 'Murad Ali Shah'?",
           "options": [
             "It is defined as 'the Chief Minister of Sindh serving a third consecutive legislative term'.",
             "It belongs to the field of 'Electoral Politics'.",
@@ -986,7 +986,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Murad Ali Shah' is defined as 'the Chief Minister of Sindh serving a third consecutive legislative term'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'President Asif Ali Zardari'?",
+          "q": "Which is correct about the core idea of 'President Asif Ali Zardari'?",
           "options": [
             "It is documented in 'KP Executive Archives'.",
             "It is defined as 'the 14th President of Pakistan elected for a second historic term'.",
@@ -997,7 +997,7 @@ window.QuizData_current_affairs = {
           "explanation": "'President Asif Ali Zardari' is defined as 'the 14th President of Pakistan elected for a second historic term'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'CJP Yahya Afridi'?",
+          "q": "Which is correct about the core idea of 'CJP Yahya Afridi'?",
           "options": [
             "It is defined as 'the 30th Chief Justice of Pakistan sworn in during October 2024'.",
             "It is documented in 'KP Executive Archives'.",
@@ -1008,7 +1008,7 @@ window.QuizData_current_affairs = {
           "explanation": "'CJP Yahya Afridi' is defined as 'the 30th Chief Justice of Pakistan sworn in during October 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Digital Census 2023'?",
+          "q": "Which is correct about the core idea of 'Digital Census 2023'?",
           "options": [
             "It belongs to the field of 'Information Technology Policy'.",
             "It is defined as 'the seventh national population census representing 241.49 million citizens'.",
@@ -1019,7 +1019,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Digital Census 2023' is defined as 'the seventh national population census representing 241.49 million citizens'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Green Pakistan Initiative'?",
+          "q": "Which is correct about the core idea of 'Green Pakistan Initiative'?",
           "options": [
             "It is documented in 'Presidential Secretariat Records'.",
             "It belongs to the field of 'Judiciary'.",
@@ -1030,7 +1030,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Green Pakistan Initiative' is defined as 'the national project focused on modernizing farming and land restoration'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Islamabad Technopolis'?",
+          "q": "Which is correct about the core idea of 'Islamabad Technopolis'?",
           "options": [
             "It is defined as 'the new Special Technology Zone launched in the federal capital'.",
             "It is documented in 'Sindh Cabinet Proceedings'.",
@@ -1107,7 +1107,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Maryam Nawaz' is classified under the domain of 'Provincial Politics'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The 2023 Digital Census recorded Pakistan's population at approximately 241.49 million.\"?",
+          "q": "What describes the key fact or historical quote: \"The 2023 Digital Census recorded Pakistan's population at approximately 241.49 million.\"?",
           "options": [
             "PM Shehbaz Sharif",
             "Digital Census 2023",
@@ -1118,7 +1118,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'Digital Census 2023'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'ceremonial head of state and parliamentary democracy'?",
+          "q": "What is a major reference or manual focusing on 'ceremonial head of state and parliamentary democracy'?",
           "options": [
             "National Assembly Records 2024",
             "Election Commission Directives",
@@ -1151,7 +1151,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Foreign Policy' is the contrast to 'Peshawar School Attack NAP'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'demography and resource distribution indices'?",
+          "q": "What is a major reference or manual focusing on 'demography and resource distribution indices'?",
           "options": [
             "Prime Minister Executive Orders",
             "National Assembly Records 2024",
@@ -1173,7 +1173,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Chief Minister Office' is the direct contrast to 'Governor Faisal Karim Kundi'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'SIFC'?",
+          "q": "What is a key description or fact regarding the concept of 'SIFC'?",
           "options": [
             "\"SIFC was established in 2023 to coordinate investment in defense, agriculture, IT, and minerals.\"",
             "\"General Elections took place on February 8, 2024, to elect the 16th National Assembly.\"",
@@ -1184,7 +1184,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'SIFC' is: \"SIFC was established in 2023 to coordinate investment in defense, agriculture, IT, and minerals.\"."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Governor Kamran Tessori'?",
+          "q": "Which is correct about the core idea of 'Governor Kamran Tessori'?",
           "options": [
             "It is documented in 'National Assembly Records 2024'.",
             "It is defined as 'the Governor of Sindh continuing his public service in 2024'.",
@@ -1195,7 +1195,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Governor Kamran Tessori' is defined as 'the Governor of Sindh continuing his public service in 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Caretaker Cabinet Decrees'?",
+          "q": "Which is correct about the book/guide 'Caretaker Cabinet Decrees'?",
           "options": [
             "It is written about 'Islamabad Technopolis'.",
             "Its primary focus is 'Provincial Politics'.",
@@ -1239,7 +1239,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'Caretaker PM Anwaar-ul-Haq Kakar' is 'the leader heading the caretaker administration from August 2023 to March 2024'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Ali Amin Gandapur'?",
+          "q": "What is a key description or fact regarding the concept of 'Ali Amin Gandapur'?",
           "options": [
             "\"Islamabad Technopolis was established to accelerate software exports and IT investment.\"",
             "\"Ali Amin Gandapur took oath as Chief Minister of Khyber Pakhtunkhwa in early 2024.\"",
@@ -1250,7 +1250,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'Ali Amin Gandapur' is: \"Ali Amin Gandapur took oath as Chief Minister of Khyber Pakhtunkhwa in early 2024.\"."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'provincial constitutional representation and public welfare programs'?",
+          "q": "What is a major reference or manual focusing on 'provincial constitutional representation and public welfare programs'?",
           "options": [
             "Agricultural Reforms Policy",
             "Demographic Survey Reports",
@@ -1261,7 +1261,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Sindh Governor House Logs' is known for its focus on 'provincial constitutional representation and public welfare programs'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Green Pakistan Initiative'?",
+          "q": "Which is correct about the concept of 'Green Pakistan Initiative'?",
           "options": [
             "It belongs to the domain of 'Provincial Politics'.",
             "It is documented in the manual 'Air Force Command Bulletins'.",
@@ -1294,7 +1294,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Pakistan General Elections 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'CJP Yahya Afridi'?",
+          "q": "Which is correct about the concept of 'CJP Yahya Afridi'?",
           "options": [
             "It is defined as 'the 30th Chief Justice of Pakistan sworn in during October 2024'.",
             "It belongs to the domain of 'Provincial Politics'.",
@@ -1316,7 +1316,7 @@ window.QuizData_current_affairs = {
           "explanation": "'KP Executive Archives' contains documentation regarding 'provincial executive leadership and opposition politics'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Agricultural Reforms Policy'?",
+          "q": "Which is correct about the book/guide 'Agricultural Reforms Policy'?",
           "options": [
             "It is written about 'ACM Zaheer Ahmad Babar'.",
             "It addresses the theme of 'agricultural development and ecological restoration'.",
@@ -1338,7 +1338,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Special Technology Zones Act' is the manual associated with 'technology parks and digital growth promotion'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'counter-terrorism legislation and military-civilian security cooperation'?",
+          "q": "What is a major reference or manual focusing on 'counter-terrorism legislation and military-civilian security cooperation'?",
           "options": [
             "Election Commission Directives",
             "KP Executive Archives",
@@ -1371,7 +1371,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Green Pakistan Initiative' is built on the concept: 'the national project focused on modernizing farming and land restoration'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'CEC Sikandar Sultan Raja'?",
+          "q": "Which is correct about the core idea of 'CEC Sikandar Sultan Raja'?",
           "options": [
             "It is defined as 'the Chief Election Commissioner of Pakistan managing national polls'.",
             "It is documented in 'National Security Policy Documents'.",
@@ -1404,7 +1404,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Speaker Ayaz Sadiq' is built on the concept: 'the Speaker of the 16th National Assembly of Pakistan elected in early 2024'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'CJP Yahya Afridi'?",
+          "q": "What is a key description or fact regarding the concept of 'CJP Yahya Afridi'?",
           "options": [
             "\"Sarfraz Bugti assumed the office of Chief Minister of Balochistan in March 2024.\"",
             "\"Ali Amin Gandapur took oath as Chief Minister of Khyber Pakhtunkhwa in early 2024.\"",
@@ -1415,7 +1415,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'CJP Yahya Afridi' is: \"Justice Yahya Afridi succeeded Justice Qazi Faez Isa as Chief Justice of Pakistan.\"."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Ali Amin Gandapur took oath as Chief Minister of Khyber Pakhtunkhwa in early 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Ali Amin Gandapur took oath as Chief Minister of Khyber Pakhtunkhwa in early 2024.\"?",
           "options": [
             "Islamabad Technopolis",
             "Ali Amin Gandapur",
@@ -1481,7 +1481,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Governor Jafar Khan Mandokhail' is built on the concept: 'the senior politician appointed Governor of Balochistan in mid-2024'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Speaker Ayaz Sadiq'?",
+          "q": "What is a key description or fact regarding the concept of 'Speaker Ayaz Sadiq'?",
           "options": [
             "\"The tragic APS Peshawar attack in December 2014 united Pakistan's leadership to form NAP.\"",
             "\"Asif Ali Zardari was elected President of Pakistan in March 2024, succeeding Arif Alvi.\"",
@@ -1492,7 +1492,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'Speaker Ayaz Sadiq' is: \"Sardar Ayaz Sadiq was elected Speaker of the National Assembly for the third time in 2024.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Digital Census 2023'?",
+          "q": "What is a key description or fact regarding the concept of 'Digital Census 2023'?",
           "options": [
             "\"The 2023 Digital Census recorded Pakistan's population at approximately 241.49 million.\"",
             "\"Sardar Ayaz Sadiq was elected Speaker of the National Assembly for the third time in 2024.\"",
@@ -1503,7 +1503,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'Digital Census 2023' is: \"The 2023 Digital Census recorded Pakistan's population at approximately 241.49 million.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Supreme Court Practice Act'?",
+          "q": "What is a key description or fact regarding the concept of 'Supreme Court Practice Act'?",
           "options": [
             "\"The Supreme Court Practice and Procedure Act 2023 requires a committee of three judges to constitute benches.\"",
             "\"Anwaar-ul-Haq Kakar served as caretaker PM to oversee the 2024 general elections.\"",
@@ -1602,7 +1602,7 @@ window.QuizData_current_affairs = {
           "explanation": "'parliamentary debates and legislative neutrality' is a major theme inside 'Legislative Governance'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Judiciary'?",
+          "q": "What is situated within the study field of 'Judiciary'?",
           "options": [
             "CJP Yahya Afridi",
             "STZA",
@@ -1613,7 +1613,7 @@ window.QuizData_current_affairs = {
           "explanation": "'CJP Yahya Afridi' falls under the discipline of 'Judiciary'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Islamabad Technopolis was established to accelerate software exports and IT investment.\"?",
+          "q": "What describes the key fact or historical quote: \"Islamabad Technopolis was established to accelerate software exports and IT investment.\"?",
           "options": [
             "Islamabad Technopolis",
             "Chairman Yousuf Raza Gilani",
@@ -1624,7 +1624,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'Islamabad Technopolis'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Admiral Naveed Ashraf'?",
+          "q": "Which is correct about the concept of 'Admiral Naveed Ashraf'?",
           "options": [
             "It is defined as 'the Chief of Naval Staff taking command of the Pakistan Navy in late 2023'.",
             "It belongs to the domain of 'Judiciary'.",
@@ -1646,7 +1646,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Governor Faisal Karim Kundi'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Air Chief Marshal Zaheer Ahmad Babar Sidhu leads PAF's integration of advanced technology.\"?",
+          "q": "What describes the key fact or historical quote: \"Air Chief Marshal Zaheer Ahmad Babar Sidhu leads PAF's integration of advanced technology.\"?",
           "options": [
             "ACM Zaheer Ahmad Babar",
             "Peshawar School Attack NAP",
@@ -1712,7 +1712,7 @@ window.QuizData_current_affairs = {
           "explanation": "'KP Executive Archives' is the manual associated with 'provincial executive leadership and opposition politics'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Peshawar School Attack NAP'?",
+          "q": "Which is correct about the concept of 'Peshawar School Attack NAP'?",
           "options": [
             "It is documented in the manual 'Election Commission Directives'.",
             "It belongs to the domain of 'Provincial Politics'.",
@@ -1723,7 +1723,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Peshawar School Attack NAP' is defined as 'the tragic 2014 event that led to the consensus National Action Plan'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Governor Faisal Karim Kundi'?",
+          "q": "What is a key description or fact regarding the concept of 'Governor Faisal Karim Kundi'?",
           "options": [
             "\"Governor Kamran Tessori hosted numerous public IT courses at Governor House Karachi.\"",
             "\"SIFC was established in 2023 to coordinate investment in defense, agriculture, IT, and minerals.\"",
@@ -1734,7 +1734,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'Governor Faisal Karim Kundi' is: \"Faisal Karim Kundi of PPP was sworn in as Governor of Khyber Pakhtunkhwa in May 2024.\"."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'CEC Sikandar Sultan Raja'?",
+          "q": "Which is correct about the concept of 'CEC Sikandar Sultan Raja'?",
           "options": [
             "It is documented in the manual 'Prime Minister Executive Orders'.",
             "Its contrasting theme is 'counter-terrorism legislation and military-civilian security cooperation'.",
@@ -1756,7 +1756,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Governor Jafar Khan Mandokhail' is classified under the domain of 'Provincial Politics'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Balochistan Assembly Records'?",
+          "q": "Which is correct about the book/guide 'Balochistan Assembly Records'?",
           "options": [
             "It addresses the theme of 'provincial governance and reconciliation policies'.",
             "It is written about 'Peshawar School Attack NAP'.",
@@ -1789,7 +1789,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Supreme Court Practice Act' corresponds to this definition."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Information Technology Policy'?",
+          "q": "What is situated within the study field of 'Information Technology Policy'?",
           "options": [
             "Islamabad Technopolis",
             "Governor Kamran Tessori",
@@ -1822,7 +1822,7 @@ window.QuizData_current_affairs = {
           "explanation": "'KP Executive Archives' is associated with 'Ali Amin Gandapur'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Public Administration'?",
+          "q": "What is situated within the study field of 'Public Administration'?",
           "options": [
             "Governor Jafar Khan Mandokhail",
             "PM Shehbaz Sharif",
@@ -1844,7 +1844,7 @@ window.QuizData_current_affairs = {
           "explanation": "'KP Governor House Logs' contains documentation regarding 'provincial representation and constitutional duties'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'economic policy and foreign direct investments'?",
+          "q": "What is a major reference or manual focusing on 'economic policy and foreign direct investments'?",
           "options": [
             "Electoral Record Books",
             "Investment Facilitation Framework",
@@ -1921,7 +1921,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Special Technology Zones Act' is associated with 'Islamabad Technopolis'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Pakistan General Elections 2024'?",
+          "q": "Which is correct about the concept of 'Pakistan General Elections 2024'?",
           "options": [
             "It is documented in the manual 'Air Force Command Bulletins'.",
             "It is defined as 'the national democratic elections held across Pakistan on Feb 8, 2024'.",
@@ -1954,7 +1954,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Ali Amin Gandapur' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Balochistan Governor House Logs'?",
+          "q": "Which is correct about the book/guide 'Balochistan Governor House Logs'?",
           "options": [
             "It is contrasted with 'Industrial Policy'.",
             "It addresses the theme of 'provincial representation and center-province relations'.",
@@ -2031,7 +2031,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Admiral Naveed Ashraf'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Peshawar School Attack NAP'?",
+          "q": "Which is correct about the core idea of 'Peshawar School Attack NAP'?",
           "options": [
             "It belongs to the field of 'Electoral Governance'.",
             "It is defined as 'the tragic 2014 event that led to the consensus National Action Plan'.",
@@ -2075,7 +2075,7 @@ window.QuizData_current_affairs = {
           "explanation": "'CEC Sikandar Sultan Raja' is classified under the domain of 'Electoral Governance'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Tech Zone Regulatory Frameworks'?",
+          "q": "Which is correct about the book/guide 'Tech Zone Regulatory Frameworks'?",
           "options": [
             "Its primary focus is 'National Governance'.",
             "It is contrasted with 'Industrial Policy'.",
@@ -2086,7 +2086,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Tech Zone Regulatory Frameworks' focuses on 'export-oriented IT zones and digital economic growth'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'STZA'?",
+          "q": "What is a key description or fact regarding the concept of 'STZA'?",
           "options": [
             "\"The Green Pakistan Initiative aims to enhance agriculture and cultivate waste lands.\"",
             "\"Anwaar-ul-Haq Kakar served as caretaker PM to oversee the 2024 general elections.\"",
@@ -2108,7 +2108,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Investment Facilitation Framework' is associated with 'SIFC'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Governor Kamran Tessori'?",
+          "q": "What is a key description or fact regarding the concept of 'Governor Kamran Tessori'?",
           "options": [
             "\"Governor Kamran Tessori hosted numerous public IT courses at Governor House Karachi.\"",
             "\"The 2023 Digital Census recorded Pakistan's population at approximately 241.49 million.\"",
@@ -2141,7 +2141,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'Supreme Court Practice Act' is 'the legislative act regulating the Chief Justice's power to form benches'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Pakistan General Elections 2024'?",
+          "q": "What is a key description or fact regarding the concept of 'Pakistan General Elections 2024'?",
           "options": [
             "\"General Elections took place on February 8, 2024, to elect the 16th National Assembly.\"",
             "\"CEC Sikandar Sultan Raja presided over the logistics of the 2024 general elections.\"",
@@ -2218,7 +2218,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'Islamabad Technopolis' is 'the new Special Technology Zone launched in the federal capital'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'agricultural development and ecological restoration'?",
+          "q": "What is a major reference or manual focusing on 'agricultural development and ecological restoration'?",
           "options": [
             "Agricultural Reforms Policy",
             "Air Force Command Bulletins",
@@ -2229,7 +2229,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Agricultural Reforms Policy' is known for its focus on 'agricultural development and ecological restoration'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'electoral management and constitution timelines'?",
+          "q": "What is a major reference or manual focusing on 'electoral management and constitution timelines'?",
           "options": [
             "Election Commission Directives",
             "Prime Minister Executive Orders",
@@ -2273,7 +2273,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ACM Zaheer Ahmad Babar' is classified under the domain of 'Defense Governance'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"SIFC was established in 2023 to coordinate investment in defense, agriculture, IT, and minerals.\"?",
+          "q": "What describes the key fact or historical quote: \"SIFC was established in 2023 to coordinate investment in defense, agriculture, IT, and minerals.\"?",
           "options": [
             "ACM Zaheer Ahmad Babar",
             "SIFC",
@@ -2295,7 +2295,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Governor Faisal Karim Kundi' deals with the theme of 'provincial representation and constitutional duties'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Governor Faisal Karim Kundi'?",
+          "q": "Which is correct about the concept of 'Governor Faisal Karim Kundi'?",
           "options": [
             "It belongs to the domain of 'National Governance'.",
             "It is defined as 'the Governor of Khyber Pakhtunkhwa province appointed in 2024'.",
@@ -2394,7 +2394,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SIFC' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'President Asif Ali Zardari'?",
+          "q": "What is a key description or fact regarding the concept of 'President Asif Ali Zardari'?",
           "options": [
             "\"Maryam Nawaz became the first female Chief Minister of Punjab in March 2024.\"",
             "\"Asif Ali Zardari was elected President of Pakistan in March 2024, succeeding Arif Alvi.\"",
@@ -2405,7 +2405,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'President Asif Ali Zardari' is: \"Asif Ali Zardari was elected President of Pakistan in March 2024, succeeding Arif Alvi.\"."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Former PM Yousuf Raza Gilani was elected unopposed as Senate Chairman in April 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Former PM Yousuf Raza Gilani was elected unopposed as Senate Chairman in April 2024.\"?",
           "options": [
             "Maryam Nawaz",
             "Governor Faisal Karim Kundi",
@@ -2460,7 +2460,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Ali Amin Gandapur' deals with the theme of 'provincial executive leadership and opposition politics'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Provincial Executive Journals'?",
+          "q": "Which is correct about the book/guide 'Provincial Executive Journals'?",
           "options": [
             "Its primary focus is 'Electoral Governance'.",
             "It addresses the theme of 'women leadership in provincial governance'.",
@@ -2504,7 +2504,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Sindh Governor House Logs' is associated with 'Governor Kamran Tessori'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'ACM Zaheer Ahmad Babar'?",
+          "q": "Which is correct about the core idea of 'ACM Zaheer Ahmad Babar'?",
           "options": [
             "It belongs to the field of 'Provincial Politics'.",
             "It is documented in 'Presidential Secretariat Records'.",
@@ -2515,7 +2515,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ACM Zaheer Ahmad Babar' is defined as 'the Chief of Air Staff leading the Pakistan Air Force updates'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'SIFC'?",
+          "q": "Which is correct about the concept of 'SIFC'?",
           "options": [
             "It is defined as 'the Special Investment Facilitation Council formed to attract foreign investment'.",
             "It is documented in the manual 'Electoral Record Books'.",
@@ -2537,7 +2537,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'CJP Yahya Afridi'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Sindh Governor House Logs'?",
+          "q": "Which is correct about the book/guide 'Sindh Governor House Logs'?",
           "options": [
             "It addresses the theme of 'provincial constitutional representation and public welfare programs'.",
             "It is written about 'Green Pakistan Initiative'.",
@@ -2592,7 +2592,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Sarfraz Bugti' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'judicial reforms and parliamentary supremacy'?",
+          "q": "What is a major reference or manual focusing on 'judicial reforms and parliamentary supremacy'?",
           "options": [
             "Caretaker Cabinet Decrees",
             "Investment Facilitation Framework",
@@ -2636,7 +2636,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Senate Secretariat Proceedings' is associated with 'Chairman Yousuf Raza Gilani'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'National Governance'?",
+          "q": "What is situated within the study field of 'National Governance'?",
           "options": [
             "ACM Zaheer Ahmad Babar",
             "SIFC",
@@ -2647,7 +2647,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SIFC' falls under the discipline of 'National Governance'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'PM Shehbaz Sharif'?",
+          "q": "Which is correct about the concept of 'PM Shehbaz Sharif'?",
           "options": [
             "It belongs to the domain of 'Security Studies'.",
             "Its contrasting theme is 'electoral management and constitution timelines'.",
@@ -2691,7 +2691,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'SIFC' is 'the Special Investment Facilitation Council formed to attract foreign investment'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Security Studies'?",
+          "q": "What is situated within the study field of 'Security Studies'?",
           "options": [
             "Green Pakistan Initiative",
             "Peshawar School Attack NAP",
@@ -2713,7 +2713,7 @@ window.QuizData_current_affairs = {
           "explanation": "'National Security Policy Documents' is associated with 'Peshawar School Attack NAP'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Chairman Yousuf Raza Gilani'?",
+          "q": "What is a key description or fact regarding the concept of 'Chairman Yousuf Raza Gilani'?",
           "options": [
             "\"Former PM Yousuf Raza Gilani was elected unopposed as Senate Chairman in April 2024.\"",
             "\"Governor Kamran Tessori hosted numerous public IT courses at Governor House Karachi.\"",
@@ -2735,7 +2735,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Senate Secretariat Proceedings' contains documentation regarding 'upper house legislation and federal representation'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'PM Shehbaz Sharif'?",
+          "q": "What is a key description or fact regarding the concept of 'PM Shehbaz Sharif'?",
           "options": [
             "\"The Supreme Court Practice and Procedure Act 2023 requires a committee of three judges to constitute benches.\"",
             "\"CEC Sikandar Sultan Raja presided over the logistics of the 2024 general elections.\"",
@@ -2768,7 +2768,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Provincial Executive Journals' is the manual associated with 'women leadership in provincial governance'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Governor Kamran Tessori hosted numerous public IT courses at Governor House Karachi.\"?",
+          "q": "What describes the key fact or historical quote: \"Governor Kamran Tessori hosted numerous public IT courses at Governor House Karachi.\"?",
           "options": [
             "Governor Kamran Tessori",
             "Speaker Ayaz Sadiq",
@@ -2812,7 +2812,7 @@ window.QuizData_current_affairs = {
           "explanation": "'President Office' is the standard contrast to 'PM Shehbaz Sharif'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'provincial governance and reconciliation policies'?",
+          "q": "What is a major reference or manual focusing on 'provincial governance and reconciliation policies'?",
           "options": [
             "Navy Command Bulletins",
             "Balochistan Assembly Records",
@@ -2823,7 +2823,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Balochistan Assembly Records' is known for its focus on 'provincial governance and reconciliation policies'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'technology parks and digital growth promotion'?",
+          "q": "What is a major reference or manual focusing on 'technology parks and digital growth promotion'?",
           "options": [
             "Senate Secretariat Proceedings",
             "Tech Zone Regulatory Frameworks",
@@ -2867,7 +2867,7 @@ window.QuizData_current_affairs = {
           "explanation": "'electoral processes and democratic representation' is a major theme inside 'Electoral Politics'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Provincial Politics'?",
+          "q": "What is situated within the study field of 'Provincial Politics'?",
           "options": [
             "Maryam Nawaz",
             "CEC Sikandar Sultan Raja",
@@ -2988,7 +2988,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Murad Ali Shah'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'aviation defense and modernization of fighter fleets'?",
+          "q": "What is a major reference or manual focusing on 'aviation defense and modernization of fighter fleets'?",
           "options": [
             "National Security Policy Documents",
             "Air Force Command Bulletins",
@@ -2999,7 +2999,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Air Force Command Bulletins' is known for its focus on 'aviation defense and modernization of fighter fleets'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'parliamentary debates and legislative neutrality'?",
+          "q": "What is a major reference or manual focusing on 'parliamentary debates and legislative neutrality'?",
           "options": [
             "National Security Policy Documents",
             "Presidential Secretariat Records",
@@ -3043,7 +3043,7 @@ window.QuizData_current_affairs = {
           "explanation": "'President Asif Ali Zardari' is classified under the domain of 'National Governance'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'provincial executive leadership and opposition politics'?",
+          "q": "What is a major reference or manual focusing on 'provincial executive leadership and opposition politics'?",
           "options": [
             "Tech Zone Regulatory Frameworks",
             "KP Executive Archives",
@@ -3065,7 +3065,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Caretaker PM Anwaar-ul-Haq Kakar' deals with the theme of 'interim governance and electoral transition'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Governor Jafar Khan Mandokhail'?",
+          "q": "What is a key description or fact regarding the concept of 'Governor Jafar Khan Mandokhail'?",
           "options": [
             "\"General Elections took place on February 8, 2024, to elect the 16th National Assembly.\"",
             "\"The tragic APS Peshawar attack in December 2014 united Pakistan's leadership to form NAP.\"",
@@ -3131,7 +3131,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'Sarfraz Bugti' is 'the Chief Minister of Balochistan elected unopposed in early 2024'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'CEC Sikandar Sultan Raja'?",
+          "q": "What is a key description or fact regarding the concept of 'CEC Sikandar Sultan Raja'?",
           "options": [
             "\"Shehbaz Sharif secured a second term as Prime Minister after the 2024 coalition agreements.\"",
             "\"The tragic APS Peshawar attack in December 2014 united Pakistan's leadership to form NAP.\"",
@@ -3164,7 +3164,7 @@ window.QuizData_current_affairs = {
           "explanation": "'CJP Yahya Afridi' is classified under the domain of 'Judiciary'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Maryam Nawaz'?",
+          "q": "What is a key description or fact regarding the concept of 'Maryam Nawaz'?",
           "options": [
             "\"Islamabad Technopolis was established to accelerate software exports and IT investment.\"",
             "\"Maryam Nawaz became the first female Chief Minister of Punjab in March 2024.\"",
@@ -3186,7 +3186,7 @@ window.QuizData_current_affairs = {
           "explanation": "'CEC Sikandar Sultan Raja' deals with the theme of 'electoral management and constitution timelines'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Admiral Naveed Ashraf'?",
+          "q": "Which is correct about the core idea of 'Admiral Naveed Ashraf'?",
           "options": [
             "It belongs to the field of 'Constitutional Law'.",
             "It is defined as 'the Chief of Naval Staff taking command of the Pakistan Navy in late 2023'.",
@@ -3252,7 +3252,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Agricultural Zones' is the contrast to 'Islamabad Technopolis'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Anwaar-ul-Haq Kakar served as caretaker PM to oversee the 2024 general elections.\"?",
+          "q": "What describes the key fact or historical quote: \"Anwaar-ul-Haq Kakar served as caretaker PM to oversee the 2024 general elections.\"?",
           "options": [
             "Speaker Ayaz Sadiq",
             "Maryam Nawaz",
@@ -3318,7 +3318,7 @@ window.QuizData_current_affairs = {
           "explanation": "'President Office' is the direct contrast to 'PM Shehbaz Sharif'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'federal executive leadership and coalition governance'?",
+          "q": "What is a major reference or manual focusing on 'federal executive leadership and coalition governance'?",
           "options": [
             "National Security Policy Documents",
             "Supreme Court Guidelines 2023",
@@ -3384,7 +3384,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Governor Office' is the direct contrast to 'Ali Amin Gandapur'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Digital Census 2023'?",
+          "q": "Which is correct about the concept of 'Digital Census 2023'?",
           "options": [
             "It belongs to the domain of 'Provincial Politics'.",
             "It is documented in the manual 'Prime Minister Executive Orders'.",
@@ -3395,7 +3395,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Digital Census 2023' is defined as 'the seventh national population census representing 241.49 million citizens'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'export-oriented IT zones and digital economic growth'?",
+          "q": "What is a major reference or manual focusing on 'export-oriented IT zones and digital economic growth'?",
           "options": [
             "Tech Zone Regulatory Frameworks",
             "Caretaker Cabinet Decrees",
@@ -3428,7 +3428,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Agricultural Reforms Policy' is associated with 'Green Pakistan Initiative'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'ACM Zaheer Ahmad Babar'?",
+          "q": "What is a key description or fact regarding the concept of 'ACM Zaheer Ahmad Babar'?",
           "options": [
             "\"The tragic APS Peshawar attack in December 2014 united Pakistan's leadership to form NAP.\"",
             "\"Faisal Karim Kundi of PPP was sworn in as Governor of Khyber Pakhtunkhwa in May 2024.\"",
@@ -3472,7 +3472,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ACM Zaheer Ahmad Babar' deals with the theme of 'aviation defense and modernization of fighter fleets'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'KP Governor House Logs'?",
+          "q": "Which is correct about the book/guide 'KP Governor House Logs'?",
           "options": [
             "Its primary focus is 'Economic Policy'.",
             "It addresses the theme of 'provincial representation and constitutional duties'.",
@@ -3483,7 +3483,7 @@ window.QuizData_current_affairs = {
           "explanation": "'KP Governor House Logs' focuses on 'provincial representation and constitutional duties'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Green Pakistan Initiative'?",
+          "q": "What is a key description or fact regarding the concept of 'Green Pakistan Initiative'?",
           "options": [
             "\"General Elections took place on February 8, 2024, to elect the 16th National Assembly.\"",
             "\"Faisal Karim Kundi of PPP was sworn in as Governor of Khyber Pakhtunkhwa in May 2024.\"",
@@ -3549,7 +3549,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Maryam Nawaz'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Election Commission Directives'?",
+          "q": "Which is correct about the book/guide 'Election Commission Directives'?",
           "options": [
             "It addresses the theme of 'electoral management and constitution timelines'.",
             "It is contrasted with 'Chief Minister Office'.",
@@ -3560,7 +3560,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Election Commission Directives' focuses on 'electoral management and constitution timelines'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Supreme Court Guidelines 2023'?",
+          "q": "Which is correct about the book/guide 'Supreme Court Guidelines 2023'?",
           "options": [
             "Its primary focus is 'Information Technology Policy'.",
             "It is written about 'Caretaker PM Anwaar-ul-Haq Kakar'.",
@@ -3593,7 +3593,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Supreme Court Guidelines 2023' contains documentation regarding 'judicial reforms and parliamentary supremacy'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'STZA'?",
+          "q": "Which is correct about the concept of 'STZA'?",
           "options": [
             "It is defined as 'the Special Technology Zones Authority promoting technology investments'.",
             "Its contrasting theme is 'interim governance and electoral transition'.",
@@ -3604,7 +3604,7 @@ window.QuizData_current_affairs = {
           "explanation": "'STZA' is defined as 'the Special Technology Zones Authority promoting technology investments'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The Green Pakistan Initiative aims to enhance agriculture and cultivate waste lands.\"?",
+          "q": "What describes the key fact or historical quote: \"The Green Pakistan Initiative aims to enhance agriculture and cultivate waste lands.\"?",
           "options": [
             "Governor Faisal Karim Kundi",
             "ACM Zaheer Ahmad Babar",
@@ -3692,7 +3692,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Balochistan Governor House Logs' is associated with 'Governor Jafar Khan Mandokhail'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"General Elections took place on February 8, 2024, to elect the 16th National Assembly.\"?",
+          "q": "What describes the key fact or historical quote: \"General Elections took place on February 8, 2024, to elect the 16th National Assembly.\"?",
           "options": [
             "ACM Zaheer Ahmad Babar",
             "Pakistan General Elections 2024",
@@ -3703,7 +3703,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'Pakistan General Elections 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Speaker Ayaz Sadiq'?",
+          "q": "Which is correct about the concept of 'Speaker Ayaz Sadiq'?",
           "options": [
             "It is defined as 'the Speaker of the 16th National Assembly of Pakistan elected in early 2024'.",
             "Its contrasting theme is 'counter-terrorism legislation and military-civilian security cooperation'.",
@@ -3714,7 +3714,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Speaker Ayaz Sadiq' is defined as 'the Speaker of the 16th National Assembly of Pakistan elected in early 2024'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'provincial administration and policy continuity'?",
+          "q": "What is a major reference or manual focusing on 'provincial administration and policy continuity'?",
           "options": [
             "Tech Zone Regulatory Frameworks",
             "Navy Command Bulletins",
@@ -3747,7 +3747,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Balochistan Governor House Logs' is associated with 'Governor Jafar Khan Mandokhail'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Islamabad Technopolis'?",
+          "q": "Which is correct about the concept of 'Islamabad Technopolis'?",
           "options": [
             "It belongs to the domain of 'Provincial Politics'.",
             "Its contrasting theme is 'upper house legislation and federal representation'.",
@@ -3791,7 +3791,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Prime Minister Office' is the direct contrast to 'President Asif Ali Zardari'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Sarfraz Bugti'?",
+          "q": "What is a key description or fact regarding the concept of 'Sarfraz Bugti'?",
           "options": [
             "\"The 2023 Digital Census recorded Pakistan's population at approximately 241.49 million.\"",
             "\"Admiral Naveed Ashraf assumed command as the 23rd Chief of Naval Staff.\"",
@@ -3802,7 +3802,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'Sarfraz Bugti' is: \"Sarfraz Bugti assumed the office of Chief Minister of Balochistan in March 2024.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Caretaker PM Anwaar-ul-Haq Kakar'?",
+          "q": "What is a key description or fact regarding the concept of 'Caretaker PM Anwaar-ul-Haq Kakar'?",
           "options": [
             "\"Anwaar-ul-Haq Kakar served as caretaker PM to oversee the 2024 general elections.\"",
             "\"Sardar Ayaz Sadiq was elected Speaker of the National Assembly for the third time in 2024.\"",
@@ -3824,7 +3824,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Chairman Yousuf Raza Gilani' deals with the theme of 'upper house legislation and federal representation'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"STZA was established to offer tax incentives to technology enterprises in Pakistan.\"?",
+          "q": "What describes the key fact or historical quote: \"STZA was established to offer tax incentives to technology enterprises in Pakistan.\"?",
           "options": [
             "Digital Census 2023",
             "STZA",
@@ -3879,7 +3879,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Agricultural Zones' is the standard contrast to 'Islamabad Technopolis'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'President Asif Ali Zardari'?",
+          "q": "Which is correct about the concept of 'President Asif Ali Zardari'?",
           "options": [
             "It is documented in the manual 'National Assembly Records 2024'.",
             "Its contrasting theme is 'women leadership in provincial governance'.",
@@ -3901,7 +3901,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Provincial Election Commissioners' is the direct contrast to 'CEC Sikandar Sultan Raja'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Sarfraz Bugti'?",
+          "q": "Which is correct about the concept of 'Sarfraz Bugti'?",
           "options": [
             "It is documented in the manual 'National Security Policy Documents'.",
             "It belongs to the domain of 'Defense Governance'.",
@@ -4000,7 +4000,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Army Chief Command' is the direct contrast to 'Admiral Naveed Ashraf'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Syed Murad Ali Shah was elected Chief Minister of Sindh for a third consecutive term.\"?",
+          "q": "What describes the key fact or historical quote: \"Syed Murad Ali Shah was elected Chief Minister of Sindh for a third consecutive term.\"?",
           "options": [
             "CJP Yahya Afridi",
             "STZA",
@@ -4011,7 +4011,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'Murad Ali Shah'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Governor Jafar Khan Mandokhail'?",
+          "q": "Which is correct about the concept of 'Governor Jafar Khan Mandokhail'?",
           "options": [
             "It is defined as 'the senior politician appointed Governor of Balochistan in mid-2024'.",
             "Its contrasting theme is 'counter-terrorism legislation and military-civilian security cooperation'.",
@@ -4033,7 +4033,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Supreme Court Judiciary Files' is associated with 'CJP Yahya Afridi'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Navy Command Bulletins'?",
+          "q": "Which is correct about the book/guide 'Navy Command Bulletins'?",
           "options": [
             "It addresses the theme of 'naval defense command and maritime strategy'.",
             "It is written about 'Supreme Court Practice Act'.",
@@ -4066,7 +4066,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Governor Jafar Khan Mandokhail'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Faisal Karim Kundi of PPP was sworn in as Governor of Khyber Pakhtunkhwa in May 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Faisal Karim Kundi of PPP was sworn in as Governor of Khyber Pakhtunkhwa in May 2024.\"?",
           "options": [
             "Governor Faisal Karim Kundi",
             "SIFC",
@@ -4088,7 +4088,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Navy Command Bulletins' is associated with 'Admiral Naveed Ashraf'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'ACM Zaheer Ahmad Babar'?",
+          "q": "Which is correct about the concept of 'ACM Zaheer Ahmad Babar'?",
           "options": [
             "It is documented in the manual 'KP Governor House Logs'.",
             "It belongs to the domain of 'Security Studies'.",
@@ -4121,7 +4121,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Presidential Secretariat Records' is associated with 'President Asif Ali Zardari'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Maryam Nawaz became the first female Chief Minister of Punjab in March 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Maryam Nawaz became the first female Chief Minister of Punjab in March 2024.\"?",
           "options": [
             "Maryam Nawaz",
             "Islamabad Technopolis",
@@ -4154,7 +4154,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Chairman Yousuf Raza Gilani' is built on the concept: 'the elected Chairman of the Senate of Pakistan in 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Electoral Record Books'?",
+          "q": "Which is correct about the book/guide 'Electoral Record Books'?",
           "options": [
             "It is written about 'ACM Zaheer Ahmad Babar'.",
             "Its primary focus is 'Electoral Governance'.",
@@ -4176,7 +4176,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Admiral Naveed Ashraf' is classified under the domain of 'Defense Governance'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Governor Kamran Tessori'?",
+          "q": "Which is correct about the concept of 'Governor Kamran Tessori'?",
           "options": [
             "It is defined as 'the Governor of Sindh continuing his public service in 2024'.",
             "It belongs to the domain of 'Public Administration'.",
@@ -4363,7 +4363,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'Pakistan General Elections 2024' is 'the national democratic elections held across Pakistan on Feb 8, 2024'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Jafar Khan Mandokhail was appointed as the Governor of Balochistan in May 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Jafar Khan Mandokhail was appointed as the Governor of Balochistan in May 2024.\"?",
           "options": [
             "Governor Jafar Khan Mandokhail",
             "Pakistan General Elections 2024",
@@ -4396,7 +4396,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Digital Census 2023'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'provincial representation and constitutional duties'?",
+          "q": "What is a major reference or manual focusing on 'provincial representation and constitutional duties'?",
           "options": [
             "KP Governor House Logs",
             "Agricultural Reforms Policy",
@@ -4407,7 +4407,7 @@ window.QuizData_current_affairs = {
           "explanation": "'KP Governor House Logs' is known for its focus on 'provincial representation and constitutional duties'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Senate Secretariat Proceedings'?",
+          "q": "Which is correct about the book/guide 'Senate Secretariat Proceedings'?",
           "options": [
             "Its primary focus is 'Provincial Politics'.",
             "It is written about 'Governor Faisal Karim Kundi'.",
@@ -4451,7 +4451,7 @@ window.QuizData_current_affairs = {
           "explanation": "'electoral management and constitution timelines' is a major theme inside 'Electoral Governance'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Presidential Secretariat Records'?",
+          "q": "Which is correct about the book/guide 'Presidential Secretariat Records'?",
           "options": [
             "It is contrasted with 'Provincial Election Commissioners'.",
             "It is written about 'Speaker Ayaz Sadiq'.",
@@ -4484,7 +4484,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Demographic Survey Reports' is associated with 'Digital Census 2023'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Ali Amin Gandapur'?",
+          "q": "Which is correct about the concept of 'Ali Amin Gandapur'?",
           "options": [
             "It belongs to the domain of 'Information Technology Policy'.",
             "It is documented in the manual 'Special Technology Zones Act'.",
@@ -4506,7 +4506,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ACM Zaheer Ahmad Babar' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'National Security Policy Documents'?",
+          "q": "Which is correct about the book/guide 'National Security Policy Documents'?",
           "options": [
             "It is contrasted with 'Governor Office'.",
             "It addresses the theme of 'counter-terrorism legislation and military-civilian security cooperation'.",
@@ -4528,7 +4528,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Navy Chief Command' is the contrast to 'ACM Zaheer Ahmad Babar'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The tragic APS Peshawar attack in December 2014 united Pakistan's leadership to form NAP.\"?",
+          "q": "What describes the key fact or historical quote: \"The tragic APS Peshawar attack in December 2014 united Pakistan's leadership to form NAP.\"?",
           "options": [
             "Peshawar School Attack NAP",
             "CEC Sikandar Sultan Raja",
@@ -4539,7 +4539,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'Peshawar School Attack NAP'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Governor Jafar Khan Mandokhail'?",
+          "q": "Which is correct about the core idea of 'Governor Jafar Khan Mandokhail'?",
           "options": [
             "It belongs to the field of 'Electoral Politics'.",
             "It is themed as 'agricultural development and ecological restoration'.",
@@ -4649,7 +4649,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Deputy Speaker Office' is the direct contrast to 'Speaker Ayaz Sadiq'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Special Technology Zones Act'?",
+          "q": "Which is correct about the book/guide 'Special Technology Zones Act'?",
           "options": [
             "It addresses the theme of 'technology parks and digital growth promotion'.",
             "It is written about 'STZA'.",
@@ -4682,7 +4682,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Governor Jafar Khan Mandokhail' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Caretaker PM Anwaar-ul-Haq Kakar'?",
+          "q": "Which is correct about the concept of 'Caretaker PM Anwaar-ul-Haq Kakar'?",
           "options": [
             "Its contrasting theme is 'women leadership in provincial governance'.",
             "It belongs to the domain of 'Legislative Governance'.",
@@ -4693,7 +4693,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Caretaker PM Anwaar-ul-Haq Kakar' is defined as 'the leader heading the caretaker administration from August 2023 to March 2024'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Islamabad Technopolis'?",
+          "q": "What is a key description or fact regarding the concept of 'Islamabad Technopolis'?",
           "options": [
             "\"Governor Kamran Tessori hosted numerous public IT courses at Governor House Karachi.\"",
             "\"STZA was established to offer tax incentives to technology enterprises in Pakistan.\"",
@@ -4770,7 +4770,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Electoral Record Books' contains documentation regarding 'electoral processes and democratic representation'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Constitutional Law'?",
+          "q": "What is situated within the study field of 'Constitutional Law'?",
           "options": [
             "Supreme Court Practice Act",
             "SIFC",
@@ -4792,7 +4792,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Bilateral Trade Loans' is the standard contrast to 'SIFC'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'National Assembly Records 2024'?",
+          "q": "Which is correct about the book/guide 'National Assembly Records 2024'?",
           "options": [
             "It addresses the theme of 'parliamentary debates and legislative neutrality'.",
             "Its primary focus is 'Security Studies'.",
@@ -4847,7 +4847,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Sample Surveys' is the direct contrast to 'Digital Census 2023'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Caretaker PM Anwaar-ul-Haq Kakar'?",
+          "q": "Which is correct about the core idea of 'Caretaker PM Anwaar-ul-Haq Kakar'?",
           "options": [
             "It belongs to the field of 'Information Technology Policy'.",
             "It is defined as 'the leader heading the caretaker administration from August 2023 to March 2024'.",
@@ -4891,7 +4891,7 @@ window.QuizData_current_affairs = {
           "explanation": "'CJP Qazi Faez Isa' is the standard contrast to 'CJP Yahya Afridi'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Admiral Naveed Ashraf assumed command as the 23rd Chief of Naval Staff.\"?",
+          "q": "What describes the key fact or historical quote: \"Admiral Naveed Ashraf assumed command as the 23rd Chief of Naval Staff.\"?",
           "options": [
             "Admiral Naveed Ashraf",
             "Supreme Court Practice Act",
@@ -4913,7 +4913,7 @@ window.QuizData_current_affairs = {
           "explanation": "'counter-terrorism legislation and military-civilian security cooperation' is a major theme inside 'Security Studies'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Legislative Governance'?",
+          "q": "What is situated within the study field of 'Legislative Governance'?",
           "options": [
             "President Asif Ali Zardari",
             "Governor Kamran Tessori",
@@ -4924,7 +4924,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Speaker Ayaz Sadiq' falls under the discipline of 'Legislative Governance'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Murad Ali Shah'?",
+          "q": "Which is correct about the concept of 'Murad Ali Shah'?",
           "options": [
             "Its contrasting theme is 'judicial leadership and constitutional supremacy'.",
             "It is documented in the manual 'Tech Zone Regulatory Frameworks'.",
@@ -4968,7 +4968,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Navy Command Bulletins' contains documentation regarding 'naval defense command and maritime strategy'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Demographic Survey Reports'?",
+          "q": "Which is correct about the book/guide 'Demographic Survey Reports'?",
           "options": [
             "It addresses the theme of 'demography and resource distribution indices'.",
             "Its primary focus is 'Legislative Governance'.",
@@ -5056,7 +5056,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Islamabad Technopolis'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'naval defense command and maritime strategy'?",
+          "q": "What is a major reference or manual focusing on 'naval defense command and maritime strategy'?",
           "options": [
             "Navy Command Bulletins",
             "Supreme Court Judiciary Files",
@@ -5155,7 +5155,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Peshawar School Attack NAP' deals with the theme of 'counter-terrorism legislation and military-civilian security cooperation'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Speaker Ayaz Sadiq'?",
+          "q": "Which is correct about the core idea of 'Speaker Ayaz Sadiq'?",
           "options": [
             "It is defined as 'the Speaker of the 16th National Assembly of Pakistan elected in early 2024'.",
             "It is themed as 'provincial constitutional representation and public welfare programs'.",
@@ -5177,7 +5177,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Governor Office' is the standard contrast to 'Sarfraz Bugti'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Defense Governance'?",
+          "q": "What is situated within the study field of 'Defense Governance'?",
           "options": [
             "Admiral Naveed Ashraf",
             "Supreme Court Practice Act",
@@ -5221,7 +5221,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Digital Census 2023' is classified under the domain of 'Public Administration'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Sarfraz Bugti assumed the office of Chief Minister of Balochistan in March 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Sarfraz Bugti assumed the office of Chief Minister of Balochistan in March 2024.\"?",
           "options": [
             "Digital Census 2023",
             "Peshawar School Attack NAP",
@@ -5276,7 +5276,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Governor Faisal Karim Kundi'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Prime Minister Executive Orders'?",
+          "q": "Which is correct about the book/guide 'Prime Minister Executive Orders'?",
           "options": [
             "It is written about 'Supreme Court Practice Act'.",
             "Its primary focus is 'Electoral Governance'.",
@@ -5287,7 +5287,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Prime Minister Executive Orders' focuses on 'federal executive leadership and coalition governance'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Supreme Court Judiciary Files'?",
+          "q": "Which is correct about the book/guide 'Supreme Court Judiciary Files'?",
           "options": [
             "It addresses the theme of 'judicial leadership and constitutional supremacy'.",
             "Its primary focus is 'Provincial Politics'.",
@@ -5298,7 +5298,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Supreme Court Judiciary Files' focuses on 'judicial leadership and constitutional supremacy'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Maryam Nawaz'?",
+          "q": "Which is correct about the concept of 'Maryam Nawaz'?",
           "options": [
             "It belongs to the domain of 'Information Technology Policy'.",
             "It is defined as 'the first female Chief Minister of Punjab elected in early 2024'.",
@@ -5309,7 +5309,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Maryam Nawaz' is defined as 'the first female Chief Minister of Punjab elected in early 2024'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'judicial leadership and constitutional supremacy'?",
+          "q": "What is a major reference or manual focusing on 'judicial leadership and constitutional supremacy'?",
           "options": [
             "Balochistan Assembly Records",
             "Supreme Court Judiciary Files",
@@ -5331,7 +5331,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Governor Faisal Karim Kundi' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Sindh Cabinet Proceedings'?",
+          "q": "Which is correct about the book/guide 'Sindh Cabinet Proceedings'?",
           "options": [
             "It is written about 'STZA'.",
             "It addresses the theme of 'provincial administration and policy continuity'.",
@@ -5353,7 +5353,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Navy Command Bulletins' is associated with 'Admiral Naveed Ashraf'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Supreme Court Practice Act'?",
+          "q": "Which is correct about the core idea of 'Supreme Court Practice Act'?",
           "options": [
             "It is themed as 'economic policy and foreign direct investments'.",
             "It is documented in 'Special Technology Zones Act'.",
@@ -5364,7 +5364,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Supreme Court Practice Act' is defined as 'the legislative act regulating the Chief Justice's power to form benches'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Sardar Ayaz Sadiq was elected Speaker of the National Assembly for the third time in 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Sardar Ayaz Sadiq was elected Speaker of the National Assembly for the third time in 2024.\"?",
           "options": [
             "Speaker Ayaz Sadiq",
             "President Asif Ali Zardari",
@@ -5397,7 +5397,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'CJP Yahya Afridi' is 'the 30th Chief Justice of Pakistan sworn in during October 2024'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The Supreme Court Practice and Procedure Act 2023 requires a committee of three judges to constitute benches.\"?",
+          "q": "What describes the key fact or historical quote: \"The Supreme Court Practice and Procedure Act 2023 requires a committee of three judges to constitute benches.\"?",
           "options": [
             "SIFC",
             "Islamabad Technopolis",
@@ -5496,7 +5496,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Governor Office' is the direct contrast to 'Murad Ali Shah'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Economic Policy'?",
+          "q": "What is situated within the study field of 'Economic Policy'?",
           "options": [
             "Green Pakistan Initiative",
             "Governor Faisal Karim Kundi",
@@ -5518,7 +5518,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Governor Faisal Karim Kundi' is built on the concept: 'the Governor of Khyber Pakhtunkhwa province appointed in 2024'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'interim governance and electoral transition'?",
+          "q": "What is a major reference or manual focusing on 'interim governance and electoral transition'?",
           "options": [
             "Caretaker Cabinet Decrees",
             "National Assembly Records 2024",
@@ -5562,7 +5562,7 @@ window.QuizData_current_affairs = {
           "explanation": "'demography and resource distribution indices' is a major theme inside 'Public Administration'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Chairman Yousuf Raza Gilani'?",
+          "q": "Which is correct about the core idea of 'Chairman Yousuf Raza Gilani'?",
           "options": [
             "It belongs to the field of 'Provincial Politics'.",
             "It is themed as 'women leadership in provincial governance'.",
@@ -5628,7 +5628,7 @@ window.QuizData_current_affairs = {
           "explanation": "'judicial reforms and parliamentary supremacy' is a major theme inside 'Constitutional Law'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'upper house legislation and federal representation'?",
+          "q": "What is a major reference or manual focusing on 'upper house legislation and federal representation'?",
           "options": [
             "Provincial Executive Journals",
             "Sindh Governor House Logs",
@@ -5683,7 +5683,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Digital Census 2023' is built on the concept: 'the seventh national population census representing 241.49 million citizens'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Air Force Command Bulletins'?",
+          "q": "Which is correct about the book/guide 'Air Force Command Bulletins'?",
           "options": [
             "It is contrasted with 'Foreign Policy'.",
             "It addresses the theme of 'aviation defense and modernization of fighter fleets'.",
@@ -5705,7 +5705,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Foreign Policy' is the direct contrast to 'Peshawar School Attack NAP'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"CEC Sikandar Sultan Raja presided over the logistics of the 2024 general elections.\"?",
+          "q": "What describes the key fact or historical quote: \"CEC Sikandar Sultan Raja presided over the logistics of the 2024 general elections.\"?",
           "options": [
             "Peshawar School Attack NAP",
             "PM Shehbaz Sharif",
@@ -5793,7 +5793,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Digital Census 2023' corresponds to this definition."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Electoral Politics'?",
+          "q": "What is situated within the study field of 'Electoral Politics'?",
           "options": [
             "Pakistan General Elections 2024",
             "CEC Sikandar Sultan Raja",
@@ -5804,7 +5804,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Pakistan General Elections 2024' falls under the discipline of 'Electoral Politics'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Electoral Governance'?",
+          "q": "What is situated within the study field of 'Electoral Governance'?",
           "options": [
             "Governor Faisal Karim Kundi",
             "Peshawar School Attack NAP",
@@ -5859,7 +5859,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Maryam Nawaz' deals with the theme of 'women leadership in provincial governance'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'KP Executive Archives'?",
+          "q": "Which is correct about the book/guide 'KP Executive Archives'?",
           "options": [
             "Its primary focus is 'Defense Governance'.",
             "It addresses the theme of 'provincial executive leadership and opposition politics'.",
@@ -5870,7 +5870,7 @@ window.QuizData_current_affairs = {
           "explanation": "'KP Executive Archives' focuses on 'provincial executive leadership and opposition politics'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Shehbaz Sharif secured a second term as Prime Minister after the 2024 coalition agreements.\"?",
+          "q": "What describes the key fact or historical quote: \"Shehbaz Sharif secured a second term as Prime Minister after the 2024 coalition agreements.\"?",
           "options": [
             "CEC Sikandar Sultan Raja",
             "Peshawar School Attack NAP",
@@ -5925,7 +5925,7 @@ window.QuizData_current_affairs = {
           "explanation": "'CJP Qazi Faez Isa' is the direct contrast to 'CJP Yahya Afridi'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Justice Yahya Afridi succeeded Justice Qazi Faez Isa as Chief Justice of Pakistan.\"?",
+          "q": "What describes the key fact or historical quote: \"Justice Yahya Afridi succeeded Justice Qazi Faez Isa as Chief Justice of Pakistan.\"?",
           "options": [
             "Ali Amin Gandapur",
             "STZA",
@@ -5980,7 +5980,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Special Technology Zones Act' contains documentation regarding 'technology parks and digital growth promotion'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Governor Faisal Karim Kundi'?",
+          "q": "Which is correct about the core idea of 'Governor Faisal Karim Kundi'?",
           "options": [
             "It is defined as 'the Governor of Khyber Pakhtunkhwa province appointed in 2024'.",
             "It belongs to the field of 'Provincial Politics'.",
@@ -6057,7 +6057,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Provincial Executive Journals' contains documentation regarding 'women leadership in provincial governance'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Supreme Court Practice Act'?",
+          "q": "Which is correct about the concept of 'Supreme Court Practice Act'?",
           "options": [
             "It is defined as 'the legislative act regulating the Chief Justice's power to form benches'.",
             "It belongs to the domain of 'National Governance'.",
@@ -6068,7 +6068,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Supreme Court Practice Act' is defined as 'the legislative act regulating the Chief Justice's power to form benches'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Murad Ali Shah'?",
+          "q": "What is a key description or fact regarding the concept of 'Murad Ali Shah'?",
           "options": [
             "\"STZA was established to offer tax incentives to technology enterprises in Pakistan.\"",
             "\"Admiral Naveed Ashraf assumed command as the 23rd Chief of Naval Staff.\"",
@@ -6112,7 +6112,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Tech Zone Regulatory Frameworks' is associated with 'STZA'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Chairman Yousuf Raza Gilani'?",
+          "q": "Which is correct about the concept of 'Chairman Yousuf Raza Gilani'?",
           "options": [
             "It is documented in the manual 'KP Governor House Logs'.",
             "Its contrasting theme is 'provincial constitutional representation and public welfare programs'.",
@@ -6123,7 +6123,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Chairman Yousuf Raza Gilani' is defined as 'the elected Chairman of the Senate of Pakistan in 2024'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'provincial representation and center-province relations'?",
+          "q": "What is a major reference or manual focusing on 'provincial representation and center-province relations'?",
           "options": [
             "Electoral Record Books",
             "Agricultural Reforms Policy",
@@ -6134,7 +6134,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Balochistan Governor House Logs' is known for its focus on 'provincial representation and center-province relations'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'STZA'?",
+          "q": "Which is correct about the core idea of 'STZA'?",
           "options": [
             "It is defined as 'the Special Technology Zones Authority promoting technology investments'.",
             "It belongs to the field of 'Public Administration'.",
@@ -6189,7 +6189,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Governor Jafar Khan Mandokhail' deals with the theme of 'provincial representation and center-province relations'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Admiral Naveed Ashraf'?",
+          "q": "What is a key description or fact regarding the concept of 'Admiral Naveed Ashraf'?",
           "options": [
             "\"Syed Murad Ali Shah was elected Chief Minister of Sindh for a third consecutive term.\"",
             "\"Justice Yahya Afridi succeeded Justice Qazi Faez Isa as Chief Justice of Pakistan.\"",
@@ -6255,7 +6255,7 @@ window.QuizData_current_affairs = {
           "explanation": "'PM Shehbaz Sharif' is classified under the domain of 'National Governance'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'electoral processes and democratic representation'?",
+          "q": "What is a major reference or manual focusing on 'electoral processes and democratic representation'?",
           "options": [
             "Election Commission Directives",
             "Presidential Secretariat Records",
@@ -6321,7 +6321,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Murad Ali Shah' is classified under the domain of 'Provincial Politics'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'women leadership in provincial governance'?",
+          "q": "What is a major reference or manual focusing on 'women leadership in provincial governance'?",
           "options": [
             "Supreme Court Guidelines 2023",
             "Election Commission Directives",
@@ -6365,7 +6365,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Supreme Court Guidelines 2023' is the manual associated with 'judicial reforms and parliamentary supremacy'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Asif Ali Zardari was elected President of Pakistan in March 2024, succeeding Arif Alvi.\"?",
+          "q": "What describes the key fact or historical quote: \"Asif Ali Zardari was elected President of Pakistan in March 2024, succeeding Arif Alvi.\"?",
           "options": [
             "CEC Sikandar Sultan Raja",
             "Speaker Ayaz Sadiq",
@@ -6387,7 +6387,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Election Commission Directives' is associated with 'CEC Sikandar Sultan Raja'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Investment Facilitation Framework'?",
+          "q": "Which is correct about the book/guide 'Investment Facilitation Framework'?",
           "options": [
             "It addresses the theme of 'economic policy and foreign direct investments'.",
             "It is contrasted with 'Army Chief Command'.",
@@ -6409,7 +6409,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Sarfraz Bugti'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Peshawar School Attack NAP'?",
+          "q": "What is a key description or fact regarding the concept of 'Peshawar School Attack NAP'?",
           "options": [
             "\"Ali Amin Gandapur took oath as Chief Minister of Khyber Pakhtunkhwa in early 2024.\"",
             "\"CEC Sikandar Sultan Raja presided over the logistics of the 2024 general elections.\"",
@@ -7570,7 +7570,7 @@ window.QuizData_current_affairs = {
           "explanation": "They establish international legal standards for humanitarian treatment."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'China Brokerage'?",
+          "q": "Which is correct about the core idea of 'China Brokerage'?",
           "options": [
             "It is themed as 'economic modernization and structural diversification'.",
             "It is defined as 'the China-mediated normalisation agreement signed by Saudi Arabia and Iran'.",
@@ -7581,7 +7581,7 @@ window.QuizData_current_affairs = {
           "explanation": "'China Brokerage' is defined as 'the China-mediated normalisation agreement signed by Saudi Arabia and Iran'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'PM Keir Starmer'?",
+          "q": "Which is correct about the core idea of 'PM Keir Starmer'?",
           "options": [
             "It belongs to the field of 'Sports Policy'.",
             "It is documented in 'Urban Relocation Plans'.",
@@ -7592,7 +7592,7 @@ window.QuizData_current_affairs = {
           "explanation": "'PM Keir Starmer' is defined as 'the leader of the Labour Party elected UK Prime Minister in July 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'US Elections 2024'?",
+          "q": "Which is correct about the core idea of 'US Elections 2024'?",
           "options": [
             "It is defined as 'the 60th quadrennial presidential election held in November 2024'.",
             "It is themed as 'mass student movements and regime transitions'.",
@@ -7603,7 +7603,7 @@ window.QuizData_current_affairs = {
           "explanation": "'US Elections 2024' is defined as 'the 60th quadrennial presidential election held in November 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'President Masoud Pezeshkian'?",
+          "q": "Which is correct about the core idea of 'President Masoud Pezeshkian'?",
           "options": [
             "It is defined as 'the reformist President elected in Iran after the 2024 helicopter crash'.",
             "It is documented in 'British Parliamentary Journals'.",
@@ -7614,7 +7614,7 @@ window.QuizData_current_affairs = {
           "explanation": "'President Masoud Pezeshkian' is defined as 'the reformist President elected in Iran after the 2024 helicopter crash'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Sheikh Hasina Resignation'?",
+          "q": "Which is correct about the core idea of 'Sheikh Hasina Resignation'?",
           "options": [
             "It is documented in 'Middle East Security Reports'.",
             "It is themed as 'multipolar economic alliances and global trade shifts'.",
@@ -7625,7 +7625,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Sheikh Hasina Resignation' is defined as 'the resignation and departure of Bangladesh's Prime Minister in August 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'France Pension Reforms'?",
+          "q": "Which is correct about the core idea of 'France Pension Reforms'?",
           "options": [
             "It is defined as 'the controversial policy raising the retirement age from 62 to 64'.",
             "It is documented in 'Geopolitical Bloc Analyses'.",
@@ -7636,7 +7636,7 @@ window.QuizData_current_affairs = {
           "explanation": "'France Pension Reforms' is defined as 'the controversial policy raising the retirement age from 62 to 64'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Nusantara Capital'?",
+          "q": "Which is correct about the core idea of 'Nusantara Capital'?",
           "options": [
             "It belongs to the field of 'International Relations'.",
             "It is themed as 'regional wars and international humanitarian law'.",
@@ -7647,7 +7647,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Nusantara Capital' is defined as 'the newly constructed capital city of Indonesia replacing Jakarta'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Saudi Vision 2030'?",
+          "q": "Which is correct about the core idea of 'Saudi Vision 2030'?",
           "options": [
             "It belongs to the field of 'International Relations'.",
             "It is themed as 'political leadership transitions in the United Kingdom'.",
@@ -7856,7 +7856,7 @@ window.QuizData_current_affairs = {
           "explanation": "The Pakistan Stock Exchange (PSX) was formed by merging regional exchanges."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Roshan Digital Account'?",
+          "q": "Which is correct about the core idea of 'Roshan Digital Account'?",
           "options": [
             "It is defined as 'the digital banking platform for non-resident Pakistanis to invest locally'.",
             "It belongs to the field of 'Macroeconomics'.",
@@ -7867,7 +7867,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Roshan Digital Account' is defined as 'the digital banking platform for non-resident Pakistanis to invest locally'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Sovereign Default Risk'?",
+          "q": "Which is correct about the core idea of 'Sovereign Default Risk'?",
           "options": [
             "It belongs to the field of 'Banking Systems'.",
             "It is themed as 'tax administration and revenue modernization'.",
@@ -7878,7 +7878,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Sovereign Default Risk' is defined as 'the risk of economic bankruptcy faced by developing nations'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Foreign Remittances Inflow'?",
+          "q": "Which is correct about the core idea of 'Foreign Remittances Inflow'?",
           "options": [
             "It is themed as 'industrialization and export promotion policies'.",
             "It belongs to the field of 'Public Finance'.",
@@ -7889,7 +7889,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Foreign Remittances Inflow' is defined as 'the money transfers sent by overseas Pakistani workers to local families'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'SBP Policy Rate'?",
+          "q": "Which is correct about the core idea of 'SBP Policy Rate'?",
           "options": [
             "It belongs to the field of 'Financial Economics'.",
             "It is defined as 'the historically high policy rate kept around 22% to curb inflation'.",
@@ -7900,7 +7900,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SBP Policy Rate' is defined as 'the historically high policy rate kept around 22% to curb inflation'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'FATF Removal'?",
+          "q": "Which is correct about the core idea of 'FATF Removal'?",
           "options": [
             "It is themed as 'industrialization and export promotion policies'.",
             "It belongs to the field of 'Macroeconomics'.",
@@ -7911,7 +7911,7 @@ window.QuizData_current_affairs = {
           "explanation": "'FATF Removal' is defined as 'the formal exit of Pakistan from the anti-money laundering grey list'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Extended Fund Facility'?",
+          "q": "Which is correct about the core idea of 'Extended Fund Facility'?",
           "options": [
             "It is themed as 'industrialization and export promotion policies'.",
             "It is documented in 'Stock Market Reports'.",
@@ -7922,7 +7922,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Extended Fund Facility' is defined as 'the $7 billion IMF program approved for Pakistan in late 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Power Sector Circular Debt'?",
+          "q": "Which is correct about the core idea of 'Power Sector Circular Debt'?",
           "options": [
             "It is defined as 'the cascading inter-corporate debt crippling Pakistan's energy supply'.",
             "It belongs to the field of 'Macroeconomics'.",
@@ -7933,7 +7933,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Power Sector Circular Debt' is defined as 'the cascading inter-corporate debt crippling Pakistan's energy supply'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'PSX 100 Index'?",
+          "q": "Which is correct about the core idea of 'PSX 100 Index'?",
           "options": [
             "It is themed as 'industrial cooperation and regional connectivity'.",
             "It belongs to the field of 'International Finance'.",
@@ -7944,7 +7944,7 @@ window.QuizData_current_affairs = {
           "explanation": "'PSX 100 Index' is defined as 'the benchmark share index reflecting capital market activity in Karachi'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'CPEC Phase 2'?",
+          "q": "Which is correct about the core idea of 'CPEC Phase 2'?",
           "options": [
             "It belongs to the field of 'Macroeconomics'.",
             "It is themed as 'power tariffs and energy subsidy reforms'.",
@@ -8043,7 +8043,7 @@ window.QuizData_current_affairs = {
           "explanation": "It was established in 1893."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'AUKUS Alliance'?",
+          "q": "Which is correct about the core idea of 'AUKUS Alliance'?",
           "options": [
             "It belongs to the field of 'Defense Technology'.",
             "It is documented in 'Military Gallantry Annals'.",
@@ -8054,7 +8054,7 @@ window.QuizData_current_affairs = {
           "explanation": "'AUKUS Alliance' is defined as 'the trilateral security partnership developing nuclear submarines for Australia'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Operation Azm-e-Istehkam'?",
+          "q": "Which is correct about the core idea of 'Operation Azm-e-Istehkam'?",
           "options": [
             "It is documented in 'Ballistic Missile Test Logs'.",
             "It is defined as 'the national security campaign launched in 2024 to curb terrorism'.",
@@ -8065,7 +8065,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Operation Azm-e-Istehkam' is defined as 'the national security campaign launched in 2024 to curb terrorism'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'DG ISI'?",
+          "q": "Which is correct about the core idea of 'DG ISI'?",
           "options": [
             "It is themed as 'global defense alliances and Indo-Pacific security'.",
             "It belongs to the field of 'Nuclear Studies'.",
@@ -8076,7 +8076,7 @@ window.QuizData_current_affairs = {
           "explanation": "'DG ISI' is defined as 'the Director General of the premier military intelligence agency'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Operation Radd-ul-Fasaad'?",
+          "q": "Which is correct about the core idea of 'Operation Radd-ul-Fasaad'?",
           "options": [
             "It is themed as 'nuclear deterrence and missile technology'.",
             "It is defined as 'the intelligence-based security operation launched across Pakistan in 2017'.",
@@ -8087,7 +8087,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Operation Radd-ul-Fasaad' is defined as 'the intelligence-based security operation launched across Pakistan in 2017'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'National Action Plan'?",
+          "q": "Which is correct about the core idea of 'National Action Plan'?",
           "options": [
             "It is documented in 'Military Gallantry Annals'.",
             "It is themed as 'maritime safety and sea lanes protection'.",
@@ -8098,7 +8098,7 @@ window.QuizData_current_affairs = {
           "explanation": "'National Action Plan' is defined as 'the counter-terrorism policy drafted after the APS Peshawar tragedy'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Shahpar-II Drone'?",
+          "q": "Which is correct about the core idea of 'Shahpar-II Drone'?",
           "options": [
             "It belongs to the field of 'Security Studies'.",
             "It is documented in 'Naval Operations Journals'.",
@@ -8241,7 +8241,7 @@ window.QuizData_current_affairs = {
           "explanation": "USA, UK, France, Germany, Italy, Canada, and Japan."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'OIC Palestine Resolutions'?",
+          "q": "Which is correct about the core idea of 'OIC Palestine Resolutions'?",
           "options": [
             "It is documented in 'World Health Assemblies'.",
             "It is defined as 'the extraordinary Islamic summits condemning Gaza security actions'.",
@@ -8252,7 +8252,7 @@ window.QuizData_current_affairs = {
           "explanation": "'OIC Palestine Resolutions' is defined as 'the extraordinary Islamic summits condemning Gaza security actions'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'World Bank President Ajay Banga'?",
+          "q": "Which is correct about the core idea of 'World Bank President Ajay Banga'?",
           "options": [
             "It is defined as 'the leader appointed to head the global development finance body'.",
             "It belongs to the field of 'International Relations'.",
@@ -8263,7 +8263,7 @@ window.QuizData_current_affairs = {
           "explanation": "'World Bank President Ajay Banga' is defined as 'the leader appointed to head the global development finance body'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'WHO DG Tedros'?",
+          "q": "Which is correct about the core idea of 'WHO DG Tedros'?",
           "options": [
             "It belongs to the field of 'International Finance'.",
             "It is documented in 'SCO Conference Records'.",
@@ -8868,7 +8868,7 @@ window.QuizData_current_affairs = {
           "explanation": "Antibiotics do NOT work on viruses like flu or cold."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Neuralink Implant'?",
+          "q": "Which is correct about the core idea of 'Neuralink Implant'?",
           "options": [
             "It is documented in 'Deep Space Imaging Logs'.",
             "It belongs to the field of 'Cyber Law'.",
@@ -8879,7 +8879,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Neuralink Implant' is defined as 'the first successful human brain-computer interface chip implant in 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Renewable Capacity Growth'?",
+          "q": "Which is correct about the core idea of 'Renewable Capacity Growth'?",
           "options": [
             "It belongs to the field of 'Aeronautics'.",
             "It is themed as 'global health policy and infectious disease alerts'.",
@@ -8890,7 +8890,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Renewable Capacity Growth' is defined as 'the rapid expansion of global solar and wind power installations'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Artemis Program'?",
+          "q": "Which is correct about the core idea of 'Artemis Program'?",
           "options": [
             "It is defined as 'the NASA-led project aiming to land humans back on the moon'.",
             "It is documented in 'Satellite Broadband Plans'.",
@@ -8901,7 +8901,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Artemis Program' is defined as 'the NASA-led project aiming to land humans back on the moon'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'iCube-Qamar'?",
+          "q": "Which is correct about the core idea of 'iCube-Qamar'?",
           "options": [
             "It is defined as 'the first historical lunar satellite launched by Pakistan in 2024'.",
             "It is documented in 'Data Privacy Legislation'.",
@@ -8912,7 +8912,7 @@ window.QuizData_current_affairs = {
           "explanation": "'iCube-Qamar' is defined as 'the first historical lunar satellite launched by Pakistan in 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'TikTok Restrictions'?",
+          "q": "Which is correct about the core idea of 'TikTok Restrictions'?",
           "options": [
             "It is defined as 'the US laws forcing ByteDance to sell or face a platform ban'.",
             "It is themed as 'climate action agreements and carbon reduction targets'.",
@@ -8923,7 +8923,7 @@ window.QuizData_current_affairs = {
           "explanation": "'TikTok Restrictions' is defined as 'the US laws forcing ByteDance to sell or face a platform ban'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Gemini Google'?",
+          "q": "Which is correct about the core idea of 'Gemini Google'?",
           "options": [
             "It is themed as 'space exploration and lunar orbiter technology'.",
             "It belongs to the field of 'Neuroscience'.",
@@ -8934,7 +8934,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Gemini Google' is defined as 'the advanced multimodal artificial intelligence system competing with GPT-4'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Chandrayaan-3'?",
+          "q": "Which is correct about the core idea of 'Chandrayaan-3'?",
           "options": [
             "It is themed as 'green energy transition and carbon reduction policies'.",
             "It belongs to the field of 'Cyber Law'.",
@@ -8945,7 +8945,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Chandrayaan-3' is defined as 'the historical mission landing a spacecraft near the moon's south pole'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Project Kuiper'?",
+          "q": "Which is correct about the core idea of 'Project Kuiper'?",
           "options": [
             "It is defined as 'the Amazon satellite constellation project to provide global broadband'.",
             "It is themed as 'green energy transition and carbon reduction policies'.",
@@ -9121,7 +9121,7 @@ window.QuizData_current_affairs = {
           "explanation": "Anxiety that an exciting event may be happening elsewhere."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Narges Mohammadi'?",
+          "q": "Which is correct about the core idea of 'Narges Mohammadi'?",
           "options": [
             "It is documented in 'Olympic Games Records'.",
             "It is defined as 'the imprisoned Iranian human rights activist awarded the Peace Prize'.",
@@ -9132,7 +9132,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Narges Mohammadi' is defined as 'the imprisoned Iranian human rights activist awarded the Peace Prize'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Oppenheimer Sweep'?",
+          "q": "Which is correct about the core idea of 'Oppenheimer Sweep'?",
           "options": [
             "It is defined as 'the biographical film winning seven Oscars including Best Picture in 2024'.",
             "It belongs to the field of 'Sports History'.",
@@ -9143,7 +9143,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Oppenheimer Sweep' is defined as 'the biographical film winning seven Oscars including Best Picture in 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'King Charles III'?",
+          "q": "Which is correct about the core idea of 'King Charles III'?",
           "options": [
             "It is defined as 'the official coronation ceremony of the UK monarch in May 2023'.",
             "It is themed as 'global football tournaments and team sports'.",
@@ -9154,7 +9154,7 @@ window.QuizData_current_affairs = {
           "explanation": "'King Charles III' is defined as 'the official coronation ceremony of the UK monarch in May 2023'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Taylor Swift TIME Person'?",
+          "q": "Which is correct about the core idea of 'Taylor Swift TIME Person'?",
           "options": [
             "It belongs to the field of 'Sports History'.",
             "It is documented in 'Cricket Tournament Records'.",
@@ -9165,7 +9165,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Taylor Swift TIME Person' is defined as 'the pop star named TIME Person of the Year for cultural impact'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Arshad Nadeem Gold Medal'?",
+          "q": "Which is correct about the core idea of 'Arshad Nadeem Gold Medal'?",
           "options": [
             "It is themed as 'international soccer tournaments and women sports'.",
             "It is documented in 'British Monarchy Chronicles'.",
@@ -9176,7 +9176,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Arshad Nadeem Gold Medal' is defined as 'the gold medal won in Javelin Throw with a record 92.97m throw'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Jannik Sinner'?",
+          "q": "Which is correct about the core idea of 'Jannik Sinner'?",
           "options": [
             "It belongs to the field of 'Sports Policy'.",
             "It is defined as 'the Italian player winning the Australian Open men's singles in 2024'.",
@@ -9187,7 +9187,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Jannik Sinner' is defined as 'the Italian player winning the Australian Open men's singles in 2024'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'President Masoud Pezeshkian'?",
+          "q": "What is a key description or fact regarding the concept of 'President Masoud Pezeshkian'?",
           "options": [
             "\"Indonesia officially began relocating its capital to Nusantara in East Kalimantan.\"",
             "\"Jon Fosse was awarded the Nobel Prize in Literature for his innovative plays and prose.\"",
@@ -9286,7 +9286,7 @@ window.QuizData_current_affairs = {
           "explanation": "'democratic leadership transitions and foreign policy' is a major theme inside 'Global Politics'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'COP29 Baku'?",
+          "q": "Which is correct about the concept of 'COP29 Baku'?",
           "options": [
             "It belongs to the domain of 'Cultural History'.",
             "It is documented in the manual 'Olympic Games Chronicles'.",
@@ -9297,7 +9297,7 @@ window.QuizData_current_affairs = {
           "explanation": "'COP29 Baku' is defined as 'the climate change summit held in Azerbaijan in late 2024 focusing on finance'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Chandrayaan-3 Landing'?",
+          "q": "What is a key description or fact regarding the concept of 'Chandrayaan-3 Landing'?",
           "options": [
             "\"Donald Trump won the presidential race in November 2024, securing a second non-consecutive term.\"",
             "\"India's Chandrayaan-3 successfully landed near the lunar south pole in August 2023.\"",
@@ -9330,7 +9330,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'COP29 Baku' is 'the climate change summit held in Azerbaijan in late 2024 focusing on finance'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Sweden ended over two centuries of military non-alignment by joining NATO in March 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Sweden ended over two centuries of military non-alignment by joining NATO in March 2024.\"?",
           "options": [
             "Gaza Strip Conflict",
             "US Elections 2024",
@@ -9341,7 +9341,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'Sweden NATO Entry'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Donald Trump 2024'?",
+          "q": "Which is correct about the core idea of 'Donald Trump 2024'?",
           "options": [
             "It is themed as 'global cinema recognition and box office success'.",
             "It is defined as 'the Republican candidate elected as the 47th President of the US'.",
@@ -9352,7 +9352,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Donald Trump 2024' is defined as 'the Republican candidate elected as the 47th President of the US'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Schengen Croatia Entry'?",
+          "q": "Which is correct about the concept of 'Schengen Croatia Entry'?",
           "options": [
             "It is documented in the manual 'South Asian Administrative Records'.",
             "It is defined as 'Croatia's entry into the Schengen border-free zone on January 1, 2023'.",
@@ -9374,7 +9374,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SLIM Lander Japan' deals with the theme of 'space exploration and lunar navigation systems'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Lunar Spaceflight Journals'?",
+          "q": "Which is correct about the book/guide 'Lunar Spaceflight Journals'?",
           "options": [
             "It is written about 'President Masoud Pezeshkian'.",
             "It addresses the theme of 'space exploration and low-cost aerospace engineering'.",
@@ -9396,7 +9396,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Petrodollar Dependency' is the standard contrast to 'Saudi Vision 2030'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Oppenheimer won seven Oscars at the 96th Academy Awards, including Best Director for Nolan.\"?",
+          "q": "What describes the key fact or historical quote: \"Oppenheimer won seven Oscars at the 96th Academy Awards, including Best Director for Nolan.\"?",
           "options": [
             "Nusantara Capital",
             "Oppenheimer Film",
@@ -9451,7 +9451,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Cinema History Chronicles' is associated with 'Oppenheimer Film'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'US Elections 2024'?",
+          "q": "Which is correct about the concept of 'US Elections 2024'?",
           "options": [
             "It belongs to the domain of 'Aeronautics'.",
             "It is defined as 'the 60th quadrennial presidential election held in November 2024'.",
@@ -9484,7 +9484,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Economic Diversification Manuals' is associated with 'Saudi Vision 2030'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Chandrayaan-3 Landing'?",
+          "q": "Which is correct about the concept of 'Chandrayaan-3 Landing'?",
           "options": [
             "Its contrasting theme is 'conservative governance and tariff-based trade policy'.",
             "It belongs to the domain of 'Administrative Geography'.",
@@ -9528,7 +9528,7 @@ window.QuizData_current_affairs = {
           "explanation": "'British Parliamentary Journals' is associated with 'PM Keir Starmer'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Environmental Policy'?",
+          "q": "What is situated within the study field of 'Environmental Policy'?",
           "options": [
             "Chandrayaan-3 Landing",
             "COP28 UAE",
@@ -9572,7 +9572,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'France Pension Reforms'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Gaza Strip Conflict'?",
+          "q": "Which is correct about the core idea of 'Gaza Strip Conflict'?",
           "options": [
             "It belongs to the field of 'International Relations'.",
             "It is documented in 'Atlantic Alliance Expansion Logs'.",
@@ -9605,7 +9605,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Peace Accord' is the direct contrast to 'Gaza Strip Conflict'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The conflict in Gaza escalated to historic proportions following the October 7, 2023 events.\"?",
+          "q": "What describes the key fact or historical quote: \"The conflict in Gaza escalated to historic proportions following the October 7, 2023 events.\"?",
           "options": [
             "BRICS Expansion 2024",
             "Gaza Strip Conflict",
@@ -9627,7 +9627,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Urban Relocation Plans' is the manual associated with 'climate adaptation and sustainable urban relocation'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'regional security alliances and border defense expansions'?",
+          "q": "What is a major reference or manual focusing on 'regional security alliances and border defense expansions'?",
           "options": [
             "European Social Welfare Audits",
             "Atlantic Alliance Expansion Logs",
@@ -9638,7 +9638,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Atlantic Alliance Expansion Logs' is known for its focus on 'regional security alliances and border defense expansions'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Muhammad Yunus took oath as Chief Adviser of Bangladesh in August 2024 following protests.\"?",
+          "q": "What describes the key fact or historical quote: \"Muhammad Yunus took oath as Chief Adviser of Bangladesh in August 2024 following protests.\"?",
           "options": [
             "Nusantara Capital",
             "President Masoud Pezeshkian",
@@ -9693,7 +9693,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Global Climate Treaties' is associated with 'COP28 UAE'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'climate adaptation and sustainable urban relocation'?",
+          "q": "What is a major reference or manual focusing on 'climate adaptation and sustainable urban relocation'?",
           "options": [
             "Urban Relocation Plans",
             "Diplomatic Mediation Records",
@@ -9704,7 +9704,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Urban Relocation Plans' is known for its focus on 'climate adaptation and sustainable urban relocation'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Jon Fosse was awarded the Nobel Prize in Literature for his innovative plays and prose.\"?",
+          "q": "What describes the key fact or historical quote: \"Jon Fosse was awarded the Nobel Prize in Literature for his innovative plays and prose.\"?",
           "options": [
             "Jon Fosse",
             "Nusantara Capital",
@@ -9759,7 +9759,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Saudi Vision 2030' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'climate diplomacy and international clean energy funding'?",
+          "q": "What is a major reference or manual focusing on 'climate diplomacy and international clean energy funding'?",
           "options": [
             "Urban Relocation Plans",
             "Global Climate Treaties",
@@ -9792,7 +9792,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Barbie Movie Releases' is the standard contrast to 'Oppenheimer Film'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Sweden NATO Entry'?",
+          "q": "What is a key description or fact regarding the concept of 'Sweden NATO Entry'?",
           "options": [
             "\"Four new nations officially joined BRICS in January 2024, expanding the group.\"",
             "\"The conflict in Gaza escalated to historic proportions following the October 7, 2023 events.\"",
@@ -9814,7 +9814,7 @@ window.QuizData_current_affairs = {
           "explanation": "'COP29 Baku' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'American Presidential History'?",
+          "q": "Which is correct about the book/guide 'American Presidential History'?",
           "options": [
             "It addresses the theme of 'conservative governance and tariff-based trade policy'.",
             "Its primary focus is 'Environmental Policy'.",
@@ -9913,7 +9913,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'President Masoud Pezeshkian' is 'the reformist President elected in Iran after the 2024 helicopter crash'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Security Studies'?",
+          "q": "What is situated within the study field of 'Security Studies'?",
           "options": [
             "Gaza Strip Conflict",
             "BRICS Expansion 2024",
@@ -10001,7 +10001,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Finland NATO Entry' deals with the theme of 'regional security alliances and border defense expansions'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Global Climate Treaties'?",
+          "q": "Which is correct about the book/guide 'Global Climate Treaties'?",
           "options": [
             "Its primary focus is 'Administrative Geography'.",
             "It is written about 'Chandrayaan-3 Landing'.",
@@ -10012,7 +10012,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Global Climate Treaties' focuses on 'climate diplomacy and international clean energy funding'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'multipolar economic alliances and global trade shifts'?",
+          "q": "What is a major reference or manual focusing on 'multipolar economic alliances and global trade shifts'?",
           "options": [
             "Global Electoral Studies",
             "British Parliamentary Journals",
@@ -10023,7 +10023,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Geopolitical Bloc Analyses' is known for its focus on 'multipolar economic alliances and global trade shifts'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Oppenheimer Film'?",
+          "q": "What is a key description or fact regarding the concept of 'Oppenheimer Film'?",
           "options": [
             "\"Oppenheimer won seven Oscars at the 96th Academy Awards, including Best Director for Nolan.\"",
             "\"India's Chandrayaan-3 successfully landed near the lunar south pole in August 2023.\"",
@@ -10067,7 +10067,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Ebrahim Raisi Crash' deals with the theme of 'governance crises and unexpected leadership transitions'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'conservative governance and tariff-based trade policy'?",
+          "q": "What is a major reference or manual focusing on 'conservative governance and tariff-based trade policy'?",
           "options": [
             "American Presidential History",
             "Cinema History Chronicles",
@@ -10122,7 +10122,7 @@ window.QuizData_current_affairs = {
           "explanation": "'PM Keir Starmer' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Sweden NATO Entry'?",
+          "q": "Which is correct about the concept of 'Sweden NATO Entry'?",
           "options": [
             "It is defined as 'the formal induction of Sweden as the 32nd member of NATO in 2024'.",
             "It is documented in the manual 'Global Electoral Studies'.",
@@ -10155,7 +10155,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Russia-Ukraine War' deals with the theme of 'sovereignty conflicts and modern military warfare'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'climate finance and global carbon trading frameworks'?",
+          "q": "What is a major reference or manual focusing on 'climate finance and global carbon trading frameworks'?",
           "options": [
             "Global Climate Treaties",
             "Olympic Games Chronicles",
@@ -10232,7 +10232,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Sheikh Hasina Resignation' is classified under the domain of 'Global Politics'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'political leadership transitions in the United Kingdom'?",
+          "q": "What is a major reference or manual focusing on 'political leadership transitions in the United Kingdom'?",
           "options": [
             "Lunar Spaceflight Journals",
             "Cinema History Chronicles",
@@ -10243,7 +10243,7 @@ window.QuizData_current_affairs = {
           "explanation": "'British Parliamentary Journals' is known for its focus on 'political leadership transitions in the United Kingdom'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'PM Keir Starmer'?",
+          "q": "What is a key description or fact regarding the concept of 'PM Keir Starmer'?",
           "options": [
             "\"India's Chandrayaan-3 successfully landed near the lunar south pole in August 2023.\"",
             "\"Oppenheimer won seven Oscars at the 96th Academy Awards, including Best Director for Nolan.\"",
@@ -10276,7 +10276,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Lunar Spaceflight Journals' is associated with 'SLIM Lander Japan'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Urban Relocation Plans'?",
+          "q": "Which is correct about the book/guide 'Urban Relocation Plans'?",
           "options": [
             "It is written about 'Sweden NATO Entry'.",
             "Its primary focus is 'International Relations'.",
@@ -10298,7 +10298,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'BRICS Expansion 2024' is 'the official entry of Egypt, Ethiopia, Iran, and UAE into the bloc'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"France faced massive protests in 2023 over raising the official retirement age.\"?",
+          "q": "What describes the key fact or historical quote: \"France faced massive protests in 2023 over raising the official retirement age.\"?",
           "options": [
             "Paris Olympics 2024",
             "France Pension Reforms",
@@ -10331,7 +10331,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Global Electoral Studies' is associated with 'US Elections 2024'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Russia-Ukraine War'?",
+          "q": "What is a key description or fact regarding the concept of 'Russia-Ukraine War'?",
           "options": [
             "\"The 2024 United States presidential election shaped global geopolitical and economic policies.\"",
             "\"The war in Ukraine continues to drive Western defense expenditure and NATO expansions.\"",
@@ -10342,7 +10342,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'Russia-Ukraine War' is: \"The war in Ukraine continues to drive Western defense expenditure and NATO expansions.\"."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Gaza Strip Conflict'?",
+          "q": "Which is correct about the concept of 'Gaza Strip Conflict'?",
           "options": [
             "It is defined as 'the massive escalation of war and humanitarian crisis in the Levant'.",
             "Its contrasting theme is 'regional security alliances and border defense expansions'.",
@@ -10353,7 +10353,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Gaza Strip Conflict' is defined as 'the massive escalation of war and humanitarian crisis in the Levant'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"COP28 in Dubai saw countries agree to transition away from fossil fuels for the first time.\"?",
+          "q": "What describes the key fact or historical quote: \"COP28 in Dubai saw countries agree to transition away from fossil fuels for the first time.\"?",
           "options": [
             "Chandrayaan-3 Landing",
             "Nusantara Capital",
@@ -10364,7 +10364,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'COP28 UAE'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Gaza Strip Conflict'?",
+          "q": "What is a key description or fact regarding the concept of 'Gaza Strip Conflict'?",
           "options": [
             "\"The conflict in Gaza escalated to historic proportions following the October 7, 2023 events.\"",
             "\"Four new nations officially joined BRICS in January 2024, expanding the group.\"",
@@ -10419,7 +10419,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Electoral Victory' is the direct contrast to 'Sheikh Hasina Resignation'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Jon Fosse'?",
+          "q": "Which is correct about the core idea of 'Jon Fosse'?",
           "options": [
             "It belongs to the field of 'Administrative Geography'.",
             "It is documented in 'Diplomatic Mediation Records'.",
@@ -10441,7 +10441,7 @@ window.QuizData_current_affairs = {
           "explanation": "'climate diplomacy and international clean energy funding' is a major theme inside 'Environmental Policy'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The war in Ukraine continues to drive Western defense expenditure and NATO expansions.\"?",
+          "q": "What describes the key fact or historical quote: \"The war in Ukraine continues to drive Western defense expenditure and NATO expansions.\"?",
           "options": [
             "Russia-Ukraine War",
             "Donald Trump 2024",
@@ -10606,7 +10606,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'President Masoud Pezeshkian'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Paris Olympics 2024'?",
+          "q": "What is a key description or fact regarding the concept of 'Paris Olympics 2024'?",
           "options": [
             "\"Jon Fosse was awarded the Nobel Prize in Literature for his innovative plays and prose.\"",
             "\"Paris hosted the Summer Olympics in 2024, featuring breaking as a new sport.\"",
@@ -10650,7 +10650,7 @@ window.QuizData_current_affairs = {
           "explanation": "'South Asian Administrative Records' is associated with 'Dr. Muhammad Yunus'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'International Finance'?",
+          "q": "What is situated within the study field of 'International Finance'?",
           "options": [
             "Donald Trump 2024",
             "Jon Fosse",
@@ -10661,7 +10661,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Saudi Vision 2030' falls under the discipline of 'International Finance'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Chandrayaan-3 Landing'?",
+          "q": "Which is correct about the core idea of 'Chandrayaan-3 Landing'?",
           "options": [
             "It is documented in 'American Presidential History'.",
             "It is themed as 'climate adaptation and sustainable urban relocation'.",
@@ -10672,7 +10672,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Chandrayaan-3 Landing' is defined as 'India's successful robotic lunar landing near the Moon south pole'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'COP28 UAE'?",
+          "q": "Which is correct about the core idea of 'COP28 UAE'?",
           "options": [
             "It is themed as 'middle eastern governance and diplomatic relations'.",
             "It is documented in 'Urban Relocation Plans'.",
@@ -10705,7 +10705,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Dr. Muhammad Yunus' is built on the concept: 'the Nobel laureate appointed Chief Adviser of Bangladesh's interim cabinet'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'China Brokerage'?",
+          "q": "What is a key description or fact regarding the concept of 'China Brokerage'?",
           "options": [
             "\"Muhammad Yunus took oath as Chief Adviser of Bangladesh in August 2024 following protests.\"",
             "\"The war in Ukraine continues to drive Western defense expenditure and NATO expansions.\"",
@@ -10771,7 +10771,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Eurozone Exit' is the standard contrast to 'Schengen Croatia Entry'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'diplomatic mediation and east asian geopolitical influence'?",
+          "q": "What is a major reference or manual focusing on 'diplomatic mediation and east asian geopolitical influence'?",
           "options": [
             "South Asian Administrative Records",
             "South Asian Political Surveys",
@@ -10793,7 +10793,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Global Climate Treaties' contains documentation regarding 'climate diplomacy and international clean energy funding'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'COP28 UAE'?",
+          "q": "What is a key description or fact regarding the concept of 'COP28 UAE'?",
           "options": [
             "\"COP28 in Dubai saw countries agree to transition away from fossil fuels for the first time.\"",
             "\"Masoud Pezeshkian was elected Iran's President following the death of Ebrahim Raisi.\"",
@@ -10826,7 +10826,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'France Pension Reforms' is 'the controversial policy raising the retirement age from 62 to 64'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'President Masoud Pezeshkian'?",
+          "q": "Which is correct about the concept of 'President Masoud Pezeshkian'?",
           "options": [
             "Its contrasting theme is 'global literary achievements and innovative dramas'.",
             "It belongs to the domain of 'Administrative Geography'.",
@@ -10903,7 +10903,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Chandrayaan-3 Landing'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'France Pension Reforms'?",
+          "q": "What is a key description or fact regarding the concept of 'France Pension Reforms'?",
           "options": [
             "\"Four new nations officially joined BRICS in January 2024, expanding the group.\"",
             "\"COP28 in Dubai saw countries agree to transition away from fossil fuels for the first time.\"",
@@ -10925,7 +10925,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Dr. Muhammad Yunus' is classified under the domain of 'Global Politics'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Iranian President Ebrahim Raisi died in a helicopter crash in East Azerbaijan province in May 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Iranian President Ebrahim Raisi died in a helicopter crash in East Azerbaijan province in May 2024.\"?",
           "options": [
             "Ebrahim Raisi Crash",
             "China Brokerage",
@@ -10980,7 +10980,7 @@ window.QuizData_current_affairs = {
           "explanation": "'South Asian Political Surveys' is associated with 'Sheikh Hasina Resignation'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Nobel Laureate Catalogues'?",
+          "q": "Which is correct about the book/guide 'Nobel Laureate Catalogues'?",
           "options": [
             "It is written about 'Nusantara Capital'.",
             "It addresses the theme of 'global literary achievements and innovative dramas'.",
@@ -11068,7 +11068,7 @@ window.QuizData_current_affairs = {
           "explanation": "'COP28 UAE' is classified under the domain of 'Environmental Policy'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Sports Policy'?",
+          "q": "What is situated within the study field of 'Sports Policy'?",
           "options": [
             "Jon Fosse",
             "Ebrahim Raisi Crash",
@@ -11134,7 +11134,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Luna-25 Crash' is the direct contrast to 'Chandrayaan-3 Landing'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Diplomatic Mediation Records'?",
+          "q": "Which is correct about the book/guide 'Diplomatic Mediation Records'?",
           "options": [
             "It is written about 'Russia-Ukraine War'.",
             "Its primary focus is 'Global Politics'.",
@@ -11189,7 +11189,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Global Climate Treaties' is associated with 'COP28 UAE'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Administrative Geography'?",
+          "q": "What is situated within the study field of 'Administrative Geography'?",
           "options": [
             "China Brokerage",
             "Nusantara Capital",
@@ -11233,7 +11233,7 @@ window.QuizData_current_affairs = {
           "explanation": "'space exploration and low-cost aerospace engineering' is a major theme inside 'Aeronautics'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'SLIM Lander Japan'?",
+          "q": "Which is correct about the concept of 'SLIM Lander Japan'?",
           "options": [
             "It is defined as 'Japan's spacecraft landing on the moon with pinpoint accuracy'.",
             "It belongs to the domain of 'Global Politics'.",
@@ -11310,7 +11310,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'SLIM Lander Japan' is 'Japan's spacecraft landing on the moon with pinpoint accuracy'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Oppenheimer Film'?",
+          "q": "Which is correct about the core idea of 'Oppenheimer Film'?",
           "options": [
             "It belongs to the field of 'Administrative Geography'.",
             "It is documented in 'Olympic Games Chronicles'.",
@@ -11354,7 +11354,7 @@ window.QuizData_current_affairs = {
           "explanation": "'South Asian Political Surveys' is associated with 'Sheikh Hasina Resignation'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'sovereignty conflicts and modern military warfare'?",
+          "q": "What is a major reference or manual focusing on 'sovereignty conflicts and modern military warfare'?",
           "options": [
             "American Presidential History",
             "Atlantic Alliance Expansion Logs",
@@ -11365,7 +11365,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Eastern European Security Files' is known for its focus on 'sovereignty conflicts and modern military warfare'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'governance crises and unexpected leadership transitions'?",
+          "q": "What is a major reference or manual focusing on 'governance crises and unexpected leadership transitions'?",
           "options": [
             "Diplomatic Mediation Records",
             "European Integration Bulletins",
@@ -11398,7 +11398,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Pension Reductions' is the direct contrast to 'France Pension Reforms'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'global literary achievements and innovative dramas'?",
+          "q": "What is a major reference or manual focusing on 'global literary achievements and innovative dramas'?",
           "options": [
             "Urban Relocation Plans",
             "Middle East Security Reports",
@@ -11409,7 +11409,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Nobel Laureate Catalogues' is known for its focus on 'global literary achievements and innovative dramas'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Donald Trump won the presidential race in November 2024, securing a second non-consecutive term.\"?",
+          "q": "What describes the key fact or historical quote: \"Donald Trump won the presidential race in November 2024, securing a second non-consecutive term.\"?",
           "options": [
             "Dr. Muhammad Yunus",
             "Donald Trump 2024",
@@ -11420,7 +11420,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'Donald Trump 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Russia-Ukraine War'?",
+          "q": "Which is correct about the concept of 'Russia-Ukraine War'?",
           "options": [
             "It belongs to the domain of 'Global Politics'.",
             "It is defined as 'the ongoing interstate military conflict reshaping European alliances'.",
@@ -11442,7 +11442,7 @@ window.QuizData_current_affairs = {
           "explanation": "'COP28 UAE' is built on the concept: 'the climate change summit held in Dubai in late 2023 setting emissions goals'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Japan became the fifth country to land a spacecraft on the Moon with its SLIM mission in Jan 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Japan became the fifth country to land a spacecraft on the Moon with its SLIM mission in Jan 2024.\"?",
           "options": [
             "Jon Fosse",
             "US Elections 2024",
@@ -11464,7 +11464,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Middle East Diplomatic Records' is associated with 'President Masoud Pezeshkian'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Paris hosted the Summer Olympics in 2024, featuring breaking as a new sport.\"?",
+          "q": "What describes the key fact or historical quote: \"Paris hosted the Summer Olympics in 2024, featuring breaking as a new sport.\"?",
           "options": [
             "Paris Olympics 2024",
             "Jon Fosse",
@@ -11475,7 +11475,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'Paris Olympics 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Paris Olympics 2024'?",
+          "q": "Which is correct about the core idea of 'Paris Olympics 2024'?",
           "options": [
             "It is themed as 'regional security alliances and Baltic Sea defense security'.",
             "It belongs to the field of 'Cultural History'.",
@@ -11497,7 +11497,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Masoud Pezeshkian Election' is the standard contrast to 'Ebrahim Raisi Crash'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Ebrahim Raisi Crash'?",
+          "q": "Which is correct about the concept of 'Ebrahim Raisi Crash'?",
           "options": [
             "It is documented in the manual 'Global Climate Treaties'.",
             "It belongs to the domain of 'International Relations'.",
@@ -11541,7 +11541,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'Nusantara Capital' is 'the newly constructed capital city of Indonesia replacing Jakarta'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'COP29 Baku'?",
+          "q": "What is a key description or fact regarding the concept of 'COP29 Baku'?",
           "options": [
             "\"Paris hosted the Summer Olympics in 2024, featuring breaking as a new sport.\"",
             "\"COP29 in Baku focused heavily on establishing a new collective quantified goal for climate finance.\"",
@@ -11563,7 +11563,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Chandrayaan-3 Landing'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Paris Olympics 2024'?",
+          "q": "Which is correct about the concept of 'Paris Olympics 2024'?",
           "options": [
             "It is defined as 'the 33rd Summer Olympic Games hosted in France in mid-2024'.",
             "It is documented in the manual 'Nobel Laureate Catalogues'.",
@@ -11585,7 +11585,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Luna-25 Crash' is the standard contrast to 'Chandrayaan-3 Landing'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'global cinema recognition and box office success'?",
+          "q": "What is a major reference or manual focusing on 'global cinema recognition and box office success'?",
           "options": [
             "Cinema History Chronicles",
             "Urban Relocation Plans",
@@ -11596,7 +11596,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Cinema History Chronicles' is known for its focus on 'global cinema recognition and box office success'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Atlantic Alliance Expansion Logs'?",
+          "q": "Which is correct about the book/guide 'Atlantic Alliance Expansion Logs'?",
           "options": [
             "Its primary focus is 'Public Policy'.",
             "It addresses the theme of 'regional security alliances and border defense expansions'.",
@@ -11662,7 +11662,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Middle East Diplomatic Records' contains documentation regarding 'middle eastern governance and diplomatic relations'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Indonesia officially began relocating its capital to Nusantara in East Kalimantan.\"?",
+          "q": "What describes the key fact or historical quote: \"Indonesia officially began relocating its capital to Nusantara in East Kalimantan.\"?",
           "options": [
             "China Brokerage",
             "Nusantara Capital",
@@ -11684,7 +11684,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'President Masoud Pezeshkian'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Donald Trump 2024'?",
+          "q": "What is a key description or fact regarding the concept of 'Donald Trump 2024'?",
           "options": [
             "\"COP28 in Dubai saw countries agree to transition away from fossil fuels for the first time.\"",
             "\"Donald Trump won the presidential race in November 2024, securing a second non-consecutive term.\"",
@@ -11706,7 +11706,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Atlantic Alliance Expansion Logs' contains documentation regarding 'regional security alliances and Baltic Sea defense security'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Dr. Muhammad Yunus'?",
+          "q": "Which is correct about the concept of 'Dr. Muhammad Yunus'?",
           "options": [
             "It is documented in the manual 'Middle East Diplomatic Records'.",
             "It is defined as 'the Nobel laureate appointed Chief Adviser of Bangladesh's interim cabinet'.",
@@ -11761,7 +11761,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Paris Olympics 2024' is built on the concept: 'the 33rd Summer Olympic Games hosted in France in mid-2024'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'middle eastern governance and diplomatic relations'?",
+          "q": "What is a major reference or manual focusing on 'middle eastern governance and diplomatic relations'?",
           "options": [
             "Urban Relocation Plans",
             "Lunar Spaceflight Journals",
@@ -11838,7 +11838,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Middle East Security Reports' is associated with 'Gaza Strip Conflict'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'regional wars and international humanitarian law'?",
+          "q": "What is a major reference or manual focusing on 'regional wars and international humanitarian law'?",
           "options": [
             "Global Climate Treaties",
             "Atlantic Alliance Expansion Logs",
@@ -11871,7 +11871,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Sweden NATO Entry' deals with the theme of 'regional security alliances and Baltic Sea defense security'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'international sporting events and global cooperation'?",
+          "q": "What is a major reference or manual focusing on 'international sporting events and global cooperation'?",
           "options": [
             "Nobel Laureate Catalogues",
             "Middle East Security Reports",
@@ -11926,7 +11926,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Donald Trump 2024' is classified under the domain of 'Global Politics'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Finland NATO Entry'?",
+          "q": "Which is correct about the core idea of 'Finland NATO Entry'?",
           "options": [
             "It belongs to the field of 'Security Studies'.",
             "It is themed as 'global literary achievements and innovative dramas'.",
@@ -11992,7 +11992,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Oppenheimer Film'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'European Social Welfare Audits'?",
+          "q": "Which is correct about the book/guide 'European Social Welfare Audits'?",
           "options": [
             "It addresses the theme of 'welfare state spending and public labor protests'.",
             "It is written about 'COP28 UAE'.",
@@ -12014,7 +12014,7 @@ window.QuizData_current_affairs = {
           "explanation": "'COP29 Baku' is the direct contrast to 'COP28 UAE'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'COP28 UAE'?",
+          "q": "Which is correct about the concept of 'COP28 UAE'?",
           "options": [
             "Its contrasting theme is 'climate adaptation and sustainable urban relocation'.",
             "It is documented in the manual 'Lunar Spaceflight Journals'.",
@@ -12113,7 +12113,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'Saudi Vision 2030' is 'the strategic framework to reduce Saudi Arabia's oil dependence'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Global Electoral Studies'?",
+          "q": "Which is correct about the book/guide 'Global Electoral Studies'?",
           "options": [
             "It is written about 'Gaza Strip Conflict'.",
             "It addresses the theme of 'democratic leadership transitions and foreign policy'.",
@@ -12124,7 +12124,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Global Electoral Studies' focuses on 'democratic leadership transitions and foreign policy'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'mass student movements and regime transitions'?",
+          "q": "What is a major reference or manual focusing on 'mass student movements and regime transitions'?",
           "options": [
             "Nobel Laureate Catalogues",
             "American Presidential History",
@@ -12168,7 +12168,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Paris Olympics 2024' deals with the theme of 'international sporting events and global cooperation'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Finland NATO Entry'?",
+          "q": "Which is correct about the concept of 'Finland NATO Entry'?",
           "options": [
             "It belongs to the domain of 'Cultural History'.",
             "It is defined as 'the formal induction of Finland as the 31st member of NATO in 2023'.",
@@ -12190,7 +12190,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Atlantic Alliance Expansion Logs' contains documentation regarding 'regional security alliances and border defense expansions'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'British Parliamentary Journals'?",
+          "q": "Which is correct about the book/guide 'British Parliamentary Journals'?",
           "options": [
             "Its primary focus is 'International Relations'.",
             "It addresses the theme of 'political leadership transitions in the United Kingdom'.",
@@ -12267,7 +12267,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Global Climate Treaties' is associated with 'COP29 Baku'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Geopolitical Bloc Analyses'?",
+          "q": "Which is correct about the book/guide 'Geopolitical Bloc Analyses'?",
           "options": [
             "It addresses the theme of 'multipolar economic alliances and global trade shifts'.",
             "It is written about 'PM Keir Starmer'.",
@@ -12300,7 +12300,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'PM Keir Starmer' is 'the leader of the Labour Party elected UK Prime Minister in July 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'SLIM Lander Japan'?",
+          "q": "Which is correct about the core idea of 'SLIM Lander Japan'?",
           "options": [
             "It is themed as 'political leadership transitions in the United Kingdom'.",
             "It belongs to the field of 'Cultural History'.",
@@ -12377,7 +12377,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Nusantara Capital'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"India's Chandrayaan-3 successfully landed near the lunar south pole in August 2023.\"?",
+          "q": "What describes the key fact or historical quote: \"India's Chandrayaan-3 successfully landed near the lunar south pole in August 2023.\"?",
           "options": [
             "President Masoud Pezeshkian",
             "Nusantara Capital",
@@ -12443,7 +12443,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Barbie Movie Releases' is the direct contrast to 'Oppenheimer Film'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Aeronautics'?",
+          "q": "What is situated within the study field of 'Aeronautics'?",
           "options": [
             "President Masoud Pezeshkian",
             "Donald Trump 2024",
@@ -12465,7 +12465,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SLIM Lander Japan' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'European Integration Bulletins'?",
+          "q": "Which is correct about the book/guide 'European Integration Bulletins'?",
           "options": [
             "It is written about 'Dr. Muhammad Yunus'.",
             "Its primary focus is 'Aeronautics'.",
@@ -12476,7 +12476,7 @@ window.QuizData_current_affairs = {
           "explanation": "'European Integration Bulletins' focuses on 'european integration and regional travel freedom'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Schengen Croatia Entry'?",
+          "q": "What is a key description or fact regarding the concept of 'Schengen Croatia Entry'?",
           "options": [
             "\"France faced massive protests in 2023 over raising the official retirement age.\"",
             "\"Croatia joined the Schengen area in 2023, allowing border-free travel with other EU members.\"",
@@ -12498,7 +12498,7 @@ window.QuizData_current_affairs = {
           "explanation": "'British Parliamentary Journals' is the manual associated with 'political leadership transitions in the United Kingdom'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Middle East Security Reports'?",
+          "q": "Which is correct about the book/guide 'Middle East Security Reports'?",
           "options": [
             "It is written about 'BRICS Expansion 2024'.",
             "It addresses the theme of 'regional wars and international humanitarian law'.",
@@ -12520,7 +12520,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Middle East Security Reports' contains documentation regarding 'regional wars and international humanitarian law'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'South Asian Administrative Records'?",
+          "q": "Which is correct about the book/guide 'South Asian Administrative Records'?",
           "options": [
             "It is contrasted with 'Nordic Neutrality'.",
             "It addresses the theme of 'interim administration and economic reforms'.",
@@ -12663,7 +12663,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Sheikh Hasina Premiership' is the contrast to 'Dr. Muhammad Yunus'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'US Elections 2024'?",
+          "q": "What is a key description or fact regarding the concept of 'US Elections 2024'?",
           "options": [
             "\"Sheikh Hasina resigned and fled Bangladesh in August 2024 amid massive student protests.\"",
             "\"India's Chandrayaan-3 successfully landed near the lunar south pole in August 2023.\"",
@@ -12674,7 +12674,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'US Elections 2024' is: \"The 2024 United States presidential election shaped global geopolitical and economic policies.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Dr. Muhammad Yunus'?",
+          "q": "What is a key description or fact regarding the concept of 'Dr. Muhammad Yunus'?",
           "options": [
             "\"Masoud Pezeshkian was elected Iran's President following the death of Ebrahim Raisi.\"",
             "\"Muhammad Yunus took oath as Chief Adviser of Bangladesh in August 2024 following protests.\"",
@@ -12707,7 +12707,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Western Mediated Pacts' is the standard contrast to 'China Brokerage'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Masoud Pezeshkian was elected Iran's President following the death of Ebrahim Raisi.\"?",
+          "q": "What describes the key fact or historical quote: \"Masoud Pezeshkian was elected Iran's President following the death of Ebrahim Raisi.\"?",
           "options": [
             "Jon Fosse",
             "Nusantara Capital",
@@ -12729,7 +12729,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Sweden NATO Entry'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Saudi Vision 2030'?",
+          "q": "Which is correct about the concept of 'Saudi Vision 2030'?",
           "options": [
             "It is defined as 'the strategic framework to reduce Saudi Arabia's oil dependence'.",
             "Its contrasting theme is 'conservative governance and tariff-based trade policy'.",
@@ -12740,7 +12740,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Saudi Vision 2030' is defined as 'the strategic framework to reduce Saudi Arabia's oil dependence'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Sheikh Hasina resigned and fled Bangladesh in August 2024 amid massive student protests.\"?",
+          "q": "What describes the key fact or historical quote: \"Sheikh Hasina resigned and fled Bangladesh in August 2024 amid massive student protests.\"?",
           "options": [
             "Sheikh Hasina Resignation",
             "Jon Fosse",
@@ -12773,7 +12773,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'COP29 Baku'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'South Asian Political Surveys'?",
+          "q": "Which is correct about the book/guide 'South Asian Political Surveys'?",
           "options": [
             "It is written about 'Donald Trump 2024'.",
             "It is contrasted with 'Eurozone Exit'.",
@@ -12817,7 +12817,7 @@ window.QuizData_current_affairs = {
           "explanation": "'COP28 Dubai' is the standard contrast to 'COP29 Baku'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Four new nations officially joined BRICS in January 2024, expanding the group.\"?",
+          "q": "What describes the key fact or historical quote: \"Four new nations officially joined BRICS in January 2024, expanding the group.\"?",
           "options": [
             "BRICS Expansion 2024",
             "US Elections 2024",
@@ -12839,7 +12839,7 @@ window.QuizData_current_affairs = {
           "explanation": "'American Presidential History' contains documentation regarding 'conservative governance and tariff-based trade policy'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'european integration and regional travel freedom'?",
+          "q": "What is a major reference or manual focusing on 'european integration and regional travel freedom'?",
           "options": [
             "European Integration Bulletins",
             "Lunar Spaceflight Journals",
@@ -12850,7 +12850,7 @@ window.QuizData_current_affairs = {
           "explanation": "'European Integration Bulletins' is known for its focus on 'european integration and regional travel freedom'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'space exploration and low-cost aerospace engineering'?",
+          "q": "What is a major reference or manual focusing on 'space exploration and low-cost aerospace engineering'?",
           "options": [
             "Lunar Spaceflight Journals",
             "Middle East Diplomatic Records",
@@ -12861,7 +12861,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Lunar Spaceflight Journals' is known for its focus on 'space exploration and low-cost aerospace engineering'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'BRICS Expansion 2024'?",
+          "q": "Which is correct about the concept of 'BRICS Expansion 2024'?",
           "options": [
             "Its contrasting theme is 'conservative governance and tariff-based trade policy'.",
             "It is defined as 'the official entry of Egypt, Ethiopia, Iran, and UAE into the bloc'.",
@@ -12905,7 +12905,7 @@ window.QuizData_current_affairs = {
           "explanation": "'US Elections 2024' deals with the theme of 'democratic leadership transitions and foreign policy'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"China brokered a historic peace deal between Iran and Saudi Arabia in March 2023.\"?",
+          "q": "What describes the key fact or historical quote: \"China brokered a historic peace deal between Iran and Saudi Arabia in March 2023.\"?",
           "options": [
             "Dr. Muhammad Yunus",
             "China Brokerage",
@@ -12938,7 +12938,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Nordic Neutrality' is the contrast to 'Finland NATO Entry'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'PM Keir Starmer'?",
+          "q": "Which is correct about the concept of 'PM Keir Starmer'?",
           "options": [
             "It is documented in the manual 'Lunar Spaceflight Journals'.",
             "It belongs to the domain of 'Cultural History'.",
@@ -12949,7 +12949,7 @@ window.QuizData_current_affairs = {
           "explanation": "'PM Keir Starmer' is defined as 'the leader of the Labour Party elected UK Prime Minister in July 2024'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The 2024 United States presidential election shaped global geopolitical and economic policies.\"?",
+          "q": "What describes the key fact or historical quote: \"The 2024 United States presidential election shaped global geopolitical and economic policies.\"?",
           "options": [
             "Gaza Strip Conflict",
             "Sheikh Hasina Resignation",
@@ -12993,7 +12993,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Saudi Vision 2030' deals with the theme of 'economic modernization and structural diversification'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'COP29 Baku'?",
+          "q": "Which is correct about the core idea of 'COP29 Baku'?",
           "options": [
             "It is themed as 'global literary achievements and innovative dramas'.",
             "It is defined as 'the climate change summit held in Azerbaijan in late 2024 focusing on finance'.",
@@ -13037,7 +13037,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Dr. Muhammad Yunus'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Sheikh Hasina Resignation'?",
+          "q": "What is a key description or fact regarding the concept of 'Sheikh Hasina Resignation'?",
           "options": [
             "\"Donald Trump won the presidential race in November 2024, securing a second non-consecutive term.\"",
             "\"Croatia joined the Schengen area in 2023, allowing border-free travel with other EU members.\"",
@@ -13048,7 +13048,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'Sheikh Hasina Resignation' is: \"Sheikh Hasina resigned and fled Bangladesh in August 2024 amid massive student protests.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Finland NATO Entry'?",
+          "q": "What is a key description or fact regarding the concept of 'Finland NATO Entry'?",
           "options": [
             "\"France faced massive protests in 2023 over raising the official retirement age.\"",
             "\"Jon Fosse was awarded the Nobel Prize in Literature for his innovative plays and prose.\"",
@@ -13070,7 +13070,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Economic Diversification Manuals' is the manual associated with 'economic modernization and structural diversification'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Ebrahim Raisi Crash'?",
+          "q": "What is a key description or fact regarding the concept of 'Ebrahim Raisi Crash'?",
           "options": [
             "\"China brokered a historic peace deal between Iran and Saudi Arabia in March 2023.\"",
             "\"COP28 in Dubai saw countries agree to transition away from fossil fuels for the first time.\"",
@@ -13103,7 +13103,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'BRICS Expansion 2024'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'space exploration and lunar navigation systems'?",
+          "q": "What is a major reference or manual focusing on 'space exploration and lunar navigation systems'?",
           "options": [
             "Lunar Spaceflight Journals",
             "Nobel Laureate Catalogues",
@@ -13147,7 +13147,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Luna-25 Crash' is the contrast to 'Chandrayaan-3 Landing'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Eastern European Security Files'?",
+          "q": "Which is correct about the book/guide 'Eastern European Security Files'?",
           "options": [
             "It is contrasted with 'Kamala Harris Campaign'.",
             "Its primary focus is 'Global Politics'.",
@@ -13169,7 +13169,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Nobel Laureate Catalogues' contains documentation regarding 'global literary achievements and innovative dramas'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'democratic leadership transitions and foreign policy'?",
+          "q": "What is a major reference or manual focusing on 'democratic leadership transitions and foreign policy'?",
           "options": [
             "Global Electoral Studies",
             "Lunar Spaceflight Journals",
@@ -13180,7 +13180,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Global Electoral Studies' is known for its focus on 'democratic leadership transitions and foreign policy'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Sweden NATO Entry'?",
+          "q": "Which is correct about the core idea of 'Sweden NATO Entry'?",
           "options": [
             "It is defined as 'the formal induction of Sweden as the 32nd member of NATO in 2024'.",
             "It belongs to the field of 'Global Politics'.",
@@ -13235,7 +13235,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Oppenheimer Film' is built on the concept: 'the historical drama sweeping major categories at the 2024 Academy Awards'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Oppenheimer Film'?",
+          "q": "Which is correct about the concept of 'Oppenheimer Film'?",
           "options": [
             "It belongs to the domain of 'Aeronautics'.",
             "Its contrasting theme is 'international sporting events and global cooperation'.",
@@ -13389,7 +13389,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Sweden NATO Entry' is built on the concept: 'the formal induction of Sweden as the 32nd member of NATO in 2024'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'regional security alliances and Baltic Sea defense security'?",
+          "q": "What is a major reference or manual focusing on 'regional security alliances and Baltic Sea defense security'?",
           "options": [
             "Global Electoral Studies",
             "Atlantic Alliance Expansion Logs",
@@ -13411,7 +13411,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Eurozone Exit' is the contrast to 'Schengen Croatia Entry'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'BRICS Expansion 2024'?",
+          "q": "What is a key description or fact regarding the concept of 'BRICS Expansion 2024'?",
           "options": [
             "\"Four new nations officially joined BRICS in January 2024, expanding the group.\"",
             "\"Keir Starmer became Prime Minister after Labour's landslide victory in July 2024.\"",
@@ -13433,7 +13433,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Finland NATO Entry'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Olympic Games Chronicles'?",
+          "q": "Which is correct about the book/guide 'Olympic Games Chronicles'?",
           "options": [
             "It addresses the theme of 'international sporting events and global cooperation'.",
             "It is contrasted with 'Nordic Neutrality'.",
@@ -13466,7 +13466,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Sheikh Hasina Premiership' is the standard contrast to 'Dr. Muhammad Yunus'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'International Relations'?",
+          "q": "What is situated within the study field of 'International Relations'?",
           "options": [
             "BRICS Expansion 2024",
             "Donald Trump 2024",
@@ -13488,7 +13488,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Nusantara Capital' is built on the concept: 'the newly constructed capital city of Indonesia replacing Jakarta'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Saudi Vision 2030 focuses on expanding health, education, infrastructure, and tourism.\"?",
+          "q": "What describes the key fact or historical quote: \"Saudi Vision 2030 focuses on expanding health, education, infrastructure, and tourism.\"?",
           "options": [
             "Finland NATO Entry",
             "Saudi Vision 2030",
@@ -13499,7 +13499,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'Saudi Vision 2030'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Nusantara Capital'?",
+          "q": "Which is correct about the concept of 'Nusantara Capital'?",
           "options": [
             "It is documented in the manual 'Atlantic Alliance Expansion Logs'.",
             "It belongs to the domain of 'Global Politics'.",
@@ -13532,7 +13532,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Scientific Nobel Laureates' is the direct contrast to 'Jon Fosse'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Russia-Ukraine War'?",
+          "q": "Which is correct about the core idea of 'Russia-Ukraine War'?",
           "options": [
             "It is documented in 'Global Electoral Studies'.",
             "It belongs to the field of 'International Relations'.",
@@ -13587,7 +13587,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SLIM Lander Japan' is built on the concept: 'Japan's spacecraft landing on the moon with pinpoint accuracy'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'BRICS Expansion 2024'?",
+          "q": "Which is correct about the core idea of 'BRICS Expansion 2024'?",
           "options": [
             "It is documented in 'American Presidential History'.",
             "It belongs to the field of 'Global Politics'.",
@@ -13620,7 +13620,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'Chandrayaan-3 Landing' is 'India's successful robotic lunar landing near the Moon south pole'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Public Policy'?",
+          "q": "What is situated within the study field of 'Public Policy'?",
           "options": [
             "COP28 UAE",
             "BRICS Expansion 2024",
@@ -13653,7 +13653,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Finland NATO Entry'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"COP29 in Baku focused heavily on establishing a new collective quantified goal for climate finance.\"?",
+          "q": "What describes the key fact or historical quote: \"COP29 in Baku focused heavily on establishing a new collective quantified goal for climate finance.\"?",
           "options": [
             "Paris Olympics 2024",
             "Jon Fosse",
@@ -13686,7 +13686,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'SLIM Lander Japan'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'economic modernization and structural diversification'?",
+          "q": "What is a major reference or manual focusing on 'economic modernization and structural diversification'?",
           "options": [
             "Nobel Laureate Catalogues",
             "American Presidential History",
@@ -13697,7 +13697,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Economic Diversification Manuals' is known for its focus on 'economic modernization and structural diversification'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Saudi Vision 2030'?",
+          "q": "What is a key description or fact regarding the concept of 'Saudi Vision 2030'?",
           "options": [
             "\"Donald Trump won the presidential race in November 2024, securing a second non-consecutive term.\"",
             "\"Saudi Vision 2030 focuses on expanding health, education, infrastructure, and tourism.\"",
@@ -13719,7 +13719,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Atlantic Alliance Expansion Logs' is the manual associated with 'regional security alliances and border defense expansions'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Middle East Diplomatic Records'?",
+          "q": "Which is correct about the book/guide 'Middle East Diplomatic Records'?",
           "options": [
             "It addresses the theme of 'middle eastern governance and diplomatic relations'.",
             "It is written about 'Chandrayaan-3 Landing'.",
@@ -13741,7 +13741,7 @@ window.QuizData_current_affairs = {
           "explanation": "'PM Keir Starmer' deals with the theme of 'political leadership transitions in the United Kingdom'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Schengen Croatia Entry'?",
+          "q": "Which is correct about the core idea of 'Schengen Croatia Entry'?",
           "options": [
             "It is defined as 'Croatia's entry into the Schengen border-free zone on January 1, 2023'.",
             "It is themed as 'welfare state spending and public labor protests'.",
@@ -13752,7 +13752,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Schengen Croatia Entry' is defined as 'Croatia's entry into the Schengen border-free zone on January 1, 2023'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Croatia joined the Schengen area in 2023, allowing border-free travel with other EU members.\"?",
+          "q": "What describes the key fact or historical quote: \"Croatia joined the Schengen area in 2023, allowing border-free travel with other EU members.\"?",
           "options": [
             "Dr. Muhammad Yunus",
             "Schengen Croatia Entry",
@@ -13807,7 +13807,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Middle East Diplomatic Records' is associated with 'President Masoud Pezeshkian'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'China Brokerage'?",
+          "q": "Which is correct about the concept of 'China Brokerage'?",
           "options": [
             "Its contrasting theme is 'interim administration and economic reforms'.",
             "It is defined as 'the China-mediated normalisation agreement signed by Saudi Arabia and Iran'.",
@@ -13818,7 +13818,7 @@ window.QuizData_current_affairs = {
           "explanation": "'China Brokerage' is defined as 'the China-mediated normalisation agreement signed by Saudi Arabia and Iran'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Cinema History Chronicles'?",
+          "q": "Which is correct about the book/guide 'Cinema History Chronicles'?",
           "options": [
             "Its primary focus is 'Sports Policy'.",
             "It addresses the theme of 'global cinema recognition and box office success'.",
@@ -13906,7 +13906,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Atlantic Alliance Expansion Logs' is the manual associated with 'regional security alliances and Baltic Sea defense security'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Finland officially joined NATO in April 2023, doubling the alliance's border with Russia.\"?",
+          "q": "What describes the key fact or historical quote: \"Finland officially joined NATO in April 2023, doubling the alliance's border with Russia.\"?",
           "options": [
             "Russia-Ukraine War",
             "France Pension Reforms",
@@ -13928,7 +13928,7 @@ window.QuizData_current_affairs = {
           "explanation": "'COP29 Baku' is the standard contrast to 'COP28 UAE'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Sheikh Hasina Resignation'?",
+          "q": "Which is correct about the concept of 'Sheikh Hasina Resignation'?",
           "options": [
             "Its contrasting theme is 'global literary achievements and innovative dramas'.",
             "It is defined as 'the resignation and departure of Bangladesh's Prime Minister in August 2024'.",
@@ -13950,7 +13950,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Russia-Ukraine War' corresponds to this definition."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Global Politics'?",
+          "q": "What is situated within the study field of 'Global Politics'?",
           "options": [
             "US Elections 2024",
             "Chandrayaan-3 Landing",
@@ -13972,7 +13972,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Sheikh Hasina Resignation' deals with the theme of 'mass student movements and regime transitions'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Dr. Muhammad Yunus'?",
+          "q": "Which is correct about the core idea of 'Dr. Muhammad Yunus'?",
           "options": [
             "It is themed as 'regional security alliances and Baltic Sea defense security'.",
             "It belongs to the field of 'Global Politics'.",
@@ -14005,7 +14005,7 @@ window.QuizData_current_affairs = {
           "explanation": "'American Presidential History' is associated with 'Donald Trump 2024'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Keir Starmer became Prime Minister after Labour's landslide victory in July 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Keir Starmer became Prime Minister after Labour's landslide victory in July 2024.\"?",
           "options": [
             "Finland NATO Entry",
             "Chandrayaan-3 Landing",
@@ -14071,7 +14071,7 @@ window.QuizData_current_affairs = {
           "explanation": "'France Pension Reforms' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'interim administration and economic reforms'?",
+          "q": "What is a major reference or manual focusing on 'interim administration and economic reforms'?",
           "options": [
             "Atlantic Alliance Expansion Logs",
             "South Asian Administrative Records",
@@ -14115,7 +14115,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Geopolitical Bloc Analyses' is associated with 'BRICS Expansion 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Donald Trump 2024'?",
+          "q": "Which is correct about the concept of 'Donald Trump 2024'?",
           "options": [
             "It is documented in the manual 'South Asian Administrative Records'.",
             "It belongs to the domain of 'Cultural History'.",
@@ -14126,7 +14126,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Donald Trump 2024' is defined as 'the Republican candidate elected as the 47th President of the US'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Economic Diversification Manuals'?",
+          "q": "Which is correct about the book/guide 'Economic Diversification Manuals'?",
           "options": [
             "It is written about 'Jon Fosse'.",
             "It addresses the theme of 'economic modernization and structural diversification'.",
@@ -14269,7 +14269,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Eastern European Security Files' is associated with 'Russia-Ukraine War'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Jon Fosse'?",
+          "q": "Which is correct about the concept of 'Jon Fosse'?",
           "options": [
             "Its contrasting theme is 'diplomatic mediation and east asian geopolitical influence'.",
             "It is defined as 'the Norwegian author awarded the 2023 Nobel Prize in Literature'.",
@@ -14291,7 +14291,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Atlantic Alliance Expansion Logs' is associated with 'Finland NATO Entry'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Cultural History'?",
+          "q": "What is situated within the study field of 'Cultural History'?",
           "options": [
             "Gaza Strip Conflict",
             "Nusantara Capital",
@@ -14324,7 +14324,7 @@ window.QuizData_current_affairs = {
           "explanation": "'COP28 Dubai' is the contrast to 'COP29 Baku'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'SLIM Lander Japan'?",
+          "q": "What is a key description or fact regarding the concept of 'SLIM Lander Japan'?",
           "options": [
             "\"Jon Fosse was awarded the Nobel Prize in Literature for his innovative plays and prose.\"",
             "\"The 2024 United States presidential election shaped global geopolitical and economic policies.\"",
@@ -14357,7 +14357,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Winter Olympics' is the standard contrast to 'Paris Olympics 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Ebrahim Raisi Crash'?",
+          "q": "Which is correct about the core idea of 'Ebrahim Raisi Crash'?",
           "options": [
             "It belongs to the field of 'Environmental Policy'.",
             "It is themed as 'european integration and regional travel freedom'.",
@@ -14390,7 +14390,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Lunar Spaceflight Journals' is the manual associated with 'space exploration and lunar navigation systems'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'France Pension Reforms'?",
+          "q": "Which is correct about the concept of 'France Pension Reforms'?",
           "options": [
             "It is defined as 'the controversial policy raising the retirement age from 62 to 64'.",
             "It belongs to the domain of 'Sports Policy'.",
@@ -14412,7 +14412,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Olympic Games Chronicles' is associated with 'Paris Olympics 2024'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'welfare state spending and public labor protests'?",
+          "q": "What is a major reference or manual focusing on 'welfare state spending and public labor protests'?",
           "options": [
             "Geopolitical Bloc Analyses",
             "European Social Welfare Audits",
@@ -14478,7 +14478,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SLIM Lander Japan' is classified under the domain of 'Aeronautics'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Nusantara Capital'?",
+          "q": "What is a key description or fact regarding the concept of 'Nusantara Capital'?",
           "options": [
             "\"Indonesia officially began relocating its capital to Nusantara in East Kalimantan.\"",
             "\"Sheikh Hasina resigned and fled Bangladesh in August 2024 amid massive student protests.\"",
@@ -14489,7 +14489,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'Nusantara Capital' is: \"Indonesia officially began relocating its capital to Nusantara in East Kalimantan.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Jon Fosse'?",
+          "q": "What is a key description or fact regarding the concept of 'Jon Fosse'?",
           "options": [
             "\"The conflict in Gaza escalated to historic proportions following the October 7, 2023 events.\"",
             "\"Jon Fosse was awarded the Nobel Prize in Literature for his innovative plays and prose.\"",
@@ -14759,7 +14759,7 @@ window.QuizData_current_affairs = {
           "explanation": "The WEF meeting is held annually in the ski resort of Davos, Switzerland."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Special Economic Zones'?",
+          "q": "Which is correct about the core idea of 'Special Economic Zones'?",
           "options": [
             "It is documented in 'Energy Sector Audits'.",
             "It is themed as 'foreign reserves support and balance of payments'.",
@@ -14770,7 +14770,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Special Economic Zones' is defined as 'the designated industrial parks offering tax holidays to investors'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Double Digit Inflation'?",
+          "q": "Which is correct about the core idea of 'Double Digit Inflation'?",
           "options": [
             "It is themed as 'stock market investments and capital growth'.",
             "It belongs to the field of 'Development Economics'.",
@@ -14781,7 +14781,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Double Digit Inflation' is defined as 'the macroeconomic trend of high prices following post-pandemic shocks'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'IMF MD Georgieva'?",
+          "q": "Which is correct about the core idea of 'IMF MD Georgieva'?",
           "options": [
             "It belongs to the field of 'Diplomatic History'.",
             "It is defined as 'the Managing Director leading the global lender through monetary crises'.",
@@ -14792,7 +14792,7 @@ window.QuizData_current_affairs = {
           "explanation": "'IMF MD Georgieva' is defined as 'the Managing Director leading the global lender through monetary crises'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Foreign Exchange Surveys'?",
+          "q": "Which is correct about the book/guide 'Foreign Exchange Surveys'?",
           "options": [
             "It is written about 'Roshan Digital Account Inflow'.",
             "It is contrasted with 'Sovereign Default'.",
@@ -14825,7 +14825,7 @@ window.QuizData_current_affairs = {
           "explanation": "'stock market investments and capital growth' is a major theme inside 'Financial Economics'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Power Circular Debt Crisis'?",
+          "q": "Which is correct about the concept of 'Power Circular Debt Crisis'?",
           "options": [
             "It is documented in the manual 'Federal Revenue Bulletins'.",
             "It belongs to the domain of 'Public Finance'.",
@@ -14847,7 +14847,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Foreign Direct Investment' is the contrast to 'Foreign Remittances Inflow'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'stock market investments and capital growth'?",
+          "q": "What is a major reference or manual focusing on 'stock market investments and capital growth'?",
           "options": [
             "Financial Action Task Force Reports",
             "National Energy Audits",
@@ -14858,7 +14858,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Stock Market Reports' is known for its focus on 'stock market investments and capital growth'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The KSE-100 index crossed the historic 80,000-point mark in mid-2024.\"?",
+          "q": "What describes the key fact or historical quote: \"The KSE-100 index crossed the historic 80,000-point mark in mid-2024.\"?",
           "options": [
             "FBR Chair Langrial",
             "PSX 80000 Milestone",
@@ -14869,7 +14869,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'PSX 80000 Milestone'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Allama Iqbal Industrial City Faisalabad is designed as a prime SEZ for textile and chemical plants.\"?",
+          "q": "What describes the key fact or historical quote: \"Allama Iqbal Industrial City Faisalabad is designed as a prime SEZ for textile and chemical plants.\"?",
           "options": [
             "Roshan Digital Account",
             "Roshan Digital Account Inflow",
@@ -14968,7 +14968,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Foreign Remittances Inflow'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'FBR Chair Langrial'?",
+          "q": "What is a key description or fact regarding the concept of 'FBR Chair Langrial'?",
           "options": [
             "\"NPCs offer attractive dollar and rupee interest rates to non-resident Pakistani investors.\"",
             "\"Pakistan secured a new 37-month Extended Fund Facility (EFF) from the IMF in 2024.\"",
@@ -15001,7 +15001,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Stock Market Reports' is associated with 'PSX 100 Index'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'State Bank Guidelines'?",
+          "q": "Which is correct about the book/guide 'State Bank Guidelines'?",
           "options": [
             "It addresses the theme of 'expatriate banking and capital inflows'.",
             "Its primary focus is 'International Finance'.",
@@ -15023,7 +15023,7 @@ window.QuizData_current_affairs = {
           "explanation": "'IMF SBA 2023' corresponds to this definition."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Pakistan was officially removed from the FATF grey list in late 2022 after reforms.\"?",
+          "q": "What describes the key fact or historical quote: \"Pakistan was officially removed from the FATF grey list in late 2022 after reforms.\"?",
           "options": [
             "Naya Pakistan Certificates",
             "Extended Fund Facility",
@@ -15078,7 +15078,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'Roshan Digital Account Inflow' is 'the cumulative dollar deposits received from overseas Pakistanis'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'PSX 80000 Milestone'?",
+          "q": "Which is correct about the concept of 'PSX 80000 Milestone'?",
           "options": [
             "It is documented in the manual 'Economic Analysis Briefs'.",
             "Its contrasting theme is 'foreign reserves support and balance of payments'.",
@@ -15144,7 +15144,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Interest Rate Cuts' is the contrast to 'SBP Policy Rate'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Stock Market Reports'?",
+          "q": "Which is correct about the book/guide 'Stock Market Reports'?",
           "options": [
             "Its primary focus is 'Financial Law'.",
             "It addresses the theme of 'stock market investments and capital growth'.",
@@ -15177,7 +15177,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Foreign Remittances Inflow' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'CPEC Phase 2'?",
+          "q": "What is a key description or fact regarding the concept of 'CPEC Phase 2'?",
           "options": [
             "\"NPCs offer attractive dollar and rupee interest rates to non-resident Pakistani investors.\"",
             "\"Phase 2 of CPEC focuses on agriculture, industrialization, and science cooperation.\"",
@@ -15188,7 +15188,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'CPEC Phase 2' is: \"Phase 2 of CPEC focuses on agriculture, industrialization, and science cooperation.\"."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"FBR tax collection reforms in 2024 were accelerated with SIFC coordination.\"?",
+          "q": "What describes the key fact or historical quote: \"FBR tax collection reforms in 2024 were accelerated with SIFC coordination.\"?",
           "options": [
             "SIFC Tax Reforms",
             "State Bank Autonomy Act",
@@ -15199,7 +15199,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'SIFC Tax Reforms'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Allama Iqbal SEZ'?",
+          "q": "What is a key description or fact regarding the concept of 'Allama Iqbal SEZ'?",
           "options": [
             "\"RDA cumulative deposits crossed several billion dollars by 2024 since its launch.\"",
             "\"Remittances from Saudi Arabia and UAE are a major source of dollar inflows for Pakistan.\"",
@@ -15232,7 +15232,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Foreign Direct Investment' is the direct contrast to 'Foreign Remittances Inflow'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'monetary tightening and inflation control policies'?",
+          "q": "What is a major reference or manual focusing on 'monetary tightening and inflation control policies'?",
           "options": [
             "Federal Devolution Guidelines",
             "IMF Loan Agreements",
@@ -15298,7 +15298,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Fiscal Surplus' is the direct contrast to 'Sovereign Default Risk'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Extended Fund Facility'?",
+          "q": "Which is correct about the core idea of 'Extended Fund Facility'?",
           "options": [
             "It is themed as 'fiscal federalism and resource distribution'.",
             "It is defined as 'the $7 billion IMF program approved for Pakistan in late 2024'.",
@@ -15320,7 +15320,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Federal Revenue Bulletins' is associated with 'FBR Chair Langrial'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Foreign Remittances Inflow'?",
+          "q": "What is a key description or fact regarding the concept of 'Foreign Remittances Inflow'?",
           "options": [
             "\"The State Bank of Pakistan maintained high policy rates in 2023-2024 to curb inflation.\"",
             "\"RDA cumulative deposits crossed several billion dollars by 2024 since its launch.\"",
@@ -15342,7 +15342,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Foreign Remittances Inflow'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'SIFC Tax Reforms'?",
+          "q": "Which is correct about the core idea of 'SIFC Tax Reforms'?",
           "options": [
             "It belongs to the field of 'Public Finance'.",
             "It is themed as 'stock market investments and capital growth'.",
@@ -15375,7 +15375,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'SBP Policy Rate' is 'the historically high policy rate kept around 22% to curb inflation'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'industrial cooperation and regional connectivity'?",
+          "q": "What is a major reference or manual focusing on 'industrial cooperation and regional connectivity'?",
           "options": [
             "National Energy Audits",
             "China-Pakistan Economic Plans",
@@ -15397,7 +15397,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Extended Fund Facility'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'IMF Stand-By Documents'?",
+          "q": "Which is correct about the book/guide 'IMF Stand-By Documents'?",
           "options": [
             "It addresses the theme of 'balance of payments stabilization and structural conditions'.",
             "It is contrasted with 'Local T-Bills'.",
@@ -15430,7 +15430,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'PSX 100 Index'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Naya Pakistan Certificates'?",
+          "q": "Which is correct about the concept of 'Naya Pakistan Certificates'?",
           "options": [
             "It is documented in the manual 'SBP Monetary Bulletins'.",
             "It belongs to the domain of 'Public Finance'.",
@@ -15485,7 +15485,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Economic Analysis Briefs' is associated with 'Default Avoidance'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'CPEC Industrialization Focus'?",
+          "q": "Which is correct about the core idea of 'CPEC Industrialization Focus'?",
           "options": [
             "It is themed as 'fiscal federalism and resource distribution'.",
             "It is documented in 'Energy Sector Audits'.",
@@ -15529,7 +15529,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Ministry of Finance Directives' is the direct contrast to 'State Bank Autonomy Act'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'multilateral financial bailouts and economic reforms'?",
+          "q": "What is a major reference or manual focusing on 'multilateral financial bailouts and economic reforms'?",
           "options": [
             "IMF Loan Agreements",
             "Banking Legislation Manuals",
@@ -15540,7 +15540,7 @@ window.QuizData_current_affairs = {
           "explanation": "'IMF Loan Agreements' is known for its focus on 'multilateral financial bailouts and economic reforms'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'external debt management and default prevention'?",
+          "q": "What is a major reference or manual focusing on 'external debt management and default prevention'?",
           "options": [
             "Expatriate Investment Guides",
             "State Bank Guidelines",
@@ -15551,7 +15551,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Global Financial Stability Reports' is known for its focus on 'external debt management and default prevention'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Remittances from Saudi Arabia and UAE are a major source of dollar inflows for Pakistan.\"?",
+          "q": "What describes the key fact or historical quote: \"Remittances from Saudi Arabia and UAE are a major source of dollar inflows for Pakistan.\"?",
           "options": [
             "Foreign Remittances Inflow",
             "SBP Policy Rate",
@@ -15584,7 +15584,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Expatriate Investment Guides' is the manual associated with 'sovereign debt investments and expatriate banking'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Default Avoidance'?",
+          "q": "What is a key description or fact regarding the concept of 'Default Avoidance'?",
           "options": [
             "\"NPCs offer attractive dollar and rupee interest rates to non-resident Pakistani investors.\"",
             "\"Securing the IMF SBA in 2023 helped Pakistan avoid immediate sovereign default.\"",
@@ -15595,7 +15595,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'Default Avoidance' is: \"Securing the IMF SBA in 2023 helped Pakistan avoid immediate sovereign default.\"."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Financial Law'?",
+          "q": "What is situated within the study field of 'Financial Law'?",
           "options": [
             "Extended Fund Facility",
             "Naya Pakistan Certificates",
@@ -15628,7 +15628,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Fiscal Surplus' is the contrast to 'Sovereign Default Risk'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'FBR Chair Langrial'?",
+          "q": "Which is correct about the core idea of 'FBR Chair Langrial'?",
           "options": [
             "It is defined as 'the senior administrator appointed to head the Federal Board of Revenue'.",
             "It is themed as 'multilateral financial bailouts and economic reforms'.",
@@ -15639,7 +15639,7 @@ window.QuizData_current_affairs = {
           "explanation": "'FBR Chair Langrial' is defined as 'the senior administrator appointed to head the Federal Board of Revenue'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Allama Iqbal SEZ'?",
+          "q": "Which is correct about the core idea of 'Allama Iqbal SEZ'?",
           "options": [
             "It is themed as 'foreign reserves support and balance of payments'.",
             "It belongs to the field of 'Banking Systems'.",
@@ -15661,7 +15661,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Special Economic Zones' deals with the theme of 'industrialization and export promotion policies'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Roshan Digital Account Inflow'?",
+          "q": "Which is correct about the concept of 'Roshan Digital Account Inflow'?",
           "options": [
             "Its contrasting theme is 'international financial compliance and security regulations'.",
             "It is defined as 'the cumulative dollar deposits received from overseas Pakistanis'.",
@@ -15749,7 +15749,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Economic Analysis Briefs' is the manual associated with 'sovereign stability and debt management'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Monetary Policy Statements'?",
+          "q": "Which is correct about the book/guide 'Monetary Policy Statements'?",
           "options": [
             "It is contrasted with 'Stand-By Arrangement'.",
             "It is written about 'NFC 57.5 Percent Share'.",
@@ -15771,7 +15771,7 @@ window.QuizData_current_affairs = {
           "explanation": "'IMF Loan Agreements' contains documentation regarding 'multilateral financial bailouts and economic reforms'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'FATF Removal'?",
+          "q": "What is a key description or fact regarding the concept of 'FATF Removal'?",
           "options": [
             "\"Pakistan secured a new 37-month Extended Fund Facility (EFF) from the IMF in 2024.\"",
             "\"FBR tax collection reforms in 2024 were accelerated with SIFC coordination.\"",
@@ -15837,7 +15837,7 @@ window.QuizData_current_affairs = {
           "explanation": "'State Bank Guidelines' is associated with 'Roshan Digital Account'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Expatriate Investment Guides'?",
+          "q": "Which is correct about the book/guide 'Expatriate Investment Guides'?",
           "options": [
             "It is written about 'Policy Rate 22 Percent'.",
             "It is contrasted with 'Export Surplus'.",
@@ -15881,7 +15881,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Double Digit Inflation'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'China-Pakistan Economic Plans'?",
+          "q": "Which is correct about the book/guide 'China-Pakistan Economic Plans'?",
           "options": [
             "It is written about 'Power Circular Debt Crisis'.",
             "Its primary focus is 'Banking Systems'.",
@@ -15892,7 +15892,7 @@ window.QuizData_current_affairs = {
           "explanation": "'China-Pakistan Economic Plans' focuses on 'industrial cooperation and regional connectivity'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'National Energy Audits'?",
+          "q": "Which is correct about the book/guide 'National Energy Audits'?",
           "options": [
             "It is contrasted with 'Provincial Tax Reforms'.",
             "It is written about 'FBR Chair Langrial'.",
@@ -15925,7 +15925,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Monetary Policy Statements' contains documentation regarding 'monetary tightening and inflation control policies'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'State Bank Autonomy Act'?",
+          "q": "Which is correct about the concept of 'State Bank Autonomy Act'?",
           "options": [
             "It is documented in the manual 'China-Pakistan Economic Plans'.",
             "It is defined as 'the law strengthening the SBP's independent power over monetary policy'.",
@@ -15936,7 +15936,7 @@ window.QuizData_current_affairs = {
           "explanation": "'State Bank Autonomy Act' is defined as 'the law strengthening the SBP's independent power over monetary policy'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'industrialization and export promotion policies'?",
+          "q": "What is a major reference or manual focusing on 'industrialization and export promotion policies'?",
           "options": [
             "Stock Market Reports",
             "SEZ Regulatory Frameworks",
@@ -15947,7 +15947,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SEZ Regulatory Frameworks' is known for its focus on 'industrialization and export promotion policies'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'tax administration and revenue modernization'?",
+          "q": "What is a major reference or manual focusing on 'tax administration and revenue modernization'?",
           "options": [
             "IMF Stand-By Documents",
             "Federal Revenue Bulletins",
@@ -15991,7 +15991,7 @@ window.QuizData_current_affairs = {
           "explanation": "'PSX 100 Index' deals with the theme of 'stock market investments and capital growth'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'CPEC Phase 2'?",
+          "q": "Which is correct about the concept of 'CPEC Phase 2'?",
           "options": [
             "It is documented in the manual 'National Energy Audits'.",
             "It is defined as 'the second stage focusing on B2B joint ventures and industrial zones'.",
@@ -16013,7 +16013,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Federal Devolution Guidelines' is associated with 'NFC 57.5 Percent Share'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Global Financial Stability Reports'?",
+          "q": "Which is correct about the book/guide 'Global Financial Stability Reports'?",
           "options": [
             "It addresses the theme of 'external debt management and default prevention'.",
             "It is contrasted with 'Local Currency Accounts'.",
@@ -16035,7 +16035,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Allama Iqbal SEZ' deals with the theme of 'industrial estate creation and foreign factory relocation'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Pakistan signed a 9-month Stand-By Arrangement (SBA) with the IMF in June 2023.\"?",
+          "q": "What describes the key fact or historical quote: \"Pakistan signed a 9-month Stand-By Arrangement (SBA) with the IMF in June 2023.\"?",
           "options": [
             "SBP Policy Rate",
             "IMF SBA 2023",
@@ -16046,7 +16046,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'IMF SBA 2023'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Default Avoidance'?",
+          "q": "Which is correct about the core idea of 'Default Avoidance'?",
           "options": [
             "It is defined as 'the prevention of national insolvency through debt restructuring and IMF support'.",
             "It is documented in 'IMF Loan Agreements'.",
@@ -16068,7 +16068,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'Default Avoidance' is 'the prevention of national insolvency through debt restructuring and IMF support'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Foreign Remittances Inflow'?",
+          "q": "Which is correct about the concept of 'Foreign Remittances Inflow'?",
           "options": [
             "It belongs to the domain of 'Macroeconomics'.",
             "It is defined as 'the money transfers sent by overseas Pakistani workers to local families'.",
@@ -16079,7 +16079,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Foreign Remittances Inflow' is defined as 'the money transfers sent by overseas Pakistani workers to local families'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'energy economics and structural fiscal deficits'?",
+          "q": "What is a major reference or manual focusing on 'energy economics and structural fiscal deficits'?",
           "options": [
             "Federal Revenue Restructuring Plans",
             "National Energy Audits",
@@ -16145,7 +16145,7 @@ window.QuizData_current_affairs = {
           "explanation": "'monetary tightening and inflation control policies' is a major theme inside 'Macroeconomics'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'SBP Policy Rate'?",
+          "q": "Which is correct about the concept of 'SBP Policy Rate'?",
           "options": [
             "It is documented in the manual 'Federal Devolution Guidelines'.",
             "Its contrasting theme is 'sovereign debt investments and expatriate banking'.",
@@ -16156,7 +16156,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SBP Policy Rate' is defined as 'the historically high policy rate kept around 22% to curb inflation'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'sovereign debt investments and expatriate banking'?",
+          "q": "What is a major reference or manual focusing on 'sovereign debt investments and expatriate banking'?",
           "options": [
             "Expatriate Investment Guides",
             "IMF Stand-By Documents",
@@ -16189,7 +16189,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Monetary Policy Statements' is associated with 'SBP Policy Rate'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'SIFC Tax Reforms'?",
+          "q": "What is a key description or fact regarding the concept of 'SIFC Tax Reforms'?",
           "options": [
             "\"FBR tax collection reforms in 2024 were accelerated with SIFC coordination.\"",
             "\"The State Bank of Pakistan Act amendment granted greater functional autonomy to the SBP.\"",
@@ -16200,7 +16200,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'SIFC Tax Reforms' is: \"FBR tax collection reforms in 2024 were accelerated with SIFC coordination.\"."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Public Finance'?",
+          "q": "What is situated within the study field of 'Public Finance'?",
           "options": [
             "FBR Chair Langrial",
             "Extended Fund Facility",
@@ -16222,7 +16222,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Foreign Direct Investment' is the standard contrast to 'Foreign Remittances Inflow'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Industrial Park Directories'?",
+          "q": "Which is correct about the book/guide 'Industrial Park Directories'?",
           "options": [
             "Its primary focus is 'Banking Systems'.",
             "It addresses the theme of 'industrial estate creation and foreign factory relocation'.",
@@ -16266,7 +16266,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Low Interest Policy' is the contrast to 'Policy Rate 22 Percent'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Special Economic Zones'?",
+          "q": "Which is correct about the concept of 'Special Economic Zones'?",
           "options": [
             "It is defined as 'the designated industrial parks offering tax holidays to investors'.",
             "Its contrasting theme is 'multilateral financial bailouts and economic reforms'.",
@@ -16299,7 +16299,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Expatriate Investment Guides' contains documentation regarding 'sovereign debt investments and expatriate banking'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'power tariffs and energy subsidy reforms'?",
+          "q": "What is a major reference or manual focusing on 'power tariffs and energy subsidy reforms'?",
           "options": [
             "Energy Sector Audits",
             "SEZ Regulatory Frameworks",
@@ -16343,7 +16343,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'Power Sector Circular Debt' is 'the cascading inter-corporate debt crippling Pakistan's energy supply'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'industrial estate creation and foreign factory relocation'?",
+          "q": "What is a major reference or manual focusing on 'industrial estate creation and foreign factory relocation'?",
           "options": [
             "State Bank Guidelines",
             "Industrial Park Directories",
@@ -16387,7 +16387,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Roshan Digital Account' is built on the concept: 'the digital banking platform for non-resident Pakistanis to invest locally'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'central bank independence and inflation targeting'?",
+          "q": "What is a major reference or manual focusing on 'central bank independence and inflation targeting'?",
           "options": [
             "Financial Action Task Force Reports",
             "China-Pakistan Economic Plans",
@@ -16409,7 +16409,7 @@ window.QuizData_current_affairs = {
           "explanation": "'IMF SBA 2023' is built on the concept: 'the $3 billion short-term loan facility helping Pakistan avert immediate default'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'SEZ Regulatory Frameworks'?",
+          "q": "Which is correct about the book/guide 'SEZ Regulatory Frameworks'?",
           "options": [
             "It is written about 'PSX 100 Index'.",
             "Its primary focus is 'International Finance'.",
@@ -16431,7 +16431,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Local Currency Accounts' is the contrast to 'Roshan Digital Account'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Extended Fund Facility'?",
+          "q": "What is a key description or fact regarding the concept of 'Extended Fund Facility'?",
           "options": [
             "\"The State Bank of Pakistan Act amendment granted greater functional autonomy to the SBP.\"",
             "\"The KSE-100 index crossed the historic 80,000-point mark in mid-2024.\"",
@@ -16453,7 +16453,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Export Surplus' is the direct contrast to 'Power Circular Debt Crisis'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Energy Sector Audits'?",
+          "q": "Which is correct about the book/guide 'Energy Sector Audits'?",
           "options": [
             "It is written about 'Special Economic Zones'.",
             "It is contrasted with 'Interest Rate Cuts'.",
@@ -16530,7 +16530,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Extended Fund Facility' deals with the theme of 'multilateral financial bailouts and economic reforms'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"SEZs like Allama Iqbal Industrial City are being set up to host foreign factories.\"?",
+          "q": "What describes the key fact or historical quote: \"SEZs like Allama Iqbal Industrial City are being set up to host foreign factories.\"?",
           "options": [
             "PSX 100 Index",
             "State Bank Autonomy Act",
@@ -16596,7 +16596,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Policy Rate 22 Percent'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Accumulating circular debt in the energy sector remains a major hurdle for IMF program compliance.\"?",
+          "q": "What describes the key fact or historical quote: \"Accumulating circular debt in the energy sector remains a major hurdle for IMF program compliance.\"?",
           "options": [
             "SIFC Tax Reforms",
             "Power Circular Debt Crisis",
@@ -16629,7 +16629,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Double Digit Inflation' is built on the concept: 'the macroeconomic trend of high prices following post-pandemic shocks'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'CPEC Phase 2'?",
+          "q": "Which is correct about the core idea of 'CPEC Phase 2'?",
           "options": [
             "It belongs to the field of 'Public Finance'.",
             "It is themed as 'balance of payments stabilization and structural conditions'.",
@@ -16651,7 +16651,7 @@ window.QuizData_current_affairs = {
           "explanation": "'PSX 100 Index' corresponds to this definition."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Financial Economics'?",
+          "q": "What is situated within the study field of 'Financial Economics'?",
           "options": [
             "Naya Pakistan Certificates",
             "Power Circular Debt Crisis",
@@ -16662,7 +16662,7 @@ window.QuizData_current_affairs = {
           "explanation": "'PSX 100 Index' falls under the discipline of 'Financial Economics'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'State Bank RDA Statistics'?",
+          "q": "Which is correct about the book/guide 'State Bank RDA Statistics'?",
           "options": [
             "Its primary focus is 'Financial Law'.",
             "It addresses the theme of 'foreign exchange reserves stability and expatriate deposits'.",
@@ -16673,7 +16673,7 @@ window.QuizData_current_affairs = {
           "explanation": "'State Bank RDA Statistics' focuses on 'foreign exchange reserves stability and expatriate deposits'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'IMF SBA 2023'?",
+          "q": "Which is correct about the core idea of 'IMF SBA 2023'?",
           "options": [
             "It is themed as 'sovereign debt investments and expatriate banking'.",
             "It belongs to the field of 'Public Finance'.",
@@ -16684,7 +16684,7 @@ window.QuizData_current_affairs = {
           "explanation": "'IMF SBA 2023' is defined as 'the $3 billion short-term loan facility helping Pakistan avert immediate default'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Circular debt remains a primary fiscal vulnerability for Pakistan's national economy.\"?",
+          "q": "What describes the key fact or historical quote: \"Circular debt remains a primary fiscal vulnerability for Pakistan's national economy.\"?",
           "options": [
             "Double Digit Inflation",
             "Special Economic Zones",
@@ -16717,7 +16717,7 @@ window.QuizData_current_affairs = {
           "explanation": "'CPEC Phase 2' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Federal Revenue Bulletins'?",
+          "q": "Which is correct about the book/guide 'Federal Revenue Bulletins'?",
           "options": [
             "It is contrasted with 'Stand-By Arrangement'.",
             "It is written about 'Naya Pakistan Certificates'.",
@@ -16739,7 +16739,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'CPEC Industrialization Focus'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Stock Market Archives'?",
+          "q": "Which is correct about the book/guide 'Stock Market Archives'?",
           "options": [
             "It is written about 'Default Avoidance'.",
             "Its primary focus is 'Macroeconomics'.",
@@ -16761,7 +16761,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'State Bank Autonomy Act' is 'the law strengthening the SBP's independent power over monetary policy'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Extended Fund Facility'?",
+          "q": "Which is correct about the concept of 'Extended Fund Facility'?",
           "options": [
             "It belongs to the domain of 'Public Finance'.",
             "Its contrasting theme is 'central bank independence and inflation targeting'.",
@@ -16772,7 +16772,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Extended Fund Facility' is defined as 'the $7 billion IMF program approved for Pakistan in late 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Banking Legislation Manuals'?",
+          "q": "Which is correct about the book/guide 'Banking Legislation Manuals'?",
           "options": [
             "Its primary focus is 'Financial Law'.",
             "It is written about 'CPEC Phase 2'.",
@@ -16838,7 +16838,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Gwadar Free Zone' is the contrast to 'Allama Iqbal SEZ'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'FATF Removal'?",
+          "q": "Which is correct about the concept of 'FATF Removal'?",
           "options": [
             "Its contrasting theme is 'sovereign debt investments and expatriate banking'.",
             "It belongs to the domain of 'Public Finance'.",
@@ -16860,7 +16860,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Power Sector Circular Debt' is classified under the domain of 'Public Finance'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'FATF Removal'?",
+          "q": "Which is correct about the core idea of 'FATF Removal'?",
           "options": [
             "It is defined as 'the formal exit of Pakistan from the anti-money laundering grey list'.",
             "It is documented in 'Expatriate Investment Guides'.",
@@ -16882,7 +16882,7 @@ window.QuizData_current_affairs = {
           "explanation": "'CPEC Power Plant Projects' is the direct contrast to 'CPEC Industrialization Focus'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Federal Revenue Restructuring Plans'?",
+          "q": "Which is correct about the book/guide 'Federal Revenue Restructuring Plans'?",
           "options": [
             "It is written about 'State Bank Autonomy Act'.",
             "It addresses the theme of 'tax net expansion and digitizing FBR operations'.",
@@ -16926,7 +16926,7 @@ window.QuizData_current_affairs = {
           "explanation": "'State Bank Autonomy Act' is built on the concept: 'the law strengthening the SBP's independent power over monetary policy'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Power Sector Circular Debt'?",
+          "q": "Which is correct about the concept of 'Power Sector Circular Debt'?",
           "options": [
             "Its contrasting theme is 'inflation dynamics and commodity price spikes'.",
             "It belongs to the domain of 'Macroeconomics'.",
@@ -16970,7 +16970,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'IMF SBA 2023'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'SBP Policy Rate'?",
+          "q": "Which is correct about the core idea of 'SBP Policy Rate'?",
           "options": [
             "It is documented in 'Expatriate Investment Guides'.",
             "It belongs to the field of 'Public Finance'.",
@@ -16992,7 +16992,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'State Bank Autonomy Act'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'SBP Policy Rate'?",
+          "q": "What is a key description or fact regarding the concept of 'SBP Policy Rate'?",
           "options": [
             "\"NPCs offer attractive dollar and rupee interest rates to non-resident Pakistani investors.\"",
             "\"Pakistan secured a new 37-month Extended Fund Facility (EFF) from the IMF in 2024.\"",
@@ -17025,7 +17025,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SIFC Tax Reforms' is built on the concept: 'the coordination of tax administration reforms under SIFC oversight'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Rashid Mahmood Langrial was appointed FBR Chairman in August 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Rashid Mahmood Langrial was appointed FBR Chairman in August 2024.\"?",
           "options": [
             "FBR Chair Langrial",
             "IMF SBA 2023",
@@ -17124,7 +17124,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'CPEC Phase 2'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Roshan Digital Account'?",
+          "q": "Which is correct about the concept of 'Roshan Digital Account'?",
           "options": [
             "It is defined as 'the digital banking platform for non-resident Pakistanis to invest locally'.",
             "Its contrasting theme is 'multilateral financial bailouts and economic reforms'.",
@@ -17135,7 +17135,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Roshan Digital Account' is defined as 'the digital banking platform for non-resident Pakistanis to invest locally'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Naya Pakistan Certificates'?",
+          "q": "Which is correct about the core idea of 'Naya Pakistan Certificates'?",
           "options": [
             "It is documented in 'IMF Stand-By Documents'.",
             "It is defined as 'the high-yield sovereign investment certificates issued for RDA accounts'.",
@@ -17146,7 +17146,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Naya Pakistan Certificates' is defined as 'the high-yield sovereign investment certificates issued for RDA accounts'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'PSX 100 Index'?",
+          "q": "Which is correct about the concept of 'PSX 100 Index'?",
           "options": [
             "It is defined as 'the benchmark share index reflecting capital market activity in Karachi'.",
             "It is documented in the manual 'National Energy Audits'.",
@@ -17157,7 +17157,7 @@ window.QuizData_current_affairs = {
           "explanation": "'PSX 100 Index' is defined as 'the benchmark share index reflecting capital market activity in Karachi'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'FBR Chair Langrial'?",
+          "q": "Which is correct about the concept of 'FBR Chair Langrial'?",
           "options": [
             "It is documented in the manual 'Expatriate Investment Guides'.",
             "It belongs to the domain of 'International Finance'.",
@@ -17201,7 +17201,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Roshan Digital Account Inflow' corresponds to this definition."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The State Bank of Pakistan Act amendment granted greater functional autonomy to the SBP.\"?",
+          "q": "What describes the key fact or historical quote: \"The State Bank of Pakistan Act amendment granted greater functional autonomy to the SBP.\"?",
           "options": [
             "State Bank Autonomy Act",
             "CPEC Phase 2",
@@ -17245,7 +17245,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Foreign Exchange Surveys' is associated with 'Foreign Remittances Inflow'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'IMF Loan Agreements'?",
+          "q": "Which is correct about the book/guide 'IMF Loan Agreements'?",
           "options": [
             "It is contrasted with 'Centralized Taxation'.",
             "Its primary focus is 'Public Finance'.",
@@ -17256,7 +17256,7 @@ window.QuizData_current_affairs = {
           "explanation": "'IMF Loan Agreements' focuses on 'multilateral financial bailouts and economic reforms'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'NFC 57.5 Percent Share'?",
+          "q": "What is a key description or fact regarding the concept of 'NFC 57.5 Percent Share'?",
           "options": [
             "\"The 7th NFC Award guarantees 57.5% of tax revenues go directly to the provinces.\"",
             "\"Pakistan was officially removed from the FATF grey list in late 2022 after reforms.\"",
@@ -17300,7 +17300,7 @@ window.QuizData_current_affairs = {
           "explanation": "'National Energy Audits' is the manual associated with 'energy economics and structural fiscal deficits'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'international financial compliance and security regulations'?",
+          "q": "What is a major reference or manual focusing on 'international financial compliance and security regulations'?",
           "options": [
             "Federal Revenue Restructuring Plans",
             "IMF Loan Agreements",
@@ -17333,7 +17333,7 @@ window.QuizData_current_affairs = {
           "explanation": "'IMF EFF 2024' is the contrast to 'IMF SBA 2023'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"NPCs offer attractive dollar and rupee interest rates to non-resident Pakistani investors.\"?",
+          "q": "What describes the key fact or historical quote: \"NPCs offer attractive dollar and rupee interest rates to non-resident Pakistani investors.\"?",
           "options": [
             "Naya Pakistan Certificates",
             "Power Circular Debt Crisis",
@@ -17355,7 +17355,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Policy Rate 22 Percent'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Roshan Digital Account Inflow'?",
+          "q": "What is a key description or fact regarding the concept of 'Roshan Digital Account Inflow'?",
           "options": [
             "\"The State Bank of Pakistan kept the benchmark policy rate at 22% for nearly a year.\"",
             "\"RDA cumulative deposits crossed several billion dollars by 2024 since its launch.\"",
@@ -17377,7 +17377,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Double Digit Inflation' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'PSX 80000 Milestone'?",
+          "q": "Which is correct about the core idea of 'PSX 80000 Milestone'?",
           "options": [
             "It is themed as 'tax administration and revenue modernization'.",
             "It is defined as 'the record high level crossed by the Pakistan Stock Exchange index in 2024'.",
@@ -17399,7 +17399,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Global Financial Stability Reports' is associated with 'Sovereign Default Risk'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Policy Rate 22 Percent'?",
+          "q": "Which is correct about the concept of 'Policy Rate 22 Percent'?",
           "options": [
             "It is documented in the manual 'Expatriate Investment Guides'.",
             "Its contrasting theme is 'industrialization and export promotion policies'.",
@@ -17476,7 +17476,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Power Sector Circular Debt' deals with the theme of 'power tariffs and energy subsidy reforms'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Phase 2 of CPEC focuses on agriculture, industrialization, and science cooperation.\"?",
+          "q": "What describes the key fact or historical quote: \"Phase 2 of CPEC focuses on agriculture, industrialization, and science cooperation.\"?",
           "options": [
             "Naya Pakistan Certificates",
             "Power Circular Debt Crisis",
@@ -17542,7 +17542,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Policy Rate 22 Percent' is classified under the domain of 'Macroeconomics'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"RDA allows overseas Pakistanis to invest in Naya Pakistan Certificates digitally.\"?",
+          "q": "What describes the key fact or historical quote: \"RDA allows overseas Pakistanis to invest in Naya Pakistan Certificates digitally.\"?",
           "options": [
             "Sovereign Default Risk",
             "State Bank Autonomy Act",
@@ -17553,7 +17553,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'Roshan Digital Account'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Pakistan secured a new 37-month Extended Fund Facility (EFF) from the IMF in 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Pakistan secured a new 37-month Extended Fund Facility (EFF) from the IMF in 2024.\"?",
           "options": [
             "Extended Fund Facility",
             "PSX 80000 Milestone",
@@ -17608,7 +17608,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Allama Iqbal SEZ'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'expatriate banking and capital inflows'?",
+          "q": "What is a major reference or manual focusing on 'expatriate banking and capital inflows'?",
           "options": [
             "Global Financial Stability Reports",
             "Banking Legislation Manuals",
@@ -17630,7 +17630,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Roshan Digital Account Inflow'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Global economies faced double-digit inflation in 2022-2023 due to energy crises.\"?",
+          "q": "What describes the key fact or historical quote: \"Global economies faced double-digit inflation in 2022-2023 due to energy crises.\"?",
           "options": [
             "FATF Removal",
             "Double Digit Inflation",
@@ -17652,7 +17652,7 @@ window.QuizData_current_affairs = {
           "explanation": "'NFC 57.5 Percent Share' is classified under the domain of 'Public Finance'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'PSX 100 Index'?",
+          "q": "Which is correct about the core idea of 'PSX 100 Index'?",
           "options": [
             "It belongs to the field of 'Public Finance'.",
             "It is documented in 'Financial Action Task Force Reports'.",
@@ -17696,7 +17696,7 @@ window.QuizData_current_affairs = {
           "explanation": "'CPEC Phase 1' is the standard contrast to 'CPEC Phase 2'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Global Inflation Trackers'?",
+          "q": "Which is correct about the book/guide 'Global Inflation Trackers'?",
           "options": [
             "It addresses the theme of 'inflation dynamics and commodity price spikes'.",
             "It is contrasted with 'Foreign Aid Loans'.",
@@ -17729,7 +17729,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Commodity Index' is the direct contrast to 'PSX 100 Index'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"RDA cumulative deposits crossed several billion dollars by 2024 since its launch.\"?",
+          "q": "What describes the key fact or historical quote: \"RDA cumulative deposits crossed several billion dollars by 2024 since its launch.\"?",
           "options": [
             "Policy Rate 22 Percent",
             "FATF Removal",
@@ -17773,7 +17773,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Default Avoidance' is built on the concept: 'the prevention of national insolvency through debt restructuring and IMF support'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'foreign exchange reserves stability and expatriate deposits'?",
+          "q": "What is a major reference or manual focusing on 'foreign exchange reserves stability and expatriate deposits'?",
           "options": [
             "Financial Action Task Force Reports",
             "China-Pakistan Economic Plans",
@@ -17784,7 +17784,7 @@ window.QuizData_current_affairs = {
           "explanation": "'State Bank RDA Statistics' is known for its focus on 'foreign exchange reserves stability and expatriate deposits'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Securing the IMF SBA in 2023 helped Pakistan avoid immediate sovereign default.\"?",
+          "q": "What describes the key fact or historical quote: \"Securing the IMF SBA in 2023 helped Pakistan avoid immediate sovereign default.\"?",
           "options": [
             "Default Avoidance",
             "Naya Pakistan Certificates",
@@ -17828,7 +17828,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Allama Iqbal SEZ' is built on the concept: 'the major special economic zone located in Faisalabad under CPEC'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'SIFC Tax Reforms'?",
+          "q": "Which is correct about the concept of 'SIFC Tax Reforms'?",
           "options": [
             "It is documented in the manual 'Banking Legislation Manuals'.",
             "It is defined as 'the coordination of tax administration reforms under SIFC oversight'.",
@@ -17883,7 +17883,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Default Avoidance' is classified under the domain of 'Macroeconomics'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'sovereign stability and debt management'?",
+          "q": "What is a major reference or manual focusing on 'sovereign stability and debt management'?",
           "options": [
             "IMF Loan Agreements",
             "Federal Revenue Restructuring Plans",
@@ -17905,7 +17905,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Power Sector Circular Debt'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Roshan Digital Account Inflow'?",
+          "q": "Which is correct about the core idea of 'Roshan Digital Account Inflow'?",
           "options": [
             "It is defined as 'the cumulative dollar deposits received from overseas Pakistanis'.",
             "It is themed as 'industrial cooperation and regional connectivity'.",
@@ -17927,7 +17927,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Sovereign Default Risk'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'International Finance'?",
+          "q": "What is situated within the study field of 'International Finance'?",
           "options": [
             "PSX 80000 Milestone",
             "Extended Fund Facility",
@@ -17960,7 +17960,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Federal Revenue Restructuring Plans' is the manual associated with 'tax net expansion and digitizing FBR operations'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'IMF SBA 2023'?",
+          "q": "Which is correct about the concept of 'IMF SBA 2023'?",
           "options": [
             "It belongs to the domain of 'Banking Systems'.",
             "It is documented in the manual 'National Energy Audits'.",
@@ -18004,7 +18004,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Foreign Exchange Surveys' contains documentation regarding 'foreign reserves support and balance of payments'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Sovereign Default Risk'?",
+          "q": "Which is correct about the core idea of 'Sovereign Default Risk'?",
           "options": [
             "It is defined as 'the risk of economic bankruptcy faced by developing nations'.",
             "It is themed as 'expatriate banking and capital inflows'.",
@@ -18026,7 +18026,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Stock Market Reports' is associated with 'PSX 100 Index'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The Pakistan Stock Exchange crossed historic milestones in 2024, reflecting investor interest.\"?",
+          "q": "What describes the key fact or historical quote: \"The Pakistan Stock Exchange crossed historic milestones in 2024, reflecting investor interest.\"?",
           "options": [
             "Naya Pakistan Certificates",
             "PSX 100 Index",
@@ -18103,7 +18103,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Global Inflation Trackers' is the manual associated with 'inflation dynamics and commodity price spikes'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Macroeconomics'?",
+          "q": "What is situated within the study field of 'Macroeconomics'?",
           "options": [
             "Naya Pakistan Certificates",
             "SBP Policy Rate",
@@ -18125,7 +18125,7 @@ window.QuizData_current_affairs = {
           "explanation": "'State Bank Guidelines' is associated with 'Roshan Digital Account'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Sovereign Default Risk'?",
+          "q": "Which is correct about the concept of 'Sovereign Default Risk'?",
           "options": [
             "It is documented in the manual 'Expatriate Investment Guides'.",
             "It belongs to the domain of 'Banking Systems'.",
@@ -18136,7 +18136,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Sovereign Default Risk' is defined as 'the risk of economic bankruptcy faced by developing nations'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'inflation dynamics and commodity price spikes'?",
+          "q": "What is a major reference or manual focusing on 'inflation dynamics and commodity price spikes'?",
           "options": [
             "Financial Action Task Force Reports",
             "Federal Revenue Restructuring Plans",
@@ -18235,7 +18235,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Deflation Trends' is the direct contrast to 'Double Digit Inflation'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'monetary tightening and credit control'?",
+          "q": "What is a major reference or manual focusing on 'monetary tightening and credit control'?",
           "options": [
             "SBP Monetary Bulletins",
             "SEZ Regulatory Frameworks",
@@ -18301,7 +18301,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Special Economic Zones'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Economic Analysis Briefs'?",
+          "q": "Which is correct about the book/guide 'Economic Analysis Briefs'?",
           "options": [
             "It is written about 'Naya Pakistan Certificates'.",
             "It addresses the theme of 'sovereign stability and debt management'.",
@@ -18334,7 +18334,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'PSX 80000 Milestone'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Power Circular Debt Crisis'?",
+          "q": "What is a key description or fact regarding the concept of 'Power Circular Debt Crisis'?",
           "options": [
             "\"Rashid Mahmood Langrial was appointed FBR Chairman in August 2024.\"",
             "\"FBR tax collection reforms in 2024 were accelerated with SIFC coordination.\"",
@@ -18356,7 +18356,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Allama Iqbal SEZ' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'PSX 100 Index'?",
+          "q": "What is a key description or fact regarding the concept of 'PSX 100 Index'?",
           "options": [
             "\"NPCs offer attractive dollar and rupee interest rates to non-resident Pakistani investors.\"",
             "\"The Pakistan Stock Exchange crossed historic milestones in 2024, reflecting investor interest.\"",
@@ -18367,7 +18367,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'PSX 100 Index' is: \"The Pakistan Stock Exchange crossed historic milestones in 2024, reflecting investor interest.\"."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Banking Systems'?",
+          "q": "What is situated within the study field of 'Banking Systems'?",
           "options": [
             "State Bank Autonomy Act",
             "Roshan Digital Account",
@@ -18499,7 +18499,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Federal Revenue Restructuring Plans' contains documentation regarding 'tax net expansion and digitizing FBR operations'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Allama Iqbal SEZ'?",
+          "q": "Which is correct about the concept of 'Allama Iqbal SEZ'?",
           "options": [
             "It belongs to the domain of 'Macroeconomics'.",
             "It is documented in the manual 'State Bank RDA Statistics'.",
@@ -18631,7 +18631,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SBP Monetary Bulletins' is the manual associated with 'monetary tightening and credit control'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Foreign Remittances Inflow'?",
+          "q": "Which is correct about the core idea of 'Foreign Remittances Inflow'?",
           "options": [
             "It is documented in 'Monetary Policy Statements'.",
             "It belongs to the field of 'Banking Systems'.",
@@ -18686,7 +18686,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Power Sector Circular Debt'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"CPEC Phase 2 places primary focus on agriculture, IT, and science-led industrialization.\"?",
+          "q": "What describes the key fact or historical quote: \"CPEC Phase 2 places primary focus on agriculture, IT, and science-led industrialization.\"?",
           "options": [
             "Power Sector Circular Debt",
             "CPEC Industrialization Focus",
@@ -18708,7 +18708,7 @@ window.QuizData_current_affairs = {
           "explanation": "'FATF Blacklist' is the standard contrast to 'FATF Removal'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'CPEC Industrialization Focus'?",
+          "q": "Which is correct about the concept of 'CPEC Industrialization Focus'?",
           "options": [
             "It is documented in the manual 'Global Inflation Trackers'.",
             "Its contrasting theme is 'power tariffs and energy subsidy reforms'.",
@@ -18752,7 +18752,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Sovereign Default Risk' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'IMF SBA 2023'?",
+          "q": "What is a key description or fact regarding the concept of 'IMF SBA 2023'?",
           "options": [
             "\"NPCs offer attractive dollar and rupee interest rates to non-resident Pakistani investors.\"",
             "\"Pakistan signed a 9-month Stand-By Arrangement (SBA) with the IMF in June 2023.\"",
@@ -18763,7 +18763,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'IMF SBA 2023' is: \"Pakistan signed a 9-month Stand-By Arrangement (SBA) with the IMF in June 2023.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'State Bank Autonomy Act'?",
+          "q": "What is a key description or fact regarding the concept of 'State Bank Autonomy Act'?",
           "options": [
             "\"Pakistan was officially removed from the FATF grey list in late 2022 after reforms.\"",
             "\"The Pakistan Stock Exchange crossed historic milestones in 2024, reflecting investor interest.\"",
@@ -18785,7 +18785,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SEZ Regulatory Frameworks' is the manual associated with 'industrialization and export promotion policies'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Special Economic Zones'?",
+          "q": "What is a key description or fact regarding the concept of 'Special Economic Zones'?",
           "options": [
             "\"The State Bank of Pakistan Act amendment granted greater functional autonomy to the SBP.\"",
             "\"SEZs like Allama Iqbal Industrial City are being set up to host foreign factories.\"",
@@ -18829,7 +18829,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Double Digit Inflation' deals with the theme of 'inflation dynamics and commodity price spikes'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Roshan Digital Account'?",
+          "q": "Which is correct about the core idea of 'Roshan Digital Account'?",
           "options": [
             "It belongs to the field of 'Public Finance'.",
             "It is defined as 'the digital banking platform for non-resident Pakistanis to invest locally'.",
@@ -18851,7 +18851,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Double Digit Inflation' is classified under the domain of 'Macroeconomics'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'CPEC Industrialization Focus'?",
+          "q": "What is a key description or fact regarding the concept of 'CPEC Industrialization Focus'?",
           "options": [
             "\"The 7th NFC Award guarantees 57.5% of tax revenues go directly to the provinces.\"",
             "\"Global economies faced double-digit inflation in 2022-2023 due to energy crises.\"",
@@ -18884,7 +18884,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Default Avoidance'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Power Circular Debt Crisis'?",
+          "q": "Which is correct about the core idea of 'Power Circular Debt Crisis'?",
           "options": [
             "It is defined as 'the debt accumulated due to transmission losses and unpaid subsidies'.",
             "It is themed as 'tax net expansion and digitizing FBR operations'.",
@@ -18928,7 +18928,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Global Inflation Trackers' is associated with 'Double Digit Inflation'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Development Economics'?",
+          "q": "What is situated within the study field of 'Development Economics'?",
           "options": [
             "Power Circular Debt Crisis",
             "Naya Pakistan Certificates",
@@ -18961,7 +18961,7 @@ window.QuizData_current_affairs = {
           "explanation": "'State Bank Autonomy Act' is classified under the domain of 'Public Finance'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Power Sector Circular Debt'?",
+          "q": "Which is correct about the core idea of 'Power Sector Circular Debt'?",
           "options": [
             "It is themed as 'monetary tightening and inflation control policies'.",
             "It is defined as 'the cascading inter-corporate debt crippling Pakistan's energy supply'.",
@@ -19071,7 +19071,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Low Interest Policy' is the direct contrast to 'Policy Rate 22 Percent'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'SBP Monetary Bulletins'?",
+          "q": "Which is correct about the book/guide 'SBP Monetary Bulletins'?",
           "options": [
             "It addresses the theme of 'monetary tightening and credit control'.",
             "It is written about 'Naya Pakistan Certificates'.",
@@ -19082,7 +19082,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SBP Monetary Bulletins' focuses on 'monetary tightening and credit control'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Policy Rate 22 Percent'?",
+          "q": "What is a key description or fact regarding the concept of 'Policy Rate 22 Percent'?",
           "options": [
             "\"Rashid Mahmood Langrial was appointed FBR Chairman in August 2024.\"",
             "\"NPCs offer attractive dollar and rupee interest rates to non-resident Pakistani investors.\"",
@@ -19115,7 +19115,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SBP Policy Rate' is classified under the domain of 'Macroeconomics'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Naya Pakistan Certificates'?",
+          "q": "What is a key description or fact regarding the concept of 'Naya Pakistan Certificates'?",
           "options": [
             "\"Pakistan signed a 9-month Stand-By Arrangement (SBA) with the IMF in June 2023.\"",
             "\"The State Bank of Pakistan kept the benchmark policy rate at 22% for nearly a year.\"",
@@ -19126,7 +19126,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'Naya Pakistan Certificates' is: \"NPCs offer attractive dollar and rupee interest rates to non-resident Pakistani investors.\"."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'industrial relocations and export enhancement'?",
+          "q": "What is a major reference or manual focusing on 'industrial relocations and export enhancement'?",
           "options": [
             "Energy Sector Audits",
             "Federal Devolution Guidelines",
@@ -19258,7 +19258,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'SBP Policy Rate'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Double Digit Inflation'?",
+          "q": "Which is correct about the concept of 'Double Digit Inflation'?",
           "options": [
             "Its contrasting theme is 'tax net expansion and digitizing FBR operations'.",
             "It is defined as 'the macroeconomic trend of high prices following post-pandemic shocks'.",
@@ -19291,7 +19291,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Federal Revenue Bulletins' contains documentation regarding 'tax administration and revenue modernization'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Sri Lanka's 2022 default highlighted the severe sovereign debt risks in South Asia.\"?",
+          "q": "What describes the key fact or historical quote: \"Sri Lanka's 2022 default highlighted the severe sovereign debt risks in South Asia.\"?",
           "options": [
             "Sovereign Default Risk",
             "Foreign Remittances Inflow",
@@ -19313,7 +19313,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Stock Market Archives' is the manual associated with 'stock market rallies and macroeconomic optimism'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Roshan Digital Account'?",
+          "q": "What is a key description or fact regarding the concept of 'Roshan Digital Account'?",
           "options": [
             "\"Pakistan secured a new 37-month Extended Fund Facility (EFF) from the IMF in 2024.\"",
             "\"RDA allows overseas Pakistanis to invest in Naya Pakistan Certificates digitally.\"",
@@ -19357,7 +19357,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Special Economic Zones'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Double Digit Inflation'?",
+          "q": "What is a key description or fact regarding the concept of 'Double Digit Inflation'?",
           "options": [
             "\"Pakistan was officially removed from the FATF grey list in late 2022 after reforms.\"",
             "\"RDA cumulative deposits crossed several billion dollars by 2024 since its launch.\"",
@@ -19434,7 +19434,7 @@ window.QuizData_current_affairs = {
           "explanation": "'State Bank Governor' is the direct contrast to 'FBR Chair Langrial'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'NFC 57.5 Percent Share'?",
+          "q": "Which is correct about the concept of 'NFC 57.5 Percent Share'?",
           "options": [
             "Its contrasting theme is 'international financial compliance and security regulations'.",
             "It is defined as 'the provincial share of the divisible pool set under the 7th NFC award'.",
@@ -19478,7 +19478,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'SIFC Tax Reforms'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Policy Rate 22 Percent'?",
+          "q": "Which is correct about the core idea of 'Policy Rate 22 Percent'?",
           "options": [
             "It is documented in 'SEZ Regulatory Frameworks'.",
             "It is defined as 'the historic peak of Pakistan's interest rate set to battle inflation'.",
@@ -19489,7 +19489,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Policy Rate 22 Percent' is defined as 'the historic peak of Pakistan's interest rate set to battle inflation'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'balance of payments stabilization and structural conditions'?",
+          "q": "What is a major reference or manual focusing on 'balance of payments stabilization and structural conditions'?",
           "options": [
             "Expatriate Investment Guides",
             "IMF Stand-By Documents",
@@ -19511,7 +19511,7 @@ window.QuizData_current_affairs = {
           "explanation": "'expatriate banking and capital inflows' is a major theme inside 'Banking Systems'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The State Bank of Pakistan kept the benchmark policy rate at 22% for nearly a year.\"?",
+          "q": "What describes the key fact or historical quote: \"The State Bank of Pakistan kept the benchmark policy rate at 22% for nearly a year.\"?",
           "options": [
             "Naya Pakistan Certificates",
             "FBR Chair Langrial",
@@ -19555,7 +19555,7 @@ window.QuizData_current_affairs = {
           "explanation": "'IMF Loan Agreements' is the manual associated with 'multilateral financial bailouts and economic reforms'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Power Sector Circular Debt'?",
+          "q": "What is a key description or fact regarding the concept of 'Power Sector Circular Debt'?",
           "options": [
             "\"Circular debt remains a primary fiscal vulnerability for Pakistan's national economy.\"",
             "\"SEZs like Allama Iqbal Industrial City are being set up to host foreign factories.\"",
@@ -19566,7 +19566,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'Power Sector Circular Debt' is: \"Circular debt remains a primary fiscal vulnerability for Pakistan's national economy.\"."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Default Avoidance'?",
+          "q": "Which is correct about the concept of 'Default Avoidance'?",
           "options": [
             "It is documented in the manual 'Expatriate Investment Guides'.",
             "Its contrasting theme is 'multilateral financial bailouts and economic reforms'.",
@@ -19610,7 +19610,7 @@ window.QuizData_current_affairs = {
           "explanation": "'State Bank RDA Statistics' is the manual associated with 'foreign exchange reserves stability and expatriate deposits'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'stock market rallies and macroeconomic optimism'?",
+          "q": "What is a major reference or manual focusing on 'stock market rallies and macroeconomic optimism'?",
           "options": [
             "Foreign Exchange Surveys",
             "Federal Revenue Bulletins",
@@ -19632,7 +19632,7 @@ window.QuizData_current_affairs = {
           "explanation": "'CPEC Phase 2' deals with the theme of 'industrial cooperation and regional connectivity'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The 7th NFC Award guarantees 57.5% of tax revenues go directly to the provinces.\"?",
+          "q": "What describes the key fact or historical quote: \"The 7th NFC Award guarantees 57.5% of tax revenues go directly to the provinces.\"?",
           "options": [
             "Extended Fund Facility",
             "NFC 57.5 Percent Share",
@@ -19643,7 +19643,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'NFC 57.5 Percent Share'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The State Bank of Pakistan maintained high policy rates in 2023-2024 to curb inflation.\"?",
+          "q": "What describes the key fact or historical quote: \"The State Bank of Pakistan maintained high policy rates in 2023-2024 to curb inflation.\"?",
           "options": [
             "Naya Pakistan Certificates",
             "SBP Policy Rate",
@@ -19753,7 +19753,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Roshan Digital Account Inflow' is built on the concept: 'the cumulative dollar deposits received from overseas Pakistanis'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'NFC 57.5 Percent Share'?",
+          "q": "Which is correct about the core idea of 'NFC 57.5 Percent Share'?",
           "options": [
             "It is documented in 'Financial Action Task Force Reports'.",
             "It belongs to the field of 'International Finance'.",
@@ -19808,7 +19808,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Power Circular Debt Crisis' is built on the concept: 'the debt accumulated due to transmission losses and unpaid subsidies'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'tax net expansion and digitizing FBR operations'?",
+          "q": "What is a major reference or manual focusing on 'tax net expansion and digitizing FBR operations'?",
           "options": [
             "Monetary Policy Statements",
             "Stock Market Reports",
@@ -19830,7 +19830,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Foreign Exchange Surveys' is the manual associated with 'foreign reserves support and balance of payments'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Federal Devolution Guidelines'?",
+          "q": "Which is correct about the book/guide 'Federal Devolution Guidelines'?",
           "options": [
             "It is written about 'Extended Fund Facility'.",
             "Its primary focus is 'Financial Law'.",
@@ -19852,7 +19852,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'Double Digit Inflation' is 'the macroeconomic trend of high prices following post-pandemic shocks'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Sovereign Default Risk'?",
+          "q": "What is a key description or fact regarding the concept of 'Sovereign Default Risk'?",
           "options": [
             "\"Sri Lanka's 2022 default highlighted the severe sovereign debt risks in South Asia.\"",
             "\"Remittances from Saudi Arabia and UAE are a major source of dollar inflows for Pakistan.\"",
@@ -19863,7 +19863,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'Sovereign Default Risk' is: \"Sri Lanka's 2022 default highlighted the severe sovereign debt risks in South Asia.\"."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'State Bank Autonomy Act'?",
+          "q": "Which is correct about the core idea of 'State Bank Autonomy Act'?",
           "options": [
             "It is themed as 'stock market investments and capital growth'.",
             "It is defined as 'the law strengthening the SBP's independent power over monetary policy'.",
@@ -19885,7 +19885,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Sovereign Default Risk' is classified under the domain of 'Macroeconomics'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Bilateral Trade Reports'?",
+          "q": "Which is correct about the book/guide 'Bilateral Trade Reports'?",
           "options": [
             "It is contrasted with 'Centralized Taxation'.",
             "Its primary focus is 'Public Finance'.",
@@ -19973,7 +19973,7 @@ window.QuizData_current_affairs = {
           "explanation": "'FBR Chair Langrial' deals with the theme of 'tax administration and revenue modernization'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Financial Action Task Force Reports'?",
+          "q": "Which is correct about the book/guide 'Financial Action Task Force Reports'?",
           "options": [
             "It is written about 'Extended Fund Facility'.",
             "Its primary focus is 'Banking Systems'.",
@@ -20072,7 +20072,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Agricultural Free Zones' is the contrast to 'Special Economic Zones'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'PSX 80000 Milestone'?",
+          "q": "What is a key description or fact regarding the concept of 'PSX 80000 Milestone'?",
           "options": [
             "\"Securing the IMF SBA in 2023 helped Pakistan avoid immediate sovereign default.\"",
             "\"Rashid Mahmood Langrial was appointed FBR Chairman in August 2024.\"",
@@ -20083,7 +20083,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'PSX 80000 Milestone' is: \"The KSE-100 index crossed the historic 80,000-point mark in mid-2024.\"."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'foreign reserves support and balance of payments'?",
+          "q": "What is a major reference or manual focusing on 'foreign reserves support and balance of payments'?",
           "options": [
             "State Bank RDA Statistics",
             "Economic Analysis Briefs",
@@ -20193,7 +20193,7 @@ window.QuizData_current_affairs = {
           "explanation": "'IMF EFF 2024' is the standard contrast to 'IMF SBA 2023'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'fiscal federalism and resource distribution'?",
+          "q": "What is a major reference or manual focusing on 'fiscal federalism and resource distribution'?",
           "options": [
             "Financial Action Task Force Reports",
             "Economic Analysis Briefs",
@@ -20210,7 +20210,7 @@ window.QuizData_current_affairs = {
       "icon": "fa-users-rectangle",
       "questions": [
         {
-          "q": "Which of the following is correct regarding the core idea of 'BRICS Expansion 2024'?",
+          "q": "Which is correct about the core idea of 'BRICS Expansion 2024'?",
           "options": [
             "It belongs to the field of 'Global Politics'.",
             "It is documented in 'Olympic Games Chronicles'.",
@@ -20749,7 +20749,7 @@ window.QuizData_current_affairs = {
           "explanation": "COP is the supreme decision-making body of the UN Framework Convention on Climate Change."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'ASEAN Summit Laos'?",
+          "q": "Which is correct about the core idea of 'ASEAN Summit Laos'?",
           "options": [
             "It belongs to the field of 'International Relations'.",
             "It is documented in 'G20 Conference Proceedings'.",
@@ -20760,7 +20760,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ASEAN Summit Laos' is defined as 'the regional summits hosted under the chairmanship of Laos in 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'COP29 Azerbaijan'?",
+          "q": "Which is correct about the core idea of 'COP29 Azerbaijan'?",
           "options": [
             "It is themed as 'global economic governance and climate financing'.",
             "It is documented in 'South Asian Integration Studies'.",
@@ -20771,7 +20771,7 @@ window.QuizData_current_affairs = {
           "explanation": "'COP29 Azerbaijan' is defined as 'the 2024 climate change conference hosted in Baku'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'BRICS Summit Kazan'?",
+          "q": "Which is correct about the core idea of 'BRICS Summit Kazan'?",
           "options": [
             "It belongs to the field of 'International Finance'.",
             "It is documented in 'Atlantic Alliance Records'.",
@@ -20782,7 +20782,7 @@ window.QuizData_current_affairs = {
           "explanation": "'BRICS Summit Kazan' is defined as 'the 2024 summit hosting the expanded group of emerging economies'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'NATO Expansion 2024'?",
+          "q": "Which is correct about the core idea of 'NATO Expansion 2024'?",
           "options": [
             "It belongs to the field of 'International Relations'.",
             "It is defined as 'the admission of Finland and Sweden as members of the military alliance'.",
@@ -20793,7 +20793,7 @@ window.QuizData_current_affairs = {
           "explanation": "'NATO Expansion 2024' is defined as 'the admission of Finland and Sweden as members of the military alliance'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'UN Sec Gen Antonio Guterres'?",
+          "q": "Which is correct about the core idea of 'UN Sec Gen Antonio Guterres'?",
           "options": [
             "It belongs to the field of 'Public Health Policy'.",
             "It is themed as 'climate change negotiations and emissions reduction targets'.",
@@ -20804,7 +20804,7 @@ window.QuizData_current_affairs = {
           "explanation": "'UN Sec Gen Antonio Guterres' is defined as 'the Secretary-General leading the international peacekeeping body'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'SAARC Stagnation'?",
+          "q": "Which is correct about the core idea of 'SAARC Stagnation'?",
           "options": [
             "It belongs to the field of 'International Finance'.",
             "It is documented in 'Southeast Asian Summit Records'.",
@@ -20815,7 +20815,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SAARC Stagnation' is defined as 'the regional organization failing to meet due to bilateral disputes'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'G20 Summit Brazil'?",
+          "q": "Which is correct about the core idea of 'G20 Summit Brazil'?",
           "options": [
             "It belongs to the field of 'Environmental Policy'.",
             "It is themed as 'pan-islamic solidarity and Middle Eastern diplomacy'.",
@@ -20826,7 +20826,7 @@ window.QuizData_current_affairs = {
           "explanation": "'G20 Summit Brazil' is defined as 'the 2024 G20 summit under the presidency of Luiz Inacio Lula da Silva'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'SCO Council Summit Islamabad'?",
+          "q": "Which is correct about the core idea of 'SCO Council Summit Islamabad'?",
           "options": [
             "It is defined as 'the 2024 meeting of Heads of Government hosted in Pakistan'.",
             "It is documented in 'United Nations Charter Guides'.",
@@ -20837,7 +20837,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SCO Council Summit Islamabad' is defined as 'the 2024 meeting of Heads of Government hosted in Pakistan'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'James Webb Telescope'?",
+          "q": "Which is correct about the core idea of 'James Webb Telescope'?",
           "options": [
             "It belongs to the field of 'Cyber Law'.",
             "It is defined as 'the space observatory delivering high-resolution infrared images of early universe'.",
@@ -20892,7 +20892,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'BRICS Kazan Summit' is 'the international summit held in Russia hosting expanded member states'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'UN Climate Change Reports'?",
+          "q": "Which is correct about the book/guide 'UN Climate Change Reports'?",
           "options": [
             "It addresses the theme of 'climate change negotiations and emissions reduction targets'.",
             "It is contrasted with 'EU Summits'.",
@@ -20914,7 +20914,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'G20 Brazil Presidency'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Diplomatic History'?",
+          "q": "What is situated within the study field of 'Diplomatic History'?",
           "options": [
             "G20 Summit Brazil",
             "WHO DG Tedros",
@@ -20936,7 +20936,7 @@ window.QuizData_current_affairs = {
           "explanation": "'COP28 Dubai' is the contrast to 'COP29 Azerbaijan'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'IMF MD Georgieva Term'?",
+          "q": "Which is correct about the core idea of 'IMF MD Georgieva Term'?",
           "options": [
             "It is themed as 'international criminal justice and human rights prosecution'.",
             "It is documented in 'United Nations Charter Guides'.",
@@ -20980,7 +20980,7 @@ window.QuizData_current_affairs = {
           "explanation": "'NATO Summit' is the standard contrast to 'SCO Heads of Government'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'NATO Expansion 2024'?",
+          "q": "Which is correct about the concept of 'NATO Expansion 2024'?",
           "options": [
             "It is documented in the manual 'Multilateral Development Reports'.",
             "It belongs to the domain of 'International Relations'.",
@@ -21112,7 +21112,7 @@ window.QuizData_current_affairs = {
           "explanation": "'UN General Assembly' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'WHO DG Tedros Adhanom'?",
+          "q": "What is a key description or fact regarding the concept of 'WHO DG Tedros Adhanom'?",
           "options": [
             "\"Dr. Tedros Adhanom Ghebreyesus has led the WHO through the COVID-19 pandemic.\"",
             "\"Dr. Tedros Adhanom Ghebreyesus was re-elected unopposed for a second term in 2022.\"",
@@ -21134,7 +21134,7 @@ window.QuizData_current_affairs = {
           "explanation": "'OIC Palestine Resolutions' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'multipolar finance and local currency trade channels'?",
+          "q": "What is a major reference or manual focusing on 'multipolar finance and local currency trade channels'?",
           "options": [
             "OIC Summit Communiques",
             "South Asian Integration Studies",
@@ -21244,7 +21244,7 @@ window.QuizData_current_affairs = {
           "explanation": "'WHO DG Tedros' deals with the theme of 'global health security and pandemic responses'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'pan-islamic coordination and Middle East conflict resolution'?",
+          "q": "What is a major reference or manual focusing on 'pan-islamic coordination and Middle East conflict resolution'?",
           "options": [
             "OIC Summit Communiques",
             "SCO Conference Records",
@@ -21266,7 +21266,7 @@ window.QuizData_current_affairs = {
           "explanation": "'World Bank President Ajay Banga' deals with the theme of 'poverty reduction loans and climate development funds'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'OIC Palestine Resolutions'?",
+          "q": "What is a key description or fact regarding the concept of 'OIC Palestine Resolutions'?",
           "options": [
             "\"The OIC held multiple extraordinary summits in Riyadh to coordinate response to the Gaza war.\"",
             "\"Pakistan hosted the 23rd meeting of the SCO Council of Heads of Government in Oct 2024.\"",
@@ -21277,7 +21277,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'OIC Palestine Resolutions' is: \"The OIC held multiple extraordinary summits in Riyadh to coordinate response to the Gaza war.\"."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The OIC held multiple extraordinary summits in Riyadh to coordinate response to the Gaza war.\"?",
+          "q": "What describes the key fact or historical quote: \"The OIC held multiple extraordinary summits in Riyadh to coordinate response to the Gaza war.\"?",
           "options": [
             "UN Sec Gen Antonio Guterres",
             "SCO Council Summit Islamabad",
@@ -21288,7 +21288,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'OIC Palestine Resolutions'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'climate change negotiations and emissions reduction targets'?",
+          "q": "What is a major reference or manual focusing on 'climate change negotiations and emissions reduction targets'?",
           "options": [
             "UN Climate Change Reports",
             "BRICS Conference Proceedings",
@@ -21332,7 +21332,7 @@ window.QuizData_current_affairs = {
           "explanation": "'BRICS Conference Proceedings' is the manual associated with 'multipolar finance and local currency trade channels'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Multilateral Development Reports'?",
+          "q": "Which is correct about the book/guide 'Multilateral Development Reports'?",
           "options": [
             "It addresses the theme of 'poverty reduction loans and climate development funds'.",
             "It is written about 'NATO Accessions'.",
@@ -21343,7 +21343,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Multilateral Development Reports' focuses on 'poverty reduction loans and climate development funds'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'WHO DG Tedros'?",
+          "q": "Which is correct about the core idea of 'WHO DG Tedros'?",
           "options": [
             "It belongs to the field of 'International Finance'.",
             "It is themed as 'multilateral debates and non-binding resolutions'.",
@@ -21486,7 +21486,7 @@ window.QuizData_current_affairs = {
           "explanation": "'World Bank President Ajay Banga' is built on the concept: 'the leader appointed to head the global development finance body'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The UNGA General Debate in September brings together heads of state from 193 nations.\"?",
+          "q": "What describes the key fact or historical quote: \"The UNGA General Debate in September brings together heads of state from 193 nations.\"?",
           "options": [
             "UN Sec Gen Guterres",
             "NATO Expansion 2024",
@@ -21574,7 +21574,7 @@ window.QuizData_current_affairs = {
           "explanation": "'IMF Executive Board Records' is associated with 'IMF MD Georgieva Term'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'IMF MD Georgieva'?",
+          "q": "Which is correct about the concept of 'IMF MD Georgieva'?",
           "options": [
             "It is documented in the manual 'ICC Rome Statute Guides'.",
             "It belongs to the domain of 'International Finance'.",
@@ -21651,7 +21651,7 @@ window.QuizData_current_affairs = {
           "explanation": "'United Nations Charter Guides' contains documentation regarding 'international diplomacy and global conflict mediation'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'ASEAN Chair Laos'?",
+          "q": "Which is correct about the concept of 'ASEAN Chair Laos'?",
           "options": [
             "It belongs to the domain of 'International Relations'.",
             "It is documented in the manual 'United Nations Charter Guides'.",
@@ -21728,7 +21728,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Arab League Summits' is the standard contrast to 'OIC Palestine Resolutions'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'IMF MD Georgieva Term'?",
+          "q": "Which is correct about the concept of 'IMF MD Georgieva Term'?",
           "options": [
             "It belongs to the domain of 'International Law'.",
             "Its contrasting theme is 'multilateral conflict mediation and peacekeeping mandates'.",
@@ -21739,7 +21739,7 @@ window.QuizData_current_affairs = {
           "explanation": "'IMF MD Georgieva Term' is defined as 'the second term of the Managing Director leading multilateral debt packages'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'International Finance'?",
+          "q": "What is situated within the study field of 'International Finance'?",
           "options": [
             "NATO Accessions",
             "OIC Palestine Resolutions",
@@ -21805,7 +21805,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'SCO Council Summit Islamabad'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'WB Chair Ajay Banga'?",
+          "q": "Which is correct about the concept of 'WB Chair Ajay Banga'?",
           "options": [
             "It is documented in the manual 'BRICS Conference Proceedings'.",
             "It is defined as 'the leader reshaping the bank to focus on climate and development projects'.",
@@ -21816,7 +21816,7 @@ window.QuizData_current_affairs = {
           "explanation": "'WB Chair Ajay Banga' is defined as 'the leader reshaping the bank to focus on climate and development projects'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Global Governance'?",
+          "q": "What is situated within the study field of 'Global Governance'?",
           "options": [
             "G20 Summit Brazil",
             "WHO DG Tedros",
@@ -21827,7 +21827,7 @@ window.QuizData_current_affairs = {
           "explanation": "'G20 Summit Brazil' falls under the discipline of 'Global Governance'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Ajay Banga initiated reforms to scale up the World Bank's lending capacity.\"?",
+          "q": "What describes the key fact or historical quote: \"Ajay Banga initiated reforms to scale up the World Bank's lending capacity.\"?",
           "options": [
             "UN Sec Gen Antonio Guterres",
             "BRICS Kazan Summit",
@@ -21860,7 +21860,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'UN Sec Gen Guterres' is 'the Secretary-General mediating diplomatic disputes at the Security Council'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Dr. Tedros Adhanom Ghebreyesus was re-elected unopposed for a second term in 2022.\"?",
+          "q": "What describes the key fact or historical quote: \"Dr. Tedros Adhanom Ghebreyesus was re-elected unopposed for a second term in 2022.\"?",
           "options": [
             "SCO Heads of Government",
             "WHO DG Tedros",
@@ -21871,7 +21871,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'WHO DG Tedros Adhanom'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'poverty reduction loans and climate development funds'?",
+          "q": "What is a major reference or manual focusing on 'poverty reduction loans and climate development funds'?",
           "options": [
             "OIC Summit Communiques",
             "Multilateral Development Reports",
@@ -21882,7 +21882,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Multilateral Development Reports' is known for its focus on 'poverty reduction loans and climate development funds'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The SCO Heads of Government meeting in Islamabad discussed CPEC-related transit.\"?",
+          "q": "What describes the key fact or historical quote: \"The SCO Heads of Government meeting in Islamabad discussed CPEC-related transit.\"?",
           "options": [
             "SCO Heads of Government",
             "OIC Palestine Resolutions",
@@ -21915,7 +21915,7 @@ window.QuizData_current_affairs = {
           "explanation": "'UN General Assembly President' is the direct contrast to 'UN Sec Gen Guterres'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'ASEAN Chair Laos'?",
+          "q": "Which is correct about the core idea of 'ASEAN Chair Laos'?",
           "options": [
             "It is defined as 'the rotating leadership of the ten-member Southeast Asian bloc in 2024'.",
             "It is themed as 'multilateral debates and non-binding resolutions'.",
@@ -21937,7 +21937,7 @@ window.QuizData_current_affairs = {
           "explanation": "'IMF Executive Board Records' is associated with 'IMF MD Georgieva'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'International Criminal Court'?",
+          "q": "What is a key description or fact regarding the concept of 'International Criminal Court'?",
           "options": [
             "\"The UNGA General Debate in September brings together heads of state from 193 nations.\"",
             "\"The ICC operates independently of the UN, established by the Rome Statute.\"",
@@ -21981,7 +21981,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ASEAN Summit Laos' is classified under the domain of 'International Relations'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'ASEAN Chair Laos'?",
+          "q": "What is a key description or fact regarding the concept of 'ASEAN Chair Laos'?",
           "options": [
             "\"Antonio Guterres began his second term as UN Secretary-General in January 2022.\"",
             "\"The UNGA General Debate in September brings together heads of state from 193 nations.\"",
@@ -22003,7 +22003,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SAARC Stagnation' is built on the concept: 'the regional organization failing to meet due to bilateral disputes'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'WB Chair Ajay Banga'?",
+          "q": "Which is correct about the core idea of 'WB Chair Ajay Banga'?",
           "options": [
             "It belongs to the field of 'Global Governance'.",
             "It is documented in 'United Nations Charter Guides'.",
@@ -22014,7 +22014,7 @@ window.QuizData_current_affairs = {
           "explanation": "'WB Chair Ajay Banga' is defined as 'the leader reshaping the bank to focus on climate and development projects'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'ICC Rome Statute Guides'?",
+          "q": "Which is correct about the book/guide 'ICC Rome Statute Guides'?",
           "options": [
             "Its primary focus is 'International Relations'.",
             "It is written about 'WHO DG Tedros Adhanom'.",
@@ -22025,7 +22025,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ICC Rome Statute Guides' focuses on 'international criminal justice and human rights prosecution'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"SAARC summits remain stalled due to ongoing diplomatic tensions between India and Pakistan.\"?",
+          "q": "What describes the key fact or historical quote: \"SAARC summits remain stalled due to ongoing diplomatic tensions between India and Pakistan.\"?",
           "options": [
             "IMF MD Georgieva",
             "WHO DG Tedros",
@@ -22036,7 +22036,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'SAARC Stagnation'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Antonio Guterres was appointed UN Secretary-General after serving as UNHCR head.\"?",
+          "q": "What describes the key fact or historical quote: \"Antonio Guterres was appointed UN Secretary-General after serving as UNHCR head.\"?",
           "options": [
             "WHO DG Tedros",
             "IMF MD Georgieva",
@@ -22069,7 +22069,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Atlantic Alliance Records' contains documentation regarding 'collective defense treaties and European security updates'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'international criminal justice and human rights prosecution'?",
+          "q": "What is a major reference or manual focusing on 'international criminal justice and human rights prosecution'?",
           "options": [
             "UN Climate Change Reports",
             "ICC Rome Statute Guides",
@@ -22091,7 +22091,7 @@ window.QuizData_current_affairs = {
           "explanation": "'World Health Assemblies' is the manual associated with 'global health security and health regulations reform'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Environmental Policy'?",
+          "q": "What is situated within the study field of 'Environmental Policy'?",
           "options": [
             "BRICS Kazan Summit",
             "COP29 Azerbaijan",
@@ -22168,7 +22168,7 @@ window.QuizData_current_affairs = {
           "explanation": "'UNGA Session Records' is the manual associated with 'multilateral debates and non-binding resolutions'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Southeast Asian Summit Records'?",
+          "q": "Which is correct about the book/guide 'Southeast Asian Summit Records'?",
           "options": [
             "It addresses the theme of 'southeast asian economic integration and maritime disputes'.",
             "It is written about 'UN Sec Gen Antonio Guterres'.",
@@ -22388,7 +22388,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'ASEAN Summit Laos'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'global health security and pandemic responses'?",
+          "q": "What is a major reference or manual focusing on 'global health security and pandemic responses'?",
           "options": [
             "UNGA Session Records",
             "World Health Assemblies",
@@ -22421,7 +22421,7 @@ window.QuizData_current_affairs = {
           "explanation": "'OIC Summit Communiques' is associated with 'OIC Palestine Resolutions'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Brazil assumed the G20 presidency from India for the year 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Brazil assumed the G20 presidency from India for the year 2024.\"?",
           "options": [
             "WHO DG Tedros",
             "G20 Brazil Presidency",
@@ -22432,7 +22432,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'G20 Summit Brazil'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'OIC Riyadh Summit'?",
+          "q": "Which is correct about the concept of 'OIC Riyadh Summit'?",
           "options": [
             "It belongs to the domain of 'International Relations'.",
             "Its contrasting theme is 'multipolar economic cooperation and non-western trade alliances'.",
@@ -22465,7 +22465,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'WHO DG Tedros Adhanom'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'BRICS Kazan Summit'?",
+          "q": "What is a key description or fact regarding the concept of 'BRICS Kazan Summit'?",
           "options": [
             "\"SAARC summits remain stalled due to ongoing diplomatic tensions between India and Pakistan.\"",
             "\"The Riyadh extraordinary summit demanded immediate aid delivery and ceasefire in Gaza.\"",
@@ -22476,7 +22476,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'BRICS Kazan Summit' is: \"The Kazan summit discussed alternative global payment systems to reduce dollar reliance.\"."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Russia hosted the expanded 16th BRICS Summit in Kazan in October 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Russia hosted the expanded 16th BRICS Summit in Kazan in October 2024.\"?",
           "options": [
             "NATO Accessions",
             "UN Sec Gen Antonio Guterres",
@@ -22520,7 +22520,7 @@ window.QuizData_current_affairs = {
           "explanation": "'international criminal justice and human rights prosecution' is a major theme inside 'International Law'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'multilateral conflict mediation and peacekeeping mandates'?",
+          "q": "What is a major reference or manual focusing on 'multilateral conflict mediation and peacekeeping mandates'?",
           "options": [
             "IMF Executive Board Records",
             "World Health Assemblies",
@@ -22531,7 +22531,7 @@ window.QuizData_current_affairs = {
           "explanation": "'United Nations Charter Guides' is known for its focus on 'multilateral conflict mediation and peacekeeping mandates'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'WHO DG Tedros'?",
+          "q": "Which is correct about the concept of 'WHO DG Tedros'?",
           "options": [
             "It is documented in the manual 'IMF Executive Board Records'.",
             "Its contrasting theme is 'southeast asian economic integration and maritime disputes'.",
@@ -22553,7 +22553,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ASEAN Summit Laos' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'ASEAN Summit Laos'?",
+          "q": "Which is correct about the concept of 'ASEAN Summit Laos'?",
           "options": [
             "It belongs to the domain of 'Diplomatic History'.",
             "Its contrasting theme is 'poverty reduction loans and climate development funds'.",
@@ -22564,7 +22564,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ASEAN Summit Laos' is defined as 'the regional summits hosted under the chairmanship of Laos in 2024'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'SAARC Stagnation'?",
+          "q": "What is a key description or fact regarding the concept of 'SAARC Stagnation'?",
           "options": [
             "\"Kristalina Georgieva was selected for a second five-year term heading the IMF in 2024.\"",
             "\"Russia hosted the expanded 16th BRICS Summit in Kazan in October 2024.\"",
@@ -22619,7 +22619,7 @@ window.QuizData_current_affairs = {
           "explanation": "'South Asian Integration Studies' is associated with 'SAARC Stagnation'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'G20 Conference Proceedings'?",
+          "q": "Which is correct about the book/guide 'G20 Conference Proceedings'?",
           "options": [
             "It addresses the theme of 'global economic governance and climate financing'.",
             "It is contrasted with 'EU Commission'.",
@@ -22718,7 +22718,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'UN Sec Gen Guterres'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'BRICS Kazan Summit'?",
+          "q": "Which is correct about the concept of 'BRICS Kazan Summit'?",
           "options": [
             "It belongs to the domain of 'International Relations'.",
             "Its contrasting theme is 'global economic governance and climate financing'.",
@@ -22751,7 +22751,7 @@ window.QuizData_current_affairs = {
           "explanation": "'International Criminal Court' deals with the theme of 'international criminal justice and human rights prosecution'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'SCO Heads of Government'?",
+          "q": "Which is correct about the core idea of 'SCO Heads of Government'?",
           "options": [
             "It is themed as 'poverty reduction loans and climate development funds'.",
             "It is defined as 'the multi-national council meeting focused on trade and regional security'.",
@@ -22762,7 +22762,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SCO Heads of Government' is defined as 'the multi-national council meeting focused on trade and regional security'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Ajay Banga, an Indian-American executive, assumed the presidency of the World Bank in 2023.\"?",
+          "q": "What describes the key fact or historical quote: \"Ajay Banga, an Indian-American executive, assumed the presidency of the World Bank in 2023.\"?",
           "options": [
             "World Bank President Ajay Banga",
             "UN General Assembly",
@@ -22784,7 +22784,7 @@ window.QuizData_current_affairs = {
           "explanation": "'BRICS Conference Proceedings' is the manual associated with 'multipolar economic cooperation and non-western trade alliances'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Kristalina Georgieva's second term began in October 2024 amid high global debt levels.\"?",
+          "q": "What describes the key fact or historical quote: \"Kristalina Georgieva's second term began in October 2024 amid high global debt levels.\"?",
           "options": [
             "UN Sec Gen Guterres",
             "IMF MD Georgieva Term",
@@ -22817,7 +22817,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ASEAN Chair Laos' deals with the theme of 'regional economic integration and maritime trade security'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'COP29 Azerbaijan'?",
+          "q": "Which is correct about the concept of 'COP29 Azerbaijan'?",
           "options": [
             "It is documented in the manual 'IMF Executive Board Records'.",
             "It belongs to the domain of 'Global Governance'.",
@@ -22839,7 +22839,7 @@ window.QuizData_current_affairs = {
           "explanation": "'UN General Assembly' is built on the concept: 'the annual high-level debates held at the UN headquarters in New York'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'World Bank President Ajay Banga'?",
+          "q": "What is a key description or fact regarding the concept of 'World Bank President Ajay Banga'?",
           "options": [
             "\"The OIC held multiple extraordinary summits in Riyadh to coordinate response to the Gaza war.\"",
             "\"The entry of Finland and Sweden marked a significant geopolitical shift in northern Europe.\"",
@@ -22861,7 +22861,7 @@ window.QuizData_current_affairs = {
           "explanation": "'IMF Managing Director' is the direct contrast to 'World Bank President Ajay Banga'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'regional economic cooperation and Eurasian diplomacy'?",
+          "q": "What is a major reference or manual focusing on 'regional economic cooperation and Eurasian diplomacy'?",
           "options": [
             "Multilateral Development Reports",
             "OIC Summit Communiques",
@@ -22872,7 +22872,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SCO Conference Records' is known for its focus on 'regional economic cooperation and Eurasian diplomacy'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'SCO Heads of Government'?",
+          "q": "Which is correct about the concept of 'SCO Heads of Government'?",
           "options": [
             "It belongs to the domain of 'International Finance'.",
             "It is defined as 'the multi-national council meeting focused on trade and regional security'.",
@@ -23015,7 +23015,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'UN Sec Gen Antonio Guterres' is 'the Secretary-General leading the international peacekeeping body'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'NATO Accessions'?",
+          "q": "Which is correct about the core idea of 'NATO Accessions'?",
           "options": [
             "It belongs to the field of 'Global Governance'.",
             "It is defined as 'the expansion of the military alliance following the Ukraine conflict'.",
@@ -23191,7 +23191,7 @@ window.QuizData_current_affairs = {
           "explanation": "'WB Chair Ajay Banga' is classified under the domain of 'International Finance'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Azerbaijan was selected as the host country for the UN Climate Change Conference (COP29).\"?",
+          "q": "What describes the key fact or historical quote: \"Azerbaijan was selected as the host country for the UN Climate Change Conference (COP29).\"?",
           "options": [
             "COP29 Azerbaijan",
             "BRICS Kazan Summit",
@@ -23224,7 +23224,7 @@ window.QuizData_current_affairs = {
           "explanation": "'OIC Riyadh Summit' is classified under the domain of 'International Relations'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'sustainable development funds and institutional reforms'?",
+          "q": "What is a major reference or manual focusing on 'sustainable development funds and institutional reforms'?",
           "options": [
             "United Nations Charter Guides",
             "UN Climate Change Reports",
@@ -23235,7 +23235,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Multilateral Development Reports' is known for its focus on 'sustainable development funds and institutional reforms'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'NATO Accessions'?",
+          "q": "Which is correct about the concept of 'NATO Accessions'?",
           "options": [
             "It is documented in the manual 'G20 Conference Proceedings'.",
             "It is defined as 'the expansion of the military alliance following the Ukraine conflict'.",
@@ -23323,7 +23323,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'ASEAN Chair Laos' is 'the rotating leadership of the ten-member Southeast Asian bloc in 2024'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'ASEAN Summit Laos'?",
+          "q": "What is a key description or fact regarding the concept of 'ASEAN Summit Laos'?",
           "options": [
             "\"Antonio Guterres began his second term as UN Secretary-General in January 2022.\"",
             "\"Pakistan hosted the 23rd meeting of the SCO Council of Heads of Government in Oct 2024.\"",
@@ -23367,7 +23367,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Southeast Asian Summit Records' is associated with 'ASEAN Summit Laos'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Antonio Guterres began his second term as UN Secretary-General in January 2022.\"?",
+          "q": "What describes the key fact or historical quote: \"Antonio Guterres began his second term as UN Secretary-General in January 2022.\"?",
           "options": [
             "UN Sec Gen Antonio Guterres",
             "WHO DG Tedros",
@@ -23400,7 +23400,7 @@ window.QuizData_current_affairs = {
           "explanation": "'poverty reduction loans and climate development funds' is a major theme inside 'International Finance'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The Riyadh extraordinary summit demanded immediate aid delivery and ceasefire in Gaza.\"?",
+          "q": "What describes the key fact or historical quote: \"The Riyadh extraordinary summit demanded immediate aid delivery and ceasefire in Gaza.\"?",
           "options": [
             "BRICS Summit Kazan",
             "SCO Heads of Government",
@@ -23466,7 +23466,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SAARC Stagnation' is classified under the domain of 'International Relations'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'G20 Brazil Presidency'?",
+          "q": "What is a key description or fact regarding the concept of 'G20 Brazil Presidency'?",
           "options": [
             "\"Brazil's G20 presidency championed the Global Alliance Against Hunger and Poverty.\"",
             "\"The SCO Heads of Government meeting in Islamabad discussed CPEC-related transit.\"",
@@ -23477,7 +23477,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'G20 Brazil Presidency' is: \"Brazil's G20 presidency championed the Global Alliance Against Hunger and Poverty.\"."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'World Bank President Ajay Banga'?",
+          "q": "Which is correct about the core idea of 'World Bank President Ajay Banga'?",
           "options": [
             "It is documented in 'OIC Summit Communiques'.",
             "It is defined as 'the leader appointed to head the global development finance body'.",
@@ -23488,7 +23488,7 @@ window.QuizData_current_affairs = {
           "explanation": "'World Bank President Ajay Banga' is defined as 'the leader appointed to head the global development finance body'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'OIC Palestine Resolutions'?",
+          "q": "Which is correct about the core idea of 'OIC Palestine Resolutions'?",
           "options": [
             "It is documented in 'SCO Conference Records'.",
             "It is themed as 'international diplomacy and global conflict mediation'.",
@@ -23565,7 +23565,7 @@ window.QuizData_current_affairs = {
           "explanation": "'IMF Managing Director' is the contrast to 'WB Chair Ajay Banga'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'UN Sec Gen Antonio Guterres'?",
+          "q": "Which is correct about the concept of 'UN Sec Gen Antonio Guterres'?",
           "options": [
             "Its contrasting theme is 'climate change negotiations and emissions reduction targets'.",
             "It belongs to the domain of 'Public Health Policy'.",
@@ -23620,7 +23620,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'COP29 Azerbaijan'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'multipolar economic cooperation and non-western trade alliances'?",
+          "q": "What is a major reference or manual focusing on 'multipolar economic cooperation and non-western trade alliances'?",
           "options": [
             "BRICS Conference Proceedings",
             "Atlantic Alliance Records",
@@ -23631,7 +23631,7 @@ window.QuizData_current_affairs = {
           "explanation": "'BRICS Conference Proceedings' is known for its focus on 'multipolar economic cooperation and non-western trade alliances'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The entry of Finland and Sweden marked a significant geopolitical shift in northern Europe.\"?",
+          "q": "What describes the key fact or historical quote: \"The entry of Finland and Sweden marked a significant geopolitical shift in northern Europe.\"?",
           "options": [
             "NATO Accessions",
             "G20 Brazil Presidency",
@@ -23642,7 +23642,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'NATO Accessions'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Brazil's G20 presidency championed the Global Alliance Against Hunger and Poverty.\"?",
+          "q": "What describes the key fact or historical quote: \"Brazil's G20 presidency championed the Global Alliance Against Hunger and Poverty.\"?",
           "options": [
             "G20 Summit Brazil",
             "OIC Riyadh Summit",
@@ -23664,7 +23664,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Southeast Asian Summit Records' is the manual associated with 'regional economic integration and maritime trade security'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'regional integration challenges in South Asia'?",
+          "q": "What is a major reference or manual focusing on 'regional integration challenges in South Asia'?",
           "options": [
             "BRICS Conference Proceedings",
             "World Health Assemblies",
@@ -23686,7 +23686,7 @@ window.QuizData_current_affairs = {
           "explanation": "'BRICS Summit Kazan' is built on the concept: 'the 2024 summit hosting the expanded group of emerging economies'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'SAARC Stagnation'?",
+          "q": "Which is correct about the concept of 'SAARC Stagnation'?",
           "options": [
             "Its contrasting theme is 'global health security and pandemic responses'.",
             "It belongs to the domain of 'Global Governance'.",
@@ -23708,7 +23708,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SAARC Summit' is the standard contrast to 'SCO Council Summit Islamabad'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'International Criminal Court'?",
+          "q": "Which is correct about the core idea of 'International Criminal Court'?",
           "options": [
             "It is documented in 'UNGA Session Records'.",
             "It belongs to the field of 'Public Health Policy'.",
@@ -23796,7 +23796,7 @@ window.QuizData_current_affairs = {
           "explanation": "'G7 Summit' is the direct contrast to 'G20 Summit Brazil'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'pan-islamic solidarity and Middle Eastern diplomacy'?",
+          "q": "What is a major reference or manual focusing on 'pan-islamic solidarity and Middle Eastern diplomacy'?",
           "options": [
             "United Nations Charter Guides",
             "SCO Conference Records",
@@ -23807,7 +23807,7 @@ window.QuizData_current_affairs = {
           "explanation": "'OIC Summit Communiques' is known for its focus on 'pan-islamic solidarity and Middle Eastern diplomacy'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'collective security and Baltic Sea border defense'?",
+          "q": "What is a major reference or manual focusing on 'collective security and Baltic Sea border defense'?",
           "options": [
             "Multilateral Development Reports",
             "Southeast Asian Summit Records",
@@ -23840,7 +23840,7 @@ window.QuizData_current_affairs = {
           "explanation": "'United Nations Charter Guides' is the manual associated with 'multilateral conflict mediation and peacekeeping mandates'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'BRICS Kazan Summit'?",
+          "q": "Which is correct about the core idea of 'BRICS Kazan Summit'?",
           "options": [
             "It is defined as 'the international summit held in Russia hosting expanded member states'.",
             "It is documented in 'G20 Conference Proceedings'.",
@@ -23862,7 +23862,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Multilateral Development Reports' is associated with 'World Bank President Ajay Banga'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'IMF Executive Board Records'?",
+          "q": "Which is correct about the book/guide 'IMF Executive Board Records'?",
           "options": [
             "It addresses the theme of 'monetary stability and structural adjustment programs'.",
             "Its primary focus is 'Diplomatic History'.",
@@ -23928,7 +23928,7 @@ window.QuizData_current_affairs = {
           "explanation": "'WHO DG Tedros Adhanom' is built on the concept: 'the head of the UN health agency coordinating pandemic responses'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'regional economic integration and maritime trade security'?",
+          "q": "What is a major reference or manual focusing on 'regional economic integration and maritime trade security'?",
           "options": [
             "South Asian Integration Studies",
             "United Nations Charter Guides",
@@ -23939,7 +23939,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Southeast Asian Summit Records' is known for its focus on 'regional economic integration and maritime trade security'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'COP29 Azerbaijan'?",
+          "q": "What is a key description or fact regarding the concept of 'COP29 Azerbaijan'?",
           "options": [
             "\"The ICC operates independently of the UN, established by the Rome Statute.\"",
             "\"Kristalina Georgieva's second term began in October 2024 amid high global debt levels.\"",
@@ -23983,7 +23983,7 @@ window.QuizData_current_affairs = {
           "explanation": "'OIC Summit Communiques' is associated with 'OIC Riyadh Summit'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Dr. Tedros Adhanom Ghebreyesus has led the WHO through the COVID-19 pandemic.\"?",
+          "q": "What describes the key fact or historical quote: \"Dr. Tedros Adhanom Ghebreyesus has led the WHO through the COVID-19 pandemic.\"?",
           "options": [
             "UN General Assembly",
             "WHO DG Tedros",
@@ -23994,7 +23994,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'WHO DG Tedros'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'OIC Riyadh Summit'?",
+          "q": "Which is correct about the core idea of 'OIC Riyadh Summit'?",
           "options": [
             "It is themed as 'regional economic integration and maritime trade security'.",
             "It belongs to the field of 'International Relations'.",
@@ -24005,7 +24005,7 @@ window.QuizData_current_affairs = {
           "explanation": "'OIC Riyadh Summit' is defined as 'the joint Arab-Islamic summit held in Saudi Arabia addressing Gaza'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'UN Sec Gen Guterres'?",
+          "q": "What is a key description or fact regarding the concept of 'UN Sec Gen Guterres'?",
           "options": [
             "\"Dr. Tedros Adhanom Ghebreyesus has led the WHO through the COVID-19 pandemic.\"",
             "\"Antonio Guterres was appointed UN Secretary-General after serving as UNHCR head.\"",
@@ -24016,7 +24016,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'UN Sec Gen Guterres' is: \"Antonio Guterres was appointed UN Secretary-General after serving as UNHCR head.\"."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'OIC Palestine Resolutions'?",
+          "q": "Which is correct about the concept of 'OIC Palestine Resolutions'?",
           "options": [
             "Its contrasting theme is 'regional economic cooperation and diplomatic hosting'.",
             "It is defined as 'the extraordinary Islamic summits condemning Gaza security actions'.",
@@ -24027,7 +24027,7 @@ window.QuizData_current_affairs = {
           "explanation": "'OIC Palestine Resolutions' is defined as 'the extraordinary Islamic summits condemning Gaza security actions'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'BRICS Summit Kazan'?",
+          "q": "What is a key description or fact regarding the concept of 'BRICS Summit Kazan'?",
           "options": [
             "\"The entry of Finland and Sweden marked a significant geopolitical shift in northern Europe.\"",
             "\"Russia hosted the expanded 16th BRICS Summit in Kazan in October 2024.\"",
@@ -24038,7 +24038,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'BRICS Summit Kazan' is: \"Russia hosted the expanded 16th BRICS Summit in Kazan in October 2024.\"."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'G20 Brazil Presidency'?",
+          "q": "Which is correct about the core idea of 'G20 Brazil Presidency'?",
           "options": [
             "It is themed as 'pan-islamic coordination and Middle East conflict resolution'.",
             "It is documented in 'G20 Conference Proceedings'.",
@@ -24060,7 +24060,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'SAARC Stagnation'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'BRICS Summit Kazan'?",
+          "q": "Which is correct about the concept of 'BRICS Summit Kazan'?",
           "options": [
             "Its contrasting theme is 'collective security and Baltic Sea border defense'.",
             "It is defined as 'the 2024 summit hosting the expanded group of emerging economies'.",
@@ -24082,7 +24082,7 @@ window.QuizData_current_affairs = {
           "explanation": "'World Health Assemblies' contains documentation regarding 'global health security and health regulations reform'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'southeast asian economic integration and maritime disputes'?",
+          "q": "What is a major reference or manual focusing on 'southeast asian economic integration and maritime disputes'?",
           "options": [
             "Southeast Asian Summit Records",
             "United Nations Charter Guides",
@@ -24093,7 +24093,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Southeast Asian Summit Records' is known for its focus on 'southeast asian economic integration and maritime disputes'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'SCO Council Summit Islamabad'?",
+          "q": "What is a key description or fact regarding the concept of 'SCO Council Summit Islamabad'?",
           "options": [
             "\"Dr. Tedros Adhanom Ghebreyesus has led the WHO through the COVID-19 pandemic.\"",
             "\"Pakistan hosted the 23rd meeting of the SCO Council of Heads of Government in Oct 2024.\"",
@@ -24181,7 +24181,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SCO Council Summit Islamabad' is classified under the domain of 'Diplomatic History'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'NATO Accessions'?",
+          "q": "What is a key description or fact regarding the concept of 'NATO Accessions'?",
           "options": [
             "\"Ajay Banga initiated reforms to scale up the World Bank's lending capacity.\"",
             "\"Brazil's G20 presidency championed the Global Alliance Against Hunger and Poverty.\"",
@@ -24214,7 +24214,7 @@ window.QuizData_current_affairs = {
           "explanation": "'BRICS Conference Proceedings' is associated with 'BRICS Summit Kazan'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Laos hosted the 44th and 45th ASEAN Summits in Vientiane in October 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Laos hosted the 44th and 45th ASEAN Summits in Vientiane in October 2024.\"?",
           "options": [
             "ASEAN Chair Laos",
             "UN Sec Gen Antonio Guterres",
@@ -24258,7 +24258,7 @@ window.QuizData_current_affairs = {
           "explanation": "'International Court of Justice' is the standard contrast to 'International Criminal Court'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'United Nations Charter Guides'?",
+          "q": "Which is correct about the book/guide 'United Nations Charter Guides'?",
           "options": [
             "Its primary focus is 'Environmental Policy'.",
             "It addresses the theme of 'international diplomacy and global conflict mediation'.",
@@ -24280,7 +24280,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'SCO Heads of Government' is 'the multi-national council meeting focused on trade and regional security'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'G20 Brazil Presidency'?",
+          "q": "Which is correct about the concept of 'G20 Brazil Presidency'?",
           "options": [
             "Its contrasting theme is 'global economic governance and climate financing'.",
             "It is documented in the manual 'SCO Conference Records'.",
@@ -24291,7 +24291,7 @@ window.QuizData_current_affairs = {
           "explanation": "'G20 Brazil Presidency' is defined as 'the leadership of the major economies focusing on social inclusion and climate'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'global health security and health regulations reform'?",
+          "q": "What is a major reference or manual focusing on 'global health security and health regulations reform'?",
           "options": [
             "World Health Assemblies",
             "SCO Conference Records",
@@ -24335,7 +24335,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'NATO Accessions'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'OIC Riyadh Summit'?",
+          "q": "What is a key description or fact regarding the concept of 'OIC Riyadh Summit'?",
           "options": [
             "\"The Riyadh extraordinary summit demanded immediate aid delivery and ceasefire in Gaza.\"",
             "\"The SCO Heads of Government meeting in Islamabad discussed CPEC-related transit.\"",
@@ -24357,7 +24357,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'International Criminal Court'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'global financial safety net and loan conditionality'?",
+          "q": "What is a major reference or manual focusing on 'global financial safety net and loan conditionality'?",
           "options": [
             "United Nations Charter Guides",
             "ICC Rome Statute Guides",
@@ -24379,7 +24379,7 @@ window.QuizData_current_affairs = {
           "explanation": "'South Asian Integration Studies' is associated with 'SAARC Stagnation'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'International Criminal Court'?",
+          "q": "Which is correct about the concept of 'International Criminal Court'?",
           "options": [
             "It is defined as 'the permanent tribunal prosecuting war crimes and genocide at The Hague'.",
             "It belongs to the domain of 'Environmental Policy'.",
@@ -24412,7 +24412,7 @@ window.QuizData_current_affairs = {
           "explanation": "'WHO DG Tedros Adhanom' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'NATO Expansion 2024'?",
+          "q": "What is a key description or fact regarding the concept of 'NATO Expansion 2024'?",
           "options": [
             "\"SAARC summits remain stalled due to ongoing diplomatic tensions between India and Pakistan.\"",
             "\"Ajay Banga, an Indian-American executive, assumed the presidency of the World Bank in 2023.\"",
@@ -24423,7 +24423,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'NATO Expansion 2024' is: \"Sweden officially became the 32nd member of NATO in March 2024, following Finland.\"."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'multilateral debates and non-binding resolutions'?",
+          "q": "What is a major reference or manual focusing on 'multilateral debates and non-binding resolutions'?",
           "options": [
             "Southeast Asian Summit Records",
             "United Nations Charter Guides",
@@ -24489,7 +24489,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'WHO DG Tedros Adhanom' is 'the head of the UN health agency coordinating pandemic responses'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'World Health Assemblies'?",
+          "q": "Which is correct about the book/guide 'World Health Assemblies'?",
           "options": [
             "Its primary focus is 'International Relations'.",
             "It addresses the theme of 'global health security and pandemic responses'.",
@@ -24511,7 +24511,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'WB Chair Ajay Banga' is 'the leader reshaping the bank to focus on climate and development projects'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'UN General Assembly'?",
+          "q": "What is a key description or fact regarding the concept of 'UN General Assembly'?",
           "options": [
             "\"Laos hosted the 44th and 45th ASEAN Summits in Vientiane in October 2024.\"",
             "\"The UNGA General Debate in September brings together heads of state from 193 nations.\"",
@@ -24544,7 +24544,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'NATO Expansion 2024'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Sweden officially became the 32nd member of NATO in March 2024, following Finland.\"?",
+          "q": "What describes the key fact or historical quote: \"Sweden officially became the 32nd member of NATO in March 2024, following Finland.\"?",
           "options": [
             "World Bank President Ajay Banga",
             "SAARC Stagnation",
@@ -24566,7 +24566,7 @@ window.QuizData_current_affairs = {
           "explanation": "'WB Chair Ajay Banga' deals with the theme of 'sustainable development funds and institutional reforms'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'UN Sec Gen Guterres'?",
+          "q": "Which is correct about the core idea of 'UN Sec Gen Guterres'?",
           "options": [
             "It is defined as 'the Secretary-General mediating diplomatic disputes at the Security Council'.",
             "It is documented in 'World Health Assemblies'.",
@@ -24665,7 +24665,7 @@ window.QuizData_current_affairs = {
           "explanation": "'OIC Summit Communiques' is associated with 'OIC Palestine Resolutions'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'WHO DG Tedros Adhanom'?",
+          "q": "Which is correct about the concept of 'WHO DG Tedros Adhanom'?",
           "options": [
             "It is defined as 'the head of the UN health agency coordinating pandemic responses'.",
             "It belongs to the domain of 'International Finance'.",
@@ -24676,7 +24676,7 @@ window.QuizData_current_affairs = {
           "explanation": "'WHO DG Tedros Adhanom' is defined as 'the head of the UN health agency coordinating pandemic responses'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'UN General Assembly'?",
+          "q": "Which is correct about the core idea of 'UN General Assembly'?",
           "options": [
             "It is documented in 'United Nations Charter Guides'.",
             "It is defined as 'the annual high-level debates held at the UN headquarters in New York'.",
@@ -24698,7 +24698,7 @@ window.QuizData_current_affairs = {
           "explanation": "'G20 Conference Proceedings' contains documentation regarding 'global economic governance and climate financing'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'G20 Summit Brazil'?",
+          "q": "What is a key description or fact regarding the concept of 'G20 Summit Brazil'?",
           "options": [
             "\"Dr. Tedros Adhanom Ghebreyesus has led the WHO through the COVID-19 pandemic.\"",
             "\"Brazil's G20 presidency championed the Global Alliance Against Hunger and Poverty.\"",
@@ -24731,7 +24731,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Southeast Asian Summit Records' is associated with 'ASEAN Chair Laos'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'UNGA Session Records'?",
+          "q": "Which is correct about the book/guide 'UNGA Session Records'?",
           "options": [
             "It is written about 'NATO Expansion 2024'.",
             "It addresses the theme of 'multilateral debates and non-binding resolutions'.",
@@ -24753,7 +24753,7 @@ window.QuizData_current_affairs = {
           "explanation": "'World Bank President' is the standard contrast to 'IMF MD Georgieva Term'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'International Relations'?",
+          "q": "What is situated within the study field of 'International Relations'?",
           "options": [
             "UN Sec Gen Antonio Guterres",
             "NATO Expansion 2024",
@@ -24764,7 +24764,7 @@ window.QuizData_current_affairs = {
           "explanation": "'UN Sec Gen Antonio Guterres' falls under the discipline of 'International Relations'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Kristalina Georgieva was selected for a second five-year term heading the IMF in 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Kristalina Georgieva was selected for a second five-year term heading the IMF in 2024.\"?",
           "options": [
             "World Bank President Ajay Banga",
             "International Criminal Court",
@@ -24775,7 +24775,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'IMF MD Georgieva'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'SCO Council Summit Islamabad'?",
+          "q": "Which is correct about the concept of 'SCO Council Summit Islamabad'?",
           "options": [
             "It belongs to the domain of 'Public Health Policy'.",
             "It is defined as 'the 2024 meeting of Heads of Government hosted in Pakistan'.",
@@ -24797,7 +24797,7 @@ window.QuizData_current_affairs = {
           "explanation": "'NATO Expansion 2024' deals with the theme of 'collective defense treaties and European security updates'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'IMF MD Georgieva Term'?",
+          "q": "What is a key description or fact regarding the concept of 'IMF MD Georgieva Term'?",
           "options": [
             "\"Kristalina Georgieva's second term began in October 2024 amid high global debt levels.\"",
             "\"The ICC operates independently of the UN, established by the Rome Statute.\"",
@@ -24830,7 +24830,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ASEAN Summit Laos' is built on the concept: 'the regional summits hosted under the chairmanship of Laos in 2024'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'collective defense treaties and European security updates'?",
+          "q": "What is a major reference or manual focusing on 'collective defense treaties and European security updates'?",
           "options": [
             "South Asian Integration Studies",
             "BRICS Conference Proceedings",
@@ -24841,7 +24841,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Atlantic Alliance Records' is known for its focus on 'collective defense treaties and European security updates'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Atlantic Alliance Records'?",
+          "q": "Which is correct about the book/guide 'Atlantic Alliance Records'?",
           "options": [
             "It is written about 'World Bank President Ajay Banga'.",
             "Its primary focus is 'Global Governance'.",
@@ -24863,7 +24863,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'NATO Accessions' is 'the expansion of the military alliance following the Ukraine conflict'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'South Asian Integration Studies'?",
+          "q": "Which is correct about the book/guide 'South Asian Integration Studies'?",
           "options": [
             "It is written about 'IMF MD Georgieva'.",
             "It is contrasted with 'G7 Summit'.",
@@ -25127,7 +25127,7 @@ window.QuizData_current_affairs = {
           "explanation": "'European Union Councils' is the contrast to 'ASEAN Summit Laos'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'WHO DG Tedros'?",
+          "q": "What is a key description or fact regarding the concept of 'WHO DG Tedros'?",
           "options": [
             "\"Kristalina Georgieva's second term began in October 2024 amid high global debt levels.\"",
             "\"Laos assumed the rotating chairmanship of ASEAN for the year 2024.\"",
@@ -25149,7 +25149,7 @@ window.QuizData_current_affairs = {
           "explanation": "'UN General Assembly' deals with the theme of 'multilateral debates and non-binding resolutions'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Public Health Policy'?",
+          "q": "What is situated within the study field of 'Public Health Policy'?",
           "options": [
             "ASEAN Summit Laos",
             "IMF MD Georgieva Term",
@@ -25182,7 +25182,7 @@ window.QuizData_current_affairs = {
           "explanation": "'BRICS Summit Kazan' is classified under the domain of 'Global Governance'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'World Bank President Ajay Banga'?",
+          "q": "Which is correct about the concept of 'World Bank President Ajay Banga'?",
           "options": [
             "It belongs to the domain of 'International Relations'.",
             "Its contrasting theme is 'pan-islamic solidarity and Middle Eastern diplomacy'.",
@@ -25215,7 +25215,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'OIC Riyadh Summit' is 'the joint Arab-Islamic summit held in Saudi Arabia addressing Gaza'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'BRICS Conference Proceedings'?",
+          "q": "Which is correct about the book/guide 'BRICS Conference Proceedings'?",
           "options": [
             "It is written about 'UN Sec Gen Antonio Guterres'.",
             "It is contrasted with 'EU Summits'.",
@@ -25259,7 +25259,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'COP29 Azerbaijan' is 'the 2024 climate change conference hosted in Baku'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'UN Sec Gen Guterres'?",
+          "q": "Which is correct about the concept of 'UN Sec Gen Guterres'?",
           "options": [
             "Its contrasting theme is 'global health security and pandemic responses'.",
             "It is defined as 'the Secretary-General mediating diplomatic disputes at the Security Council'.",
@@ -25270,7 +25270,7 @@ window.QuizData_current_affairs = {
           "explanation": "'UN Sec Gen Guterres' is defined as 'the Secretary-General mediating diplomatic disputes at the Security Council'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'SCO Heads of Government'?",
+          "q": "What is a key description or fact regarding the concept of 'SCO Heads of Government'?",
           "options": [
             "\"The SCO Heads of Government meeting in Islamabad discussed CPEC-related transit.\"",
             "\"Ajay Banga, an Indian-American executive, assumed the presidency of the World Bank in 2023.\"",
@@ -25281,7 +25281,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'SCO Heads of Government' is: \"The SCO Heads of Government meeting in Islamabad discussed CPEC-related transit.\"."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'global economic governance and climate financing'?",
+          "q": "What is a major reference or manual focusing on 'global economic governance and climate financing'?",
           "options": [
             "G20 Conference Proceedings",
             "World Health Assemblies",
@@ -25292,7 +25292,7 @@ window.QuizData_current_affairs = {
           "explanation": "'G20 Conference Proceedings' is known for its focus on 'global economic governance and climate financing'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'G20 Summit Brazil'?",
+          "q": "Which is correct about the concept of 'G20 Summit Brazil'?",
           "options": [
             "It is documented in the manual 'World Health Assemblies'.",
             "Its contrasting theme is 'global economic policy and environmental funds coordination'.",
@@ -25325,7 +25325,7 @@ window.QuizData_current_affairs = {
           "explanation": "'OIC Palestine Resolutions' is classified under the domain of 'International Relations'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'IMF MD Georgieva'?",
+          "q": "What is a key description or fact regarding the concept of 'IMF MD Georgieva'?",
           "options": [
             "\"Ajay Banga, an Indian-American executive, assumed the presidency of the World Bank in 2023.\"",
             "\"Kristalina Georgieva was selected for a second five-year term heading the IMF in 2024.\"",
@@ -25402,7 +25402,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'UN Sec Gen Guterres'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'international diplomacy and global conflict mediation'?",
+          "q": "What is a major reference or manual focusing on 'international diplomacy and global conflict mediation'?",
           "options": [
             "United Nations Charter Guides",
             "World Health Assemblies",
@@ -25424,7 +25424,7 @@ window.QuizData_current_affairs = {
           "explanation": "'WB Chair Ajay Banga' is built on the concept: 'the leader reshaping the bank to focus on climate and development projects'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'regional economic cooperation and diplomatic hosting'?",
+          "q": "What is a major reference or manual focusing on 'regional economic cooperation and diplomatic hosting'?",
           "options": [
             "SCO Conference Records",
             "G20 Conference Proceedings",
@@ -25501,7 +25501,7 @@ window.QuizData_current_affairs = {
           "explanation": "'CDC Director' is the standard contrast to 'WHO DG Tedros'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'WB Chair Ajay Banga'?",
+          "q": "What is a key description or fact regarding the concept of 'WB Chair Ajay Banga'?",
           "options": [
             "\"Antonio Guterres began his second term as UN Secretary-General in January 2022.\"",
             "\"Ajay Banga initiated reforms to scale up the World Bank's lending capacity.\"",
@@ -25556,7 +25556,7 @@ window.QuizData_current_affairs = {
           "explanation": "'NATO Accessions' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'OIC Summit Communiques'?",
+          "q": "Which is correct about the book/guide 'OIC Summit Communiques'?",
           "options": [
             "It is contrasted with 'UN General Assembly President'.",
             "Its primary focus is 'Diplomatic History'.",
@@ -25589,7 +25589,7 @@ window.QuizData_current_affairs = {
           "explanation": "'G7 Summit' is the contrast to 'BRICS Summit Kazan'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Laos assumed the rotating chairmanship of ASEAN for the year 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Laos assumed the rotating chairmanship of ASEAN for the year 2024.\"?",
           "options": [
             "UN Sec Gen Antonio Guterres",
             "World Bank President Ajay Banga",
@@ -25600,7 +25600,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'ASEAN Summit Laos'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'UN General Assembly'?",
+          "q": "Which is correct about the concept of 'UN General Assembly'?",
           "options": [
             "It is documented in the manual 'Atlantic Alliance Records'.",
             "It belongs to the domain of 'International Relations'.",
@@ -25633,7 +25633,7 @@ window.QuizData_current_affairs = {
           "explanation": "'G20 Summit Brazil' is classified under the domain of 'Global Governance'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'SCO Conference Records'?",
+          "q": "Which is correct about the book/guide 'SCO Conference Records'?",
           "options": [
             "Its primary focus is 'International Relations'.",
             "It is contrasted with 'CDC Director'.",
@@ -25688,7 +25688,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'IMF MD Georgieva'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'global economic policy and environmental funds coordination'?",
+          "q": "What is a major reference or manual focusing on 'global economic policy and environmental funds coordination'?",
           "options": [
             "OIC Summit Communiques",
             "G20 Conference Proceedings",
@@ -25721,7 +25721,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ICC Rome Statute Guides' is associated with 'International Criminal Court'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The ICC operates independently of the UN, established by the Rome Statute.\"?",
+          "q": "What describes the key fact or historical quote: \"The ICC operates independently of the UN, established by the Rome Statute.\"?",
           "options": [
             "UN General Assembly",
             "COP29 Azerbaijan",
@@ -25732,7 +25732,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'International Criminal Court'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'UN Sec Gen Antonio Guterres'?",
+          "q": "What is a key description or fact regarding the concept of 'UN Sec Gen Antonio Guterres'?",
           "options": [
             "\"Azerbaijan was selected as the host country for the UN Climate Change Conference (COP29).\"",
             "\"Dr. Tedros Adhanom Ghebreyesus has led the WHO through the COVID-19 pandemic.\"",
@@ -25743,7 +25743,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'UN Sec Gen Antonio Guterres' is: \"Antonio Guterres began his second term as UN Secretary-General in January 2022.\"."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'WHO DG Tedros Adhanom'?",
+          "q": "Which is correct about the core idea of 'WHO DG Tedros Adhanom'?",
           "options": [
             "It is documented in 'SCO Conference Records'.",
             "It belongs to the field of 'Public Health Policy'.",
@@ -25754,7 +25754,7 @@ window.QuizData_current_affairs = {
           "explanation": "'WHO DG Tedros Adhanom' is defined as 'the head of the UN health agency coordinating pandemic responses'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Pakistan hosted the 23rd meeting of the SCO Council of Heads of Government in Oct 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Pakistan hosted the 23rd meeting of the SCO Council of Heads of Government in Oct 2024.\"?",
           "options": [
             "UN Sec Gen Guterres",
             "WHO DG Tedros",
@@ -25820,7 +25820,7 @@ window.QuizData_current_affairs = {
           "explanation": "'BRICS Kazan Summit' is classified under the domain of 'Global Governance'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'International Law'?",
+          "q": "What is situated within the study field of 'International Law'?",
           "options": [
             "COP29 Azerbaijan",
             "WHO DG Tedros Adhanom",
@@ -25842,7 +25842,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Multilateral Development Reports' is the manual associated with 'poverty reduction loans and climate development funds'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'IMF MD Georgieva'?",
+          "q": "Which is correct about the core idea of 'IMF MD Georgieva'?",
           "options": [
             "It is defined as 'the Managing Director leading the global lender through monetary crises'.",
             "It is themed as 'poverty reduction loans and climate development funds'.",
@@ -25886,7 +25886,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Multilateral Development Reports' is the manual associated with 'sustainable development funds and institutional reforms'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The Kazan summit discussed alternative global payment systems to reduce dollar reliance.\"?",
+          "q": "What describes the key fact or historical quote: \"The Kazan summit discussed alternative global payment systems to reduce dollar reliance.\"?",
           "options": [
             "G20 Summit Brazil",
             "OIC Riyadh Summit",
@@ -25930,7 +25930,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'BRICS Summit Kazan'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'monetary stability and structural adjustment programs'?",
+          "q": "What is a major reference or manual focusing on 'monetary stability and structural adjustment programs'?",
           "options": [
             "ICC Rome Statute Guides",
             "SCO Conference Records",
@@ -25980,7 +25980,7 @@ window.QuizData_current_affairs = {
       "icon": "fa-rocket",
       "questions": [
         {
-          "q": "Which of the following is correct regarding the core idea of 'FBR Chair Langrial'?",
+          "q": "Which is correct about the core idea of 'FBR Chair Langrial'?",
           "options": [
             "It belongs to the field of 'International Finance'.",
             "It is defined as 'the senior administrator appointed to head the Federal Board of Revenue'.",
@@ -25991,7 +25991,7 @@ window.QuizData_current_affairs = {
           "explanation": "'FBR Chair Langrial' is defined as 'the senior administrator appointed to head the Federal Board of Revenue'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Chairman JCSC'?",
+          "q": "Which is correct about the core idea of 'Chairman JCSC'?",
           "options": [
             "It is defined as 'the highest ranking military officer supervising joint service integration'.",
             "It is themed as 'indigenous military technology and drone warfare'.",
@@ -26002,7 +26002,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Chairman JCSC' is defined as 'the highest ranking military officer supervising joint service integration'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Nishan-e-Haider'?",
+          "q": "Which is correct about the core idea of 'Nishan-e-Haider'?",
           "options": [
             "It is documented in 'Ballistic Missile Test Logs'.",
             "It is themed as 'global defense alliances and Indo-Pacific security'.",
@@ -26684,7 +26684,7 @@ window.QuizData_current_affairs = {
           "explanation": "Commonly applied to business and lifestyle."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'UAE Climate Consensus'?",
+          "q": "Which is correct about the core idea of 'UAE Climate Consensus'?",
           "options": [
             "It is defined as 'the COP28 agreement calling to transition away from fossil fuels'.",
             "It is documented in 'Neurotechnology Clinical Trials'.",
@@ -26695,7 +26695,7 @@ window.QuizData_current_affairs = {
           "explanation": "'UAE Climate Consensus' is defined as 'the COP28 agreement calling to transition away from fossil fuels'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'COVID-19 Emergency End'?",
+          "q": "Which is correct about the core idea of 'COVID-19 Emergency End'?",
           "options": [
             "It is defined as 'the official declaration terminating the global health emergency status'.",
             "It is themed as 'neurotechnology and brain-machine interfaces'.",
@@ -26706,7 +26706,7 @@ window.QuizData_current_affairs = {
           "explanation": "'COVID-19 Emergency End' is defined as 'the official declaration terminating the global health emergency status'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'ChatGPT OpenAI'?",
+          "q": "Which is correct about the core idea of 'ChatGPT OpenAI'?",
           "options": [
             "It is themed as 'neurotechnology and brain-machine interfaces'.",
             "It is defined as 'the conversational generative AI model that launched the modern tech boom'.",
@@ -26717,7 +26717,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ChatGPT OpenAI' is defined as 'the conversational generative AI model that launched the modern tech boom'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'PCB Chair Mohsin Naqvi'?",
+          "q": "Which is correct about the core idea of 'PCB Chair Mohsin Naqvi'?",
           "options": [
             "It is themed as 'national sporting achievements and track and field records'.",
             "It belongs to the field of 'Sports History'.",
@@ -26761,7 +26761,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Project Kuiper Satellites'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Renewable Capacity Growth'?",
+          "q": "What is a key description or fact regarding the concept of 'Renewable Capacity Growth'?",
           "options": [
             "\"Global renewable capacity additions reached record highs in 2023, led by solar PV.\"",
             "\"Amazon's Project Kuiper aims to launch thousands of low Earth orbit internet satellites.\"",
@@ -26816,7 +26816,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Neurotechnology Clinical Trials' contains documentation regarding 'brain-computer interfaces and neuro-prosthetics'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Artemis Program'?",
+          "q": "Which is correct about the concept of 'Artemis Program'?",
           "options": [
             "It is defined as 'the NASA-led project aiming to land humans back on the moon'.",
             "Its contrasting theme is 'climate action agreements and carbon reduction targets'.",
@@ -26838,7 +26838,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Artemis Program' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Chandrayaan-3'?",
+          "q": "Which is correct about the core idea of 'Chandrayaan-3'?",
           "options": [
             "It is documented in 'Satellite Broadband Plans'.",
             "It is themed as 'lunar exploration and deep space habitats'.",
@@ -26849,7 +26849,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Chandrayaan-3' is defined as 'the historical mission landing a spacecraft near the moon's south pole'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Gemini Ultra outperformed human experts on MMLU (Massive Multitask Language Understanding).\"?",
+          "q": "What describes the key fact or historical quote: \"Gemini Ultra outperformed human experts on MMLU (Massive Multitask Language Understanding).\"?",
           "options": [
             "Gemini Google",
             "COVID-19 Emergency End",
@@ -26882,7 +26882,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'TikTok Restrictions'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Gemini Multimodal'?",
+          "q": "Which is correct about the core idea of 'Gemini Multimodal'?",
           "options": [
             "It is documented in 'Space Mission Archives'.",
             "It is themed as 'multimodal machine learning and AI applications'.",
@@ -26937,7 +26937,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Pandemic Declaration' is the contrast to 'COVID-19 Emergency End'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Renewable Capacity Growth'?",
+          "q": "Which is correct about the concept of 'Renewable Capacity Growth'?",
           "options": [
             "It belongs to the domain of 'Computer Science'.",
             "It is defined as 'the rapid expansion of global solar and wind power installations'.",
@@ -26970,7 +26970,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Lunar Spaceflight Plans' contains documentation regarding 'lunar exploration and deep space habitats'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Gemini Google'?",
+          "q": "Which is correct about the core idea of 'Gemini Google'?",
           "options": [
             "It is themed as 'neurotechnology and brain-machine interfaces'.",
             "It is documented in 'Lunar Spaceflight Plans'.",
@@ -26992,7 +26992,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Deep Space Imaging Logs' contains documentation regarding 'space observation and infrared astronomy'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Neuralink Implant'?",
+          "q": "What is a key description or fact regarding the concept of 'Neuralink Implant'?",
           "options": [
             "\"The James Webb Space Telescope operates at Lagrange Point 2, cooled to near absolute zero.\"",
             "\"The US TikTok divestiture bill of 2024 requires a sale within nine months.\"",
@@ -27014,7 +27014,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Paris Climate Targets' is the direct contrast to 'UAE Climate Consensus'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Neuralink Brain Chip Test'?",
+          "q": "Which is correct about the core idea of 'Neuralink Brain Chip Test'?",
           "options": [
             "It belongs to the field of 'Environmental Policy'.",
             "It is defined as 'the brain implant allowing patients to control cursors with thoughts'.",
@@ -27058,7 +27058,7 @@ window.QuizData_current_affairs = {
           "explanation": "'global health policy and infectious disease alerts' is a major theme inside 'Public Health'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The US TikTok divestiture bill of 2024 requires a sale within nine months.\"?",
+          "q": "What describes the key fact or historical quote: \"The US TikTok divestiture bill of 2024 requires a sale within nine months.\"?",
           "options": [
             "JWST Infrared Imaging",
             "TikTok Ban Bill",
@@ -27157,7 +27157,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Lunar Spaceflight Plans' is the manual associated with 'human spaceflight and lunar resource utilization'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'cubesat engineering and lunar orbit data transmission'?",
+          "q": "What is a major reference or manual focusing on 'cubesat engineering and lunar orbit data transmission'?",
           "options": [
             "Lunar Spaceflight Plans",
             "Space Mission Archives",
@@ -27179,7 +27179,7 @@ window.QuizData_current_affairs = {
           "explanation": "'COVID-19 Emergency End' is built on the concept: 'the official declaration terminating the global health emergency status'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Artemis Lunar Return'?",
+          "q": "What is a key description or fact regarding the concept of 'Artemis Lunar Return'?",
           "options": [
             "\"Artemis II will send a crewed spacecraft around the Moon, preceding the landing.\"",
             "\"OpenAI released ChatGPT in November 2022, accelerating the global AI revolution.\"",
@@ -27190,7 +27190,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'Artemis Lunar Return' is: \"Artemis II will send a crewed spacecraft around the Moon, preceding the landing.\"."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'precision landing technology and autonomous spacecraft'?",
+          "q": "What is a major reference or manual focusing on 'precision landing technology and autonomous spacecraft'?",
           "options": [
             "COP28 UAE Agreement Docs",
             "Deep Space Imaging Logs",
@@ -27212,7 +27212,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ChatGPT Generative AI' is built on the concept: 'the LLM trained by OpenAI that initiated global software integrations'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Cyber Law'?",
+          "q": "What is situated within the study field of 'Cyber Law'?",
           "options": [
             "Gemini Multimodal",
             "ChatGPT OpenAI",
@@ -27245,7 +27245,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Neurotechnology Clinical Trials' is the manual associated with 'brain-computer interfaces and neuro-prosthetics'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'COVID-19 Emergency End'?",
+          "q": "What is a key description or fact regarding the concept of 'COVID-19 Emergency End'?",
           "options": [
             "\"The Artemis program aims to send the first woman and person of color to the Moon.\"",
             "\"JWST has been providing unprecedented images of distant galaxies since mid-2022.\"",
@@ -27267,7 +27267,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Lunar Spaceflight Plans' is the manual associated with 'lunar exploration and deep space habitats'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'satellite internet and global connectivity networks'?",
+          "q": "What is a major reference or manual focusing on 'satellite internet and global connectivity networks'?",
           "options": [
             "Data Privacy Legislation",
             "Satellite Broadband Plans",
@@ -27278,7 +27278,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Satellite Broadband Plans' is known for its focus on 'satellite internet and global connectivity networks'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'space exploration and lunar orbiter technology'?",
+          "q": "What is a major reference or manual focusing on 'space exploration and lunar orbiter technology'?",
           "options": [
             "Space Mission Archives",
             "Deep Space Imaging Logs",
@@ -27311,7 +27311,7 @@ window.QuizData_current_affairs = {
           "explanation": "'World Energy Outlooks' is associated with 'Renewable Capacity Growth'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Lunar Spaceflight Journals'?",
+          "q": "Which is correct about the book/guide 'Lunar Spaceflight Journals'?",
           "options": [
             "It is written about 'UAE Climate Consensus'.",
             "Its primary focus is 'Environmental Policy'.",
@@ -27355,7 +27355,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Data Privacy Legislation' contains documentation regarding 'data privacy regulations and national security tech laws'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'UAE Consensus COP28'?",
+          "q": "Which is correct about the core idea of 'UAE Consensus COP28'?",
           "options": [
             "It is themed as 'space exploration and lunar orbiter technology'.",
             "It is documented in 'Lunar Landing Test Logs'.",
@@ -27366,7 +27366,7 @@ window.QuizData_current_affairs = {
           "explanation": "'UAE Consensus COP28' is defined as 'the historic Dubai agreement calling to transition away from fossil fuels'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Artemis Program'?",
+          "q": "What is a key description or fact regarding the concept of 'Artemis Program'?",
           "options": [
             "\"The COP28 summit in Dubai concluded with the historic 'UAE Consensus' on fossil fuels.\"",
             "\"iCube-Qamar was launched aboard China's Chang'e 6 lunar probe in May 2024.\"",
@@ -27476,7 +27476,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Non-Invasive Brain Sensors' is the direct contrast to 'Neuralink Implant'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'UAE Consensus COP28'?",
+          "q": "Which is correct about the concept of 'UAE Consensus COP28'?",
           "options": [
             "It is documented in the manual 'Satellite Broadband Plans'.",
             "It belongs to the domain of 'Aeronautics'.",
@@ -27509,7 +27509,7 @@ window.QuizData_current_affairs = {
           "explanation": "'AI Development History' contains documentation regarding 'natural language processing and artificial intelligence'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'JWST Infrared Imaging'?",
+          "q": "Which is correct about the concept of 'JWST Infrared Imaging'?",
           "options": [
             "It belongs to the domain of 'Aeronautics'.",
             "It is documented in the manual 'WHO Health Regulations'.",
@@ -27520,7 +27520,7 @@ window.QuizData_current_affairs = {
           "explanation": "'JWST Infrared Imaging' is defined as 'the space telescope utilizing gold-coated mirrors to observe early star formation'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'TikTok Restrictions'?",
+          "q": "Which is correct about the core idea of 'TikTok Restrictions'?",
           "options": [
             "It belongs to the field of 'Computer Science'.",
             "It is documented in 'AI Development History'.",
@@ -27597,7 +27597,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Lunar Landing Test Logs' is the manual associated with 'lunar resource mapping and low-cost aerospace engineering'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Neurotechnology Clinical Trials'?",
+          "q": "Which is correct about the book/guide 'Neurotechnology Clinical Trials'?",
           "options": [
             "It is contrasted with 'Data Broker Bills'.",
             "It is written about 'JWST Infrared Imaging'.",
@@ -27619,7 +27619,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Neuralink Brain Chip Test' is built on the concept: 'the brain implant allowing patients to control cursors with thoughts'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'ChatGPT OpenAI'?",
+          "q": "What is a key description or fact regarding the concept of 'ChatGPT OpenAI'?",
           "options": [
             "\"OpenAI released ChatGPT in November 2022, accelerating the global AI revolution.\"",
             "\"Artemis II will send a crewed spacecraft around the Moon, preceding the landing.\"",
@@ -27630,7 +27630,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'ChatGPT OpenAI' is: \"OpenAI released ChatGPT in November 2022, accelerating the global AI revolution.\"."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'brain-computer interfaces and neuro-prosthetics'?",
+          "q": "What is a major reference or manual focusing on 'brain-computer interfaces and neuro-prosthetics'?",
           "options": [
             "COP28 UAE Agreement Docs",
             "Neurotechnology Clinical Trials",
@@ -27663,7 +27663,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Badr-1 Satellite' is the direct contrast to 'iCube-Qamar'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'TikTok Restrictions'?",
+          "q": "What is a key description or fact regarding the concept of 'TikTok Restrictions'?",
           "options": [
             "\"OpenAI released ChatGPT in November 2022, accelerating the global AI revolution.\"",
             "\"Artemis II will send a crewed spacecraft around the Moon, preceding the landing.\"",
@@ -27674,7 +27674,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'TikTok Restrictions' is: \"The US passed a bill in 2024 requiring TikTok's parent company to divest its assets.\"."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Chandrayaan-3'?",
+          "q": "Which is correct about the concept of 'Chandrayaan-3'?",
           "options": [
             "Its contrasting theme is 'broadband communications and low Earth orbit constellations'.",
             "It is documented in the manual 'Lunar Spaceflight Plans'.",
@@ -27773,7 +27773,7 @@ window.QuizData_current_affairs = {
           "explanation": "'TikTok Ban Bill' is classified under the domain of 'Cyber Law'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Project Kuiper Satellites'?",
+          "q": "Which is correct about the core idea of 'Project Kuiper Satellites'?",
           "options": [
             "It belongs to the field of 'Aeronautics'.",
             "It is defined as 'the Amazon satellite constellation launching commercial prototype tests'.",
@@ -27784,7 +27784,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Project Kuiper Satellites' is defined as 'the Amazon satellite constellation launching commercial prototype tests'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'James Webb Telescope'?",
+          "q": "What is a key description or fact regarding the concept of 'James Webb Telescope'?",
           "options": [
             "\"Elon Musk's Neuralink successfully implanted its wireless brain chip in a human patient in 2024.\"",
             "\"The COP28 summit in Dubai concluded with the historic 'UAE Consensus' on fossil fuels.\"",
@@ -27817,7 +27817,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Artemis Program' deals with the theme of 'lunar exploration and deep space habitats'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'SLIM Precision Landing'?",
+          "q": "Which is correct about the core idea of 'SLIM Precision Landing'?",
           "options": [
             "It is documented in 'COP28 UAE Agreement Docs'.",
             "It belongs to the field of 'Environmental Policy'.",
@@ -27828,7 +27828,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SLIM Precision Landing' is defined as 'the smart lander utilizing facial recognition style mapping on lunar craters'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Multimodal AI Guides'?",
+          "q": "Which is correct about the book/guide 'Multimodal AI Guides'?",
           "options": [
             "Its primary focus is 'Aeronautics'.",
             "It is written about 'iCube-Qamar Moon Mission'.",
@@ -27850,7 +27850,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Badr-1 Satellite' is the contrast to 'iCube-Qamar'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Chandrayaan-3 South Pole'?",
+          "q": "Which is correct about the core idea of 'Chandrayaan-3 South Pole'?",
           "options": [
             "It is themed as 'global health policy and infectious disease alerts'.",
             "It belongs to the field of 'Environmental Policy'.",
@@ -27861,7 +27861,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Chandrayaan-3 South Pole' is defined as 'the lunar lander and rover mission executing soil analysis near lunar south pole'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'iCube-Qamar Moon Mission'?",
+          "q": "Which is correct about the core idea of 'iCube-Qamar Moon Mission'?",
           "options": [
             "It is documented in 'Satellite Broadband Plans'.",
             "It belongs to the field of 'Aeronautics'.",
@@ -27883,7 +27883,7 @@ window.QuizData_current_affairs = {
           "explanation": "'COVID-19 Emergency End' deals with the theme of 'global health policy and infectious disease alerts'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'broadband communications and low Earth orbit constellations'?",
+          "q": "What is a major reference or manual focusing on 'broadband communications and low Earth orbit constellations'?",
           "options": [
             "Lunar Landing Test Logs",
             "Satellite Broadband Plans",
@@ -27905,7 +27905,7 @@ window.QuizData_current_affairs = {
           "explanation": "'AI Development History' is associated with 'ChatGPT OpenAI'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'ChatGPT OpenAI'?",
+          "q": "Which is correct about the concept of 'ChatGPT OpenAI'?",
           "options": [
             "It belongs to the domain of 'Aeronautics'.",
             "Its contrasting theme is 'data sovereignty and national security tech legislation'.",
@@ -27927,7 +27927,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'Renewable Capacity Growth' is 'the rapid expansion of global solar and wind power installations'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'James Webb Telescope'?",
+          "q": "Which is correct about the concept of 'James Webb Telescope'?",
           "options": [
             "Its contrasting theme is 'space observation and infrared cosmological studies'.",
             "It is defined as 'the space observatory delivering high-resolution infrared images of early universe'.",
@@ -28037,7 +28037,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'ChatGPT Generative AI'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'multimodal machine learning and AI applications'?",
+          "q": "What is a major reference or manual focusing on 'multimodal machine learning and AI applications'?",
           "options": [
             "Neurotechnology Clinical Trials",
             "Space Mission Archives",
@@ -28103,7 +28103,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Project Kuiper Satellites' deals with the theme of 'broadband communications and low Earth orbit constellations'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Renewable Capacity Growth'?",
+          "q": "Which is correct about the core idea of 'Renewable Capacity Growth'?",
           "options": [
             "It belongs to the field of 'Aeronautics'.",
             "It is defined as 'the rapid expansion of global solar and wind power installations'.",
@@ -28169,7 +28169,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Gateway Launch Phase' is the direct contrast to 'Artemis Lunar Return'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'COVID PHEIC Termination'?",
+          "q": "Which is correct about the core idea of 'COVID PHEIC Termination'?",
           "options": [
             "It is documented in 'Space Mission Archives'.",
             "It is defined as 'the WHO declaration ending the emergency status of COVID-19'.",
@@ -28202,7 +28202,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'JWST Infrared Imaging' is 'the space telescope utilizing gold-coated mirrors to observe early star formation'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'natural language processing and artificial intelligence'?",
+          "q": "What is a major reference or manual focusing on 'natural language processing and artificial intelligence'?",
           "options": [
             "AI Development History",
             "Lunar Spaceflight Plans",
@@ -28246,7 +28246,7 @@ window.QuizData_current_affairs = {
           "explanation": "'COVID-19 Emergency End' is classified under the domain of 'Public Health'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'JWST Infrared Imaging'?",
+          "q": "What is a key description or fact regarding the concept of 'JWST Infrared Imaging'?",
           "options": [
             "\"The James Webb Space Telescope operates at Lagrange Point 2, cooled to near absolute zero.\"",
             "\"Pakistan's iCube-Qamar successfully captured and transmitted pictures of the Moon and Sun.\"",
@@ -28268,7 +28268,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Lunar Spaceflight Plans' is associated with 'Artemis Program'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'ChatGPT Generative AI'?",
+          "q": "Which is correct about the core idea of 'ChatGPT Generative AI'?",
           "options": [
             "It belongs to the field of 'Public Health'.",
             "It is themed as 'natural language processing and artificial intelligence'.",
@@ -28290,7 +28290,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Lunar Spaceflight Journals' contains documentation regarding 'precision landing technology and autonomous spacecraft'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Chandrayaan-3 landed on the lunar south pole, confirming the presence of sulfur.\"?",
+          "q": "What describes the key fact or historical quote: \"Chandrayaan-3 landed on the lunar south pole, confirming the presence of sulfur.\"?",
           "options": [
             "Renewable Capacity Growth",
             "COVID-19 Emergency End",
@@ -28312,7 +28312,7 @@ window.QuizData_current_affairs = {
           "explanation": "'COP28 UAE Agreement Docs' is associated with 'UAE Climate Consensus'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'data sovereignty and national security tech legislation'?",
+          "q": "What is a major reference or manual focusing on 'data sovereignty and national security tech legislation'?",
           "options": [
             "Lunar Spaceflight Plans",
             "Multimodal AI Guides",
@@ -28334,7 +28334,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'SLIM Precision Landing' is 'the smart lander utilizing facial recognition style mapping on lunar craters'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'multimodal AI architectures and software development'?",
+          "q": "What is a major reference or manual focusing on 'multimodal AI architectures and software development'?",
           "options": [
             "Space Mission Archives",
             "Multimodal AI Guides",
@@ -28345,7 +28345,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Multimodal AI Guides' is known for its focus on 'multimodal AI architectures and software development'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Lunar Spaceflight Plans'?",
+          "q": "Which is correct about the book/guide 'Lunar Spaceflight Plans'?",
           "options": [
             "Its primary focus is 'Environmental Policy'.",
             "It is written about 'COVID PHEIC Termination'.",
@@ -28378,7 +28378,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'Project Kuiper Satellites' is 'the Amazon satellite constellation launching commercial prototype tests'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Satellite Broadband Plans'?",
+          "q": "Which is correct about the book/guide 'Satellite Broadband Plans'?",
           "options": [
             "It is written about 'James Webb Telescope'.",
             "Its primary focus is 'Computer Science'.",
@@ -28400,7 +28400,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Lunar Landing Test Logs' contains documentation regarding 'lunar exploration and space robotics'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'data privacy regulations and national security tech laws'?",
+          "q": "What is a major reference or manual focusing on 'data privacy regulations and national security tech laws'?",
           "options": [
             "Lunar Spaceflight Plans",
             "Deep Space Imaging Logs",
@@ -28455,7 +28455,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'Chandrayaan-3 South Pole' is 'the lunar lander and rover mission executing soil analysis near lunar south pole'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Google rebranded its AI projects as Gemini, deploying advanced multimodal models in 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Google rebranded its AI projects as Gemini, deploying advanced multimodal models in 2024.\"?",
           "options": [
             "Gemini Google",
             "iCube-Qamar Moon Mission",
@@ -28466,7 +28466,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'Gemini Google'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The WHO declared the end of COVID-19 as a public health emergency in May 2023.\"?",
+          "q": "What describes the key fact or historical quote: \"The WHO declared the end of COVID-19 as a public health emergency in May 2023.\"?",
           "options": [
             "James Webb Telescope",
             "iCube-Qamar Moon Mission",
@@ -28488,7 +28488,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Space Mission Archives' is the manual associated with 'space exploration and lunar orbiter technology'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Japan's SLIM achieved a high-precision landing within 55 meters of its target site.\"?",
+          "q": "What describes the key fact or historical quote: \"Japan's SLIM achieved a high-precision landing within 55 meters of its target site.\"?",
           "options": [
             "JWST Infrared Imaging",
             "SLIM Precision Landing",
@@ -28499,7 +28499,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'SLIM Precision Landing'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'climate action agreements and carbon reduction targets'?",
+          "q": "What is a major reference or manual focusing on 'climate action agreements and carbon reduction targets'?",
           "options": [
             "AI Development History",
             "COP28 UAE Agreement Docs",
@@ -28576,7 +28576,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'TikTok Ban Bill'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"JWST has been providing unprecedented images of distant galaxies since mid-2022.\"?",
+          "q": "What describes the key fact or historical quote: \"JWST has been providing unprecedented images of distant galaxies since mid-2022.\"?",
           "options": [
             "James Webb Telescope",
             "Neuralink Implant",
@@ -28598,7 +28598,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Hubble Space Telescope' is the direct contrast to 'James Webb Telescope'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'space observation and infrared astronomy'?",
+          "q": "What is a major reference or manual focusing on 'space observation and infrared astronomy'?",
           "options": [
             "Deep Space Imaging Logs",
             "Neurotechnology Clinical Trials",
@@ -28642,7 +28642,7 @@ window.QuizData_current_affairs = {
           "explanation": "'space exploration and lunar orbiter technology' is a major theme inside 'Aeronautics'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Project Kuiper'?",
+          "q": "Which is correct about the concept of 'Project Kuiper'?",
           "options": [
             "Its contrasting theme is 'multimodal AI architectures and software development'.",
             "It is defined as 'the Amazon satellite constellation project to provide global broadband'.",
@@ -28719,7 +28719,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Neuralink Brain Chip Test'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'large language models and artificial intelligence integration'?",
+          "q": "What is a major reference or manual focusing on 'large language models and artificial intelligence integration'?",
           "options": [
             "AI Development History",
             "Satellite Broadband Plans",
@@ -28741,7 +28741,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Data Privacy Legislation' is associated with 'TikTok Ban Bill'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Amazon's Project Kuiper successfully launched its first two prototype satellites in late 2023.\"?",
+          "q": "What describes the key fact or historical quote: \"Amazon's Project Kuiper successfully launched its first two prototype satellites in late 2023.\"?",
           "options": [
             "Chandrayaan-3 South Pole",
             "SLIM Precision Landing",
@@ -28752,7 +28752,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'Project Kuiper Satellites'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The COP28 summit in Dubai concluded with the historic 'UAE Consensus' on fossil fuels.\"?",
+          "q": "What describes the key fact or historical quote: \"The COP28 summit in Dubai concluded with the historic 'UAE Consensus' on fossil fuels.\"?",
           "options": [
             "UAE Consensus COP28",
             "ChatGPT Generative AI",
@@ -28774,7 +28774,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Paksat-MM1 Mission' is the direct contrast to 'iCube-Qamar Moon Mission'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'WHO Health Regulations'?",
+          "q": "Which is correct about the book/guide 'WHO Health Regulations'?",
           "options": [
             "Its primary focus is 'Aeronautics'.",
             "It is contrasted with 'Apollo Program'.",
@@ -28807,7 +28807,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Deep Space Imaging Logs' is associated with 'James Webb Telescope'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'iCube-Qamar Moon Mission'?",
+          "q": "Which is correct about the concept of 'iCube-Qamar Moon Mission'?",
           "options": [
             "It is defined as 'the lunar orbiter developed by IST in collaboration with SJTU'.",
             "It is documented in the manual 'Lunar Spaceflight Plans'.",
@@ -28818,7 +28818,7 @@ window.QuizData_current_affairs = {
           "explanation": "'iCube-Qamar Moon Mission' is defined as 'the lunar orbiter developed by IST in collaboration with SJTU'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Global renewable capacity additions reached record highs in 2023, led by solar PV.\"?",
+          "q": "What describes the key fact or historical quote: \"Global renewable capacity additions reached record highs in 2023, led by solar PV.\"?",
           "options": [
             "Chandrayaan-3 South Pole",
             "ChatGPT OpenAI",
@@ -28840,7 +28840,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Artemis Lunar Return' is classified under the domain of 'Aeronautics'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'COVID PHEIC Termination'?",
+          "q": "What is a key description or fact regarding the concept of 'COVID PHEIC Termination'?",
           "options": [
             "\"iCube-Qamar was launched aboard China's Chang'e 6 lunar probe in May 2024.\"",
             "\"Amazon's Project Kuiper aims to launch thousands of low Earth orbit internet satellites.\"",
@@ -28950,7 +28950,7 @@ window.QuizData_current_affairs = {
           "explanation": "'James Webb Telescope' deals with the theme of 'space observation and infrared astronomy'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Gemini Google'?",
+          "q": "What is a key description or fact regarding the concept of 'Gemini Google'?",
           "options": [
             "\"Artemis II will send a crewed spacecraft around the Moon, preceding the landing.\"",
             "\"Elon Musk's Neuralink successfully implanted its wireless brain chip in a human patient in 2024.\"",
@@ -29049,7 +29049,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'Project Kuiper' is 'the Amazon satellite constellation project to provide global broadband'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'global health policy and infectious disease alerts'?",
+          "q": "What is a major reference or manual focusing on 'global health policy and infectious disease alerts'?",
           "options": [
             "Space Mission Archives",
             "Deep Space Imaging Logs",
@@ -29082,7 +29082,7 @@ window.QuizData_current_affairs = {
           "explanation": "'World Energy Outlooks' contains documentation regarding 'green energy transition and carbon reduction policies'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Chandrayaan-3 South Pole'?",
+          "q": "Which is correct about the concept of 'Chandrayaan-3 South Pole'?",
           "options": [
             "It belongs to the domain of 'Public Health'.",
             "It is defined as 'the lunar lander and rover mission executing soil analysis near lunar south pole'.",
@@ -29137,7 +29137,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Artemis Program'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The Artemis program aims to send the first woman and person of color to the Moon.\"?",
+          "q": "What describes the key fact or historical quote: \"The Artemis program aims to send the first woman and person of color to the Moon.\"?",
           "options": [
             "Artemis Program",
             "COVID PHEIC Termination",
@@ -29159,7 +29159,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'iCube-Qamar'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'green energy transition and carbon reduction policies'?",
+          "q": "What is a major reference or manual focusing on 'green energy transition and carbon reduction policies'?",
           "options": [
             "Satellite Broadband Plans",
             "Lunar Landing Test Logs",
@@ -29192,7 +29192,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Google Assistant' is the contrast to 'Gemini Google'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Project Kuiper'?",
+          "q": "Which is correct about the core idea of 'Project Kuiper'?",
           "options": [
             "It is defined as 'the Amazon satellite constellation project to provide global broadband'.",
             "It is themed as 'data privacy regulations and national security tech laws'.",
@@ -29236,7 +29236,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Deep Space Imaging Logs' contains documentation regarding 'space observation and infrared cosmological studies'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'infectious disease alerts and public health management'?",
+          "q": "What is a major reference or manual focusing on 'infectious disease alerts and public health management'?",
           "options": [
             "Satellite Broadband Plans",
             "WHO Health Regulations",
@@ -29401,7 +29401,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Paksat-MM1 Mission' is the standard contrast to 'iCube-Qamar Moon Mission'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'neurotechnology and brain-machine interfaces'?",
+          "q": "What is a major reference or manual focusing on 'neurotechnology and brain-machine interfaces'?",
           "options": [
             "Data Privacy Legislation",
             "Deep Space Imaging Logs",
@@ -29423,7 +29423,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'Neuralink Brain Chip Test' is 'the brain implant allowing patients to control cursors with thoughts'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The US passed a bill in 2024 requiring TikTok's parent company to divest its assets.\"?",
+          "q": "What describes the key fact or historical quote: \"The US passed a bill in 2024 requiring TikTok's parent company to divest its assets.\"?",
           "options": [
             "Gemini Multimodal",
             "TikTok Restrictions",
@@ -29434,7 +29434,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'TikTok Restrictions'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Public Health'?",
+          "q": "What is situated within the study field of 'Public Health'?",
           "options": [
             "COVID-19 Emergency End",
             "iCube-Qamar Moon Mission",
@@ -29489,7 +29489,7 @@ window.QuizData_current_affairs = {
           "explanation": "'UAE Consensus COP28' deals with the theme of 'climate action agreements and carbon reduction targets'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'lunar exploration and deep space habitats'?",
+          "q": "What is a major reference or manual focusing on 'lunar exploration and deep space habitats'?",
           "options": [
             "WHO Health Regulations",
             "COP28 UAE Agreement Docs",
@@ -29500,7 +29500,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Lunar Spaceflight Plans' is known for its focus on 'lunar exploration and deep space habitats'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'iCube-Qamar'?",
+          "q": "What is a key description or fact regarding the concept of 'iCube-Qamar'?",
           "options": [
             "\"Amazon's Project Kuiper aims to launch thousands of low Earth orbit internet satellites.\"",
             "\"Amazon's Project Kuiper successfully launched its first two prototype satellites in late 2023.\"",
@@ -29511,7 +29511,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'iCube-Qamar' is: \"iCube-Qamar was launched aboard China's Chang'e 6 lunar probe in May 2024.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Chandrayaan-3 South Pole'?",
+          "q": "What is a key description or fact regarding the concept of 'Chandrayaan-3 South Pole'?",
           "options": [
             "\"Chandrayaan-3 landed on the lunar south pole, confirming the presence of sulfur.\"",
             "\"Artemis II will send a crewed spacecraft around the Moon, preceding the landing.\"",
@@ -29588,7 +29588,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Chandrayaan-3' is built on the concept: 'the historical mission landing a spacecraft near the moon's south pole'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Aeronautics'?",
+          "q": "What is situated within the study field of 'Aeronautics'?",
           "options": [
             "Project Kuiper",
             "Project Kuiper Satellites",
@@ -29632,7 +29632,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Satellite Broadband Plans' contains documentation regarding 'satellite internet and global connectivity networks'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Artemis Lunar Return'?",
+          "q": "Which is correct about the concept of 'Artemis Lunar Return'?",
           "options": [
             "It is defined as 'the spaceflight program establishing the Gateway lunar space station'.",
             "It is documented in the manual 'Multimodal AI Guides'.",
@@ -29665,7 +29665,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'ChatGPT OpenAI'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Artemis II will send a crewed spacecraft around the Moon, preceding the landing.\"?",
+          "q": "What describes the key fact or historical quote: \"Artemis II will send a crewed spacecraft around the Moon, preceding the landing.\"?",
           "options": [
             "Gemini Multimodal",
             "COVID PHEIC Termination",
@@ -29698,7 +29698,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'COVID PHEIC Termination' is 'the WHO declaration ending the emergency status of COVID-19'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'COP28 UAE Agreement Docs'?",
+          "q": "Which is correct about the book/guide 'COP28 UAE Agreement Docs'?",
           "options": [
             "It is contrasted with 'Paksat-MM1 Mission'.",
             "It is written about 'ChatGPT Generative AI'.",
@@ -29720,7 +29720,7 @@ window.QuizData_current_affairs = {
           "explanation": "'World Energy Outlooks' is the manual associated with 'green energy transition and carbon reduction policies'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The James Webb Space Telescope operates at Lagrange Point 2, cooled to near absolute zero.\"?",
+          "q": "What describes the key fact or historical quote: \"The James Webb Space Telescope operates at Lagrange Point 2, cooled to near absolute zero.\"?",
           "options": [
             "JWST Infrared Imaging",
             "COVID PHEIC Termination",
@@ -29797,7 +29797,7 @@ window.QuizData_current_affairs = {
           "explanation": "'SLIM Precision Landing' is classified under the domain of 'Aeronautics'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'TikTok Ban Bill'?",
+          "q": "What is a key description or fact regarding the concept of 'TikTok Ban Bill'?",
           "options": [
             "\"The WHO declared the end of COVID-19 as a public health emergency in May 2023.\"",
             "\"The US TikTok divestiture bill of 2024 requires a sale within nine months.\"",
@@ -29808,7 +29808,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'TikTok Ban Bill' is: \"The US TikTok divestiture bill of 2024 requires a sale within nine months.\"."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Elon Musk's Neuralink successfully implanted its wireless brain chip in a human patient in 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Elon Musk's Neuralink successfully implanted its wireless brain chip in a human patient in 2024.\"?",
           "options": [
             "Neuralink Implant",
             "TikTok Ban Bill",
@@ -29819,7 +29819,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'Neuralink Implant'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'lunar resource mapping and low-cost aerospace engineering'?",
+          "q": "What is a major reference or manual focusing on 'lunar resource mapping and low-cost aerospace engineering'?",
           "options": [
             "World Energy Outlooks",
             "Lunar Spaceflight Plans",
@@ -29830,7 +29830,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Lunar Landing Test Logs' is known for its focus on 'lunar resource mapping and low-cost aerospace engineering'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The UAE Consensus at COP28 was signed by nearly 200 countries to target net-zero emissions.\"?",
+          "q": "What describes the key fact or historical quote: \"The UAE Consensus at COP28 was signed by nearly 200 countries to target net-zero emissions.\"?",
           "options": [
             "Project Kuiper Satellites",
             "iCube-Qamar",
@@ -29852,7 +29852,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Starlink Constellation' is the direct contrast to 'Project Kuiper Satellites'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Environmental Policy'?",
+          "q": "What is situated within the study field of 'Environmental Policy'?",
           "options": [
             "ChatGPT OpenAI",
             "Renewable Capacity Growth",
@@ -29885,7 +29885,7 @@ window.QuizData_current_affairs = {
           "explanation": "'iCube-Qamar Moon Mission' is built on the concept: 'the lunar orbiter developed by IST in collaboration with SJTU'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Neuralink Brain Chip Test'?",
+          "q": "Which is correct about the concept of 'Neuralink Brain Chip Test'?",
           "options": [
             "It is defined as 'the brain implant allowing patients to control cursors with thoughts'.",
             "Its contrasting theme is 'multimodal machine learning and AI applications'.",
@@ -29940,7 +29940,7 @@ window.QuizData_current_affairs = {
           "explanation": "'COP28 UAE Agreement Docs' contains documentation regarding 'climate action agreements and carbon reduction targets'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"ChatGPT reached 100 million monthly active users in record time after its release.\"?",
+          "q": "What describes the key fact or historical quote: \"ChatGPT reached 100 million monthly active users in record time after its release.\"?",
           "options": [
             "Project Kuiper",
             "COVID PHEIC Termination",
@@ -29951,7 +29951,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'ChatGPT Generative AI'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"iCube-Qamar was launched aboard China's Chang'e 6 lunar probe in May 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"iCube-Qamar was launched aboard China's Chang'e 6 lunar probe in May 2024.\"?",
           "options": [
             "Project Kuiper",
             "iCube-Qamar",
@@ -29995,7 +29995,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Artemis Lunar Return' corresponds to this definition."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Neuroscience'?",
+          "q": "What is situated within the study field of 'Neuroscience'?",
           "options": [
             "Neuralink Implant",
             "UAE Consensus COP28",
@@ -30006,7 +30006,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Neuralink Implant' falls under the discipline of 'Neuroscience'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Neuralink's first human trial patient successfully played online chess using thought control.\"?",
+          "q": "What describes the key fact or historical quote: \"Neuralink's first human trial patient successfully played online chess using thought control.\"?",
           "options": [
             "Gemini Google",
             "Neuralink Brain Chip Test",
@@ -30017,7 +30017,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'Neuralink Brain Chip Test'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'UAE Consensus COP28'?",
+          "q": "What is a key description or fact regarding the concept of 'UAE Consensus COP28'?",
           "options": [
             "\"Chandrayaan-3 landed on the lunar south pole, confirming the presence of sulfur.\"",
             "\"iCube-Qamar was launched aboard China's Chang'e 6 lunar probe in May 2024.\"",
@@ -30039,7 +30039,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Neuralink Brain Chip Test' corresponds to this definition."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Astrophysics'?",
+          "q": "What is situated within the study field of 'Astrophysics'?",
           "options": [
             "UAE Climate Consensus",
             "James Webb Telescope",
@@ -30116,7 +30116,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Paris Climate Targets' is the standard contrast to 'UAE Consensus COP28'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'space observation and infrared cosmological studies'?",
+          "q": "What is a major reference or manual focusing on 'space observation and infrared cosmological studies'?",
           "options": [
             "Space Mission Archives",
             "Neurotechnology Clinical Trials",
@@ -30193,7 +30193,7 @@ window.QuizData_current_affairs = {
           "explanation": "'AI Development History' contains documentation regarding 'large language models and artificial intelligence integration'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"India became the first country to land a spacecraft near the lunar south pole in 2023.\"?",
+          "q": "What describes the key fact or historical quote: \"India became the first country to land a spacecraft near the lunar south pole in 2023.\"?",
           "options": [
             "Chandrayaan-3",
             "Artemis Program",
@@ -30226,7 +30226,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Space Mission Archives' contains documentation regarding 'space exploration and lunar orbiter technology'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'TikTok Ban Bill'?",
+          "q": "Which is correct about the core idea of 'TikTok Ban Bill'?",
           "options": [
             "It is themed as 'space observation and infrared cosmological studies'.",
             "It is defined as 'the national security legislation passed by US Congress targeting ByteDance'.",
@@ -30314,7 +30314,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Neurotechnology Clinical Trials' is associated with 'Neuralink Implant'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'UAE Climate Consensus'?",
+          "q": "What is a key description or fact regarding the concept of 'UAE Climate Consensus'?",
           "options": [
             "\"ChatGPT reached 100 million monthly active users in record time after its release.\"",
             "\"The UAE Consensus at COP28 was signed by nearly 200 countries to target net-zero emissions.\"",
@@ -30424,7 +30424,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'COVID-19 Emergency End' is 'the official declaration terminating the global health emergency status'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'COVID PHEIC Termination'?",
+          "q": "Which is correct about the concept of 'COVID PHEIC Termination'?",
           "options": [
             "It belongs to the domain of 'Aeronautics'.",
             "Its contrasting theme is 'space exploration and lunar orbiter technology'.",
@@ -30490,7 +30490,7 @@ window.QuizData_current_affairs = {
           "explanation": "'AI Development History' is the manual associated with 'large language models and artificial intelligence integration'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'iCube-Qamar'?",
+          "q": "Which is correct about the core idea of 'iCube-Qamar'?",
           "options": [
             "It is documented in 'Deep Space Imaging Logs'.",
             "It belongs to the field of 'Aeronautics'.",
@@ -30545,7 +30545,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Chandrayaan-2 Landing' is the contrast to 'Chandrayaan-3 South Pole'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"OpenAI released ChatGPT in November 2022, accelerating the global AI revolution.\"?",
+          "q": "What describes the key fact or historical quote: \"OpenAI released ChatGPT in November 2022, accelerating the global AI revolution.\"?",
           "options": [
             "TikTok Restrictions",
             "iCube-Qamar Moon Mission",
@@ -30556,7 +30556,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'ChatGPT OpenAI'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Gemini Google'?",
+          "q": "Which is correct about the concept of 'Gemini Google'?",
           "options": [
             "Its contrasting theme is 'human spaceflight and lunar resource utilization'.",
             "It is defined as 'the advanced multimodal artificial intelligence system competing with GPT-4'.",
@@ -30567,7 +30567,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Gemini Google' is defined as 'the advanced multimodal artificial intelligence system competing with GPT-4'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Neuralink Implant'?",
+          "q": "Which is correct about the concept of 'Neuralink Implant'?",
           "options": [
             "It is defined as 'the first successful human brain-computer interface chip implant in 2024'.",
             "It belongs to the domain of 'Cyber Law'.",
@@ -30622,7 +30622,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Badr-1 Satellite' is the standard contrast to 'iCube-Qamar'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'iCube-Qamar Moon Mission'?",
+          "q": "What is a key description or fact regarding the concept of 'iCube-Qamar Moon Mission'?",
           "options": [
             "\"Artemis II will send a crewed spacecraft around the Moon, preceding the landing.\"",
             "\"Pakistan's iCube-Qamar successfully captured and transmitted pictures of the Moon and Sun.\"",
@@ -30688,7 +30688,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Paris Climate Targets' is the contrast to 'UAE Consensus COP28'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'SLIM Precision Landing'?",
+          "q": "What is a key description or fact regarding the concept of 'SLIM Precision Landing'?",
           "options": [
             "\"The UAE Consensus at COP28 was signed by nearly 200 countries to target net-zero emissions.\"",
             "\"Japan's SLIM achieved a high-precision landing within 55 meters of its target site.\"",
@@ -30699,7 +30699,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'SLIM Precision Landing' is: \"Japan's SLIM achieved a high-precision landing within 55 meters of its target site.\"."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'ChatGPT Generative AI'?",
+          "q": "Which is correct about the concept of 'ChatGPT Generative AI'?",
           "options": [
             "It is defined as 'the LLM trained by OpenAI that initiated global software integrations'.",
             "It is documented in the manual 'WHO Health Regulations'.",
@@ -30732,7 +30732,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Satellite Broadband Plans' is associated with 'Project Kuiper Satellites'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Space Mission Archives'?",
+          "q": "Which is correct about the book/guide 'Space Mission Archives'?",
           "options": [
             "It addresses the theme of 'space exploration and lunar orbiter technology'.",
             "It is written about 'Project Kuiper'.",
@@ -30743,7 +30743,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Space Mission Archives' focuses on 'space exploration and lunar orbiter technology'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'JWST Infrared Imaging'?",
+          "q": "Which is correct about the core idea of 'JWST Infrared Imaging'?",
           "options": [
             "It is defined as 'the space telescope utilizing gold-coated mirrors to observe early star formation'.",
             "It is documented in 'Neurotechnology Clinical Trials'.",
@@ -30754,7 +30754,7 @@ window.QuizData_current_affairs = {
           "explanation": "'JWST Infrared Imaging' is defined as 'the space telescope utilizing gold-coated mirrors to observe early star formation'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Gemini Multimodal'?",
+          "q": "What is a key description or fact regarding the concept of 'Gemini Multimodal'?",
           "options": [
             "\"Pakistan's iCube-Qamar successfully captured and transmitted pictures of the Moon and Sun.\"",
             "\"Google rebranded its AI projects as Gemini, deploying advanced multimodal models in 2024.\"",
@@ -30798,7 +30798,7 @@ window.QuizData_current_affairs = {
           "explanation": "'iCube-Qamar' is built on the concept: 'the first historical lunar satellite launched by Pakistan in 2024'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"WHO ended the emergency status of COVID-19, stating it is now an established health issue.\"?",
+          "q": "What describes the key fact or historical quote: \"WHO ended the emergency status of COVID-19, stating it is now an established health issue.\"?",
           "options": [
             "COVID PHEIC Termination",
             "COVID-19 Emergency End",
@@ -30864,7 +30864,7 @@ window.QuizData_current_affairs = {
           "explanation": "'COP28 UAE Agreement Docs' is the manual associated with 'climate action agreements and carbon reduction targets'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Project Kuiper Satellites'?",
+          "q": "Which is correct about the concept of 'Project Kuiper Satellites'?",
           "options": [
             "Its contrasting theme is 'multimodal machine learning and AI applications'.",
             "It belongs to the domain of 'Aeronautics'.",
@@ -30897,7 +30897,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Satellite Broadband Plans' contains documentation regarding 'broadband communications and low Earth orbit constellations'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Pakistan's iCube-Qamar successfully captured and transmitted pictures of the Moon and Sun.\"?",
+          "q": "What describes the key fact or historical quote: \"Pakistan's iCube-Qamar successfully captured and transmitted pictures of the Moon and Sun.\"?",
           "options": [
             "Project Kuiper",
             "iCube-Qamar Moon Mission",
@@ -30963,7 +30963,7 @@ window.QuizData_current_affairs = {
           "explanation": "'COVID PHEIC Termination' is built on the concept: 'the WHO declaration ending the emergency status of COVID-19'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'human spaceflight and lunar resource utilization'?",
+          "q": "What is a major reference or manual focusing on 'human spaceflight and lunar resource utilization'?",
           "options": [
             "Multimodal AI Guides",
             "AI Development History",
@@ -30996,7 +30996,7 @@ window.QuizData_current_affairs = {
           "explanation": "'First Amendment Rights' is the direct contrast to 'TikTok Restrictions'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Deep Space Imaging Logs'?",
+          "q": "Which is correct about the book/guide 'Deep Space Imaging Logs'?",
           "options": [
             "It is contrasted with 'Non-Invasive Brain Sensors'.",
             "It addresses the theme of 'space observation and infrared astronomy'.",
@@ -31029,7 +31029,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Google Assistant' is the standard contrast to 'Gemini Google'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'iCube-Qamar'?",
+          "q": "Which is correct about the concept of 'iCube-Qamar'?",
           "options": [
             "It is defined as 'the first historical lunar satellite launched by Pakistan in 2024'.",
             "Its contrasting theme is 'space observation and infrared astronomy'.",
@@ -31051,7 +31051,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Hubble Space Telescope' is the standard contrast to 'James Webb Telescope'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Project Kuiper Satellites'?",
+          "q": "What is a key description or fact regarding the concept of 'Project Kuiper Satellites'?",
           "options": [
             "\"Japan's SLIM achieved a high-precision landing within 55 meters of its target site.\"",
             "\"Google rebranded its AI projects as Gemini, deploying advanced multimodal models in 2024.\"",
@@ -31062,7 +31062,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'Project Kuiper Satellites' is: \"Amazon's Project Kuiper successfully launched its first two prototype satellites in late 2023.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Chandrayaan-3'?",
+          "q": "What is a key description or fact regarding the concept of 'Chandrayaan-3'?",
           "options": [
             "\"The Artemis program aims to send the first woman and person of color to the Moon.\"",
             "\"Artemis II will send a crewed spacecraft around the Moon, preceding the landing.\"",
@@ -31084,7 +31084,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Expert Systems' is the contrast to 'ChatGPT Generative AI'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'TikTok Ban Bill'?",
+          "q": "Which is correct about the concept of 'TikTok Ban Bill'?",
           "options": [
             "Its contrasting theme is 'global health policy and infectious disease alerts'.",
             "It is documented in the manual 'Lunar Spaceflight Plans'.",
@@ -31183,7 +31183,7 @@ window.QuizData_current_affairs = {
           "explanation": "'data sovereignty and national security tech legislation' is a major theme inside 'Cyber Law'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'TikTok Restrictions'?",
+          "q": "Which is correct about the concept of 'TikTok Restrictions'?",
           "options": [
             "It belongs to the domain of 'Aeronautics'.",
             "It is documented in the manual 'Multimodal AI Guides'.",
@@ -31205,7 +31205,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Chandrayaan-3 South Pole'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'COVID-19 Emergency End'?",
+          "q": "Which is correct about the concept of 'COVID-19 Emergency End'?",
           "options": [
             "Its contrasting theme is 'cubesat engineering and lunar orbit data transmission'.",
             "It belongs to the domain of 'Aeronautics'.",
@@ -31216,7 +31216,7 @@ window.QuizData_current_affairs = {
           "explanation": "'COVID-19 Emergency End' is defined as 'the official declaration terminating the global health emergency status'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Artemis Lunar Return'?",
+          "q": "Which is correct about the core idea of 'Artemis Lunar Return'?",
           "options": [
             "It is themed as 'infectious disease alerts and public health management'.",
             "It belongs to the field of 'Computer Science'.",
@@ -31392,7 +31392,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Gemini Multimodal' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Data Privacy Legislation'?",
+          "q": "Which is correct about the book/guide 'Data Privacy Legislation'?",
           "options": [
             "It is written about 'Gemini Multimodal'.",
             "It addresses the theme of 'data sovereignty and national security tech legislation'.",
@@ -31403,7 +31403,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Data Privacy Legislation' focuses on 'data sovereignty and national security tech legislation'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Neuralink Implant'?",
+          "q": "Which is correct about the core idea of 'Neuralink Implant'?",
           "options": [
             "It is documented in 'COP28 UAE Agreement Docs'.",
             "It belongs to the field of 'Astrophysics'.",
@@ -31414,7 +31414,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Neuralink Implant' is defined as 'the first successful human brain-computer interface chip implant in 2024'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Project Kuiper'?",
+          "q": "What is a key description or fact regarding the concept of 'Project Kuiper'?",
           "options": [
             "\"JWST has been providing unprecedented images of distant galaxies since mid-2022.\"",
             "\"Amazon's Project Kuiper aims to launch thousands of low Earth orbit internet satellites.\"",
@@ -31425,7 +31425,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'Project Kuiper' is: \"Amazon's Project Kuiper aims to launch thousands of low Earth orbit internet satellites.\"."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'lunar exploration and space robotics'?",
+          "q": "What is a major reference or manual focusing on 'lunar exploration and space robotics'?",
           "options": [
             "Lunar Spaceflight Plans",
             "Lunar Spaceflight Plans",
@@ -31447,7 +31447,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'TikTok Restrictions'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Computer Science'?",
+          "q": "What is situated within the study field of 'Computer Science'?",
           "options": [
             "ChatGPT OpenAI",
             "Artemis Lunar Return",
@@ -31469,7 +31469,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'iCube-Qamar Moon Mission' is 'the lunar orbiter developed by IST in collaboration with SJTU'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'James Webb Telescope'?",
+          "q": "Which is correct about the core idea of 'James Webb Telescope'?",
           "options": [
             "It is documented in 'Deep Space Imaging Logs'.",
             "It belongs to the field of 'Environmental Policy'.",
@@ -31513,7 +31513,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Google Assistant' is the direct contrast to 'Gemini Google'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'UAE Climate Consensus'?",
+          "q": "Which is correct about the concept of 'UAE Climate Consensus'?",
           "options": [
             "Its contrasting theme is 'climate action agreements and carbon reduction targets'.",
             "It is documented in the manual 'AI Development History'.",
@@ -31524,7 +31524,7 @@ window.QuizData_current_affairs = {
           "explanation": "'UAE Climate Consensus' is defined as 'the COP28 agreement calling to transition away from fossil fuels'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Artemis Program'?",
+          "q": "Which is correct about the core idea of 'Artemis Program'?",
           "options": [
             "It belongs to the field of 'Public Health'.",
             "It is defined as 'the NASA-led project aiming to land humans back on the moon'.",
@@ -31601,7 +31601,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Artemis Lunar Return' deals with the theme of 'human spaceflight and lunar resource utilization'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'ChatGPT Generative AI'?",
+          "q": "What is a key description or fact regarding the concept of 'ChatGPT Generative AI'?",
           "options": [
             "\"ChatGPT reached 100 million monthly active users in record time after its release.\"",
             "\"Amazon's Project Kuiper aims to launch thousands of low Earth orbit internet satellites.\"",
@@ -31711,7 +31711,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'TikTok Restrictions' is 'the US laws forcing ByteDance to sell or face a platform ban'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'World Energy Outlooks'?",
+          "q": "Which is correct about the book/guide 'World Energy Outlooks'?",
           "options": [
             "It addresses the theme of 'green energy transition and carbon reduction policies'.",
             "It is contrasted with 'Traditional Search Engines'.",
@@ -31722,7 +31722,7 @@ window.QuizData_current_affairs = {
           "explanation": "'World Energy Outlooks' focuses on 'green energy transition and carbon reduction policies'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'AI Development History'?",
+          "q": "Which is correct about the book/guide 'AI Development History'?",
           "options": [
             "It is contrasted with 'Gateway Launch Phase'.",
             "Its primary focus is 'Cyber Law'.",
@@ -31744,7 +31744,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Multimodal AI Guides' is the manual associated with 'multimodal AI architectures and software development'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Neuralink Brain Chip Test'?",
+          "q": "What is a key description or fact regarding the concept of 'Neuralink Brain Chip Test'?",
           "options": [
             "\"Neuralink's first human trial patient successfully played online chess using thought control.\"",
             "\"The James Webb Space Telescope operates at Lagrange Point 2, cooled to near absolute zero.\"",
@@ -31766,7 +31766,7 @@ window.QuizData_current_affairs = {
           "explanation": "'natural language processing and artificial intelligence' is a major theme inside 'Computer Science'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Gemini Multimodal'?",
+          "q": "Which is correct about the concept of 'Gemini Multimodal'?",
           "options": [
             "It is documented in the manual 'WHO Health Regulations'.",
             "Its contrasting theme is 'cubesat engineering and lunar orbit data transmission'.",
@@ -31777,7 +31777,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Gemini Multimodal' is defined as 'the AI model trained from the ground up to understand text, video, and audio'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Lunar Landing Test Logs'?",
+          "q": "Which is correct about the book/guide 'Lunar Landing Test Logs'?",
           "options": [
             "It is written about 'Artemis Lunar Return'.",
             "Its primary focus is 'Aeronautics'.",
@@ -31788,7 +31788,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Lunar Landing Test Logs' focuses on 'lunar exploration and space robotics'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'SLIM Precision Landing'?",
+          "q": "Which is correct about the concept of 'SLIM Precision Landing'?",
           "options": [
             "It is defined as 'the smart lander utilizing facial recognition style mapping on lunar craters'.",
             "It belongs to the domain of 'Astrophysics'.",
@@ -31821,7 +31821,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'iCube-Qamar' is 'the first historical lunar satellite launched by Pakistan in 2024'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Amazon's Project Kuiper aims to launch thousands of low Earth orbit internet satellites.\"?",
+          "q": "What describes the key fact or historical quote: \"Amazon's Project Kuiper aims to launch thousands of low Earth orbit internet satellites.\"?",
           "options": [
             "James Webb Telescope",
             "Gemini Multimodal",
@@ -31860,7 +31860,7 @@ window.QuizData_current_affairs = {
       "icon": "fa-trophy",
       "questions": [
         {
-          "q": "Which of the following is correct regarding the core idea of 'Paris Olympics 2024'?",
+          "q": "Which is correct about the core idea of 'Paris Olympics 2024'?",
           "options": [
             "It is defined as 'the 33rd Summer Olympic Games hosted in France in mid-2024'.",
             "It is themed as 'democratic leadership transitions and foreign policy'.",
@@ -32157,7 +32157,7 @@ window.QuizData_current_affairs = {
           "explanation": "Elon Musk rebranded Twitter to 'X' after its acquisition."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'FIFA World Cup Qatar'?",
+          "q": "Which is correct about the core idea of 'FIFA World Cup Qatar'?",
           "options": [
             "It belongs to the field of 'Sports Policy'.",
             "It is themed as 'human rights advocacy and peace prize honors'.",
@@ -32168,7 +32168,7 @@ window.QuizData_current_affairs = {
           "explanation": "'FIFA World Cup Qatar' is defined as 'the historic football cup won by Argentina in December 2022'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'ICC World Cup 2023'?",
+          "q": "Which is correct about the core idea of 'ICC World Cup 2023'?",
           "options": [
             "It is documented in 'FIFA Tournament Records'.",
             "It is themed as 'monarchical ceremonies and royal leadership transitions'.",
@@ -32179,7 +32179,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ICC World Cup 2023' is defined as 'the 50-over cricket tournament won by Australia in India'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'X Rebrand'?",
+          "q": "Which is correct about the core idea of 'X Rebrand'?",
           "options": [
             "It is themed as 'human rights advocacy and peace prize honors'.",
             "It is defined as 'the rebranding of Twitter following the Elon Musk acquisition'.",
@@ -32190,7 +32190,7 @@ window.QuizData_current_affairs = {
           "explanation": "'X Rebrand' is defined as 'the rebranding of Twitter following the Elon Musk acquisition'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'FIFA Women's World Cup'?",
+          "q": "Which is correct about the core idea of 'FIFA Women's World Cup'?",
           "options": [
             "It is documented in 'FIFA Tournament Records'.",
             "It is themed as 'national sporting achievements and track and field records'.",
@@ -32201,7 +32201,7 @@ window.QuizData_current_affairs = {
           "explanation": "'FIFA Women's World Cup' is defined as 'the women's soccer tournament won by Spain in Australia/NZ in 2023'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'ICC T20 World Cup 2024'?",
+          "q": "Which is correct about the core idea of 'ICC T20 World Cup 2024'?",
           "options": [
             "It belongs to the field of 'Sports History'.",
             "It is themed as 'international cricket tournaments and team sports'.",
@@ -32212,7 +32212,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ICC T20 World Cup 2024' is defined as 'the global cricket tournament won by India in West Indies and USA'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'King Charles III'?",
+          "q": "What is a key description or fact regarding the concept of 'King Charles III'?",
           "options": [
             "\"Musk acquired Twitter for $44 billion and rebranded it to X in July 2023.\"",
             "\"King Charles III was officially crowned at Westminster Abbey in May 2023.\"",
@@ -32256,7 +32256,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Social Media Corporate Records' is associated with 'X Rebrand'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'ICC T20 World Cup 2024'?",
+          "q": "What is a key description or fact regarding the concept of 'ICC T20 World Cup 2024'?",
           "options": [
             "\"Mohsin Naqvi oversaw major structural overhauls at the PCB ahead of ICC Champions Trophy.\"",
             "\"Australia won their sixth ODI World Cup title by defeating India in the 2023 final.\"",
@@ -32289,7 +32289,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'King Charles Coronation'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'King Charles III'?",
+          "q": "Which is correct about the concept of 'King Charles III'?",
           "options": [
             "It is defined as 'the official coronation ceremony of the UK monarch in May 2023'.",
             "It is documented in the manual 'Tennis Grand Slam Records'.",
@@ -32322,7 +32322,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Taylor Swift Eras Tour' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Taylor Swift TIME Person'?",
+          "q": "Which is correct about the concept of 'Taylor Swift TIME Person'?",
           "options": [
             "Its contrasting theme is 'sports administration and institutional governance'.",
             "It belongs to the domain of 'Sports History'.",
@@ -32377,7 +32377,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Neeraj Chopra Javelin' is the direct contrast to 'Arshad Nadeem Javelin'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"India defeated South Africa to win the ICC Men's T20 World Cup in June 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"India defeated South Africa to win the ICC Men's T20 World Cup in June 2024.\"?",
           "options": [
             "ICC World Cup 2023",
             "Mohsin Naqvi PCB",
@@ -32410,7 +32410,7 @@ window.QuizData_current_affairs = {
           "explanation": "'British Monarchy Chronicles' is associated with 'King Charles Coronation'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Spain Women World Cup'?",
+          "q": "What is a key description or fact regarding the concept of 'Spain Women World Cup'?",
           "options": [
             "\"Taylor Swift was named the 2023 TIME Person of the Year following her Eras Tour.\"",
             "\"Jannik Sinner won his maiden Grand Slam title at the 2024 Australian Open.\"",
@@ -32421,7 +32421,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'Spain Women World Cup' is: \"Spain's women's national team won the 2023 World Cup, defeating England in the final.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Oppenheimer Academy Awards'?",
+          "q": "What is a key description or fact regarding the concept of 'Oppenheimer Academy Awards'?",
           "options": [
             "\"King Charles III was officially crowned at Westminster Abbey in May 2023.\"",
             "\"Oppenheimer won Best Picture, Best Director, Best Actor, and four other Oscars in 2024.\"",
@@ -32520,7 +32520,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ICC World Cup 2023' is the direct contrast to 'ICC T20 World Cup 2024'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'popular music industry and media recognitions'?",
+          "q": "What is a major reference or manual focusing on 'popular music industry and media recognitions'?",
           "options": [
             "TIME Magazine Chronicles",
             "Academy Awards Chronicles",
@@ -32542,7 +32542,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Political Person of Year' is the standard contrast to 'Taylor Swift TIME Person'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Taylor Swift TIME Person'?",
+          "q": "What is a key description or fact regarding the concept of 'Taylor Swift TIME Person'?",
           "options": [
             "\"Taylor Swift was named the 2023 TIME Person of the Year following her Eras Tour.\"",
             "\"Jannik Sinner defeated Daniil Medvedev in the 2024 Australian Open final.\"",
@@ -32619,7 +32619,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Oppenheimer Academy Awards' is classified under the domain of 'Film Studies'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Film Studies'?",
+          "q": "What is situated within the study field of 'Film Studies'?",
           "options": [
             "Oppenheimer Sweep",
             "Spain Women World Cup",
@@ -32630,7 +32630,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Oppenheimer Sweep' falls under the discipline of 'Film Studies'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Social Media Corporate Records'?",
+          "q": "Which is correct about the book/guide 'Social Media Corporate Records'?",
           "options": [
             "It is written about 'T20 World Cup India'.",
             "Its primary focus is 'Film Studies'.",
@@ -32652,7 +32652,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Queen Elizabeth Jubilee' is the standard contrast to 'King Charles Coronation'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'PCB Chair Mohsin Naqvi'?",
+          "q": "Which is correct about the concept of 'PCB Chair Mohsin Naqvi'?",
           "options": [
             "It is defined as 'the administrative head appointed to manage the Pakistan Cricket Board'.",
             "It is documented in the manual 'Cricket Tournament Records'.",
@@ -32740,7 +32740,7 @@ window.QuizData_current_affairs = {
           "explanation": "'TIME Magazine Chronicles' contains documentation regarding 'popular music industry and media recognitions'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Global Rights'?",
+          "q": "What is situated within the study field of 'Global Rights'?",
           "options": [
             "Taylor Swift TIME Person",
             "PCB Chair Mohsin Naqvi",
@@ -32806,7 +32806,7 @@ window.QuizData_current_affairs = {
           "explanation": "'PCB Chair Mohsin Naqvi' is classified under the domain of 'Sports Policy'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Mohsin Naqvi assumed charge as Chairman of the Pakistan Cricket Board in early 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Mohsin Naqvi assumed charge as Chairman of the Pakistan Cricket Board in early 2024.\"?",
           "options": [
             "PCB Chair Mohsin Naqvi",
             "Oppenheimer Sweep",
@@ -32828,7 +32828,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'Twitter Rebrand X' is 'the replacement of the bird logo with an X to create an everything app'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Jannik Sinner'?",
+          "q": "What is a key description or fact regarding the concept of 'Jannik Sinner'?",
           "options": [
             "\"Australia won their sixth ODI World Cup title by defeating India in the 2023 final.\"",
             "\"Lionel Messi led Argentina to victory in the 2022 World Cup in Qatar.\"",
@@ -32839,7 +32839,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'Jannik Sinner' is: \"Jannik Sinner won his maiden Grand Slam title at the 2024 Australian Open.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Narges Mohammadi'?",
+          "q": "What is a key description or fact regarding the concept of 'Narges Mohammadi'?",
           "options": [
             "\"Narges Mohammadi won the 2023 Nobel Peace Prize for her fight against women's oppression.\"",
             "\"Taylor Swift was named the 2023 TIME Person of the Year following her Eras Tour.\"",
@@ -32861,7 +32861,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Neeraj Chopra Silver' is the direct contrast to 'Arshad Nadeem Gold Medal'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Jannik Sinner won his maiden Grand Slam title at the 2024 Australian Open.\"?",
+          "q": "What describes the key fact or historical quote: \"Jannik Sinner won his maiden Grand Slam title at the 2024 Australian Open.\"?",
           "options": [
             "Argentina World Cup 2022",
             "ICC World Cup 2023",
@@ -32938,7 +32938,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Narges Mohammadi Prize' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'monarchical transitions and state ceremonies'?",
+          "q": "What is a major reference or manual focusing on 'monarchical transitions and state ceremonies'?",
           "options": [
             "British Monarchy Chronicles",
             "Cricket Board Appointments",
@@ -32949,7 +32949,7 @@ window.QuizData_current_affairs = {
           "explanation": "'British Monarchy Chronicles' is known for its focus on 'monarchical transitions and state ceremonies'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Twitter Rebrand X'?",
+          "q": "Which is correct about the core idea of 'Twitter Rebrand X'?",
           "options": [
             "It is defined as 'the replacement of the bird logo with an X to create an everything app'.",
             "It is themed as 'popular culture influence and magazine honors'.",
@@ -32960,7 +32960,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Twitter Rebrand X' is defined as 'the replacement of the bird logo with an X to create an everything app'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Oppenheimer dominated the 96th Academy Awards, winning Best Picture and Best Director.\"?",
+          "q": "What describes the key fact or historical quote: \"Oppenheimer dominated the 96th Academy Awards, winning Best Picture and Best Director.\"?",
           "options": [
             "Oppenheimer Sweep",
             "Taylor Swift Eras Tour",
@@ -33081,7 +33081,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Spain Women World Cup'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Mohsin Naqvi oversaw major structural overhauls at the PCB ahead of ICC Champions Trophy.\"?",
+          "q": "What describes the key fact or historical quote: \"Mohsin Naqvi oversaw major structural overhauls at the PCB ahead of ICC Champions Trophy.\"?",
           "options": [
             "Narges Mohammadi Prize",
             "T20 World Cup India",
@@ -33103,7 +33103,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Narges Mohammadi'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Lionel Messi led Argentina to victory in the 2022 World Cup in Qatar.\"?",
+          "q": "What describes the key fact or historical quote: \"Lionel Messi led Argentina to victory in the 2022 World Cup in Qatar.\"?",
           "options": [
             "Argentina World Cup 2022",
             "T20 World Cup India",
@@ -33125,7 +33125,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Social Media Corporate Records' is the manual associated with 'social media restructuring and corporate rebranding'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Taylor Swift Eras Tour'?",
+          "q": "What is a key description or fact regarding the concept of 'Taylor Swift Eras Tour'?",
           "options": [
             "\"Taylor Swift's Eras Tour became the highest-grossing music tour in history.\"",
             "\"Oppenheimer won Best Picture, Best Director, Best Actor, and four other Oscars in 2024.\"",
@@ -33136,7 +33136,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'Taylor Swift Eras Tour' is: \"Taylor Swift's Eras Tour became the highest-grossing music tour in history.\"."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'FIFA Tournament Records'?",
+          "q": "Which is correct about the book/guide 'FIFA Tournament Records'?",
           "options": [
             "It is written about 'King Charles Coronation'.",
             "It addresses the theme of 'global football tournaments and team sports'.",
@@ -33158,7 +33158,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Mohsin Naqvi PCB' is built on the concept: 'the administrator appointed as Chairman PCB while serving as Interior Minister'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Spain's women's national team won the 2023 World Cup, defeating England in the final.\"?",
+          "q": "What describes the key fact or historical quote: \"Spain's women's national team won the 2023 World Cup, defeating England in the final.\"?",
           "options": [
             "Taylor Swift TIME Person",
             "Oppenheimer Academy Awards",
@@ -33213,7 +33213,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Jannik Sinner'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Mohsin Naqvi PCB'?",
+          "q": "Which is correct about the concept of 'Mohsin Naqvi PCB'?",
           "options": [
             "It belongs to the domain of 'Global Rights'.",
             "It is defined as 'the administrator appointed as Chairman PCB while serving as Interior Minister'.",
@@ -33334,7 +33334,7 @@ window.QuizData_current_affairs = {
           "explanation": "'TIME Magazine Chronicles' is associated with 'Taylor Swift TIME Person'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'T20 World Cup India'?",
+          "q": "What is a key description or fact regarding the concept of 'T20 World Cup India'?",
           "options": [
             "\"Mohsin Naqvi assumed charge as Chairman of the Pakistan Cricket Board in early 2024.\"",
             "\"India became T20 world champions in 2024, captained by Rohit Sharma.\"",
@@ -33367,7 +33367,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Political Person of Year' is the contrast to 'Taylor Swift TIME Person'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"India became T20 world champions in 2024, captained by Rohit Sharma.\"?",
+          "q": "What describes the key fact or historical quote: \"India became T20 world champions in 2024, captained by Rohit Sharma.\"?",
           "options": [
             "ICC World Cup 2023",
             "T20 World Cup India",
@@ -33411,7 +33411,7 @@ window.QuizData_current_affairs = {
           "explanation": "'FIFA Tournament Records' contains documentation regarding 'international soccer tournaments and women sports'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Taylor Swift Eras Tour'?",
+          "q": "Which is correct about the concept of 'Taylor Swift Eras Tour'?",
           "options": [
             "Its contrasting theme is 'popular culture influence and magazine honors'.",
             "It belongs to the domain of 'Global Rights'.",
@@ -33433,7 +33433,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Cricket Tournament Records' is associated with 'ICC T20 World Cup 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Cricket Tournament Records'?",
+          "q": "Which is correct about the book/guide 'Cricket Tournament Records'?",
           "options": [
             "It addresses the theme of 'international cricket tournaments and team sports'.",
             "It is contrasted with 'Zaka Ashraf PCB'.",
@@ -33477,7 +33477,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Arshad Nadeem Gold Medal' is built on the concept: 'the gold medal won in Javelin Throw with a record 92.97m throw'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'X Rebrand'?",
+          "q": "Which is correct about the concept of 'X Rebrand'?",
           "options": [
             "It is documented in the manual 'Cricket Tournament Records'.",
             "It is defined as 'the rebranding of Twitter following the Elon Musk acquisition'.",
@@ -33532,7 +33532,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ICC T20 World Cup 2024' deals with the theme of 'international cricket tournaments and team sports'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'women sports and soccer championships'?",
+          "q": "What is a major reference or manual focusing on 'women sports and soccer championships'?",
           "options": [
             "Academy Awards Chronicles",
             "FIFA Tournament Records",
@@ -33565,7 +33565,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Tennis Grand Slam Records' contains documentation regarding 'tennis championships and individual sports'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Oppenheimer Academy Awards'?",
+          "q": "Which is correct about the concept of 'Oppenheimer Academy Awards'?",
           "options": [
             "It is defined as 'the seven Academy Awards won by the biographical film about the atomic bomb'.",
             "It belongs to the domain of 'Modern History'.",
@@ -33631,7 +33631,7 @@ window.QuizData_current_affairs = {
           "explanation": "'FIFA Women's World Cup' deals with the theme of 'international soccer tournaments and women sports'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Jannik Sinner'?",
+          "q": "Which is correct about the core idea of 'Jannik Sinner'?",
           "options": [
             "It belongs to the field of 'Sports History'.",
             "It is documented in 'British Monarchy Chronicles'.",
@@ -33642,7 +33642,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Jannik Sinner' is defined as 'the Italian player winning the Australian Open men's singles in 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Oppenheimer Sweep'?",
+          "q": "Which is correct about the concept of 'Oppenheimer Sweep'?",
           "options": [
             "It is defined as 'the biographical film winning seven Oscars including Best Picture in 2024'.",
             "It belongs to the domain of 'Media Studies'.",
@@ -33664,7 +33664,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Twitter Rebrand X'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Sinner Australian Open'?",
+          "q": "What is a key description or fact regarding the concept of 'Sinner Australian Open'?",
           "options": [
             "\"Jannik Sinner defeated Daniil Medvedev in the 2024 Australian Open final.\"",
             "\"King Charles III was officially crowned at Westminster Abbey in May 2023.\"",
@@ -33675,7 +33675,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'Sinner Australian Open' is: \"Jannik Sinner defeated Daniil Medvedev in the 2024 Australian Open final.\"."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Narges Mohammadi won the 2023 Nobel Peace Prize for her fight against women's oppression.\"?",
+          "q": "What describes the key fact or historical quote: \"Narges Mohammadi won the 2023 Nobel Peace Prize for her fight against women's oppression.\"?",
           "options": [
             "Narges Mohammadi",
             "Mohsin Naqvi PCB",
@@ -33686,7 +33686,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'Narges Mohammadi'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Jannik Sinner'?",
+          "q": "Which is correct about the concept of 'Jannik Sinner'?",
           "options": [
             "Its contrasting theme is 'monarchical transitions and state ceremonies'.",
             "It is documented in the manual 'Cricket Tournament Records'.",
@@ -33697,7 +33697,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Jannik Sinner' is defined as 'the Italian player winning the Australian Open men's singles in 2024'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Arshad Nadeem Gold Medal'?",
+          "q": "What is a key description or fact regarding the concept of 'Arshad Nadeem Gold Medal'?",
           "options": [
             "\"Musk acquired Twitter for $44 billion and rebranded it to X in July 2023.\"",
             "\"Arshad Nadeem won Pakistan's first individual Olympic gold medal in Paris 2024.\"",
@@ -33785,7 +33785,7 @@ window.QuizData_current_affairs = {
           "explanation": "'T20 World Cup India' is the standard contrast to 'ODI World Cup Australia'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Cricket Board Appointments'?",
+          "q": "Which is correct about the book/guide 'Cricket Board Appointments'?",
           "options": [
             "It addresses the theme of 'sports administration and institutional management'.",
             "Its primary focus is 'Film Studies'.",
@@ -33862,7 +33862,7 @@ window.QuizData_current_affairs = {
           "explanation": "'T20 World Cup India' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'international soccer tournaments and women sports'?",
+          "q": "What is a major reference or manual focusing on 'international soccer tournaments and women sports'?",
           "options": [
             "Cricket Tournament Records",
             "Nobel Peace Prize Records",
@@ -33873,7 +33873,7 @@ window.QuizData_current_affairs = {
           "explanation": "'FIFA Tournament Records' is known for its focus on 'international soccer tournaments and women sports'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Arshad Nadeem Javelin'?",
+          "q": "What is a key description or fact regarding the concept of 'Arshad Nadeem Javelin'?",
           "options": [
             "\"Arshad Nadeem's gold-winning throw of 92.97m set a new Olympic record in Paris 2024.\"",
             "\"Australia won their sixth ODI World Cup title by defeating India in the 2023 final.\"",
@@ -33906,7 +33906,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'FIFA Women's World Cup'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'social media restructuring and corporate rebranding'?",
+          "q": "What is a major reference or manual focusing on 'social media restructuring and corporate rebranding'?",
           "options": [
             "Cricket Tournament Records",
             "Academy Awards Chronicles",
@@ -33928,7 +33928,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Cricket Board Appointments' is associated with 'PCB Chair Mohsin Naqvi'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Mohsin Naqvi PCB'?",
+          "q": "What is a key description or fact regarding the concept of 'Mohsin Naqvi PCB'?",
           "options": [
             "\"The 2023 Nobel Peace Prize was awarded to Iranian activist Narges Mohammadi.\"",
             "\"India became T20 world champions in 2024, captained by Rohit Sharma.\"",
@@ -33939,7 +33939,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'Mohsin Naqvi PCB' is: \"Mohsin Naqvi oversaw major structural overhauls at the PCB ahead of ICC Champions Trophy.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'X Rebrand'?",
+          "q": "What is a key description or fact regarding the concept of 'X Rebrand'?",
           "options": [
             "\"Oppenheimer dominated the 96th Academy Awards, winning Best Picture and Best Director.\"",
             "\"India defeated South Africa to win the ICC Men's T20 World Cup in June 2024.\"",
@@ -33972,7 +33972,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'X Rebrand' is 'the rebranding of Twitter following the Elon Musk acquisition'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'King Charles Coronation'?",
+          "q": "What is a key description or fact regarding the concept of 'King Charles Coronation'?",
           "options": [
             "\"The 2023 Nobel Peace Prize was awarded to Iranian activist Narges Mohammadi.\"",
             "\"Musk acquired Twitter for $44 billion and rebranded it to X in July 2023.\"",
@@ -34005,7 +34005,7 @@ window.QuizData_current_affairs = {
           "explanation": "'X Rebrand' is built on the concept: 'the rebranding of Twitter following the Elon Musk acquisition'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Jannik Sinner defeated Daniil Medvedev in the 2024 Australian Open final.\"?",
+          "q": "What describes the key fact or historical quote: \"Jannik Sinner defeated Daniil Medvedev in the 2024 Australian Open final.\"?",
           "options": [
             "PCB Chair Mohsin Naqvi",
             "King Charles III",
@@ -34016,7 +34016,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'Sinner Australian Open'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Oppenheimer Academy Awards'?",
+          "q": "Which is correct about the core idea of 'Oppenheimer Academy Awards'?",
           "options": [
             "It is defined as 'the seven Academy Awards won by the biographical film about the atomic bomb'.",
             "It is themed as 'monarchical ceremonies and royal leadership transitions'.",
@@ -34027,7 +34027,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Oppenheimer Academy Awards' is defined as 'the seven Academy Awards won by the biographical film about the atomic bomb'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'ICC T20 World Cup 2024'?",
+          "q": "Which is correct about the concept of 'ICC T20 World Cup 2024'?",
           "options": [
             "It belongs to the domain of 'Sports Policy'.",
             "Its contrasting theme is 'popular music industry and media recognitions'.",
@@ -34170,7 +34170,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'Narges Mohammadi' is 'the imprisoned Iranian human rights activist awarded the Peace Prize'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Narges Mohammadi Prize'?",
+          "q": "Which is correct about the core idea of 'Narges Mohammadi Prize'?",
           "options": [
             "It is defined as 'the Nobel Peace Prize awarded to the imprisoned campaigner for women rights'.",
             "It is themed as 'national sporting achievements and track and field records'.",
@@ -34203,7 +34203,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Zaka Ashraf PCB' is the direct contrast to 'Mohsin Naqvi PCB'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'King Charles III'?",
+          "q": "Which is correct about the core idea of 'King Charles III'?",
           "options": [
             "It belongs to the field of 'Sports History'.",
             "It is documented in 'Nobel Peace Prize Records'.",
@@ -34324,7 +34324,7 @@ window.QuizData_current_affairs = {
           "explanation": "'PCB Chair Mohsin Naqvi' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'PCB Chair Mohsin Naqvi'?",
+          "q": "Which is correct about the core idea of 'PCB Chair Mohsin Naqvi'?",
           "options": [
             "It belongs to the field of 'Sports History'.",
             "It is documented in 'Academy Awards Chronicles'.",
@@ -34335,7 +34335,7 @@ window.QuizData_current_affairs = {
           "explanation": "'PCB Chair Mohsin Naqvi' is defined as 'the administrative head appointed to manage the Pakistan Cricket Board'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"King Charles III was officially crowned at Westminster Abbey in May 2023.\"?",
+          "q": "What describes the key fact or historical quote: \"King Charles III was officially crowned at Westminster Abbey in May 2023.\"?",
           "options": [
             "Twitter Rebrand X",
             "Narges Mohammadi Prize",
@@ -34368,7 +34368,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Arshad Nadeem Gold Medal' is classified under the domain of 'Sports History'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'TIME Magazine Chronicles'?",
+          "q": "Which is correct about the book/guide 'TIME Magazine Chronicles'?",
           "options": [
             "It is contrasted with 'Djokovic AO Titles'.",
             "It is written about 'Oppenheimer Sweep'.",
@@ -34423,7 +34423,7 @@ window.QuizData_current_affairs = {
           "explanation": "'FIFA Tournament Records' is associated with 'FIFA World Cup Qatar'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'ODI World Cup Australia'?",
+          "q": "What is a key description or fact regarding the concept of 'ODI World Cup Australia'?",
           "options": [
             "\"King Charles III was officially crowned at Westminster Abbey in May 2023.\"",
             "\"Australia defeated undefeated India in the final of the 2023 ICC Cricket World Cup.\"",
@@ -34511,7 +34511,7 @@ window.QuizData_current_affairs = {
           "explanation": "'King Charles Coronation' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Olympic Games Records'?",
+          "q": "Which is correct about the book/guide 'Olympic Games Records'?",
           "options": [
             "It is written about 'Twitter Rebrand X'.",
             "It addresses the theme of 'national sporting achievements and track and field records'.",
@@ -34610,7 +34610,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'T20 World Cup India'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'human rights campaigns and global awards'?",
+          "q": "What is a major reference or manual focusing on 'human rights campaigns and global awards'?",
           "options": [
             "Cricket Tournament Records",
             "Olympic Games Records",
@@ -34621,7 +34621,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Nobel Peace Prize Records' is known for its focus on 'human rights campaigns and global awards'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Spain defeated England 1-0 in the final to win their first Women's World Cup in 2023.\"?",
+          "q": "What describes the key fact or historical quote: \"Spain defeated England 1-0 in the final to win their first Women's World Cup in 2023.\"?",
           "options": [
             "Narges Mohammadi Prize",
             "FIFA Women's World Cup",
@@ -34665,7 +34665,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Oppenheimer Academy Awards'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'British Monarchy Chronicles'?",
+          "q": "Which is correct about the book/guide 'British Monarchy Chronicles'?",
           "options": [
             "Its primary focus is 'Global Rights'.",
             "It is written about 'Sinner Australian Open'.",
@@ -34676,7 +34676,7 @@ window.QuizData_current_affairs = {
           "explanation": "'British Monarchy Chronicles' focuses on 'monarchical ceremonies and royal leadership transitions'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Arshad Nadeem Javelin'?",
+          "q": "Which is correct about the core idea of 'Arshad Nadeem Javelin'?",
           "options": [
             "It belongs to the field of 'Sports History'.",
             "It is documented in 'Nobel Peace Prize Records'.",
@@ -34698,7 +34698,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Arshad Nadeem Javelin' is built on the concept: 'the javelin thrower winning Pakistan's first Olympic gold in 40 years'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'FIFA World Cup Qatar'?",
+          "q": "Which is correct about the concept of 'FIFA World Cup Qatar'?",
           "options": [
             "It is defined as 'the historic football cup won by Argentina in December 2022'.",
             "Its contrasting theme is 'social media restructuring and corporate rebranding'.",
@@ -34731,7 +34731,7 @@ window.QuizData_current_affairs = {
           "explanation": "'FIFA World Cup Qatar' is the contrast to 'FIFA Women's World Cup'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Narges Mohammadi'?",
+          "q": "Which is correct about the core idea of 'Narges Mohammadi'?",
           "options": [
             "It belongs to the field of 'Sports Policy'.",
             "It is themed as 'sports administration and institutional management'.",
@@ -34753,7 +34753,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Narges Mohammadi' deals with the theme of 'human rights advocacy and peace prize honors'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"King Charles III succeeded Queen Elizabeth II, crowned alongside Queen Camilla in 2023.\"?",
+          "q": "What describes the key fact or historical quote: \"King Charles III succeeded Queen Elizabeth II, crowned alongside Queen Camilla in 2023.\"?",
           "options": [
             "Narges Mohammadi Prize",
             "PCB Chair Mohsin Naqvi",
@@ -34786,7 +34786,7 @@ window.QuizData_current_affairs = {
           "explanation": "'FIFA Women's World Cup' corresponds to this definition."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Oppenheimer won Best Picture, Best Director, Best Actor, and four other Oscars in 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Oppenheimer won Best Picture, Best Director, Best Actor, and four other Oscars in 2024.\"?",
           "options": [
             "Oppenheimer Academy Awards",
             "Taylor Swift TIME Person",
@@ -34797,7 +34797,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'Oppenheimer Academy Awards'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'national sporting achievements and track and field records'?",
+          "q": "What is a major reference or manual focusing on 'national sporting achievements and track and field records'?",
           "options": [
             "Olympic Games Records",
             "British Monarchy Chronicles",
@@ -34819,7 +34819,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Jannik Sinner' is classified under the domain of 'Sports History'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'T20 World Cup India'?",
+          "q": "Which is correct about the core idea of 'T20 World Cup India'?",
           "options": [
             "It is documented in 'Cricket Board Appointments'.",
             "It is themed as 'international cricket tournaments and team sports'.",
@@ -34852,7 +34852,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'FIFA World Cup Qatar'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Taylor Swift was named the 2023 TIME Person of the Year following her Eras Tour.\"?",
+          "q": "What describes the key fact or historical quote: \"Taylor Swift was named the 2023 TIME Person of the Year following her Eras Tour.\"?",
           "options": [
             "Taylor Swift TIME Person",
             "Mohsin Naqvi PCB",
@@ -34896,7 +34896,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ODI World Cup Australia' deals with the theme of 'international cricket tournaments and team sports'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Taylor Swift Eras Tour'?",
+          "q": "Which is correct about the core idea of 'Taylor Swift Eras Tour'?",
           "options": [
             "It is defined as 'the massive global stadium tour recognized for historic economic impact'.",
             "It belongs to the field of 'Film Studies'.",
@@ -34918,7 +34918,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Nobel Peace Prize Records' contains documentation regarding 'human rights advocacy and peace prize honors'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Academy Awards Chronicles'?",
+          "q": "Which is correct about the book/guide 'Academy Awards Chronicles'?",
           "options": [
             "It is contrasted with 'Beyonce Renaissance Tour'.",
             "It addresses the theme of 'cinema achievements and award sweeps'.",
@@ -35006,7 +35006,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Threads Platform Launch' is the direct contrast to 'Twitter Rebrand X'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'human rights advocacy and peace prize honors'?",
+          "q": "What is a major reference or manual focusing on 'human rights advocacy and peace prize honors'?",
           "options": [
             "TIME Magazine Chronicles",
             "Cricket Board Appointments",
@@ -35072,7 +35072,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Narges Mohammadi Prize' is classified under the domain of 'Global Rights'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Australia won their sixth ODI World Cup title by defeating India in the 2023 final.\"?",
+          "q": "What describes the key fact or historical quote: \"Australia won their sixth ODI World Cup title by defeating India in the 2023 final.\"?",
           "options": [
             "Arshad Nadeem Javelin",
             "ICC World Cup 2023",
@@ -35160,7 +35160,7 @@ window.QuizData_current_affairs = {
           "explanation": "'FIFA Tournament Records' contains documentation regarding 'women sports and soccer championships'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Argentina World Cup 2022'?",
+          "q": "What is a key description or fact regarding the concept of 'Argentina World Cup 2022'?",
           "options": [
             "\"Spain defeated England 1-0 in the final to win their first Women's World Cup in 2023.\"",
             "\"India became T20 world champions in 2024, captained by Rohit Sharma.\"",
@@ -35171,7 +35171,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'Argentina World Cup 2022' is: \"Lionel Messi led Argentina to victory in the 2022 World Cup in Qatar.\"."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Arshad Nadeem's gold-winning throw of 92.97m set a new Olympic record in Paris 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Arshad Nadeem's gold-winning throw of 92.97m set a new Olympic record in Paris 2024.\"?",
           "options": [
             "Arshad Nadeem Javelin",
             "Narges Mohammadi",
@@ -35215,7 +35215,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Sinner Australian Open' is built on the concept: 'Jannik Sinner's comeback from two sets down to win the singles title'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'FIFA World Cup Qatar'?",
+          "q": "What is a key description or fact regarding the concept of 'FIFA World Cup Qatar'?",
           "options": [
             "\"Argentina won the 2022 World Cup after defeating France in a penalty shootout.\"",
             "\"King Charles III succeeded Queen Elizabeth II, crowned alongside Queen Camilla in 2023.\"",
@@ -35248,7 +35248,7 @@ window.QuizData_current_affairs = {
           "explanation": "'FIFA Tournament Records' is the manual associated with 'international soccer tournaments and team sports'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Sinner Australian Open'?",
+          "q": "Which is correct about the core idea of 'Sinner Australian Open'?",
           "options": [
             "It belongs to the field of 'Sports Policy'.",
             "It is themed as 'cinema achievements and award sweeps'.",
@@ -35281,7 +35281,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Sinner Australian Open' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'King Charles Coronation'?",
+          "q": "Which is correct about the concept of 'King Charles Coronation'?",
           "options": [
             "It is defined as 'the Westminster Abbey coronation ceremony marking the start of the Carolean era'.",
             "Its contrasting theme is 'corporate rebranding and digital platforms restructuring'.",
@@ -35314,7 +35314,7 @@ window.QuizData_current_affairs = {
           "explanation": "The core idea of 'Oppenheimer Sweep' is 'the biographical film winning seven Oscars including Best Picture in 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'King Charles Coronation'?",
+          "q": "Which is correct about the core idea of 'King Charles Coronation'?",
           "options": [
             "It belongs to the field of 'Sports Policy'.",
             "It is defined as 'the Westminster Abbey coronation ceremony marking the start of the Carolean era'.",
@@ -35336,7 +35336,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Twitter Rebrand X'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Sports Policy'?",
+          "q": "What is situated within the study field of 'Sports Policy'?",
           "options": [
             "Oppenheimer Sweep",
             "PCB Chair Mohsin Naqvi",
@@ -35347,7 +35347,7 @@ window.QuizData_current_affairs = {
           "explanation": "'PCB Chair Mohsin Naqvi' falls under the discipline of 'Sports Policy'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Arshad Nadeem Gold Medal'?",
+          "q": "Which is correct about the core idea of 'Arshad Nadeem Gold Medal'?",
           "options": [
             "It belongs to the field of 'Media Studies'.",
             "It is themed as 'monarchical ceremonies and royal leadership transitions'.",
@@ -35358,7 +35358,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Arshad Nadeem Gold Medal' is defined as 'the gold medal won in Javelin Throw with a record 92.97m throw'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'corporate rebranding and digital platforms restructuring'?",
+          "q": "What is a major reference or manual focusing on 'corporate rebranding and digital platforms restructuring'?",
           "options": [
             "Cricket Board Appointments",
             "TIME Magazine Chronicles",
@@ -35402,7 +35402,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Political Person of Year' is the direct contrast to 'Taylor Swift TIME Person'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Arshad Nadeem Javelin'?",
+          "q": "Which is correct about the concept of 'Arshad Nadeem Javelin'?",
           "options": [
             "It is defined as 'the javelin thrower winning Pakistan's first Olympic gold in 40 years'.",
             "Its contrasting theme is 'human rights advocacy and peace prize honors'.",
@@ -35523,7 +35523,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Taylor Swift TIME Person'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Spain Women World Cup'?",
+          "q": "Which is correct about the core idea of 'Spain Women World Cup'?",
           "options": [
             "It is documented in 'Tennis Grand Slam Records'.",
             "It belongs to the field of 'Film Studies'.",
@@ -35556,7 +35556,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Social Media Corporate Records' is associated with 'X Rebrand'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'sports administration and institutional governance'?",
+          "q": "What is a major reference or manual focusing on 'sports administration and institutional governance'?",
           "options": [
             "Tennis Grand Slam Records",
             "Cricket Tournament Records",
@@ -35567,7 +35567,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Cricket Board Appointments' is known for its focus on 'sports administration and institutional governance'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Narges Mohammadi Prize'?",
+          "q": "What is a key description or fact regarding the concept of 'Narges Mohammadi Prize'?",
           "options": [
             "\"The 2023 Nobel Peace Prize was awarded to Iranian activist Narges Mohammadi.\"",
             "\"Mohsin Naqvi assumed charge as Chairman of the Pakistan Cricket Board in early 2024.\"",
@@ -35644,7 +35644,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Olympic Games Records' is the manual associated with 'national sporting achievements and track and field records'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'film industry awards and cinematographic achievements'?",
+          "q": "What is a major reference or manual focusing on 'film industry awards and cinematographic achievements'?",
           "options": [
             "British Monarchy Chronicles",
             "TIME Magazine Chronicles",
@@ -35655,7 +35655,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Academy Awards Chronicles' is known for its focus on 'film industry awards and cinematographic achievements'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'track and field championships and national athletic records'?",
+          "q": "What is a major reference or manual focusing on 'track and field championships and national athletic records'?",
           "options": [
             "Olympic Games Records",
             "Cricket Tournament Records",
@@ -35677,7 +35677,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ICC World Cup 2023' is the contrast to 'ICC T20 World Cup 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'T20 World Cup India'?",
+          "q": "Which is correct about the concept of 'T20 World Cup India'?",
           "options": [
             "It is documented in the manual 'TIME Magazine Chronicles'.",
             "Its contrasting theme is 'sports administration and institutional management'.",
@@ -35710,7 +35710,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Tennis Grand Slam Records' contains documentation regarding 'tennis tournaments and individual sports'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Australia defeated undefeated India in the final of the 2023 ICC Cricket World Cup.\"?",
+          "q": "What describes the key fact or historical quote: \"Australia defeated undefeated India in the final of the 2023 ICC Cricket World Cup.\"?",
           "options": [
             "King Charles III",
             "ODI World Cup Australia",
@@ -35732,7 +35732,7 @@ window.QuizData_current_affairs = {
           "explanation": "'FIFA Tournament Records' is associated with 'Spain Women World Cup'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'tennis championships and individual sports'?",
+          "q": "What is a major reference or manual focusing on 'tennis championships and individual sports'?",
           "options": [
             "British Monarchy Chronicles",
             "Tennis Grand Slam Records",
@@ -35743,7 +35743,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Tennis Grand Slam Records' is known for its focus on 'tennis championships and individual sports'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'ICC World Cup 2023'?",
+          "q": "Which is correct about the concept of 'ICC World Cup 2023'?",
           "options": [
             "It belongs to the domain of 'Sports History'.",
             "It is defined as 'the 50-over cricket tournament won by Australia in India'.",
@@ -35798,7 +35798,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Oppenheimer Academy Awards'."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Tennis Grand Slam Records'?",
+          "q": "Which is correct about the book/guide 'Tennis Grand Slam Records'?",
           "options": [
             "It addresses the theme of 'tennis tournaments and individual sports'.",
             "Its primary focus is 'Modern History'.",
@@ -35831,7 +35831,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Nobel Peace Prize Records' is the manual associated with 'human rights campaigns and global awards'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'sports administration and institutional management'?",
+          "q": "What is a major reference or manual focusing on 'sports administration and institutional management'?",
           "options": [
             "Cricket Tournament Records",
             "British Monarchy Chronicles",
@@ -35908,7 +35908,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Taylor Swift Eras Tour' is classified under the domain of 'Media Studies'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'monarchical ceremonies and royal leadership transitions'?",
+          "q": "What is a major reference or manual focusing on 'monarchical ceremonies and royal leadership transitions'?",
           "options": [
             "Tennis Grand Slam Records",
             "Nobel Peace Prize Records",
@@ -35952,7 +35952,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Cricket Tournament Records' is associated with 'ICC World Cup 2023'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'cinema achievements and award sweeps'?",
+          "q": "What is a major reference or manual focusing on 'cinema achievements and award sweeps'?",
           "options": [
             "TIME Magazine Chronicles",
             "British Monarchy Chronicles",
@@ -35963,7 +35963,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Academy Awards Chronicles' is known for its focus on 'cinema achievements and award sweeps'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"The 2023 Nobel Peace Prize was awarded to Iranian activist Narges Mohammadi.\"?",
+          "q": "What describes the key fact or historical quote: \"The 2023 Nobel Peace Prize was awarded to Iranian activist Narges Mohammadi.\"?",
           "options": [
             "Arshad Nadeem Gold Medal",
             "ICC World Cup 2023",
@@ -36018,7 +36018,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'FIFA World Cup Qatar'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Arshad Nadeem Gold Medal'?",
+          "q": "Which is correct about the concept of 'Arshad Nadeem Gold Medal'?",
           "options": [
             "It is defined as 'the gold medal won in Javelin Throw with a record 92.97m throw'.",
             "Its contrasting theme is 'international soccer tournaments and women sports'.",
@@ -36062,7 +36062,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Poor Things Awards' is the contrast to 'Oppenheimer Academy Awards'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Arshad Nadeem won Pakistan's first individual Olympic gold medal in Paris 2024.\"?",
+          "q": "What describes the key fact or historical quote: \"Arshad Nadeem won Pakistan's first individual Olympic gold medal in Paris 2024.\"?",
           "options": [
             "Twitter Rebrand X",
             "King Charles III",
@@ -36073,7 +36073,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'Arshad Nadeem Gold Medal'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Media Studies'?",
+          "q": "What is situated within the study field of 'Media Studies'?",
           "options": [
             "Taylor Swift TIME Person",
             "Mohsin Naqvi PCB",
@@ -36117,7 +36117,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Arshad Nadeem Javelin'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Oppenheimer Sweep'?",
+          "q": "What is a key description or fact regarding the concept of 'Oppenheimer Sweep'?",
           "options": [
             "\"Taylor Swift's Eras Tour became the highest-grossing music tour in history.\"",
             "\"Oppenheimer dominated the 96th Academy Awards, winning Best Picture and Best Director.\"",
@@ -36128,7 +36128,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'Oppenheimer Sweep' is: \"Oppenheimer dominated the 96th Academy Awards, winning Best Picture and Best Director.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'PCB Chair Mohsin Naqvi'?",
+          "q": "What is a key description or fact regarding the concept of 'PCB Chair Mohsin Naqvi'?",
           "options": [
             "\"Mohsin Naqvi assumed charge as Chairman of the Pakistan Cricket Board in early 2024.\"",
             "\"King Charles III was officially crowned at Westminster Abbey in May 2023.\"",
@@ -36139,7 +36139,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'PCB Chair Mohsin Naqvi' is: \"Mohsin Naqvi assumed charge as Chairman of the Pakistan Cricket Board in early 2024.\"."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Sports History'?",
+          "q": "What is situated within the study field of 'Sports History'?",
           "options": [
             "Twitter Rebrand X",
             "FIFA Women's World Cup",
@@ -36150,7 +36150,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Arshad Nadeem Gold Medal' falls under the discipline of 'Sports History'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Argentina World Cup 2022'?",
+          "q": "Which is correct about the core idea of 'Argentina World Cup 2022'?",
           "options": [
             "It is themed as 'international cricket tournaments and team sports'.",
             "It belongs to the field of 'Sports History'.",
@@ -36172,7 +36172,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Oppenheimer Sweep' is built on the concept: 'the biographical film winning seven Oscars including Best Picture in 2024'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'ODI World Cup Australia'?",
+          "q": "Which is correct about the core idea of 'ODI World Cup Australia'?",
           "options": [
             "It is defined as 'Australia's ODI World Cup victory in 2023 hosted by India'.",
             "It is documented in 'Tennis Grand Slam Records'.",
@@ -36216,7 +36216,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ICC World Cup 2023' is the contrast to 'T20 World Cup India'."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'FIFA Women's World Cup'?",
+          "q": "What is a key description or fact regarding the concept of 'FIFA Women's World Cup'?",
           "options": [
             "\"Australia defeated undefeated India in the final of the 2023 ICC Cricket World Cup.\"",
             "\"The 2023 Nobel Peace Prize was awarded to Iranian activist Narges Mohammadi.\"",
@@ -36249,7 +36249,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Narges Mohammadi'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Taylor Swift TIME Person'?",
+          "q": "Which is correct about the core idea of 'Taylor Swift TIME Person'?",
           "options": [
             "It is themed as 'tennis championships and individual sports'.",
             "It is defined as 'the pop star named TIME Person of the Year for cultural impact'.",
@@ -36315,7 +36315,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Academy Awards Chronicles' is the manual associated with 'cinema achievements and award sweeps'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Taylor Swift's Eras Tour became the highest-grossing music tour in history.\"?",
+          "q": "What describes the key fact or historical quote: \"Taylor Swift's Eras Tour became the highest-grossing music tour in history.\"?",
           "options": [
             "Taylor Swift Eras Tour",
             "Taylor Swift TIME Person",
@@ -36337,7 +36337,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Tennis Grand Slam Records' is the manual associated with 'tennis championships and individual sports'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Narges Mohammadi Prize'?",
+          "q": "Which is correct about the concept of 'Narges Mohammadi Prize'?",
           "options": [
             "Its contrasting theme is 'sports administration and institutional management'.",
             "It is defined as 'the Nobel Peace Prize awarded to the imprisoned campaigner for women rights'.",
@@ -36359,7 +36359,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ICC World Cup 2023' is the standard contrast to 'ICC T20 World Cup 2024'."
         },
         {
-          "q": "Which of the following is situated within the study field of 'Modern History'?",
+          "q": "What is situated within the study field of 'Modern History'?",
           "options": [
             "Twitter Rebrand X",
             "King Charles III",
@@ -36370,7 +36370,7 @@ window.QuizData_current_affairs = {
           "explanation": "'King Charles III' falls under the discipline of 'Modern History'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'global football tournaments and team sports'?",
+          "q": "What is a major reference or manual focusing on 'global football tournaments and team sports'?",
           "options": [
             "British Monarchy Chronicles",
             "FIFA Tournament Records",
@@ -36447,7 +36447,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'ICC World Cup 2023'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'ODI World Cup Australia'?",
+          "q": "Which is correct about the concept of 'ODI World Cup Australia'?",
           "options": [
             "It is documented in the manual 'British Monarchy Chronicles'.",
             "It is defined as 'Australia's ODI World Cup victory in 2023 hosted by India'.",
@@ -36524,7 +36524,7 @@ window.QuizData_current_affairs = {
           "explanation": "This fact corresponds to 'Narges Mohammadi Prize'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'international soccer tournaments and team sports'?",
+          "q": "What is a major reference or manual focusing on 'international soccer tournaments and team sports'?",
           "options": [
             "Cricket Tournament Records",
             "FIFA Tournament Records",
@@ -36546,7 +36546,7 @@ window.QuizData_current_affairs = {
           "explanation": "'FIFA Tournament Records' contains documentation regarding 'global football tournaments and team sports'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Argentina World Cup 2022'?",
+          "q": "Which is correct about the concept of 'Argentina World Cup 2022'?",
           "options": [
             "It is documented in the manual 'FIFA Tournament Records'.",
             "It belongs to the domain of 'Sports History'.",
@@ -36656,7 +36656,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Mohsin Naqvi PCB'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Elon Musk officially rebranded Twitter as 'X' in July 2023, changing the iconic logo.\"?",
+          "q": "What describes the key fact or historical quote: \"Elon Musk officially rebranded Twitter as 'X' in July 2023, changing the iconic logo.\"?",
           "options": [
             "X Rebrand",
             "Oppenheimer Sweep",
@@ -36667,7 +36667,7 @@ window.QuizData_current_affairs = {
           "explanation": "The quote matches 'X Rebrand'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Twitter Rebrand X'?",
+          "q": "Which is correct about the concept of 'Twitter Rebrand X'?",
           "options": [
             "It is documented in the manual 'Cricket Board Appointments'.",
             "Its contrasting theme is 'monarchical transitions and state ceremonies'.",
@@ -36744,7 +36744,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Taylor Swift Eras Tour' deals with the theme of 'popular music industry and media recognitions'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'FIFA Women's World Cup'?",
+          "q": "Which is correct about the concept of 'FIFA Women's World Cup'?",
           "options": [
             "It is defined as 'the women's soccer tournament won by Spain in Australia/NZ in 2023'.",
             "It belongs to the domain of 'Sports History'.",
@@ -36777,7 +36777,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'ODI World Cup Australia'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Spain Women World Cup'?",
+          "q": "Which is correct about the concept of 'Spain Women World Cup'?",
           "options": [
             "It is defined as 'Spain's first FIFA Women's World Cup victory in Australia/NZ in 2023'.",
             "It belongs to the domain of 'Media Studies'.",
@@ -36821,7 +36821,7 @@ window.QuizData_current_affairs = {
           "explanation": "'FIFA World Cup 2026' is the standard contrast to 'FIFA World Cup Qatar'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Mohsin Naqvi PCB'?",
+          "q": "Which is correct about the core idea of 'Mohsin Naqvi PCB'?",
           "options": [
             "It is defined as 'the administrator appointed as Chairman PCB while serving as Interior Minister'.",
             "It belongs to the field of 'Sports History'.",
@@ -36854,7 +36854,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Oppenheimer Academy Awards' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'international cricket tournaments and team sports'?",
+          "q": "What is a major reference or manual focusing on 'international cricket tournaments and team sports'?",
           "options": [
             "TIME Magazine Chronicles",
             "Cricket Tournament Records",
@@ -36865,7 +36865,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Cricket Tournament Records' is known for its focus on 'international cricket tournaments and team sports'."
         },
         {
-          "q": "Which of the following is correct regarding the core idea of 'Oppenheimer Sweep'?",
+          "q": "Which is correct about the core idea of 'Oppenheimer Sweep'?",
           "options": [
             "It belongs to the field of 'Modern History'.",
             "It is themed as 'popular music industry and media recognitions'.",
@@ -36909,7 +36909,7 @@ window.QuizData_current_affairs = {
           "explanation": "This statement represents 'Spain Women World Cup'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Musk acquired Twitter for $44 billion and rebranded it to X in July 2023.\"?",
+          "q": "What describes the key fact or historical quote: \"Musk acquired Twitter for $44 billion and rebranded it to X in July 2023.\"?",
           "options": [
             "Twitter Rebrand X",
             "PCB Chair Mohsin Naqvi",
@@ -36931,7 +36931,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Queen Elizabeth II Reign' is the standard contrast to 'King Charles III'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'tennis tournaments and individual sports'?",
+          "q": "What is a major reference or manual focusing on 'tennis tournaments and individual sports'?",
           "options": [
             "FIFA Tournament Records",
             "Tennis Grand Slam Records",
@@ -36964,7 +36964,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Twitter Rebrand X' is built on the concept: 'the replacement of the bird logo with an X to create an everything app'."
         },
         {
-          "q": "Which of the following describes the key fact or historical quote: \"Argentina won the 2022 World Cup after defeating France in a penalty shootout.\"?",
+          "q": "What describes the key fact or historical quote: \"Argentina won the 2022 World Cup after defeating France in a penalty shootout.\"?",
           "options": [
             "King Charles Coronation",
             "X Rebrand",
@@ -36986,7 +36986,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Barbie Movie Awards' is the contrast to 'Oppenheimer Sweep'."
         },
         {
-          "q": "Which of the following is a major reference or manual focusing on 'popular culture influence and magazine honors'?",
+          "q": "What is a major reference or manual focusing on 'popular culture influence and magazine honors'?",
           "options": [
             "Cricket Board Appointments",
             "Tennis Grand Slam Records",
@@ -36997,7 +36997,7 @@ window.QuizData_current_affairs = {
           "explanation": "'TIME Magazine Chronicles' is known for its focus on 'popular culture influence and magazine honors'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Sinner Australian Open'?",
+          "q": "Which is correct about the concept of 'Sinner Australian Open'?",
           "options": [
             "Its contrasting theme is 'monarchical ceremonies and royal leadership transitions'.",
             "It is documented in the manual 'Cricket Board Appointments'.",
@@ -37030,7 +37030,7 @@ window.QuizData_current_affairs = {
           "explanation": "'ODI World Cup Australia' corresponds to this definition."
         },
         {
-          "q": "Which of the following is correct regarding the book/guide 'Nobel Peace Prize Records'?",
+          "q": "Which is correct about the book/guide 'Nobel Peace Prize Records'?",
           "options": [
             "It addresses the theme of 'human rights advocacy and peace prize honors'.",
             "It is contrasted with 'Ramiz Raja Chair'.",
@@ -37074,7 +37074,7 @@ window.QuizData_current_affairs = {
           "explanation": "'Oppenheimer Academy Awards' deals with the theme of 'film industry awards and cinematographic achievements'."
         },
         {
-          "q": "Which of the following is correct regarding the concept of 'Narges Mohammadi'?",
+          "q": "Which is correct about the concept of 'Narges Mohammadi'?",
           "options": [
             "Its contrasting theme is 'popular culture influence and magazine honors'.",
             "It belongs to the domain of 'Sports Policy'.",
@@ -37118,7 +37118,7 @@ window.QuizData_current_affairs = {
           "explanation": "'King Charles III' corresponds to this definition."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'ICC World Cup 2023'?",
+          "q": "What is a key description or fact regarding the concept of 'ICC World Cup 2023'?",
           "options": [
             "\"Arshad Nadeem won Pakistan's first individual Olympic gold medal in Paris 2024.\"",
             "\"The 2023 Nobel Peace Prize was awarded to Iranian activist Narges Mohammadi.\"",
@@ -37129,7 +37129,7 @@ window.QuizData_current_affairs = {
           "explanation": "The verified statement for 'ICC World Cup 2023' is: \"Australia won their sixth ODI World Cup title by defeating India in the 2023 final.\"."
         },
         {
-          "q": "Which of the following is a key description or fact regarding the concept of 'Twitter Rebrand X'?",
+          "q": "What is a key description or fact regarding the concept of 'Twitter Rebrand X'?",
           "options": [
             "\"King Charles III succeeded Queen Elizabeth II, crowned alongside Queen Camilla in 2023.\"",
             "\"Musk acquired Twitter for $44 billion and rebranded it to X in July 2023.\"",

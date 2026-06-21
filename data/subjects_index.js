@@ -4,7 +4,7 @@ window.subjectsIndex = [
     "icon": "fa-mosque",
     "slug": "islamic-studies",
     "topicCount": 25,
-    "mcqCount": 14037,
+    "mcqCount": 13984,
     "subcategories": [
       {
         "category": "Al-Quran"
@@ -145,7 +145,7 @@ window.subjectsIndex = [
     "icon": "fa-calculator",
     "slug": "mathematics",
     "topicCount": 10,
-    "mcqCount": 6899,
+    "mcqCount": 6870,
     "subcategories": [
       {
         "category": "Arithmetic"
@@ -592,7 +592,7 @@ window.subjectsIndex = [
     "icon": "fa-hippo",
     "slug": "zoology",
     "topicCount": 20,
-    "mcqCount": 12000,
+    "mcqCount": 11879,
     "subcategories": [
       {
         "category": "Zoology (حیاتیات - جانوروں کا علم)"
@@ -661,7 +661,7 @@ window.subjectsIndex = [
     "icon": "fa-vial",
     "slug": "chemistry",
     "topicCount": 20,
-    "mcqCount": 12000,
+    "mcqCount": 11834,
     "subcategories": [
       {
         "category": "Physical Chemistry (طبیعی کیمیا)"
@@ -730,7 +730,7 @@ window.subjectsIndex = [
     "icon": "fa-atom",
     "slug": "physics",
     "topicCount": 20,
-    "mcqCount": 14829,
+    "mcqCount": 14623,
     "subcategories": [
       {
         "category": "Measurements & Units (پیمائش اور اکائیاں)"
@@ -799,7 +799,7 @@ window.subjectsIndex = [
     "icon": "fa-file-lines",
     "slug": "past-papers",
     "topicCount": 15,
-    "mcqCount": 862,
+    "mcqCount": 533,
     "subcategories": [
       {
         "category": "General Past Papers",
@@ -1129,7 +1129,7 @@ window.subjectsIndex = [
     "icon": "fa-money-bill-trend-up",
     "slug": "finance",
     "topicCount": 12,
-    "mcqCount": 6000,
+    "mcqCount": 3934,
     "subcategories": [
       {
         "category": "Corporate Finance"
@@ -1174,7 +1174,7 @@ window.subjectsIndex = [
     "icon": "fa-chart-line",
     "slug": "marketing",
     "topicCount": 12,
-    "mcqCount": 6000,
+    "mcqCount": 2230,
     "subcategories": [
       {
         "category": "Digital Marketing"
@@ -1219,7 +1219,7 @@ window.subjectsIndex = [
     "icon": "fa-users-gear",
     "slug": "human-resource-management",
     "topicCount": 12,
-    "mcqCount": 6000,
+    "mcqCount": 3444,
     "subcategories": [
       {
         "category": "Recruitment and Selection"
@@ -1264,7 +1264,7 @@ window.subjectsIndex = [
     "icon": "fa-file-invoice-dollar",
     "slug": "accounting",
     "topicCount": 12,
-    "mcqCount": 6114,
+    "mcqCount": 3474,
     "subcategories": [
       {
         "category": "Financial Accounting"
@@ -1309,7 +1309,7 @@ window.subjectsIndex = [
     "icon": "fa-clipboard-check",
     "slug": "auditing",
     "topicCount": 13,
-    "mcqCount": 7240,
+    "mcqCount": 4397,
     "subcategories": [
       {
         "category": "Internal Audit"
@@ -1357,7 +1357,7 @@ window.subjectsIndex = [
     "icon": "fa-chalkboard-user",
     "slug": "pedagogy",
     "topicCount": 13,
-    "mcqCount": 5126,
+    "mcqCount": 4838,
     "subcategories": [
       {
         "category": "Teaching Methods & Strategies"
@@ -1405,7 +1405,7 @@ window.subjectsIndex = [
     "icon": "fa-seedling",
     "slug": "agriculture",
     "topicCount": 20,
-    "mcqCount": 12640,
+    "mcqCount": 12429,
     "subcategories": [
       {
         "category": "Agronomy (زرعی سائنس)"
@@ -1543,7 +1543,7 @@ window.subjectsIndex = [
     "icon": "fa-gavel",
     "slug": "judiciary-and-law",
     "topicCount": 15,
-    "mcqCount": 477,
+    "mcqCount": 476,
     "subcategories": [
       {
         "category": "Civil Procedure Code (CPC)"
@@ -1597,7 +1597,7 @@ window.subjectsIndex = [
     "icon": "fa-scale-balanced",
     "slug": "international-laws",
     "topicCount": 15,
-    "mcqCount": 478,
+    "mcqCount": 476,
     "subcategories": [
       {
         "category": "Nature and Sources of Law"
@@ -1705,7 +1705,7 @@ window.subjectsIndex = [
     "icon": "fa-chart-bar",
     "slug": "stats",
     "topicCount": 15,
-    "mcqCount": 480,
+    "mcqCount": 478,
     "subcategories": [
       {
         "category": "Introduction and Data Collection"
@@ -2029,7 +2029,7 @@ window.subjectsIndex = [
     "icon": "fa-building-columns",
     "slug": "political-science",
     "topicCount": 10,
-    "mcqCount": 3000,
+    "mcqCount": 2956,
     "subcategories": [
       {
         "category": "Political Theory & Philosophers"
@@ -2068,7 +2068,7 @@ window.subjectsIndex = [
     "icon": "fa-coins",
     "slug": "economics",
     "topicCount": 10,
-    "mcqCount": 3000,
+    "mcqCount": 2865,
     "subcategories": [
       {
         "category": "Introduction to Economics & Basic Concepts"
@@ -2107,7 +2107,7 @@ window.subjectsIndex = [
     "icon": "fa-user-secret",
     "slug": "criminology",
     "topicCount": 10,
-    "mcqCount": 5002,
+    "mcqCount": 4854,
     "subcategories": [
       {
         "category": "Introduction to Criminology & Crime Concepts"
@@ -2146,7 +2146,7 @@ window.subjectsIndex = [
     "icon": "fa-tasks",
     "slug": "public-administration",
     "topicCount": 10,
-    "mcqCount": 5000,
+    "mcqCount": 4822,
     "subcategories": [
       {
         "category": "Introduction & Evolution of Public Administration"
@@ -2185,7 +2185,7 @@ window.subjectsIndex = [
     "icon": "fa-seedling",
     "slug": "environmental-science",
     "topicCount": 10,
-    "mcqCount": 5000,
+    "mcqCount": 4943,
     "subcategories": [
       {
         "category": "Introduction to Environmental Science & Ecosystems"
@@ -2224,7 +2224,7 @@ window.subjectsIndex = [
     "icon": "fa-venus-mars",
     "slug": "gender-studies",
     "topicCount": 10,
-    "mcqCount": 5000,
+    "mcqCount": 4958,
     "subcategories": [
       {
         "category": "Introduction to Gender Studies & Basic Concepts"
@@ -2263,7 +2263,7 @@ window.subjectsIndex = [
     "icon": "fa-brain",
     "slug": "analytical-reasoning",
     "topicCount": 12,
-    "mcqCount": 4800,
+    "mcqCount": 4744,
     "subcategories": [
       {
         "category": "Analytical Reasoning - Linear Ordering"
@@ -2308,7 +2308,7 @@ window.subjectsIndex = [
     "icon": "fa-newspaper",
     "slug": "journalism-mass-communication",
     "topicCount": 12,
-    "mcqCount": 4800,
+    "mcqCount": 4769,
     "subcategories": [
       {
         "category": "Introduction to Mass Communication & Theories"
