@@ -1797,8 +1797,8 @@ window.subjectsIndex = [
     "name": "International History",
     "icon": "fa-landmark",
     "slug": "international-history",
-    "topicCount": 15,
-    "mcqCount": 480,
+    "topicCount": 20,
+    "mcqCount": 10480,
     "subcategories": [
       {
         "category": "World War I"
@@ -1844,6 +1844,21 @@ window.subjectsIndex = [
       },
       {
         "category": "21st Century Global Issues"
+      },
+      {
+        "category": "French Revolution & Napoleonic Era"
+      },
+      {
+        "category": "Industrial Revolution & Capitalism"
+      },
+      {
+        "category": "Unification of Italy & Germany"
+      },
+      {
+        "category": "Fascism, Nazism & Rise of Dictators"
+      },
+      {
+        "category": "American Revolution & Civil War"
       }
     ]
   },
