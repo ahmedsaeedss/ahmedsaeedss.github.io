@@ -1863,11 +1863,11 @@ window.subjectsIndex = [
     ]
   },
   {
-    "name": "Stats",
+    "name": "Statistics",
     "icon": "fa-chart-bar",
     "slug": "stats",
-    "topicCount": 15,
-    "mcqCount": 478,
+    "topicCount": 20,
+    "mcqCount": 10478,
     "subcategories": [
       {
         "category": "Introduction and Data Collection"
@@ -1913,6 +1913,21 @@ window.subjectsIndex = [
       },
       {
         "category": "Experimental Design"
+      },
+      {
+        "category": "Statistical Quality Control"
+      },
+      {
+        "category": "Multivariate Analysis"
+      },
+      {
+        "category": "Stochastic Processes & Queuing Theory"
+      },
+      {
+        "category": "Bayesian Statistics & Inference"
+      },
+      {
+        "category": "Survey Methodology & Research Design"
       }
     ]
   },
