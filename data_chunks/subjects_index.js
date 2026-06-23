@@ -2043,8 +2043,8 @@ window.subjectsIndex = [
     "name": "Mechanical Engineering",
     "icon": "fa-gears",
     "slug": "mechanical-engineering",
-    "topicCount": 15,
-    "mcqCount": 150,
+    "topicCount": 17,
+    "mcqCount": 8650,
     "subcategories": [
       {
         "category": "Engineering Thermodynamics"
@@ -2090,6 +2090,12 @@ window.subjectsIndex = [
       },
       {
         "category": "Power Plant Engineering"
+      },
+      {
+        "category": "Engineering Mechanics"
+      },
+      {
+        "category": "Automobile Engineering"
       }
     ]
   },
