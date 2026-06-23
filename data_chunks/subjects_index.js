@@ -1659,8 +1659,8 @@ window.subjectsIndex = [
     "name": "Judiciary And Law",
     "icon": "fa-gavel",
     "slug": "judiciary-and-law",
-    "topicCount": 15,
-    "mcqCount": 476,
+    "topicCount": 20,
+    "mcqCount": 10476,
     "subcategories": [
       {
         "category": "Civil Procedure Code (CPC)"
@@ -1706,6 +1706,21 @@ window.subjectsIndex = [
       },
       {
         "category": "Legal Maxims and Terms"
+      },
+      {
+        "category": "Land Revenue Act & Local Laws"
+      },
+      {
+        "category": "Interpretation of Statutes"
+      },
+      {
+        "category": "Consumer Protection Laws"
+      },
+      {
+        "category": "Environmental & Labour Laws"
+      },
+      {
+        "category": "Anti-Corruption & Service Laws"
       }
     ]
   },
