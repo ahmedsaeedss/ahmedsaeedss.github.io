@@ -2104,7 +2104,7 @@ window.subjectsIndex = [
     "icon": "fa-flask-vial",
     "slug": "chemical-engineering",
     "topicCount": 15,
-    "mcqCount": 150,
+    "mcqCount": 7650,
     "subcategories": [
       {
         "category": "Process Calculations"
