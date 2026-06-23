@@ -2157,8 +2157,8 @@ window.subjectsIndex = [
     "name": "Software Engineering",
     "icon": "fa-laptop-code",
     "slug": "software-engineering",
-    "topicCount": 15,
-    "mcqCount": 150,
+    "topicCount": 20,
+    "mcqCount": 10150,
     "subcategories": [
       {
         "category": "SDLC & Process Models"
@@ -2204,6 +2204,21 @@ window.subjectsIndex = [
       },
       {
         "category": "Real-time & Embedded Systems"
+      },
+      {
+        "category": "Software Quality Assurance & Standards (CMMI, ISO)"
+      },
+      {
+        "category": "Software Design Patterns"
+      },
+      {
+        "category": "DevOps & CI/CD Pipelines"
+      },
+      {
+        "category": "Cloud-Native & Microservices Architecture"
+      },
+      {
+        "category": "Software Security & Secure Coding"
       }
     ]
   },
