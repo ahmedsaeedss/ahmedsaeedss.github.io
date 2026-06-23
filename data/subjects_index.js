@@ -2158,7 +2158,7 @@ window.subjectsIndex = [
     "icon": "fa-laptop-code",
     "slug": "software-engineering",
     "topicCount": 20,
-    "mcqCount": 10150,
+    "mcqCount": 20150,
     "subcategories": [
       {
         "category": "SDLC & Process Models"
@@ -2226,14 +2226,20 @@ window.subjectsIndex = [
     "name": "Political Science",
     "icon": "fa-building-columns",
     "slug": "political-science",
-    "topicCount": 10,
-    "mcqCount": 2956,
+    "topicCount": 15,
+    "mcqCount": 10424,
     "subcategories": [
       {
-        "category": "Political Theory & Philosophers"
+        "category": "Political Theory & Western Political Thought"
       },
       {
-        "category": "State & Sovereignty"
+        "category": "Muslim Political Thought & Institutions"
+      },
+      {
+        "category": "State, Sovereignty & Its Attributes"
+      },
+      {
+        "category": "Political Ideologies"
       },
       {
         "category": "Government Systems"
@@ -2251,13 +2257,22 @@ window.subjectsIndex = [
         "category": "Comparative & Development Politics"
       },
       {
-        "category": "Public Opinion, Parties & Pressure Groups"
+        "category": "Public Opinion, Political Parties & Pressure Groups"
       },
       {
         "category": "Local Government Systems"
       },
       {
         "category": "Public Administration & Governance"
+      },
+      {
+        "category": "International Law & Human Rights"
+      },
+      {
+        "category": "International Organizations"
+      },
+      {
+        "category": "Political Economy & Global Politics"
       }
     ]
   },
@@ -2265,38 +2280,53 @@ window.subjectsIndex = [
     "name": "Economics",
     "icon": "fa-coins",
     "slug": "economics",
-    "topicCount": 10,
-    "mcqCount": 2865,
+    "topicCount": 15,
+    "mcqCount": 10323,
     "subcategories": [
       {
-        "category": "Introduction to Economics & Basic Concepts"
+        "category": "Microeconomics: Basic Concepts, Demand & Supply"
       },
       {
-        "category": "Microeconomics - Demand & Supply"
+        "category": "Microeconomics: Consumer Behavior & Utility Analysis"
       },
       {
-        "category": "Microeconomics - Consumer & Producer Behavior"
+        "category": "Microeconomics: Theory of Production & Costs"
       },
       {
-        "category": "Macroeconomics - National Income & Output"
+        "category": "Microeconomics: Market Structures & Pricing"
       },
       {
-        "category": "Macroeconomics - Inflation, Unemployment & Policies"
+        "category": "Macroeconomics: National Income & Output"
       },
       {
-        "category": "Public Finance & Taxation"
+        "category": "Macroeconomics: Inflation, Unemployment & Business Cycles"
       },
       {
-        "category": "International Economics & Trade"
+        "category": "Macroeconomics: Monetary Policy & Banking System"
       },
       {
-        "category": "Development Economics"
+        "category": "Macroeconomics: Fiscal Policy & Public Finance"
       },
       {
-        "category": "Economy of Pakistan"
+        "category": "International Economics: Trade Theories & Policies"
       },
       {
-        "category": "Islamic Economic System"
+        "category": "International Finance & Exchange Rates"
+      },
+      {
+        "category": "Economic Development & Growth Models"
+      },
+      {
+        "category": "Agricultural & Industrial Economics"
+      },
+      {
+        "category": "Economy of Pakistan: Issues & Challenges"
+      },
+      {
+        "category": "Islamic Economic System & Finance"
+      },
+      {
+        "category": "Quantitative Economics & Basic Statistics"
       }
     ]
   },
