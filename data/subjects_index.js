@@ -1990,7 +1990,7 @@ window.subjectsIndex = [
     "icon": "fa-bridge",
     "slug": "civil-engineering",
     "topicCount": 15,
-    "mcqCount": 150,
+    "mcqCount": 7650,
     "subcategories": [
       {
         "category": "Engineering Mechanics"
