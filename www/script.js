@@ -62,11 +62,21 @@ async function ensureSubjectLoaded(slug) {
         if (window.DBStore) {
             const cachedData = await window.DBStore.getSubject(slug);
             if (cachedData) {
-                window[varName] = cachedData;
-                window.loadedSubjects[slug] = cachedData;
-                preCleanAllData([cachedData]); // Clean names just in case
-                if (loadingOverlay) loadingOverlay.classList.add('hidden');
-                return cachedData;
+                // Validate cached data - reject if category names are undefined/null
+                const hasValidNames = cachedData.subcategories &&
+                    cachedData.subcategories.length > 0 &&
+                    cachedData.subcategories.every(c => c.name && c.name !== 'undefined' && c.name !== 'null');
+                if (hasValidNames) {
+                    window[varName] = cachedData;
+                    window.loadedSubjects[slug] = cachedData;
+                    preCleanAllData([cachedData]);
+                    if (loadingOverlay) loadingOverlay.classList.add('hidden');
+                    return cachedData;
+                } else {
+                    // Stale/corrupt cache — delete it and reload from file
+                    console.warn('[Cache] Stale data detected for', slug, '— clearing cache.');
+                    await window.DBStore.clearCache();
+                }
             }
         }
 
