@@ -1728,8 +1728,8 @@ window.subjectsIndex = [
     "name": "International Laws",
     "icon": "fa-scale-balanced",
     "slug": "international-laws",
-    "topicCount": 15,
-    "mcqCount": 476,
+    "topicCount": 20,
+    "mcqCount": 10476,
     "subcategories": [
       {
         "category": "Nature and Sources of Law"
@@ -1775,6 +1775,21 @@ window.subjectsIndex = [
       },
       {
         "category": "Air and Space Law"
+      },
+      {
+        "category": "International Criminal Court (ICC) & Tribunals"
+      },
+      {
+        "category": "International Trade & WTO Law"
+      },
+      {
+        "category": "International Law and Municipal Law"
+      },
+      {
+        "category": "State Succession & Sovereignty"
+      },
+      {
+        "category": "Conflict of Laws (Private International Law)"
       }
     ]
   },
