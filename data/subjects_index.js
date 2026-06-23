@@ -1936,7 +1936,7 @@ window.subjectsIndex = [
     "icon": "fa-bolt-lightning",
     "slug": "electrical-engineering",
     "topicCount": 15,
-    "mcqCount": 150,
+    "mcqCount": 7650,
     "subcategories": [
       {
         "category": "Basic Electrical Engineering"
