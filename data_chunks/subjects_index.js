@@ -2575,5 +2575,113 @@ window.subjectsIndex = [
         "category": "Photojournalism & Visual Communication"
       }
     ]
+  },
+  {
+    "name": "English Literature",
+    "icon": "fa-book-open-reader",
+    "slug": "english-literature",
+    "topicCount": 15,
+    "mcqCount": 8421,
+    "subcategories": [
+      {
+        "category": "Old & Middle English Literature"
+      },
+      {
+        "category": "Elizabethan, Jacobean & Caroline Ages"
+      },
+      {
+        "category": "Puritan & Restoration Age"
+      },
+      {
+        "category": "Neoclassical & Augustan Age"
+      },
+      {
+        "category": "The Romantic Age"
+      },
+      {
+        "category": "The Victorian Age"
+      },
+      {
+        "category": "Modern & Post-Modern Literature"
+      },
+      {
+        "category": "American Literature"
+      },
+      {
+        "category": "Post-Colonial & Commonwealth Literature"
+      },
+      {
+        "category": "Classical Greek & Roman Literature"
+      },
+      {
+        "category": "European & World Literature"
+      },
+      {
+        "category": "Linguistics & History of English Language"
+      },
+      {
+        "category": "Literary Theory & Criticism"
+      },
+      {
+        "category": "Literary Devices, Terms & Genres"
+      },
+      {
+        "category": "Non-British Drama & Poetry"
+      }
+    ]
+  },
+  {
+    "name": "Psychology",
+    "icon": "fa-brain",
+    "slug": "psychology",
+    "topicCount": 15,
+    "mcqCount": 8380,
+    "subcategories": [
+      {
+        "category": "Introduction to Psychology & History"
+      },
+      {
+        "category": "Research Methods & Statistics in Psychology"
+      },
+      {
+        "category": "Biological Basis of Behavior (Biopsychology)"
+      },
+      {
+        "category": "Sensation & Perception"
+      },
+      {
+        "category": "States of Consciousness"
+      },
+      {
+        "category": "Learning & Conditioning (Behaviorism)"
+      },
+      {
+        "category": "Memory & Cognition"
+      },
+      {
+        "category": "Motivation & Emotion"
+      },
+      {
+        "category": "Developmental Psychology (Lifespan)"
+      },
+      {
+        "category": "Personality Theories & Assessment"
+      },
+      {
+        "category": "Social Psychology"
+      },
+      {
+        "category": "Psychological Disorders (Abnormal Psychology)"
+      },
+      {
+        "category": "Clinical Psychology & Therapies"
+      },
+      {
+        "category": "Cognitive Psychology & Intelligence"
+      },
+      {
+        "category": "Industrial & Organizational Psychology (I/O)"
+      }
+    ]
   }
 ];
