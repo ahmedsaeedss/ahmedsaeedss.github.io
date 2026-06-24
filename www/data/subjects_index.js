@@ -2158,7 +2158,7 @@ window.subjectsIndex = [
     "icon": "fa-laptop-code",
     "slug": "software-engineering",
     "topicCount": 20,
-    "mcqCount": 20150,
+    "mcqCount": 10150,
     "subcategories": [
       {
         "category": "SDLC & Process Models"
